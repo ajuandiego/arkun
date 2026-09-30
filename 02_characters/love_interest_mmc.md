@@ -30,12 +30,20 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 > *"I am not a man; I am an execution protocol in armor. If I feel anything beyond duty, the cage snaps shut and burns my mind to ash."*
 
 ### The Internal Want vs. Need
-*   **What He Wants:** Relief from the unrelenting, blinding neuro-pain radiating from his failing Synapse Lattice; to complete his missions without succumbing to madness.
-*   **What He Needs:** To break his chains, reclaim his stolen humanity, and surrender his terrifying control to someone who sees the man beneath the monster.
+*   **What He Wants:** Elimination of the paralyzing neuro-pain; the restoration of mental sovereignty and basic physical survival in a world designed to burn him out.
+*   **What He Needs:** To channel his terrifying power not for corporate overlords who treat him as expendable meat, but alongside an equal partner who anchors his humanity and shares the burden of survival.
 
 ---
 
-## 4. Combat Profile & Lethal Capabilities
+## 4. The Male Biotype (Altered) & Natural Survival Skillset
+*   **Kinetic Force & Defensive Mass:** Extreme muscular torque, bone density that survives catastrophic falls, and the physical power to clear wreckage, fortify defensive perimeters, and neutralize heavy threats.
+*   **Thermodynamic Furnace (104°F Core Heat):** In the sub-zero nights of the radioactive wastes and during winter toxic storms, his natural hyper-thermic metabolism acts as a vital heat engine, preventing hypothermia for both of them.
+*   **Apex Sensory Sentinel:** Avian-augmented senses (tetrachromatic sight, thermal vision, micro-acoustic hearing) that detect structural collapse, toxic gas plumes, and approaching drones miles before radar registers them.
+*   **Pragmatic Instinct:** Zero patience for bureaucratic nonsense, political slogans, or unnecessary bloodshed. Once his conditioning breaks, his mission parameters simplify to a single absolute truth: **keep the two of them breathing, whatever the cost.**
+
+---
+
+## 5. Combat Profile & Lethal Capabilities
 *   **Apex Aerial Combatant:** Seamless neural symbiosis with his Roc-class interceptor. On foot, his reaction times are six times faster than an unaugmented human.
 *   **Brutal Precision:** He does not waste energy on flashy cruelty; his combat style is ruthlessly economical. Every strike is a terminal disabling move.
 *   **Vulnerability:**

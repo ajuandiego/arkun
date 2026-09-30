@@ -30,12 +30,20 @@ When Vesper was 17, her father—a chief engineer on the initial Green Dome atmo
 > *"Attachment is a death sentence. Anyone who offers protection is either buying your compliance or preparing your slaughter."*
 
 ### The Internal Want vs. Need
-*   **What She Wants:** To strike a fatal blow against the Consortium, bring down the atmospheric shields of Eden, and make the elites choke on the same poisoned air as the rest of humanity.
-*   **What She Needs:** To realize that survival without genuine trust and love is just another form of slow extinction; to reclaim her capacity for intimacy without fearing it will destroy her autonomy.
+*   **What She Wants:** Pragmatic biological survival: to secure clean, un-tampered air and resources for herself and her community, rejecting all political slogans and false promises.
+*   **What She Needs:** To recognize that survival alone is not living; that allying her skills with a capable partner does not compromise her sovereignty, but doubles their chances of endurance.
 
 ---
 
-## 4. Skills, Abilities & Quirks
+## 4. The Female Biotype & Natural Survival Skillset
+*   **Bio-Molecular & Genetic Dexterity:** Exceptional pattern-recognition and micro-dexterity. Where blunt force fails, her understanding of molecular code, viral delivery, and bio-synthesis solves the fatal equations.
+*   **The Null-Resonance Factor:** Her unique cellular biotype emits a natural electromagnetic dampening frequency that neutralizes synthetic alien signals.
+*   **Resource Efficiency & Environmental Adaptability:** High metabolic endurance under nutrient scarcity, sharp peripheral hazard assessment, and lethal precision using lightweight, asymmetric tools (toxins, neuro-disruptors, flechettes).
+*   **Common-Sense Realism:** She wastes zero energy on ideological lecturing, moral posturing, or grudges. When faced with an apex predator, she doesn't whine or posture; she calculates odds, looks for leverage, and operates with cold rationality.
+
+---
+
+## 5. Skills, Abilities & Quirks
 *   **Neural & Genetic Decryption:** A prodigy at deciphering the hybrid Vaelen bio-code. She understands the biological architecture of the Synapse Lattice better than its human corporate designers.
 *   **Asymmetric Combat:** Not a heavy brute; relies on poisoned flechettes, neuro-disruptor grenades, close-quarters blade work, and using the toxic environment as a weapon.
 *   **Habitual Quirks:**

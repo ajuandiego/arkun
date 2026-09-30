@@ -51,3 +51,14 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 | **2 – 10 meters** | Mild baseline static, manageable combat state. | Hyper-awareness of each other's position; constant tracking glances. |
 | **10 – 50 meters (1 hr+)** | High fever, micro-seizures in fingers/claws, blurred vision. | Paranoia, irritability, irrational urge to close the distance. |
 | **Out of Range (4 hrs+)** | Full lattice collapse, hallucinations, violent homicidal rage. | Desperation, phantom ache, physical chest tightness in FMC. |
+
+---
+
+## 4. Functional Biotype Synergy: Survival Above Drama
+
+*   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
+*   **The Complementary Survival Unit:**
+    *   **The Male Biotype (Altered):** Delivers kinetic shielding, environmental perimeter defense, physical heavy labor, and life-saving hyper-thermic warmth (104°F) during freezing waste nights.
+    *   **The Female Biotype (Natural/Resonant):** Delivers biochemical decryption, neural signal stabilization, fine-motor micro-repairs, metabolic endurance, and strategic systems analysis.
+*   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which ignites into feral, all-consuming passion.
+

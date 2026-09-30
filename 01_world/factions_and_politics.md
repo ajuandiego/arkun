@@ -61,3 +61,15 @@
 ```
 
 *   **The Secret Alignment:** The Griffin Commander and the FMC (Null-Circuit) realize they share a single common enemy: the architects of the Synapse Cage and the extinction protocol.
+
+---
+
+## 6. The Death of Ideology: Pure Survival Pragmatism
+
+*   **No Political Preaching:** In 2050, the endless cultural and political debates of the early 21st century are treated as ancient, irrelevant noise. When the atmosphere fails, rhetoric cannot filter nitrogen, and political manifestos cannot feed starving lungs.
+*   **The Shared Perspective:** Both leads share a razor-sharp common-sense realism. 
+    *   Neither is an ideologue or a crusader.
+    *   They don't fight for a political party, a moral theory, or a flag.
+    *   They recognize that the Consortium and the Resistance are merely organizations run by flawed humans trying to secure resources.
+*   **The Core Rule:** The narrative never moralizes or takes ideological sides. Every action taken by both protagonists is evaluated through a single, cold, rational filter: **does this keep us alive for the next twenty-four hours?**
+
