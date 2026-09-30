@@ -26,6 +26,7 @@ The sprawling expanse of collapsed 21st-century urban ruins outside the dome wal
 *   **Sensory Profile:**
     *   *Scent:* Acrid sulfur, burnt plastic, wet rust, and the hot copper taste of airborne dust caught on the back of the throat.
     *   *Sound:* The whistling howl of glass winds slicing through rusted steel frames; the coughs of workers suffering from the Choke; the heavy, rhythmic thud of Consortium patrol drones overhead.
+    *   *The Feral Dread (The Raptor Factor):* Packs of wild, bio-synthetic **Dromaeons** (feathered velociraptor chimeras) prowl the concrete ruins at dusk. The terrifying, rhythmic *tap-tap-click* of their sickle claws on corrugated metal flooring and their chilling sub-vocal bird-like hunting chirps signal an impending pack ambush.
 
 ---
 

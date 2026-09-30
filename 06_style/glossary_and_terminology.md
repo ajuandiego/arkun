@@ -22,12 +22,29 @@
 *   **Roc-Class Interceptor:** A living, bio-engineered atmospheric fighter craft flown via direct neural coupling with a Griffin pilot.
 *   **The Silver Spine (Synapse Lattice):** The organic extraterrestrial cyber-neural network grafted along the brainstem and spinal cord that enforces obedience and emotional dampening.
 *   **Null-Resonator:** The rare genetic mutation found in Vesper Thorne that naturally dampens Vaelen quantum-synthetic frequencies.
+*   **Arkun:** The signature epigenetic ability unlocked when a chimeric soldier's **Strain Chart (Genetics)** fuses with their **True Character (Core Psychological Drive)**. Arkuns represent human individuality violently breaking through alien genetic conditioning.
+*   **Biological Tether (Voluntary Synergy):** The high-reward symbiotic resonance between a Null-Resonator and a Chimeric Lattice user, stabilizing cellular decay, multiplying reflex speeds, and enabling bidirectional sensory overlay without artificial radius limits.
 
 ---
 
-## 3. The Vaelen Ascendancy & Corporate Lexicon
+## 3. Chimeric Strains & Ancient Mythical Lineages
 
-*   **Archon:** A high-ranking Vaelen overseer possessing supreme authority over planetary terraforming and species arbitration.
+*   **The Five Mythical Lineages:** Ancient apex organisms engineered by early Vaelen expeditions in Earth's prehistoric epochs, whose fossilized genetic blueprints were excavated by modern megacorporations:
+    *   **Gryphon Strain:** Avian/pantherine apex predators of the skies (nanocarbon talons, hollow-bone density, visual acuity, Vector-Blink Arkun).
+    *   **Dromaeon Strain (The Scythe-Stalker):** Velociraptor-inspired hyper-agile pack hunters (retractable pedal sickle-claws, 50+ mph bursts, acoustic sub-vocal clicks, Quantic Chrono-Dilation Arkun).
+    *   **Lindwurm Strain:** Draconic/basilisk heavy shock organisms (dermal stone-scales, toxic resistance, Kinetic Tremor-Wave Arkun).
+    *   **Simurgh Strain:** Avian cellular regenerators (accelerated mitochondrial repair, Cellular Reversion Arkun).
+    *   **Fenris Strain:** Terrestrial pack predators (musculoskeletal crushing torque, heightened olfaction, pack-link frenzy Arkun).
+
+---
+
+## 4. The Vaelen Ascendancy & Infiltration Lexicon
+
+*   **Archon:** A high-ranking Vaelen overseer possessing supreme authority over planetary terraforming and species arbitration (e.g., Archon Xaevis).
+*   **Arbiter:** A Vaelen judicial/scientific overseer; notably Arbiter Lyraen, leader of the dissident Preserver movement.
+*   **Simulacrum (Weaver-Unit):** A deep-cover alien infiltration agent sheathed in cloned, lab-grown human dermis, bone, and organs, piloted by a subterranean Vaelen neuro-slug. Identified only by un-dilating pupils, cold body temperature, and violet oxidation in blood under UV light.
+*   **The Harvesters:** The dominant Vaelen faction advocating for 100% atmospheric conversion, baseline human extinction, and reducing humanity to frozen genetic substrate.
+*   **The Preservers (The Harmonists):** The dissident Vaelen faction who recognize that alien genetic stagnation requires wild human genetic diversity to survive.
 *   **Chrysalis Treatment:** The exorbitantly expensive genetic therapy sold by the Vaelen to human oligarchs, arresting biological cellular aging for decades.
 *   **Substrate:** The Vaelen philosophical term for primitive planetary biomass (including baseline humans) destined to be broken down and reconstituted.
 *   **Terra-Pylons:** Monumental biomechanical spires sunk deep into the planetary crust that inject alien aerosols and terraforming catalysts into the atmosphere.

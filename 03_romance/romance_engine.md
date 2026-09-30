@@ -24,33 +24,33 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 *   **The Sensation:** An instantaneous cessation of white noise. For the first time in ten years, the screaming static in Kaelen’s skull ceases. He freezes, pupil dilation blown wide, disoriented by total silence.
 *   **Her Realization:** She sees the monstrous, untouchable commander shudder, gasp, and look at her not like prey, but like a dying man who just found an oasis.
 
-### Stage 2: Forced Vicinity (The Radius Rule)
-*   **The Rule:** If they are separated by more than 15 meters, the dampening effect degrades within 30 minutes. If separated for more than 4 hours, Kaelen's motor control deteriorates, causing fever spikes (106°F+), blinding migraines, and violent involuntary tremors.
-*   **The Plot Justification:** He cannot lock her in a distant cell. He must keep her chained in his private quarters, riding beside him in the two-seat cockpit of his interceptor, or physically tethered to his wrist.
+### Stage 2: Tactical Proximity & Mutual Utility
+*   **The Reality:** Kaelen does *not* instantly collapse if she walks away. He has lived with chronic lattice burn for years. But experiencing her dampening effect showed him what true cognitive clarity and peak operational capacity feel like.
+*   **The Choice:** He doesn't cage her as an invalid or put a leash on her wrist. Instead, they recognize that staying in operational proximity makes them virtually unkillable: she grounds his chronic neural strain, and he provides heavy kinetic shielding and mobility she desperately needs.
+*   **The Friction:** Two prideful, highly capable survivors choosing to share physical space and watch each other's backs because common sense dictates that solo survival is a statistical dead end.
 
-### Stage 3: Intentional Skin-to-Skin (The Vulnerability Shift)
-*   **The Escalation:** Vicinity is no longer enough as the Vaelen increase the tracking signal. To suppress an impending seizure, Kaelen requires direct, bare skin contact—her palm over his heart, her fingers tangled in his hair, her breath against his neck.
-*   **The Dynamic:** He must beg—or command with hollow bravado—the one person who despises him to touch him. Vesper discovers that this seven-foot killing machine is completely at her mercy whenever she rests her hands on him.
+### Stage 3: Intentional Calibration (The Vulnerability Shift)
+*   **The Escalation:** When pushing their special abilities to the absolute limit in combat (e.g. Quantic Dilation or high-stress Memory Inception), the biological rebound is severe. Direct physical contact acts as an instant grounding wire.
+*   **The Dynamic:** Physical contact shifts from an accidental shock into deliberate, mutual triage—her hands on his temple to clear temporal vertigo, his arms around her to warm her during metabolic exhaustion after cellular healing.
 
 ### Stage 4: Neuro-Synchronization (The Mirror Effect)
-*   **The Deepening:** As their biologies remain intertwined during their flight across the wasteland, the resonance begins flowing both ways.
-*   Vesper begins sensing his adrenaline spikes before they occur; Kaelen can feel her pulse quicken across the room.
-*   His predatory territorial instincts hyper-focus on her survival. When she is wounded or in distress, his chimeric claws unsheathe autonomously.
+*   **The Deepening:** As their biologies remain aligned through repeated survival crises, their tactical timing becomes eerily flawless.
+*   They anticipate each other's tactical moves without speaking; his predatory senses cover her blind spots, while her biological intuition warns him before his systems overheat.
+*   The partnership evolves from cold utility into absolute, unspoken trust.
 
 ### Stage 5: Consummation & Genetic Re-Writing (The Permanent Break)
 *   **The Climax:** Full physical and emotional intimacy triggers an irreversible retroviral exchange. Her genetic markers permanently bind to the synthetic lattice, purging the Vaelen backdoor protocol forever.
-*   **The Emotional Shift:** The biological dependency transforms into a conscious, irrevocable devotion. He is no longer tethered because he *needs* her to survive; he stays because his universe has narrowed to her alone.
+*   **The Emotional Shift:** The alliance of utility transforms into irrevocable devotion. They are together not because physics or biology forces their hand, but because having found an equal in a dying world, neither will ever accept surviving alone again.
 
 ---
 
-## 3. The Rules & Withdrawal Penalties
+## 3. Proximity & Operational Synergy Profiles
 
-| Distance / Time Apart | Physical Effect on Kaelen | Emotional State of Both |
+| Operational Proximity | Effect on Abilities & Biometrics | Tactical & Psychological Dynamic |
 | :--- | :--- | :--- |
-| **0 – 1 meter (Touching)** | Absolute calm, optimal cellular repair, zero neuro-pain. | Intense magnetic awareness, breathlessness, sensory overload. |
-| **2 – 10 meters** | Mild baseline static, manageable combat state. | Hyper-awareness of each other's position; constant tracking glances. |
-| **10 – 50 meters (1 hr+)** | High fever, micro-seizures in fingers/claws, blurred vision. | Paranoia, irritability, irrational urge to close the distance. |
-| **Out of Range (4 hrs+)** | Full lattice collapse, hallucinations, violent homicidal rage. | Desperation, phantom ache, physical chest tightness in FMC. |
+| **Direct Contact (Skin-to-Skin)** | Optimal equilibrium. Grounding of quantum temporal strain; instant relief from lattice burn; rapid cellular stabilization. | Intense sensory awareness, complete cognitive clarity, zero energy waste. |
+| **Close Tactical Range (1 – 15m)** | Steady ambient dampening active; high operational coordination; abilities can be pushed with minimal feedback. | Seamless combat synergy, mutual blind-spot coverage, mutual reassurance. |
+| **Separated / Solo Operations** | Baseline functioning. Kaelen endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---
 

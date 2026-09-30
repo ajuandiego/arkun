@@ -60,9 +60,10 @@
 
 ### PART III: THE RUST HAVEN (Chapters 13–18)
 
-*   **Chapter 13 (Vesper): Wreckage and Fever**
-    *   *Setting:* The scorched impact crater.
-    *   *Core Action:* Kaelen is gravely wounded and burning with a 106°F fever. Vesper has the chance to take the data drive and abandon him. Instead, she drags his massive body out of the burning hull into a subterranean drainage pipe.
+*   **Chapter 13 (Vesper): Wreckage, Fever & The Stalkers**
+    *   *Setting:* The scorched impact crater inside an abandoned freight terminal.
+    *   *Core Action (Jurassic Park Homage):* The crash draws a pack of feral **Dromaeons** (feathered velociraptor chimeras) hunting in the ruins. With Kaelen semi-conscious and burning with a 106°F fever, Vesper must use chemical flares, sound distractions, and pure stealth to maneuver his heavy frame through industrial corridors while sickle-claws click on the metal floor inches away.
+    *   *Climax of Scene:* An alpha raptor corners them in a storage bay; Kaelen’s instincts jolt him awake just in time to snap the beast's neck with his bare nanocarbon claws before they seal the subterranean blast doors shut.
 *   **Chapter 14 (Kaelen): Touch-Starved Delirium**
     *   *Setting:* A buried subway maintenance room.
     *   *Romance Beat:* Delirious from blood loss and lattice feedback, Kaelen clings to her hands, pulling her against his chest, murmuring broken apologies in an archaic dialect. Vesper stays with him through the night, holding him.
@@ -76,9 +77,10 @@
 *   **Chapter 17 (Vesper): The Null-Bunker**
     *   *Setting:* The subterranean rebel headquarters.
     *   *Core Action:* They reach Vesper's cell. Doc Mercer and the rebels pull weapons on Kaelen. Vesper steps between them, declaring that Kaelen is her protector and the key to breaking the entire regime.
-*   **Chapter 18 (Kaelen): The Decryption**
+*   **Chapter 18 (Kaelen): The Decryption & The Subtle Tell**
     *   *Setting:* The rebel medical laboratory.
     *   *Core Action:* Vesper draws her own blood and interfaces it with Kaelen’s extracted neural port fluid. She discovers the biological formula that can inoculate humanity and permanently break the Vaelen lattice.
+    *   *Foreshadowing:* Doc Mercer oversees the synthesis with intense, calculating focus. When Vesper accidentally cuts his forearm with a shard of broken glass, she notices his blood has a strange violet iridescence under the lab’s UV sterilizer lamp before he quickly wipes it away.
 
 ---
 
@@ -87,9 +89,10 @@
 *   **Chapter 19 (Vesper): The Eve of War**
     *   *Setting:* The observation dome above the rebel bunker.
     *   *Romance Beat (🌶️🌶️🌶️🌶️):* The night before the assault. The vulnerability between them turns into full physical consummation—tender, ferocious, and deeply emotional. His chimeric claws caress her skin with reverence; her touch purges the lingering poison from his mind.
-*   **Chapter 20 (Kaelen): The Sacrifice**
-    *   *Setting:* The perimeter of the rebel base.
-    *   *Core Action:* Consortium gunships launch a surprise air raid. Kaelen realizes the bunker will be carpet-bombed unless a high-value target lures the fleet away. He surrenders himself to buy Vesper time to synthesize the aerosol cure.
+*   **Chapter 20 (Dual POV): The Simulacrum Betrayal & The Sacrifice**
+    *   *Setting:* The subterranean rebel bunker under orbital bombardment.
+    *   *The Twist Revealed:* Consortium gunships breach the bunker ceiling. Vesper runs to evacuate Doc Mercer, only to find him standing in thick toxic smoke without his respirator on. His mechanical lung ceases its artificial clicking; his pupils fracture into alien concentric rings. He reveals his true identity as a Vaelen Simulacrum (*Weaver-Unit 09*) who groomed Vesper’s rebel cell to incubate the cure for the Spire.
+    *   *The Climax of the Chapter:* Mercer attempts to secure Vesper and the cure. Kaelen intercepts Mercer in a ferocious, bone-shattering brawl. To ensure Vesper and the young courier Ren escape with the synthesized cure, Kaelen holds the extraction corridor alone and allows himself to be captured by Consortium enforcers.
 *   **Chapter 21 (Vesper): The Rescue**
     *   *Setting:* Infiltrating Eden Dome Alpha’s Central Spire.
     *   *Core Action:* Vesper refuses to let him die. Armed with aerosolized cure canisters and backed by the Dustborn rebels, she leads an assault straight into the heart of the Dome.

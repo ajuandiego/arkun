@@ -1,66 +1,90 @@
 # Factions & Politics: The Broken Hegemony
 
-## 1. The Vaelen Ascendancy (The Architects)
+## 1. The Vaelen Ascendancy & The Internal Schism
 
 *   **Nature & Physiology:** An ancient extraterrestrial species possessing an elongated bipedal physiology, translucent alabaster skin webbed with faint bioluminescent circulatory pathways, and pitch-black, lidless multi-faceted eyes. They communicate via harmonic vocal pulses and high-bandwidth synaptic neuro-projections.
+*   **The Internal Civil Cold War:** The Vaelen are locked in a quiet, deadly philosophical and biological split regarding the fate of humanity:
+
+### 1.1 The Harvester Hegemony (The Rulers)
 *   **Ideology:** **Biological Transcendence through Cold Optimization.** They view emotions, cultural attachment, and individuality as systemic entropy. To them, species are either *Cultivators* or *Substrate*.
-*   **Key Figures:**
-    *   **Archon Xaevis:** The Vaelen High Overseer on Earth. Polite, serene, utterly devoid of mercy. He treats humanity like a fungal culture whose growth parameters require chemical pruning.
-    *   **The Gene-Weavers:** The clerical-scientific caste responsible for harvesting Earth species and re-architecting planetary lifeforms.
-*   **Political Lever:** Absolute monopoly over atmospheric scrubbers, anti-aging serum (*Nectar-09*), and quantum bio-computational wetware.
+*   **Leader — Archon Xaevis:** The Vaelen High Overseer on Earth. Polite, serene, utterly devoid of mercy. He treats humanity like a fungal culture whose growth parameters require chemical pruning.
+*   **Objective:** Accelerate atmospheric terraforming to 100%, eliminate baseline humanity, and reduce the surviving human gene pool to frozen embryonic stock inside the Spire vats.
+
+### 1.2 The Preservers / Harmonists (The Dissident Faction & Human Ally)
+*   **Ideology:** **Evolutionary Symbiosis.** They argue that genetic monoculture and the suppression of emotional neurochemistry is the exact disease that is causing the Vaelen to die out. To destroy humanity is to destroy the only genetic key capable of saving the Vaelen race.
+*   **Key Figure & Alien Ally — Arbiter Lyraen (The Renegade Weaver):**
+    *   *Role:* High Geneticist of the Spire and one of the original architects of the modern Synapse Lattice.
+    *   *The Secret Sabotage:* Lyraen deliberately engineered the "decay glitch" and left an encrypted biological backdoor in the Synapse Lattice—anticipating that a human with a dampening mutation (Vesper) would eventually emerge to unlock it.
+    *   *Why Lyraen Needs Humans:* Bound by the Spire's telepathic-neural consensus, open dissent would mean instant synaptic execution. Lyraen needs autonomous, off-grid field operatives (Vesper and Kaelen) to sabotage the terra-pylons from the ground, covertly feeding them access codes, medical blueprints, and orbital telemetry.
+*   **Political Lever:** Control over deep planetary research vaults, ancient chimeric records, and atmospheric filtration overrides.
+
+
+## 2. The Consortium of Eden (The Corporate Hegemony)
+
+*   **Structure:** A corporate-technocratic triumvirate governing the Green Domes. The human elite traded planetary sovereignty and 90% of Earth’s population for permanent biological youth, climate-shielded biomes, and corporate dominion over the remnants of civilization.
+*   **The Archeo-Genetic Monopolies (Strain Patents):** The megacorporations do not merely manufacture equipment; they hold proprietary patents over the ancient Vaelen beast genomes excavated from pre-collapse cradles:
+    *   **Apex GeneSys:** Proprietary owners of the **Gryphon Strain** (Aeros-Legion) and the **Simurgh Strain** (regenerative medicine / Chrysalis therapy). Headed by Director Elena Corvus.
+    *   **Aethelgard Security:** Paramilitary conglomerate holding patents over the **Lindwurm Strain** (heavy stone-armored infantry) and the **Fenris Strain** (urban pacification shock-troops).
+    *   **Vanguard Atmospheric:** Controls the **Dromaeon Strain** (rapid ground tracker-killers) alongside barrier dome engineering, air scrubbers, and weather control fields.
+*   **Corporate Cold Wars & Paranoia:**
+    *   The three conglomerates constantly run clandestine black-ops against each other in the Gray Sectors to steal raw genetic blueprints and sabotage rival bio-vats.
+    *   *The Looming Obsolescence Dread:* As the 14-month extinction clock accelerates, human executives are beginning to realize that the Vaelen view them as disposable farm managers. Rumors that high-ranking corporate directors have been replaced by alien Simulacra fuel internal terror.
 
 ---
 
-## 2. The Consortium of Eden (The Human Oligarchy)
+## 3. The Chimeric Military Divisions: Pack Politics & The Arkun Threat
 
-*   **Structure:** A corporate-technocratic triumvirate governing the Green Domes. The human elite traded sovereignty and 90% of Earth’s population for permanent youth, climate shields, and absolute dominion over the remnants of civilization.
-*   **Key Corporations:**
-    *   **Apex GeneSys:** Monopolizes synthetic biology, reproductive licensing inside the Domes, and the development of the Griffin chimeric soldier programs.
-    *   **Vanguard Atmospheric:** Operates the barrier domes, air scrubbing, and weather control fields.
-    *   **Aethelgard Security:** The paramilitary arm overseeing urban pacification and gray-sector boundary enforcement.
-*   **Internal Dynamic:** Treacherous, paranoiac, and decaying. While the public facade shows human-alien harmony, consortium oligarchs secretly suspect the Vaelen will purge them the second the terraforming reaches 100%.
+The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
----
-
-## 3. Aeros-Legion 7 ("The Griffin Corps")
-
-*   **Role:** The undisputed apex predators of the skies. An elite corps of biologically re-engineered chimeric supersoldiers, deployed to enforce planetary order, terminate gray-sector insurrections, and secure terra-pylon perimeters.
-*   **Command Structure:**
-    *   **The Supreme Commander (Male Lead):** Cold, calculating, undefeated. Given operational autonomy because his combat efficiency ratio is unmatched.
-    *   **Flight Commanders & Wingmen:** The squad operates with wolfpack-like lethal coordination and avian territorial instincts.
-*   **The Leash (The Synapse Cage):** They do not fight for honor or corporate patriotism; their minds are governed by an organic neuro-lattice implanted in their brainstems. Disobedience triggers instant agonizing neuro-shocks, sensory blinding, or cerebral hemorrhaging.
-*   **Cultural Identity:** Stripped of family names, given designations and callsigns. Among themselves, they harbor a savage, tight-knit camaraderie. They know they are disposable monsters feared by the humans inside the Domes and viewed as dogs by the Vaelen.
+*   **The Four Main Chimeric Divisions:**
+    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Kaelen Voss):** The aristocratic apex predators of the skies. They pilot Roc-interceptors and view themselves as the ultimate military instrument.
+    2.  **The Dromaeon Stalkers (Raptor Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
+    3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms.
+    4.  **The Fenris Shock-Cohorts (Chimera Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
+*   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas.
+*   **Pack Loyalty vs. The Corporate Leash:**
+    *   Soldiers are stripped of family names and conditioned via the Vaelen Synapse Lattice, but they share a feral, tight-knit camaraderie. They do not die for corporate profits; they die for their **Flight Commanders and Strain Packs**.
+    *   *The Consortium's Nightmare (The Arkun Awakening):* If a soldier's **True Character** unlocks an uncontrolled Arkun, the Synapse Lattice can be overwhelmed. Corporate commanders live in constant fear of a chimeric mutiny led by an undefeated apex commander like Kaelen Voss.
 
 ---
 
-## 4. The Dustborn Resistance (The Gray Underground)
+## 4. The Dustborn Resistance (The Managed Petri Dish)
 
-*   **Territory:** The ruined, half-buried mega-cities and subterranean maintenance tunnels of the Gray Sectors.
-*   **Factions Within the Underground:**
-    1.  **The Null-Circuit (The Protagonist’s Network):** Intellectual, field-operative network composed of rogue scientists, former engineers, and data runners. Their goal is asymmetric biological warfare and reverse-engineering alien tech to break the Domes.
-    2.  **The Iron Scavengers:** Militant, tribal raiders who ambush Consortium resource convoys for water, respirators, and fuel.
-    3.  **The Zealots of Terra:** A radical, semi-religious faction that believes both the aliens and all modified humans (including the Griffins) must be purged to cleanse the Earth.
-*   **Current State:** Fragmented, running low on ammunition and clean air cartridges, on the brink of despair.
+*   **Territory:** The collapsed, half-buried mega-cities and subterranean subway networks of the Gray Sectors.
+*   **The "Curated Terrarium" Reality:**
+    *   The Null-Circuit was not an undetected underground movement. Because **Doc Aaron Mercer was a deep-cover Vaelen Simulacrum**, the Spire deliberately allowed the rebel cell to operate.
+    *   The harsh, unshielded survival conditions of the Gray Sectors were used as an evolutionary incubator to force Vesper into synthesizing the genetic cure the dying alien race required.
+*   **The Post-Betrayal Fracture (The Schism):**
+    *   When Mercer’s true nature as an alien Simulacrum is exposed in Chapter 20, the resistance fractures violently:
+        1.  **The Zealots of Terra:** Hardline human purists who declare that all modified biology—including chimeric supersoldiers like Kaelen—must be slaughtered alongside the aliens to keep human DNA pure.
+        2.  **The Pragmatic Realists (Vesper's Network):** Baseline survivors, rogue scientists, and defecting chimeric soldiers who realize that combining un-spliced human resilience with chimeric Arkuns is the only way to disable the terra-pylons and survive.
 
 ---
 
-## 5. Web of Tensions & Conflicts
+## 5. Multi-Faction Conflict & Alignment Matrix
 
 ```
-       [ The Vaelen Ascendancy ]
-             /              \
-     Manipulates        Enslaves / Controls via Synapse Cage
-           /                  \
-          v                    v
-[ Consortium of Eden ] <===> [ Aeros-Legion 7 (Griffins) ]
-          |                    |
-     Oppresses / Purges   Hunts / Cleanses
-          |                    |
-          v                    v
-       [ The Dustborn Resistance (Null-Circuit) ]
+                      [ THE VAELEN SPIRE CITADEL ]
+                      /                          \
+         (The Harvester Hegemony)      (The Preserver Movement)
+            Archon Xaevis                  Arbiter Lyraen
+                  |                              |
+           Deploys Simulacra               Covertly Leaks
+             (Doc Mercer)                   Tech & Codes
+                  |                              |
+                  v                              v
+        [ THE CONSORTIUM OF EDEN ] <===> [ THE SURVIVAL ALLIANCE ]
+        (Apex / Aethelgard / Vanguard)      (Vesper & Kaelen)
+        • Proprietary Strain Patents             |
+        • Terrified of Obsolescence              | Sparks Chimeric Mutiny
+                  |                              v
+                  v                [ CHIMERIC REBELS & DUSTBORN ]
+        [ CHIMERIC REGIMENTS ]     • Aeros-Legion defectors
+        (Aeros / Dromaeon /        • Gray Sector Pragmatists
+         Lindwurm / Fenris)        • United by Survival, not Ideology
 ```
 
-*   **The Secret Alignment:** The Griffin Commander and the FMC (Null-Circuit) realize they share a single common enemy: the architects of the Synapse Cage and the extinction protocol.
+*   **The Ultimate Realignment:** The battle ceases to be "Aliens vs. Humans" or "Elites vs. Rebels." It becomes a desperate war waged by **all beings who choose biological survival and self-determination** against the architects of the extinction protocol.
 
 ---
 

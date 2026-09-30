@@ -51,7 +51,23 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 
 ---
 
-## 5. Romantic Dynamics & Tropes with the FMC
+## 6. Genetic Strain Chart & Arkun Manifestation
+
+The Arkun is unlocked when a soldier's biological strain chart fuses with their unconquered human soul:
+$$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
+
+*   **Genetic Strain Chart:**
+    *   **85% Gryphon Strain (Apex Aeros-Lineage):** Honeycombed titanium bone matrix, nanocarbon claws, tetrachromatic visual overclocking, barometric feathering.
+    *   **15% Lindwurm Strain (Draconic/Basilisk Reinforcement):** Dense lithodermic bone density reinforcement and extreme shock-absorption against heavy ordnance.
+*   **True Character / Core Psychological Drive:**
+    *   *The Unyielding Sentinel / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a primal, instinctive refusal to be an execution tool, coupled with an absolute, territorial imperative to protect the one soul who anchors his humanity.
+*   **Signature Arkun: Vector-Collapse (Spatial Vector-Blink)**
+    *   *Manifestation:* By compressing localized gravitational slipstreams and collapsing the spatial vector between himself and his objective, Kaelen can "blink" across 15–20 meters in a microsecond blur of feathers and ozone, or fold incoming kinetic artillery/plasma rounds harmlessly around himself and Vesper.
+    *   *Tether Synergy Amplification:* When in direct skin-to-skin resonance with Vesper's Null-Resonance, his Vector-Collapse expands into **The Kinetic Crucible**—a shimmering electromagnetic and gravitational dome that absorbs planetary atmospheric lightning and redirects it as a concussive shockwave.
+
+---
+
+## 7. Romantic Dynamics & Tropes with the FMC
 
 ### The Touch-Starved Apex Predator
 *   Because of his military role and the chilling bio-lattice, he has gone over a decade without experiencing gentle, uncalculated human physical contact. He is accustomed only to cold surgical needles, bio-ports, and violence.

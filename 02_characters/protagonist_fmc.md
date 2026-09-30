@@ -53,7 +53,23 @@ When Vesper was 17, her father—a chief engineer on the initial Green Dome atmo
 
 ---
 
-## 5. Romantic Dynamics & Friction Points with the MMC
+## 6. Genetic Lineage & Arkun Manifestation
+
+The Arkun formula applied to the pure human baseline:
+$$\text{Lineage / Chromosomal Marker} + \text{True Character (Epigenetics)} = \text{Arkun}$$
+
+*   **Genetic Chart:**
+    *   **100% Pure Human Baseline:** Un-spliced, un-tampered embryonic DNA.
+    *   **The Amber Epigenetic Anomaly (Null-Resonator):** A rare chromosomal shift induced by chronic exposure to sulfurous Amber Haze during early gestation. Her body naturally produces an electromagnetic bio-current that grounds synthetic alien frequencies.
+*   **True Character / Core Psychological Drive:**
+    *   *The Sovereign Survivor / Relentless Truth-Seeker.* An ironclad refusal to be enslaved, altered, or commodified as biomass. Her intelligence is an active survival weapon aimed at tearing open corporate lies and protecting bodily autonomy.
+*   **Signature Arkun: The Living Ground (Null-Resonance & Bio-Catalyst)**
+    *   *Null-Dampening Field:* When activated under extreme survival stress or focus, projects an invisible 5-meter bio-electromagnetic dead-zone that scrambles alien tracking beacons, disables neural-torture overrides in chimeric lattices, and permanently shields those near her from telepathic intrusion.
+    *   *Chimeric Overclock (Bio-Catalytic Touch):* Direct skin-to-skin touch with an augmented chimeric soldier doesn't merely silence their agony; it functions as an organic ground wire that unlocks their latent Arkuns, turning an unstable mutant into an unchained apex warrior.
+
+---
+
+## 7. Romantic Dynamics & Friction Points with the MMC
 *   **Initial Stance:** Utter revulsion. He represents the very boots that crushed her family; she views him as a mindless, vat-grown slaughterhouse dog.
 *   **The Turning Point:** Seeing him on his knees, tearing at his own scalp in the throes of neural lattice collapse, stripped of his invincible military aura. She touches him to interrogate him—and witnesses the instant, desperate relief flood his entire system.
 *   **The Power Dynamic:** She is half his physical mass and possesses no superhuman claws or armored skin, yet she holds absolute existential leverage over him. She will not submit to his threats, which maddens and intoxicates him.
