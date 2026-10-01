@@ -78,3 +78,17 @@
 *   **Arbiter Lyraen:** Dissident Vaelen judicial/scientific overseer and secret ally of humanity.
 *   **Archon Xaevis:** Supreme Vaelen terraforming commander and primary extraterrestrial antagonist.
 
+---
+
+## 7. The Spiritual & Cult Lexicon
+
+*   **The Enlightened:** The militant, fatalistic apocalyptic cult dominating the subterranean drainage sumps and lowest tier slums beneath the Gray Sectors. Preach that the planetary catastrophe is a divine crucible meant to forge a ruthless new species.
+*   **The Forger:** The enigmatic, emotionless High Priestess of The Enlightened. Dressed in oil-stained silica vestments and marked with keloid brand scars, she views humans strictly as raw iron ore to be heated, hammered, and sharpened through suffering.
+*   **The Crucible Doctrine:** The central theological tenet of The Enlightened—asserting that the Great Storm of 2032 was not an ecological disaster, but a holy cosmic furnace purging human vanity, moral rot, and genetic weakness.
+*   **The Apex Deliverer (The Forged One):** The messianic warrior prophesied by The Forger—a winged weapon tempered in the celestial fire of the sky whose blood boils with solar heat, destined to shatter the glass domes and lead the underclass in a cleansing holy burn.
+*   **The Brands of Tempering:** Severe ritual scarification; geometric burns branded into the forearms and napes of cult converts to prove loyalty and cauterize peripheral pain receptors.
+*   **"The Cold Serpent":** The Forger's derogatory title for Dr. Tsunari Thorne, referencing her cool reptilian lineage and Null-Resonance dampening touch, which the cult believes threatens to quench the divine rage of their Deliverer.
+*   **The Sump Veins:** The toxic, labyrinthine subterranean drainage and industrial water-reclamation conduits beneath Sector 09, monopolized by The Enlightened to enforce obedience through water tithes.
+*   **Domestic Shrines (The Quiet Faiths):** The battered, private altars maintained inside Gray Sector tenement apartments where Old-World faiths (Christianity, Islam, Judaism, Hinduism, Buddhism) survive without public clergy or formal congregations, focused on personal endurance and quiet remembrance.
+
+

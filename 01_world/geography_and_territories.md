@@ -118,7 +118,7 @@ Beyond the Gray Rings lie the **Rust Barrens**—vast, unmonitored expanses of p
 
 *   **Atmospheric Danger:** Outside the 50-mile radius of the Dome scrubbers, the Amber Haze reaches lethal concentrations. Unprotected human lungs succumb to cellular asphyxiation (*The Choke*) within 20 to 30 minutes.
 *   **The Feral Predator Territories:**
-    *   **The Raptor Hunting Grounds:** Packs of resurrected, wild-born **Dromaeons** (feathered velociraptor chimeras) dominate the open barrens. They nest inside collapsed aircraft hangars, rusted highway tunnels, and abandoned container ports, hunting in organized packs of 6 to 12.
+    *   **The Raptor Hunting Grounds:** Packs of resurrected, wild-born **Dromaeons** (pure reptilian velociraptor chimeras with pebbled leathery scales and no feathers) dominate the open barrens. They nest inside collapsed aircraft hangars, rusted highway tunnels, and abandoned container ports, hunting in organized packs of 6 to 12.
     *   **The Strangler Basins:** Subterranean sewer networks and subterranean aqueducts infested with **Obsidian Stranglers** (wire-vipers).
 *   **Terra-Pylon Seven (The Atmospheric Forge):**
     *   A colossal, 2,000-foot-tall biomechanical tower sunk deep into the bedrock of the northern wasteland, pulsing with sickening violet light every 90 seconds as it discharges alien aerosols into the jet stream.
