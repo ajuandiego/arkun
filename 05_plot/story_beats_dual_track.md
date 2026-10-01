@@ -1,9 +1,11 @@
-# Story Beats: Dual-Track Plot & Romance Architecture
+# Book 1: Dual-Track Plot & Romance Architecture
+
+> **Book 1:** *A Spark in the Rust* | **Protagonists:** Zunari & Tyage
 
 Romantasy requires the external action plot and the internal romantic progression to be inextricably linked: **every external crisis must force an escalation in their emotional or physical intimacy.**
 
 ```
-[ ACT I: THE COLLISION ]  -->  [ ACT II-A: THE CRUCIBLE ]  -->  [ ACT II-B: THE AWAKENING ]  -->  [ ACT III: THE RECKONING ]
+[ ACT I: THE COLLISION ] --> [ ACT II-A: THE CRUCIBLE ] --> [ ACT II-B: THE FERAL FRONTIER ] --> [ ACT III: THE LIVING LEDGER ]
 ```
 
 ---
@@ -49,15 +51,15 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ---
 
-## Act III: The Reckoning (Chapters 19–24)
+## Act III: The Siege of the Living Ledger (Chapters 19–24)
 
 ### External Sci-Fi Plot (A-Track)
-*   **The Betrayal & The Separation:** The Consortium locates the rebel bunker. To protect Zunari and allow her time to synthesize the aerosol cure, Tyage surrenders himself, allowing himself to be captured and dragged back to Eden Dome Alpha.
-*   **The Inversion:** Zunari leads an assault on the Dome. Instead of running, she infiltrates the High Spire to save *him*.
-*   **The Final Battle:** Archon Xaevis activates Tyage’s master kill switch. Tyage falls to the floor, his brain boiling from the lattice surge. Zunari reaches him, injecting her synthesized blood-cure into his neural port.
-*   **Liberation:** The lattice shatters. Freed from alien control, Tyage rises, rallies Aeros-Legion 7, and helps bring down the Spire's terraforming control pylons.
+*   **The Sanctuary of Glass:** Reaching Sector 09, Zunari brings Tyage to the subterranean archive of **The Glass Vault**. Chief Bio-Curator Gideon Cross reveals ancient human archaeological codices proving Tyage’s chimeric genome is thousands of years older than corporate labs.
+*   **The Synthesis:** Zunari interfaces her Null-blood with Tyage’s neural fluid in the Vault cryo-lab, successfully synthesizing the prototype localized stabilizer.
+*   **The Squad Standoff:** Aeros-Legion 7 (Cassian, Veda, Jax) tracks Tyage to the archive. Zunari inoculates Veda, instantly freezing her lattice-decay; seeing proof that freedom is real, the squadron lowers their weapons and chooses Tyage over the Consortium.
+*   **The Extermination Assault:** Consortium shock battalions and siege drills breach the outer doors to purge the Vault. Tyage, his reunited squad, Zunari, and the Curators fight back-to-back, crushing the assault.
 
 ### Internal Romance Arc (B-Track)
-*   **The Dark Night:** Believing Tyage is being wiped or executed, Zunari realizes she cannot live in a world where he is dead. Her motivation shifts from mere ideological survival to fighting for the man who chose her over an empire.
-*   **The Catharsis (The Smut / Consummation):** The eve before the final battle, or immediately after their escape from the bunker. A profound, emotional and carnal union that seals their bond permanently.
-*   **The Ending:** Standing together on the shattered terrace of the Green Dome as natural rain begins to fall on the parched earth below. He wraps his wings and arms around her: no longer a weapon and a rebel, but partners who remade the world.
+*   **The Gift of Personhood:** Seeing his ancient lineage in the Glass Vault shatters Tyage's belief that he is an unholy corporate creation. He breaks down in front of Zunari, who holds him, reaffirming that his soul has always belonged to him alone.
+*   **The Battle Couple Awakening:** Fighting together in the Vault defense, their synergy is terrifying and magnificent: Zunari’s Quantic Phase-Stutter creates openings for Tyage’s Pyric Crucible heat-strikes.
+*   **The Unspoken Vow:** In the quiet of the subterranean hydroponic garden after the battle, Tyage draws her into his arms. The squad pledges their lives to him as free soldiers. They look at the decrypted planetary data from the *Lazarus Key*: they have won their freedom in Sector 09, but the fight to save humanity's sky has only just begun. (Sets up Book 2: *The Iron Chrysalis*).

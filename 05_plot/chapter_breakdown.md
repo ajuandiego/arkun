@@ -1,6 +1,9 @@
-# Chapter Breakdown: Working Roadmap (Dual POV)
+# Book 1: A Spark in the Rust — Chapter Breakdown
 
-> **Structure:** 24 Chapters | **Format:** Alternating Dual First-Person (or Third-Person Limited) POV — **Zunari** & **Tyage**.
+> **Series:** The Storm-Born Cycle (Book 1 of 3)  
+> **Structure:** 24 Chapters | **Format:** Alternating Dual First-Person (or Third-Person Limited) POV — **Zunari** & **Tyage**  
+> **Core Romance Arc:** Enemies-to-Reluctant-Allies-to-Lovers (Heat: 🌶️ to 🌶️🌶️)  
+> **Settings:** Eden Dome Alpha Perimeter, Sector 09 Gray Ring, Redoubt Station 14, The Rust Barrens, and The Glass Vault
 
 ---
 
@@ -8,7 +11,7 @@
 
 *   **Chapter 1 (Zunari): The Infiltration**
     *   *Setting:* The perimeter maintenance duct of Eden Dome Alpha.
-    *   *Core Action:* Zunari hacks an Apex GeneSys courier terminal, copying the encrypted *Lazarus Key*. She sees the mathematical reality of humanity's 14-month extinction clock.
+    *   *Core Action:* Zunari hacks an Apex GeneSys courier terminal, copying the encrypted *Lazarus Key*. She sees the mathematical reality of humanity's 14-month atmospheric extinction clock.
     *   *Hook:* Alarms sound; an aerial shadow descends from the cloudline.
 *   **Chapter 2 (Tyage): Apex Protocol**
     *   *Setting:* Cockpit of his Roc-Interceptor above Sector 09.
@@ -45,7 +48,7 @@
 *   **Chapter 9 (Zunari): The Ambush**
     *   *Setting:* The Redoubt hangar.
     *   *Core Action:* The Inquisitors discover Zunari's scent. When they move to vaporize her, Tyage snaps his chains, impaling an alien Inquisitor on his claws.
-    *   *Turning Point:* The Griffin Commander has committed high treason to protect a human rebel.
+    *   *Turning Point:* The Phoenix Commander has committed high treason to protect a human rebel.
 *   **Chapter 10 (Tyage): Breakout**
     *   *Setting:* Aerial dogfight over the Dome perimeter.
     *   *Core Action:* Tyage and Zunari steal his two-seater Roc-Interceptor. Aeros-Legion 7 pursues them. Tyage's second-in-command, Cassian, hesitates to fire the kill shot, allowing them to break through.
@@ -58,7 +61,7 @@
 
 ---
 
-### PART III: THE RUST HAVEN (Chapters 13–18)
+### PART III: THE FERAL FRONTIER (Chapters 13–18)
 
 *   **Chapter 13 (Zunari): Wreckage, Fever & The Stalkers**
     *   *Setting:* The scorched impact crater inside an abandoned freight terminal.
@@ -67,43 +70,43 @@
     *   *Climax of Scene:* When an alpha male pins her in a storage bay, Tyage jolts awake, his capillaries blazing with solar-pyric fire; he unleashes a concussive thermal shockwave and snaps the beast's neck with superheated claws before sealing the blast doors shut.
 *   **Chapter 14 (Tyage): Touch-Starved Delirium**
     *   *Setting:* A buried subway maintenance room.
-    *   *Romance Beat:* Delirious from blood loss and lattice feedback, Tyage clings to her hands, pulling her against his chest, murmuring broken apologies in an archaic dialect. Zunari stays with him through the night, holding him.
+    *   *Romance Beat:* Delirious from blood loss and lattice feedback, Tyage clings to her hands, pulling her against his chest, murmuring broken apologies in an archaic dialect. Zunari stays with him through the night, holding him and acting as his living thermal heat-sink.
 *   **Chapter 15 (Zunari): Scavenger Hunt**
     *   *Setting:* The ruins of a collapsed supermarket.
     *   *Core Action:* Zunari forages for medical supplies and is ambushed by Iron Scavengers.
     *   *Trope ("Who Did This To You?"):* Tyage arrives in mid-recovery, eyes pure gold slits, slaughtering the gang when he sees blood dripping from Zunari’s lip.
 *   **Chapter 16 (Tyage): The Breaking Point (First Kiss)**
     *   *Setting:* The subway bunker during a raging acid storm.
-    *   *Romance Beat (🌶️🌶️🌶️):* A volatile argument over what they are doing. Zunari accuses him of using her as a drug; Tyage pins her against the concrete wall, snarling that she has consumed his entire soul. The clash explodes into their first hungry, desperate, unbridled kiss.
-*   **Chapter 17 (Zunari): The Null-Bunker**
-    *   *Setting:* The subterranean rebel headquarters.
-    *   *Core Action:* They reach Zunari's cell. Doc Mercer and the rebels pull weapons on Tyage. Zunari steps between them, declaring that Tyage is her protector and the key to breaking the entire regime.
-*   **Chapter 18 (Tyage): The Decryption & The Subtle Tell**
-    *   *Setting:* The rebel medical laboratory.
-    *   *Core Action:* Zunari draws her own blood and interfaces it with Tyage’s extracted neural port fluid. She discovers the biological formula that can inoculate humanity and permanently break the Vaelen lattice.
-    *   *Foreshadowing:* Doc Mercer oversees the synthesis with intense, calculating focus. When Zunari accidentally cuts his forearm with a shard of broken glass, she notices his blood has a strange violet iridescence under the lab’s UV sterilizer lamp before he quickly wipes it away.
+    *   *Romance Beat (🌶️🌶️):* A volatile argument over what they are doing. Zunari accuses him of using her as a drug; Tyage pins her against the concrete wall, snarling that she has consumed his entire soul. The clash explodes into their first hungry, desperate, unbridled kiss.
+*   **Chapter 17 (Zunari): The Gray Ring Crossing**
+    *   *Setting:* The outer ring of Sector 09.
+    *   *Core Action:* Smuggling the wounded Tyage across the militarized checkpoints of the Gray Ring. They encounter young courier Ren (age 14), who guides them through drainage aqueducts away from Consortium patrols.
+*   **Chapter 18 (Tyage): The Sanctuary of Glass**
+    *   *Setting:* The Glass Vault, eighty feet beneath Sector 09.
+    *   *Core Action:* Descending into the subterranean archive. Confrontation with **Chief Bio-Curator Gideon Cross**. Gideon reveals ancient archaeological plates showing Scythian winged lion-raptors, proving to Tyage that his genome is thousands of years older than Apex GeneSys and that his soul belongs to no corporation.
 
 ---
 
-### PART IV: WINGS OF DEFIANCE (Chapters 19–24)
+### PART IV: THE SIEGE OF THE LIVING LEDGER (Chapters 19–24)
 
-*   **Chapter 19 (Zunari): The Eve of War**
-    *   *Setting:* The observation dome above the rebel bunker.
-    *   *Romance Beat (🌶️🌶️🌶️🌶️):* The night before the assault. The vulnerability between them turns into full physical consummation—tender, ferocious, and deeply emotional. His chimeric claws caress her skin with reverence; her touch purges the lingering poison from his mind.
-*   **Chapter 20 (Dual POV): The Simulacrum Betrayal & The Sacrifice**
-    *   *Setting:* The subterranean rebel bunker under orbital bombardment.
-    *   *The Twist Revealed:* Consortium gunships breach the bunker ceiling. Zunari runs to evacuate Doc Mercer, only to find him standing in thick toxic smoke without his respirator on. His mechanical lung ceases its artificial clicking; his pupils fracture into alien concentric rings. He reveals his true identity as a Vaelen Simulacrum (*Weaver-Unit 09*) who groomed Zunari’s rebel cell to incubate the cure for the Spire.
-    *   *The Climax of the Chapter:* Mercer attempts to secure Zunari and the cure. Tyage intercepts Mercer in a ferocious, bone-shattering brawl. To ensure Zunari and the young courier Ren escape with the synthesized cure, Tyage holds the extraction corridor alone and allows himself to be captured by Consortium enforcers.
-*   **Chapter 21 (Zunari): The Rescue**
-    *   *Setting:* Infiltrating Eden Dome Alpha’s Central Spire.
-    *   *Core Action:* Zunari refuses to let him die. Armed with aerosolized cure canisters and backed by the Dustborn rebels, she leads an assault straight into the heart of the Dome.
-*   **Chapter 22 (Tyage): The Kill-Switch**
-    *   *Setting:* Archon Xaevis’s throne chamber.
-    *   *Core Action:* Xaevis activates the master frequency to dissolve Tyage’s brain. Tyage endures agony on his knees, refusing to bow to the alien god.
-*   **Chapter 23 (Dual POV): The Unchained Dawn**
-    *   *Setting:* The Spire pinnacle.
-    *   *Core Action:* Zunari breaks into the chamber and plunges the viral antidote directly into Tyage’s primary siphon port. His lattice shatters into inert silver dust.
-    *   *Climax:* Tyage unleashes his full, uninhibited strength, executing Xaevis and destroying the terra-pylon core.
-*   **Chapter 24 (Dual POV): The Open Sky**
-    *   *Setting:* The shattered glass dome overlooking the world.
-    *   *Resolution:* The dome shields fall; clean, natural rain washes over the scorched earth. Tyage and Zunari stand side-by-side as the surviving Griffin units drop their weapons and embrace their newfound freedom. A new world begins.
+*   **Chapter 19 (Zunari): The Synthesis**
+    *   *Setting:* The cryogenic laboratory inside The Glass Vault.
+    *   *Core Action:* Zunari and Gideon interface her Null-blood with Tyage’s neural fluid. They successfully synthesize a prototype localized stabilizer—the first biological inoculation capable of freezing the Synapse Lattice decay.
+    *   *Emotional Beat:* Tyage watches Zunari work, realizing her genius is the key to setting all of his enslaved brothers and sisters free.
+*   **Chapter 20 (Tyage): The Scent of Iron**
+    *   *Setting:* The subterranean entry tunnels of the Vault.
+    *   *Core Action:* Aeros-Legion 7 (Cassian, Veda, Jax) tracks Tyage to the archive under direct orders from Director Corvus. A tense, lethal standoff ensues with weapons trained on each other.
+*   **Chapter 21 (Zunari): The Living Proof**
+    *   *Setting:* The Great Hall of Quartz.
+    *   *Core Action:* Zunari steps between the drawn weapons. She shows Cassian the medical telemetry and administers the stabilizer to Veda, whose early-stage lattice decay immediately ceases. For the first time in years, the squad experiences complete mental clarity.
+    *   *Turning Point:* Cassian lowers his rifle. The squad chooses Tyage over the Consortium.
+*   **Chapter 22 (Tyage): The Purge Protocol**
+    *   *Setting:* The outer blast doors of the Vault.
+    *   *Core Action:* Director Corvus realizes Aeros-Legion 7 has defected. Consortium mechanized extermination squads and heavy siege drills arrive to collapse the entire subterranean archive and bury everyone alive.
+*   **Chapter 23 (Dual POV): The Battle of Sector 09**
+    *   *Setting:* The fortified perimeter of The Glass Vault.
+    *   *Core Action:* Tyage, his reunited squad, Zunari, and Gideon’s curators mount a desperate defense. Zunari uses her Quantic Phase-Stutter to plant thermal charges on the siege drill; Tyage unleashes The Pyric Crucible kinetic heat-waves to incinerate the shock armor. Together, they shatter the Consortium assault.
+*   **Chapter 24 (Dual POV): The Unspoken Vow**
+    *   *Setting:* The subterranean hydroponic gardens of the Vault.
+    *   *Resolution:* The assault is broken, and the Vault is sealed. In the quiet aftermath beneath artificial starlight, Tyage and Zunari stand together. The squad pledges their loyalty to Tyage as free soldiers.
+    *   *The Hook for Book 2:* Decrypting the rest of the *Lazarus Key* reveals that Sector 09 was only a test: the true terraforming controls are routed through the global Terra-Pylons and the orbital Spires. To save humanity, they must ignite a global rebellion.
