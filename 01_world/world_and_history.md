@@ -61,14 +61,74 @@ Modern human history recorded the arrival of the Vaelen in 2032 as "First Contac
 
 ---
 
-## 3. Societal Division & The Caste System
+## 3. Societal Division, Demographics & The Chimeric Pipeline
 
-| Caste | Habitat | Tech Access | Lifespan | Biological Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Vaelen Primarchs** | Floating Spire Citadels | Quantum-biological mastery | Indefinite | Non-terrestrial, psionic-neural physiology |
-| **The Gilded Elite (Edenites)** | Green Domes | Chrysalis longevity treatments, luxury bio-synthesis | 150+ years | Gene-purified, sterile transhumans |
-| **The Griffin Corps (Aeros-Legion)** | High Aeries / Sky Baracks | Nanocarbon augments, neural network tether | 30–45 years (system burnout) | Chimeric supersoldiers (Griffin spliced) |
-| **The Rustborn (Gray Sectors)** | The Barrens, Slums, Ruins | Scavenged cybernetics, DIY respirators | 28–42 years | Baseline humans, radiation/choke afflicted |
+### 3.1 Planetary Demographics (2050 Global Census)
+From a pre-collapse peak of 8 billion, the global human population has plummeted to approximately **1.35 billion** survivors:
+
+*   **The Chimeric Military Caste (Mutated Soldiers): < 0.05% (~500,000 to 700,000 globally)**
+    *   Rare, terrifying, hyper-specialized military assets distributed across the Consortium’s divisions (Aeros-Legion, Dromaeon Stalkers, Lindwurm Bastions, Fenris Cohorts). They are not citizens; they are state-owned biological weaponry.
+*   **The Gilded Elite (Edenites / Transhumans): ~1.5% (~20 Million)**
+    *   Corporate oligarchs, high-ranking executives, and scientific directors residing inside the climate-shielded Green Domes. They do not possess chimeric predator traits; instead, they receive periodic *Chrysalis Treatments* (telomerase therapies) that freeze biological aging, granting artificial lifespans exceeding 150 years.
+*   **The Dome Servitor Class (Protected Plain Humans): ~3.5% (~48 Million)**
+    *   Unaugmented, baseline human citizens living inside the Domes: hydroponic agricultural workers, mechanical technicians, bio-reactor maintenance crews, and administrative staff. They enjoy filtered air and synthetic nutrition, but live under total corporate surveillance and reproductive rationing.
+*   **The Dustborn / Rustborn (The Baseline 95%): ~95% (~1.28 Billion)**
+    *   The overwhelming majority of humanity. Entirely un-augmented baseline humans abandoned in the ruined megacities, subterranean transit labyrinths, and wasteland fringes of the Gray Sectors.
+    *   *Epigenetic Anomalies:* Spontaneous adaptive mutations (such as Vesper’s *Null-Resonance*) appear in less than **0.0001%** of this population (one in a million), triggered by fetal gestation in extreme Amber Haze conditions.
+
+---
+
+### 3.2 The Chimeric Selection Program: The "Chrysalis Grinder"
+
+Chimeric soldiers are neither vat-grown clones nor volunteers. Because cloned tissue lacks the epigenetic drive required to survive the Synapse Lattice, the Consortium relies on a predatory conscription pipeline:
+
+#### 1. Candidate Acquisition Pipelines
+*   **The Gray Sector "Tithe Sweeps" (Kaelen's Origin):** Corporate extraction squads descend upon Gray Sector orphanages, refugee shelters, and barter bazaars under the guise of "humanitarian medical triage." Children between **ages 5 and 8** (before pubertal bone calcification and immune stabilization) are scanned with biometric resonance wands.
+*   **Debt-Forfeiture Indentures:** Families inside the Gray Sectors who default on water/oxygen credits or are convicted of black-market scrubber tampering can have their children legally seized by Apex GeneSys or Aethelgard Security to clear the debt.
+*   **Vat-Born Clonal Synthetics (The Failure Group):** Approximately 15% of candidates are cloned in amniotic tanks. However, vat-born specimens have a 90% failure rate—without the emotional trauma and survival instinct of a real human childhood, their minds reject the Synapse Lattice and succumb to catatonic stroke.
+
+#### 2. The Screening Batteries & Qualification Tests
+Candidates are subjected to a brutal 3-stage triage protocol:
+1.  **The Synaptic Elasticity Battery:** Measures the brainstem’s electrical conductivity and neuroplasticity using micro-pulsed shocks. **80% of candidates fail here**, suffering immediate neuro-convulsions; failures are culled or reassigned as biomass substrate.
+2.  **Archeo-Genomic Histocompatibility Screen:** Analyzes whether the child’s leukocyte and mitochondrial DNA can bond with ancient Vaelen beast retroviruses (Gryphon, Lindwurm, Dromaeon) without triggering fatal anaphylactic shock or malignant cellular dissolution.
+3.  **The Hypoxia & Sensory Focus Crucible:** Children are sealed in declining-pressure atmospheric chambers while bombarded with disorienting sensory spikes. Only candidates whose heart rates *decelerate* into cold predatory focus rather than panic are selected for implantation.
+
+#### 3. Transformation & The 70% Attrition Rate
+*   **The Chrysalis Vats:** Survivors are placed into biomechanical amniotic pods for 18–24 months. Their marrow is infused with honeycombed titanium alloys; retroviruses splice apex predator genes into their muscle and neural tissue; and the **Silver Spine (Synapse Lattice)** is surgically grafted into the brainstem.
+*   **Selective Synaptic Ablation (Targeted Memory Scrubbing):**
+    *   *What Is Preserved:* Motor cortex memory, spatial navigation, survival instincts, linguistic competence, and subconscious tactical reflexes. The military cannot afford to erase their problem-solving intelligence or learned combat skills.
+    *   *What Is Erased:* Biographical identity, real birth names, family faces, emotional attachments, and childhood grief—ensuring they cannot mourn their past or form rebellious personal loyalties. The child is redesignated with a military serial number (e.g., *Subject AE-701*).
+    *   *The "Phantom Engram" (Mnemonic Ghosts):* Because ablation is selective rather than destructive, deep limbic imprints remain dormant in the nervous system. Specific sensory triggers—the scent of desert rain, a hummed melody, or direct bio-electrical contact with a Null-Resonator—can cause sudden, intense emotional flashbacks that the soldier cannot logically explain.
+*   **The Survivors:** Out of every 1,000 children fed into the program, **fewer than 100 survive** to become active chimeric legionnaires.
+
+---
+
+### 3.3 The Life of Plain Humans: Two Realities
+
+#### Inside the Green Domes: High-Tech Feudalism & Paranoia
+*   **The Environment:** Perpetual 72°F spring, golden synthetic sunlight filtered through photovoltaic dome glass, manicured thornless gardens, and silent mag-lev transit.
+*   **Everyday Existence:**
+    *   *The Elite:* Live in hedonistic biological luxury, pursuing fine arts, political intrigue, and gene-tailored aesthetic trends.
+    *   *The Servitor Class:* Reside in modular, soundproofed company housing blocks. Their days consist of 12-hour shifts maintaining the massive hydroponic towers and ozone scrubbers that keep the dome alive.
+*   **The Trade-Offs & Terror:**
+    *   *Zero Privacy:* Biometric implants monitor heart rate, stress levels, and reproductive cycles. Pregnancy without a corporate breeding permit results in immediate expulsion to the Gray Sectors.
+    *   *The Silent Fear:* Unspoken dread permeates every level of dome society. Everyone knows that the Vaelen view them as glorified cattle managers; high-ranking executives constantly watch colleagues for the cold tells of a Vaelen *Simulacrum*.
+
+#### Outside in the Gray Sectors: The Dustborn Struggle
+*   **The Environment:** A suffocating twilight of copper and sulfur dust (the Amber Haze); skeletal remains of 2020s concrete towers half-buried in red silica sand; toxic flora (spore orchids, phosphor tendrils) crawling over rusted steel.
+*   **The Currency of Breath:**
+    *   Money is worthless. The planetary currency is the **Liter-Hour**—a standardized metric representing one hour of scrubbed, breathable oxygen from a certified canister.
+    *   Water is distilled drop by drop from atmospheric condensation coils or traded for salvaged microchips.
+*   **Habitation & Structure:**
+    *   Humans live underground: in decommissioned subway tunnels, abandoned bank vaults, subterranean parking garages, and sealed sewer corridors where natural bedrock provides passive filtration against toxic winds.
+    *   *Scrubber Guilds:* Communities are organized around shared, jury-rigged industrial air scrubbers powered by salvaged solar panels or geothermal taps. If a community's scrubber motor dies, the entire neighborhood has six hours to repair it or suffocate.
+*   **The Daily Rhythm:**
+    *   *Dawn to Midday:* Scavengers head to the surface to strip copper wiring, battery cells, and structural alloy from the ruins before the scorching midday "Glass Winds" shred untreated cloth and skin.
+    *   *Dusk Lockdown:* Everyone retreats behind blast doors and weld-sealed bulkheads before nightfall, when wild packs of bio-synthetic **Dromaeons (Scythe-Stalkers)** hunt through the streets.
+*   **The Health Reality (The Choke):**
+    *   Nearly every adult over 30 has irreversible silica-sulfur scarring in their lungs. Coughing fits, blood-flecked phlegm, and portable inhalers are universal. Average life expectancy is **38 to 42 years**.
+*   **Culture & Resilience:**
+    *   Despite the brutality, the Dustborn are fiercely proud, ingenious, and pragmatic. They create improvised respirators, brew bitter chicory tea over methane burners, tell oral histories of "The Blue Sky Era," and share a communal solidarity that the paranoid dome oligarchs can never buy.
 
 ---
 

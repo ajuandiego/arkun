@@ -186,4 +186,107 @@ Because Vesper is an elite field geneticist, she can eventually piece together t
 *   **Respirator Mimicry:** They wear respirators and change filter cartridges to blend into Gray Sector crowds, but they never actually contract *The Choke*. Their lung tissue secretly houses microscopic alien nitrogen-scrubbers.
 *   **Pupillary Fracture:** Under sudden extreme adrenaline surges or temporal dilation, their pupils momentarily contract into concentric geometric rings rather than smooth circles.
 
+---
+
+## 9. Technological Baseline: Advanced, Preserved, and Lost Systems (2050)
+
+The technological landscape of 2050 is not a clean, linear cyberpunk future. It is a stark, fragmented patchwork: hyper-advanced alien-corporate biotechnology existing alongside collapsed, salvaged 21st-century infrastructure.
+
+### 9.1 Hyper-Advanced Technologies (The Corporate & Alien Monopoly)
+These technologies are monopolized by the Consortium and the Vaelen Spire:
+
+*   **Synthetic Biogenomics & Organogenesis:** Complete mastery of genetic splicing, chimeric organ growth, neural grafting (The Silver Spine), and accelerated cellular healing.
+*   **Chrysalis Longevity Therapy:** Proprietary telomerase and stem-cell therapies that indefinitely freeze physical aging for the Dome aristocracy.
+*   **Living Biomechanical Craft (The Roc-Class Interceptors):** Aerospace vessels built from vat-grown organic chassis, vascular hydraulic coolant, and direct neural-port interfaces.
+*   **Atmospheric & Shield Engineering:** Gigantic photovoltaic glass barrier domes and kilometer-tall terra-pylons capable of altering planetary gas composition.
+*   **Nanocarbon Metallurgy & Directed Energy:** Hyper-dense nanocarbon weave armor, titanium bone-honeycombing, and plasma-arc suppression cannons.
+
+### 9.2 Degraded & Preserved Technologies (The Dustborn Survival Tech)
+The baseline 95% survive through extreme ingenuity, salvaging and adapting obsolete early-21st-century tech:
+
+*   **DIY Zeolite Scrubbers & Respirators:** Hand-packed filter cartridges combining crushed natural zeolite, activated charcoal, and alkaline sponges to strip sulfur and silica from the Amber Haze.
+*   **Atmospheric Condensation Stills:** Copper refrigeration coils scavenged from old air conditioning units, deployed at dawn to extract drinking water from atmospheric temperature drops.
+*   **Salvaged Micro-Grids:** Repaired pre-collapse solar panels, small rooftop wind turbines, and jury-rigged lithium-iron battery banks powering underground bunkers.
+*   **The "Sneakernet" (Physical Data Runners):** Because all radio and digital broadcasts are monitored by Spire sensor grids, the resistance relies on couriers (like Ren) carrying encrypted optical drives by hand.
+*   **Sub-Tropospheric Shortwave Radio:** Low-frequency analog radios bounced off heavy sulfur cloud layers to communicate between distant Gray Sectors without triggering orbital electronic sweeps.
+
+### 9.3 Completely Lost Technologies (The Fallen 21st Century)
+Systems that were eradicated by the climate collapse and the Vaelen invasion:
+
+*   **The Global Internet & Civilian Satellite Mesh:** Undersea fiber-optic cables snapped during oceanic thermal expansion; satellites were fried by Vaelen EMP pulses during First Contact. No global web, cloud servers, or GPS exist.
+*   **Petroleum Infrastructure & Combustion Engines:** Global oil drilling, refineries, and petrochemical logistics collapsed by 2035. Gasoline and diesel are dead fuels; standard automobiles and civilian planes sit as rusted husks.
+*   **Civilian Spaceflight:** Human rocket programs were outlawed by the Elysium Accords. Orbit is strictly controlled by the Vaelen Spires; any launched projectile is vaporized by orbital kinetic lances.
+*   **Mass Global Consumer Manufacturing:** The automated assembly lines for consumer electronics, smartphones, and household appliances no longer operate. Every circuit board in the Gray Sectors is desoldered, repaired, and re-used dozens of times.
+*   **Centralized Public Healthcare:** Mass-produced pharmaceuticals (antibiotics, chemotherapy, insulin) vanished outside the Domes. Gray Sector medicine is crude, black-market triage relying on scavenged supplies and illicit bio-pastes.
+
+---
+
+## 10. The Living Ecosystem: Food Systems, Flora & Fauna (2050)
+
+In a world severed from global trade and choked by alien terraforming aerosols, food and ecology have violently adapted. The flora and fauna of 2050 provide concrete survival hurdles, tactical tools, and romantic sensory anchors.
+
+### 10.1 The Planetary Food Systems
+
+#### 1. Inside the Green Domes (The Gilded Cuisine)
+*   **Myco-Veal & Cell-Cultured Avians:** Muscle tissue grown in vertical aeroponic vats from heritage livestock stem cells; texturally identical to wagyu or pheasant, but completely sterile and devoid of animal bone or tendon.
+*   **"Nectar-Cells" (Engineered Fruits):** Translucent, seedless hybrid fruits (citrus-pomegranate variants) engineered to deliver hyper-concentrated vitamins, electrolytes, and pure water without producing any organic waste or seeds.
+*   **Sensory Atmosphere:** Decadent, overly sweet, perfumed to mask the faint metallic ozone tang of recirculated dome atmosphere.
+
+#### 2. Outside in the Gray Sectors (The Dustborn Survival Diet)
+*   **Silt-Mash (Manna-Algae):** Dense, rubbery green nutrient cakes pressed from sulfur-tolerant *Spirulina-X* cultivated in subterranean condensation tanks. Tastes like salty pond water and copper, but provides the carbohydrates and amino acids needed to endure 14-hour manual labor shifts.
+*   **Ash-Bread & Grub Flour:** Coarse, dry flatbread baked over scrap-metal embers using flour ground from dried subterranean bracket fungi and roasted high-protein chitin-beetles.
+*   **Iron-Chicory (Copper-Tea):** A bitter, dark, steaming infusion brewed from the deep taproots of sulfur-resistant desert scrub. It contains natural chelating agents that bind airborne heavy metals in the bloodstream, helping humans excrete toxic particulates. Drinking it around a communal stove is the primary social ritual of Gray Sector enclaves.
+*   **Distilled Dew:** Water collected drop-by-drop before dawn; measured in thimble-sized sips and never wasted.
+
+#### 3. Chimeric Military Rations (The Hyper-Thermic Furnace Fuel)
+*   **Pyro-Gel (Core-Paste / "The Nectar"):** Because chimeric soldiers run an internal body temperature of 104°F and burn **8,000 to 10,000 calories a day** in active combat, standard human food is useless mass. They consume pressurized aluminum tubes of concentrated glucose-lipid emulsion enriched with synthetic electrolytes and synthetic hemoglobin analogues.
+*   **Sensory Profile:** An amber-gold, viscous gel that tastes of bitter almond, iron, and concentrated clover honey. It burns warmly down the throat, instantly kicking the chimeric furnace into high gear.
+
+---
+
+### 10.2 Plottable Flora & Fauna: The New Species
+
+#### A. The Lovely (Atmospheric, Romantic, Poetic)
+
+1.  **The Ghost-Lily (Silica-Lotus / Mnemonic Orchid) — [Flora]**
+    *   *Appearance & Biology:* A nocturnal, translucent white succulent that sprouts exclusively from shattered plate glass and cracked concrete atop abandoned skyscrapers. Its crystalline, paper-thin petals absorb ambient lunar light and bioluminesce with a soft, pulsing azure-white glow.
+    *   *Sensory & Mnemonic Effect:* The flower releases a micro-aerosol that acts as a natural neuro-calmative. When inhaled by chimeric soldiers, it temporarily silences the static buzz of the Synapse Lattice and stimulates dormant limbic pathways.
+    *   *Plot Dynamic:* Vesper harvests its sap to brew fever-reducing salves for Kaelen; encountering a field of Ghost-Lilies during a sub-zero night provides a breathless, luminous haven where Kaelen’s erased childhood memories surface.
+
+2.  **The Zephyr-Moth (Gilded Whisperer) — [Fauna]**
+    *   *Appearance & Biology:* Hand-sized, silence-winged lepidopterans with iridescent gold-and-indigo scale dust that refracts the Amber Haze. They feed exclusively on Ghost-Lily nectar and morning condensation.
+    *   *Behavior:* Having no natural predators left in the upper ruins, they are utterly fearless. In the sub-zero wasteland nights, they are drawn to extreme biological heat sources.
+    *   *Plot Dynamic:* They swarm silently around Kaelen’s 104°F furnace heat, settling along his dark feathers and broad shoulders like living, glowing embers. A Dustborn folk legend claims a Zephyr-Moth will only rest on someone whose true human heart has not been permanently extinguished.
+
+#### B. The Dangerous (Apex Threats & Environmental Terrors)
+
+1.  **The Obsidian Strangler (Basalt Crotalid / Wire-Viper) — [Fauna]**
+    *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Lindwurm genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.
+    *   *Hunting Method:* Coils silently in the ceilings of collapsed subway tunnels and elevator shafts. It drops silently onto prey, wrapping with hydraulic crushing torque (exceeding 2,000 psi) to snap spines and crush respirator facepieces within seconds.
+    *   *The Toxin:* Injects a flesh-dissolving, acidic neurotoxin that liquefies lungs and synthetic seals.
+    *   *Plot Dynamic:* Creates terrifying close-quarters subterranean suspense; Kaelen’s avian tetrachromatic vision can detect its micro-thermal heat coils seconds before it drops, forcing intense split-second cooperative combat.
+
+2.  **The Glass-Bramble (Lung-Needle Spore-Bush) — [Flora]**
+    *   *Appearance & Biology:* Low-creeping, barbed thickets that coat the rubble fields between domes. The stems are hollow silica crystals containing microscopic, razor-sharp needle spores.
+    *   *The Hazard:* When stepped on or disturbed by high winds, the brambles fracture with a high-pitched snap, detonating a cloud of microscopic silicon needles. Inhaling them causes instantaneous pulmonary laceration and accelerates *The Choke*.
+    *   *Plot Dynamic:* Stepping on them shreds footwear and gear. Vesper uses their brittle trigger mechanism to craft improvised acoustic and antipersonnel tripwires around their wilderness hideouts.
+
+#### C. The Useful (Survival Tools & Tactical Exploits)
+
+1.  **The Sieve-Beetle (Zeolite Scarab) — [Fauna]**
+    *   *Appearance & Biology:* Heavy, fist-sized beetles with iridescent matte-black carapaces that thrive in subterranean sulfur drainage channels. They feed directly on toxic heavy metals, sulfur crusts, and airborne silica dust.
+    *   *The Secret Utility:* Their digestive tract bio-synthesizes clean, activated zeolite and calcium carbonate, depositing dense, crystalline nodules along their dorsal shells before molting.
+    *   *Plot Dynamic:* Dustborn scavenge molted Sieve-Beetle shells and grind them with a mortar and pestle to hand-pack fresh respirator cartridges. Finding a living colony of Sieve-Beetles is the equivalent of striking an underground goldmine for a Gray Sector enclave.
+
+2.  **The Siphon-Reed (Dew-Weaver / Silver-Spike) — [Flora]**
+    *   *Appearance & Biology:* Tall, ribbed hollow reeds that grow in flooded industrial basements and acidic runoff canals.
+    *   *The Secret Utility:* Their root membranes perform biological reverse-osmosis. They draw in toxic, heavy-metal sludge and pump pure, sterile, mineral-rich drinking water into swollen translucent bulbs at the base of their stalks.
+    *   *Plot Dynamic:* Vesper teaches Kaelen how to slice into the bulb's inner vascular seam with a clean blade without puncturing the bitter, toxic outer rind—providing lifesaver hydration in the barren desert.
+
+3.  **Chameleon-Moss (Luminescent Dermal Lichen) — [Flora / Micro-Organism]**
+    *   *Appearance & Biology:* A velvety lichen that grows on the north-facing concrete of terra-pylons, feeding on stray electromagnetic leakage.
+    *   *The Secret Utility:* It shifts pigmentation and thermal radiance to mirror whatever frequency touches it.
+    *   *Plot Dynamic:* When smeared onto tactical cloaks, armor, or skin, Chameleon-Moss temporarily masks the user's thermal signature from Consortium infrared drone sweeps.
+
+
 

@@ -81,7 +81,25 @@ The soldiers under Kaelen’s command form a feral, fiercely loyal family bound 
 
 ---
 
-## 5. The Infiltrator Plot Twist: Canon Reveal & Narrative Payoff
+## 5. The Bio-Curators (The Keepers of the Living Ledger)
+
+### Elder Gideon Cross (The Arch-Curator of Sector 09)
+*   **Role:** Chief Bio-Curator of the Sector 09 Glass Vault; living encyclopedia of pre-collapse genetic engineering, suppressed planetary history, and ancient Vaelen archeo-biology.
+*   **Age:** 67 (an extraordinary anomaly in the Gray Sectors where average life expectancy is 40).
+*   **Personality:** Sardonic, intensely observant, unimpressed by corporate titles or chimeric military posturing. Speaks with dry academic precision, measuring individuals by their cognitive clarity and survival competence rather than their weapons.
+*   **Appearance & Sensory Markers:**
+    *   Wears soot-stained scholar’s robes tailored from heavy, heat-resistant ballistic weave, festooned with leather bandoliers holding brass magnifying loupes, glass styluses, and hermetically sealed scroll cylinders.
+    *   His right eye has been replaced by a brass-and-quartz multi-lens optometer that clicks mechanically as he rotates different focal depths to inspect micro-etched glass spools.
+    *   Hands perpetually stained with silver etching acid, nitric ink, and copper dust.
+*   **Narrative & Plot Payoffs:**
+    1.  *Unchaining Kaelen's Identity:* When Kaelen enters the archive viewing himself as a soulless, vat-grown weapon, Gideon doesn't flinch. Instead, he unrolls an ancient leather-bound volume of 500 BCE archaeological plates showing Scythian winged lion-raptors, proving to Kaelen that his chimeric genome is thousands of years older than Apex GeneSys and that his soul belongs to no corporation.
+    2.  *The Un-redacted Elysium Accords:* Gideon possesses the original, un-sanitized optical quartz recording of the 2035 corporate treaty with the Vaelen, providing concrete documentary proof that the Consortium knowingly traded 90% of Earth’s population for personal Chrysalis immortality.
+    3.  *The Mercer Discrepancy:* Gideon is the only archivist whose meticulous census ledgers reveal the biological impossibility: Aaron Mercer has appeared in Gray Sector medical records for 35 consecutive years without ever aging, changing handwriting, or requisitioning personal lung treatments—planting the first seed of doubt in Vesper’s mind.
+    4.  *The Arkun Codex:* Gideon holds the ancient Vaelen translational fragments outlining the **Arkun Formula** ($\text{Genetics} + \text{Character} = \text{Arkun}$), providing the theoretical foundation Vesper needs to awaken Kaelen’s latent abilities.
+
+---
+
+## 6. The Infiltrator Plot Twist: Canon Reveal & Narrative Payoff
 
 *   **Canon Choice:** **"Doc" Aaron Mercer is the Vaelen Simulacrum.**
 *   **The Narrative Payoff:**

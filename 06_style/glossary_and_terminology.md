@@ -49,3 +49,13 @@
 *   **Substrate:** The Vaelen philosophical term for primitive planetary biomass (including baseline humans) destined to be broken down and reconstituted.
 *   **Terra-Pylons:** Monumental biomechanical spires sunk deep into the planetary crust that inject alien aerosols and terraforming catalysts into the atmosphere.
 *   **The Spires:** The three massive biomechanical city-ships of the Vaelen currently moored in geostationary orbit above Earth.
+
+---
+
+## 5. Curatorial & Archival Lexicon
+
+*   **Bio-Curator (The Curators):** Member of the autonomous, politically neutral order of scholars, geneticists, and historians dedicated to preserving pre-collapse knowledge, uncorrupted history, and ancient archeo-genetic blueprints.
+*   **Glass Spool (Optical Quartz Disc):** Ultra-dense synthetic sapphire or quartz disc laser-etched with microscopic text and schematics; impervious to EMPs, heat, and radiation, readable via manual optical prisms.
+*   **Biological DNA Codex (Living Ink):** Vast scientific and historical libraries synthesized into non-coding junk DNA of frozen bacterial colonies, stored in cryo-dewars for centuries of stable preservation.
+*   **The Glass Vault:** The fortified subterranean municipal and university repository eighty feet beneath Sector 09, functioning as the headquarters and sanctuary of Chief Bio-Curator Gideon Cross.
+

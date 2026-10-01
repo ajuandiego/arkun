@@ -44,7 +44,23 @@ An airborne staging fortress suspended from the structural trusses of the Dome's
 
 ---
 
-## 4. Key Forced-Proximity Havens
+## 4. The Glass Vault (The Bio-Curator Archive)
+
+Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vaults of a pre-collapse university and municipal records facility. The headquarters and sanctuary of **Elder Gideon Cross**.
+
+*   **Visual Atmosphere:**
+    *   Fortified behind massive, mechanical-wheel bank vault blast doors of triple-thick hardened tungsten steel.
+    *   Illuminated by warm, low-intensity amber sodium lamps and passive fiber-optic cables piping filtered surface daylight down through quartz prism conduits.
+    *   Towering floor-to-ceiling brass and dark steel shelving holding thousands of vacuum-sealed archival folios, antique pre-collapse paper books, and glowing racks of laser-etched quartz glass spools.
+    *   Frost-shrouded cryo-dewars along the walls, hissing faint plumes of vapor as they preserve liquid-nitrogen-cooled bacterial DNA codices.
+*   **Sensory Profile:**
+    *   *Scent:* Old paper, beeswax, dried lavender, silver etching acid, cold granite bedrock, and genuinely clean, scrubbed air—the purest, most fragrant air in all of Sector 09.
+    *   *Sound:* The delicate, rhythmic clicking of brass clockwork drives turning optical quartz readers; the gentle rustle of vellum; the deep, muffled hum of subterranean bedrock insulating against howling surface dust storms.
+    *   *Sanctuary Function:* A serene, scholarly haven completely removed from the paranoia of the Domes and the brutality of the ruins. Here, Kaelen can retract his claws and lower his guard without sensory static, while Vesper works without a respirator.
+
+---
+
+## 5. Key Forced-Proximity Havens
 
 ### The Crashed Roc-Interceptor (The Wreckage)
 *   Downed in a desolate crater during their escape.
