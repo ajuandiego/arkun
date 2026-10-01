@@ -26,7 +26,7 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 *   **AS (After the Storm):** The current era of Green Domes, atmospheric phasing, and chimeric supersoldiers.
 *   **The Present Day:** **Year 18 AS (18 After the Storm / 2050 CE).**
 *   **Generational Terms:**
-    *   **The Sky-Born (The Old-Worlders):** Anyone born before Year 0 (over 18 years old), who carries childhood memories of natural rain, unshielded sunshine, and green grass. Both Tyage (born 11 BS / age 29) and Zunari (born 8 BS / age 26) are Sky-Born.
+    *   **The Sky-Born (The Old-Worlders):** Anyone born before Year 0 (over 18 years old), who carries childhood memories of natural rain, unshielded sunshine, and green grass. Both Vram (born 11 BS / age 29) and Tsunari (born 8 BS / age 26) are Sky-Born.
     *   **The Storm-Born:** Anyone 18 years old or younger (like Ren, the courier) who has never seen a natural blue sky and knows only the copper twilight of the Amber Haze and the hum of air scrubbers.
 
 ---
@@ -51,12 +51,12 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 #### 6 AS – 14 AS (2038–2046 CE): The Great Bulkhead Partition
 *   The 100-meter kinetic shield walls were sealed. 30% of the population—refugees, indebted laborers, and dissidents—were excluded into the **Gray Sectors**.
 *   The Consortium halted all external air scrubbing. Outside the Domes, the air permanently oxidized into the toxic, sulfurous **Amber Haze**.
-*   Apex GeneSys and Aethelgard began the Chimeric Soldier program, harvesting resilient orphan children (including Tyage in 4 AS) for the Chrysalis Vats.
+*   Apex GeneSys and Aethelgard began the Chimeric Soldier program, harvesting resilient orphan children (including Vram in 4 AS) for the Chrysalis Vats.
 
 #### 15 AS – 18 AS (2047–2050 CE): The Atmospheric Phasing (The Current Crisis)
 *   The true nature of the Vaelen terraforming protocol becomes undeniable: the Spires are altering Earth into a high-nitrogen, methane-rich atmosphere for their dying race.
 *   Outside the Domes, baseline humans succumb to **Cellular Asphyxia** (*The Choke*).
-*   **The 14-Month Ticking Clock:** According to telemetry decrypted by Zunari in Year 18 AS, planetary atmospheric inversion will reach irreversible terminal saturation in **14 to 18 months**, suffocating all unprotected human life.
+*   **The 14-Month Ticking Clock:** According to telemetry decrypted by Tsunari in Year 18 AS, planetary atmospheric inversion will reach irreversible terminal saturation in **14 to 18 months**, suffocating all unprotected human life.
 
 ---
 
@@ -104,7 +104,7 @@ From a pre-collapse peak of 8 billion, the global human population has stabilize
 Chimeric soldiers are neither vat-grown clones nor volunteers. Because cloned tissue lacks the epigenetic drive required to survive the Synapse Lattice, the Consortium relies on a predatory conscription pipeline:
 
 #### 1. Candidate Acquisition Pipelines
-*   **The Gray Sector "Tithe Sweeps" (Tyage's Origin):** Corporate extraction squads descend upon Gray Sector orphanages, refugee shelters, and barter bazaars under the guise of "humanitarian medical triage." Children between **ages 5 and 8** (before pubertal bone calcification and immune stabilization) are scanned with biometric resonance wands.
+*   **The Gray Sector "Tithe Sweeps" (Vram's Origin):** Corporate extraction squads descend upon Gray Sector orphanages, refugee shelters, and barter bazaars under the guise of "humanitarian medical triage." Children between **ages 5 and 8** (before pubertal bone calcification and immune stabilization) are scanned with biometric resonance wands.
 *   **Debt-Forfeiture Indentures:** Families inside the Gray Sectors who default on water/oxygen credits or are convicted of black-market scrubber tampering can have their children legally seized by Apex GeneSys or Aethelgard Security to clear the debt.
 *   **Vat-Born Clonal Synthetics (The Failure Group):** Approximately 15% of candidates are cloned in amniotic tanks. However, vat-born specimens have a 90% failure rate—without the emotional trauma and survival instinct of a real human childhood, their minds reject the Synapse Lattice and succumb to catatonic stroke.
 
@@ -158,5 +158,5 @@ The Gray Sectors are gritty, hazardous, and crowded, but they are living communi
     *   The Vaelen are not a monolith. An ideological and biological civil war brews inside their Spire Citadels:
         *   **The Harvester Hegemony (Archon Xaevis):** The dominant faction. Believes the Vaelen race must terraform Earth immediately, reduce baseline humanity to raw biomass (substrate), and purge all individuality.
         *   **The Preserver Dissidents (The Harmonists):** A covert scientific faction. They understand that raw cloning is a dead end—the Vaelen *need* live human genetic diversity and emotional neuro-chemistry to reverse their biological senescence. 
-    *   *Why a Human Ally Exists:* The Preservers know they cannot openly defy Archon Xaevis without triggering instant execution via the central neural Spire-Consensus. To stop planetary extinction, high-ranking Vaelen dissidents secretly leak encryption keys, medical formulas, and backdoor protocols to rogue operatives like Zunari and Tyage.
+    *   *Why a Human Ally Exists:* The Preservers know they cannot openly defy Archon Xaevis without triggering instant execution via the central neural Spire-Consensus. To stop planetary extinction, high-ranking Vaelen dissidents secretly leak encryption keys, medical formulas, and backdoor protocols to rogue operatives like Tsunari and Vram.
 

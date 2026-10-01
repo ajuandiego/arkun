@@ -18,7 +18,7 @@
       ▼                                                      ▼
  ░░░░░░░░░░░░░░░░░░░░░░░░ [ SECTOR 09: THE GRAY RING ] ░░░░░░░░░░░░░░░░░░░░░░
  │  • 15 Million Dustborn Humans        • Subterranean Subway Bunkers            │
- │  • Amber Haze & Silt-Mash Economy    • The Null-Circuit Rebel Cell (Zunari)  │
+ │  • Amber Haze & Silt-Mash Economy    • The Null-Circuit Rebel Cell (Tsunari)  │
  │  • Scrubber Guilds & Black Bazaars   • "Doc" Mercer's Clinic (Simulacrum)    │
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                    │
@@ -105,8 +105,8 @@ Surrounding every Green Dome cluster is a 50-to-80-mile-wide wasteland fringe kn
 *   **Population:** Approximately **45 million baseline humans** living in multi-tiered underground transit hubs, repurposed suburban structures, and barter enclaves.
 *   **Key Landmarks in Sector 09:**
     1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09. Topped with automated plasma sentries, pulse-cannons, and acoustic sonic-shredders to prevent unauthorized border crossings.
-    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base of **Aeros-Legion 7**, where Tyage Vram and his squadron dock their Roc-interceptors.
-    3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange deep beneath the dead city. The air is filtered through jury-rigged zeolite columns. This is where Zunari Thorne works in her reverse-engineering lab.
+    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base of **Aeros-Legion 7**, where Vram Tyage and his squadron dock their Roc-interceptors.
+    3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange deep beneath the dead city. The air is filtered through jury-rigged zeolite columns. This is where Tsunari Thorne works in her reverse-engineering lab.
     4.  **"Doc" Mercer’s Triage Clinic:** Located in an abandoned subway mezzanine. Outwardly a battered emergency clinic for Gray Sector workers suffering from the Choke; secretly the observation terrarium maintained by Mercer (*Weaver-Unit 09*).
     5.  **The Rust Bazaar (The Iron Market):** A bustling, neon-lit night market under a collapsed highway overpass. Scavengers and merchants trade copper wire, salvaged batteries, sulfur-resistant seeds, and *Liter-Hours* of oxygen canisters.
 
@@ -122,7 +122,7 @@ Beyond the Gray Rings lie the **Rust Barrens**—vast, unmonitored expanses of p
     *   **The Strangler Basins:** Subterranean sewer networks and subterranean aqueducts infested with **Obsidian Stranglers** (wire-vipers).
 *   **Terra-Pylon Seven (The Atmospheric Forge):**
     *   A colossal, 2,000-foot-tall biomechanical tower sunk deep into the bedrock of the northern wasteland, pulsing with sickening violet light every 90 seconds as it discharges alien aerosols into the jet stream.
-    *   Target of Zunari and Tyage’s climactic sabotage mission.
+    *   Target of Tsunari and Vram’s climactic sabotage mission.
 
 ---
 
@@ -150,4 +150,4 @@ The true rulers of Earth do not reside on the surface. They inhabit three coloss
 └───────────────────┴───────────────────────────┴─────────────────────────────────┘
 ```
 
-*   **The Planetary Tension:** While Archon Xaevis commands Spire Prime and forces the extinction timeline in the North, Arbiter Lyraen uses Spire Meridian to shield the Southern quadrant, quietly transmitting backdoors and navigation bypass codes to Zunari and Tyage in Sector 09.
+*   **The Planetary Tension:** While Archon Xaevis commands Spire Prime and forces the extinction timeline in the North, Arbiter Lyraen uses Spire Meridian to shield the Southern quadrant, quietly transmitting backdoors and navigation bypass codes to Tsunari and Vram in Sector 09.

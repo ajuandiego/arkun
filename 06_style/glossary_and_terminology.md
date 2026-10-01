@@ -25,7 +25,7 @@
 *   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of pilots, allowing direct interface with biological gunships.
 *   **Roc-Class Interceptor:** A living, bio-engineered atmospheric fighter craft flown via direct neural coupling with a Griffin pilot.
 *   **The Silver Spine (Synapse Lattice):** The organic extraterrestrial cyber-neural network grafted along the brainstem and spinal cord that enforces obedience and emotional dampening.
-*   **Null-Resonator:** The rare genetic mutation found in Zunari Thorne that naturally dampens Vaelen quantum-synthetic frequencies.
+*   **Null-Resonator:** The rare genetic mutation found in Tsunari Thorne that naturally dampens Vaelen quantum-synthetic frequencies.
 *   **Arkun:** The signature epigenetic ability unlocked when a chimeric soldier's **Strain Chart (Genetics)** fuses with their **True Character (Core Psychological Drive)**. Arkuns represent human individuality violently breaking through alien genetic conditioning.
 *   **Biological Tether (Voluntary Synergy):** The high-reward symbiotic resonance between a Null-Resonator and a Chimeric Lattice user, stabilizing cellular decay, multiplying reflex speeds, and enabling bidirectional sensory overlay without artificial radius limits.
 
@@ -67,14 +67,14 @@
 
 ## 6. Key Dramatis Personae & Callsigns
 
-*   **Dr. Zunari Thorne:** Lead female protagonist (FMC). Clandestine field geneticist, rogue reverse-engineer, and Null-Resonance infiltrator spliced with the prehistoric Dromaeon (Raptor) strain.
-    *   *Tactical Callsign / Moniker:* **"Zune"** (used over comms and by frontier scouts).
-    *   *Intimate Diminutive:* **"Zunie"** (used exclusively by Tyage in tender, unguarded moments).
-*   **Commander Tyage Vram:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh (Phoenix) apex strain.
+*   **Dr. Tsunari Thorne:** Lead female protagonist (FMC). Clandestine field geneticist, rogue reverse-engineer, and Null-Resonance infiltrator spliced with the prehistoric Dromaeon (Raptor) strain.
+    *   *Tactical Callsign / Moniker:* **"Tsune"** (used over comms and by frontier scouts).
+    *   *Intimate Diminutive:* **"Tsunie"** (used exclusively by Vram in tender, unguarded moments).
+*   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh (Phoenix) apex strain.
     *   *Tactical Callsigns:* **"Pyre-Zero"** / **"Aeros-Actual"**.
-    *   *Field Moniker:* **"Ty"** (used by his inner circle, squadmates, and Zunari).
+    *   *Field Moniker:* **"Vram"** (used by his inner circle, squadmates, and Tsunari).
 *   **Elder Gideon Cross:** Chief Bio-Curator of Sector 09; keeper of The Glass Vault and mentor figure.
-*   **Ren:** Fourteen-year-old Storm-Born mechanical prodigy and Zunari’s tech partner.
+*   **Ren:** Fourteen-year-old Storm-Born mechanical prodigy and Tsunari’s tech partner.
 *   **Arbiter Lyraen:** Dissident Vaelen judicial/scientific overseer and secret ally of humanity.
 *   **Archon Xaevis:** Supreme Vaelen terraforming commander and primary extraterrestrial antagonist.
 

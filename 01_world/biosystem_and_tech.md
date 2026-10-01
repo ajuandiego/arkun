@@ -19,7 +19,7 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 *   **Natural Weaponry:** Retractable nanocarbon talons sheathed beneath the fingernails, extending voluntarily to slice through alloy bulkheads.
 *   **Metabolic Signature:** Hyper-thermic furnace (runs at 104°F / 40°C); burns calories at terrifying rates, requiring hyper-concentrated nutrient paste.
 
-#### 2. The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Zunari's Lineage)*
+#### 2. The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Tsunari's Lineage)*
 *   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
 *   **Dermis & Covering:** Fine, dark downy feathers along forearms and calves; smooth reptilian keratin scutes along the shins, ankles, and lower spine.
 *   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with horizontal slit pupils; dual eyelids with a translucent nictitating membrane that shields against dust storms and blinding muzzle flashes.
@@ -33,7 +33,7 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 *   **Natural Weaponry:** Heavy serrated forearm spurs; sub-dermal venom glands along the jaw producing paralytic neurotoxins and tissue-dissolving enzymes.
 *   **Metabolic Signature:** Cold, reptilian-efficient resting metabolism (resting body temp approx. 95°F / 35°C); requires external heat basking or chemical thermal packs when dormant.
 
-#### 4. The Simurgh / Phoenix Strain — *The Solar Regenerative Apex (Tyage's Lineage)*
+#### 4. The Simurgh / Phoenix Strain — *The Solar Regenerative Apex (Vram's Lineage)*
 *   **Build & Skeleton:** Towering, hyper-vascularized musculature with hollow titanium-matrix bones and ultra-elastic tendon attachments.
 *   **Dermis & Covering:** Smooth alabaster skin webbed with subcutaneous capillary tracks that glow liquid gold-crimson under emotional or combat arousal; iridescent obsidian-and-copper feather shafts along the collarbones, nape, and spine.
 *   **Sensory Array:** Wide, molten-gold avian pupils tracking bio-electric currents, thermal gradients, and aerial flight vectors.
@@ -76,7 +76,7 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 
 ## 4. The Biological Resonance Factor (Synergy over Leash)
 
-*   **The Genetic Anomaly:** Born in the radioactive and chemical fallout of the initial collapse, Zunari’s genome developed an ultra-rare mutated enzyme / cellular frequency (*The Null-Resonator*).
+*   **The Genetic Anomaly:** Born in the radioactive and chemical fallout of the initial collapse, Tsunari’s genome developed an ultra-rare mutated enzyme / cellular frequency (*The Null-Resonator*).
 *   **The Effect on the Lattice:**
     *   Her unique bio-electric field naturally neutralizes the alien lattice's agonizing feedback loops, dropping fever and preventing neuro-spasms.
     *   Her blood, when synthesized into an aerosol or serum, can permanently dissolve the alien synaptic grip without killing the soldier.
@@ -162,8 +162,8 @@ When a soldier possesses a mixed Strain Chart, their dominant character trait ca
 
 | Strain Chart | True Character / Core Drive | Resulting Hybrid Arkun | Tactical Manifestation |
 | :--- | :--- | :--- | :--- |
-| **Dromaeon (75%) + Human Null (25%) [Zunari]** | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
-| **Simurgh (80%) + Gryphon (20%) [Tyage]** | *The Indomitable Hearth* | **The Pyric Crucible** | Overclocks metabolic heat into a 300°F kinetic solar aura; melts incoming artillery and unleashes explosive concussive shockwaves; auto-defibrillates from flatline. |
+| **Dromaeon (75%) + Human Null (25%) [Tsunari]** | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
+| **Simurgh (80%) + Gryphon (20%) [Vram]** | *The Indomitable Hearth* | **The Pyric Crucible** | Overclocks metabolic heat into a 300°F kinetic solar aura; melts incoming artillery and unleashes explosive concussive shockwaves; auto-defibrillates from flatline. |
 | **Lindwurm (70%) + Simurgh (30%)** | *The Unyielding Protector* | **Molten Basalt Shell** | Hardens skin into obsidian armor that simultaneously radiates 200°F cauterizing heat, incinerating anyone who touches them while deflecting artillery. |
 | **Dromaeon (50%) + Siren (50%)** | *The Infiltrator / Assassin* | **Ghost-Step Amnesia** | Stalks in complete acoustic/thermal silence, slips through locked security doors, and leaves targets with zero memory of ever seeing them. |
 
@@ -181,7 +181,7 @@ To monitor human compliance inside the Green Domes and anticipate rebellions in 
     2.  *The Sleeper Hybrid:* An individual who was raised with genuine human memories and believes they are 100% human, until a high-frequency harmonic broadcast from a Spire triggers their dormant Vaelen command lattice (*The Awakening Protocol*).
 
 ### The Subtle Biological Tells (Clues for Observant Characters/Readers)
-Because Zunari is an elite field geneticist, she can eventually piece together the physical clues:
+Because Tsunari is an elite field geneticist, she can eventually piece together the physical clues:
 *   **The Violet Oxidation:** When exposed to extreme UV light or the acidic sulfur of the Amber Haze, their blood oxidizes with a faint, iridescent violet sheen before coagulating.
 *   **Respirator Mimicry:** They wear respirators and change filter cartridges to blend into Gray Sector crowds, but they never actually contract *The Choke*. Their lung tissue secretly houses microscopic alien nitrogen-scrubbers.
 *   **Pupillary Fracture:** Under sudden extreme adrenaline surges or temporal dilation, their pupils momentarily contract into concentric geometric rings rather than smooth circles.
@@ -251,12 +251,12 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
 1.  **The Ghost-Lily (Silica-Lotus / Mnemonic Orchid) — [Flora]**
     *   *Appearance & Biology:* A nocturnal, translucent white succulent that sprouts exclusively from shattered plate glass and cracked concrete atop abandoned skyscrapers. Its crystalline, paper-thin petals absorb ambient lunar light and bioluminesce with a soft, pulsing azure-white glow.
     *   *Sensory & Mnemonic Effect:* The flower releases a micro-aerosol that acts as a natural neuro-calmative. When inhaled by chimeric soldiers, it temporarily silences the static buzz of the Synapse Lattice and stimulates dormant limbic pathways.
-    *   *Plot Dynamic:* Zunari harvests its sap to brew fever-reducing salves for Tyage; encountering a field of Ghost-Lilies during a sub-zero night provides a breathless, luminous haven where Tyage’s erased childhood memories surface.
+    *   *Plot Dynamic:* Tsunari harvests its sap to brew fever-reducing salves for Vram; encountering a field of Ghost-Lilies during a sub-zero night provides a breathless, luminous haven where Vram’s erased childhood memories surface.
 
 2.  **The Zephyr-Moth (Gilded Whisperer) — [Fauna]**
     *   *Appearance & Biology:* Hand-sized, silence-winged lepidopterans with iridescent gold-and-indigo scale dust that refracts the Amber Haze. They feed exclusively on Ghost-Lily nectar and morning condensation.
     *   *Behavior:* Having no natural predators left in the upper ruins, they are utterly fearless. In the sub-zero wasteland nights, they are drawn to extreme biological heat sources.
-    *   *Plot Dynamic:* They swarm silently around Tyage’s 104°F furnace heat, settling along his dark feathers and broad shoulders like living, glowing embers. A Dustborn folk legend claims a Zephyr-Moth will only rest on someone whose true human heart has not been permanently extinguished.
+    *   *Plot Dynamic:* They swarm silently around Vram’s 104°F furnace heat, settling along his dark feathers and broad shoulders like living, glowing embers. A Dustborn folk legend claims a Zephyr-Moth will only rest on someone whose true human heart has not been permanently extinguished.
 
 #### B. The Dangerous (Apex Threats & Environmental Terrors)
 
@@ -264,12 +264,12 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
     *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Lindwurm genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.
     *   *Hunting Method:* Coils silently in the ceilings of collapsed subway tunnels and elevator shafts. It drops silently onto prey, wrapping with hydraulic crushing torque (exceeding 2,000 psi) to snap spines and crush respirator facepieces within seconds.
     *   *The Toxin:* Injects a flesh-dissolving, acidic neurotoxin that liquefies lungs and synthetic seals.
-    *   *Plot Dynamic:* Creates terrifying close-quarters subterranean suspense; Tyage’s avian tetrachromatic vision can detect its micro-thermal heat coils seconds before it drops, forcing intense split-second cooperative combat.
+    *   *Plot Dynamic:* Creates terrifying close-quarters subterranean suspense; Vram’s avian tetrachromatic vision can detect its micro-thermal heat coils seconds before it drops, forcing intense split-second cooperative combat.
 
 2.  **The Glass-Bramble (Lung-Needle Spore-Bush) — [Flora]**
     *   *Appearance & Biology:* Low-creeping, barbed thickets that coat the rubble fields between domes. The stems are hollow silica crystals containing microscopic, razor-sharp needle spores.
     *   *The Hazard:* When stepped on or disturbed by high winds, the brambles fracture with a high-pitched snap, detonating a cloud of microscopic silicon needles. Inhaling them causes instantaneous pulmonary laceration and accelerates *The Choke*.
-    *   *Plot Dynamic:* Stepping on them shreds footwear and gear. Zunari uses their brittle trigger mechanism to craft improvised acoustic and antipersonnel tripwires around their wilderness hideouts.
+    *   *Plot Dynamic:* Stepping on them shreds footwear and gear. Tsunari uses their brittle trigger mechanism to craft improvised acoustic and antipersonnel tripwires around their wilderness hideouts.
 
 #### C. The Useful (Survival Tools & Tactical Exploits)
 
@@ -281,7 +281,7 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
 2.  **The Siphon-Reed (Dew-Weaver / Silver-Spike) — [Flora]**
     *   *Appearance & Biology:* Tall, ribbed hollow reeds that grow in flooded industrial basements and acidic runoff canals.
     *   *The Secret Utility:* Their root membranes perform biological reverse-osmosis. They draw in toxic, heavy-metal sludge and pump pure, sterile, mineral-rich drinking water into swollen translucent bulbs at the base of their stalks.
-    *   *Plot Dynamic:* Zunari teaches Tyage how to slice into the bulb's inner vascular seam with a clean blade without puncturing the bitter, toxic outer rind—providing lifesaver hydration in the barren desert.
+    *   *Plot Dynamic:* Tsunari teaches Vram how to slice into the bulb's inner vascular seam with a clean blade without puncturing the bitter, toxic outer rind—providing lifesaver hydration in the barren desert.
 
 3.  **Chameleon-Moss (Luminescent Dermal Lichen) — [Flora / Micro-Organism]**
     *   *Appearance & Biology:* A velvety lichen that grows on the north-facing concrete of terra-pylons, feeding on stray electromagnetic leakage.

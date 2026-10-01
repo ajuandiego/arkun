@@ -1,8 +1,8 @@
 # Character Dossier: The Female Protagonist (FMC)
 
-> **Full Name:** **Dr. Zunari Thorne**  
-> **Field Callsign / Moniker:** **"Zune"** (used by squadmates, scouts, and over tactical comms)  
-> **Intimate Diminutive:** **"Zunie"** (used exclusively by Tyage in private, high-vulnerability moments)
+> **Full Name:** **Dr. Tsunari Thorne**  
+> **Field Callsign / Moniker:** **"Tsune"** (used by squadmates, scouts, and over tactical comms)  
+> **Intimate Diminutive:** **"Tsunie"** (used exclusively by Vram in private, high-vulnerability moments)
 
 ## 1. Character Identity & Overview
 *   **Role:** Clandestine Field Biologist, Reverse-Engineer, and Null-Circuit Operative.
@@ -26,14 +26,14 @@
 ## 3. Psychological Architecture
 
 ### The Ghost (The Backstory Trauma)
-When Zunari was 17, her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Zunari with an uncorrupted, ancient **Dromaeon (Raptor) archeo-genetic embryo**, merged with her native Amber Haze immunity. Zunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
+When Tsunari was 17, her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Tsunari with an uncorrupted, ancient **Dromaeon (Raptor) archeo-genetic embryo**, merged with her native Amber Haze immunity. Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
 
 ### The Lie She Believes
 > *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
 
 ### The Internal Want vs. Need
 *   **What She Wants:** Absolute independence and survival: to decode the Vaelen atmospheric keys, liberate the Gray Sectors from corporate control, and remain unbound by any master.
-*   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Tyage) transforms her from a hunted rogue into an apex leader.
+*   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Vram) transforms her from a hunted rogue into an apex leader.
 
 ---
 
@@ -57,7 +57,7 @@ When Zunari was 17, her father—a chief bio-engineer working on the archeo-gene
 
 ## 6. Genetic Strain Chart & Arkun Manifestation
 
-The Arkun formula applied to Zunari Thorne:
+The Arkun formula applied to Tsunari Thorne:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
 *   **Genetic Strain Chart:**
@@ -66,12 +66,12 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 *   **True Character / Core Psychological Drive:**
     *   *The Sovereign Stalker / The Uncaged Ghost.* An absolute refusal to be collared, modified by corporate masters, or herded like prey. Her soul is wild, independent, and fiercely protective of her freedom.
 *   **Signature Arkun: Quantic Phase-Stutter (Chrono-Dilation & Ghost-Step)**
-    *   *Manifestation:* For a burst of **2 to 3 seconds**, Zunari accelerates her localized temporal vector by **500%**. To observers, she teleports or turns into a blur of shadows, slipping through crossfire, vaulting through closing security blast doors, or striking an enemy commander from behind before their synapses can register her movement.
+    *   *Manifestation:* For a burst of **2 to 3 seconds**, Tsunari accelerates her localized temporal vector by **500%**. To observers, she teleports or turns into a blur of shadows, slipping through crossfire, vaulting through closing security blast doors, or striking an enemy commander from behind before their synapses can register her movement.
     *   *The Null-Resonance Veil:* Because of her human grounding frequency, her phase-stutter cannot be locked onto by automated sentry turrets or Vaelen psionic tracking grids.
 
 ---
 
 ## 7. Romantic Dynamics & Friction Points with the MMC
-*   **Initial Stance:** Deadly predator rivalry. When Tyage tracks her down in Chapter 1, it is a ferocious clash of apex species: the blinding solar radiance of the Phoenix Commander against the hyper-agile shadow-stalking of the Raptor Infiltrator.
-*   **The Turning Point:** Seeing Tyage’s radiant body burning up in agonizing lattice-decay fever. When she touches his bare collarbone to restrain him, her cold-blood predator physiology and Null-Resonance instantly absorb his excess heat, dropping his fever to absolute peace.
+*   **Initial Stance:** Deadly predator rivalry. When Vram tracks her down in Chapter 1, it is a ferocious clash of apex species: the blinding solar radiance of the Phoenix Commander against the hyper-agile shadow-stalking of the Raptor Infiltrator.
+*   **The Turning Point:** Seeing Vram’s radiant body burning up in agonizing lattice-decay fever. When she touches his bare collarbone to restrain him, her cold-blood predator physiology and Null-Resonance instantly absorb his excess heat, dropping his fever to absolute peace.
 *   **The Power Dynamic (Fire and Shadow):** He possesses overwhelming kinetic power and solar radiance; she possesses lethal micro-speed, cunning intelligence, and the biological key to his survival. They challenge, test, and complement each other like two sides of an evolutionary coin.

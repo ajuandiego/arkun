@@ -1,8 +1,8 @@
 # Character Dossier: The Phoenix Commander (MMC)
 
-> **Full Name:** **Commander Tyage Vram**  
+> **Full Name:** **Commander Vram Tyage**  
 > **Tactical Callsigns:** **"Pyre-Zero"** / **"Aeros-Actual"**  
-> **Field Moniker:** **"Ty"** (used by his inner circle, squadron, and Zunari)
+> **Field Moniker:** **"Vram"** (used by his inner circle, squadron, and Tsunari)
 
 ## 1. Character Identity & Overview
 *   **Role:** Supreme Commander of Aeros-Legion 7; Chief Military Instrument of the Consortium and Vaelen Ascendancy.
@@ -39,7 +39,7 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 ---
 
 ## 4. The Male Biotype (Phoenix-Augmented) & Natural Skillset
-*   **The Living Thermal Furnace (104°F–106°F):** In the freezing nights of the wasteland and during sub-zero dust storms, his hyper-thermic solar metabolism acts as a vital heat engine, keeping Zunari alive through bitter conditions.
+*   **The Living Thermal Furnace (104°F–106°F):** In the freezing nights of the wasteland and during sub-zero dust storms, his hyper-thermic solar metabolism acts as a vital heat engine, keeping Tsunari alive through bitter conditions.
 *   **Cytokinetic Cellular Mitosis (Self-Healing):** His immune and cellular regeneration cycle runs at ten times baseline human speed; flesh wounds smoke and knit together within minutes.
 *   **Cardiac Auto-Defibrillation (The Rebirth):** If his heart stops or he flatlines in battle, his cardiac core automatically discharges a massive thermal-electric pulse, restarting his heart—a literal manifestation of the Phoenix rising from the ashes.
 *   **Apex Aerial Reflexes:** Seamless neural symbiosis with his Roc-class interceptor. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
@@ -55,7 +55,7 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 
 ## 6. Genetic Strain Chart & Arkun Manifestation
 
-The Arkun formula applied to Tyage Vram:
+The Arkun formula applied to Vram Tyage:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
 *   **Genetic Strain Chart:**
@@ -64,8 +64,8 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 *   **True Character / Core Psychological Drive:**
     *   *The Indomitable Hearth / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a fierce, unyielding drive to be a sanctuary rather than a weapon of ruin—a warrior who would burn himself to cinders to keep his partner safe.
 *   **Signature Arkun: The Pyric Crucible (Solar Radiance & Kinetic Convection)**
-    *   *Manifestation:* Tyage overclocks his core heat into a radiant 300°F kinetic aura. Incoming projectile rounds melt or deflect off his thermal slipstream; his claw strikes unleash explosive kinetic heat waves that incinerate armored drones.
-    *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Zunari, her cool Raptor physiology and Null-Resonance act as a perfect biological heat-sink, draining his lethal fever and stabilizing his lattice. In return, his radiant energy supercharges Zunari’s Quantic Phase-Stutter, allowing her to stay accelerated for extended combat intervals.
+    *   *Manifestation:* Vram overclocks his core heat into a radiant 300°F kinetic aura. Incoming projectile rounds melt or deflect off his thermal slipstream; his claw strikes unleash explosive kinetic heat waves that incinerate armored drones.
+    *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Tsunari, her cool Raptor physiology and Null-Resonance act as a perfect biological heat-sink, draining his lethal fever and stabilizing his lattice. In return, his radiant energy supercharges Tsunari’s Quantic Phase-Stutter, allowing her to stay accelerated for extended combat intervals.
 
 ---
 
@@ -73,11 +73,11 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 
 ### The Touch-Starved Apex Predator
 *   Because of his military role and the chilling bio-lattice, he has gone over a decade without experiencing gentle, uncalculated human physical contact. He is accustomed only to cold surgical needles, bio-ports, and violence.
-*   When Zunari first touches his bare skin—even in hostility or triage—the deafening psychic static inside his skull instantly drops to absolute silence.
+*   When Tsunari first touches his bare skin—even in hostility or triage—the deafening psychic static inside his skull instantly drops to absolute silence.
 *   **The Reaction:** A terrifying, disorienting shock of pleasure and peace so profound it brings him to his knees before her.
 
 ### Key Tropes Unleashed
-*   **The Naming Progression (From Target to Soul):** Starts by addressing her coldly as *"The Null-Anomaly"* or *"Thorne."* As their combat partnership solidifies, it shortens to the crisp, respectful field moniker *"Zune."* Only in private, unguarded moments—when his fever breaks against her cool skin or when terror for her safety shatters his composure—does his voice drop into the raspy, tender diminutive: *"Zunie."*
+*   **The Naming Progression (From Target to Soul):** Starts by addressing her coldly as *"The Null-Anomaly"* or *"Thorne."* As their combat partnership solidifies, it shortens to the crisp, respectful field moniker *"Tsune."* Only in private, unguarded moments—when his fever breaks against her cool skin or when terror for her safety shatters his composure—does his voice drop into the raspy, tender diminutive: *"Tsunie."*
 *   **"Who Did This To You?":** Cold fury that terrifies even his own squad. If anyone from the Consortium or the resistance dares lay a violent hand on her, his military discipline evaporates, replaced by feral phoenix retribution.
 *   **The Knife-to-Throat Intimacy:** Early interactions feature high physical tension where she has a scalpel or vibro-blade pressed against his throat while his claws rest millimeters from her carotid artery—neither moving, breathing in each other's air.
 *   **Possessive Devotion ("Burn the World for Her"):** He starts out claiming he is holding her captive because she is his "cure." Over time, the pretense vanishes: he will gladly watch the Green Domes collapse and the Vaelen burn before he lets anyone take her from him.

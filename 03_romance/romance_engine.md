@@ -5,10 +5,10 @@
 In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
 *   **The Polar Dynamics (Fire & Shadow):**
-    *   **Tyage (The Phoenix / Simurgh Apex):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
-    *   **Zunari (The Raptor / Dromaeon Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
+    *   **Vram (The Phoenix / Simurgh Apex):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
+    *   **Tsunari (The Raptor / Dromaeon Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
-    *   When Zunari touches Tyage, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
+    *   When Tsunari touches Vram, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
     *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.
 
 ---
@@ -23,11 +23,11 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 ### Stage 1: The Accidental Shock (The Revelation)
 *   **The Trigger:** During her capture, in a violent struggle, her bare skin brushes the exposed neural port at his collarbone or neck.
-*   **The Sensation:** An instantaneous cessation of white noise. For the first time in ten years, the screaming static in Tyage’s skull ceases. He freezes, pupil dilation blown wide, disoriented by total silence.
+*   **The Sensation:** An instantaneous cessation of white noise. For the first time in ten years, the screaming static in Vram’s skull ceases. He freezes, pupil dilation blown wide, disoriented by total silence.
 *   **Her Realization:** She sees the monstrous, untouchable commander shudder, gasp, and look at her not like prey, but like a dying man who just found an oasis.
 
 ### Stage 2: Tactical Proximity & Mutual Utility
-*   **The Reality:** Tyage does *not* instantly collapse if she walks away. He has lived with chronic lattice burn for years. But experiencing her dampening effect showed him what true cognitive clarity and peak operational capacity feel like.
+*   **The Reality:** Vram does *not* instantly collapse if she walks away. He has lived with chronic lattice burn for years. But experiencing her dampening effect showed him what true cognitive clarity and peak operational capacity feel like.
 *   **The Choice:** He doesn't cage her as an invalid or put a leash on her wrist. Instead, they recognize that staying in operational proximity makes them virtually unkillable: she grounds his chronic neural strain, and he provides heavy kinetic shielding and mobility she desperately needs.
 *   **The Friction:** Two prideful, highly capable survivors choosing to share physical space and watch each other's backs because common sense dictates that solo survival is a statistical dead end.
 
@@ -52,7 +52,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 | :--- | :--- | :--- |
 | **Direct Contact (Skin-to-Skin)** | Optimal equilibrium. Grounding of quantum temporal strain; instant relief from lattice burn; rapid cellular stabilization. | Intense sensory awareness, complete cognitive clarity, zero energy waste. |
 | **Close Tactical Range (1 – 15m)** | Steady ambient dampening active; high operational coordination; abilities can be pushed with minimal feedback. | Seamless combat synergy, mutual blind-spot coverage, mutual reassurance. |
-| **Separated / Solo Operations** | Baseline functioning. Tyage endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
+| **Separated / Solo Operations** | Baseline functioning. Vram endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---
 
