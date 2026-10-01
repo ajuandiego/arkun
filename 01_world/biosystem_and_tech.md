@@ -156,20 +156,36 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 *   **Molecular Scent-Memory:** Tracks target pheromones, blood traces, and weapon lubricants across miles of dust storms with absolute fidelity.
 *   **Seismic Roar:** A concussive sub-vocal acoustic blast that knocks down advancing infantry squads and detonates nearby explosive ordinance.
 
-### 7. The Pure Human Baseline (The Null-Lineage)
+### 7. The Pure Human Baseline & The Mosaic Keystone Genotype
+
+#### 7.1 The Pure Human Baseline (The Null-Lineage)
 *   **The Null-Resonance (Universal Ground Wire):** Pure, un-spliced human bio-electricity acts as a biological dead-zone for alien frequencies, quieting the chronic agony of the Synapse Lattice and stabilizing chimeric burnouts.
 *   **Bio-Electromagnetic EMP Pulse:** Under extreme focus, projects an active bio-pulse that scrambles nearby electronic optics, fries drones, and blinds alien sensor nets.
 *   **Mnemonic Immunity:** Because the brain has no synthetic alien neural nodes, pure humans are naturally resistant to memory manipulation and telepathic intrusion.
 
+#### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
+*   **The Problem Dr. Jeffrey Thorne Solved:** Single-strain chimeras suffer from biological xenophobia—a Lindwurm’s tissue rejects a Simurgh’s blood, and a Gryphon cannot tolerate a Dromaeon’s neuro-chemistry. Furthermore, all corporate strains are crippled by the Vaelen's Synapse Lattice collar.
+*   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not just splice her with a single lineage. He engineered her as the **Mosaic Keystone**:
+    *   *Expressed Body (100% Mutation D: Dromaeon):* Her physical form is purely that of the Scythe-Stalker (pedal sickle-claws, burst sprinting speed, reptilian shin scutes, horizontal slit irises, acoustic hunting syrinx).
+    *   *Dormant Regulatory Matrix (The Keystone):* Her non-coding regulatory DNA contains dormant receptor loci of the other four ancient lineages (**Gryphon, Lindwurm, Simurgh, Fenris**).
+    *   *The Universal Rosetta Stone:* Because she carries the harmonized genetic receptors of all five strains without an alien neural collar, her **Null-Resonance** acts as a universal adapter. Her touch can ground Vram’s Simurgh solar fever, soothe Boran’s Lindwurm armor, and heal leashed soldiers across any strain without biological rejection.
+
+#### 7.3 Concealment Protocols for Un-Collared Mutants
+In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Tsunari survives through four strict physical concealment practices:
+1.  **Quick-Release Scavenger Boots:** Her 4-to-6-inch pedal sickle-claws remain retracted flush against her soles inside oversized, hollow-toed combat boots; a concealed magnetic latch flexes on command to deploy the talons through hidden split-ports in the leather.
+2.  **Mechanic Bracers & Ballistic Leggings:** Cover the fine pebbled reptilian scales along her inner forearms and shins.
+3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her horizontal predatory slit pupils and nictitating membrane as light-sensitive work gear.
+4.  **High Collar & Sleeveless Design:** Wears high, stiff-collared tunics or wrapped linen neck gaiters to fully enclose her throat—concealing the smooth, unblemished skin and the **dangerous absence of titanium cervical siphons**—while keeping the garment **strictly sleeveless** to leave her toned shoulders and arms completely free for explosive climbing, vaulting, and close-quarters hand-to-hand combat.
+
 ---
 
-## 7. Hybrid Arkun Examples (Composite Charts)
+## 8. Hybrid Arkun Examples (Composite Charts)
 
 When a soldier possesses a mixed Strain Chart, their dominant character trait can forge **terrifying cross-strain Arkuns**:
 
 | Strain Chart | True Character / Core Drive | Resulting Hybrid Arkun | Tactical Manifestation |
 | :--- | :--- | :--- | :--- |
-| **Dromaeon (75%) + Human Null (25%) [Tsunari]** | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
+| **Mosaic Keystone [Tsunari]**<br/>(Dromaeon Expressed + 4 Dormant Lineages) | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
 | **Simurgh (80%) + Gryphon (20%) [Vram]** | *The Indomitable Hearth* | **The Pyric Crucible** | Overclocks metabolic heat into a 300°F kinetic solar aura; melts incoming artillery and unleashes explosive concussive shockwaves; auto-defibrillates from flatline. |
 | **Lindwurm (70%) + Simurgh (30%)** | *The Unyielding Protector* | **Molten Basalt Shell** | Hardens skin into obsidian armor that simultaneously radiates 200°F cauterizing heat, incinerating anyone who touches them while deflecting artillery. |
 | **Dromaeon (50%) + Siren (50%)** | *The Infiltrator / Assassin* | **Ghost-Step Amnesia** | Stalks in complete acoustic/thermal silence, slips through locked security doors, and leaves targets with zero memory of ever seeing them. |

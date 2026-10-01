@@ -59,3 +59,19 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 *   **Vram's Voice (The Kinetic Sky-Sentinel):** Internal monologue is crisp, sensory-saturated, and tactical. He tracks lines of sight, structural integrity, thermal signatures, and her micro-movements. His inner world is devoid of military jargon for its own sake—it is the raw, focused perception of a predator keeping his mate and himself alive.
 *   **The Zero-Ideology Rule:** Neither character wastes narrative space on political pontificating, modern cultural debates, or preachy morality. Their language and thoughts are stripped of dogma: they care about water, air, ammunition, thermal shelter, and keeping each other breathing. Common sense rules every chapter.
 
+---
+
+## 5. The Golden Prose Rule: Never Over-Complicate (Fiction, Not a Textbook)
+
+While our worldbuilding and biological bibles are grounded in rigorous internal logic, the **narrative prose on the page must remain intuitive, sensory, and emotionally immediate**:
+
+1.  **Translate Biology into Raw Sensation:**
+    *   *Avoid academic clinical jargon:* Don't write *"Her somatosensory cortex registered a hyper-mitotic thermal cascade."*
+    *   *Write visceral feeling:* Write *"His blood burned through his veins like liquid copper, hot enough to scorch her skin through her gloves."*
+2.  **No Pausing for Infodumps:**
+    *   Explanations of gene-craft, respirators, or flight aerodynamics must occur **in the heat of survival or intimacy**—whispered during fever triage, argued over a malfunctioning cartridge, or felt in the physical clash of claws and blades.
+3.  **Simplicity Over Complexity:**
+    *   Characters speak in punchy, immediate human terms: *The Choke*, *Liter-Hours*, *The Leash*, *The Amber Haze*, *Stalkers*, *Sky-Lords*.
+    *   The complex science serves as an invisible scaffolding under the story; the reader experiences the emotional velocity and high-stakes romance first.
+
+

@@ -14,11 +14,11 @@
 
 ## 2. Appearance & Sensory Markers
 *   **Build & Stature:** Lean, wiry, explosive; built with the low center of gravity and hyper-elastic tendon structure of a cursorial pack hunter. Moves with eerie, silent fluid grace, capable of vertical wall-springs and 45+ mph sprinting bursts.
-*   **Face & Features:** Striking, captivating feminine beauty with noticeable East-Asian heritage in her eyes and sculpted bone structure; high cheekbones and delicate, defined jawline; normal rounded human ears (no elf ears); almond-shaped eyes with elegant epicanthic folds, holding a sharp, predatory amber-chartreuse gaze with subtle reptilian slit pupils and a translucent nictitating membrane. Long raven-dark hair secured in a high braided warrior bun, transfixed horizontally by a small, razor-sharp steel bodkin knife (serving simultaneously as hair pin, rapid-defense dagger, and improvised electronic lock-picker).
-*   **Signature Attire & Field Gear:** Dressed for the sweltering desert heat in a fitted, weathered off-white sleeveless tactical tank shirt tucked into dark, tailored combat trousers with reinforced knee pads. Across her torso she wears a sleek, non-invasive leather chest band harness holding two slim diagnostic glass vials and discrete lockpick pouches. Main tactical sidearm holstered securely at her right hip. Bare, ungloved hands with natural, short-trimmed human fingernails (no beast claws on hands). Customized calf-high split-sole dark leather boots (clean standard boots in resting state; claws are internal).
+*   **Face & Features:** Striking, captivating feminine beauty with noticeable East-Asian heritage in her eyes and sculpted bone structure; high cheekbones and delicate, defined jawline; normal rounded human ears (no elf ears); almond-shaped eyes with elegant epicanthic folds, holding a sharp, predatory amber-chartreuse gaze with subtle horizontal reptilian slit pupils and a translucent nictitating membrane. Wears a pair of scavenged, amber-tinted industrial optics/goggles around her neck or over her eyes to disguise her slit pupils as light-sensitive welder's optics. Long raven-dark hair secured in a high braided warrior bun, transfixed horizontally by a small, razor-sharp steel bodkin knife (serving simultaneously as hair pin, rapid-defense dagger, and improvised electronic lock-picker).
+*   **Signature Attire & Field Concealment:** Dressed for the sweltering wasteland heat in a **high-collared, strictly sleeveless** tactical combat tunic of weathered charcoal and slate-drab, tailored snugly over her torso and tucked into dark, reinforced combat trousers. The garment's stiff, upright high collar and wrapped linen neck gaiter completely conceal her throat—**hiding the smooth, unblemished skin and the dangerous absence of titanium cervical siphons** (in Sector 09, an un-collared chimera is marked for immediate vivisection). While her neck is securely shielded, the top is **strictly sleeveless**, leaving her toned, athletic shoulders and lean muscular arms bare for unrestricted kinetic climbing and high-velocity sprinting. Lower down, wrapped leather mechanic's bracers mask the fine pebbled reptilian scales along her inner forearms, while ballistic leggings cover her shin scutes. Across her chest rests a minimalist leather harness bearing diagnostic glass ampoules and lockpicks, with bare, ungloved hands showing natural, unmutated human fingernails.
 *   **Chimeric / Bio-Traits (The Dromaeon Lineage):**
-    *   **The Pedal Sickle-Claws (Enhanced Combat State Only):** Completely retracted and invisible during resting state. Only when adrenaline spikes in active fight-or-flight combat do the four-inch curved nanocarbon sickle-talons extend through the split-sole boots for leaping strikes.
-    *   **Subtle Dermal Scale Pattern:** Smooth, sun-toned skin on her arms, marked across the upper shoulders and biceps with a subtle, elegant geometric reptilian scale pattern that resembles an intricate dark tattoo rather than bumpy lizard hide.
+    *   **The Pedal Sickle-Claws & Quick-Release Boots:** Four-to-six-inch curved nanocarbon sickle-talons on the inner digits of her feet. In civilian mode, they remain completely retracted flush against her soles inside customized, oversized scavenger combat boots with hollow toe-boxes. Only when leaping or in lethal close combat does a flex of her foot tendon trigger a concealed magnetic sole latch, allowing the sickle-talons to punch forward through hidden split-ports in the leather.
+    *   **Subtle Dermal Scale Pattern:** Fine, smooth pebbled scales along her calves, shins, and forearm undersides, resembling intricate slate-gray geometric textures.
     *   **Sub-Vocal Acoustic Syrinx:** Capable of producing rapid, sub-vocal hunting clicks and chirps used to echolocate through pitch-black subterranean ruins.
 *   **Sensory Scent / Presence:** Copper dust, bitter desert ozone, cool desert sage, and the faint, sweet musk of reptilian predator pheromones.
 
@@ -27,7 +27,7 @@
 ## 3. Psychological Architecture
 
 ### The Ghost (The Backstory Trauma)
-When Tsunari was 17 (in Year 31 AS), her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Tsunari with an uncorrupted, ancient **Dromaeon archeo-genetic embryo**, merged with her native Amber Haze immunity. Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
+When Tsunari was 17 (in Year 31 AS), her father, Dr. Jeffrey Thorne—an elite geneticist working on the archeo-genetic excavations who secretly collaborated with the undercity Scribes—discovered that the Consortium planned to cull un-spliced humans. Before corporate purge teams raided their workshop, Dr. Thorne secretly inoculated Tsunari with an uncorrupted, ancient **Mosaic Keystone genome** (active Dromaeon embryo fused with dormant regulatory markers of all five strains). To protect his daughters, Jeffrey drew the corporate strike team into the deep wastes in an amphibious crawler and plunged into the Stygian Ocean (where he survived to reach the Verdant Cradle). Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
 
 ### The Lie She Believes
 > *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
@@ -56,14 +56,15 @@ When Tsunari was 17 (in Year 31 AS), her father—a chief bio-engineer working o
 
 ---
 
-## 6. Genetic Strain Chart & Arkun Manifestation
+## 6. Genetic Strain Chart: The Mosaic Keystone
 
 The Arkun formula applied to Tsunari Thorne:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
-*   **Genetic Mutation Chart:**
-    *   **75% Mutation D (Dromaeon Strain):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening.
-    *   **25% Pure Human Baseline (Amber Null-Anomaly):** Chromosomal resistance to alien neural lattices and atmospheric sulfur.
+*   **The Mosaic Keystone Genotype:**
+    *   **Primary Expressed Phenotype (100% Mutation D: Dromaeon):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening. Visually and physically, she is purely a Scythe-Stalker.
+    *   **Dormant Regulatory Matrix (The Keystone Adapter):** Non-coding regulatory receptor loci of the other four ancient lineages (**Mutation G: Gryphon, Mutation L: Lindwurm, Mutation S: Simurgh, Mutation F: Fenris**). 
+    *   **The Universal Ground Wire:** Because she carries the harmonized genetic receptors of all five strains, her **Null-Resonance** acts as a universal adapter. Her touch can ground Vram's Simurgh solar fever, stabilize Boran's Lindwurm armor, and heal leashed soldiers across any strain without immunological rejection.
 *   **True Character / Core Psychological Drive:**
     *   *The Sovereign Stalker / The Uncaged Ghost.* An absolute refusal to be collared, modified by corporate masters, or herded like prey. Her soul is wild, independent, and fiercely protective of her freedom.
 *   **Signature Arkun: Quantic Phase-Stutter (Chrono-Dilation & Ghost-Step)**
@@ -76,3 +77,8 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 *   **Initial Stance:** Deadly predator rivalry. When Vram tracks her down in Chapter 1, it is a ferocious clash of primal titans: the blinding solar radiance of the Flight Commander against the hyper-agile shadow-stalking of the Scythe-Stalker Infiltrator.
 *   **The Turning Point:** Seeing Vram’s radiant body burning up in agonizing lattice-decay fever. When she touches his bare collarbone to restrain him, her cold-blood predator physiology and Null-Resonance instantly absorb his excess heat, dropping his fever to absolute peace.
 *   **The Power Dynamic (Fire and Shadow):** He possesses overwhelming kinetic power and solar radiance; she possesses lethal micro-speed, cunning intelligence, and the biological key to his survival. They challenge, test, and complement each other like two sides of an evolutionary coin.
+
+---
+
+## 8. The Revelation of the Keystone (Book 1 Arc)
+For ten years, Tsunari believed her father gave her a desperate, dirty street-splice just so she wouldn't starve in the ruins. In **Chapter 18–20 inside The Glass Vault**, when she runs her blood through Gideon Cross’s ancient quartz spectrometer to synthesize the localized neural stabilizer, the laser refracts into **five distinct harmonic wave-crests**. Gideon stares in awed revelation: Dr. Jeffrey Thorne didn't just give her claws to survive—he harmonized all five lineages to make her the living Rosetta Stone, the only being on Earth capable of breaking the Vaelen's leash and setting every soldier free.
