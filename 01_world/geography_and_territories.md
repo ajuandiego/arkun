@@ -9,7 +9,7 @@
  ═════════════════════════════════════════════════════════════════════════
           │                                              │
    [ THE HIGH AERIE ]                             [ THE HIGH AERIE ]
-   (Aeros-Legion Base)                            (Roc-Interceptor Docks)
+   (Aeros-Legion Base)                            (Winged Flight Roosts)
  ─────────────────────────────────────────────────────────────────────────
       ▲                                                      ▲
  [ BULKHEAD WALL ALPHA ]                                [ BULKHEAD WALL ALPHA ]
@@ -105,7 +105,7 @@ Surrounding every Green Dome cluster is a 50-to-80-mile-wide wasteland fringe kn
 *   **Population:** Approximately **45 million baseline humans** living in multi-tiered underground transit hubs, repurposed suburban structures, and barter enclaves.
 *   **Key Landmarks in Sector 09:**
     1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09. Topped with automated plasma sentries, pulse-cannons, and acoustic sonic-shredders to prevent unauthorized border crossings.
-    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base of **Aeros-Legion 7**, where Vram Tyage and his squadron dock their Roc-interceptors.
+    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base and high-altitude flight roost of **Aeros-Legion 7**, where Vram Tyage and his squadron launch on their 14-foot biological wings.
     3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange deep beneath the dead city. The air is filtered through jury-rigged zeolite columns. This is where Tsunari Thorne works in her reverse-engineering lab.
     4.  **"Doc" Mercer’s Triage Clinic:** Located in an abandoned subway mezzanine. Outwardly a battered emergency clinic for Gray Sector workers suffering from the Choke; secretly the observation terrarium maintained by Mercer (*Weaver-Unit 09*).
     5.  **The Rust Bazaar (The Iron Market):** A bustling, neon-lit night market under a collapsed highway overpass. Scavengers and merchants trade copper wire, salvaged batteries, sulfur-resistant seeds, and *Liter-Hours* of oxygen canisters.

@@ -21,7 +21,7 @@
     *   **Incandescent Plumage:** Iridescent, obsidian feather shafts that shift into blazing copper-gold and deep crimson along his nape, collarbones, and upper spine; they bristle and warm when adrenaline or protectiveness spikes.
     *   **Bioluminescent Capillaries:** Under high emotional arousal, rage, or physical exertion, his subcutaneous vascular tracks pulse with liquid gold-crimson fire beneath his skin.
     *   **Retractable Pyric Talons:** Nanocarbon claws recessed beneath his fingernails that can conduct intense thermal energy, superheating to white-hot temperatures on contact.
-    *   **The Siphon Ports:** Two circular titanium-rimmed neural ports implanted at the base of his skull and mid-thoracic spine for gunship interfacing.
+    *   **The Siphon Ports:** Two circular titanium-rimmed neural ports implanted at the base of his skull and mid-thoracic spine for tactical telemetry feeds and sensory conditioning.
 *   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, bitter clove, and overwhelming, radiant body heat.
 
 ---
@@ -44,12 +44,12 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 *   **The Living Thermal Furnace (104°F–106°F):** In the freezing nights of the wasteland and during sub-zero dust storms, his hyper-thermic solar metabolism acts as a vital heat engine, keeping Tsunari alive through bitter conditions.
 *   **Cytokinetic Cellular Mitosis (Self-Healing):** His immune and cellular regeneration cycle runs at ten times baseline human speed; flesh wounds smoke and knit together within minutes.
 *   **Cardiac Auto-Defibrillation (The Rebirth):** If his heart stops or he flatlines in battle, his cardiac core automatically discharges a massive thermal-electric pulse, restarting his heart—a literal manifestation of the Phoenix rising from the ashes.
-*   **Apex Aerial Reflexes:** Seamless neural symbiosis with his Roc-class interceptor. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
+*   **Apex Aerial Reflexes & Biological Flight:** Master of high-altitude autonomous flight on his 14-foot feathered wings, capable of pulling 12G maneuvers and riding thermal updrafts without fatigue. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
 
 ---
 
 ## 5. Combat Profile & Lethal Capabilities
-*   **Supersonic Aerial Combatant:** Undefeated dogfighter in atmospheric gunships; on foot, his kinetic strikes carry the force of a hydraulic ram infused with burning thermal energy.
+*   **Supersonic Aerial Combatant:** Undefeated aerial predator; on wing, he executes lethal high-speed aerodynamic stoops and kinetic talon strikes; on foot, his strikes carry the force of a hydraulic ram infused with burning thermal energy.
 *   **Vulnerability (Thermal Burnout & Seizure Spikes):**
     *   Because the Phoenix strain runs so hot, prolonged combat without cellular grounding pushes his body into dangerous hyperpyrexia (>108°F), causing lattice misfires, blinding seizures, and excruciating agonizing static.
 

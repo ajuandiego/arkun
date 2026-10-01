@@ -21,9 +21,9 @@
 *   **Aeros-Legion 7:** The official military designation for the Griffin chimeric supersoldier division.
 *   **Chimeric Genome:** Organisms engineered by splicing human embryonic DNA with apex predator genetic coding (avian raptors, big cats).
 *   **Lattice Burn (Neuro-Decay):** The chronic, excruciating inflammatory breakdown caused by long-term rejection of the Vaelen Synapse Lattice.
-*   **Nanocarbon Claws:** Sub-dermal talons embedded along the knuckles and fingertips of Griffin soldiers, voluntarily extended or retracted.
-*   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of pilots, allowing direct interface with biological gunships.
-*   **Roc-Class Interceptor:** A living, bio-engineered atmospheric fighter craft flown via direct neural coupling with a Griffin pilot.
+*   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of soldiers, feeding high-altitude telemetry and enforcing sensory conditioning.
+*   **The High Aerie:** The cantilevered titanium-and-stone military flight roost suspended from Dome Alpha's northern bulkhead, where Aeros-Legion 7 stages autonomous biological flight operations.
+*   **Vaelen Harvester Barge:** A massive, soundless alien atmospheric vessel operating via anti-gravity field propulsion, representing the only mechanical flying craft on Earth.
 *   **The Silver Spine (Synapse Lattice):** The organic extraterrestrial cyber-neural network grafted along the brainstem and spinal cord that enforces obedience and emotional dampening.
 *   **Null-Resonator:** The rare genetic mutation found in Tsunari Thorne that naturally dampens Vaelen quantum-synthetic frequencies.
 *   **Arkun:** The signature epigenetic ability unlocked when a chimeric soldier's **Strain Chart (Genetics)** fuses with their **True Character (Core Psychological Drive)**. Arkuns represent human individuality violently breaking through alien genetic conditioning.

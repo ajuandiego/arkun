@@ -32,15 +32,15 @@ The sprawling expanse of collapsed 21st-century urban ruins outside the dome wal
 
 ## 3. The High Aerie: Aeros-Legion 7 Base
 
-An airborne staging fortress suspended from the structural trusses of the Dome's northern atmospheric bulkhead, thousands of feet above the earth.
+An airborne staging fortress and launch roost suspended from the structural trusses of Dome Alpha's northern atmospheric bulkhead, thousands of feet above the earth.
 
 *   **Visual Atmosphere:**
-    *   Dark, utilitarian carbon-fiber catwalks suspended over open, dizzying vertical drops.
-    *   Amniotic maintenance bays where Roc-class bio-interceptors hang like dormant, chitinous bats from docking harnesses, their organic hulls weeping clear vascular coolant into drainage grates.
-    *   The private quarters of the Griffin pilots: stark, minimalist, illuminated by pale cyan status monitors, devoid of personal possessions except for weapon racks and neural calibration cradles.
+    *   Sweeping titanium and carved stone cantilever perches projecting out over open, dizzying vertical drops into the cloud sea.
+    *   Stepped open-air launch balconies, arched windbreak colonnades, and heavy braided iron suspension cables anchored directly into the geodesic dome ribbing.
+    *   The private staging quarters of the Griffin legion: stark, minimalist, illuminated by pale cyan status monitors, equipped with wing-preening benches, weapon racks, and high-altitude breathing-rig harnesses.
 *   **Sensory Profile:**
-    *   *Scent:* Aviation bio-fuel, hydraulic fluid, scorched ozone, and the cold bite of thin, sub-zero high-altitude air.
-    *   *Sound:* The roar of jet turbines cycling up; the screech of metal talons locking onto landing pylons; the harsh, clipped military bark of flight controllers.
+    *   *Scent:* Scorched ozone from high-altitude thermals, feather preening oil, cold titanium, and the bitter, freezing bite of thin sub-zero air.
+    *   *Sound:* The thunderous whip and crack of 14-foot feathered wings catching updrafts; the whistle of gale-force winds through suspension rigging; the harsh, clipped military bark of flight commanders.
 
 ---
 
@@ -62,10 +62,10 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 
 ## 5. Key Forced-Proximity Havens
 
-### The Crashed Roc-Interceptor (The Wreckage)
-*   Downed in a desolate crater during their escape.
-*   The cockpit is cramped, sealed against a raging acid dust storm outside.
-*   The interior smells of warm organic bio-fuel and blood. The life-support heater is failing; the only source of warmth is Vram's chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand lash against the cockpit canopy.
+### The Buried Shipping Container (The Freight Depot Wreckage)
+*   Downed in a desolate sand dune during their crash-glide escape into the Rust Barrens.
+*   The interior of a rusted, half-buried shipping container is cramped, sealed against a raging acid dust storm and prowling feral Dromaeons.
+*   The space smells of oxidized steel, blood, and Vram's scorched feathers. The night temperature plunges below zero; the only source of warmth is Vram's 106°F chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand and raptor claws scrape against the corrugated walls.
 
 ### The Subterranean Metro Bunker (The Catacombs)
 *   A pre-collapse subway station buried eighty feet beneath the desert bedrock.

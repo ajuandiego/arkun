@@ -45,7 +45,7 @@ graph TD
     *   *Corporate & Alien Oppression:* Director Elena Corvus (Apex GeneSys) & Archon Xaevis’s field Inquisitors.
     *   *Religious Demagogues & Enforcers:* The Forger and Commander Malakar (Ember-Prime, wielding his pneumatic rail-flail in an epic duel before vanishing into the deep sumps).
     *   *The Tragic Rival / Redemptive Ally:* Caelia (Ember-Seven / "The Promised Bride")—initially an obsessive, jealous cultist groomed to marry the Deliverer who hates Tsunari, but who ultimately defects and sacrifices everything to save them for simple, imperfect human love.
-*   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium airborne gunships drop incendiary sweeps from above while Malakar and the Ember Coven breach from the sumps beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.
+*   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium automated drone platforms and wall artillery drop incendiary sweeps from above while Malakar and the Ember Coven breach from the sumps beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.
 *   **Ending State:** Sector 09 secures a temporary sanctuary. Caelia is stabilized and granted freedom among the Gray Sector scouts; Malakar’s whereabouts remain a lurking mystery in the wastes. Vram and Tsunari are united as rogue partners bound by an unvoiced blood compact. The first localized neural stabilizer is proven, but global extinction remains 12 months away.
 
 ### Book 2: *The Iron Chrysalis*

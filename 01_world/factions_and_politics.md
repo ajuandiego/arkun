@@ -37,7 +37,7 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The Four Main Chimeric Divisions:**
-    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Vram Tyage):** The aristocratic apex predators of the skies. They pilot Roc-interceptors and view themselves as the ultimate military instrument.
+    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Vram Tyage):** The aristocratic apex predators of the skies. Engineered with massive 14-foot biological wings, hollow titanium-reinforced bone matrices, and high-altitude thermal physiology, they dive from the High Aerie to enforce absolute air superiority without requiring aircraft or fuel.
     2.  **The Dromaeon Stalkers (Raptor Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
     3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms.
     4.  **The Fenris Shock-Cohorts (Chimera Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.

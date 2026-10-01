@@ -63,14 +63,18 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 
 ---
 
-## 3. Biomechanical Flight: Roc-Class Interceptors
+## 3. Autonomous Biological Flight: Aeros-Legion 7 & The Winged Caste
 
-*   **Design:** Living combat aircraft grown in amniotic bio-vats. Composed of chitinous black hull plates, bio-jet turbines, and organic vascular cooling systems.
-*   **Neural Coupling:** The pilot connects directly via two spinal probe sockets (*The Siphon*).
-*   **Sensory Symbiosis:**
-    *   When flying, the pilot does not manipulate joysticks: they *are* the craft.
-    *   The wing flaps feel like their own shoulder muscles; the radar is their own peripheral vision.
-    *   *The Danger:* Pushing the ship beyond structural integrity transmits physical phantom pain directly into the pilot’s nervous system.
+Because human aviation is completely extinct due to global resource collapse (no aviation fuel, no refineries, and no avionic semiconductor supply chains), the Consortium engineered biological flight directly into the Gryphon and Simurgh chimeric soldiers:
+
+*   **Anatomy & Flight Mechanics:**
+    *   Massive, 14-foot feathered wings anchored to reinforced scapular implants along the upper thoracic spine, driven by hyper-dense avian pectoral muscles.
+    *   Hollow, titanium-honeycombed bone matrices that withstand 12G flight maneuvers while retaining lightweight buoyancy.
+    *   Iridescent, barometric-sensitive feathers that adjust pitch and drag autonomously to catch high-altitude thermal updrafts.
+*   **Neural Telemetry & Siphon Ports:**
+    *   Two circular titanium-rimmed siphon ports drilled into the soldier's vertebrae feed high-altitude wind vectors, thermal gradients, and combat targets directly into the brain.
+*   **The Alien Sky Monopoly:**
+    *   The only mechanical flying craft on Earth belong exclusively to the **alien Vaelen**: soundless, floating crystalline **Harvester Barges** and atmospheric obelisks that glide through the stratosphere via anti-gravity field propulsion, completely beyond the reach of human engineering.
 
 ---
 
@@ -197,7 +201,7 @@ These technologies are monopolized by the Consortium and the Vaelen Spire:
 
 *   **Synthetic Biogenomics & Organogenesis:** Complete mastery of genetic splicing, chimeric organ growth, neural grafting (The Silver Spine), and accelerated cellular healing.
 *   **Chrysalis Longevity Therapy:** Proprietary telomerase and stem-cell therapies that indefinitely freeze physical aging for the Dome aristocracy.
-*   **Living Biomechanical Craft (The Roc-Class Interceptors):** Aerospace vessels built from vat-grown organic chassis, vascular hydraulic coolant, and direct neural-port interfaces.
+*   **Alien Atmospheric Vessels (The Vaelen Fleet):** Soundless, crystalline anti-gravity barges, atmospheric harvester obelisks, and high-orbital spires that operate without fossil fuels or mechanical moving parts.
 *   **Atmospheric & Shield Engineering:** Gigantic photovoltaic glass barrier domes and kilometer-tall terra-pylons capable of altering planetary gas composition.
 *   **Nanocarbon Metallurgy & Directed Energy:** Hyper-dense nanocarbon weave armor, titanium bone-honeycombing, and plasma-arc suppression cannons.
 

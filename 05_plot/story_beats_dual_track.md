@@ -30,11 +30,11 @@ Romantasy requires the external action plot and the internal romantic progressio
 ### External Sci-Fi Plot (A-Track)
 *   **The Interrogation & The Secret:** Vram brings her to isolated Redoubt Station 14 rather than Consortium headquarters. He demands she explain what her biology did to his neural lattice.
 *   **The Shared Threat:** Director Corvus and Archon Xaevis notice Vram's telemetry glitching. An elite alien Inquisitor wing is dispatched to inspect his unit.
-*   **The Severing / High Treason:** When the Inquisitors discover Tsunari in the ventilation ducts and move to incinerate her, Vram snaps his conditioning, impaling an alien Inquisitor on his claws. He steals a two-seater Roc-class interceptor with Tsunari, defecting under heavy flak fire.
+*   **The Severing / High Treason:** When the Inquisitors discover Tsunari in the ventilation ducts and move to incinerate her, Vram snaps his conditioning, impaling an alien Inquisitor on his claws. He straps Tsunari to his chest harness and leaps from the redoubt parapet on his own 14-foot wings, defecting under heavy anti-air flak fire.
 
 ### Internal Romance Arc (B-Track)
 *   **Weaponized Proximity & Physical Triage:** The Biological Tether makes separation physical torture for him. Tsunari wields her presence to extract tactical codes, but watching his 106°F fever spike into violent tremors when she pulls away chips away at her cold detachment.
-*   **Decontamination Vulnerability (🌶️ to 🌶️🌶️):** Saturated in caustic hydrazine propellant after the hangar blast, they must strip their combat gear in a cramped, one-meter emergency decontamination stall. Water streams over scars, golden feathers, and lean reptilian musculature. An electric, suffocating physical tension fills the narrow space.
+*   **Decontamination Vulnerability (🌶️ to 🌶️🌶️):** Saturated in caustic chemical defoliant from perimeter cannons during their flight, they must strip their burning combat gear in a pitch-black drainage sluice under a freezing runoff pipe. Water streams over scars, golden feathers, and lean reptilian musculature. An electric, suffocating physical tension fills the narrow space.
 *   **The Anatomy of a Weapon:** Tsunari tends to his chimeric burn wounds, seeing the metallic feather shafts along his spine and the horrific alien ports drilled into his vertebrae. She realizes he is not a willing monster, but an enslaved lab asset whose body is being consumed from within.
 
 ---
@@ -42,7 +42,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ## Act II-B: The Feral Frontier & Sump Prophet (Chapters 13–18)
 
 ### External Sci-Fi Plot (A-Track)
-*   **The Crash in the Wasteland:** Clipped by an anti-air railgun slug, their interceptor crashes deep in the toxic Rust Barrens into an abandoned freight transit depot.
+*   **The Downed Flight in the Wasteland:** Clipped by high-altitude anti-air shrapnel, his flight primaries shredded, Vram locks his wings into a desperate glide, using his body to shield Tsunari as they crash-land through a blinding dust storm into the dunes beside an abandoned freight transit depot.
 *   **Feral Dromaeon Hunt (Jurassic Park Homage):** Wild velociraptor chimeras stalk the burning wreckage. With Vram semi-conscious, Tsunari matches the pack's vocal clicks, triggers her Quantic Phase-Stutter, and holds them off until Vram awakens in solar fire to snap the alpha's spine.
 *   **The Tempered Ambush & The Jealous Shadow:** Approaching Sector 09's drainage tunnels, they are ambushed by **Caelia (Ember-Seven)** and her Coven scouts. Spliced with the Crucible Mutagen, Caelia attacks with venomous hatred to execute the "Cold Serpent." Vram intervenes in mid-recovery, his 106°F furnace blazing; Caelia falls to her knees calling him her "Promised King," but Vram coldly rebuffs her, fueling her obsessive jealousy.
 *   **The Grand Cistern & Malakar's Challenge:** Brought before **The Forger** in the subterranean sump temple, flanked by **Commander Malakar (Ember-Prime)** and the Ember Coven. The Forger offers Vram an army and presents Caelia as his queen—demanding the public sacrifice of Tsunari. Vram violently rejects both (*"She is not my bride, and I am no one's god"*). Malakar engages Vram with his pneumatic rail-flail in an earth-shaking duel before Tsunari triggers an EMP blast allowing their escape.
