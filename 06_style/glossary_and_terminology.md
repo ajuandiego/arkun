@@ -90,5 +90,11 @@
 *   **"The Cold Serpent":** The Forger's derogatory title for Dr. Tsunari Thorne, referencing her cool reptilian lineage and Null-Resonance dampening touch, which the cult believes threatens to quench the divine rage of their Deliverer.
 *   **The Sump Veins:** The toxic, labyrinthine subterranean drainage and industrial water-reclamation conduits beneath Sector 09, monopolized by The Enlightened to enforce obedience through water tithes.
 *   **Domestic Shrines (The Quiet Faiths):** The battered, private altars maintained inside Gray Sector tenement apartments where Old-World faiths (Christianity, Islam, Judaism, Hinduism, Buddhism) survive without public clergy or formal congregations, focused on personal endurance and quiet remembrance.
+*   **The Crucible Mutagen (The Sump Elixir / Ember Serum):** The secret, illicit bio-catalytic compound developed by The Forger from subterranean pre-collapse Vaelen fissures beneath Sector 09; grants tripled physical strength, anaerobic stamina, low-lux vision, micro-acoustic hearing, and tactical hyper-cognition at the cost of extreme systemic fever and psychological compliance.
+*   **The Ember Coven:** The elite seven-member praetorian guard and wetwork cadre of The Forger, comprised of the only survivors of the Crucible Mutagen.
+*   **Ember:** The title granted to an individual enhanced warrior of the Ember Coven (numbered One through Seven).
+*   **Caelia (Ember-Seven / "The Promised Bride"):** The youngest of the Coven; conditioned to believe she was destined to marry the Deliverer. Evolves from an obsessive, jealous rival of Tsunari into a redemptive ally who sacrifices herself for genuine human love.
+*   **Commander Malakar (Ember-Prime / "The Iron Flail"):** The towering, fanatical leader of the Ember Coven wielding a steam-pneumatic rail-flail. Survived the agonizing tempering process with absolute mental subjugation; escapes into the deep wastes after Sector 09, leaving his fate open-ended.
+
 
 

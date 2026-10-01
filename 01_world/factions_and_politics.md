@@ -107,6 +107,22 @@ Where traditional religions offer quiet spiritual endurance, **The Enlightened**
     *   Wears floor-length industrial robes woven from silica fibers, stained with machine oil and soot, her arms patterned with pale keloid brand scars.
     *   Views human beings strictly as raw ore to be heated, hammered, and sharpened through suffering.
     *   *Her Plot Function:* When Vram defects and unleashes his 106°F solar furnace in the Rust Barrens, The Forger proclaims him the **Prophesied Deliverer**. She seeks to claim Vram as her cult's living apocalyptic battering ram, attempting to purge Tsunari (whom she calls the "Cold Serpent" trying to extinguish his divine wrath).
+*   **The Secret Weapon: The Crucible Mutagen (The Forger's Elixir):**
+    *   *Origin & Plot Mystery:* Sourced from an ancient, unrefined Vaelen bio-catalytic fissure discovered deep in the subterranean basalt faults beneath Sector 09's lowest sump basins—predating the modern Consortium patents. The Forger refined this toxic primordial sludge using black-market petrochemical cracking equipment.
+    *   *Biochemical Enhancements:* Grants radical physical and neurological augmentation without requiring corporate nanite surgery:
+        *   *Hyper-Dense Musculoskeletal Strength:* Tripled tensile muscle torque.
+        *   *Lactic-Immune Stamina:* Near-limitless anaerobic endurance.
+        *   *Telescopic & Low-Light Ocular Acuity:* Dilates visual perception into darkness and distant tracking.
+        *   *Micro-Acoustic Auditory Range:* Ability to isolate sub-vocal whispers and heartbeats through concrete.
+        *   *Hyper-Cognitive Processing:* Elevated tactical calculation, pattern recognition, and rapid situational assessment.
+    *   *The Horrific Cost:* The conversion process involves excruciating systemic agony, thermal nerve-scorching, and severe psychological subjugation that rewires the subject’s autonomy, leaving them fiercely bonded to The Forger's will.
+*   **The Praetorian Guard: "The Coven" (The 7 Embers):**
+    *   A hand-picked, lethal inner circle of exactly seven augmented zealots who have survived the Crucible Mutagen. Each member is designated an **"Ember"**.
+    *   *Function:* The Forger's personal bodyguard, black-ops wetwork enforcers, and executioners tasked with crushing internal dissent, running extortion networks across the sumps, and conducting high-value assassinations.
+    *   *Key Figures:*
+        *   **Commander Malakar (Ember-Prime):** The ruthless male leader of the Coven, bound to The Forger by absolute, blind faith.
+        *   **Caelia (Ember-Seven / "The Promised Bride"):** A fierce, psychologically manipulated young woman promised by The Forger that she was destined to join the "Apex Deliverer" at his side—falling obsessively in love with Vram, hating Tsunari, before undergoing a transformative redemption arc.
+
 
 ---
 

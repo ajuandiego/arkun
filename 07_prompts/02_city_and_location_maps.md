@@ -45,22 +45,22 @@ Framed by fine pencil drafting construction marks, compass degree circles, verti
 
 ### Prompt
 ```text
-An authentic Renaissance engineering and anatomical manuscript in the style of Leonardo da Vinci's flight studies (Codex on the Flight of Birds), illustrating 'The High Aerie', the high-altitude roost and launch ledge of Aeros-Legion 7, suspended thousands of feet in the air from the northern structural rib of Eden Dome Alpha, drawn on aged vellum parchment.
+A monumental Renaissance architectural elevation and cross-sectional engineering manuscript in the style of Leonardo da Vinci's architectural treatises and flight studies, depicting 'The High Aerie'—the high-altitude staging bastion and flight roost of Aeros-Legion 7, suspended thousands of feet above the cloudline from the northern geodesic ribs of Eden Dome Alpha, drawn on aged vellum parchment.
 
-CRITICAL SUBJECT: The chimeric soldiers fly autonomously on their own large biological wings; there are NO airplanes, NO jets, and NO mechanical vehicles anywhere in the image.
+The central drawing illustrates a colossal multi-tiered cantilevered roost of reinforced titanium and carved stone projecting out over a dizzying vertical precipice into open air. The structure features stepped open-air perching balconies, arched windbreak colonnades, and heavy braided iron suspension cables anchored directly into the curved geodesic ribbing of Eden Dome Alpha. An architectural cutaway reveals the interior staging galleries, weapon armories, and high-altitude breathing-rig stations nestled into the dome's perimeter bulkhead.
 
-The central drawing shows a breathtaking cantilevered titanium and stone roost protruding from the dome into open air high above cloud level. Perched along the edge of the vertigo-inducing drop-off ledge are chimeric winged soldiers (Aeros-Legion 7) in dynamic athletic poses: several standing at the precipice spreading massive 14-foot feathered wings, others crouched like predatory raptors on stone perches, and one soldier diving head-first off the cantilevered ledge into the abyss with wings tucked in a high-speed aerodynamic stoop.
+Stationed along the tiered launch terraces are elite chimeric soldiers of Aeros-Legion 7: athletic human men and women with handsome human faces and fitted sleeveless dark combat tunics. From their muscular shoulder blades emerge magnificent, broad 14-foot feathered wings with obsidian and burnished copper plumage. Several soldiers stand proudly at the outer edge unfurling their wings into the wind; one launches gracefully into the sky above the sea of clouds; sentries observe the horizon with brass monoculars. All soldiers possess athletic humanoid anatomy and natural human faces.
 
-Surrounding the central architecture are detailed Da Vinci anatomical flight studies:
-1. A Vitruvian flight study of a winged soldier with wings fully unfurled, showing the muscular anchor points where the avian scapulae and powerful flight tendons integrate into the human back and spine.
-2. Aerodynamic trajectory arcs drawn with brass compass guidelines, calculating gliding ratios, thermal updraft lift vectors, and terminal dive velocities.
-3. Inset study of a soldier's perching talons gripping the ledge, and the lightweight high-altitude chest harness and oxygen mask.
+Surrounding technical insets and marginalia include:
+1. An anatomical dorsal study of an athletic human back, showing the organic integration of feathered wing roots and flight tendon anchors along the reinforced scapulae, drawn with fine sepia pointer lines.
+2. A detailed mechanical cutaway of the heavy titanium suspension brackets and counter-weighted truss anchors securing the roost to the dome's structural frame.
+3. Drafting marks with brass dividers, plumb-lines measuring drop clearance, a compass rose indicating high-altitude thermal updrafts, and handwritten Renaissance cursive annotations ('Bastio Caeli — Aeros-Legion 7 — Altitudo 3,000m').
 
-Drawn with precise graphite pencil, sepia iron-gall ink cross-hatching, and ruler plumb-lines. Subtle watercolor washes tint the obsidian-gold feathers of the wings and the pale green curve of the dome's structural glass. Marginalia filled with handwritten Renaissance cursive notes, air pressure barometers, and geometric angle brackets. Authentic antique parchment with tea stains, foxing, and worn edges. Masterful hand-drawn anatomical engineering sketchbook.
+Rendered with crisp graphite pencil linework, iron-gall sepia ink cross-hatching, and subtle translucent watercolor washes of pale green on the dome glass and warm bronze on wing feathers. Authentic antique parchment with tea stains, foxing, and deckled edges. Masterful Renaissance architectural codex.
 ```
 
 *   **Aspect Ratio:** `16:9` or `3:2` (Landscape)
-*   **Recommended Negatives:** `airplane, fighter jet, aircraft, plane, cockpit, propeller, jet engine, feathered airplane, vehicle, runway, modern hangar, CGI, 3D video game render, anime, modern aviation`
+*   **Recommended Negatives:** `airplane, fighter jet, aircraft, plane, jet engine, propeller, cockpit, canopy, runway, landing gear, wheels, modern airport hangar, bird head, beast face, beak, harpy, feathered face, chicken legs, bird claws on hands, modern 2D physics graph, Cartesian chart, textbook graph, neon, 3D CGI render, glossy digital art, anime`
 
 ---
 

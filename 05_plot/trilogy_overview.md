@@ -41,11 +41,12 @@ graph TD
 ### Book 1: *A Spark in the Rust*
 *   **Core Setting:** Eden Dome Alpha perimeter, Sector 09 Gray Ring, Redoubt Station 14, Rust Barrens, Sump Drainage Networks, and The Glass Vault.
 *   **Primary Conflict:** Vram hunts Tsunari as a corporate executioner; an accidental touch during combat shuts off his agonizing lattice fever. To understand the cure, he defies orders, abducts her, and is pursued into the Rust Barrens. In the sump underbelly, **The Forger** (High Priestess of **The Enlightened**) proclaims Vram the prophesied "Apex Deliverer" and offers him an army to burn the Dome if he sacrifices Tsunari ("The Cold Serpent").
-*   **Key Antagonists:** 
-    *   Director Elena Corvus & Archon Xaevis’s field Inquisitors (Corporate/Extraterrestrial oppression).
-    *   The Forger and her Tempered Cult Militia (Underground religious fanaticism and sump monopoly).
-*   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium airborne gunships drop incendiary sweeps from above while The Forger's Tempered zealots assault from the sump tunnels beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.
-*   **Ending State:** Sector 09 secures a temporary sanctuary. Vram and Tsunari are united as rogue partners bound by an unvoiced blood compact. The first localized neural stabilizer is proven, but global extinction remains 12 months away.
+*   **Key Antagonists & Secondary Arcs:** 
+    *   *Corporate & Alien Oppression:* Director Elena Corvus (Apex GeneSys) & Archon Xaevis’s field Inquisitors.
+    *   *Religious Demagogues & Enforcers:* The Forger and Commander Malakar (Ember-Prime, wielding his pneumatic rail-flail in an epic duel before vanishing into the deep sumps).
+    *   *The Tragic Rival / Redemptive Ally:* Caelia (Ember-Seven / "The Promised Bride")—initially an obsessive, jealous cultist groomed to marry the Deliverer who hates Tsunari, but who ultimately defects and sacrifices everything to save them for simple, imperfect human love.
+*   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium airborne gunships drop incendiary sweeps from above while Malakar and the Ember Coven breach from the sumps beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.
+*   **Ending State:** Sector 09 secures a temporary sanctuary. Caelia is stabilized and granted freedom among the Gray Sector scouts; Malakar’s whereabouts remain a lurking mystery in the wastes. Vram and Tsunari are united as rogue partners bound by an unvoiced blood compact. The first localized neural stabilizer is proven, but global extinction remains 12 months away.
 
 ### Book 2: *The Iron Chrysalis*
 *   **Core Setting:** The Torrid Kiln, radioactive Salt Flats, Southern Dome Clusters (Dome Meridian), and subterranean rebel networks.

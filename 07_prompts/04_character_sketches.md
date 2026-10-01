@@ -9,19 +9,25 @@
 
 ### Prompt
 ```text
-A masterwork Renaissance sketchbook character study in the style of Leonardo da Vinci's figure drawings, depicting Dr. Tsunari Thorne on aged, tea-stained vellum parchment.
+A masterwork Renaissance sketchbook character study and anatomical field plate in the style of Leonardo da Vinci's figure drawings, depicting Dr. Tsunari Thorne on aged, tea-stained vellum parchment.
 
-CRITICAL SUBJECT: Tsunari has long dark hair held up in a high braided warrior bun with loose tendrils framing her face; she is fully clothed in detailed desert survival gear and tactical field attire; she has completely reptilian traits with NO feathers and NO wings.
+CRITICAL SUBJECT & ANATOMY: Tsunari is a strikingly beautiful 26-year-old woman with noticeable East-Asian heritage in her eyes and facial bone structure; she has completely normal rounded human ears (ABSOLUTELY NO pointy elf ears); bare ungloved hands with natural, regular human fingernails (NO gloves, NO claws on fingers); normal dark leather tactical boots with NO claws or talons on feet (pedal claws belong strictly to her enhanced state); she wears a fitted, weathered off-white sleeveless tank shirt (NO jacket, NO coat); her long dark raven hair is held up in a high braided warrior bun pinned with a small, sharp concealed bodkin knife (used for lock-picking and defense); on her upper arms is a subtle, smooth reptilian scale pattern that looks like an intricate dark tattoo rather than rough lizard texture.
 
 The page features two complementary studies of Tsunari:
-1. A full-body Vitruvian-style athletic study showing her lean, explosive, predatory build in a dynamic crouching stalker posture. She is fully clothed in rich, textured field gear: a tailored charcoal-and-sand desert duster coat in weathered canvas, worn open over a fitted leather field-corset harness with brass utility clasps, medical vial loops, and diagnostic holsters across her ribcage. She wears articulated combat trousers with reinforced knee plating, fingerless gloves over leather forearm bracers (revealing fine pebbled reptilian scales and dark scutes), and specialized calf-high split-sole leather boots—one foot showing the four-inch curved nanocarbon pedal sickle-claw extended downward from the inner toe mechanism.
-2. A detailed close-up profile portrait highlighting her sharp, striking predatory bone structure, high cheekbones, and intense gaze. Her long raven-dark hair is elegantly bound up in a high braided warrior topknot with loose, wisping tendrils framing her temples and jaw. Her eyes feature horizontal reptilian/raptor slit pupils with a translucent watercolor wash of amber-chartreuse on the iris.
+1. A full-body Vitruvian-style athletic study showing her lean, graceful, and explosive predatory build in a dynamic crouching stalker stance. She is dressed for the sweltering heat in a fitted, weathered off-white sleeveless tactical tank shirt tucked into dark, tailored combat trousers with reinforced knee pads, and calf-high split-sole dark leather tactical boots (normal boots, completely free of claws or talons). Across her torso she wears a sleek, non-invasive leather chest band harness with slim diagnostic vial loops and small utility pouches. Her main sidearm weapon is holstered securely at her right hip. Her bare arms are smooth and toned, showing the subtle, dark reptilian scale tattoo-like pattern on her upper shoulders and biceps. Her hands are completely bare with regular human nails.
+2. A breathtaking close-up profile portrait highlighting her elegant, captivating beauty: high cheekbones, sculpted jawline, and alluring almond-shaped eyes with East-Asian epicanthic folds, possessing sharp, predatory amber-chartreuse irises with subtle slit pupils. Normal, natural rounded human ears. Her long dark hair is swept up into a high, disciplined braided warrior bun with loose, gentle tendrils framing her temples. Thrust horizontally through her hair bun is a slender, sharp 5-inch steel bodkin knife with a tapered hilt, serving as both hair pin, rapid-defense dagger, and lock-picker.
 
-Framed by fine pencil drafting construction lines: compass arcs measuring leaping torque, plumb-lines through her center of gravity, geometric ratio calipers, and technical field notes written in elegant Renaissance cursive script ('Subject: Thorne — Dromaeon Null-Anomaly'). Aged paper with light water spots and frayed edges. Romantic, dangerous, highly detailed historical codex aesthetic, zero 3D CGI gloss.
+Surrounding technical drafting callouts:
+- A detailed inset sketch of the small hair-bun knife, showing its reinforced tip for picking electronic locks and razor-sharp edge.
+- An inset diagram of her compact hip-holstered sidearm and minimalist chest harness.
+- Manual drafting guidelines: compass circles measuring stride angles, plumb-lines through her center of gravity, caliper ratio brackets, and elegant Renaissance cursive annotations in sepia ink ('Subject: Dr. Tsunari Thorne — Dromaeon Null-Genotype — Resting Anatomy').
+
+Drawn with fine graphite pencil shading and iron-gall sepia ink cross-hatching on antique parchment with soft foxing, tea stains, and deckled edges. Romantic, elegant, lethal, historically authentic Da Vinci codex aesthetic with zero modern 3D CGI gloss.
 ```
 
-*   **Aspect Ratio:** `3:4` or `2:3` (Portrait)
-*   **Recommended Negatives:** `short hair, cropped hair, feathers, bird plumage, wings, anime girl, modern glossy 3D render, digital pin-up art, clean vector, superhero costume, neon lighting, nude`
+*   **Aspect Ratio:** `16:9` (Wide landscape codex plate) or `3:4` / `2:3` (Portrait)
+*   **Recommended Negatives:** `pointy ears, elf ears, pointed ears, elven, fantasy elf, claws, sickle-claw, raptor claws, talons, monster feet, claw feet, bird feet, gloves, fingerless gloves, gauntlets, claws on fingers, beast nails, monster hands, jacket, coat, duster, trench coat, heavy armor, ugly, harsh face, scowling, masculine jaw, wrinkled, rough lizard skin, scaly hide, bumpy lesions, feathers, wings, modern anime, digital 3D CGI video game render, airbrushed plastic`
+
 
 ---
 
@@ -29,23 +35,24 @@ Framed by fine pencil drafting construction lines: compass arcs measuring leapin
 
 ### Prompt
 ```text
-A masterwork Renaissance romantic portrait and character study on aged, tea-stained vellum parchment, depicting Commander Vram Tyage, a dangerously handsome 29-year-old male apex commander in his physical prime.
+A masterwork Renaissance romantic portrait and character study on aged, tea-stained vellum parchment, depicting Commander Vram Tyage, a dangerously handsome and youthful 29-year-old male apex commander in his absolute physical prime.
 
-CRITICAL SUBJECT: Vram is a striking, aristocratic young man in his late 20s (29 years old) with smooth skin, sharp jawline, and youthful vitality; he is fully clothed in an elaborate, tailored military officer uniform; he is NOT old, NOT wrinkled, NOT a flayed muscle cadaver, and NOT nude.
+CRITICAL SUBJECT & ANATOMY: Vram is a strikingly attractive, youthful 29-year-old man with smooth, unlined skin, sharp sculpted cheekbones, and energetic vitality; he has thick dark hair tied up into a disciplined, masculine warrior man-bun (topknot) at the crown of his head with tapered sides and a few loose strands framing his jaw; due to chimeric 'Mutation C', he wears a neatly trimmed, short-to-medium thick dark beard that is stylishly sculpted along his jawline with subtle angular flares at the sides (reminiscent of Wolverine / Logan), but is CRISPLY GROOMED (NOT long, NOT bushy, NOT scruffy); defined, thicker masculine eyebrows over intense molten-gold eyes; he wears a fitted sleeveless dark military uniform (ABSOLUTELY NO jacket, NO coat); his exposed shoulders and nape feature fine dark hair blending into sleek obsidian feather shafts; his bare forearms have natural, ruggedly masculine hair (slightly denser than regular humans, but NOT beastly); he looks genuinely 29 years old—youthful, athletic, and devastatingly handsome, with NO wrinkles, NO age lines, and NO gray hair.
 
 The page features two refined graphite and sepia ink studies:
-1. A magnetic close-up portrait of a strikingly attractive 29-year-old man with severe, sculpted aristocratic cheekbones, a sharp defined jawline, and textured dark hair swept back in a disciplined military cut. His intense gaze features molten-gold incandescent eyes glowing with a soft, predatory ember, tinted with a delicate watercolor wash of gold. He wears a tailored charcoal-black double-breasted officer's greatcoat with a high standing collar unfastened at the hollow of the throat, revealing his collarbones where sleek, iridescent obsidian and copper feather shafts lie smooth and flat against his skin like dark silk.
-2. A full standing three-quarter figure study showing his towering 6'4" broad-shouldered, athletic build, fully clothed in an elaborate high-altitude uniform: heavy charcoal military greatcoat with bronze clasps, a fitted dark flight tunic with burnished copper piping and Aeros-Legion rank insignia, articulated leather flight breeches, a wide officer's utility belt with sidearm holsters, and polished knee-high calfskin flight boots with reinforced steel toes, standing with calm, lethal predator poise.
+1. A magnetic close-up portrait of a strikingly handsome 29-year-old man with taut, youthful skin, sculpted aristocratic cheekbones, thicker defined dark brows, and a crisp, stylishly trimmed dark beard with angular, flared jawline contours. His intense gaze features molten-gold incandescent eyes glowing with a soft, predatory ember, tinted with a delicate watercolor wash of gold. His thick dark hair is pulled back into an elegant, masculine warrior man-bun at the back of his head, leaving the nape of his neck exposed. His sleeveless collar is unbuttoned at the throat, revealing the tops of his shoulders and nape where fine dark hair blends seamlessly into sleek, iridescent obsidian and copper plumage lying flat against his skin, beside two small titanium-rimmed neural siphon ports at his cervical vertebrae.
+2. A full standing three-quarter figure study showing his towering 6'4" broad-shouldered, powerful athletic build, fully clothed in a fitted sleeveless high-altitude flight uniform: a tailored charcoal-black sleeveless flight tunic with burnished copper piping and Aeros-Legion rank insignia, exposing his sculpted, muscular bare shoulders and ruggedly hairy forearms. His dark hair is neatly secured in the high man-bun. He wears articulated dark combat breeches, a wide officer's utility belt with a sidearm holster at his hip, and polished knee-high calfskin flight boots with reinforced steel toes, standing with poised, lethal command authority.
 
 Surrounding technical callouts:
-- An elegant inset detail showing the nape of the neck, illustrating the sleek obsidian plumage and the two small, flush titanium-rimmed neural siphon ports at his cervical vertebrae.
-- A delicate hand study showing hands in tailored leather combat gloves with reinforced knuckle guards.
+- An elegant inset detail showing the nape of the neck beneath the man-bun, illustrating the cervical siphon ports, fine nape hair, and iridescent copper-black plumage.
+- An anatomical inset study of the flared beard contour and brow geometry measured with Renaissance calipers.
+- Manual drafting compass circles, proportion guidelines, and neat handwritten cursive military notes in sepia ink ('Commander Vram Tyage — Age: 29 — Aeros-Legion 7 — Mutation C Phenotype — Rest State').
 
-Drawn with fine graphite pencil shading and brown sepia ink cross-hatching in the classical Renaissance portraiture tradition. Framed by manual drafting compass circles, proportion guidelines, and neat handwritten cursive military notes ('Commander Vram Tyage — Age: 29 — Aeros-Legion 7'). Aged parchment with soft tea stains and clean deckled edges. Romantic, elegant, lethal, and historically authentic.
+Drawn with fine graphite pencil shading and brown sepia ink cross-hatching in the classical Renaissance portraiture tradition. Aged parchment with soft tea stains and clean deckled edges. Masculine, rugged, youthful, aristocratic, lethal, and historically authentic.
 ```
 
-*   **Aspect Ratio:** `3:4` or `2:3` (Portrait)
-*   **Recommended Negatives:** `old, elderly, wrinkled, wrinkles, age lines, 50s, 60s, jowls, weathered skin, receding hairline, balding, flayed muscle, anatomy cadaver, nude, bare buttocks, exposed rear, animal head, wolf, monster face, grotesque, cartoon, anime, 3D CGI video game render, airbrushed plastic`
+*   **Aspect Ratio:** `16:9` (Wide landscape codex plate) or `3:4` / `2:3` (Portrait)
+*   **Recommended Negatives:** `old, elderly, mature, 40s, 50s, wrinkles, wrinkled skin, crow's feet, forehead lines, laugh lines, jowls, weathered skin, gray hair, bushy beard, long beard, untamed beard, santa beard, lumberjack beard, receding hairline, balding, jacket, coat, greatcoat, trench coat, sleeves, long sleeves, clean-shaven, bare chin, baby face, no beard, thin eyebrows, flayed muscle, anatomy cadaver, werewolf, ape, gorilla, monster face, grotesque, cartoon, anime, 3D CGI video game render, airbrushed plastic`
 
 ---
 
@@ -126,4 +133,51 @@ Drawn with precise sepia ink hatching, graphite contour lines, manual compass ar
 
 *   **Aspect Ratio:** `3:4` or `2:3` (Portrait)
 *   **Recommended Negatives:** `cartoon witch, sexy sorceress, fantasy glowing magic, colorful robes, neon cyberpunk, 3D CGI video game render, smiling, screaming, anime, digital airbrush, modern fashion, makeup`
+
+---
+
+## 7. Caelia (Ember-Seven / "The Promised Bride")
+
+### Prompt
+```text
+A compelling Renaissance character and anatomical study in the style of Leonardo da Vinci's figure drawings, depicting 'Caelia' (Ember-Seven of the Ember Coven), drawn on aged, tea-stained vellum parchment with sepia ink and graphite.
+
+The page features two complementary studies of an intense, athletic 21-year-old female warrior:
+1. A full standing three-quarter figure study showing her lean, explosive, conditioned physique. She is fully clothed in functional sump combat attire: a tailored dark-charcoal ballistic canvas tunic reinforced with quilted leather panels, articulated combat breeches with knee guards, and soft-soled stalker boots. Leather cross-draw bandoliers across her chest hold twin manganese-steel trench daggers with serrated inner edges. Her rolled leather bracers reveal fine, geometric keloid burn scars along her forearms ('The Brands of Tempering').
+2. An emotive close-up profile portrait capturing her striking, fierce, yet haunted expression. She has sharp, youthful features, a disciplined jawline, and dark hair pulled into a tight asymmetric warrior braid with loose wisping strands. Her intense dark eyes possess a subtle, pale-amber reflective sheen (low-light tapetum adaptation), shaded with delicate graphite. Her expression balances fanatical intensity with raw, suppressed vulnerability.
+
+Surrounding technical drafting callouts:
+- An anatomical inset of her forearm muscle torque and optical tapetum dilation under low-light conditions.
+- An engineering sketch of her twin trench daggers with balance point brackets and blade edge bevel angles.
+- Marginal notes written in elegant Renaissance cursive script ('Subject: Caelia — Ember-Seven — Crucible Mutagen Infusion complete. Conditioned for Deliverer union').
+
+Drawn with precise sepia ink cross-hatching, graphite shading, manual compass arcs, and plumb lines. Antique parchment texture with frayed edges, light foxing, and historical gravity. Tragic, lethal, and deeply human.
+```
+
+*   **Aspect Ratio:** `3:4` or `2:3` (Portrait)
+*   **Recommended Negatives:** `anime girl, digital fantasy pin-up, sexy superhero costume, glowing neon armor, 3D CGI render, high-tech modern soldier, plastic smooth skin`
+
+---
+
+## 8. Commander Malakar (Ember-Prime / "The Iron Flail")
+
+### Prompt
+```text
+A monumental Renaissance anatomical and engineering plate in the style of Leonardo da Vinci and Albrecht Dürer, illustrating 'Commander Malakar' (Ember-Prime, Leader of the Ember Coven), drawn on antique fibrous parchment with graphite and iron-gall ink.
+
+The page presents two formidable studies of a hulking, battle-scarred 33-year-old warrior:
+1. A full standing front-view study depicting his massive 6'3" muscular frame, heavily enhanced by the Crucible Mutagen. He is fully armored in a brutal, hand-welded heavy combat chassis made from repurposed industrial boiler plate, riveted manganese-steel breastplate, leather harness belts, and heavy shock-dampening shoulder pauldrons. In his massive, calloused, heat-scarred hands, he holds his signature weapon: a heavy 'Pneumatic Rail-Flail'—a spiked cylindrical steel flail head attached by heavy forged chain links to a reinforced haft with high-pressure steam piston cylinders.
+2. A severe close-up portrait of his battle-hardened face: shaved head with dark keloid brand scars running down the side of his neck and nape, a stone-like square jaw, broken nose, and cold, unblinking gray eyes with a terrifyingly tranquil, fanatical focus devoid of fear or doubt.
+
+Surrounding technical callouts:
+- An engineering mechanical cutaway of the pneumatic rail-flail's piston chamber, showing steam compression valves, strike force impact vectors (measured in metric kilograms), and chain tensile ratings.
+- A clinical anatomical study of his jugular carotid infusion site, illustrating the subcutaneous vascular thickening from the Crucible Mutagen.
+- Marginalia in tight, archaic cursive script detailing cult military doctrine: 'Ember-Prime Malakar — Pain threshold: Absolute Null. Kinetic striking torque: 320% baseline.'
+
+Framed by manual compass degree marks, proportional calipers, plumb lines, and dimension brackets. Heavy antique paper texture with water stains, scorch marks, and authentic Renaissance sketchbook character. Brutal, imposing, and completely grounded.
+```
+
+*   **Aspect Ratio:** `3:4` or `2:3` (Portrait)
+*   **Recommended Negatives:** `sci-fi glowing power armor, warhammer space marine, clean digital 3D render, cartoon villain, magic glowing weapon, modern military tactical gear`
+
 

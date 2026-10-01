@@ -59,3 +59,32 @@
     *   *The Zero-G Orbital Rescue:* Cutting his titanium chains in the Spire's vivisection bay; the desperate, weeping, touch-starved collision of mouths and bodies in zero gravity.
     *   *Sovereign Surrender:* The invincible general who never knelt to corporate oligarchs or alien archons yields complete physical and emotional control to her.
     *   *Post-Liberation Catharsis:* Beneath genuine, unpolluted rainfall in the reclaimed mountain meadows—unleashed, profound, and permanently bonded. Sovereign equals who shattered the sky together.
+
+---
+
+## 3. Intimacy Guidelines, Realism & Content Boundaries
+
+### 1. Grounded, Down-to-Earth Realism (Anti-Porn Standard)
+*   **No Pornographic Tropes:** Intimacy must never emulate the porn industry or online adult tropes. No contrived acrobatics, artificial performance, or stylized dialogue.
+*   **Realistic Physicality & Pacing:**
+    *   Encounters are tactile, awkward at times, visceral, and down-to-earth.
+    *   **Asynchronous Orgasms:** Both characters do *not* automatically achieve simultaneous orgasms (reflecting real-world human sexual biology). One may finish before the other, or prioritize the other's release, without drama or shame.
+    *   **Allowed Intimate Acts:** Traditional vaginal coitus, oral sex (cunnilingus and fellatio), and mutual manual stimulation are fully permitted and depicted with emotional sincerity.
+    *   **Natural Variety:** Realistic positional changes are natural; focus remains on physical contact, warmth, and breathing.
+*   **Chimeric Mutation Multiplier:** The altered genetics of both leads naturally heighten physical and sensory intensity without artificial gimmicks:
+    *   *Vram’s 106°F furnace body heat* makes his skin feverish, radiating raw thermal comfort and intoxicating warmth.
+    *   *Tsunari’s Null-Resonance and reptilian sensory awareness* amplify her tactile sensitivity to the vibration of his diaphragm rumble and rapid pulse.
+*   **Narrative Function Above All:**
+    *   Sex is never the sole end-goal of a scene; it must be **carefully dosed and serve an explicit narrative or psychological purpose**.
+    *   Conversations, sudden emotional realizations, unmasking of secrets, and raw confessions spoken during or immediately after the act must drive the plot forward.
+*   **Internal Psychological Landscapes:** Characters are permitted to explore fantasies, unspoken desires, and memories in their internal monologues and thoughts.
+
+### 2. Hard Content Boundaries & Ethical Prohibitions
+*   **Zero Sexual Violence:** Absolute rule. Antagonists or enemy factions may utter verbal threats to establish cruelty or intimidation, but **no sexual assault or violation ever occurs**—neither on-page nor off-page.
+*   **Forbidden Content:**
+    *   **No anal sex.**
+    *   **No bondage** (no ropes, restraints, or handcuffs used for sexual gratification).
+    *   **No sadistic behavior** (no pain-infliction, degradation, or cruelty during intimacy).
+*   **Orientation Parameters:**
+    *   No explicit sexual content involving gay/same-sex couples.
+    *   Secondary characters with ambiguous, questioning, or unspecified orientations are permissible if relevant to the narrative texture, but are never depicted in explicit sexual acts.

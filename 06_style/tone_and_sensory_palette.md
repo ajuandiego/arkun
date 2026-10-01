@@ -18,6 +18,8 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 *   **Tactile Elements:**
     *   *Feather shafts:* Smooth, iridescent, razor-edged quill bases along his spine that soften when stroked gently.
     *   *The Siphon ports:* Cold, knurled titanium sockets grafted into warm, living cervical vertebrae.
+    *   *Hair & Man Bun:* The tactile friction of Tsunari’s cool, calloused fingers sliding through his tapered undercut to untie his warrior man-bun during fever triage, letting thick dark hair spill across his broad shoulders.
+    *   *Beard Texture:* The crisp, trimmed prickle of his sculpted angular beard pressing against her palm or the crook of her neck, contrasting with his radiant 106°F skin.
     *   *Skin:* Calloused, grease-stained human fingers against taut, scarred military muscle.
     *   *Claws:* The velvet-soft click of nanocarbon talons retracting against knuckles.
 
