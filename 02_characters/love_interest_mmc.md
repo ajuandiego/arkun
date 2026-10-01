@@ -14,7 +14,8 @@
 
 ## 2. Appearance & Sensory Markers
 *   **Build & Stature:** Towering (6'4" / 193 cm), built like an apex predator—broad-shouldered, narrow-waisted, packed with hyper-dense chimeric muscle that moves with eerie, silent grace.
-*   **Facial Features & Eyes:** Severe, sculpted aristocratic planes marred by combat discipline; razor-sharp cheekbones. His eyes are molten gold, glowing with a soft, predatory incandescent ember in low light or combat surges.
+*   **Facial Features & Eyes:** Severe, sculpted aristocratic planes marred by combat discipline; razor-sharp cheekbones. His eyes are molten gold, glowing with a soft, predatory incandescent ember in low light or combat surges. Dark, textured hair cut in a disciplined military sweep.
+*   **Signature Attire & Military Uniform:** Tailored heavy charcoal-and-matte-black double-breasted officer’s greatcoat with high structured mandarin collar left open at the hollow of his throat to expose his collarbones; dark combat flight tunic with burnished bronze piping and Aeros-Legion insignia; articulated leather flight breeches; reinforced titanium-toed calfskin riding boots; wide officer's utility belt with holster mounts.
 *   **Chimeric / Bio-Traits (The Phoenix Lineage):**
     *   **Incandescent Plumage:** Iridescent, obsidian feather shafts that shift into blazing copper-gold and deep crimson along his nape, collarbones, and upper spine; they bristle and warm when adrenaline or protectiveness spikes.
     *   **Bioluminescent Capillaries:** Under high emotional arousal, rage, or physical exertion, his subcutaneous vascular tracks pulse with liquid gold-crimson fire beneath his skin.

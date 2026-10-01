@@ -21,7 +21,7 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 
 #### 2. The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Tsunari's Lineage)*
 *   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
-*   **Dermis & Covering:** Fine, dark downy feathers along forearms and calves; smooth reptilian keratin scutes along the shins, ankles, and lower spine.
+*   **Dermis & Covering:** Pure reptilian, completely non-feathered: fine, flexible pebbled scales along forearms and calves; smooth, reinforced obsidian-tinted keratin scutes along the shins, ankles, and lower spine.
 *   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with horizontal slit pupils; dual eyelids with a translucent nictitating membrane that shields against dust storms and blinding muzzle flashes.
 *   **Natural Weaponry:** **The Retractable Pedal Sickle-Claw**—a curved, four-to-six-inch nanocarbon talon on the inner digit of each foot designed for disemboweling leaping strikes, ceiling grips, and scaling sheer concrete walls.
 *   **Metabolic & Acoustic:** Sub-vocal throat resonating chamber capable of producing high-frequency hunting clicks and chirps; rapid-cycle adrenaline spikes.

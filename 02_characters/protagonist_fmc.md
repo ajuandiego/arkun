@@ -14,10 +14,11 @@
 
 ## 2. Appearance & Sensory Markers
 *   **Build & Stature:** Lean, wiry, explosive; built with the low center of gravity and hyper-elastic tendon structure of an apex cursorial predator. Moves with eerie, silent fluid grace, capable of vertical wall-springs and 45+ mph sprinting bursts.
-*   **Face & Features:** Sharp, striking, predatory bone structure; dark hair cropped short; amber-chartreuse eyes with horizontal slit pupils and a translucent nictitating membrane that snaps shut to shield against blinding dust and flashbangs.
+*   **Face & Features:** Sharp, striking, predatory bone structure; long dark raven hair secured up in a high, practical braided warrior topknot with loose tendrils framing her temples; amber-chartreuse eyes with horizontal slit pupils and a translucent nictitating membrane that snaps shut to shield against blinding dust and flashbangs.
+*   **Signature Attire & Field Gear:** Tailored charcoal-and-sand desert duster coat in weathered ballistic canvas, worn over a reinforced leather field-corset harness with brass utility clasps, vial loops, and diagnostic holsters; articulated combat trousers with flexible knee plating; customized split-sole leather boots with concealed mechanical spring-releases for her pedal sickle-claws; fingerless gloves over leather wrist bracers.
 *   **Chimeric / Bio-Traits (The Raptor Lineage):**
     *   **The Pedal Sickle-Claws:** Retractable, four-inch curved nanocarbon sickle-talons housed on the inner digit of each foot. Kept retracted inside customized combat boots with split-sole spring releases; deployed in leaping strikes to disembowel armored opponents or scale sheer concrete elevator shafts.
-    *   **Fine Down & Scutes:** Delicate dark downy plumage along her forearms and nape; smooth reptilian keratin scutes along her shins and ankles providing natural light armor.
+    *   **Reptilian Scutes & Pebbled Dermis:** Pure reptilian, completely non-feathered; fine, flexible pebbled scales along her forearms; reinforced obsidian-tinted keratin scutes along her shins and ankles providing natural light armor.
     *   **Sub-Vocal Acoustic Syrinx:** Capable of producing rapid, sub-vocal hunting clicks and chirps used to echolocate through pitch-black subterranean ruins.
 *   **Sensory Scent / Presence:** Copper dust, bitter desert ozone, cool desert sage, and the faint, sweet musk of reptilian predator pheromones.
 
