@@ -10,7 +10,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ---
 
-## Act I: The Collision (Chapters 1–6)
+## Act I: The Collision (Chapters 1–10)
 
 ### External Sci-Fi Plot (A-Track)
 *   **Opening Status Quo:** Tsunari infiltrates an Apex GeneSys data-courier terminal on the perimeter of Eden Dome Alpha. She successfully steals the encrypted core (*The Lazarus Key*) containing proof of the Vaelen atmospheric extinction plan.
@@ -25,7 +25,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ---
 
-## Act II-A: The Crucible (Chapters 7–12)
+## Act II-A: The Crucible (Chapters 11–22)
 
 ### External Sci-Fi Plot (A-Track)
 *   **The Interrogation & The Secret:** Vram brings her to isolated Redoubt Station 14 rather than Consortium headquarters. He demands she explain what her biology did to his neural lattice.
@@ -39,7 +39,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ---
 
-## Act II-B: The Feral Frontier & Sump Prophet (Chapters 13–18)
+## Act II-B: The Feral Frontier & Sump Prophet (Chapters 23–34)
 
 ### External Sci-Fi Plot (A-Track)
 *   **The Downed Flight & The Wasteland Rescue:** Clipped by high-altitude anti-air shrapnel, his flight primaries shredded, Vram locks his wings into a desperate glide, using his body to shield Tsunari as they crash-land through a blinding dust storm into the dunes beside an abandoned freight transit depot.
@@ -55,7 +55,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ---
 
-## Act III: The Three-Way Siege & Blood Compact (Chapters 19–24)
+## Act III: The Three-Way Siege & Blood Compact (Chapters 35–44)
 
 ### External Sci-Fi Plot (A-Track)
 *   **The Sanctuary of Glass:** Reaching Sector 09, Tsunari brings Vram to the subterranean archive of **The Glass Vault**. Chief Bio-Curator Gideon Cross reveals ancient Scythian archaeological plates proving Vram’s chimeric genome is thousands of years older than corporate labs. While inspecting the vault reliquaries, Tsunari glimpses an uncatalogued optical quartz disc—the *Ghost Beacon*—bearing her presumed-dead father's unique mathematical cipher, planting the seed that Dr. Jeffrey Thorne survived crossing the impassable Stygian Ocean.
