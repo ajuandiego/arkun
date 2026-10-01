@@ -18,7 +18,7 @@
       ▼                                                      ▼
  ░░░░░░░░░░░░░░░░░░░░░░░░ [ SECTOR 09: THE GRAY RING ] ░░░░░░░░░░░░░░░░░░░░░░
  │  • 15 Million Dustborn Humans        • Subterranean Subway Bunkers            │
- │  • Amber Haze & Silt-Mash Economy    • The Null-Circuit Rebel Cell (Vesper)  │
+ │  • Amber Haze & Silt-Mash Economy    • The Null-Circuit Rebel Cell (Zunari)  │
  │  • Scrubber Guilds & Black Bazaars   • "Doc" Mercer's Clinic (Simulacrum)    │
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                    │
@@ -80,35 +80,35 @@ Earth's geopolitical sovereignty is divided into three vast administrative spher
 
 ---
 
-## 3. The Seven Green Domes: The Gilded Fortresses
+## 3. The Seven Green Domes: Regional Megacity Clusters
 
-The Consortium operates **seven monumental Green Domes** globally. Each is a climate-shielded, self-contained city-state enclosed under a 1.5-kilometer-high geodesic dome of photovoltaic smart-glass:
+The Consortium operates **seven monumental Green Dome Clusters** globally, housing approximately **70% of surviving humanity (~980 Million people)** in climate-shielded, functional civil comfort:
 
 | Dome Name | Geographic Location | Ruling Megacorp | Chimeric Strain Focus | Total Population |
 | :--- | :--- | :--- | :--- | :--- |
-| **Dome Alpha (The High Citadel)** | Pre-collapse Swiss/Alpine Basin | **Apex GeneSys** (Elena Corvus) | **Gryphon** (Aeros-Legion) & **Simurgh** (Regenerative) | 6.5M Elite / Servitors |
-| **Dome Beta (The Iron Bastion)** | Baltic Shield / Nordic Fjords | **Aethelgard Security** | **Lindwurm** (Stone Armor) & **Fenris** (Shock Troops) | 5.2M Elite / Servitors |
-| **Dome Gamma (The Cloud Forge)** | Eurasian Steppe / Altai | **Vanguard Atmospheric** | **Dromaeon** (Raptors) & Weather Pylons | 4.8M Elite / Servitors |
-| **Dome Delta (New Cascadia)** | Pacific Northwest / Rockies | **Apex GeneSys** | Archeo-Genetic Research & Clone Vats | 3.9M Elite / Servitors |
-| **Dome Epsilon (The Sanctuary)** | Southern Andes / Lake District | **Preserver Joint Council** | Hybrid Cross-Strains & Baseline Botany | 4.1M Elite / Servitors |
-| **Dome Zeta (The South Spire)** | South Island / New Zealand | **Independent Corporate League** | Marine Bio-Synthesis & Hydro-Shields | 2.6M Elite / Servitors |
-| **Dome Eta (The Polar Arch)** | Queen Maud Land / Antarctica | **Vaelen Scientific Directorate** | Deep Cryo-Vaults & Ancient Genetic Cradles | 800,000 (Vaelen / Synthetics) |
+| **Dome Alpha (The High Citadel)** | Pre-collapse Swiss/Alpine Basin | **Apex GeneSys** (Elena Corvus) | **Gryphon** & **Simurgh** (Aeros-Legion HQ) | 260 Million (Elite & Citizens) |
+| **Dome Beta (The Iron Bastion)** | Baltic Shield / Nordic Fjords | **Aethelgard Security** | **Lindwurm** (Stone Armor) & **Fenris** | 190 Million (Elite & Citizens) |
+| **Dome Gamma (The Cloud Forge)** | Eurasian Steppe / Altai | **Vanguard Atmospheric** | **Dromaeon** (Raptors) & Weather Pylons | 170 Million (Elite & Citizens) |
+| **Dome Delta (New Cascadia)** | Pacific Northwest / Rockies | **Apex GeneSys** | Archeo-Genetic Research & Clone Vats | 140 Million (Elite & Citizens) |
+| **Dome Epsilon (The Sanctuary)** | Southern Andes / Lake District | **Preserver Joint Council** | Hybrid Cross-Strains & Baseline Botany | 110 Million (Elite & Citizens) |
+| **Dome Zeta (The South Spire)** | South Island / New Zealand | **Independent Corporate League** | Marine Bio-Synthesis & Hydro-Shields | 80 Million (Elite & Citizens) |
+| **Dome Eta (The Polar Arch)** | Queen Maud Land / Antarctica | **Vaelen Scientific Directorate** | Deep Cryo-Vaults & Ancient Genetic Cradles | 30 Million (Vaelen / Synthetics) |
 
 ---
 
-## 4. The Gray Rings: The Dustborn Territory
+## 4. The Gray Rings: The Frontier & The Dustborn Territory
 
-Surrounding every Green Dome is a concentric, 50-to-80-mile-wide wasteland slum known as the **Gray Ring**. This is where 95% of surviving humanity lives.
+Surrounding every Green Dome cluster is a 50-to-80-mile-wide wasteland fringe known as the **Gray Ring**. This is where the excluded **30% of humanity (~420 Million people)** live.
 
 ### 4.1 Sector 09: The Ground Zero of the Narrative
-*   **Location:** The ruins surrounding **Eden Dome Alpha**, sprawling across what was once the sub-alpine industrial corridor.
-*   **Population:** Approximately **15 million baseline humans** living in layered subterranean slums.
+*   **Location:** The expansive ruined metropolitan fringe encircling **Eden Dome Alpha**, sprawling across what was once the central European industrial transit corridor.
+*   **Population:** Approximately **45 million baseline humans** living in multi-tiered underground transit hubs, repurposed suburban structures, and barter enclaves.
 *   **Key Landmarks in Sector 09:**
-    1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09. Topped with automated plasma sentries, pulse-cannons, and acoustic sonic-shredders to prevent Gray Sector incursions.
-    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base of **Aeros-Legion 7**, where Kaelen Voss and his squadron dock their Roc-interceptors.
-    3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange deep beneath the dead city. The air is filtered through jury-rigged zeolite columns. This is where Vesper Thorne works in her reverse-engineering lab.
+    1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09. Topped with automated plasma sentries, pulse-cannons, and acoustic sonic-shredders to prevent unauthorized border crossings.
+    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. The military home base of **Aeros-Legion 7**, where Tyage Vram and his squadron dock their Roc-interceptors.
+    3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange deep beneath the dead city. The air is filtered through jury-rigged zeolite columns. This is where Zunari Thorne works in her reverse-engineering lab.
     4.  **"Doc" Mercer’s Triage Clinic:** Located in an abandoned subway mezzanine. Outwardly a battered emergency clinic for Gray Sector workers suffering from the Choke; secretly the observation terrarium maintained by Mercer (*Weaver-Unit 09*).
-    5.  **The Rust Bazaar (The Iron Market):** An open-air swap meet in the shadow of a collapsed highway overpass. Scavengers trade copper wire, salvaged batteries, sulfur-resistant seeds, and *Liter-Hours* of oxygen.
+    5.  **The Rust Bazaar (The Iron Market):** A bustling, neon-lit night market under a collapsed highway overpass. Scavengers and merchants trade copper wire, salvaged batteries, sulfur-resistant seeds, and *Liter-Hours* of oxygen canisters.
 
 ---
 
@@ -122,7 +122,7 @@ Beyond the Gray Rings lie the **Rust Barrens**—vast, unmonitored expanses of p
     *   **The Strangler Basins:** Subterranean sewer networks and subterranean aqueducts infested with **Obsidian Stranglers** (wire-vipers).
 *   **Terra-Pylon Seven (The Atmospheric Forge):**
     *   A colossal, 2,000-foot-tall biomechanical tower sunk deep into the bedrock of the northern wasteland, pulsing with sickening violet light every 90 seconds as it discharges alien aerosols into the jet stream.
-    *   Target of Vesper and Kaelen’s climactic sabotage mission.
+    *   Target of Zunari and Tyage’s climactic sabotage mission.
 
 ---
 
@@ -150,4 +150,4 @@ The true rulers of Earth do not reside on the surface. They inhabit three coloss
 └───────────────────┴───────────────────────────┴─────────────────────────────────┘
 ```
 
-*   **The Planetary Tension:** While Archon Xaevis commands Spire Prime and forces the extinction timeline in the North, Arbiter Lyraen uses Spire Meridian to shield the Southern quadrant, quietly transmitting backdoors and navigation bypass codes to Vesper and Kaelen in Sector 09.
+*   **The Planetary Tension:** While Archon Xaevis commands Spire Prime and forces the extinction timeline in the North, Arbiter Lyraen uses Spire Meridian to shield the Southern quadrant, quietly transmitting backdoors and navigation bypass codes to Zunari and Tyage in Sector 09.

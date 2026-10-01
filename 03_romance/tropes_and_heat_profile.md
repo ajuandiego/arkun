@@ -17,8 +17,8 @@
 *   **Only One Bed / Bedroll:** Freezing nights in the subterranean ruins of the Rust Barrens where his hyper-thermic Griffin body heat (104°F) is the only thing preventing her from dying of hypothermia.
 
 ### 4. "Who Did This To You?" (The Feral Shift)
-*   When a rival scavenger gang or Consortium security unit corners Vesper and inflicts a bloody cut on her cheek or bruises her wrists.
-*   Kaelen's military composure disintegrates. The feathers on his collar bristle, his pupils contract to black needles, and his retractable nanocarbon claws drop with a deadly hiss.
+*   When a rival scavenger gang or Consortium security unit corners Zunari and inflicts a bloody cut on her cheek or bruises her wrists.
+*   Tyage's military composure disintegrates. The feathers on his collar bristle, his pupils contract to black needles, and his retractable nanocarbon claws drop with a deadly hiss.
 *   His voice drops an octave: *"Which one of them touched you?"*
 
 ### 5. The Griffin Biological Quirks (Sensory Romantasy Hooks)
@@ -46,8 +46,8 @@
 *   **Spice Level:** 🌶️🌶️ (Vulnerability & Forced Intimacy)
 *   **Beats:**
     *   Decontaminating in the bio-pod: stripping away toxic clothing, the sight of his scars and her bruises.
-    *   Kaelen succumbs to a severe lattice seizure. Delirious and weeping from sensory pain, he pulls her down onto the cot, burying his face in the crook of her neck, begging her not to pull away.
-    *   Vesper feels the sheer, terrifying contrast between his lethal strength and his absolute surrender in her arms.
+    *   Tyage succumbs to a severe lattice seizure. Delirious and weeping from sensory pain, he pulls her down onto the cot, burying his face in the crook of her neck, begging her not to pull away.
+    *   Zunari feels the sheer, terrifying contrast between his lethal strength and his absolute surrender in her arms.
 
 ### Act II-B: Combative Intimacy & The Breaking Point
 *   **Spice Level:** 🌶️🌶️🌶️ (First Kiss & Heavy Petting)

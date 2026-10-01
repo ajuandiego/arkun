@@ -1,75 +1,77 @@
 # Character Dossier: The Female Protagonist (FMC)
 
-> *Suggested Working Names:* **Vesper Thorne** | *Alternates:* Rowan Vance, Kaia Cruz, Kieran Mercer
+> **Full Name:** **Dr. Zunari Thorne**  
+> **Field Callsign / Moniker:** **"Zune"** (used by squadmates, scouts, and over tactical comms)  
+> **Intimate Diminutive:** **"Zunie"** (used exclusively by Tyage in private, high-vulnerability moments)
 
 ## 1. Character Identity & Overview
 *   **Role:** Clandestine Field Biologist, Reverse-Engineer, and Null-Circuit Operative.
-*   **Age:** 26
+*   **Age:** 26 (Born Year 8 BS; Sky-Born).
 *   **Faction:** The Dustborn Resistance (Null-Circuit cell).
-*   **Archetype:** The Brilliant Rebel Underdog / Reluctant Savior.
+*   **Archetype:** The Brilliant Rebel Underdog / Reluctant Savior / Raptor Apex Infiltrator.
 
 ---
 
 ## 2. Appearance & Sensory Markers
-*   **Build & Stature:** Lean, wiry, athletic; built for crawling through collapsed ventilation conduits, dodging sniper sweeps, and surviving weeks on field rations.
-*   **Face & Features:** Sharp, striking jawline; dark, unruly hair cropped short or tied in a severe knot to avoid snagging in bio-machinery; dark amber or pale hazel eyes that notice micro-fluctuations in tech and body language.
-*   **Visual Motifs & Gear:**
-    *   Wears a customized, battle-scratched respirator with dual brass-rimmed chemical filters.
-    *   Fingerless reinforced mechanic’s gloves, tactical bandoliers loaded with neural probes, diagnostic chips, and glass ampoules.
-    *   Fingers stained with lubricating oil, silver solder, and luminescent phosphor residue.
-*   **Sensory Scent / Presence:** Copper dust, bitter desert ozone, citrus solvent, and human heat.
+*   **Build & Stature:** Lean, wiry, explosive; built with the low center of gravity and hyper-elastic tendon structure of an apex cursorial predator. Moves with eerie, silent fluid grace, capable of vertical wall-springs and 45+ mph sprinting bursts.
+*   **Face & Features:** Sharp, striking, predatory bone structure; dark hair cropped short; amber-chartreuse eyes with horizontal slit pupils and a translucent nictitating membrane that snaps shut to shield against blinding dust and flashbangs.
+*   **Chimeric / Bio-Traits (The Raptor Lineage):**
+    *   **The Pedal Sickle-Claws:** Retractable, four-inch curved nanocarbon sickle-talons housed on the inner digit of each foot. Kept retracted inside customized combat boots with split-sole spring releases; deployed in leaping strikes to disembowel armored opponents or scale sheer concrete elevator shafts.
+    *   **Fine Down & Scutes:** Delicate dark downy plumage along her forearms and nape; smooth reptilian keratin scutes along her shins and ankles providing natural light armor.
+    *   **Sub-Vocal Acoustic Syrinx:** Capable of producing rapid, sub-vocal hunting clicks and chirps used to echolocate through pitch-black subterranean ruins.
+*   **Sensory Scent / Presence:** Copper dust, bitter desert ozone, cool desert sage, and the faint, sweet musk of reptilian predator pheromones.
 
 ---
 
 ## 3. Psychological Architecture
 
 ### The Ghost (The Backstory Trauma)
-When Vesper was 17, her father—a chief engineer on the initial Green Dome atmospheric intake grid—discovered the atmospheric phasing data and was executed on live public broadcast by Aeros-Legion enforcers. Vesper survived by dragging her younger sibling into the flooded drainage sewers beneath Sector 04, only for the child to succumb to the Choke six months later.
+When Zunari was 17, her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Zunari with an uncorrupted, ancient **Dromaeon (Raptor) archeo-genetic embryo**, merged with her native Amber Haze immunity. Zunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
 
 ### The Lie She Believes
-> *"Attachment is a death sentence. Anyone who offers protection is either buying your compliance or preparing your slaughter."*
+> *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
 
 ### The Internal Want vs. Need
-*   **What She Wants:** Pragmatic biological survival: to secure clean, un-tampered air and resources for herself and her community, rejecting all political slogans and false promises.
-*   **What She Needs:** To recognize that survival alone is not living; that allying her skills with a capable partner does not compromise her sovereignty, but doubles their chances of endurance.
+*   **What She Wants:** Absolute independence and survival: to decode the Vaelen atmospheric keys, liberate the Gray Sectors from corporate control, and remain unbound by any master.
+*   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Tyage) transforms her from a hunted rogue into an apex leader.
 
 ---
 
-## 4. The Female Biotype & Natural Survival Skillset
-*   **Bio-Molecular & Genetic Dexterity:** Exceptional pattern-recognition and micro-dexterity. Where blunt force fails, her understanding of molecular code, viral delivery, and bio-synthesis solves the fatal equations.
-*   **The Null-Resonance Factor:** Her unique cellular biotype emits a natural electromagnetic dampening frequency that neutralizes synthetic alien signals.
-*   **Resource Efficiency & Environmental Adaptability:** High metabolic endurance under nutrient scarcity, sharp peripheral hazard assessment, and lethal precision using lightweight, asymmetric tools (toxins, neuro-disruptors, flechettes).
-*   **Common-Sense Realism:** She wastes zero energy on ideological lecturing, moral posturing, or grudges. When faced with an apex predator, she doesn't whine or posture; she calculates odds, looks for leverage, and operates with cold rationality.
+## 4. The Female Biotype (Raptor-Augmented) & Natural Skillset
+*   **"Clever Girl" Calculating Problem-Solving:** Instinctive spatial geometry. In high-stress combat, she maps enemy vectors, structural failure points, reload intervals, and escape trajectories in fractions of a second.
+*   **Acrobatic Kinetic Agility:** Low-gravity jumping torque, silent stalking footwork, and the ability to sprint vertically up concrete pillars or cling to rafters to drop silently onto prey.
+*   **The Null-Resonance Grounding:** Her unique epigenetic baseline acts as an organic electromagnetic dead-zone, cloaking her thermal and electronic signature from alien tracking grids.
+*   **Common-Sense Realism:** Zero tolerance for ideological posturing or theatrical heroics. She attacks from the shadows, exploits every environmental advantage, and fights with cold, lethal economy.
 
 ---
 
 ## 5. Skills, Abilities & Quirks
-*   **Neural & Genetic Decryption:** A prodigy at deciphering the hybrid Vaelen bio-code. She understands the biological architecture of the Synapse Lattice better than its human corporate designers.
-*   **Asymmetric Combat:** Not a heavy brute; relies on poisoned flechettes, neuro-disruptor grenades, close-quarters blade work, and using the toxic environment as a weapon.
+*   **Neural & Genetic Decryption:** A prodigy at reverse-engineering hybrid alien-terrestrial bioware and DNA encryption.
+*   **Asymmetric Close-Quarters Combat:** Master of paired combat knives, poisoned flechettes, and devastating leaping sickle-claw strikes.
 *   **Habitual Quirks:**
-    *   Taps her fingers in rhythmic sequences (mimicking data decryption rhythms) when nervous or calculating odds.
-    *   Hoards clean water vials and refuses to let any drop go to waste.
-    *   Never sleeps with her back to an open doorway or window.
+    *   Emits faint, rapid sub-vocal throat clicks when concentrating or calculating odds.
+    *   Tilts her head sideways with raptor-like intensity when analyzing a person's micro-expressions.
+    *   Hates enclosed ceilings without an accessible escape hatch.
 
 ---
 
-## 6. Genetic Lineage & Arkun Manifestation
+## 6. Genetic Strain Chart & Arkun Manifestation
 
-The Arkun formula applied to the pure human baseline:
-$$\text{Lineage / Chromosomal Marker} + \text{True Character (Epigenetics)} = \text{Arkun}$$
+The Arkun formula applied to Zunari Thorne:
+$$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
-*   **Genetic Chart:**
-    *   **100% Pure Human Baseline:** Un-spliced, un-tampered embryonic DNA.
-    *   **The Amber Epigenetic Anomaly (Null-Resonator):** A rare chromosomal shift induced by chronic exposure to sulfurous Amber Haze during early gestation. Her body naturally produces an electromagnetic bio-current that grounds synthetic alien frequencies.
+*   **Genetic Strain Chart:**
+    *   **75% Dromaeon Strain (The Scythe-Stalker):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening.
+    *   **25% Pure Human Baseline (Amber Null-Anomaly):** Chromosomal resistance to alien neural lattices and atmospheric sulfur.
 *   **True Character / Core Psychological Drive:**
-    *   *The Sovereign Survivor / Relentless Truth-Seeker.* An ironclad refusal to be enslaved, altered, or commodified as biomass. Her intelligence is an active survival weapon aimed at tearing open corporate lies and protecting bodily autonomy.
-*   **Signature Arkun: The Living Ground (Null-Resonance & Bio-Catalyst)**
-    *   *Null-Dampening Field:* When activated under extreme survival stress or focus, projects an invisible 5-meter bio-electromagnetic dead-zone that scrambles alien tracking beacons, disables neural-torture overrides in chimeric lattices, and permanently shields those near her from telepathic intrusion.
-    *   *Chimeric Overclock (Bio-Catalytic Touch):* Direct skin-to-skin touch with an augmented chimeric soldier doesn't merely silence their agony; it functions as an organic ground wire that unlocks their latent Arkuns, turning an unstable mutant into an unchained apex warrior.
+    *   *The Sovereign Stalker / The Uncaged Ghost.* An absolute refusal to be collared, modified by corporate masters, or herded like prey. Her soul is wild, independent, and fiercely protective of her freedom.
+*   **Signature Arkun: Quantic Phase-Stutter (Chrono-Dilation & Ghost-Step)**
+    *   *Manifestation:* For a burst of **2 to 3 seconds**, Zunari accelerates her localized temporal vector by **500%**. To observers, she teleports or turns into a blur of shadows, slipping through crossfire, vaulting through closing security blast doors, or striking an enemy commander from behind before their synapses can register her movement.
+    *   *The Null-Resonance Veil:* Because of her human grounding frequency, her phase-stutter cannot be locked onto by automated sentry turrets or Vaelen psionic tracking grids.
 
 ---
 
 ## 7. Romantic Dynamics & Friction Points with the MMC
-*   **Initial Stance:** Utter revulsion. He represents the very boots that crushed her family; she views him as a mindless, vat-grown slaughterhouse dog.
-*   **The Turning Point:** Seeing him on his knees, tearing at his own scalp in the throes of neural lattice collapse, stripped of his invincible military aura. She touches him to interrogate him—and witnesses the instant, desperate relief flood his entire system.
-*   **The Power Dynamic:** She is half his physical mass and possesses no superhuman claws or armored skin, yet she holds absolute existential leverage over him. She will not submit to his threats, which maddens and intoxicates him.
+*   **Initial Stance:** Deadly predator rivalry. When Tyage tracks her down in Chapter 1, it is a ferocious clash of apex species: the blinding solar radiance of the Phoenix Commander against the hyper-agile shadow-stalking of the Raptor Infiltrator.
+*   **The Turning Point:** Seeing Tyage’s radiant body burning up in agonizing lattice-decay fever. When she touches his bare collarbone to restrain him, her cold-blood predator physiology and Null-Resonance instantly absorb his excess heat, dropping his fever to absolute peace.
+*   **The Power Dynamic (Fire and Shadow):** He possesses overwhelming kinetic power and solar radiance; she possesses lethal micro-speed, cunning intelligence, and the biological key to his survival. They challenge, test, and complement each other like two sides of an evolutionary coin.

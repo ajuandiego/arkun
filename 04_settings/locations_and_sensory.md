@@ -56,7 +56,7 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 *   **Sensory Profile:**
     *   *Scent:* Old paper, beeswax, dried lavender, silver etching acid, cold granite bedrock, and genuinely clean, scrubbed air—the purest, most fragrant air in all of Sector 09.
     *   *Sound:* The delicate, rhythmic clicking of brass clockwork drives turning optical quartz readers; the gentle rustle of vellum; the deep, muffled hum of subterranean bedrock insulating against howling surface dust storms.
-    *   *Sanctuary Function:* A serene, scholarly haven completely removed from the paranoia of the Domes and the brutality of the ruins. Here, Kaelen can retract his claws and lower his guard without sensory static, while Vesper works without a respirator.
+    *   *Sanctuary Function:* A serene, scholarly haven completely removed from the paranoia of the Domes and the brutality of the ruins. Here, Tyage can retract his claws and lower his guard without sensory static, while Zunari works without a respirator.
 
 ---
 
@@ -65,7 +65,7 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 ### The Crashed Roc-Interceptor (The Wreckage)
 *   Downed in a desolate crater during their escape.
 *   The cockpit is cramped, sealed against a raging acid dust storm outside.
-*   The interior smells of warm organic bio-fuel and blood. The life-support heater is failing; the only source of warmth is Kaelen's chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand lash against the cockpit canopy.
+*   The interior smells of warm organic bio-fuel and blood. The life-support heater is failing; the only source of warmth is Tyage's chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand lash against the cockpit canopy.
 
 ### The Subterranean Metro Bunker (The Catacombs)
 *   A pre-collapse subway station buried eighty feet beneath the desert bedrock.

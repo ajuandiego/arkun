@@ -14,8 +14,8 @@
 *   **Ideology:** **Evolutionary Symbiosis.** They argue that genetic monoculture and the suppression of emotional neurochemistry is the exact disease that is causing the Vaelen to die out. To destroy humanity is to destroy the only genetic key capable of saving the Vaelen race.
 *   **Key Figure & Alien Ally — Arbiter Lyraen (The Renegade Weaver):**
     *   *Role:* High Geneticist of the Spire and one of the original architects of the modern Synapse Lattice.
-    *   *The Secret Sabotage:* Lyraen deliberately engineered the "decay glitch" and left an encrypted biological backdoor in the Synapse Lattice—anticipating that a human with a dampening mutation (Vesper) would eventually emerge to unlock it.
-    *   *Why Lyraen Needs Humans:* Bound by the Spire's telepathic-neural consensus, open dissent would mean instant synaptic execution. Lyraen needs autonomous, off-grid field operatives (Vesper and Kaelen) to sabotage the terra-pylons from the ground, covertly feeding them access codes, medical blueprints, and orbital telemetry.
+    *   *The Secret Sabotage:* Lyraen deliberately engineered the "decay glitch" and left an encrypted biological backdoor in the Synapse Lattice—anticipating that a human with a dampening mutation (Zunari) would eventually emerge to unlock it.
+    *   *Why Lyraen Needs Humans:* Bound by the Spire's telepathic-neural consensus, open dissent would mean instant synaptic execution. Lyraen needs autonomous, off-grid field operatives (Zunari and Tyage) to sabotage the terra-pylons from the ground, covertly feeding them access codes, medical blueprints, and orbital telemetry.
 *   **Political Lever:** Control over deep planetary research vaults, ancient chimeric records, and atmospheric filtration overrides.
 
 
@@ -37,14 +37,14 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The Four Main Chimeric Divisions:**
-    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Kaelen Voss):** The aristocratic apex predators of the skies. They pilot Roc-interceptors and view themselves as the ultimate military instrument.
+    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Tyage Vram):** The aristocratic apex predators of the skies. They pilot Roc-interceptors and view themselves as the ultimate military instrument.
     2.  **The Dromaeon Stalkers (Raptor Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
     3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms.
     4.  **The Fenris Shock-Cohorts (Chimera Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
 *   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas.
 *   **Pack Loyalty vs. The Corporate Leash:**
     *   Soldiers are stripped of family names and conditioned via the Vaelen Synapse Lattice, but they share a feral, tight-knit camaraderie. They do not die for corporate profits; they die for their **Flight Commanders and Strain Packs**.
-    *   *The Consortium's Nightmare (The Arkun Awakening):* If a soldier's **True Character** unlocks an uncontrolled Arkun, the Synapse Lattice can be overwhelmed. Corporate commanders live in constant fear of a chimeric mutiny led by an undefeated apex commander like Kaelen Voss.
+    *   *The Consortium's Nightmare (The Arkun Awakening):* If a soldier's **True Character** unlocks an uncontrolled Arkun, the Synapse Lattice can be overwhelmed. Corporate commanders live in constant fear of a chimeric mutiny led by an undefeated apex commander like Tyage Vram.
 
 ---
 
@@ -53,11 +53,11 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
 *   **Territory:** The collapsed, half-buried mega-cities and subterranean subway networks of the Gray Sectors.
 *   **The "Curated Terrarium" Reality:**
     *   The Null-Circuit was not an undetected underground movement. Because **Doc Aaron Mercer was a deep-cover Vaelen Simulacrum**, the Spire deliberately allowed the rebel cell to operate.
-    *   The harsh, unshielded survival conditions of the Gray Sectors were used as an evolutionary incubator to force Vesper into synthesizing the genetic cure the dying alien race required.
+    *   The harsh, unshielded survival conditions of the Gray Sectors were used as an evolutionary incubator to force Zunari into synthesizing the genetic cure the dying alien race required.
 *   **The Post-Betrayal Fracture (The Schism):**
     *   When Mercer’s true nature as an alien Simulacrum is exposed in Chapter 20, the resistance fractures violently:
-        1.  **The Zealots of Terra:** Hardline human purists who declare that all modified biology—including chimeric supersoldiers like Kaelen—must be slaughtered alongside the aliens to keep human DNA pure.
-        2.  **The Pragmatic Realists (Vesper's Network):** Baseline survivors, rogue scientists, and defecting chimeric soldiers who realize that combining un-spliced human resilience with chimeric Arkuns is the only way to disable the terra-pylons and survive.
+        1.  **The Zealots of Terra:** Hardline human purists who declare that all modified biology—including chimeric supersoldiers like Tyage—must be slaughtered alongside the aliens to keep human DNA pure.
+        2.  **The Pragmatic Realists (Zunari's Network):** Baseline survivors, rogue scientists, and defecting chimeric soldiers who realize that combining un-spliced human resilience with chimeric Arkuns is the only way to disable the terra-pylons and survive.
 
 ---
 
@@ -88,7 +88,7 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
                   |                              |
                   v                              v
         [ THE CONSORTIUM OF EDEN ] <===> [ THE SURVIVAL ALLIANCE ]
-        (Apex / Aethelgard / Vanguard)      (Vesper & Kaelen)
+        (Apex / Aethelgard / Vanguard)      (Zunari & Tyage)
         • Proprietary Strain Patents             |
         • Terrified of Obsolescence              | Sparks Chimeric Mutiny
                   |                              v

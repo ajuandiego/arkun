@@ -1,13 +1,15 @@
-# The Romance Engine: The Biological Tether
+# The Romance Engine: The Biological Tether (Fire & Shadow)
 
-## 1. Concept: The Biopunk Bond
+## 1. Concept: The Biopunk Resonance (Phoenix & Raptor)
 
-In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, synthetic biology, and electromagnetic resonance**, while feeling just as primal, dangerous, and intoxicating.
+In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
-### The Mechanism: The Null-Resonance
-*   Kaelen’s alien Synapse Lattice operates on high-frequency psionic-synthetic impulses that cause catastrophic inflammatory fever (*Lattice Burn*) when malfunctioning.
-*   Vesper’s rare cellular mutation secretes a natural bio-electromagnetic dampener. Her skin, breath, and blood emit a bio-frequency that neutralizes the inflammatory cascade.
-*   To him, being near her is the difference between drowning in liquid fire and taking the first breath of pure oxygen.
+*   **The Polar Dynamics (Fire & Shadow):**
+    *   **Tyage (The Phoenix / Simurgh Apex):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
+    *   **Zunari (The Raptor / Dromaeon Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
+*   **The Thermodynamic & Neural Equilibrium:**
+    *   When Zunari touches Tyage, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
+    *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.
 
 ---
 
@@ -21,11 +23,11 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 ### Stage 1: The Accidental Shock (The Revelation)
 *   **The Trigger:** During her capture, in a violent struggle, her bare skin brushes the exposed neural port at his collarbone or neck.
-*   **The Sensation:** An instantaneous cessation of white noise. For the first time in ten years, the screaming static in Kaelen’s skull ceases. He freezes, pupil dilation blown wide, disoriented by total silence.
+*   **The Sensation:** An instantaneous cessation of white noise. For the first time in ten years, the screaming static in Tyage’s skull ceases. He freezes, pupil dilation blown wide, disoriented by total silence.
 *   **Her Realization:** She sees the monstrous, untouchable commander shudder, gasp, and look at her not like prey, but like a dying man who just found an oasis.
 
 ### Stage 2: Tactical Proximity & Mutual Utility
-*   **The Reality:** Kaelen does *not* instantly collapse if she walks away. He has lived with chronic lattice burn for years. But experiencing her dampening effect showed him what true cognitive clarity and peak operational capacity feel like.
+*   **The Reality:** Tyage does *not* instantly collapse if she walks away. He has lived with chronic lattice burn for years. But experiencing her dampening effect showed him what true cognitive clarity and peak operational capacity feel like.
 *   **The Choice:** He doesn't cage her as an invalid or put a leash on her wrist. Instead, they recognize that staying in operational proximity makes them virtually unkillable: she grounds his chronic neural strain, and he provides heavy kinetic shielding and mobility she desperately needs.
 *   **The Friction:** Two prideful, highly capable survivors choosing to share physical space and watch each other's backs because common sense dictates that solo survival is a statistical dead end.
 
@@ -50,7 +52,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 | :--- | :--- | :--- |
 | **Direct Contact (Skin-to-Skin)** | Optimal equilibrium. Grounding of quantum temporal strain; instant relief from lattice burn; rapid cellular stabilization. | Intense sensory awareness, complete cognitive clarity, zero energy waste. |
 | **Close Tactical Range (1 – 15m)** | Steady ambient dampening active; high operational coordination; abilities can be pushed with minimal feedback. | Seamless combat synergy, mutual blind-spot coverage, mutual reassurance. |
-| **Separated / Solo Operations** | Baseline functioning. Kaelen endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
+| **Separated / Solo Operations** | Baseline functioning. Tyage endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---
 
@@ -58,7 +60,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 *   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
 *   **The Complementary Survival Unit:**
-    *   **The Male Biotype (Altered):** Delivers kinetic shielding, environmental perimeter defense, physical heavy labor, and life-saving hyper-thermic warmth (104°F) during freezing waste nights.
-    *   **The Female Biotype (Natural/Resonant):** Delivers biochemical decryption, neural signal stabilization, fine-motor micro-repairs, metabolic endurance, and strategic systems analysis.
+    *   **The Male Biotype (Phoenix-Augmented):** Delivers overwhelming solar kinetic power, auto-defibrillating cardiac resilience, heavy pyric barrier shielding, and life-saving 106°F thermal furnace heat in freezing waste storms.
+    *   **The Female Biotype (Raptor-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
 *   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which ignites into feral, all-consuming passion.
 
