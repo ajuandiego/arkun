@@ -26,7 +26,7 @@ The sprawling expanse of collapsed 21st-century urban ruins outside the dome wal
 *   **Sensory Profile:**
     *   *Scent:* Acrid sulfur, burnt plastic, wet rust, and the hot copper taste of airborne dust caught on the back of the throat.
     *   *Sound:* The whistling howl of glass winds slicing through rusted steel frames; the coughs of workers suffering from the Choke; the heavy, rhythmic thud of Consortium patrol drones overhead.
-    *   *The Feral Dread (The Raptor Factor):* Packs of wild, bio-synthetic **Dromaeons** (pure reptilian velociraptor chimeras with leathery pebbled scales and zero plumage) prowl the concrete ruins at dusk. The terrifying, rhythmic *tap-tap-click* of their sickle claws on corrugated metal flooring and their chilling sub-vocal acoustic hunting clicks signal an impending pack ambush.
+    *   *The Feral Dread (The Scythe-Stalker Threat):* Packs of wild, bio-synthetic **Dromaeons** (pure reptilian pack-stalker chimeras with leathery pebbled scales and zero plumage) prowl the concrete ruins at dusk. The terrifying, rhythmic *tap-tap-click* of their sickle claws on corrugated metal flooring and their chilling sub-vocal acoustic hunting clicks signal an impending pack ambush.
 
 ---
 
@@ -65,7 +65,7 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 ### The Buried Shipping Container (The Freight Depot Wreckage)
 *   Downed in a desolate sand dune during their crash-glide escape into the Rust Barrens.
 *   The interior of a rusted, half-buried shipping container is cramped, sealed against a raging acid dust storm and prowling feral Dromaeons.
-*   The space smells of oxidized steel, blood, and Vram's scorched feathers. The night temperature plunges below zero; the only source of warmth is Vram's 106°F chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand and raptor claws scrape against the corrugated walls.
+*   The space smells of oxidized steel, blood, and Vram's scorched feathers. The night temperature plunges below zero; the only source of warmth is Vram's 106°F chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand and Dromaeon sickle-claws scrape against the corrugated walls.
 
 ### The Subterranean Metro Bunker (The Catacombs)
 *   A pre-collapse subway station buried eighty feet beneath the desert bedrock.

@@ -38,8 +38,8 @@ Each prompt in this directory follows a strict comparative format:
 
 ## 3. Directory Codex Files
 
-1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker (Raptor): Pedal sickle-claws, reptilian pebbled scales, nictitating membranes, acoustic syrinx.
-2.  [02_simurgh_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/02_simurgh_mutation.md) — The Solar Phoenix: 106°F capillary furnace, bristling obsidian-gold plumage, pyric talons, cardiac rebirth node.
+1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker: Pedal sickle-claws, reptilian pebbled scales, nictitating membranes, acoustic syrinx.
+2.  [02_simurgh_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/02_simurgh_mutation.md) — The Solar Sovereign: 106°F capillary furnace, bristling obsidian-gold plumage, pyric talons, cardiac rebirth node.
 3.  [03_gryphon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/03_gryphon_mutation.md) — The Sky-Lord: 14-foot functional feathered wings, honeycomb hollow bones, tetrachromatic vision, aerial talons.
 4.  [04_fenris_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/04_fenris_mutation.md) — The Pack Titan: Jaw bite-torque hypertrophy, sabre canines, olfactory sinus expansion, keratin knuckle strike-plates.
-5.  [05_lindwurm_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/05_lindwurm_mutation.md) — The Stone-Basilisk: Interlocking subdermal basalt plates, heel anchor spurs, toxic aerosol glands.
+5.  [05_lindwurm_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/05_lindwurm_mutation.md) — The Earth-Bulwark: Interlocking subdermal basalt plates, heel anchor spurs, toxic aerosol glands.

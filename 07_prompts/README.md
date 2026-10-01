@@ -18,7 +18,7 @@ To maintain perfect visual consistency across all image generations in Gemini, e
 3. **Marginalia & Technical Callouts:** Microscopic technical cursive notes, anatomical dimension arrows, Greek/Latin taxonomic labeling, scale bars, and geometric drafting markings framing the subject.
 4. **Selective Color Palette (The "Living Ledger" Tint):** NOT fully rendered modern digital art. The linework remains dominant, overlaid with delicate, translucent watercolor washes:
    * **Amber / Ocher:** Atmospheric haze, desert dust, sulfur vents.
-   * **Copper / Molten Gold / Crimson:** Phoenix vascular tracks, heat auras, plumage accents.
+   * **Copper / Molten Gold / Crimson:** Solar Simurgh vascular tracks, heat auras, plumage accents.
    * **Chartreuse / Emerald:** Green Dome biosystems, Dromaeon eyes, silica plant life.
    * **Basalt Gray / Iron Rust:** Chimeric armor plates, ruins, nanocarbon claws.
 

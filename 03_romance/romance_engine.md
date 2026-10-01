@@ -1,12 +1,12 @@
 # The Romance Engine: The Biological Tether (Fire & Shadow)
 
-## 1. Concept: The Biopunk Resonance (Phoenix & Raptor)
+## 1. Concept: The Biopunk Resonance (Solar Sovereign & Scythe-Stalker)
 
 In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
 *   **The Polar Dynamics (Fire & Shadow):**
-    *   **Vram (The Phoenix / Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
-    *   **Tsunari (The Raptor / Dromaeon Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
+    *   **Vram (The Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
+    *   **Tsunari (The Dromaeon Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
     *   When Tsunari touches Vram, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
     *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.
@@ -82,6 +82,6 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 
 *   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
 *   **The Complementary Survival Unit:**
-    *   **The Male Biotype (Phoenix-Augmented):** Delivers overwhelming solar kinetic power, auto-defibrillating cardiac resilience, heavy pyric barrier shielding, and life-saving 106°F thermal furnace heat in freezing waste storms.
-    *   **The Female Biotype (Raptor-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
+    *   **The Male Biotype (Simurgh Solar-Augmented):** Delivers overwhelming solar kinetic power, auto-defibrillating cardiac resilience, heavy pyric barrier shielding, and life-saving 106°F thermal furnace heat in freezing waste storms.
+    *   **The Female Biotype (Dromaeon Stalker-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
 *   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which ignites into feral, all-consuming passion in Book 2.

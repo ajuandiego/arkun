@@ -6,15 +6,15 @@
 
 ---
 
-## 1. The Dromaeon (The Primeval Scythe-Stalker / Prehistoric Raptor)
+## 1. The Dromaeon (The Primeval Scythe-Stalker)
 
 ### Prompt
 ```text
-An authentic Renaissance naturalist zoological plate and anatomical study in the style of Leonardo da Vinci's animal sketchbooks, depicting the original prehistoric beast 'The Dromaeon' (The Primordial Scythe-Stalker / Jurassic Raptor) on aged, tea-stained vellum parchment.
+An authentic Renaissance naturalist zoological plate and anatomical study in the style of Leonardo da Vinci's animal sketchbooks, depicting the original prehistoric beast 'The Dromaeon' (The Primordial Scythe-Stalker) on aged, tea-stained vellum parchment.
 
-CRITICAL SUBJECT: The Dromaeon is completely reptilian and non-feathered—featuring textured leathery hide, fine pebbled scales, and armor scutes like a classic Jurassic Park raptor; there are NO feathers, NO bird plumage, and NO wings.
+CRITICAL SUBJECT: The Dromaeon is completely reptilian and non-feathered—featuring textured leathery hide, fine pebbled scales, and armor scutes like an ancient primeval stalker-predator; there are NO feathers, NO bird plumage, and NO wings.
 
-The central drawing is a full-body lateral study of a prehistoric velociraptor in a menacing, calculating stalker pose. The beast features a sleek, muscular reptilian body with finely textured pebbled scales, a row of low, sharp keratinized dorsal scutes running along the spine, a long stiffened muscular counterbalancing tail, and powerful cursorial legs built for explosive sprinting. The inner toe of each foot brandishes a colossal, four-inch curved killer sickle-claw held raised high off the ground in lethal striking readiness.
+The central drawing is a full-body lateral study of a prehistoric scythe-stalker beast in a menacing, calculating stalker pose. The beast features a sleek, muscular reptilian body with finely textured pebbled scales, a row of low, sharp keratinized dorsal scutes running along the spine, a long stiffened muscular counterbalancing tail, and powerful cursorial legs built for explosive sprinting. The inner toe of each foot brandishes a colossal, four-inch curved killer sickle-claw held raised high off the ground in lethal striking readiness.
 
 Surrounding technical callout sketches include:
 1. Detailed skull and jaw dissection illustrating backward-curving serrated predator teeth, powerful jaw hinge tendons, exposed gums, and stereoscopic forward-facing reptilian eyes with horizontal slit pupils and a nictitating membrane.
@@ -29,13 +29,13 @@ Drawn with crisp graphite pencil and iron-gall sepia ink cross-hatching, accente
 
 ---
 
-## 2. The Simurgh (The Solar Phoenix Titan / Primordial Firebird)
+## 2. The Simurgh (The Solar Sovereign Titan / Primordial Firebird)
 
 ### Prompt
 ```text
-A monumental Renaissance naturalist and mythological codex study in the style of Leonardo da Vinci's flight and cardiovascular manuscripts, illustrating the ancient primordial titan beast 'The Simurgh' (The Primordial Solar Phoenix) on heavy, antique vellum parchment.
+A monumental Renaissance naturalist and mythological codex study in the style of Leonardo da Vinci's flight and cardiovascular manuscripts, illustrating the ancient primordial titan beast 'The Simurgh' (The Primordial Solar Sovereign) on heavy, antique vellum parchment.
 
-The central drawing depicts an enormous, majestic avian bird of prey of terrifying mythic proportions, perched on a mountain peak with its massive wings unfurled in a soaring, regal wingspan. The beast combines the predatory anatomy of a giant raptorial eagle with iridescent, cascading obsidian, copper, and molten-gold plumage that resembles cooling embers. Its sharp hooked beak, crowned feathered crest, and incandescent golden eyes radiate raw solar heat.
+The central drawing depicts an enormous, majestic avian bird of prey of terrifying mythic proportions, perched on a mountain peak with its massive wings unfurled in a soaring, regal wingspan. The beast combines the predatory anatomy of a giant predatory solar eagle with iridescent, cascading obsidian, copper, and molten-gold plumage that resembles cooling embers. Its sharp hooked beak, crowned feathered crest, and incandescent golden eyes radiate raw solar heat.
 
 Surrounding anatomical and physiological studies include:
 1. An intricate cross-section of the bird's massive chest and sternum keel, illustrating the volcanic cardiac furnace and glowing circulatory veins tinted with subtle crimson and gold watercolor.
@@ -92,11 +92,11 @@ Executed with dark sepia ink, charcoal, and red chalk highlights. Overlaid with 
 
 ---
 
-## 5. The Lindwurm (The Primordial Basalt Drake / Stone-Basilisk)
+## 5. The Lindwurm (The Primordial Basalt Drake / Earth-Bulwark)
 
 ### Prompt
 ```text
-A classical Renaissance comparative anatomy and herpetological manuscript plate in the style of Leonardo da Vinci's dragon and reptile studies, depicting the primordial beast 'The Lindwurm' (The Stone-Basilisk) on heavy, foxed parchment paper.
+A classical Renaissance comparative anatomy and herpetological manuscript plate in the style of Leonardo da Vinci's dragon and reptile studies, depicting the primordial beast 'The Lindwurm' (The Earth-Bulwark) on heavy, foxed parchment paper.
 
 The central drawing depicts an enormous, ancient subterranean wingless drake: a colossal, heavily armored bipedal serpentine dragon crawling across fractured rock. The beast features an elongated crocodilian-serpent head with backward-sweeping armored horn ridges, deep-set reptilian eyes, two massive muscular forelegs armed with heavy basalt burrowing claws, and a thick, muscular serpentine body covered in overlapping, stone-like basalt scales that tapers into a heavy, clubbed tail.
 

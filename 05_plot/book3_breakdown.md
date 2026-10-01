@@ -43,7 +43,7 @@
     *   *Core Action:* A zero-gravity spacewalk across the city-ship’s exterior. Tsunari uses her nanocarbon pedal sickle-claws to anchor onto the biomechanical hull, bypassing the energy shields during a thermal cycle.
 *   **Chapter 10 (Vram): Scent in the Vacuum**
     *   *Setting:* The detention bay corridor.
-    *   *Core Action:* Even through the filtered environmental atmosphere, Vram’s Phoenix senses catch the faintest trace of desert sage and copper dust. He knows she is on the ship.
+    *   *Core Action:* Even through the filtered environmental atmosphere, Vram’s heightened avian senses catch the faintest trace of desert sage and copper dust. He knows she is on the ship.
 *   **Chapter 11 (Tsunari): The Ghost in the Conduit**
     *   *Setting:* The Spire's inner maintenance shafts.
     *   *Core Action:* Tsunari uses her Quantic Phase-Stutter to ghost through alien security barriers, slicing through bio-drones with lethal stealth.
@@ -55,7 +55,7 @@
 
 ### PART III: THE WAR FOR THE CORE (Chapters 13–18)
 
-*   **Chapter 13 (Vram): Re-Arming the Phoenix**
+*   **Chapter 13 (Vram): Re-Arming the Sovereign**
     *   *Setting:* The armory of Spire Meridian (Lyraen’s flagship).
     *   *Core Action:* Arbiter Lyraen equips Vram with pristine, un-collared chimeric flight armor. Vram takes command of the awakened chimeric fleet.
 *   **Chapter 14 (Tsunari): The Extinction Countdown**
@@ -81,19 +81,22 @@
 *   **Chapter 19 (Vram): The Flatline**
     *   *Setting:* The Throne Room floor.
     *   *Core Action:* Vram collapses in horrifying agony. His golden capillaries rupture; his vision goes black. His heart flatlines on the cold alien floor.
-*   **Chapter 20 (Tsunari): The Rebirth of the Phoenix**
+*   **Chapter 20 (Tsunari): The Solar Rebirth**
     *   *Setting:* The center of the Throne Chamber.
     *   *Core Action:* Refusing to let him die, Tsunari executes a maximum 3-second Quantic Phase-Stutter, blurring through the crossfire and plunging the master viral syringe directly into Vram’s primary spinal siphon port.
-    *   *The Miracle:* The viral cure dissolves his lattice. Seconds later, his cardiac core unleashes a blinding thermal-electric pulse—**The Rebirth**. Vram gasps, his heart restarting with the raw, uninhibited fire of a true Phoenix.
-*   **Chapter 21 (Dual POV): The Sovereign Execution**
-    *   *Setting:* The shattering throne chamber.
-    *   *Core Action:* Fighting as a perfectly synchronized battle couple. Vram overclocks The Pyric Crucible, melting through Xaevis’s psionic forcefield, while Tsunari executes an acrobatic leaping strike, her pedal sickle-claws slicing through Xaevis’s primary neural core. The alien tyrant falls.
-*   **Chapter 22 (Tsunari): Reversing the World**
+    *   *The Miracle:* The viral cure dissolves his lattice. Seconds later, his cardiac core unleashes a blinding thermal-electric pulse—**The Rebirth**. Vram gasps, his heart restarting with the raw, uninhibited fire of a true solar sovereign.
+*   **Chapter 21 (Dual POV): The Sovereign Execution & The Broken Checkmate**
+    *   *Setting:* The shattering throne chamber of Spire Prime.
+    *   *Core Action:* Fighting as a perfectly synchronized battle couple. Vram overclocks The Pyric Crucible, melting through Xaevis’s psionic forcefield, while Tsunari executes an acrobatic leaping strike, her pedal sickle-claws slicing through Xaevis’s primary neural core.
+    *   *The Dying Checkmate:* Sprawled on the floor, Xaevis wheezes with dying malice: *"You fools... you killed me, but you killed yourselves. The soil of this continent is dead silica. Outside the domes, you have no food, and the oceans are boiling death. In two seasons, mankind will starve in its own ashes."*
+    *   *The Retort:* Tsunari steps forward, holding up her father's glowing quartz disc: *"We aren't staying in your cages, Archon. We know about the Verdant Cradle."*
+*   **Chapter 22 (Tsunari): Reversing the World & Calming the Seas**
     *   *Setting:* The master atmospheric console.
-    *   *Core Action:* Tsunari engages the planetary reverse command. Across six continents, the monumental Terra-Pylons shudder, venting billions of tons of purified oxygen and moisture, neutralizing forty years of toxic Amber Haze.
-*   **Chapter 23 (Vram): The Falling Domes**
+    *   *Core Action:* Tsunari engages the planetary reverse command. Across the globe, the monumental Terra-Pylons shudder, venting billions of tons of purified oxygen and moisture, neutralizing forty years of toxic Amber Haze.
+    *   *The Oceanic Calming:* Severing the planetary energy network instantly collapses the violent electromagnetic squalls over the Stygian Oceans. The boiling, ionized currents settle into calm, deep blue water for the first time in four decades.
+*   **Chapter 23 (Vram): The Global Call**
     *   *Setting:* The observation deck of Spire Prime.
-    *   *Core Action:* Together, Vram and Tsunari watch Earth below. The artificial forcefields of the Green Domes flicker and shut down. Baseline humans and augmented soldiers walk out together onto the blooming earth.
-*   **Chapter 24 (Dual POV): Under the Open Sky**
-    *   *Setting:* High mountain meadows above Sector 09 (Year 41 AS).
-    *   *Romance Beat (🌶️🌶️🌶️🌶️) & Resolution:* Six months later. Vram and Tsunari stand together on a ridge overlooking a vibrant, wild world. Real, unshielded rain falls over their skin. No collars, no leashes, no fevers. They are sovereign, bonded, and completely free.
+    *   *Core Action:* Together, Vram and Tsunari watch the clouds part beneath them, revealing blue oceans, snowcapped peaks, and sparkling sunlight. Tsunari links Spire Prime's planetary comms array to broadcast Dr. Jeffrey Thorne's navigational vector and the coordinates of the **Verdant Cradle** to every Gray Sector, rebel redoubt, and liberated dome on Earth.
+*   **Chapter 24 (Dual POV): The Great Migration & The Emerald Shore**
+    *   *Setting:* The flagship of the Migration Flotilla, approaching the volcanic caldera of the Verdant Cradle (Year 41 AS).
+    *   *Resolution & Romance Beat (🌶️🌶️🌶️🌶️):* Six months later. A monumental global armada of converted industrial ships, catamarans, and soaring chimeric flight squadrons crosses the peaceful blue ocean. Vram and Tsunari stand at the prow of the lead vessel, their bodies locked in uninhibited, sovereign harmony beneath an open, radiant sun. On the distant emerald coastline, white smoke rises from a welcoming shore beacon—her father's signal. Humanity and chimeric kind have reached the promised land, free to build a world of their own.

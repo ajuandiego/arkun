@@ -1,4 +1,4 @@
-# Anatomical Codex: Simurgh Human Mutation (The Solar Phoenix)
+# Anatomical Codex: Simurgh Human Mutation (The Solar Sovereign)
 
 > **Lineage:** Simurgh Archeo-Genetic Blueprint (The Solar Regenerator)  
 > **Subject Archetype:** Commander Vram Tyage & Aeros Vanguard  
@@ -10,7 +10,7 @@
 ### Prompt: Simurgh Human Mutation (Male & Female — Resting vs. Enhanced)
 
 ```text
-A monumental Renaissance anatomical and physiological codex plate in the style of Leonardo da Vinci's cardiovascular sketchbooks, illustrating the mutation effects of the 'Simurgh / Phoenix Chimeric Strain' on both a Male and Female human body, drawn on aged, tea-stained vellum parchment.
+A monumental Renaissance anatomical and physiological codex plate in the style of Leonardo da Vinci's cardiovascular sketchbooks, illustrating the mutation effects of the 'Simurgh Solar Strain' on both a Male and Female human body, drawn on aged, tea-stained vellum parchment.
 
 The page features a side-by-side comparative Vitruvian anatomical layout displaying both genders across two distinct biological states:
 

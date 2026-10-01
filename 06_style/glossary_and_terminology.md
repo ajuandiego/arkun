@@ -10,7 +10,7 @@
 *   **The Choke (Glass Lung):** The degenerative respiratory and cellular asphyxiation syndrome caused by breathing the alien-phased atmosphere without filters.
 *   **The Gilded (Edenites):** Derogatory Gray Sector term for the human corporate elite living inside the Green Domes.
 *   **Liter-Hour:** The standard survival currency in the Gray Sectors; represents one hour’s worth of breathable air filtered through a certified scrubber cartridge.
-*   **Mayfly:** Military slang used by Griffin and Phoenix pilots to describe baseline, un-augmented humans, referencing their fragile, short lifespans.
+*   **Mayfly:** Military slang used by augmented flight pilots to describe baseline, un-augmented humans, referencing their fragile, short lifespans.
 *   **Rustborn (The Dustborn):** Anyone born or living outside the atmospheric domes in the ruined sectors.
 *   **Scrubber:** A personal portable respirator or domestic air purification device.
 
@@ -18,7 +18,7 @@
 
 ## 2. Biopunk & Aeros-Legion Terminology
 
-*   **Transgenic / Gene-Spliced Soldier:** Humans engineered by splicing human embryonic DNA with one or more of the five ancient mutation strains. (Replaces the ambiguous blanket term "chimeric", preserving "Chimera" strictly for Mutation F).
+*   **Transgenic / Gene-Spliced Soldier:** Humans engineered by splicing human embryonic DNA with one or more of the five ancient mutation strains.
 *   **Aeros-Legion 7:** The official military flight division of the Consortium, utilizing Mutation G and Mutation S soldiers for high-altitude biological air superiority.
 *   **Lattice Burn (Neuro-Decay):** The chronic, excruciating inflammatory breakdown caused by long-term rejection of the Vaelen Synapse Lattice.
 *   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of soldiers, feeding high-altitude telemetry and enforcing sensory conditioning.
@@ -35,11 +35,11 @@
 
 All gene-spliced soldiers and augmented wasteland survivors are classified under **five distinct mutation letters** derived from ancient excavated archeo-genetic templates:
 
-*   **Mutation G (Gryphon Strain):** Avian/raptor aerial lords of the skies (14-foot biological wings, hollow titanium-reinforced bones, supersonic dive reflexes, Vector-Blink Arkun). Standard Aeros-Legion flight mutation.
-*   **Mutation L (Lindwurm / Basilisk Strain):** Heavy draconic/basilisk excavators (hexagonal dermal stone-scutes, toxic resistance, Kinetic Tremor-Wave Arkun). Exemplified by heavy breachers like Boran Vael-Korr.
-*   **Mutation S (Simurgh / Phoenix Strain):** Solar regenerative avian vectors (104°F–106°F internal thermal furnace, accelerated cellular mitosis, glowing capillaries, cardiac auto-defibrillation, Pyric Crucible Arkun). Exemplified by Commander Vram Tyage.
-*   **Mutation F (Fenris / Chimera Strain):** High-torque terrestrial canid/feline pack predators (the true **Chimera**; coarse fur/quills, crushing jaw torque, heightened scent tracking, Berserk Frenzy Arkun). Exemplified by wasteland scouts like Kira Brandt.
-*   **Mutation D (Dromaeon / Raptor Strain):** Prehistoric velociraptor pack hunters (retractable pedal sickle-claws, 50+ mph burst sprinting, acoustic click-resonance, Quantic Chrono-Dilation Arkun). Exemplified by Dr. Tsunari Thorne.
+*   **Mutation G (Gryphon Strain):** Avian-panthera aerial lords of the skies (14-foot biological wings, hollow titanium-reinforced bones, supersonic dive reflexes, Vector-Blink Arkun). Standard Aeros-Legion flight mutation.
+*   **Mutation L (Lindwurm Strain):** Heavy mineralized excavators (hexagonal dermal stone-scutes, toxic resistance, Kinetic Tremor-Wave Arkun). Exemplified by heavy breachers like Boran Vael-Korr.
+*   **Mutation S (Simurgh Strain):** Solar regenerative avian vectors (104°F–106°F internal thermal furnace, accelerated cellular mitosis, glowing capillaries, cardiac auto-defibrillation, Pyric Crucible Arkun). Exemplified by Commander Vram Tyage.
+*   **Mutation F (Fenris Strain):** High-torque terrestrial canid predators (coarse fur/quills, crushing jaw torque, heightened scent tracking, Berserk Frenzy Arkun). Exemplified by wasteland scouts like Kira Brandt.
+*   **Mutation D (Dromaeon Strain):** Bipedal leathery-scaled terrestrial stalkers (retractable pedal sickle-claws, 50+ mph burst sprinting, acoustic click-resonance, Quantic Chrono-Dilation Arkun). Exemplified by Dr. Tsunari Thorne.
 
 ---
 
@@ -69,18 +69,18 @@ All gene-spliced soldiers and augmented wasteland survivors are classified under
 
 ## 6. Key Dramatis Personae & Callsigns
 
-*   **Dr. Tsunari Thorne:** Lead female protagonist (FMC). Clandestine field geneticist, rogue reverse-engineer, and Null-Resonance infiltrator spliced with the prehistoric Dromaeon (Raptor) strain.
+*   **Dr. Tsunari Thorne:** Lead female protagonist (FMC). Clandestine field geneticist, rogue reverse-engineer, and Null-Resonance infiltrator spliced with the ancient Dromaeon strain.
     *   *Tactical Callsign / Moniker:* **"Tsune"** (used over comms and by frontier scouts).
     *   *Intimate Diminutive:* **"Tsunie"** (used exclusively by Vram in tender, unguarded moments).
-*   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh (Phoenix) solar strain (80% Simurgh + 20% Gryphon flight traits).
+*   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh solar strain (80% Simurgh + 20% Gryphon flight traits).
     *   *Tactical Callsigns:* **"Pyre-Zero"** / **"Aeros-Actual"**.
     *   *Field Moniker:* **"Vram"** (used by his inner circle, squadmates, and Tsunari).
 *   **Corporal Ferrin "Rook" Calder:** Callsign **"Rook"**. Sarcastic, quick-witted skirmisher and close-quarters vanguard of Aeros-Legion 7 (75% Gryphon + 25% Fenris). Uses irreverent humor as armor against the Synapse Lattice; lethal with twin trench daggers.
 *   **Specialist Tobin "Toby" Vance:** Callsign **"Kestrel"**. Youngest scout of Aeros-Legion 7 and Cassian's younger brother (80% Gryphon + 20% Simurgh). Gentle, chivalrous soul who whittles miniature figurines from scrap optical quartz; fiercely protective of his squad and "Doc" Tsunari.
-*   **Boran "The Bastion" Vael-Korr:** Former Sergeant of the 4th Heavy Breachers (100% Lindwurm/Basilisk). 6'8" stone-armored cynic with a deep baritone; guards subterranean rail spurs and trades constant combat banter with the "fragile sky-birds."
+*   **Boran "The Bastion" Vael-Korr:** Former Sergeant of the 4th Heavy Breachers (100% Lindwurm Strain). 6'8" stone-armored cynic with a deep baritone; guards subterranean rail spurs and trades constant combat banter with the "fragile sky-birds."
 *   **Madame Vrena Chen:** 100% baseline human matriarch of the Sector 09 Air Scrubber Guild and Iron Market. Wears an ornate double-canister brass respirator; controls oxygen distribution and mobilizes civilian defense networks.
 *   **Kira Brandt:** Leader of the "Overground Railroad" (85% Fenris pack tracker). Expert wasteland smuggler piloting modified sand-crawlers across the Rust Barrens; tracks scent wakes through toxic dust storms.
-*   **Sora Thorne:** Tsunari’s estranged younger sister (age 20). Junior Bio-Synthetics Assistant at Apex GeneSys inside Eden Dome Alpha; lives in privileged ignorance of the impending alien terraforming harvest.
+*   **Sora Thorne:** Tsunari’s estranged younger sister (age 20). Junior Bio-Synthetics Assistant at Apex Bio inside Eden Dome Alpha; lives in privileged ignorance of the impending alien terraforming harvest.
 *   **Elder Gideon Cross:** Chief Bio-Curator of Sector 09; keeper of The Glass Vault and mentor figure.
 *   **Ren:** Fourteen-year-old Storm-Born mechanical prodigy and Tsunari’s tech partner.
 *   **Arbiter Lyraen:** Dissident Vaelen judicial/scientific overseer and secret ally of humanity.
@@ -103,6 +103,19 @@ All gene-spliced soldiers and augmented wasteland survivors are classified under
 *   **Ember:** The title granted to an individual enhanced warrior of the Ember Coven (numbered One through Seven).
 *   **Caelia (Ember-Seven / "The Promised Bride"):** The youngest of the Coven; conditioned to believe she was destined to marry the Deliverer. Evolves from an obsessive, jealous rival of Tsunari into a redemptive ally who sacrifices herself for genuine human love.
 *   **Commander Malakar (Ember-Prime / "The Iron Flail"):** The towering, fanatical leader of the Ember Coven wielding a steam-pneumatic rail-flail. Survived the agonizing tempering process with absolute mental subjugation; escapes into the deep wastes after Sector 09, leaving his fate open-ended.
+
+---
+
+## 8. Geography, The Great Cleave & The Promised Land
+
+*   **The Great Cleave:** The violent tectonic fracturing and oceanic thermal expansion in Year 0 AS that permanently altered Earth’s continents—obliterating the Central American isthmus into the Pan-Oceanic Breach, severing Africa through the widening Red Sea canyon, and submerging coastal plains beneath forty meters of water.
+*   **The Stygian Oceans (Mare Stygium):** The boiling, ionized dead seas wracked by perpetual electromagnetic squalls, hyper-saline currents, and caustic storms. Completely impassable to human vessels during the 40-year reign of the Terra-Pylons; the graveyard of lost flotillas and the canvas for future expanded-universe stories.
+*   **The Cartographic Fog of War:** The planetary reality wherein ordinary humans and local Dome administrators possess zero long-range satellite imagery, living in complete geographical isolation. Only the Vaelen possess the true, real-time map of Earth.
+*   **The Boreal Redoubt:** The elevated, mountainous northern continental plateau (Eurasian-Alpine basin) housing Eden Dome Alpha, Sector 09, and the entire primary theater of Books 1 through 3.
+*   **The Verdant Cradle (The Hidden Oasis):** An un-poisoned, thriving green sanctuary continent across the Stygian Ocean, naturally enclosed by towering volcanic calderas and protected by a unique magnetic null-field. Kept secret by the Vaelen since Antiquity as their private genetic reserve.
+*   **Dr. Jeffrey Thorne:** Pre-collapse bio-engineer, antique cartographer, and father of Tsunari and Sora. Fled corporate purges ten years ago into the Stygian Ocean; survived the crossing and became the first human to reach the Verdant Cradle.
+*   **Ghost Beacon 09-Omega:** The uncatalogued optical quartz disc preserved in Gideon Cross's vault; an encrypted shortwave transmission from Jeffrey Thorne detailing the navigational corridor across the boiling sea.
+*   **The Great Migration:** The triumphant climax of Book 3 wherein humanity and awakened chimeric legions embark across the newly calmed blue oceans toward the Verdant Cradle to build a free civilization together.
 
 
 

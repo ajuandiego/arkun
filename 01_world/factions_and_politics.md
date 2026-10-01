@@ -43,9 +43,9 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
         *   *Sgt. Veda Frost (Screech):* Harpy/Dromaeon close-quarters shock vanguard.
         *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent, sharp-tongued skirmisher and squad morale anchor (The "Ridoc" archetype).
         *   *Spc. Tobin "Toby" Vance (Kestrel):* Chivalrous, gentle Simurgh scout and optical quartz whittler (The "Liam Mairi" archetype).
-    2.  **The Dromaeon Stalkers (Raptor Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
-    3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms. Exemplified by veteran heavy breachers like **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
-    4.  **The Fenris Shock-Cohorts (Chimera Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
+    2.  **The Dromaeon Stalkers (Scythe-Stalker Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
+    3.  **The Lindwurm Bastions (Earth-Bulwark Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms. Exemplified by veteran heavy breachers like **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
+    4.  **The Fenris Shock-Cohorts (Terrestrial Vanguard Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
 *   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas. (Vividly seen in the combat banter between Boran the Lindwurm and Ferrin Calder).
 *   **Pack Loyalty vs. The Corporate Leash:**
     *   Soldiers are stripped of family names and conditioned via the Vaelen Synapse Lattice, but they share a feral, tight-knit camaraderie. They do not die for corporate profits; they die for their **Flight Commanders and Strain Packs**.
@@ -79,7 +79,7 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
     1.  **The Glass Spools (Optical Quartz Discs):** Ultra-dense synthetic sapphire and quartz discs micro-etched with optical lasers. Immune to EMPs, radiation, and centuries of dust; readable via manual magnifying loupes and hand-cranked light prisms.
     2.  **Biological DNA Codices (Living Ink):** Massive scientific and literary libraries encoded into the synthetic, non-coding sequences of frozen bacterial colonies stored in cryo-dewars.
     3.  **Mnemonic Conditioning:** Senior Curators undergo intense neurological training, turning their minds into living catalogs capable of memorizing chemical formulas, ancient treaties, and genomic sequences without digital assistance.
-*   **Political Significance:** The Curators are the only institution holding the un-redacted **2035 Elysium Accords** (proving the Consortium knowingly sold out humanity) and the **Antiquity Archeo-Genetic Records** (proving the Vaelen visited Earth millennia ago).
+*   **Political Significance:** The Curators are the only institution holding the un-redacted **2035 Eden Pact** (proving the Consortium knowingly sold out humanity) and the **Antiquity Archeo-Genetic Records** (proving the Vaelen visited Earth millennia ago).
 
 ---
 

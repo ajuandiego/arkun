@@ -7,13 +7,13 @@ Modern human history recorded the arrival of the Vaelen in 2032 as "First Contac
 ### The Antiquity Presence (ca. 4,000 BCE – 500 BCE: "The Age of Chimeras")
 *   Millennia before modern industrialization, a scientific vanguard of Vaelen maintained orbital outposts and subterranean research cradles across ancient Persia, Mesopotamia, the Mediterranean, and East Asia.
 *   **The Mythological Reality:** The mythical creatures embedded in ancient human folklore were **literal, physical biopunk constructs** engineered by Vaelen geneticists experimenting with terrestrial animal DNA:
-    1.  **The Gryphon (Persian / Scythian Steppes):** Avian-panthera chimeras engineered as high-altitude territorial guardians and aerial scouts. (The direct genetic blueprint for today’s Aeros-Legion).
-    2.  **The Lindwurm / Basilisk (Ancient Eurasia & Indus Valley):** Subterranean armored reptilian excavators with dense mineralized dermal plating (the biological precursor to *Lithodermic Sintering*) and neuro-chemical venom glands.
-    3.  **The Simurgh / Phoenix (Mesopotamia / Levant):** Avian specimens possessing hyper-accelerated cellular regeneration and telomerase secretion (the precursor to *Cytokinetic Weaving* / healing).
-    4.  **The Fenris / Chimera (Nordic / Hellenic Regions):** Hyper-muscular terrestrial pack predators with acoustic hunting frequencies and bone density capable of withstanding siege impacts.
-    5.  **The Dromaeon / Scythe-Stalker (The "Velociraptor" Archetype — Gobi & Mesopotamian Deserts):** Deep-history dromaeosaurid genomes resurrected and modified by the Vaelen. Bipedal, pure reptilian pack-hunters with tough leathery hides, pebbled scales, no feathers, curved retractable nanocarbon sickle-talons, hyper-calculating problem-solving intelligence, and sub-vocal hunting clicks (the ancient source of desert demon and dragon legends).
-*   **The Great Withdrawal (ca. 500 BCE):** A violent internal schism among the ancient Vaelen forced their departure from Earth. Deprived of the Vaelen’s catalytic atmospheric frequency, the chimeras suffered metabolic collapse and gradually died out. Humanity preserved their existence through oral myth, temple carvings, and folklore.
-*   **The 2032 Reality:** When the Vaelen returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The "Griffin Units" engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Vaelen archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Dromaeons* also roam the unshielded wasteland, making the Rust Barrens a lethal predator hunting ground.
+    1.  **The Gryphon Strain (Persian / Scythian Steppes):** Avian-panthera aerial hunters engineered as high-altitude territorial guardians and aerial scouts. (The direct genetic blueprint for today’s Aeros-Legion).
+    2.  **The Lindwurm Strain (Ancient Eurasia & Indus Valley):** Subterranean armored reptilian excavators with dense mineralized dermal plating (the biological precursor to *Lithodermic Sintering*) and neuro-chemical venom glands.
+    3.  **The Simurgh Strain (Mesopotamia / Levant):** Avian specimens possessing hyper-accelerated cellular regeneration and telomerase secretion (the precursor to *Cytokinetic Weaving* / healing).
+    4.  **The Fenris Strain (Nordic / Hellenic Regions):** Hyper-muscular terrestrial pack predators with acoustic hunting frequencies and bone density capable of withstanding siege impacts.
+    5.  **The Dromaeon Strain (The Scythe-Stalker — Gobi & Mesopotamian Deserts):** Deep-history archeo-genetic genomes resurrected and modified by the Vaelen. Bipedal, pure reptilian pack-hunters with tough leathery hides, pebbled scales, no feathers, curved retractable nanocarbon sickle-talons, hyper-calculating predictive intelligence, and sub-vocal hunting clicks.
+*   **The Great Withdrawal (ca. 500 BCE):** A violent internal schism among the ancient Vaelen forced their departure from Earth. Deprived of the Vaelen’s catalytic atmospheric frequency, the ancient strains suffered metabolic collapse and gradually died out. Humanity preserved their existence through oral myth, temple carvings, and folklore.
+*   **The 2032 Reality:** When the Vaelen returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The winged military legions engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Vaelen archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Dromaeons* also roam the unshielded wasteland, making the Rust Barrens a lethal predator hunting ground.
 
 ### The Vaelen: Anatomical Profile & Biological Nature
 
@@ -68,12 +68,13 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 *   The planetary water table collapsed across equatorial belts; agricultural systems failed simultaneously across North America, Eurasia, and Africa.
 *   Megacities devolved into rationing zones governed by private security conglomerates.
 
-#### Year 0 (2032 CE): The Great Storm & The Descent of the Spires
+#### Year 0 (2032 CE): The Great Storm & The Great Cleave
 *   Three colossal, non-inertial biomechanical vessels—*The Spires*—entered low orbit and moored over the oceans.
 *   The Great Storm raged for five months as the Vaelen deployed planetary terra-pylons, clashing with Earth’s jet stream.
+*   **The Great Cleave:** Massive thermal oceanic expansion and tectonic fracturing shattered global geography. Central America was torn open into the Pan-Oceanic Breach, the Red Sea rift expanded to sever Africa completely, coastal plains were drowned by over 40 meters, and open waters turned into the impassable, boiling **Stygian Oceans** wracked by electromagnetic squalls.
 *   The Vaelen established contact with the boards of directors of Earth's surviving corporate syndicates, offering climate shields, clean fusion, and cellular longevity (*The Chrysalis*) in exchange for sovereign extraction rights.
 
-#### 3 AS (2035 CE): The Elysium Accords
+#### 3 AS (2035 CE): The Eden Pact
 *   Nation-states were officially dissolved; the world was divided into corporate sectors.
 *   The **Consortium of Eden** was born: an autocratic coalition of corporate oligarchs and Vaelen overseers.
 *   Construction completed on the first **Green Domes**—monumental atmospheric bio-shields enclosing 70% of surviving humanity.
@@ -87,13 +88,14 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 
 #### 18 AS – 25 AS (2050–2057 CE): The Perfected Chrysalis Grinder & Military Ascent
 *   The Vaelen deploy refined Synapse Lattice dampeners. Corporate Tithe Sweeps ramp up across Gray Sector orphanages.
-*   **Year 19 AS (2051 CE):** At age 7, Vram Tyage is seized in a tithe sweep by Apex GeneSys, entering the Chrysalis Vats to emerge as an Aeros-Legionnaire.
+*   **Year 19 AS (2051 CE):** At age 7, Vram Tyage is seized in a tithe sweep by Apex Bio, entering the Chrysalis Vats to emerge as an Aeros-Legionnaire.
 *   The Green Domes solidify into generational, high-density metropolises; outside the walls, the Gray Ring develops autonomous Scrubber Guilds, black markets, and transit rails.
 *   Escaped laboratory chimeras establish breeding packs across the Rust Barrens, forming a dangerous wild ecology.
 
-#### 31 AS (2063 CE): The Thorne Execution & Null Inoculation
-*   Dr. Arthur Thorne discovers Consortium telemetry confirming the scheduled planetary extinction harvest.
-*   Before his execution by Aeros-Legion enforcers, Dr. Thorne secretly inoculates 17-year-old Tsunari with an uncorrupted **Dromaeon (Raptor) embryo** and Amber Haze antibody culture.
+#### 31 AS (2063 CE): The Thorne Raid, Null Inoculation & The Father's Exile
+*   Dr. Jeffrey Thorne discovers Consortium telemetry confirming the scheduled planetary extinction harvest and the Vaelen's secret antiquity reserve.
+*   When corporate security raids his laboratory, Dr. Thorne inoculates 17-year-old Tsunari with an uncorrupted **Dromaeon archeo-genetic embryo** and Amber Haze antibody culture, while 10-year-old Sora is captured and indoctrinated into Eden Dome Alpha.
+*   To protect his daughters, Dr. Thorne lures the purge team into the deep wastes in an amphibious crawler and plunges into the boiling Stygian Ocean. Presumed dead, he in fact survives the crossing and reaches **The Verdant Cradle**, leaving behind an encrypted ghost beacon in the deep archives.
 *   Tsunari flees into Sector 09, taken in by Doc Aaron Mercer and the subterranean Null-Circuit resistance.
 
 #### 38 AS – 40 AS (2070–2072 CE): The Final Conversion Phase (The Present Day)
@@ -193,7 +195,7 @@ The Gray Sectors are gritty, hazardous, and crowded, but they are living communi
 
 1.  **Why do the Vaelen need human DNA at all?** 
     *   *The Twist:* The Vaelen are an ancient, biologically dying species facing genetic stagnation. They cannot reproduce naturally. They need human genomic plasticity to incubate their next evolutionary phase.
-2.  **What is the Origin of the Griffin Units?**
+2.  **What is the Origin of the Winged Flight Units?**
     *   They are not born in labs from scratch; they are the strongest, most genetically resilient children kidnapped from the Gray Sectors during early childhood, stripped of memory, and spliced with transgenic avian retroviruses.
 3.  **The Hidden Vault:**
     *   Rumors exist of a pre-collapse seed and genome repository ("Project Gaia-Zero") hidden beneath the tectonic bedrock of the northern wastes, containing uncorrupted planetary DNA.

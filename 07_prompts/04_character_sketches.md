@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Dr. Tsunari Thorne (The Raptor Infiltrator / FMC)
+## 1. Dr. Tsunari Thorne (The Scythe-Stalker Infiltrator / FMC)
 
 ### Prompt
 ```text
@@ -26,12 +26,12 @@ Drawn with fine graphite pencil shading and iron-gall sepia ink cross-hatching o
 ```
 
 *   **Aspect Ratio:** `16:9` (Wide landscape codex plate) or `3:4` / `2:3` (Portrait)
-*   **Recommended Negatives:** `pointy ears, elf ears, pointed ears, elven, fantasy elf, claws, sickle-claw, raptor claws, talons, monster feet, claw feet, bird feet, gloves, fingerless gloves, gauntlets, claws on fingers, beast nails, monster hands, jacket, coat, duster, trench coat, heavy armor, ugly, harsh face, scowling, masculine jaw, wrinkled, rough lizard skin, scaly hide, bumpy lesions, feathers, wings, modern anime, digital 3D CGI video game render, airbrushed plastic`
+*   **Recommended Negatives:** `pointy ears, elf ears, pointed ears, elven, fantasy elf, claws, sickle-claw, curved beast claws, talons, monster feet, claw feet, bird feet, gloves, fingerless gloves, gauntlets, claws on fingers, beast nails, monster hands, jacket, coat, duster, trench coat, heavy armor, ugly, harsh face, scowling, masculine jaw, wrinkled, rough lizard skin, scaly hide, bumpy lesions, feathers, wings, modern anime, digital 3D CGI video game render, airbrushed plastic`
 
 
 ---
 
-## 2. Commander Vram Tyage (The Phoenix Commander / MMC)
+## 2. Commander Vram Tyage (The Simurgh Commander / MMC)
 
 ### Prompt
 ```text
@@ -47,7 +47,7 @@ Surrounding technical callouts:
 - An elegant inset detail showing the nape of the neck beneath the man-bun, illustrating the cervical siphon ports and sleek iridescent copper-black plumage.
 - An anatomical inset study of the neat beard contour and brow geometry measured with Renaissance calipers.
 - A faint background ghost-silhouette illustrating the full 14-foot wingspan unfurled in flight with glide-ratio compass brackets.
-- Manual drafting compass circles, proportion guidelines, and neat handwritten cursive military notes in sepia ink ('Commander Vram Tyage — Age: 28 — Aeros-Legion 7 — Mutation S (Phoenix) / Mutation G (Wings) — Rest State').
+- Manual drafting compass circles, proportion guidelines, and neat handwritten cursive military notes in sepia ink ('Commander Vram Tyage — Age: 28 — Aeros-Legion 7 — Mutation S (Simurgh) / Mutation G (Wings) — Rest State').
 
 Drawn with fine graphite pencil shading and brown sepia ink cross-hatching in the classical Renaissance portraiture tradition. Aged parchment with soft tea stains and clean deckled edges. Masculine, rugged, youthful, aristocratic, lethal, and historically authentic.
 ```

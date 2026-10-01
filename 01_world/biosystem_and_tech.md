@@ -1,49 +1,49 @@
 # Biosystem & Tech: The Biopunk "Magic" System
 
-The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs; they are **gene-spliced transgenics** engineered through CRISPR-X viral gene-splicing, embryonic synthetic manipulation, and organogenesis—reconstructed directly from **ancient Vaelen archeo-genetic templates** discovered in pre-collapse subterranean cradles.
+The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs; they are **gene-spliced transgenics** engineered through advanced **Gene-Craft**, embryonic viral splicing, and organogenesis—reconstructed directly from **ancient Vaelen archeo-genetic templates** discovered in pre-collapse subterranean cradles.
 
 ### The Five Ancient Lineages & Mutation Designations
 
-To avoid confusing the specific beast strains with general augmentation, the planetary biosystem categorizes all gene-spliced mutations into **five distinct letters**:
+To avoid confusing specific lineages with general augmentation, the planetary biosystem categorizes all gene-spliced mutations into **five distinct letters**:
 
-1.  **Mutation G (Gryphon Strain):** Avian-panthera aerial raptors; basis for high-altitude biological flight, 14-foot wings, titanium-honeycomb bones, and retractable nanocarbon hand talons.
-2.  **Mutation L (Lindwurm / Basilisk Strain):** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
-3.  **Mutation S (Simurgh / Phoenix Strain):** Metabolic-regenerative solar avian vectors; source of 106°F internal thermal furnace, accelerated telomerase enzymes, glowing capillaries, and *Cytokinetic Weaving* (healing).
-4.  **Mutation F (Fenris / Chimera Strain):** High-torque terrestrial canid/feline predators (the true **Chimera**); source of acoustic hunting syrinx, thick predatory coat/quills, enhanced olfaction, and seismic impact resistance.
-5.  **Mutation D (Dromaeon / Raptor Strain):** Spliced from deep-fossil dromaeosaurid genomes. Bipedal terrestrial pack hunters featuring curved retractable nanocarbon sickle-talons on the feet, hyper-calculating pack intelligence ("clever girl" problem-solving), sub-vocal click-resonance communication, and 50+ mph burst sprinting.
+1.  **Mutation G (Gryphon Strain):** Avian-panthera aerial hunters; basis for high-altitude biological flight, 14-foot wings, titanium-honeycomb bones, and retractable nanocarbon hand talons.
+2.  **Mutation L (Lindwurm Strain):** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
+3.  **Mutation S (Simurgh Strain):** Metabolic-regenerative solar avian vectors; source of 106°F internal thermal furnace, accelerated telomerase enzymes, glowing capillaries, and *Cytokinetic Weaving* (healing).
+4.  **Mutation F (Fenris Strain):** High-torque terrestrial canid predators; source of acoustic hunting syrinx, thick predatory coat/quills, enhanced olfaction, and seismic impact resistance.
+5.  **Mutation D (Dromaeon Strain):** Spliced from deep-fossil archeo-genetic genomes. Bipedal terrestrial pack hunters featuring curved retractable nanocarbon sickle-talons on the feet, hyper-calculating predictive stalker intelligence, sub-vocal click-resonance communication, and 50+ mph burst sprinting.
 
 ### Anatomical & Physiological Profiles of the Five Mutation Strains
 
 #### 1. Mutation G: The Gryphon Strain — *The Sky-Lords (Standard Aeros-Legion)*
-*   **Build & Skeleton:** Towering, lean, broad-shouldered. Honeycombed, ultra-light titanium-calcium bone matrices modeled on raptor avian anatomy, capable of withstanding terminal-velocity impacts and 12-G aerial turns.
+*   **Build & Skeleton:** Towering, lean, broad-shouldered. Honeycombed, ultra-light titanium-calcium bone matrices modeled on high-altitude avian anatomy, capable of withstanding terminal-velocity impacts and 12-G aerial turns.
 *   **Muscular Density:** Synthetic myofibrils producing 600% the kinetic torque of an olympic athlete while maintaining lean, aerodynamic predator silhouettes.
 *   **Dermis & Plumage:** Hardening micro-scales along forearms, shoulders, and spine. Iridescent, razor-thin black plumage along the nape and shoulder blades that bristles in response to adrenaline or territorial aggression.
 *   **Sensory Array:** Tetrachromatic vision (ultraviolet, infrared, thermal signatures, and electric wiring fields); micro-acoustic sensors in inner ear canals that filter human breathing patterns through gale-force winds.
 *   **Natural Weaponry:** Retractable nanocarbon talons sheathed beneath the fingernails, extending voluntarily to slice through alloy bulkheads.
 *   **Metabolic Signature:** Hyper-thermic furnace (runs at 104°F / 40°C); burns calories at terrifying rates, requiring hyper-concentrated nutrient paste.
 
-#### 2. Mutation D: The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Tsunari's Lineage)*
+#### 2. Mutation D: The Dromaeon Strain — *The Scythe-Stalker (Tsunari's Lineage)*
 *   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
 *   **Dermis & Covering:** Pure reptilian, completely non-feathered: fine, flexible pebbled scales along forearms and calves; smooth, reinforced obsidian-tinted keratin scutes along the shins, ankles, and lower spine.
 *   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with horizontal slit pupils; dual eyelids with a translucent nictitating membrane that shields against dust storms and blinding muzzle flashes.
 *   **Natural Weaponry:** **The Retractable Pedal Sickle-Claw**—a curved, four-to-six-inch nanocarbon talon on the inner digit of each foot designed for disemboweling leaping strikes, ceiling grips, and scaling sheer concrete walls.
 *   **Metabolic & Acoustic:** Sub-vocal throat resonating chamber capable of producing high-frequency hunting clicks and chirps; rapid-cycle adrenaline spikes.
 
-#### 3. Mutation L: The Lindwurm / Basilisk Strain — *The Ballistic Tank*
+#### 3. Mutation L: The Lindwurm Strain — *The Earth-Bulwark*
 *   **Build & Skeleton:** Massive, heavy, brute-force mass; dense solid-core bone structures sacrificing supersonic agility for sheer structural invulnerability and crushing torque.
 *   **Dermis & Covering:** Interlocking hexagonal mineralized scales (slate, dark obsidian, or burnished bronze) that can chemically polarize and cross-link into living stone armor.
 *   **Sensory Array:** Slit reptilian pupils; forward-facing thermal pit organs above the nostrils that register infrared heat signatures in pitch-black subterranean ruins.
 *   **Natural Weaponry:** Heavy serrated forearm spurs; sub-dermal venom glands along the jaw producing paralytic neurotoxins and tissue-dissolving enzymes.
 *   **Metabolic Signature:** Cold, reptilian-efficient resting metabolism (resting body temp approx. 95°F / 35°C); requires external heat basking or chemical thermal packs when dormant.
 
-#### 4. Mutation S: The Simurgh / Phoenix Strain — *The Solar Regenerator (Vram's Lineage)*
+#### 4. Mutation S: The Simurgh Strain — *The Solar Sovereign (Vram's Lineage)*
 *   **Build & Skeleton:** Towering, hyper-vascularized musculature with hollow titanium-matrix bones and ultra-elastic tendon attachments.
 *   **Dermis & Covering:** Smooth alabaster skin webbed with subcutaneous capillary tracks that glow liquid gold-crimson under emotional or combat arousal; iridescent obsidian-and-copper feather shafts along the collarbones, nape, and spine.
 *   **Sensory Array:** Wide, molten-gold avian pupils tracking bio-electric currents, thermal gradients, and aerial flight vectors.
 *   **Natural Weaponry:** Retractable pyric nanocarbon talons that superheat upon contact; cardiac auto-defibrillation that automatically restarts his heart after fatal flatlining.
 *   **Metabolic Signature:** Constant radiant solar fever (104°F–106°F); hyper-accelerated cellular mitosis that smokes and knits mortal wounds closed within minutes.
 
-#### 5. Mutation F: The Fenris / Chimera Strain — *The Terrestrial Vanguard (The True Chimera)*
+#### 5. Mutation F: The Fenris Strain — *The Terrestrial Vanguard*
 *   **Build & Skeleton:** Heavy-set, muscular quadruped/biped hybrid build; thick neck and reinforced cervical vertebrae built to absorb vehicular collisions and artillery shockwaves.
 *   **Dermis & Covering:** Coarse, bristling fur and shock-absorbent calloused pads on knuckles and palms; defensive dermal quills along shoulders that flare when threatened.
 *   **Sensory Array:** Hyper-developed olfactory bulb (can scent human adrenaline, sweat, and blood miles away through dust storms); reflective *tapetum lucidum* eyes that shine silver-green in low light.
@@ -126,19 +126,19 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 *   **Inertial Feathering (Gravitational Slipstream):** Manipulates micro-barometric friction along feather shafts, allowing the soldier to negate terminal fall damage, perform mid-air directional shifts, and endure extreme G-forces.
 *   **Static Lightning Aura:** A localized bio-electric defense field that shocks anyone attempting to grapple the soldier and shorts out electronic restraints.
 
-### 2. The Dromaeon Strain (The Velociraptor Archetype)
+### 2. The Dromaeon Strain (The Scythe-Stalker)
 *   **Quantic Chrono-Dilation (The Temporal Stutter):** Harnesses quantum phase-shear for a **2 to 3-second burst of 500% accelerated movement**. To observers, the user teleports across the room or slips through crossfire like a ghost.
 *   **Pheromonal Pack-Link (Shared Sensorium):** Establishes an encrypted, sub-vocal mental network with squadmates. Members share spatial awareness, peripheral sightlines, and target vectors with zero lag.
 *   **Scythe-Step (Kinetic Adhesion):** Combines the pedal sickle-claw with rapid muscular torque to sprint vertically up sheer concrete walls or cling to high ceilings in wait for prey.
 *   **Cold-Blood Stalking:** Allows the user to drop body temperature and heart rate to near-zero, rendering them completely invisible to thermal scopes and motion detectors.
 
-### 3. The Lindwurm / Basilisk Strain (The Petro-Drake)
+### 3. The Lindwurm Strain (The Earth-Bulwark)
 *   **Lithodermic Sintering (Rock-Like Armor):** Dermal cells cross-link with dissolved bloodstream minerals, turning skin into an impenetrable, matte obsidian/slate ballistic shield that deflects bullets and high-heat plasma.
 *   **Petro-Grip (Crushing Density):** Bone and muscle fibers compress to extreme density, delivering hydraulic crushing torque capable of crumpling mechanized armor or snapping reinforced chassis.
 *   **Caustic Toxin Excretion:** Sub-dermal glands excrete acidic neuro-toxins through claws or skin, burning through body armor or inducing rapid respiratory paralysis in opponents.
 *   **Seismic Geolocation:** Thermal pit organs and bone conduction read micro-vibrations through solid bedrock, pinpointing enemy movement through meters of reinforced concrete.
 
-### 4. The Simurgh / Phoenix Strain (The Regenerative Solar Vector)
+### 4. The Simurgh Strain (The Solar Regenerator)
 *   **Cytokinetic Weaving (Cellular Healing):** Chimeric stem cells and telomerase enzymes transferred via skin contact, forcing a patient's damaged tissue into hyper-speed mitosis to seal mortal wounds.
 *   **Thermal Radiance (Pyric Surge):** Overclocks internal metabolic heat into a radiant aura exceeding 250°F, cauterizing nearby wounds, boiling liquids on touch, or melting enemy polymer gear.
 *   **Cellular Purge (Toxin Neutralization):** An immune system running at 10x human baseline, burning out lethal poisons, radiation sickness, and alien bio-spores within seconds.
@@ -150,7 +150,7 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 *   **Neural Stasis Gaze:** Direct eye-to-eye contact projects a high-bandwidth synaptic loop that temporarily paralyzes a target's motor cortex for 3–5 seconds.
 *   **Sub-Vocal Compulsion:** Projects low-frequency vocal harmonics that plant subliminal suggestions in unaugmented human minds ("drop your weapon," "look away").
 
-### 6. The Fenris / Chimera Strain (The Terrestrial Vanguard)
+### 6. The Fenris Strain (The Terrestrial Vanguard)
 *   **Thermodynamic Cloaking:** Dermal chromatophores bend ambient light while internal lipid bladders absorb body heat, providing total optical and thermal invisibility.
 *   **Adrenaline Berserk (Pain Erasure):** Completely severs pain reception while dumping massive synthetic adrenaline, enabling the soldier to fight through shattered bones and mortal trauma without slowing down.
 *   **Molecular Scent-Memory:** Tracks target pheromones, blood traces, and weapon lubricants across miles of dust storms with absolute fidelity.
@@ -244,7 +244,7 @@ Systems that were eradicated by the climate collapse and the Vaelen invasion:
 
 *   **The Global Internet & Civilian Satellite Mesh:** Undersea fiber-optic cables snapped during oceanic thermal expansion; satellites were fried by Vaelen EMP pulses during First Contact. No global web, cloud servers, or GPS exist.
 *   **Petroleum Infrastructure & Combustion Engines:** Global oil drilling, refineries, and petrochemical logistics collapsed by 2035. Gasoline and diesel are dead fuels; standard automobiles and civilian planes sit as rusted husks.
-*   **Civilian Spaceflight:** Human rocket programs were outlawed by the Elysium Accords. Orbit is strictly controlled by the Vaelen Spires; any launched projectile is vaporized by orbital kinetic lances.
+*   **Civilian Spaceflight:** Human rocket programs were outlawed by the Eden Pact. Orbit is strictly controlled by the Vaelen Spires; any launched projectile is vaporized by orbital kinetic lances.
 *   **Mass Global Consumer Manufacturing:** The automated assembly lines for consumer electronics, smartphones, and household appliances no longer operate. Every circuit board in the Gray Sectors is desoldered, repaired, and re-used dozens of times.
 *   **Centralized Public Healthcare:** Mass-produced pharmaceuticals (antibiotics, chemotherapy, insulin) vanished outside the Domes. Gray Sector medicine is crude, black-market triage relying on scavenged supplies and illicit bio-pastes.
 

@@ -1,4 +1,4 @@
-# Character Dossier: The Phoenix Commander (MMC)
+# Character Dossier: The Simurgh Commander (MMC)
 
 > **Full Name:** **Commander Vram Tyage**  
 > **Tactical Callsigns:** **"Pyre-Zero"** / **"Aeros-Actual"**  
@@ -8,7 +8,7 @@
 *   **Role:** Supreme Commander of Aeros-Legion 7; Chief Military Instrument of the Consortium and Vaelen Ascendancy.
 *   **Age:** 28 (Born Year 12 AS; Storm-Born).
 *   **Faction:** Aeros-Legion (Consortium enforcer / Secretly rogue).
-*   **Archetype:** The Lethal Monster / Touch-Starved Weapon Awoken by Love / Solar Phoenix Sovereign.
+*   **Archetype:** The Lethal Monster / Touch-Starved Weapon Awoken by Love / Solar Sovereign.
 
 ---
 
@@ -16,7 +16,7 @@
 *   **Build & Stature:** Towering (6'4" / 193 cm), built like a lethal bird of prey—broad-shouldered, narrow-waisted, packed with hyper-dense transgenic muscle that moves with eerie, silent grace.
 *   **Facial Features, Hair & Eyes:** Severe, sculpted aristocratic planes with youthful, smooth unlined skin in his physical prime (age 28); defined masculine brows and sharp cheekbones; a crisply groomed, short-to-medium dark beard stylishly sculpted along his jawline (human grooming choice); molten-gold incandescent eyes glowing with a soft predatory ember; thick textured dark raven hair pulled back into a disciplined warrior man-bun (topknot) at the crown, with tapered sides and loose masculine strands framing his temples.
 *   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a fitted, sleeveless dark military flight tunic in charcoal ballistic weave with burnished copper piping and Aeros-Legion rank insignia, exposing his sculpted, smooth athletic shoulders and arms; articulated dark leather combat breeches; wide officer's utility belt with a hip sidearm holster; reinforced titanium-toed calfskin flight boots (no coat or jacket).
-*   **Biological Mutation Traits (Mutation S / Phoenix with Mutation G / Gryphon Wings):**
+*   **Biological Mutation Traits (Mutation S / Simurgh with Mutation G / Gryphon Wings):**
     *   **14-Foot Biological Wings (Mutation G):** A massive, powerful pair of feathered wings with a **14-foot wingspan** anchored into dense, reinforced thoracic musculature between his shoulder blades. The primary and secondary flight feathers are heavy, razor-edged obsidian quills that shimmer with iridescent copper-gold and deep crimson highlights, flaring with radiant heat when airborne. When grounded, the wings fold tightly against his back beneath custom spinal openings in his flight tunic.
     *   **Incandescent Plumage (Mutation S):** Sleek, iridescent obsidian feather shafts that shift into blazing copper-gold and deep crimson along his nape, collarbones, and upper spine; they lie flat in rest and bristle/warm when adrenaline or protectiveness spikes.
     *   **Bioluminescent Capillaries (Mutation S):** Under high emotional arousal, rage, or physical exertion, his subcutaneous vascular tracks pulse with liquid gold-crimson fire beneath smooth, taut skin.
@@ -40,10 +40,10 @@ Taken from a Gray Sector orphanage at age seven (in Year 19 AS) by Consortium ge
 
 ---
 
-## 4. The Male Biotype (Phoenix-Augmented) & Natural Skillset
+## 4. The Male Biotype (Simurgh-Augmented) & Natural Skillset
 *   **The Living Thermal Furnace (104°F–106°F):** In the freezing nights of the wasteland and during sub-zero dust storms, his hyper-thermic solar metabolism acts as a vital heat engine, keeping Tsunari alive through bitter conditions.
 *   **Cytokinetic Cellular Mitosis (Self-Healing):** His immune and cellular regeneration cycle runs at ten times baseline human speed; flesh wounds smoke and knit together within minutes.
-*   **Cardiac Auto-Defibrillation (The Rebirth):** If his heart stops or he flatlines in battle, his cardiac core automatically discharges a massive thermal-electric pulse, restarting his heart—a literal manifestation of the Phoenix rising from the ashes.
+*   **Cardiac Auto-Defibrillation (The Rebirth):** If his heart stops or he flatlines in battle, his cardiac core automatically discharges a massive thermal-electric pulse, restarting his heart—the ultimate manifestation of his strain's solar resurrection.
 *   **Supersonic Reflexes & Biological Flight:** Master of high-altitude autonomous flight on his 14-foot feathered wings, capable of pulling 12G maneuvers and riding thermal updrafts without fatigue. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
 
 ---
@@ -51,7 +51,7 @@ Taken from a Gray Sector orphanage at age seven (in Year 19 AS) by Consortium ge
 ## 5. Combat Profile & Lethal Capabilities
 *   **Supersonic Aerial Combatant:** Undefeated aerial predator; on wing, he executes lethal high-speed aerodynamic stoops and kinetic talon strikes; on foot, his strikes carry the force of a hydraulic ram infused with burning thermal energy.
 *   **Vulnerability (Thermal Burnout & Seizure Spikes):**
-    *   Because the Phoenix strain runs so hot, prolonged combat without cellular grounding pushes his body into dangerous hyperpyrexia (>108°F), causing lattice misfires, blinding seizures, and excruciating agonizing static.
+    *   Because the Simurgh strain runs so hot, prolonged combat without cellular grounding pushes his body into dangerous hyperpyrexia (>108°F), causing lattice misfires, blinding seizures, and excruciating agonizing static.
 
 ---
 
@@ -61,13 +61,13 @@ The Arkun formula applied to Vram Tyage:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
 *   **Genetic Mutation Chart:**
-    *   **80% Mutation S (Simurgh / Phoenix Strain):** Hyper-accelerated telomerase regeneration, 106°F pyric thermal metabolism, incandescent capillary glow, and cardiac rebirth.
+    *   **80% Mutation S (Simurgh Strain):** Hyper-accelerated telomerase regeneration, 106°F pyric thermal metabolism, incandescent capillary glow, and cardiac rebirth.
     *   **20% Mutation G (Gryphon Strain):** 14-foot biological feathered wings, avian hollow titanium bone matrices, barometric feathering, and high-altitude G-force resistance.
 *   **True Character / Core Psychological Drive:**
     *   *The Indomitable Hearth / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a fierce, unyielding drive to be a sanctuary rather than a weapon of ruin—a warrior who would burn himself to cinders to keep his partner safe.
 *   **Signature Arkun: The Pyric Crucible (Solar Radiance & Kinetic Convection)**
     *   *Manifestation:* Vram overclocks his core heat into a radiant 300°F kinetic aura. Incoming projectile rounds melt or deflect off his thermal slipstream; his claw strikes unleash explosive kinetic heat waves that incinerate armored drones.
-    *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Tsunari, her cool Raptor physiology and Null-Resonance act as a perfect biological heat-sink, draining his lethal fever and stabilizing his lattice. In return, his radiant energy supercharges Tsunari’s Quantic Phase-Stutter, allowing her to stay accelerated for extended combat intervals.
+    *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Tsunari, her cool Dromaeon physiology and Null-Resonance act as a perfect biological heat-sink, draining his lethal fever and stabilizing his lattice. In return, his radiant energy supercharges Tsunari’s Quantic Phase-Stutter, allowing her to stay accelerated for extended combat intervals.
 
 ---
 
@@ -80,6 +80,6 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 
 ### Key Tropes Unleashed
 *   **The Naming Progression (From Target to Soul):** Starts by addressing her coldly as *"The Null-Anomaly"* or *"Thorne."* As their combat partnership solidifies, it shortens to the crisp, respectful field moniker *"Tsune."* Only in private, unguarded moments—when his fever breaks against her cool skin or when terror for her safety shatters his composure—does his voice drop into the raspy, tender diminutive: *"Tsunie."*
-*   **"Who Did This To You?":** Cold fury that terrifies even his own squad. If anyone from the Consortium or the resistance dares lay a violent hand on her, his military discipline evaporates, replaced by feral phoenix retribution.
+*   **"Who Did This To You?":** Cold fury that terrifies even his own squad. If anyone from the Consortium or the resistance dares lay a violent hand on her, his military discipline evaporates, replaced by feral avian retribution.
 *   **The Knife-to-Throat Intimacy:** Early interactions feature high physical tension where she has a scalpel or vibro-blade pressed against his throat while his claws rest millimeters from her carotid artery—neither moving, breathing in each other's air.
 *   **Possessive Devotion ("Burn the World for Her"):** He starts out claiming he is holding her captive because she is his "cure." Over time, the pretense vanishes: he will gladly watch the Green Domes collapse and the Vaelen burn before he lets anyone take her from him.

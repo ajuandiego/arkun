@@ -18,7 +18,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - The male and female figures stand in disciplined, athletic Vitruvian postures with reinforced pectoral girdles and high-altitude lung volume.
 - WING FOLDING: Their massive feathered wings are folded tightly, smoothly, and compactly against their backs, contouring along their spines like an elegant aerodynamic mantle, with primary feathers tucked downward along their calves.
 - Their hands and feet display neat, dark keratin nails resting in normal digit positions.
-- Their faces feature sharp, focused golden raptor eyes with relaxed round pupils.
+- Their faces feature sharp, focused golden avian predator eyes with relaxed round pupils.
 - Their skin is smooth, framed by subtle graphite shading along their scapulae where internal flight tendon anchors connect to the spine.
 
 2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):

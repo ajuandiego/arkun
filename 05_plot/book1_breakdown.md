@@ -21,12 +21,14 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
 ### PART I: THE AMBER SHOCKWAVE (Chapters 1–6)
 
 *   **Chapter 1 (Tsunari): The Infiltration**
+    *   *Epigraph (Personal Audio Log — Sora Thorne, Junior Synthetics Tech, Eden Dome Alpha):*  
+        > *"Audio Entry 114. They transferred me to Culture Lab 4 today! The air in the residential quad smells like sweet jasmine and honeysuckle this morning. Director Corvus promised our new aerosol trial will help the people outside breathe clean again. I wish Father and Tsune were here to see this. I know they're looking down from somewhere clean."*
     *   *Setting:* The perimeter maintenance duct of Eden Dome Alpha.
-    *   *Core Action:* Tsunari hacks an Apex GeneSys courier terminal, copying the encrypted raw root file of the *Lazarus Key*. She sees alarming surface telemetry: global oxygen reserves are decaying twice as fast as state media admits, and the dome filtration system is scheduled to seal permanently in 14 months, cutting off Sector 09 entirely.
+    *   *Core Action:* Tsunari hacks an Apex Bio courier terminal, copying the encrypted raw root file of the *Lazarus Key*. She sees alarming surface telemetry: global oxygen reserves are decaying twice as fast as state media admits, and the dome filtration system is scheduled to seal permanently in 14 months, cutting off Sector 09 entirely.
     *   *Personal Stake (The Gilded Mirror):* While extracting the payload, Tsunari catches a brief flash of an active internal personnel directory: *Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4*. Tsunari freezes—her younger sister, separated from her ten years ago and presumed dead, is alive inside the dome, working for the very corporate regime that poisoned their world.
     *   *Hook:* Breach alarms blare; high above, an aerial shadow with a 14-foot wingspan dives through the searchlights.
     *   *Worldbuilding & Past Lore Delivery:*
-        *   *The Sensory Cost of Air:* Introduces the Gray Sector's reality—the rattle of Tsunari’s cracked rebreather, the bitter metallic taste of alkaline smog, and the "Filter Tax" (how corporate cartels charge daily scrip for oxygen canisters).
+        *   *The Sensory Cost of Air:* Introduces the Gray Sector's reality—the rhythmic rubbery *clack-hiss* of Tsunari’s cracked rebreather, the bitter metallic taste of alkaline smog, and the "Filter Tax" paid in daily **Liter-Hours** tokens.
         *   *The Wall:* The sheer, oppressive 100-meter titanium bulkhead separating the pristine, green-canopied interior of Eden Dome Alpha from the squalor of Sector 09.
         *   *The Storm (40 Years Ago):* Tsunari reflects on the generational disaster that permanently turned the skies copper and toxic before she was born, driving the rich into dome sanctuaries while leaving billions to choke in the dust.
 *   **Chapter 2 (Vram): Aeros Protocol**
@@ -37,20 +39,20 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
         *   *The Vaelen Sky Shadows:* The only flying machines are alien—massive, silent **Vaelen Harvester Barges** floating like black obsidian obelisks in the upper stratosphere, slowly siphoning atmospheric currents.
-        *   *The Chimeric Caste:* Vram’s perspective contrasts the pampered corporate citizens inside the dome with the leashed chimeric soldiers, treated as disposable, high-maintenance military assets.
+        *   *The Gene-Spliced Strains:* Vram’s perspective contrasts the pampered corporate citizens inside the dome with the leashed soldiers, treated as disposable, high-maintenance military assets.
 *   **Chapter 3 (Tsunari): The Solar Ruins**
     *   *Setting:* The abandoned photovoltaic mirror fields outside the wall.
-    *   *Core Action:* Tsunari flees through a howling acid dust storm, setting micro-EMP tripwires among the shattered solar collectors. She disables two pursuing Griffin scouts, but is ambushed by the Commander himself dropping from the storm clouds.
+    *   *Core Action:* Tsunari flees through a howling acid dust storm, setting micro-EMP tripwires among the shattered solar collectors. She disables two pursuing scouts with agile wall-rebound leaps and shadow stalking. Cornering her behind a shattered mirror bank, Vram realizes she anticipated his flanking trajectory—murmuring with dark, lethal admiration: *"Clever girl..."*—before diving from the storm clouds.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Pre-Collapse Ruins:* The graveyard of pre-Storm green technology—miles of shattered, black photovoltaic mirrors rising from sand dunes, showing that humanity once tried and failed to save its own climate before the aliens arrived.
-        *   *Chimeric Physiology in Combat:* Tsunari’s raptor enhancements (lateral tracking vision, nictitating membranes shielding her eyes from sand, explosive leg-spring mechanics) versus Vram’s devastating aerial kinetic power.
+        *   *Chimeric Physiology in Combat:* Tsunari’s Dromaeon enhancements (lateral tracking vision, nictitating membranes shielding her eyes from sand, explosive leg-spring mechanics) versus Vram’s devastating aerial kinetic power.
 *   **Chapter 4 (Vram): The Accidental Shock**
     *   *Setting:* The dust-choked ruins of a solar substation.
     *   *Core Action:* Vicious hand-to-hand grapple. Tsunari slashes with her vibro-blade; Vram disarms her with terrifying precision. During the struggle, her bare hand locks onto his collar, making direct skin-to-skin contact with his bare spinal neural siphon port.
     *   *The Sensation:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees, gasping.
     *   *Psychological Beat:* Tsunari witnesses the invincible sky-lord tremble; Vram is humiliated and terrified that a Gray Sector insurgent neutralized his nervous system with a touch.
     *   *Worldbuilding & Past Lore Delivery:*
-        *   *The Neural Leash:* Explains the titanium-rimmed siphon ports drilled into chimeric soldiers' vertebrae—ostensibly built to feed combat telemetry, but secretly acting as an alien sensory torture leash that keeps soldiers compliant through chronic pain.
+        *   *The Neural Leash:* Explains the titanium-rimmed siphon ports drilled into soldiers' vertebrae—ostensibly built to feed combat telemetry, but secretly acting as an alien sensory torture leash that keeps soldiers compliant through chronic pain.
 *   **Chapter 5 (Tsunari): Hostage Leverage**
     *   *Setting:* An armored, treaded ground prowler en route through the wasteland perimeter.
     *   *Core Action:* Tsunari wakes up bound, not executed. Vram has rerouted his transport vehicle away from the corporate detention block to an isolated desert watchpost: Redoubt Station 14.
@@ -78,6 +80,8 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
         *   *The Child Drafts (15 Years Ago):* Vram's fragmented memories reveal how chimeric soldiers were created—stolen from Gray Sector orphanages as children, their biographical identities erased and replaced with serial numbers (*Subject AE-701*).
         *   *The Biological Burnout:* The tragic secret of the chimeric military—their enhanced bodies burn out by age 32 from cellular exhaustion, at which point the Consortium quietly "retires" them.
 *   **Chapter 8 (Vram): The Inquisitor’s Audit**
+    *   *Epigraph (Consortium Internal Dispatch — Security Clearance Beta):*  
+        > *"From: Tech-Specialist S. Thorne | To: Directorate Oversight | Subject: Neural Telemetry Audit AE-701. 'Commander Vram’s cervical siphon shows severe bio-frequency spikes. Suggest immediate field recall before the subject suffers permanent synaptic blowout.'"*
     *   *Setting:* The canyon landing pad of Redoubt Station 14.
     *   *Core Action:* An alien Vaelen inspection skiff—a sleek, soundless teardrop of floating black obsidian—arrives unannounced. Archon Xaevis’s Inquisitors demand to audit Vram’s telemetry anomalies.
     *   *Stakes:* Vram hides Tsunari inside the air circulation shafts; separated from her, violent lattice tremors wrack his body as he endures the humiliating physical inspection.
@@ -116,7 +120,7 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
 
 *   **Chapter 13 (Tsunari): Wreckage & The Stalkers**
     *   *Setting:* An abandoned pre-collapse freight transit depot buried in the dunes.
-    *   *Core Action (Predatory Survival):* The crash attracts a pack of wild **Dromaeons** (feral velociraptor chimeras). With Vram semi-conscious from blood loss and wing trauma, Tsunari drags him into a rusted shipping container. She matches their hunting clicks, uses her Quantic Phase-Stutter to dodge a throat-strike, and holds them off until Vram awakens in solar fire to crush the alpha's skull.
+    *   *Core Action (Predatory Survival):* The crash attracts a pack of wild **Dromaeons** (feral bipedal pack predators). With Vram semi-conscious from blood loss and wing trauma, Tsunari drags him into a rusted shipping container. She matches their hunting clicks, uses her Quantic Phase-Stutter to dodge a throat-strike, and holds them off until Vram awakens in solar fire to crush the alpha's skull.
     *   *The Wasteland Ally:* As the remaining pack encircles them, **Kira Brandt**—leader of the Fenris wasteland smuggling network—roars in on a modified sand-crawler, firing phosphor flare-slugs that scatter the predators. Recognizing Vram's golden sky-legion plumage and Tsunari's desperate grit, Kira helps Tsunari drag the burning, feverish Commander into the underground maintenance bunker.
     *   *Competence Parity:* Mutual respect is forged in blood; Vram sees Tsunari's deadly predatory instincts, while Tsunari witnesses his terrifying protective fury.
     *   *Worldbuilding & Past Lore Delivery:*
@@ -154,9 +158,11 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
         *   *The Crucible Mutagen Lore:* Sourced from ancient geothermal fissures contaminated by dormant Vaelen planetary seeding pods deep in the earth.
 *   **Chapter 18 (Vram): The Sanctuary of Glass**
     *   *Setting:* The Glass Vault, eighty feet beneath Sector 09.
-    *   *Core Action:* Arrival at the underground archive of **Elder Gideon Cross**. Gideon reveals ancient archaeological plates depicting Scythian winged lion-raptors, proving to Vram that his chimeric genome is thousands of years older than corporate labs.
+    *   *Core Action:* Arrival at the underground archive of **Elder Gideon Cross**. Gideon reveals ancient archaeological plates depicting Scythian winged lion-hunters, proving to Vram that his chimeric genome is thousands of years older than corporate labs.
+    *   *The Ghost Beacon Breadcrumb:* While Gideon guides Vram through the ancient codices, Tsunari examines a secured brass reliquary holding an uncatalogued, micro-etched optical quartz disc labeled *Ghost Beacon 09-Omega*—an encrypted transmission received ten years ago from deep within the impassable Stygian Ocean, dismissed by curators as dying static. Staring through Gideon’s optometer loupe, Tsunari freezes: etched along the margin is her father’s unique mathematical shorthand. The seed is planted: Dr. Jeffrey Thorne did not drown in the boiling sea.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *The Bio-Curator Mission:* Gideon explains that the Bio-Curators preserve uncorrupted pre-collapse history, paper books, and optical quartz discs because the Consortium systematically erases human history every generation to prevent rebellion.
+        *   *The Impassable Oceans:* Gideon confirms that since the Great Storm and the activation of the Terra-Pylons, the seas are lethal electromagnetic cauldrons—no explorer who sailed into the mist ever returned.
 
 ---
 
@@ -179,7 +185,7 @@ To keep readers immersed without encyclopedic info-dumps, worldbuilding and hist
     *   *Setting:* The Great Hall of Quartz.
     *   *Core Action:* Aeros-Legion 7 corners Vram with weapons raised. Ferrin Calder cuts the terrifying silence with a sarcastic crack about Vram's feral hair and whether Tsunari is a captive or their new commanding officer (*"Look at him, Cassian—ten days in the dirt and the Commander went full mountain-cat. So, does she come with the squad now?"*).
     *   *The Awakening:* Tsunari steps between the drawn rifles and inoculates Sergeant Veda, whose debilitating lattice tremors immediately vanish. She inoculates Ferrin, whose sarcastic shield completely drops in stunned, vulnerable awe: *"Holy hell... the noise. It stopped."*
-    *   *Toby's Gift (The Liam Beat):* Specialist Toby Vance steps forward with unconditional trust, lowering his weapon. When Tsunari inoculates his burning cervical port, he is moved to tears by the miraculous silence. He gently presses into her hand a delicate miniature raptor carved from translucent scrap optical quartz: *"For you, Doc. In case you forget you can fly."* The entire squadron mutinies, choosing Vram and Tsunari over the Consortium.
+    *   *Toby's Gift (The Liam Beat):* Specialist Toby Vance steps forward with unconditional trust, lowering his weapon. When Tsunari inoculates his burning cervical port, he is moved to tears by the miraculous silence. He gently presses into her hand a delicate miniature carved quartz talon-beast: *"For you, Doc. In case you forget you can fly."* The entire squadron mutinies, choosing Vram and Tsunari over the Consortium.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *The Fragility of the Regime:* Shows that the Consortium's entire military machine rests on a foundation of manufactured pain; the moment that pain is relieved, absolute loyalty evaporates.
 *   **Chapter 22 (Vram): The Two-Front Purge & The Coven's Breach**

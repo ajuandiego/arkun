@@ -1,4 +1,4 @@
-# Anatomical Codex: Dromaeon Human Mutation (The Raptor)
+# Anatomical Codex: Dromaeon Human Mutation (The Scythe-Stalker)
 
 > **Lineage:** Dromaeon Archeo-Genetic Blueprint (The Scythe-Stalker)  
 > **Subject Archetype:** Dr. Tsunari Thorne & Dustborn Infiltrators  

@@ -34,13 +34,14 @@
 
 *   **Chapter 7 (Tsunari): The Basalt Maze**
     *   *Setting:* The Torrid Kiln’s geothermal fissures.
-    *   *Core Action:* Navigating toxic geysers and fields of silica-lotus. Tsunari uses her Raptor reflexes and scent-tracking to guide the convoy through an ambush by subterranean Obsidian Stranglers (basalt vipers).
+    *   *Core Action:* Navigating toxic geysers and fields of silica-lotus. Tsunari uses her Dromaeon stalker reflexes and scent-tracking to guide the convoy through an ambush by subterranean Obsidian Stranglers (basalt vipers).
 *   **Chapter 8 (Vram): Copper Tempest**
     *   *Setting:* Above the Kiln.
     *   *Core Action:* A blinding copper-dust storm blinds sensors. Vram engages an elite flight of unmanned Consortium hunter-killer drones, pushing his thermal engines to their limits to protect the convoy below.
-*   **Chapter 9 (Tsunari): The Meeting with the Star-Born**
+*   **Chapter 9 (Tsunari): The Meeting with the Star-Born & The Cradle Decrypted**
     *   *Setting:* An ancient, half-buried astronomical observatory.
     *   *Core Action:* Face-to-face rendezvous with **Arbiter Lyraen**. The tall, bioluminescent Vaelen reveals the internal civil war of their species: Archon Xaevis plans a complete atmospheric harvest by Year 41 AS. Lyraen hands over the *Star-Chrysalis Enzyme*.
+    *   *The Father's Beacon Decrypted:* Tsunari places the *Ghost Beacon 09-Omega* into Lyraen’s optical astrolabe. Lyraen’s eyes widen in awe: the transmission did not originate from a dying ghost ship, but from **The Verdant Cradle**—a pristine, un-poisoned green continent preserved behind a ring of volcanic calderas across the Stygian Ocean, known only to Vaelen Antiquity records. Her father, Dr. Jeffrey Thorne, survived the crossing, proving humanity’s future lies beyond the dead seas.
 *   **Chapter 10 (Vram): The Alien Accord**
     *   *Setting:* The observatory deck.
     *   *Core Action:* Vram confronts Lyraen about the bio-ports in his spine. Lyraen reveals that the chimeric lines were never meant to be enslaved weapons, but symbiotic bridges between human and extraterrestrial biology.
@@ -49,7 +50,7 @@
     *   *Core Action:* Reunited with Doc Mercer. While Mercer embraces Tsunari warmly, her heightened predator senses detect unsettling anomalies: Mercer’s artificial lung has stopped clicking, and his skin radiates no natural human warmth.
 *   **Chapter 12 (Vram): Geothermal Haven**
     *   *Setting:* A secluded hot spring deep beneath the salt caverns.
-    *   *Romance Beat (🌶️🌶️🌶️):* Away from the squad, the high stakes and near-death encounters strip away their final defenses. A night of passionate, uninhibited consummation. The contrast of his radiant Phoenix warmth against her cool, grounding touch reaches full emotional and physical harmony.
+    *   *Romance Beat (🌶️🌶️🌶️):* Away from the squad, the high stakes and near-death encounters strip away their final defenses. A night of passionate, uninhibited consummation. The contrast of his radiant Simurgh solar warmth against her cool, grounding touch reaches full emotional and physical harmony.
 
 ---
 
@@ -87,7 +88,7 @@
 *   **Chapter 21 (Tsunari): Tearing the World Apart**
     *   *Setting:* Behind the emergency bulkhead.
     *   *Emotional Beat:* Tsunari screams, slamming her fists and blades against the reinforced glass. Through the viewport, Vram locks eyes with her, pressing his bloodied palm to the glass. His final words over the comms: *"Take the cure. Save them, Tsunie. I’ll keep them busy."* He triggers the emergency bulkhead seal.
-*   **Chapter 22 (Vram): The Last Stand of the Phoenix**
+*   **Chapter 22 (Vram): The Last Stand of the Simurgh**
     *   *Setting:* The collapsing subterranean corridor.
     *   *Core Action:* Vram overclocks The Pyric Crucible into an incandescent hurricane of solar flame. He incinerates dozens of combat droids and enforcers, holding the tunnel for twelve critical minutes until Archon Xaevis personally activates orbital neural suppression beams, crushing Vram to the floor in agony.
 *   **Chapter 23 (Vram): Hauled into the Stars**
@@ -95,5 +96,5 @@
     *   *Core Action:* Stripped of his weapons and locked in high-density titanium shackles, Vram is dragged up through the atmosphere toward **Spire Prime**. Archon Xaevis stands over him, promising to dismantle his mind neuron by neuron.
 *   **Chapter 24 (Tsunari): The Vow of Ash & Wire**
     *   *Setting:* The freezing surface of the Salt Flats at midnight.
-    *   *Resolution:* Cassian and Veda drag a weeping, furious Tsunari out into the desert. With Ren clutching the master aerosol canisters, they look up at the burning trail of the dropship vanishing into the black sky.
-    *   *The Final Vow:* Tsunari's tears dry into cold, predatory diamond. She turns to the surviving rebels and soldiers: *"He burned his world for us. Now we assemble every soldier, every scrubber, and every chimera on this planet—and we go take him back."*
+    *   *Resolution:* Cassian and Veda drag a weeping, furious Tsunari out into the desert. With Ren clutching the master aerosol canisters and Tsunari holding her father’s decoded ocean coordinates to the Verdant Cradle, they look up at the burning trail of the dropship vanishing into the black sky.
+    *   *The Final Vow:* Tsunari's tears dry into cold, predatory diamond. She turns to the surviving rebels and soldiers: *"He burned his world for us. Now we assemble every soldier, every scrubber, and every chimera on this planet—and we go take him back. And then we lead our people home."*

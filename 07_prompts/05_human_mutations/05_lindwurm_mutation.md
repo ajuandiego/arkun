@@ -1,4 +1,4 @@
-# Anatomical Codex: Lindwurm Human Mutation (The Stone-Basilisk)
+# Anatomical Codex: Lindwurm Human Mutation (The Earth-Bulwark)
 
 > **Lineage:** Lindwurm Archeo-Genetic Blueprint (The Primordial Basalt Drake)  
 > **Subject Archetype:** Heavy Breachers, Ballistic Sentinels & Toxic Waste Walkers  
