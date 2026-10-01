@@ -1,11 +1,11 @@
 # Glossary & Terminology
 
-## 1. Slang & Colloquialisms of 2050
+## 1. Slang & Colloquialisms of 2072 (Year 40 AS)
 
 *   **The Great Storm:** The 140-day planetary atmospheric tempest in Year 0 (2032 CE) triggered when the Vaelen Spires first deployed terra-pylons, clashing with Earth's jet stream and initiating the current era.
-*   **BS / AS (Before Storm / After Storm):** The post-collapse calendar system replacing the Gregorian calendar. The novel takes place in **Year 18 AS** (2050 CE).
-*   **The Sky-Born (Old-Worlders):** Anyone born before Year 0 (over 18 years old) who possesses living childhood memories of natural rain, unshielded sunshine, and blue skies.
-*   **The Storm-Born:** The generation born after Year 0 (18 or younger) who have never known un-rationed air or seen an open blue sky.
+*   **BS / AS (Before Storm / After Storm):** The post-collapse calendar system replacing the Gregorian calendar. The novel takes place in **Year 40 AS** (2072 CE).
+*   **The Sky-Born (Old-Worlders):** Anyone born before Year 0 (over 40 years old) who possesses living childhood memories of natural rain, unshielded sunshine, and blue skies (e.g., Doc Mercer, Gideon Cross, Madame Chen, Elena Corvus).
+*   **The Storm-Born:** The generation born in Year 0 AS or later (40 years old or younger)—including **Tsunari (26)** and **Vram (28)**—who have never seen an open blue sky and know only the copper twilight of the Amber Haze and the hum of air scrubbers.
 *   **Amber Haze:** The particulate-laden, sulfur-and-dust polluted atmosphere covering the unprotected regions of Earth.
 *   **The Choke (Glass Lung):** The degenerative respiratory and cellular asphyxiation syndrome caused by breathing the alien-phased atmosphere without filters.
 *   **The Gilded (Edenites):** Derogatory Gray Sector term for the human corporate elite living inside the Green Domes.
@@ -18,32 +18,34 @@
 
 ## 2. Biopunk & Aeros-Legion Terminology
 
-*   **Aeros-Legion 7:** The official military designation for the Griffin chimeric supersoldier division.
-*   **Chimeric Genome:** Organisms engineered by splicing human embryonic DNA with apex predator genetic coding (avian raptors, big cats).
+*   **Transgenic / Gene-Spliced Soldier:** Humans engineered by splicing human embryonic DNA with one or more of the five ancient mutation strains. (Replaces the ambiguous blanket term "chimeric", preserving "Chimera" strictly for Mutation F).
+*   **Aeros-Legion 7:** The official military flight division of the Consortium, utilizing Mutation G and Mutation S soldiers for high-altitude biological air superiority.
 *   **Lattice Burn (Neuro-Decay):** The chronic, excruciating inflammatory breakdown caused by long-term rejection of the Vaelen Synapse Lattice.
 *   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of soldiers, feeding high-altitude telemetry and enforcing sensory conditioning.
 *   **The High Aerie:** The cantilevered titanium-and-stone military flight roost suspended from Dome Alpha's northern bulkhead, where Aeros-Legion 7 stages autonomous biological flight operations.
 *   **Vaelen Harvester Barge:** A massive, soundless alien atmospheric vessel operating via anti-gravity field propulsion, representing the only mechanical flying craft on Earth.
 *   **The Silver Spine (Synapse Lattice):** The organic extraterrestrial cyber-neural network grafted along the brainstem and spinal cord that enforces obedience and emotional dampening.
 *   **Null-Resonator:** The rare genetic mutation found in Tsunari Thorne that naturally dampens Vaelen quantum-synthetic frequencies.
-*   **Arkun:** The signature epigenetic ability unlocked when a chimeric soldier's **Strain Chart (Genetics)** fuses with their **True Character (Core Psychological Drive)**. Arkuns represent human individuality violently breaking through alien genetic conditioning.
-*   **Biological Tether (Voluntary Synergy):** The high-reward symbiotic resonance between a Null-Resonator and a Chimeric Lattice user, stabilizing cellular decay, multiplying reflex speeds, and enabling bidirectional sensory overlay without artificial radius limits.
+*   **Arkun:** The signature epigenetic ability unlocked when an augmented soldier's **Mutation Chart (Genetics)** fuses with their **True Character (Core Psychological Drive)**. Arkuns represent human individuality violently breaking through alien genetic conditioning.
+*   **Biological Tether (Voluntary Synergy):** The high-reward symbiotic resonance between a Null-Resonator and an augmented soldier, stabilizing cellular decay, multiplying reflex speeds, and enabling bidirectional sensory overlay without artificial radius limits.
 
 ---
 
-## 3. Chimeric Strains & Ancient Mythical Lineages
+## 3. The Five Mutation Strains & Designations
 
-*   **The Five Mythical Lineages:** Ancient apex organisms engineered by early Vaelen expeditions in Earth's prehistoric epochs, whose fossilized genetic blueprints were excavated by modern megacorporations:
-    *   **Gryphon Strain:** Avian/pantherine apex predators of the skies (nanocarbon talons, hollow-bone density, visual acuity, Vector-Blink Arkun).
-    *   **Dromaeon Strain (The Scythe-Stalker):** Velociraptor-inspired hyper-agile pack hunters (retractable pedal sickle-claws, 50+ mph bursts, acoustic sub-vocal clicks, Quantic Chrono-Dilation Arkun).
-    *   **Lindwurm Strain:** Draconic/basilisk heavy shock organisms (dermal stone-scales, toxic resistance, Kinetic Tremor-Wave Arkun).
-    *   **Simurgh Strain:** Avian cellular regenerators (accelerated mitochondrial repair, Cellular Reversion Arkun).
-    *   **Fenris Strain:** Terrestrial pack predators (musculoskeletal crushing torque, heightened olfaction, pack-link frenzy Arkun).
+All gene-spliced soldiers and augmented wasteland survivors are classified under **five distinct mutation letters** derived from ancient excavated archeo-genetic templates:
+
+*   **Mutation G (Gryphon Strain):** Avian/raptor aerial lords of the skies (14-foot biological wings, hollow titanium-reinforced bones, supersonic dive reflexes, Vector-Blink Arkun). Standard Aeros-Legion flight mutation.
+*   **Mutation L (Lindwurm / Basilisk Strain):** Heavy draconic/basilisk excavators (hexagonal dermal stone-scutes, toxic resistance, Kinetic Tremor-Wave Arkun). Exemplified by heavy breachers like Boran Vael-Korr.
+*   **Mutation S (Simurgh / Phoenix Strain):** Solar regenerative avian vectors (104°F–106°F internal thermal furnace, accelerated cellular mitosis, glowing capillaries, cardiac auto-defibrillation, Pyric Crucible Arkun). Exemplified by Commander Vram Tyage.
+*   **Mutation F (Fenris / Chimera Strain):** High-torque terrestrial canid/feline pack predators (the true **Chimera**; coarse fur/quills, crushing jaw torque, heightened scent tracking, Berserk Frenzy Arkun). Exemplified by wasteland scouts like Kira Brandt.
+*   **Mutation D (Dromaeon / Raptor Strain):** Prehistoric velociraptor pack hunters (retractable pedal sickle-claws, 50+ mph burst sprinting, acoustic click-resonance, Quantic Chrono-Dilation Arkun). Exemplified by Dr. Tsunari Thorne.
 
 ---
 
 ## 4. The Vaelen Ascendancy & Infiltration Lexicon
 
+*   **The Vaelen:** The ancient, post-biological extraterrestrial race orbiting Earth. Towering 7.5 to 8.5 feet tall with translucent porcelain-slate skin, visible mercury-indigo hemolymph, hairless elongated craniums, and mirrored obsidian eyes with concentric rotating iris rings. They communicate via tele-harmonic resonance that vibrates the bones and skull directly, bypassing external air.
 *   **Archon:** A high-ranking Vaelen overseer possessing supreme authority over planetary terraforming and species arbitration (e.g., Archon Xaevis).
 *   **Arbiter:** A Vaelen judicial/scientific overseer; notably Arbiter Lyraen, leader of the dissident Preserver movement.
 *   **Simulacrum (Weaver-Unit):** A deep-cover alien infiltration agent sheathed in cloned, lab-grown human dermis, bone, and organs, piloted by a subterranean Vaelen neuro-slug. Identified only by un-dilating pupils, cold body temperature, and violet oxidation in blood under UV light.
@@ -70,9 +72,15 @@
 *   **Dr. Tsunari Thorne:** Lead female protagonist (FMC). Clandestine field geneticist, rogue reverse-engineer, and Null-Resonance infiltrator spliced with the prehistoric Dromaeon (Raptor) strain.
     *   *Tactical Callsign / Moniker:* **"Tsune"** (used over comms and by frontier scouts).
     *   *Intimate Diminutive:* **"Tsunie"** (used exclusively by Vram in tender, unguarded moments).
-*   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh (Phoenix) apex strain.
+*   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7, spliced with the Simurgh (Phoenix) solar strain (80% Simurgh + 20% Gryphon flight traits).
     *   *Tactical Callsigns:* **"Pyre-Zero"** / **"Aeros-Actual"**.
     *   *Field Moniker:* **"Vram"** (used by his inner circle, squadmates, and Tsunari).
+*   **Corporal Ferrin "Rook" Calder:** Callsign **"Rook"**. Sarcastic, quick-witted skirmisher and close-quarters vanguard of Aeros-Legion 7 (75% Gryphon + 25% Fenris). Uses irreverent humor as armor against the Synapse Lattice; lethal with twin trench daggers.
+*   **Specialist Tobin "Toby" Vance:** Callsign **"Kestrel"**. Youngest scout of Aeros-Legion 7 and Cassian's younger brother (80% Gryphon + 20% Simurgh). Gentle, chivalrous soul who whittles miniature figurines from scrap optical quartz; fiercely protective of his squad and "Doc" Tsunari.
+*   **Boran "The Bastion" Vael-Korr:** Former Sergeant of the 4th Heavy Breachers (100% Lindwurm/Basilisk). 6'8" stone-armored cynic with a deep baritone; guards subterranean rail spurs and trades constant combat banter with the "fragile sky-birds."
+*   **Madame Vrena Chen:** 100% baseline human matriarch of the Sector 09 Air Scrubber Guild and Iron Market. Wears an ornate double-canister brass respirator; controls oxygen distribution and mobilizes civilian defense networks.
+*   **Kira Brandt:** Leader of the "Overground Railroad" (85% Fenris pack tracker). Expert wasteland smuggler piloting modified sand-crawlers across the Rust Barrens; tracks scent wakes through toxic dust storms.
+*   **Sora Thorne:** Tsunari’s estranged younger sister (age 20). Junior Bio-Synthetics Assistant at Apex GeneSys inside Eden Dome Alpha; lives in privileged ignorance of the impending alien terraforming harvest.
 *   **Elder Gideon Cross:** Chief Bio-Curator of Sector 09; keeper of The Glass Vault and mentor figure.
 *   **Ren:** Fourteen-year-old Storm-Born mechanical prodigy and Tsunari’s tech partner.
 *   **Arbiter Lyraen:** Dissident Vaelen judicial/scientific overseer and secret ally of humanity.

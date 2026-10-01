@@ -16,7 +16,7 @@
 *   **The Emergency Bio-Decontamination Pod:** A cramped, one-meter airlock during an acidic spore fallout; clothing drenched in caustic propellant must be stripped to prevent fatal dermal necrosis.
 *   **Thermal Shelter in the Subterranean Sump:** Freezing nights in the subterranean ruins of the Rust Barrens where his hyper-thermic Phoenix body heat (104°F–106°F) is the single thermodynamic barrier keeping her from hypothermic death.
 
-### 4. "Who Did This To You?" (The Feral Apex Shift)
+### 4. "Who Did This To You?" (The Primal Protector Shift)
 *   When a rival scavenger militia, Tempered cultist, or Consortium security unit corners Tsunari and leaves a bloody gash across her cheek or bruises her wrists:
 *   Vram's aristocratic military composure completely dissolves. The golden-orange feather shafts at his collar bristle, his pupils contract to black predator slits, and his nanocarbon talon gauntlets lock forward with a pneumatic hiss.
 *   His voice drops into an infrasonic growl: *"Which one of them laid hands on you?"*
@@ -50,7 +50,7 @@
 *   **Spice Level:** 🌶️🌶️ to 🌶️🌶️🌶️ (Full Consummation & Deep Vulnerability)
 *   **Key Beats:**
     *   *The Geothermal Haven:* In a secluded subterranean sulfur spring beneath the Salt Flats, the simmering restraint of months completely detonates into fierce, ravenous, and deeply emotional physical consummation.
-    *   *Morning After & Domestic Tenderness:* The ferocious apex commander waking up entirely unguarded, burying his face in the crook of her neck, whispering *"Tsunie"* as a quiet, sacred prayer.
+    *   *Morning After & Domestic Tenderness:* The ferocious flight commander waking up entirely unguarded, burying his face in the crook of her neck, whispering *"Tsunie"* as a quiet, sacred prayer.
     *   *The Agony of Separation:* The hermetic blast door sealing between them as Vram stays behind to detonate the bio-furnace, tearing their nervous systems apart just after reaching total union.
 
 ### Book 3: *The Unchained Sky* (Touch-Starved Reunion & Sovereign Catharsis)

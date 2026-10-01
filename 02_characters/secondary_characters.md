@@ -23,14 +23,30 @@ The soldiers under Vram’s command form a feral, fiercely loyal family bound by
     *   *Manifested Arkun — Infrasonic Sickle-Rupture:* Delivers high-frequency screech blasts through her vocal cords while executing high-speed wall-vaults and sickle-claw strikes, shattering heavy vehicle armor and bursting auditory sensors.
 *   **Dynamic with Tsunari:** Initially mocks Tsunari as an un-augmented "mayfly" (baseline human with a short lifespan), but gains deep respect for Tsunari’s nerve when Tsunari field-stitches an open wound without flinching.
 
-### Specialist Jax (Callsign: "Kestrel")
-*   **Role:** Youngest pilot in the unit; reckless aerial scout.
-*   **Personality:** Impulsive, protective, desperate for approval.
+### Corporal Ferrin "Rook" Calder (Callsign: "Rook") — The Sarcastic Banterer (The "Ridoc" Archetype)
+*   **Role:** Aerial skirmisher, flanking infiltrator, and squad morale anchor. Spliced with high-altitude falcon and urban stealth traits.
+*   **Age:** 25.
+*   **Personality:** Irreverent, sharp-tongued, incorrigibly sarcastic, and completely immune to Vram’s death-glares. Uses biting humor as psychological armor against the agonizing sensory feed of the Synapse Lattice. He is the only soldier in the legion who dares tease Vram about his brooding demeanor, his man bun, his 106°F internal heat (*"Hold still, Commander, you're toasting my flatbread"*), and the scorching sexual tension between Vram and Tsunari (*"If you two stare at each other any harder, the atmospheric scrubbers are going to catch fire"*).
 *   **Strain Chart & Arkun:**
-    *   *Genetics:* **80% Gryphon + 20% Simurgh.** Lightweight avian bone structure spliced with solar-regenerative cellular traits.
-    *   *True Character / Core Drive:* *Reckless Idealism / The Boy Who Longs for Open Skies.* Fights to feel the raw wind rather than obey corporate flight computers.
-    *   *Manifested Arkun — Solar-Thermal Slipstream:* Generates an incandescent 250°F thermal updraft behind his dive, scorching pursue drones and lifting squadmates out of gravity dead-zones.
-*   **Tragic Element:** Shows the earliest stages of the Synapse decay. His deterioration is a constant, urgent reminder to Vram and Tsunari of what will happen to all of them if the alien leash is not broken in time.
+    *   *Genetics:* **75% Gryphon + 25% Fenris.** Aerodynamic raptor wing-structure merged with predatory reflexes and heightened hearing.
+    *   *True Character / Core Drive:* *The Defiant Jester / The Unbroken Spirit.* Refuses to let the regime break his humanity; believes laughter in the face of death is the ultimate act of rebellion.
+    *   *Manifested Arkun — Razor-Blink Dive (Vortex Slip):* Compresses air currents along his wing edges into razor-sharp sonic shock-shears during supersonic dives, allowing him to slice through drone swarms and weapon emplacements while trading witty quips over comms.
+*   **Combat Style:** Wields twin titanium-alloy trench daggers in close quarters and specialized flechette pistols; thrives in chaotic dogfights and rooftop skirmishes.
+*   **Dynamic with Tsunari & Boran:** Initially teases Tsunari relentlessly about taming their "golden sun-hawk," but develops fierce, loyal respect for her spine. Later forms an iconic banter rivalry with Boran the Lindwurm (*"Look at you, giant rock-toad, do you need an engine crane to stand up?"*).
+
+### Specialist Tobin "Toby" Vance (Callsign: "Kestrel") — The Tender Soul & Protector (The "Liam Mairi" Archetype)
+*   **Role:** Youngest scout and point-flyer of Aeros-Legion 7; Lieutenant Cassian Vance's younger brother.
+*   **Age:** 21.
+*   **Personality:** Gentle, chivalrous, extraordinarily warm-hearted, and deeply protective. In a brutal world that grinds soldiers into disposable weapons, Toby retains an innocent, luminous soul.
+*   **Sensory & Personal Habits:**
+    *   Carries a small steel stylus and whittles delicate, intricate animal figurines out of scrap optical quartz discs and discarded circuitry during down-time.
+    *   Always checking on Vram’s migraines, bringing clean water to his squadmates, and offering quiet reassurance.
+*   **Strain Chart & Arkun:**
+    *   *Genetics:* **80% Gryphon + 20% Simurgh.** Lightweight avian bone structure, iridescent cream-and-gold feathering, and solar-regenerative mitochondrial resilience.
+    *   *True Character / Core Drive:* *Selfless Devotion / The Gentle Guardian.* Fights not out of hatred or military bloodlust, but solely to protect the family he loves.
+    *   *Manifested Arkun — Solar-Thermal Slipstream:* Generates an incandescent, comforting 250°F thermal updraft behind his dive that shields squadmates from freeze-lock, lifts allies out of gravity dead-zones, and deflects tracking ordnance.
+*   **Dynamic with Tsunari ("Doc"):** Toby is the first squad member to trust Tsunari unconditionally. He respects her intellect, notices her shivering in the cold wastes, and whittles a miniature quartz raptor which he presses into her hand (*"For you, Doc. In case you forget you can fly"*). Tsunari fiercely vows that no harm will come to him.
+*   **Tragic Urgency:** Shows early micro-seizures from Synapse Lattice decay. His failing health acts as a visceral emotional clock for Vram and Tsunari to synthesize the permanent cure.
 
 ---
 
@@ -176,6 +192,60 @@ The Forger’s personal strike team, executioners, and high-tier black-ops cadre
 *   **The Unresolved Fate (The Open Door):**
     *   During the final collapse of the Sector 09 sump battle, as The Forger’s authority shatters under Vram’s assault, Malakar does not die. Wounded and bleeding black, mutagen-tainted blood, he retreats into the subterranean labyrinth beneath the Salt Flats.
     *   His whereabouts remain completely unknown at the end of Book 1, leaving a lethal, fanatical loose end and an open door for future novellas, sequels, or rogue-faction storylines.
+
+---
+
+## 8. Wasteland & Undercity Allies (The Unbroken Front)
+
+### Boran "The Bastion" Vael-Korr (The Lindwurm Heavy Tank)
+*   **Role:** Former Sergeant of the 4th Heavy Breachers; veteran subterranean freight line guard and demolition expert.
+*   **Age:** 36 (an ancient survivor among combat chimeras).
+*   **Strain Chart & Arkun:**
+    *   *Genetics:* **100% Lindwurm / Basilisk.** Towering at 6'8", his skin is sheathed in interlocking slate-gray dermal stone-scutes; immune to toxic gases, heavy shrapnel, and extreme thermal spikes.
+    *   *True Character / Core Drive:* *The Immovable Bulwark / The Cynical Protector.* Has seen every corporate promise rot into lies; believes the only truth in the universe is holding the ground with your own two feet.
+    *   *Manifested Arkun — Seismic Bastion:* Slams his fists or knuckles into solid bedrock or reinforced decking to project a dense kinetic shock-wave that shatters vehicle axles, halts incoming ballistic charges, and anchors structures from collapsing.
+*   **Personality & Voice:** Deep, rumbling baritone that sounds like two tectonic plates grinding together. Dry, deadpan, and unshakeable.
+*   **Inter-Strain Rivalry & Banter:** Harbors a deep, hilarious contempt for "fragile sky-birds with hollow bones who run away when the wind blows." He and Ferrin Calder trade relentless barbs throughout combat, yet Boran repeatedly uses his massive stone-armored frame to shield Ferrin and Toby from heavy ordnance.
+*   **Narrative Function:** Guides Vram and Tsunari through the pre-collapse subterranean heavy-rail conduits beneath the Rust Barrens; holds the blast door against Malakar’s pneumatic rail-flail in Chapter 22, taking brutal structural punishment so the cure can be secured.
+
+### Madame Vrena Chen (The Baseline Air Baroness)
+*   **Role:** Chairwoman of the Sector 09 Air Scrubber Guild and matriarch of the subterranean Iron Market.
+*   **Age:** 58 (a rare, battle-hardened Old-Worlder born before the Great Storm).
+*   **Lineage:** **100% Baseline Human (Un-augmented).**
+*   **Appearance & Sensory Markers:** Wears layered industrial silks, a heavy grease-stained leather duster, and an ornate brass double-canister respirator adorned with etched copper filigree and amber glass dials. Her fingers are adorned with heavy rings made from smoothed pre-collapse silver coins.
+*   **Personality & Authority:** Pragmatic, razor-sharp, maternal yet utterly ruthless. She holds life-or-death power in Sector 09 because her guild controls the municipal filter scrubbers, oxygen condensation cisterns, and canister recharging banks.
+*   **Relationship with Vram:** Uncompromisingly honest. She holds Vram directly accountable for his past as a corporate enforcer (*"I remember your Griffin patrols three winters back, Commander. You broke my nephew's collarbone for missing curfew. Now you come down here asking for sterile filters?"*). Vram doesn't make excuses; he accepts her wrath with solemn dignity, winning her respect.
+*   **Plot Payoff:** Seeing Tsunari's biological cure and Vram's genuine willingness to bleed for the undercity, Madame Chen mobilizes the entire baseline civilian resistance—roof-runners, scrap mechanics, and ventilation engineers—turning Sector 09's infrastructure into a lethal maze for corporate purge teams.
+
+### Kira Brandt (The Fenris Wasteland Smuggler / Pack Tracker)
+*   **Role:** Leader of the "Overground Railroad"—a clandestine smuggling convoy operating modified diesel-electric sand-crawlers across the toxic Rust Barrens.
+*   **Age:** 27.
+*   **Strain Chart & Arkun:**
+    *   *Genetics:* **85% Fenris + 15% Baseline.** Thick tawny hair, amber eyes with dilated nocturnal tapeta, heightened olfactory tracking, and dense musculoskeletal torque. *(Note: Strictly no corporate pedigree).*
+    *   *True Character / Core Drive:* *The Wild Outlaw / Pack Loyalty.* Rejects both the corporate domes and the cult sumps; lives only for the freedom of the open desert and the survival of her scavenger clan.
+    *   *Manifested Arkun — Primal Pack-Sense (Scent-Wake):* Can track molecular scent trails through howling dust storms over twenty miles, detecting approaching drone squadrons and toxic gas pockets hours before electronic radar registers them.
+*   **Personality & Appearance:** Rugged, dust-bitten, wearing scavenged sand-goggles and oiled dune leathers. Direct, sharp, and fiercely loyal to anyone who shares water and keeps their word.
+*   **Plot Function:** Rescues Tsunari and the downed Vram from feral Dromaeons at the abandoned transit depot in Chapter 13; teaches Tsunari how to mask Vram's 106°F thermal flare against orbital satellites; connects the fugitive duo to Boran's underground rail spur; in Chapter 24, carries encrypted copies of the *Lazarus Key* into the deep wastes to ignite resistance enclaves globally.
+
+---
+
+## 9. Divided Bloodlines & The Corporate Mirror
+
+### Sora Thorne (The Estranged Sister / The Gilded Mirror)
+*   **Role:** Junior Bio-Synthetics Assistant at Apex GeneSys inside Eden Dome Alpha, working directly in Director Elena Corvus's flagship genetic laboratory.
+*   **Age:** 20 (Tsunari’s younger sister).
+*   **Lineage:** Baseline Human with light cosmetic Chrysalis-lite conditioning (flawless porcelain skin, unblemished lungs).
+*   **Backstory & The Fracture:**
+    *   Separated from Tsunari ten years ago when corporate security raided their family workshop and arrested their father.
+    *   While Tsunari escaped into the toxic Gray Sector slums, the ten-year-old Sora was selected by corporate talent scouts for her baseline compliance and high aptitude scores. She was placed into a sanitized corporate foster program inside Eden Dome Alpha.
+    *   Sora was fed systematic propaganda: she was told her father was an unhinged terrorist who killed himself, and that her older sister died of the Choke years ago in the gutter.
+*   **The Contrast & Thematic Mirror:**
+    *   Sora represents the tragic reality of life inside the Gilded Dome: privileged, sheltered, wearing pristine white linen, drinking uncontaminated water—yet living in a velvet cage, utterly blind to the impending alien harvest.
+    *   She genuinely believes Apex GeneSys is working day and night to synthesize an atmospheric cure to save the planet.
+*   **Foreshadowing & Plot Drops in Book 1:**
+    *   *Chapter 1:* Tsunari spots Sora's name and personnel ID (*Thorne, Sora — Bio-Lab 4*) on an active employee roster while hacking the courier terminal, delivering an electrifying shock: her little sister is alive and serving their mortal enemies.
+    *   *Chapter 8:* Vram receives a corporate audit dispatch bearing the sub-signature of "Tech-Specialist S. Thorne," revealing that Sora is unknowingly processing the data algorithms tracking her own sister across the wasteland.
+    *   *Chapter 24:* The full decryption of the *Lazarus Key* reveals that Eden Dome Alpha's internal staff are scheduled for liquidation once the Vaelen Terra-Pylons reach 100% saturation. Tsunari realizes her sister is not safe in paradise—she is merely cattle in a clean slaughterhouse—setting up their climactic, emotionally explosive reunion across the dome glass in Book 2.
 
 
 

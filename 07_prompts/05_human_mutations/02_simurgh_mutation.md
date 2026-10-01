@@ -22,7 +22,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - Hands have neatly manicured nails where nanocarbon pyric talons sit deeply retracted.
 - Eyes display a calm, molten-gold iris with a soft, banked-ember glow.
 
-2. THE ENHANCED STATE (Fight-or-Flight / Apex Combat Mode):
+2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The male and female figures are depicted in powerful, aggressive combat stances, radiating kinetic and thermal power.
 - SOLAR VASCULAR OVERCLOCK (106°F–110°F): Their subcutaneous capillary network blazes into vivid, liquid-gold and deep-crimson rivers of fire glowing through their skin across their chests, arms, throats, and temples, with faint thermal steam vapors sketched rising from their skin.
 - PLUMAGE THREAT DISPLAY: The obsidian, copper, and crimson feather shafts along their collarbones, nape, and upper spine bristle, fan out, and flare upright like an incandescent crown and cooling radiator to vent excess metabolic heat.

@@ -14,7 +14,7 @@ An authentic Renaissance naturalist zoological plate and anatomical study in the
 
 CRITICAL SUBJECT: The Dromaeon is completely reptilian and non-feathered—featuring textured leathery hide, fine pebbled scales, and armor scutes like a classic Jurassic Park raptor; there are NO feathers, NO bird plumage, and NO wings.
 
-The central drawing is a full-body lateral study of an apex prehistoric velociraptor in a menacing, calculating stalker pose. The beast features a sleek, muscular reptilian body with finely textured pebbled scales, a row of low, sharp keratinized dorsal scutes running along the spine, a long stiffened muscular counterbalancing tail, and powerful cursorial legs built for explosive sprinting. The inner toe of each foot brandishes a colossal, four-inch curved killer sickle-claw held raised high off the ground in lethal striking readiness.
+The central drawing is a full-body lateral study of a prehistoric velociraptor in a menacing, calculating stalker pose. The beast features a sleek, muscular reptilian body with finely textured pebbled scales, a row of low, sharp keratinized dorsal scutes running along the spine, a long stiffened muscular counterbalancing tail, and powerful cursorial legs built for explosive sprinting. The inner toe of each foot brandishes a colossal, four-inch curved killer sickle-claw held raised high off the ground in lethal striking readiness.
 
 Surrounding technical callout sketches include:
 1. Detailed skull and jaw dissection illustrating backward-curving serrated predator teeth, powerful jaw hinge tendons, exposed gums, and stereoscopic forward-facing reptilian eyes with horizontal slit pupils and a nictitating membrane.
@@ -33,7 +33,7 @@ Drawn with crisp graphite pencil and iron-gall sepia ink cross-hatching, accente
 
 ### Prompt
 ```text
-A monumental Renaissance naturalist and mythological codex study in the style of Leonardo da Vinci's flight and cardiovascular manuscripts, illustrating the ancient apex titan beast 'The Simurgh' (The Primordial Solar Phoenix) on heavy, antique vellum parchment.
+A monumental Renaissance naturalist and mythological codex study in the style of Leonardo da Vinci's flight and cardiovascular manuscripts, illustrating the ancient primordial titan beast 'The Simurgh' (The Primordial Solar Phoenix) on heavy, antique vellum parchment.
 
 The central drawing depicts an enormous, majestic avian bird of prey of terrifying mythic proportions, perched on a mountain peak with its massive wings unfurled in a soaring, regal wingspan. The beast combines the predatory anatomy of a giant raptorial eagle with iridescent, cascading obsidian, copper, and molten-gold plumage that resembles cooling embers. Its sharp hooked beak, crowned feathered crest, and incandescent golden eyes radiate raw solar heat.
 
@@ -50,13 +50,13 @@ Drawn with masterly sepia ink cross-hatching, graphite pencil, and warm watercol
 
 ---
 
-## 3. The Gryphon (The Sky-Apex Emperor / Avian-Leonine Beast)
+## 3. The Gryphon (The Sky-Lord Emperor / Avian-Leonine Beast)
 
 ### Prompt
 ```text
-An authentic 16th-century Renaissance mythological bestiary and comparative anatomy plate in the style of Leonardo da Vinci, depicting the legendary primordial beast 'The Gryphon' (The Sky-Apex Emperor) on weathered, yellowed parchment.
+An authentic 16th-century Renaissance mythological bestiary and comparative anatomy plate in the style of Leonardo da Vinci, depicting the legendary primordial beast 'The Gryphon' (The Sky-Lord Emperor) on weathered, yellowed parchment.
 
-The primary illustration is a breathtaking full-body naturalist study of a colossal, wild Gryphon in a majestic crouching stance atop a storm-swept alpine crag. The creature seamlessly combines the powerful head, broad hooked predatory beak, golden tetrachromatic eyes, and massive feathered wings of a giant imperial eagle with the muscular torso, heavy fore-talons, muscular hindquarters, and tufted tail of an apex primeval lion.
+The primary illustration is a breathtaking full-body naturalist study of a colossal, wild Gryphon in a majestic crouching stance atop a storm-swept alpine crag. The creature seamlessly combines the powerful head, broad hooked predatory beak, golden tetrachromatic eyes, and massive feathered wings of a giant imperial eagle with the muscular torso, heavy fore-talons, muscular hindquarters, and tufted tail of a primeval lion.
 
 Surrounding technical comparative studies include:
 1. Side-by-side skeletal and muscular comparison between the eagle forelimb talon assembly and the feline rear pounce-muscles.
@@ -71,11 +71,11 @@ Drawn with precise sepia iron-gall ink, soft graphite shading, and subtle ocher 
 
 ---
 
-## 4. The Fenris (The Primeval Apex Wolf / Terrestrial Juggernaut)
+## 4. The Fenris (The Primeval Wolf Titan / Terrestrial Juggernaut)
 
 ### Prompt
 ```text
-A Renaissance zoological dissection and naturalist study in the style of Leonardo da Vinci's carnivore studies, depicting the legendary prehistoric apex beast 'The Fenris' (The Primeval Wolf Titan) on antique, stained vellum paper.
+A Renaissance zoological dissection and naturalist study in the style of Leonardo da Vinci's carnivore studies, depicting the legendary prehistoric titan beast 'The Fenris' (The Primeval Wolf Titan) on antique, stained vellum paper.
 
 The central drawing portrays an enormous, terrifying prehistoric wolf beast—far larger and more heavily muscled than any modern wolf—stalking in a menacing, low-slung hunting prowl. The beast possesses an immense, broad skull with massive jaw muscles, a thick shaggy winter pelt bristling over a heavily muscled shoulder hump, razor-sharp elongated sabre-canines, and massive paws armed with heavy, non-retractile terrestrial claws.
 

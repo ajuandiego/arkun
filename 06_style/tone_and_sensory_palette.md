@@ -48,7 +48,7 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 
 *   **Rule 1: Keep It Embodied.** Avoid abstract emotional statements like *"He felt angry and attracted to her."* Instead: *"His claws twitched beneath his skin, the nanocarbon straining against his knuckles, while his gaze pinned her to the rusted bulkhead with the lethal patience of a hawk picking its angle of dive."*
 *   **Rule 2: The Heroine Stays Dangerous.** Tsunari is never a passive prize or a frightened victim. Even when pinned or outnumbered, her mind is calculating vulnerabilities, measuring his fever, and looking for leverage.
-*   **Rule 3: The Hero’s Devotion is Absolute.** When Vram breaks his conditioning, he does not waver or play lukewarm games. He is an apex predator whose loyalty, once claimed, will gladly raze an empire to protect her.
+*   **Rule 3: The Hero’s Devotion is Absolute.** When Vram breaks his conditioning, he does not waver or play lukewarm games. He is a primal warrior whose loyalty, once claimed, will gladly raze an empire to protect her.
 
 ---
 
@@ -56,6 +56,6 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 
 ### Alternating Dual POV Strategy
 *   **Tsunari's Voice (The Analytical Field Survivor):** Internal monologue focuses on biological telemetry, physical hazard assessments, system mechanics, and resource rationing. She doesn't panic; she breaks crises down into solvable biological variables.
-*   **Vram's Voice (The Apex Kinetic Sentinel):** Internal monologue is crisp, sensory-saturated, and tactical. He tracks lines of sight, structural integrity, thermal signatures, and her micro-movements. His inner world is devoid of military jargon for its own sake—it is the raw, focused perception of a predator keeping his mate and himself alive.
+*   **Vram's Voice (The Kinetic Sky-Sentinel):** Internal monologue is crisp, sensory-saturated, and tactical. He tracks lines of sight, structural integrity, thermal signatures, and her micro-movements. His inner world is devoid of military jargon for its own sake—it is the raw, focused perception of a predator keeping his mate and himself alive.
 *   **The Zero-Ideology Rule:** Neither character wastes narrative space on political pontificating, modern cultural debates, or preachy morality. Their language and thoughts are stripped of dogma: they care about water, air, ammunition, thermal shelter, and keeping each other breathing. Common sense rules every chapter.
 

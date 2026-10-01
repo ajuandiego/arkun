@@ -40,7 +40,7 @@
     *   *Core Action:* A blinding copper-dust storm blinds sensors. Vram engages an elite flight of unmanned Consortium hunter-killer drones, pushing his thermal engines to their limits to protect the convoy below.
 *   **Chapter 9 (Tsunari): The Meeting with the Star-Born**
     *   *Setting:* An ancient, half-buried astronomical observatory.
-    *   *Core Action:* Face-to-face rendezvous with **Arbiter Lyraen**. The tall, bioluminescent Vaelen reveals the internal civil war of their species: Archon Xaevis plans a complete atmospheric harvest by Year 19 AS. Lyraen hands over the *Star-Chrysalis Enzyme*.
+    *   *Core Action:* Face-to-face rendezvous with **Arbiter Lyraen**. The tall, bioluminescent Vaelen reveals the internal civil war of their species: Archon Xaevis plans a complete atmospheric harvest by Year 41 AS. Lyraen hands over the *Star-Chrysalis Enzyme*.
 *   **Chapter 10 (Vram): The Alien Accord**
     *   *Setting:* The observatory deck.
     *   *Core Action:* Vram confronts Lyraen about the bio-ports in his spine. Lyraen reveals that the chimeric lines were never meant to be enslaved weapons, but symbiotic bridges between human and extraterrestrial biology.

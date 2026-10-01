@@ -21,7 +21,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - Their joints and limbs appear thick and solid, but natural in human proportion.
 - Their breathing is exceptionally slow and calm, indicating low resting metabolic consumption.
 
-2. THE ENHANCED STATE (Fight-or-Flight / Apex Combat Mode):
+2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The male and female figures are depicted in heavy, immovable ballistic bracing postures, absorbing kinetic shockwaves and deflecting projectiles.
 - SUBDERMAL BASALT ARMOR HARDENING: Interlocking hexagonal keratin-silicate armor plates calcify and forcefully rise beneath their skin, forming visible, raised basalt stone scutes across their chests, shoulders, forearms, and spines capable of stopping high-caliber kinetic rounds and shrapnel.
 - HEEL SPUR ANCHOR DEPLOYMENT: Dense, pointed basalt-keratin spurs project outward from the posterior calcaneus (heel bones), driving into the ground to anchor the soldiers against concussive shockwaves and explosive blast back-pressure.

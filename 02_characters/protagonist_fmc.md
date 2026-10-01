@@ -6,14 +6,14 @@
 
 ## 1. Character Identity & Overview
 *   **Role:** Clandestine Field Biologist, Reverse-Engineer, and Null-Circuit Operative.
-*   **Age:** 26 (Born Year 8 BS; Sky-Born).
+*   **Age:** 26 (Born Year 14 AS; Storm-Born).
 *   **Faction:** The Dustborn Resistance (Null-Circuit cell).
-*   **Archetype:** The Brilliant Rebel Underdog / Reluctant Savior / Raptor Apex Infiltrator.
+*   **Archetype:** The Brilliant Rebel Underdog / Reluctant Savior / Raptor Shadow Infiltrator.
 
 ---
 
 ## 2. Appearance & Sensory Markers
-*   **Build & Stature:** Lean, wiry, explosive; built with the low center of gravity and hyper-elastic tendon structure of an apex cursorial predator. Moves with eerie, silent fluid grace, capable of vertical wall-springs and 45+ mph sprinting bursts.
+*   **Build & Stature:** Lean, wiry, explosive; built with the low center of gravity and hyper-elastic tendon structure of a cursorial pack hunter. Moves with eerie, silent fluid grace, capable of vertical wall-springs and 45+ mph sprinting bursts.
 *   **Face & Features:** Striking, captivating feminine beauty with noticeable East-Asian heritage in her eyes and sculpted bone structure; high cheekbones and delicate, defined jawline; normal rounded human ears (no elf ears); almond-shaped eyes with elegant epicanthic folds, holding a sharp, predatory amber-chartreuse gaze with subtle reptilian slit pupils and a translucent nictitating membrane. Long raven-dark hair secured in a high braided warrior bun, transfixed horizontally by a small, razor-sharp steel bodkin knife (serving simultaneously as hair pin, rapid-defense dagger, and improvised electronic lock-picker).
 *   **Signature Attire & Field Gear:** Dressed for the sweltering desert heat in a fitted, weathered off-white sleeveless tactical tank shirt tucked into dark, tailored combat trousers with reinforced knee pads. Across her torso she wears a sleek, non-invasive leather chest band harness holding two slim diagnostic glass vials and discrete lockpick pouches. Main tactical sidearm holstered securely at her right hip. Bare, ungloved hands with natural, short-trimmed human fingernails (no beast claws on hands). Customized calf-high split-sole dark leather boots (clean standard boots in resting state; claws are internal).
 *   **Chimeric / Bio-Traits (The Raptor Lineage):**
@@ -27,14 +27,14 @@
 ## 3. Psychological Architecture
 
 ### The Ghost (The Backstory Trauma)
-When Tsunari was 17, her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Tsunari with an uncorrupted, ancient **Dromaeon (Raptor) archeo-genetic embryo**, merged with her native Amber Haze immunity. Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
+When Tsunari was 17 (in Year 31 AS), her father—a chief bio-engineer working on the archeo-genetic excavations—discovered that the Consortium planned to cull un-spliced humans. Before his public execution by Aeros-Legion enforcers, he secretly inoculated Tsunari with an uncorrupted, ancient **Dromaeon (Raptor) archeo-genetic embryo**, merged with her native Amber Haze immunity. Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
 
 ### The Lie She Believes
 > *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
 
 ### The Internal Want vs. Need
 *   **What She Wants:** Absolute independence and survival: to decode the Vaelen atmospheric keys, liberate the Gray Sectors from corporate control, and remain unbound by any master.
-*   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Vram) transforms her from a hunted rogue into an apex leader.
+*   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Vram) transforms her from a hunted rogue into a formidable, sovereign leader.
 
 ---
 
@@ -61,8 +61,8 @@ When Tsunari was 17, her father—a chief bio-engineer working on the archeo-gen
 The Arkun formula applied to Tsunari Thorne:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
-*   **Genetic Strain Chart:**
-    *   **75% Dromaeon Strain (The Scythe-Stalker):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening.
+*   **Genetic Mutation Chart:**
+    *   **75% Mutation D (Dromaeon / Raptor Strain):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening.
     *   **25% Pure Human Baseline (Amber Null-Anomaly):** Chromosomal resistance to alien neural lattices and atmospheric sulfur.
 *   **True Character / Core Psychological Drive:**
     *   *The Sovereign Stalker / The Uncaged Ghost.* An absolute refusal to be collared, modified by corporate masters, or herded like prey. Her soul is wild, independent, and fiercely protective of her freedom.
@@ -73,6 +73,6 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 ---
 
 ## 7. Romantic Dynamics & Friction Points with the MMC
-*   **Initial Stance:** Deadly predator rivalry. When Vram tracks her down in Chapter 1, it is a ferocious clash of apex species: the blinding solar radiance of the Phoenix Commander against the hyper-agile shadow-stalking of the Raptor Infiltrator.
+*   **Initial Stance:** Deadly predator rivalry. When Vram tracks her down in Chapter 1, it is a ferocious clash of primal titans: the blinding solar radiance of the Phoenix Commander against the hyper-agile shadow-stalking of the Raptor Infiltrator.
 *   **The Turning Point:** Seeing Vram’s radiant body burning up in agonizing lattice-decay fever. When she touches his bare collarbone to restrain him, her cold-blood predator physiology and Null-Resonance instantly absorb his excess heat, dropping his fever to absolute peace.
 *   **The Power Dynamic (Fire and Shadow):** He possesses overwhelming kinetic power and solar radiance; she possesses lethal micro-speed, cunning intelligence, and the biological key to his survival. They challenge, test, and complement each other like two sides of an evolutionary coin.

@@ -5,7 +5,7 @@
 In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
 *   **The Polar Dynamics (Fire & Shadow):**
-    *   **Vram (The Phoenix / Simurgh Apex):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
+    *   **Vram (The Phoenix / Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
     *   **Tsunari (The Raptor / Dromaeon Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
     *   When Tsunari touches Vram, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
@@ -15,7 +15,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 ## 2. Subverting the Romantasy Cliché: The 4-Phase Book 1 Progression
 
-To avoid the predictable, boring "enemies-to-lovers" fast track (where characters instantly soften, trade banter, and fall into bed), Book 1 executes a **psychologically rigorous, high-tension progression** driven by survival leverage, biological resentment, and apex competence parity:
+To avoid the predictable, boring "enemies-to-lovers" fast track (where characters instantly soften, trade banter, and fall into bed), Book 1 executes a **psychologically rigorous, high-tension progression** driven by survival leverage, biological resentment, and lethal competence parity:
 
 ```
 [ Phase 1: Biological Resentment & Hostage Leverage ]
@@ -41,9 +41,9 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 ### Phase 2: Predator Competence Parity (The Real Spark)
 *   **The Catalyst:** In an unforgiving biopunk wasteland, sweet words and manufactured banter feel hollow. The true emotional turning point occurs in active combat.
 *   **The Mutual Recognition:**
-    *   Vram watches Tsunari calculate temporal angles at hyper-speed, executing a lethal sickle-claw counter-ambush against an apex Dromaeon without a shred of panic. She isn't an un-augmented victim who needs rescuing; she is a cold, lethal apex stalker.
+    *   Vram watches Tsunari calculate temporal angles at hyper-speed, executing a lethal sickle-claw counter-ambush against a feral alpha Dromaeon without a shred of panic. She isn't an un-augmented victim who needs rescuing; she is a cold, lethal shadow hunter.
     *   Tsunari watches Vram unleash his pyric shields and aerial vectors, not with reckless brutality, but with surgical military discipline, sacrificing his own armor to absorb an explosive blast meant for a civilian convoy.
-    *   **The Biological Realization:** For apex predators, the deepest aphrodisiac is **flawless competence**. They recognize each other as evolutionary equals—the only two beings capable of operating at the exact same lethal frequency.
+    *   **The Biological Realization:** For transgenic pack predators, the deepest aphrodisiac is **flawless competence**. They recognize each other as evolutionary equals—the only two beings capable of operating at the exact same lethal frequency.
 
 ### Phase 3: The Terror of Mental Silence & Sensory Intrusion
 *   **The Psychological Shock of Silence:**
@@ -54,7 +54,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
         *   The involuntary bristle of his golden nape feathers whenever she moves within three paces.
         *   Her pupil slit narrowing into predator dilation when she watches him strip his combat armor, registering the muscular topography of a living weapon.
         *   The low, deep rumble vibrating in his diaphragm when her cool fingertips check his surgical collar ports.
-    *   Neither acknowledges the shift verbally; both fight against it because opening their hearts in Year 18 AS is a death sentence.
+    *   Neither acknowledges the shift verbally; both fight against it because opening their hearts in Year 40 AS is a death sentence.
 
 ### Phase 4: The Unvoiced Blood Compact of Equals (Book 1 Climax)
 *   **Subverting the Cliché Climax:** Book 1 resists the Hollywood urge for a premature kiss or melodramatic love confession in the middle of a warzone.

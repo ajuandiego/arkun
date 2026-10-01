@@ -1,17 +1,20 @@
 # Biosystem & Tech: The Biopunk "Magic" System
 
-The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotechnological chimeras** engineered through CRISPR-X viral gene-splicing, embryonic synthetic manipulation, and organogenesis—reconstructed directly from **ancient Vaelen archeo-genetic templates** discovered in pre-collapse subterranean cradles.
+The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs; they are **gene-spliced transgenics** engineered through CRISPR-X viral gene-splicing, embryonic synthetic manipulation, and organogenesis—reconstructed directly from **ancient Vaelen archeo-genetic templates** discovered in pre-collapse subterranean cradles.
 
-### The Five Ancient Mythological Lineages
-1.  **The Gryphon Strain (Aeros Lineage):** Avian-panthera apex raptors; basis for high-altitude interception, titanium-honeycomb bones, and retractable nanocarbon hand talons.
-2.  **The Lindwurm / Basilisk Strain:** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
-3.  **The Simurgh / Phoenix Strain:** Metabolic-regenerative avian vectors; source of accelerated telomerase enzymes and *Cytokinetic Weaving* (healing).
-4.  **The Fenris / Chimera Strain:** High-torque terrestrial canid/feline quadrupeds; source of acoustic hunting syrinx and seismic impact resistance.
-5.  **The Dromaeon / Raptor Strain (The Velociraptor Archetype):** Spliced from deep-fossil dromaeosaurid genomes. Bipedal terrestrial pack hunters featuring curved retractable nanocarbon sickle-talons on the feet, hyper-calculating pack intelligence ("clever girl" problem-solving), sub-vocal click-resonance communication, and 50+ mph burst sprinting.
+### The Five Ancient Lineages & Mutation Designations
 
-### Anatomical & Physiological Profiles of the Five Chimeric Strains
+To avoid confusing the specific beast strains with general augmentation, the planetary biosystem categorizes all gene-spliced mutations into **five distinct letters**:
 
-#### 1. The Gryphon Strain (Aeros Lineage) — *The Aerial Apex (Standard Aeros-Legion)*
+1.  **Mutation G (Gryphon Strain):** Avian-panthera aerial raptors; basis for high-altitude biological flight, 14-foot wings, titanium-honeycomb bones, and retractable nanocarbon hand talons.
+2.  **Mutation L (Lindwurm / Basilisk Strain):** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
+3.  **Mutation S (Simurgh / Phoenix Strain):** Metabolic-regenerative solar avian vectors; source of 106°F internal thermal furnace, accelerated telomerase enzymes, glowing capillaries, and *Cytokinetic Weaving* (healing).
+4.  **Mutation F (Fenris / Chimera Strain):** High-torque terrestrial canid/feline predators (the true **Chimera**); source of acoustic hunting syrinx, thick predatory coat/quills, enhanced olfaction, and seismic impact resistance.
+5.  **Mutation D (Dromaeon / Raptor Strain):** Spliced from deep-fossil dromaeosaurid genomes. Bipedal terrestrial pack hunters featuring curved retractable nanocarbon sickle-talons on the feet, hyper-calculating pack intelligence ("clever girl" problem-solving), sub-vocal click-resonance communication, and 50+ mph burst sprinting.
+
+### Anatomical & Physiological Profiles of the Five Mutation Strains
+
+#### 1. Mutation G: The Gryphon Strain — *The Sky-Lords (Standard Aeros-Legion)*
 *   **Build & Skeleton:** Towering, lean, broad-shouldered. Honeycombed, ultra-light titanium-calcium bone matrices modeled on raptor avian anatomy, capable of withstanding terminal-velocity impacts and 12-G aerial turns.
 *   **Muscular Density:** Synthetic myofibrils producing 600% the kinetic torque of an olympic athlete while maintaining lean, aerodynamic predator silhouettes.
 *   **Dermis & Plumage:** Hardening micro-scales along forearms, shoulders, and spine. Iridescent, razor-thin black plumage along the nape and shoulder blades that bristles in response to adrenaline or territorial aggression.
@@ -19,28 +22,28 @@ The supersoldiers of Aeros-Legion are not cybernetic cyborgs; they are **biotech
 *   **Natural Weaponry:** Retractable nanocarbon talons sheathed beneath the fingernails, extending voluntarily to slice through alloy bulkheads.
 *   **Metabolic Signature:** Hyper-thermic furnace (runs at 104°F / 40°C); burns calories at terrifying rates, requiring hyper-concentrated nutrient paste.
 
-#### 2. The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Tsunari's Lineage)*
+#### 2. Mutation D: The Dromaeon Strain (The Raptor Archetype) — *The Terrestrial Stalker (Tsunari's Lineage)*
 *   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
 *   **Dermis & Covering:** Pure reptilian, completely non-feathered: fine, flexible pebbled scales along forearms and calves; smooth, reinforced obsidian-tinted keratin scutes along the shins, ankles, and lower spine.
 *   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with horizontal slit pupils; dual eyelids with a translucent nictitating membrane that shields against dust storms and blinding muzzle flashes.
 *   **Natural Weaponry:** **The Retractable Pedal Sickle-Claw**—a curved, four-to-six-inch nanocarbon talon on the inner digit of each foot designed for disemboweling leaping strikes, ceiling grips, and scaling sheer concrete walls.
 *   **Metabolic & Acoustic:** Sub-vocal throat resonating chamber capable of producing high-frequency hunting clicks and chirps; rapid-cycle adrenaline spikes.
 
-#### 3. The Lindwurm / Basilisk Strain — *The Ballistic Tank*
+#### 3. Mutation L: The Lindwurm / Basilisk Strain — *The Ballistic Tank*
 *   **Build & Skeleton:** Massive, heavy, brute-force mass; dense solid-core bone structures sacrificing supersonic agility for sheer structural invulnerability and crushing torque.
 *   **Dermis & Covering:** Interlocking hexagonal mineralized scales (slate, dark obsidian, or burnished bronze) that can chemically polarize and cross-link into living stone armor.
 *   **Sensory Array:** Slit reptilian pupils; forward-facing thermal pit organs above the nostrils that register infrared heat signatures in pitch-black subterranean ruins.
 *   **Natural Weaponry:** Heavy serrated forearm spurs; sub-dermal venom glands along the jaw producing paralytic neurotoxins and tissue-dissolving enzymes.
 *   **Metabolic Signature:** Cold, reptilian-efficient resting metabolism (resting body temp approx. 95°F / 35°C); requires external heat basking or chemical thermal packs when dormant.
 
-#### 4. The Simurgh / Phoenix Strain — *The Solar Regenerative Apex (Vram's Lineage)*
+#### 4. Mutation S: The Simurgh / Phoenix Strain — *The Solar Regenerator (Vram's Lineage)*
 *   **Build & Skeleton:** Towering, hyper-vascularized musculature with hollow titanium-matrix bones and ultra-elastic tendon attachments.
 *   **Dermis & Covering:** Smooth alabaster skin webbed with subcutaneous capillary tracks that glow liquid gold-crimson under emotional or combat arousal; iridescent obsidian-and-copper feather shafts along the collarbones, nape, and spine.
 *   **Sensory Array:** Wide, molten-gold avian pupils tracking bio-electric currents, thermal gradients, and aerial flight vectors.
 *   **Natural Weaponry:** Retractable pyric nanocarbon talons that superheat upon contact; cardiac auto-defibrillation that automatically restarts his heart after fatal flatlining.
 *   **Metabolic Signature:** Constant radiant solar fever (104°F–106°F); hyper-accelerated cellular mitosis that smokes and knits mortal wounds closed within minutes.
 
-#### 5. The Fenris / Chimera Strain — *The Terrestrial Vanguard*
+#### 5. Mutation F: The Fenris / Chimera Strain — *The Terrestrial Vanguard (The True Chimera)*
 *   **Build & Skeleton:** Heavy-set, muscular quadruped/biped hybrid build; thick neck and reinforced cervical vertebrae built to absorb vehicular collisions and artillery shockwaves.
 *   **Dermis & Covering:** Coarse, bristling fur and shock-absorbent calloused pads on knuckles and palms; defensive dermal quills along shoulders that flare when threatened.
 *   **Sensory Array:** Hyper-developed olfactory bulb (can scent human adrenaline, sweat, and blood miles away through dust storms); reflective *tapetum lucidum* eyes that shine silver-green in low light.
@@ -117,7 +120,7 @@ The Vaelen Synapse Lattice does not function in an emotional vacuum. It is a qua
 
 A single strain does not possess just one ability—it holds an **Arkun Tree**. Depending on the soldier’s Strain Chart and True Character, different Arkuns manifest:
 
-### 1. The Gryphon Strain (The Sky-Apex)
+### 1. The Gryphon Strain (The Sky-Lords)
 *   **Piezoelectric Kinetic Surge:** Honeycombed titanium bones store impact force, discharged through nanocarbon claws as devastating electrical/EMP shockwaves.
 *   **Avian Optic Overclocking:** Optic nerve processes visual stimuli at 600+ fps; tracks sniper rounds, thermal gradients, and enemy strike angles in bullet-time.
 *   **Inertial Feathering (Gravitational Slipstream):** Manipulates micro-barometric friction along feather shafts, allowing the soldier to negate terminal fall damage, perform mid-air directional shifts, and endure extreme G-forces.
@@ -192,9 +195,31 @@ Because Tsunari is an elite field geneticist, she can eventually piece together 
 
 ---
 
-## 9. Technological Baseline: Advanced, Preserved, and Lost Systems (2050)
+## 8.1 The True Vaelen: Extraterrestrial Anatomy & Sovereign Dominion
 
-The technological landscape of 2050 is not a clean, linear cyberpunk future. It is a stark, fragmented patchwork: hyper-advanced alien-corporate biotechnology existing alongside collapsed, salvaged 21st-century infrastructure.
+While Simulacra walk among humans disguised in terrestrial skin, the true Vaelen (such as **Archon Xaevis** and **Arbiter Lyraen**) inhabit the high orbital Spires and sealed atmospheric sanctums. They are ancient, post-biological demigods whose very physiology enforces terror.
+
+*   **Anatomical Morphology:**
+    *   *Stature:* Towering **7.5 to 8.5 feet tall**, characterized by an elongated, hyper-slender humanoid frame that moves with uncanny, weightless fluid grace.
+    *   *Dermis & Hemolymph:* Flawless, cool porcelain-slate skin without pores or hair. Their translucent flesh reveals sub-dermal capillaries carrying **liquid mercury and deep-indigo hemolymph** that glows softly in low light.
+    *   *Cranial & Facial Geometry:* A swept-back, elongated cranium housing dense neural wetware. No external ears (internal acoustic tympanums register sound frequencies through bone) and no nostrils (delicate vertical filtration slits line the neck).
+    *   *The Ocular Core:* Mirrored, completely black obsidian sclera. Inside, concentric rings of silver and violet rotate slowly, perceiving ultraviolet, thermal, and quantum bio-electric fields. They never blink or dilate like human eyes.
+    *   *Tele-Harmonic Voice:* Narrow, lipless mouths that barely part. Their speech is a direct psycho-acoustic resonance that vibrates the bones and auditory nerves inside the listener’s skull, sounding like crystalline chimes, bowed strings, and low static.
+    *   *Six-Jointed Hands:* Six elongated, multi-articulated slender digits engineered for the molecular micromanipulation of genetic codices.
+*   **Biological Capabilities & Paradox:**
+    *   *Harmonic Psionics:* Direct interface with *The Spire-Consensus*. A Vaelen Archon can project acoustic shockwaves capable of freezing a human's motor cortex or inducing fatal cerebral hemorrhages.
+    *   *Genetic Senescence (The Dying God):* Individual Vaelen possess near-immortal telomeres, but their species is evolutionary dead: millions of years of digital synchronization and cloning have permanently erased genetic recombination and meiosis. Their clones succumb to rapid malignant cellular collapse. **They are farming Earth because human DNA is the only known biological substrate with the chaotic epigenetic drive capable of reversing their extinction.**
+*   **The Stranglehold of Alien Control:**
+    1.  *Atmospheric Poisoning:* The Terra-Pylons continuously inject the high-nitrogen, sulfurous *Amber Haze* to make outdoor air fatal without corporate/alien scrubbers.
+    2.  *The Chrysalis Bribe:* Megacorporation directors (Apex, Vanguard, Aethelgard) are given longevity treatments that freeze their physical age at 30, compelling the human elite to enforce the alien harvest.
+    3.  *The Synapse Leash:* Chimeric soldiers are bound by titanium spinal ports; the Vaelen hold the master frequency to induce paralyzing migraines or instant cardiac flatlines.
+    4.  *Orbital Supremacy:* Spires enforce a complete space and aviation blockade, vaporizing any human projectile or aircraft.
+
+---
+
+## 9. Technological Baseline: Advanced, Preserved, and Lost Systems (Year 40 AS / 2072 CE)
+
+The technological landscape of 2072 is not a clean, linear cyberpunk future. It is a stark, fragmented patchwork: hyper-advanced alien-corporate biotechnology existing alongside collapsed, salvaged 21st-century infrastructure.
 
 ### 9.1 Hyper-Advanced Technologies (The Corporate & Alien Monopoly)
 These technologies are monopolized by the Consortium and the Vaelen Spire:
@@ -225,9 +250,9 @@ Systems that were eradicated by the climate collapse and the Vaelen invasion:
 
 ---
 
-## 10. The Living Ecosystem: Food Systems, Flora & Fauna (2050)
+## 10. The Living Ecosystem: Food Systems, Flora & Fauna (Year 40 AS / 2072 CE)
 
-In a world severed from global trade and choked by alien terraforming aerosols, food and ecology have violently adapted. The flora and fauna of 2050 provide concrete survival hurdles, tactical tools, and romantic sensory anchors.
+In a world severed from global trade and choked by alien terraforming aerosols, food and ecology have violently adapted. The flora and fauna of 2072 provide concrete survival hurdles, tactical tools, and romantic sensory anchors.
 
 ### 10.1 The Planetary Food Systems
 
@@ -262,7 +287,7 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
     *   *Behavior:* Having no natural predators left in the upper ruins, they are utterly fearless. In the sub-zero wasteland nights, they are drawn to extreme biological heat sources.
     *   *Plot Dynamic:* They swarm silently around Vram’s 104°F furnace heat, settling along his dark feathers and broad shoulders like living, glowing embers. A Dustborn folk legend claims a Zephyr-Moth will only rest on someone whose true human heart has not been permanently extinguished.
 
-#### B. The Dangerous (Apex Threats & Environmental Terrors)
+#### B. The Dangerous (Predatory Threats & Environmental Terrors)
 
 1.  **The Obsidian Strangler (Basalt Crotalid / Wire-Viper) — [Fauna]**
     *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Lindwurm genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.

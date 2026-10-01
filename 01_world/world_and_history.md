@@ -1,4 +1,4 @@
-# World & History: The Broken Biosphere (2050)
+# World & History: The Broken Biosphere (Year 40 AS / 2072 CE)
 
 ## 0. The Ancient Epochs: Prior Contact & The Reality of Mythical Beasts
 
@@ -8,12 +8,42 @@ Modern human history recorded the arrival of the Vaelen in 2032 as "First Contac
 *   Millennia before modern industrialization, a scientific vanguard of Vaelen maintained orbital outposts and subterranean research cradles across ancient Persia, Mesopotamia, the Mediterranean, and East Asia.
 *   **The Mythological Reality:** The mythical creatures embedded in ancient human folklore were **literal, physical biopunk constructs** engineered by Vaelen geneticists experimenting with terrestrial animal DNA:
     1.  **The Gryphon (Persian / Scythian Steppes):** Avian-panthera chimeras engineered as high-altitude territorial guardians and aerial scouts. (The direct genetic blueprint for today’s Aeros-Legion).
-    2.  **The Lindwurm / Basilisk (Ancient Eurasia & Indus Valley):** Subterranean reptilian apex excavators with dense mineralized dermal plating (the biological precursor to *Lithodermic Sintering*) and neuro-chemical venom glands.
+    2.  **The Lindwurm / Basilisk (Ancient Eurasia & Indus Valley):** Subterranean armored reptilian excavators with dense mineralized dermal plating (the biological precursor to *Lithodermic Sintering*) and neuro-chemical venom glands.
     3.  **The Simurgh / Phoenix (Mesopotamia / Levant):** Avian specimens possessing hyper-accelerated cellular regeneration and telomerase secretion (the precursor to *Cytokinetic Weaving* / healing).
     4.  **The Fenris / Chimera (Nordic / Hellenic Regions):** Hyper-muscular terrestrial pack predators with acoustic hunting frequencies and bone density capable of withstanding siege impacts.
     5.  **The Dromaeon / Scythe-Stalker (The "Velociraptor" Archetype — Gobi & Mesopotamian Deserts):** Deep-history dromaeosaurid genomes resurrected and modified by the Vaelen. Bipedal, pure reptilian pack-hunters with tough leathery hides, pebbled scales, no feathers, curved retractable nanocarbon sickle-talons, hyper-calculating problem-solving intelligence, and sub-vocal hunting clicks (the ancient source of desert demon and dragon legends).
 *   **The Great Withdrawal (ca. 500 BCE):** A violent internal schism among the ancient Vaelen forced their departure from Earth. Deprived of the Vaelen’s catalytic atmospheric frequency, the chimeras suffered metabolic collapse and gradually died out. Humanity preserved their existence through oral myth, temple carvings, and folklore.
-*   **The 2032 Reality:** When the Vaelen returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The "Griffin Units" engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Vaelen archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Dromaeons* also roam the unshielded wasteland, making the Rust Barrens an apex predator hunting ground.
+*   **The 2032 Reality:** When the Vaelen returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The "Griffin Units" engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Vaelen archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Dromaeons* also roam the unshielded wasteland, making the Rust Barrens a lethal predator hunting ground.
+
+### The Vaelen: Anatomical Profile & Biological Nature
+
+The Vaelen are not monstrous beasts or frail gray beings; they are **chillingly elegant, hyper-evolved, and post-biological demigods** who view humanity with the detached calculation of agricultural scientists.
+
+*   **Physical Appearance & Stature:**
+    *   **Height & Build:** Towering between **7.5 and 8.5 feet tall**, with an elongated, slender silhouette and an unnervingly weightless, fluid gait. Sub-surface bio-magnetic fields in their garments allow them to glide effortlessly without jarring physical footfalls.
+    *   **Skin & Flesh:** Translucent, cool porcelain or fine slate-chitin skin, completely smooth and hairless. Just beneath the dermis runs an intricate, glowing circulatory network of **liquid mercury and deep-indigo hemolymph** that oxidizes into a vivid violet when exposed to untreated terrestrial air.
+    *   **Cranial Structure:** A high, swept-back, elongated cranium housing hyper-dense neural wetware. No eyebrows, no body hair.
+    *   **Facial Features:** Sculpted, marble-like planes. They have **no external ears** (internal harmonic tympanums along the jawbone register micro-vibrations) and **no human nostrils**—only delicate, vertical filtration slits along the throat and neck that flex when testing ambient atmospheric chemistry.
+    *   **The Eyes:** Massive, almond-shaped eyes with completely **mirrored obsidian sclera** (no white). Inside, multi-layered concentric rings of pale silver, violet, or liquid mercury rotate slowly. Their eyes never dilate or blink like mammalian eyes; instead, an inner crystalline membrane refracts light across the ultraviolet, thermal, and electromagnetic spectrums.
+    *   **The Voice:** A narrow, lipless mouth that barely parts. They communicate through **tele-harmonic acoustic resonance** that bypasses air displacement and vibrates the bones and auditory nerves directly inside the listener’s skull, sounding like layered glass chimes, distant cello strings, and deep white noise.
+    *   **Hands:** Six elongated, multi-jointed slender digits on each hand, designed for molecular micromanipulation of genetic sequences and holographic interfaces.
+    *   **Attire & Regalia:** Floor-length mantles and tailored tunics woven from **flowing black bio-crystalline nanoweave** (obsidian glass that moves like liquid silk), incorporating integrated floating anti-gravity rings, neural siphon docks, and harmonic tuning staves.
+
+*   **Biological Capabilities & The Fatal Flaw (*Genetic Senescence*):**
+    *   **Harmonic Psionics:** Tied into a planetary quantum biological web (*The Spire-Consensus*). An Archon can emit targeted infrasonic frequencies capable of inducing cerebral hemorrhages, motor-cortex paralysis, or sudden cardiac arrhythmia in unshielded biological targets.
+    *   **Organogenesis & Retroviral Mastery:** Capable of synthesizing targeted aerosols, neuro-suppressors, or cellular mutagens within minutes.
+    *   **Cellular Immortality vs. Sterility:** While individual Vaelen can live for thousands of years without telomere degradation, their germline genome suffers from **Genetic Senescence**—a fatal loss of meiosis and recombination caused by millions of years of cloning and neural synchronization. They cannot reproduce naturally, and their clones collapse from cellular rot. **They require the chaotic epigenetic drive and emotional neurochemistry of living human hosts to incubate their species' survival.**
+    *   **Atmospheric Requirements:** Earth’s natural nitrogen-oxygen atmosphere is caustic to their deep pulmonary tissue. They require a dense, high-nitrogen, sulfurous, and methane-tinged blend—which is why their Terra-Pylons deliberately pump out the **Amber Haze**.
+
+### The Five Pillars of Alien Dominion (How They Control Earth)
+
+The Vaelen do not maintain control merely through passive life-support; they have constructed a comprehensive, five-tiered stranglehold over humanity:
+
+1.  **Atmospheric Monopoly (The Oxygen Tax):** By deploying planetary Terra-Pylons that spew sulfurous aerosols (*The Amber Haze*), the Vaelen poisoned Earth's outdoor biosphere. Inside the Domes, the Vaelen license the climate shields; outside in the Gray Ring, survival depends on scrubber filters. Threatening to shut down a Dome's filtration field guarantees the asphyxiation of hundreds of millions of people in hours.
+2.  **Corporate Oligarch Bribery (*The Chrysalis Longevity*):** The Vaelen bought the human billionaire class without firing an infantry round. Board members of Apex GeneSys, Vanguard Dynamics, and Aethelgard Heavy are 90–110 years old, yet preserved in youthful 30-year-old bodies via regular Vaelen Chrysalis treatments. If an executive steps out of line, treatments cease, causing rapid catastrophic aging and agonizing death within months. The human elite polices their own species to preserve their private immortality.
+3.  **The Neurological Leash (*The Synapse Lattice*):** Humanity’s most dangerous weapons—the winged Aeros-Legionnaires and augmented heavy cohorts—have titanium siphon ports grafted directly into their cervical spine. Archon Xaevis holds the master broadcast frequency: he can flood their nervous systems with crippling "Lattice Burn" migraines to enforce obedience, or flip a master kill-switch that instantly flatlines their hearts.
+4.  **Covert Infiltration (*The Simulacra*):** The Vaelen gestate deep-cover bio-clones piloted by embryonic alien neuro-nodes (such as Doc Mercer). Humans never know if their doctor, rebel squad leader, or spouse is an alien sleeper agent awaiting an activation harmonic. Pervasive paranoia prevents unified resistance.
+5.  **Orbital Supremacy & Kinetic Lances:** The three massive Spires moored in geostationary orbit shoot down any human aircraft, rocket, missile, or satellite launch before it breaches the upper atmosphere. Humanity is permanently confined to ground level.
 
 ---
 
@@ -24,10 +54,10 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 *   **Year 0: The Great Storm (2032 CE):** The arrival of the three Vaelen Spires in low orbit. The initial activation of the terra-pylons triggered violent, continent-wide ion storms, acid tempests, and the permanent blanketing of the planet in the Amber Haze.
 *   **BS (Before the Storm):** The pre-collapse era of blue skies, nation-states, un-rationed air, and natural biology.
 *   **AS (After the Storm):** The current era of Green Domes, atmospheric phasing, and chimeric supersoldiers.
-*   **The Present Day:** **Year 18 AS (18 After the Storm / 2050 CE).**
+*   **The Present Day:** **Year 40 AS (40 After the Storm / 2072 CE).**
 *   **Generational Terms:**
-    *   **The Sky-Born (The Old-Worlders):** Anyone born before Year 0 (over 18 years old), who carries childhood memories of natural rain, unshielded sunshine, and green grass. Both Vram (born 11 BS / age 29) and Tsunari (born 8 BS / age 26) are Sky-Born.
-    *   **The Storm-Born:** Anyone 18 years old or younger (like Ren, the courier) who has never seen a natural blue sky and knows only the copper twilight of the Amber Haze and the hum of air scrubbers.
+    *   **The Sky-Born (The Old-Worlders):** Anyone born before Year 0 (over 40 years old), who carries living childhood memories of natural rain, unshielded sunshine, and green grass. Characters like **Doc Mercer (age 64)**, **Gideon Cross (age 72)**, **Madame Chen (age 61)**, and **Director Elena Corvus (chronologically age 78, preserved at age 30 via Chrysalis)** are Sky-Born.
+    *   **The Storm-Born:** Anyone born in Year 0 AS or later (40 years old or younger). They have **never seen a natural blue sky in their lives** and know only the copper twilight of the Amber Haze, the hum of air scrubbers, and the shadow of the Spires. Both **Commander Vram Tyage (born Year 12 AS / age 28)** and **Dr. Tsunari Thorne (born Year 14 AS / age 26)** are genuinely **Storm-Born**—children of the ashes fighting for a sky they have only ever witnessed on ancient archival glass spools.
 
 ---
 
@@ -48,15 +78,28 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 *   The **Consortium of Eden** was born: an autocratic coalition of corporate oligarchs and Vaelen overseers.
 *   Construction completed on the first **Green Domes**—monumental atmospheric bio-shields enclosing 70% of surviving humanity.
 
-#### 6 AS – 14 AS (2038–2046 CE): The Great Bulkhead Partition
+#### 5 AS – 15 AS (2037–2047 CE): The Great Bulkhead Partition & Early Chimeras
 *   The 100-meter kinetic shield walls were sealed. 30% of the population—refugees, indebted laborers, and dissidents—were excluded into the **Gray Sectors**.
 *   The Consortium halted all external air scrubbing. Outside the Domes, the air permanently oxidized into the toxic, sulfurous **Amber Haze**.
-*   Apex GeneSys and Aethelgard began the Chimeric Soldier program, harvesting resilient orphan children (including Vram in 4 AS) for the Chrysalis Vats.
+*   Early, crude chimeric soldier trials begin using kidnapped Gray Sector youth; over 90% fail from synaptic rejection.
+*   **Year 12 AS (2044 CE):** Vram Tyage is born in the Gray Sector.
+*   **Year 14 AS (2046 CE):** Tsunari Thorne is born in the Gray Sector.
 
-#### 15 AS – 18 AS (2047–2050 CE): The Atmospheric Phasing (The Current Crisis)
-*   The true nature of the Vaelen terraforming protocol becomes undeniable: the Spires are altering Earth into a high-nitrogen, methane-rich atmosphere for their dying race.
-*   Outside the Domes, baseline humans succumb to **Cellular Asphyxia** (*The Choke*).
-*   **The 14-Month Ticking Clock:** According to telemetry decrypted by Tsunari in Year 18 AS, planetary atmospheric inversion will reach irreversible terminal saturation in **14 to 18 months**, suffocating all unprotected human life.
+#### 18 AS – 25 AS (2050–2057 CE): The Perfected Chrysalis Grinder & Military Ascent
+*   The Vaelen deploy refined Synapse Lattice dampeners. Corporate Tithe Sweeps ramp up across Gray Sector orphanages.
+*   **Year 19 AS (2051 CE):** At age 7, Vram Tyage is seized in a tithe sweep by Apex GeneSys, entering the Chrysalis Vats to emerge as an Aeros-Legionnaire.
+*   The Green Domes solidify into generational, high-density metropolises; outside the walls, the Gray Ring develops autonomous Scrubber Guilds, black markets, and transit rails.
+*   Escaped laboratory chimeras establish breeding packs across the Rust Barrens, forming a dangerous wild ecology.
+
+#### 31 AS (2063 CE): The Thorne Execution & Null Inoculation
+*   Dr. Arthur Thorne discovers Consortium telemetry confirming the scheduled planetary extinction harvest.
+*   Before his execution by Aeros-Legion enforcers, Dr. Thorne secretly inoculates 17-year-old Tsunari with an uncorrupted **Dromaeon (Raptor) embryo** and Amber Haze antibody culture.
+*   Tsunari flees into Sector 09, taken in by Doc Aaron Mercer and the subterranean Null-Circuit resistance.
+
+#### 38 AS – 40 AS (2070–2072 CE): The Final Conversion Phase (The Present Day)
+*   The true nature of the Vaelen terraforming protocol reaches its endgame: the Spires accelerate sulfur and nitrogen injection to prepare Earth for the arriving Vaelen colonial migration.
+*   Outside the Domes, baseline humans succumb to acute **Cellular Asphyxia** (*The Choke*).
+*   **The 14-Month Ticking Clock:** Telemetry stolen by Tsunari in **Year 40 AS** reveals that the Consortium will permanently vent remaining oxygen from Sector 09 and seal the Green Domes in **14 months**, liquidating baseline humanity as raw biomass substrate.
 
 ---
 
@@ -77,7 +120,7 @@ With the collapse of the nation-states and the descent of the Vaelen Spires, the
 
 ## 3. Societal Division, Demographics & The Chimeric Pipeline
 
-### 3.1 Planetary Demographics (2050 Global Census)
+### 3.1 Planetary Demographics (Year 40 AS / 2072 Global Census)
 From a pre-collapse peak of 8 billion, the global human population has stabilized at approximately **1.4 billion** survivors across the habitable zones:
 
 ```
@@ -90,7 +133,7 @@ From a pre-collapse peak of 8 billion, the global human population has stabilize
 ├── 30% (~420 Million)  ──  IN THE GRAY SECTORS & RUINS (The Dustborn / Fringe Population)
 │    └── Disenfranchised enclaves, debt-refugees, prospectors, and Null-Circuit rebels
 │
-└── <0.05% (~600,000)   ──  THE CHIMERIC MILITARY CASTE (Apex State-Owned Weapons)
+└── <0.05% (~600,000)   ──  THE CHIMERIC MILITARY CASTE (Consortium State-Owned Weapons)
 ```
 
 *   **The 70% Dome Population (Preserved Normality):** The Green Domes are not tiny executive bubbles; they are sprawling regional megastructures enclosing hundreds of square miles. The vast majority of surviving humans live here with recognizable civil routines: schools, transit networks, cafes, sports leagues, and domestic apartment life.
@@ -115,7 +158,7 @@ Candidates are subjected to a brutal 3-stage triage protocol:
 3.  **The Hypoxia & Sensory Focus Crucible:** Children are sealed in declining-pressure atmospheric chambers while bombarded with disorienting sensory spikes. Only candidates whose heart rates *decelerate* into cold predatory focus rather than panic are selected for implantation.
 
 #### 3. Transformation & The 70% Attrition Rate
-*   **The Chrysalis Vats:** Survivors are placed into biomechanical amniotic pods for 18–24 months. Their marrow is infused with honeycombed titanium alloys; retroviruses splice apex predator genes into their muscle and neural tissue; and the **Silver Spine (Synapse Lattice)** is surgically grafted into the brainstem.
+*   **The Chrysalis Vats:** Survivors are placed into biomechanical amniotic pods for 18–24 months. Their marrow is infused with honeycombed titanium alloys; retroviruses splice transgenic predator genes into their muscle and neural tissue; and the **Silver Spine (Synapse Lattice)** is surgically grafted into the brainstem.
 *   **Selective Synaptic Ablation (Targeted Memory Scrubbing):**
     *   *What Is Preserved:* Motor cortex memory, spatial navigation, survival instincts, linguistic competence, and subconscious tactical reflexes. The military cannot afford to erase their problem-solving intelligence or learned combat skills.
     *   *What Is Erased:* Biographical identity, real birth names, family faces, emotional attachments, and childhood grief—ensuring they cannot mourn their past or form rebellious personal loyalties. The child is redesignated with a military serial number (e.g., *Subject AE-701*).
@@ -151,7 +194,7 @@ The Gray Sectors are gritty, hazardous, and crowded, but they are living communi
 1.  **Why do the Vaelen need human DNA at all?** 
     *   *The Twist:* The Vaelen are an ancient, biologically dying species facing genetic stagnation. They cannot reproduce naturally. They need human genomic plasticity to incubate their next evolutionary phase.
 2.  **What is the Origin of the Griffin Units?**
-    *   They are not born in labs from scratch; they are the strongest, most genetically resilient children kidnapped from the Gray Sectors during early childhood, stripped of memory, and spliced with chimeric apex-avian retroviruses.
+    *   They are not born in labs from scratch; they are the strongest, most genetically resilient children kidnapped from the Gray Sectors during early childhood, stripped of memory, and spliced with transgenic avian retroviruses.
 3.  **The Hidden Vault:**
     *   Rumors exist of a pre-collapse seed and genome repository ("Project Gaia-Zero") hidden beneath the tectonic bedrock of the northern wastes, containing uncorrupted planetary DNA.
 4.  **The Internal Alien Schism (The Harvesters vs. The Preservers):**

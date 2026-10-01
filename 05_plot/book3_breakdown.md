@@ -2,7 +2,7 @@
 
 > **Series:** The Storm-Born Cycle (Book 3 of 3)  
 > **Structure:** 24 Chapters | **Format:** Alternating Dual First-Person (or Third-Person Limited) POV — **Tsunari** & **Vram**  
-> **Core Romance Arc:** Apex Power Couple / Unbreakable Bond & Sovereign Devotion (Heat: 🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️)  
+> **Core Romance Arc:** Sovereign Equals / Unbreakable Bond & Primal Devotion (Heat: 🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️)  
 > **Settings:** Sector 09 Staging Ground, High-Altitude Gunship Fleet, Orbital Spire Prime, Spire Meridian, and The Open Earth
 
 ---
@@ -85,15 +85,15 @@
     *   *Setting:* The center of the Throne Chamber.
     *   *Core Action:* Refusing to let him die, Tsunari executes a maximum 3-second Quantic Phase-Stutter, blurring through the crossfire and plunging the master viral syringe directly into Vram’s primary spinal siphon port.
     *   *The Miracle:* The viral cure dissolves his lattice. Seconds later, his cardiac core unleashes a blinding thermal-electric pulse—**The Rebirth**. Vram gasps, his heart restarting with the raw, uninhibited fire of a true Phoenix.
-*   **Chapter 21 (Dual POV): The Apex Execution**
+*   **Chapter 21 (Dual POV): The Sovereign Execution**
     *   *Setting:* The shattering throne chamber.
     *   *Core Action:* Fighting as a perfectly synchronized battle couple. Vram overclocks The Pyric Crucible, melting through Xaevis’s psionic forcefield, while Tsunari executes an acrobatic leaping strike, her pedal sickle-claws slicing through Xaevis’s primary neural core. The alien tyrant falls.
 *   **Chapter 22 (Tsunari): Reversing the World**
     *   *Setting:* The master atmospheric console.
-    *   *Core Action:* Tsunari engages the planetary reverse command. Across six continents, the monumental Terra-Pylons shudder, venting billions of tons of purified oxygen and moisture, neutralizing eighteen years of toxic Amber Haze.
+    *   *Core Action:* Tsunari engages the planetary reverse command. Across six continents, the monumental Terra-Pylons shudder, venting billions of tons of purified oxygen and moisture, neutralizing forty years of toxic Amber Haze.
 *   **Chapter 23 (Vram): The Falling Domes**
     *   *Setting:* The observation deck of Spire Prime.
     *   *Core Action:* Together, Vram and Tsunari watch Earth below. The artificial forcefields of the Green Domes flicker and shut down. Baseline humans and augmented soldiers walk out together onto the blooming earth.
 *   **Chapter 24 (Dual POV): Under the Open Sky**
-    *   *Setting:* High mountain meadows above Sector 09 (Year 19 AS).
+    *   *Setting:* High mountain meadows above Sector 09 (Year 41 AS).
     *   *Romance Beat (🌶️🌶️🌶️🌶️) & Resolution:* Six months later. Vram and Tsunari stand together on a ridge overlooking a vibrant, wild world. Real, unshielded rain falls over their skin. No collars, no leashes, no fevers. They are sovereign, bonded, and completely free.

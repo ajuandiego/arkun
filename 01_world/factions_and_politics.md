@@ -23,7 +23,7 @@
 
 *   **Structure:** A corporate-technocratic triumvirate governing the Green Domes. The human elite traded planetary sovereignty and 90% of Earth’s population for permanent biological youth, climate-shielded biomes, and corporate dominion over the remnants of civilization.
 *   **The Archeo-Genetic Monopolies (Strain Patents):** The megacorporations do not merely manufacture equipment; they hold proprietary patents over the ancient Vaelen beast genomes excavated from pre-collapse cradles:
-    *   **Apex GeneSys:** Proprietary owners of the **Gryphon Strain** (Aeros-Legion) and the **Simurgh Strain** (regenerative medicine / Chrysalis therapy). Headed by Director Elena Corvus.
+    *   **Apex GeneSys:** Proprietary owners of the **Gryphon Strain** (Aeros-Legion) and the **Simurgh Strain** (regenerative medicine / Chrysalis therapy). Headed by Director Elena Corvus. Within Eden Dome Alpha, flagship facilities like **Bio-Lab 4** house junior baseline researchers (such as Sora Thorne) who are kept entirely ignorant of the scheduled extinction harvest.
     *   **Aethelgard Security:** Paramilitary conglomerate holding patents over the **Lindwurm Strain** (heavy stone-armored infantry) and the **Fenris Strain** (urban pacification shock-troops).
     *   **Vanguard Atmospheric:** Controls the **Dromaeon Strain** (rapid ground tracker-killers) alongside barrier dome engineering, air scrubbers, and weather control fields.
 *   **Corporate Cold Wars & Paranoia:**
@@ -37,23 +37,31 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The Four Main Chimeric Divisions:**
-    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Vram Tyage):** The aristocratic apex predators of the skies. Engineered with massive 14-foot biological wings, hollow titanium-reinforced bone matrices, and high-altitude thermal physiology, they dive from the High Aerie to enforce absolute air superiority without requiring aircraft or fuel.
+    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Vram Tyage):** The aristocratic lords of the skies. Engineered with massive 14-foot biological wings, hollow titanium-reinforced bone matrices, and high-altitude thermal physiology, they dive from the High Aerie to enforce absolute air superiority without requiring aircraft or fuel. Key roster:
+        *   *Commander Vram Tyage (Aeros-Actual):* Spliced Simurgh/Gryphon flight commander.
+        *   *Lt. Cassian Vance (Talon-Two):* Cynical tactical second-in-command.
+        *   *Sgt. Veda Frost (Screech):* Harpy/Dromaeon close-quarters shock vanguard.
+        *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent, sharp-tongued skirmisher and squad morale anchor (The "Ridoc" archetype).
+        *   *Spc. Tobin "Toby" Vance (Kestrel):* Chivalrous, gentle Simurgh scout and optical quartz whittler (The "Liam Mairi" archetype).
     2.  **The Dromaeon Stalkers (Raptor Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
-    3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms.
+    3.  **The Lindwurm Bastions (Draconic/Basilisk Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms. Exemplified by veteran heavy breachers like **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
     4.  **The Fenris Shock-Cohorts (Chimera Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
-*   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas.
+*   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas. (Vividly seen in the combat banter between Boran the Lindwurm and Ferrin Calder).
 *   **Pack Loyalty vs. The Corporate Leash:**
     *   Soldiers are stripped of family names and conditioned via the Vaelen Synapse Lattice, but they share a feral, tight-knit camaraderie. They do not die for corporate profits; they die for their **Flight Commanders and Strain Packs**.
-    *   *The Consortium's Nightmare (The Arkun Awakening):* If a soldier's **True Character** unlocks an uncontrolled Arkun, the Synapse Lattice can be overwhelmed. Corporate commanders live in constant fear of a chimeric mutiny led by an undefeated apex commander like Vram Tyage.
+    *   *The Consortium's Nightmare (The Arkun Awakening):* If a soldier's **True Character** unlocks an uncontrolled Arkun, the Synapse Lattice can be overwhelmed. Corporate commanders live in constant fear of a chimeric mutiny led by an undefeated legendary commander like Vram Tyage.
 
 ---
 
-## 4. The Dustborn Resistance (The Managed Petri Dish)
+## 4. The Dustborn Resistance & Undercity Networks
 
-*   **Territory:** The collapsed, half-buried mega-cities and subterranean subway networks of the Gray Sectors.
+*   **Territory:** The collapsed, half-buried mega-cities, subterranean subway networks, and industrial sumps of the Gray Sectors.
 *   **The "Curated Terrarium" Reality:**
     *   The Null-Circuit was not an undetected underground movement. Because **Doc Aaron Mercer was a deep-cover Vaelen Simulacrum**, the Spire deliberately allowed the rebel cell to operate.
     *   The harsh, unshielded survival conditions of the Gray Sectors were used as an evolutionary incubator to force Tsunari into synthesizing the genetic cure the dying alien race required.
+*   **The Essential Logistics & Autonomous Coalitions:**
+    1.  **The Air Scrubber Guild & The Iron Market (Madame Vrena Chen):** The lifeblood of Sector 09's baseline population. Controls municipal air reclamation banks, certified filter exchanges, and civilian defense networks. While suspicious of chimeric soldiers, their alliance with Tsunari provides the essential oxygen and infrastructure to withstand corporate purges.
+    2.  **The Overground Railroad (Kira Brandt):** Clandestine Fenris-led desert smuggling convoys operating modified diesel-electric sand-crawlers across the toxic Rust Barrens, linking isolated survival bunkers, moving illegal technology, and evading orbital satellite nets.
 *   **The Post-Betrayal Fracture (The Schism):**
     *   When Mercer’s true nature as an alien Simulacrum is exposed in Chapter 20, the resistance fractures violently:
         1.  **The Zealots of Terra:** Hardline human purists who declare that all modified biology—including chimeric supersoldiers like Vram—must be slaughtered alongside the aliens to keep human DNA pure.
@@ -77,17 +85,17 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
 
 ## 6. The Spiritual Landscape: Old Faiths & "The Enlightened"
 
-In Year 18 AS, the loss of unshielded sky and the collapse of global infrastructure fundamentally reshaped human belief.
+In Year 40 AS, the loss of unshielded sky and the collapse of global infrastructure fundamentally reshaped human belief.
 
 ### 1. The Persistence of Old-World Religions (The Quiet Shrines)
 Every pre-collapse religious tradition made desperate, profound theological efforts to contextualize the Great Storm and the extraterrestrial arrival within their sacred scriptures:
 *   **Christianity:** Viewed as the fulfillment of apocalyptic prophecy—the opening of the Seals, the trumpet judgments, and the Great Tribulation.
 *   **Islam:** Contextualized through eschatological signs of *Yawm al-Qiyamah* (the Day of Resurrection) and the choking trials of *Ad-Dukhan* (the smoke/haze).
 *   **Judaism:** Interpreted as the deep shadows of *Chevlei Mashiach* (the birth pangs of redemption) preceding ultimate renewal.
-*   **Hinduism:** Recognized as the violent, accelerated apex of *Kali Yuga*, the cosmic cycle where moral order dissolves before Kalki cleanses the earth.
+*   **Hinduism:** Recognized as the violent, accelerated zenith of *Kali Yuga*, the cosmic cycle where moral order dissolves before Kalki cleanses the earth.
 *   **Buddhism:** A stark, visceral manifestation of *Anicca* (impermanence) and *Dukkha* (suffering), stripping away material illusion.
 
-**The Reality of Practice in Year 18 AS:**
+**The Reality of Practice in Year 40 AS:**
 *   *No Congregational Masses:* Grand churches, cathedral basilicas, mosques, and temples are effectively gone. Massive public gatherings in the Gray Sectors invite corporate tithe sweeps, drone raids, or stampedes during acid storms; within the Green Domes, corporate boards actively suppress autonomous dogmatic assemblies.
 *   *Domestic & Clandestine Faith:* Faith has retreated into private homes and concealed corners. A faded icon taped to a rusted titanium wall; a tattered Quran or Bible wrapped in plastic against acid rain; prayers whispered into the rubber seal of a respirator before venturing into the dust. It is quiet, enduring, and focused on personal resilience.
 
@@ -155,7 +163,7 @@ Where traditional religions offer quiet spiritual endurance, **The Enlightened**
 
 ## 8. The Death of Ideology: Pure Survival Pragmatism
 
-*   **No Political Preaching:** In 2050, the endless cultural and political debates of the early 21st century are treated as ancient, irrelevant noise. When the atmosphere fails, rhetoric cannot filter nitrogen, and political manifestos cannot feed starving lungs.
+*   **No Political Preaching:** In Year 40 AS (2072 CE), the endless cultural and political debates of the early 21st century are treated as ancient, irrelevant noise. When the atmosphere fails, rhetoric cannot filter nitrogen, and political manifestos cannot feed starving lungs.
 *   **The Shared Perspective:** Both leads share a razor-sharp common-sense realism. 
     *   Neither is an ideologue or a crusader.
     *   They don't fight for a political party, a moral theory, or a flag.

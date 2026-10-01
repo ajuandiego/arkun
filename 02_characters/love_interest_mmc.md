@@ -6,21 +6,21 @@
 
 ## 1. Character Identity & Overview
 *   **Role:** Supreme Commander of Aeros-Legion 7; Chief Military Instrument of the Consortium and Vaelen Ascendancy.
-*   **Age:** 29 (Born Year 11 BS; Sky-Born).
+*   **Age:** 28 (Born Year 12 AS; Storm-Born).
 *   **Faction:** Aeros-Legion (Consortium enforcer / Secretly rogue).
-*   **Archetype:** The Lethal Monster / Touch-Starved Weapon Awoken by Love / Solar Phoenix Apex.
+*   **Archetype:** The Lethal Monster / Touch-Starved Weapon Awoken by Love / Solar Phoenix Sovereign.
 
 ---
 
 ## 2. Appearance & Sensory Markers
-*   **Build & Stature:** Towering (6'4" / 193 cm), built like an apex predator—broad-shouldered, narrow-waisted, packed with hyper-dense chimeric muscle that moves with eerie, silent grace.
-*   **Facial Features, Hair & Eyes:** Severe, sculpted aristocratic planes with youthful, unlined skin in his physical prime (age 29); thicker, defined masculine brows and sharp cheekbones; a crisply groomed, short-to-medium dark beard with stylish angular flares along his jawline (Wolverine / Logan style); molten-gold incandescent eyes glowing with a soft predatory ember; thick textured dark raven hair pulled back into a disciplined warrior man-bun (topknot) at the crown, with tapered sides and loose masculine strands framing his temples.
-*   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a fitted, sleeveless dark military flight tunic in charcoal ballistic weave with burnished copper piping and Aeros-Legion rank insignia, exposing his sculpted shoulders and forearms; articulated dark leather combat breeches; wide officer's utility belt with a hip sidearm holster; reinforced titanium-toed calfskin flight boots (no coat or jacket).
-*   **Chimeric / Bio-Traits (The Phoenix Lineage & Mutation C):**
-    *   **Mutation C Follicular Traits:** Splicing grants slightly enhanced mammalian traits: the tops of his shoulders and the back of his neck feature fine dark hair blending into his sleek plumage, and his bare muscular forearms carry natural, ruggedly masculine hair (slightly denser than baseline human, but distinctly human and athletic, never beastly).
-    *   **Incandescent Plumage:** Iridescent, obsidian feather shafts that shift into blazing copper-gold and deep crimson along his nape, collarbones, and upper spine; they bristle and warm when adrenaline or protectiveness spikes.
-    *   **Bioluminescent Capillaries:** Under high emotional arousal, rage, or physical exertion, his subcutaneous vascular tracks pulse with liquid gold-crimson fire beneath his skin.
-    *   **Retractable Pyric Talons:** Nanocarbon claws recessed beneath his fingernails that can conduct intense thermal energy, superheating to white-hot temperatures on contact.
+*   **Build & Stature:** Towering (6'4" / 193 cm), built like a lethal bird of prey—broad-shouldered, narrow-waisted, packed with hyper-dense transgenic muscle that moves with eerie, silent grace.
+*   **Facial Features, Hair & Eyes:** Severe, sculpted aristocratic planes with youthful, smooth unlined skin in his physical prime (age 28); defined masculine brows and sharp cheekbones; a crisply groomed, short-to-medium dark beard stylishly sculpted along his jawline (human grooming choice); molten-gold incandescent eyes glowing with a soft predatory ember; thick textured dark raven hair pulled back into a disciplined warrior man-bun (topknot) at the crown, with tapered sides and loose masculine strands framing his temples.
+*   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a fitted, sleeveless dark military flight tunic in charcoal ballistic weave with burnished copper piping and Aeros-Legion rank insignia, exposing his sculpted, smooth athletic shoulders and arms; articulated dark leather combat breeches; wide officer's utility belt with a hip sidearm holster; reinforced titanium-toed calfskin flight boots (no coat or jacket).
+*   **Biological Mutation Traits (Mutation S / Phoenix with Mutation G / Gryphon Wings):**
+    *   **14-Foot Biological Wings (Mutation G):** A massive, powerful pair of feathered wings with a **14-foot wingspan** anchored into dense, reinforced thoracic musculature between his shoulder blades. The primary and secondary flight feathers are heavy, razor-edged obsidian quills that shimmer with iridescent copper-gold and deep crimson highlights, flaring with radiant heat when airborne. When grounded, the wings fold tightly against his back beneath custom spinal openings in his flight tunic.
+    *   **Incandescent Plumage (Mutation S):** Sleek, iridescent obsidian feather shafts that shift into blazing copper-gold and deep crimson along his nape, collarbones, and upper spine; they lie flat in rest and bristle/warm when adrenaline or protectiveness spikes.
+    *   **Bioluminescent Capillaries (Mutation S):** Under high emotional arousal, rage, or physical exertion, his subcutaneous vascular tracks pulse with liquid gold-crimson fire beneath smooth, taut skin.
+    *   **Retractable Pyric Talons (Mutation S):** Nanocarbon claws recessed beneath his fingernails that can conduct intense thermal energy, superheating to white-hot temperatures on contact.
     *   **The Siphon Ports:** Two circular titanium-rimmed neural ports implanted at the base of his skull and mid-thoracic spine for tactical telemetry feeds and sensory conditioning.
 *   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, bitter clove, and overwhelming, radiant body heat.
 
@@ -29,7 +29,7 @@
 ## 3. Psychological Architecture
 
 ### The Ghost (The Erased Identity)
-Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His biographical memories were systematically scrubbed through selective synaptic ablation. Yet, in his fever dreams, he remembers a song hummed over an oil lantern and the smell of desert rain. He knows he had a name before he was given a serial number: *Subject AE-701*.
+Taken from a Gray Sector orphanage at age seven (in Year 19 AS) by Consortium geneticists. His biographical memories were systematically scrubbed through selective synaptic ablation. Yet, in his fever dreams, he remembers a song hummed over an oil lantern and the smell of desert rain. He knows he had a name before he was given a serial number: *Subject AE-701*.
 
 ### The Lie He Believes
 > *"I am not a man; I am an incinerator protocol in armor. If I feel anything beyond duty, the cage snaps shut and burns my mind to ash."*
@@ -44,7 +44,7 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 *   **The Living Thermal Furnace (104°F–106°F):** In the freezing nights of the wasteland and during sub-zero dust storms, his hyper-thermic solar metabolism acts as a vital heat engine, keeping Tsunari alive through bitter conditions.
 *   **Cytokinetic Cellular Mitosis (Self-Healing):** His immune and cellular regeneration cycle runs at ten times baseline human speed; flesh wounds smoke and knit together within minutes.
 *   **Cardiac Auto-Defibrillation (The Rebirth):** If his heart stops or he flatlines in battle, his cardiac core automatically discharges a massive thermal-electric pulse, restarting his heart—a literal manifestation of the Phoenix rising from the ashes.
-*   **Apex Aerial Reflexes & Biological Flight:** Master of high-altitude autonomous flight on his 14-foot feathered wings, capable of pulling 12G maneuvers and riding thermal updrafts without fatigue. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
+*   **Supersonic Reflexes & Biological Flight:** Master of high-altitude autonomous flight on his 14-foot feathered wings, capable of pulling 12G maneuvers and riding thermal updrafts without fatigue. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
 
 ---
 
@@ -60,9 +60,9 @@ Taken from a Gray Sector orphanage at age seven by Consortium geneticists. His b
 The Arkun formula applied to Vram Tyage:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
-*   **Genetic Strain Chart:**
-    *   **80% Simurgh / Phoenix Strain:** Hyper-accelerated telomerase regeneration, pyric thermal metabolism, incandescent capillary glow, and cardiac rebirth.
-    *   **20% Gryphon Strain:** Avian hollow titanium bone matrices, barometric feathering, and high-altitude G-force resistance.
+*   **Genetic Mutation Chart:**
+    *   **80% Mutation S (Simurgh / Phoenix Strain):** Hyper-accelerated telomerase regeneration, 106°F pyric thermal metabolism, incandescent capillary glow, and cardiac rebirth.
+    *   **20% Mutation G (Gryphon Strain):** 14-foot biological feathered wings, avian hollow titanium bone matrices, barometric feathering, and high-altitude G-force resistance.
 *   **True Character / Core Psychological Drive:**
     *   *The Indomitable Hearth / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a fierce, unyielding drive to be a sanctuary rather than a weapon of ruin—a warrior who would burn himself to cinders to keep his partner safe.
 *   **Signature Arkun: The Pyric Crucible (Solar Radiance & Kinetic Convection)**
@@ -73,7 +73,7 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 
 ## 7. Romantic Dynamics & Tropes with the FMC
 
-### The Touch-Starved Apex Predator
+### The Touch-Starved Sovereign
 *   Because of his military role and the chilling bio-lattice, he has gone over a decade without experiencing gentle, uncalculated human physical contact. He is accustomed only to cold surgical needles, bio-ports, and violence.
 *   When Tsunari first touches his bare skin—even in hostility or triage—the deafening psychic static inside his skull instantly drops to absolute silence.
 *   **The Reaction:** A terrifying, disorienting shock of pleasure and peace so profound it brings him to his knees before her.

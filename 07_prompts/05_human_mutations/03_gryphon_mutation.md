@@ -1,6 +1,6 @@
-# Anatomical Codex: Gryphon Human Mutation (The Sky-Apex)
+# Anatomical Codex: Gryphon Human Mutation (The Sky-Lord)
 
-> **Lineage:** Gryphon Archeo-Genetic Blueprint (The Sky-Apex Predator)  
+> **Lineage:** Gryphon Archeo-Genetic Blueprint (The Aerial Predator)  
 > **Subject Archetype:** Lieutenant Cassian Vance & Aeros-Legion 7 Flight Officers  
 > **Format:** Ready-to-copy prompt optimized for Gemini / Imagen 3  
 > **Style Anchor:** Leonardo da Vinci’s *Codex on the Flight of Birds* and human flight studies, drawn on aged vellum with sepia ink, graphite cross-hatching, and subtle eagle-gold watercolor glazes.
@@ -21,7 +21,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - Their faces feature sharp, focused golden raptor eyes with relaxed round pupils.
 - Their skin is smooth, framed by subtle graphite shading along their scapulae where internal flight tendon anchors connect to the spine.
 
-2. THE ENHANCED STATE (Fight-or-Flight / Apex Combat Mode):
+2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The male and female figures are depicted in breathtaking, dynamic mid-launch and aerial combat postures.
 - FULL WING UNFURL: Their colossal feathered wings (14-foot wingspan) have exploded open in magnificent breadth, primary quill feathers flared wide with sharp nanocarbon-reinforced leading edges capable of slicing high-velocity wind shear.
 - PECTORAL KEEL SURGE: The pectoral and latissimus dorsi musculature along their chests and upper backs swells visibly, locking their thoracic frame into high-G aerodynamic equilibrium.

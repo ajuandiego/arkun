@@ -21,7 +21,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - Their bare feet appear human-proportioned, but technical caliper brackets highlight the inner toe where the deadly four-inch curved pedal sickle-claw is safely retracted and concealed inside the fleshy digit pad.
 - Their eyes are calm, with delicate amber-chartreuse watercolor irises and relaxed pupils.
 
-2. THE ENHANCED STATE (Fight-or-Flight / Apex Combat Mode):
+2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The female and male figures are depicted in dynamic, explosive, low-crouching predator combat stances.
 - THE SICKLE-CLAW DEPLOYMENT: From the inner toe of each foot, the colossal four-inch curved nanocarbon pedal sickle-claw has forcefully snapped forward 90 degrees into a lethal elevated striking position, locked by spring-loaded tendon tension lines drawn in red chalk.
 - THE OCULAR SHIFT: Their pupils have snapped into razor-sharp horizontal predator slits; a translucent nictitating membrane is shown half-closed across the eye to shield against blinding debris.

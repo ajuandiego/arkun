@@ -1,4 +1,4 @@
-# Geography & Territories: The Fractured Earth (2050)
+# Geography & Territories: The Fractured Earth (Year 40 AS / 2072 CE)
 
 ```
                      [ ORBITAL CITADEL: SPIRE PRIME ] (Archon Xaevis)
@@ -35,7 +35,7 @@
 
 ## 1. The Broken Globe: Planetary Physical Geography
 
-By 2050, the familiar world map has been fractured by two catastrophic phases: the 2028–2031 thermal climate collapse (**The Scorching**) and the subsequent 2032–2050 Vaelen atmospheric terraforming.
+By Year 40 AS (2072 CE), the familiar world map has been fractured by two catastrophic phases: the 2028–2031 thermal climate collapse (**The Scorching**) and the subsequent 2032–2072 Vaelen atmospheric terraforming.
 
 ### 1.1 The Drowned Coastal Graveyards
 *   Early 21st-century polar melt raised global sea levels by **11 to 14 meters** before planetary thermal equilibrium broke.

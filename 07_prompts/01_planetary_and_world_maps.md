@@ -5,11 +5,11 @@
 
 ---
 
-## 1. The Planet Earth in Year 18 AS (Orbital Globe Codex)
+## 1. The Planet Earth in Year 40 AS (Orbital Globe Codex)
 
 ### Prompt
 ```text
-An authentic Renaissance da Vinci codex astronomical illustration of planet Earth in Year 18 After the Storm, depicted as an orbital celestial globe drawn on aged, weathered vellum parchment. 
+An authentic Renaissance da Vinci codex astronomical illustration of planet Earth in Year 40 After the Storm, depicted as an orbital celestial globe drawn on aged, weathered vellum parchment. 
 
 The spherical planet is hand-drawn with precise sepia ink linework and graphite shading, framed by visible drafting construction lines, faint geometric compass arcs, celestial coordinate circles, and manual brass ruler markings along the margins. 
 
@@ -27,9 +27,9 @@ Surrounding the globe are handwritten cursive technical annotations, Latin astro
 
 ### Prompt
 ```text
-An elaborate 16th-century style Renaissance cartographic map of the post-collapse Earth in Year 18 AS, drawn on a large sheet of antique, tea-stained parchment paper with visible compass lines and drafting grid marks. 
+An elaborate 16th-century style Renaissance cartographic map of the post-collapse Earth in Year 40 AS, drawn on a large sheet of antique, tea-stained parchment paper with visible compass lines and drafting grid marks. 
 
-The world map features altered continental landmasses showing eighteen years of alien terraforming: shrunken coastlines, vast desert barrens shaded in dense brown ink cross-hatching, and jagged tectonic scars. The map clearly delineates the seven regional Green Dome Clusters marked with precise geometric hexagonal seals, highlighted with subtle translucent green watercolor washes. Sector 09 and its surrounding Gray Ring are drawn in detailed architectural relief with directional coordinate arrows.
+The world map features altered continental landmasses showing forty years of alien terraforming: shrunken coastlines, vast desert barrens shaded in dense brown ink cross-hatching, and jagged tectonic scars. The map clearly delineates the seven regional Green Dome Clusters marked with precise geometric hexagonal seals, highlighted with subtle translucent green watercolor washes. Sector 09 and its surrounding Gray Ring are drawn in detailed architectural relief with directional coordinate arrows.
 
 Major global hazard zones are labeled in elegant sepia calligraphy: 'The Torrid Kiln' with flame-hatch symbols, 'The Rust Barrens' with fine stippling, and the locations of the monumental alien Terra-Pylons designated by sharp obelisk glyphs with concentric radiation circles. 
 

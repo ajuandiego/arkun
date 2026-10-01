@@ -21,7 +21,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 - Their eyes are steady and watchful, with warm amber-ocher irises and normal human pupils.
 - Deep, expanded thoracic ribcages indicating massive cardiovascular and lung stamina.
 
-2. THE ENHANCED STATE (Fight-or-Flight / Apex Combat Mode):
+2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The male and female figures are depicted in terrifying, low-slung, explosive predatory combat stances, ready for quadrupedal sprinting or concussive bone-strikes.
 - JAW & BITE HYPERTROPHY: The temporalis and masseter muscles along their jaws and temples swell dramatically with blood and adrenaline, exposing elongated sabre-like predator canines with crushing bone-shearing bite torque.
 - OLFACTORY EXPANSION & TAPETUM GLOW: The nasal bridge broadens and nostrils flare with airflow scent-tracking vectors; their eyes glow with an eerie, reflective golden tapetum lucidum night-vision sheen.
