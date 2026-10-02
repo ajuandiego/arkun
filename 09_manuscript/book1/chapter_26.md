@@ -158,7 +158,7 @@ The sight of him above me is breathtaking. Every inch of his massive, bronze fra
 
 His gaze sweeps over me with an intensity that burns hotter than his fever. My skin is pale, smooth, dotted along my hips and ribs with shimmering pewter scales, my small, firm breasts heaving in the warm air, the dark tips hardened to tight points.
 
-"You are the most magnificent creature I have ever laid eyes on," he murmurs, his voice thick with reverent awe.
+"Gods, look at you," he murmurs, his voice thick and rough as his eyes rake over my bare skin in the amber gloom. "You're magnificent, Tsune. Absolutely stunning."
 
 He lowers his chest onto mine.
 
@@ -184,13 +184,13 @@ The heat of his cock against my slick flesh is shocking—a blistering brand of 
 
 He pauses, the tip pressing just inside my outer lips. His gaze locks onto mine, searching my face in the amber gloom, giving me the final choice.
 
-"Tsune," he whispers, his voice trembling with the monumental effort of his restraint. "Tell me to stop, or you won't walk tomorrow."
+"Tsune," he whispers, his voice trembling with the agony of his restraint. "Tell me to stop. Tell me right now, or you won't walk tomorrow."
 
 For an answer, I reach down. 
 
-My fingers wrap around the burning shaft of his cock, feeling the heavy, thick thrum of his pulse beneath the skin, and I pull him forward.
+My fingers wrap around the burning shaft of his cock, guiding him flush against my cleft.
 
-"Take me," I breathe. "Take everything."
+"I don't care about walking," I breathe against his mouth. "I want you inside me. All of you, Vram. Don't you dare hold back."
 
 A guttural, feral groan tears from Vram’s lungs.
 
@@ -200,9 +200,9 @@ The initial stretch steals the air from my chest. He is massive—wider, thicker
 
 A sharp, breathless cry leaves my throat, my fingers clawing at the scars on his shoulders as my body adapts to the overwhelming fullness.
 
-"Easy," he groans, his forehead dropping against mine, his entire frame trembling as he pauses halfway inside me, his teeth gritted in sheer agony. "Breathe, raptor. Gods, you're so tight... so cool..."
+"Easy," he groans, his forehead dropping against mine, sweat dripping from his temple onto my clavicle. "Breathe, raptor. Gods, you feel like heaven... so tight, so cool around me..."
 
-"I'm fine," I choke out, my legs locking around his waist. "Don't stop. All the way, Vram. Give me all of it."
+"I won't break," I gasp, my heels locking around his lower back to pull him deeper. "Don't stop. Bury it, Vram. Give me all of it."
 
 With a low, savage growl, he drives his hips forward, burying his entire length inside me to the hilt.
 
@@ -252,7 +252,7 @@ Neither of us moves.
 
 He stays buried deep inside me, his softening length still throbbing gently against my walls as our racing heartbeats gradually slow to a shared, heavy cadence. His hand drifts up to cup my jaw, his thumb brushing a damp strand of hair from my forehead with infinite tenderness.
 
-"You're mine," he whispers against my lips, not as a conqueror, but as a sovereign making an eternal vow. "In this life, and whatever comes after."
+"You're mine," he whispers against my lips, not as a captor claiming a prize, but as a man surrendering his soul. "In this life, and whatever comes after."
 
 "Yours," I whisper back, curling my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
 

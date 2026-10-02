@@ -62,7 +62,7 @@ She looks at me, her eyes wide, her chest rising and falling in rapid, shallow b
 
 She reaches out. Her cool, slender fingers slide up my jaw, her palm resting flat against my cheek, her thumb brushing the high cheekbone beneath my eye. The contrast between her cool skin and my burning blood is an electric current that sends a shudder through my wings.
 
-Neither of us speaks. The truth hangs between us, absolute, sovereign, and undeniable.
+Neither of us speaks. The truth hangs between us, absolute, quiet, and undeniable.
 
 Tsunari’s amber gaze doesn't waver. Her hand slides from my cheek down to the collar of my flight undershirt, her knuckles hooking into the hem. 
 
@@ -134,9 +134,9 @@ I don't let her come down.
 
 I rise over her, my golden eyes locked onto her dazed, ecstatic face. I slide between her trembling thighs, settling my hips against hers. Behind us, my fourteen-foot obsidian wings flare to their full, magnificent width, sweeping downward to seal around the velvet rug, enclosing us in a domed, private cathedral of midnight feathers and warm, golden ember-light.
 
-"Look at me, my sovereign," I whisper, guiding the scorching head of my cock to her wet, pulsing entrance.
+"Look at me, Tsune," I whisper, my fingers tangling in hers and pressing our palms flat into the velvet beside her head. "I want your eyes on me when I go in."
 
-She opens her heavy lids, her golden eyes filled with raw, unshielded adoration. "I'm looking. Take me home."
+Her lids flutter open, her golden irises burning with raw, unshielded adoration. "Always you," she whispers, parting wider for me. "Take me home."
 
 I push forward.
 
@@ -152,7 +152,7 @@ Tsunari lets out a long, shuddering sigh of pure completion, wrapping her legs a
 
 I begin to move.
 
-It is not the desperate, frantic pounding of the bunker cot. It is a deep, unhurried, sovereign rhythm—every stroke long, powerful, and deliberate. I pull out until only the tip remains, letting the cool air tease her entrance, before sinking all the way back in, burying myself to the hilt, grinding my pelvis against her clitoris with every thrust.
+It is not the desperate, frantic pounding of the bunker cot. It is a deep, unhurried, devastating rhythm—every stroke long, powerful, and deliberate. I pull out until only the tip remains, letting the cool air tease her entrance, before sinking all the way back in, burying myself to the hilt, grinding my pelvis against her clitoris with every thrust.
 
 The friction is intoxicating. Her cool walls clutch and ripple against my burning cock, generating an unbearable, molten heat between our bodies. The sound of our bodies colliding—wet, rhythmic, and heavy—echoes softly beneath the dome of my wings.
 
@@ -164,9 +164,9 @@ I alter the angle, driving upward into her sweet spot with measured, relentless 
 
 The tension coils to the snapping point.
 
-"With me, Tsune," I growl, my voice breaking into a ragged rasp as my hips accelerate, pounding into her with fierce, possessive power. "Fly with me!"
+"With me, Tsune," I growl, my voice rough and breaking as I bury myself to the root with each thrust. "Stay right here with me. We burn together."
 
-"Yes! Now, Vram, now!"
+"Yes... Vram, yes! Now!"
 
 We shatter together.
 
@@ -194,7 +194,7 @@ She sees the Fire-Giver—the winged god who could crush a man's skull with a si
 
 She had expected a slaughter. She had expected to see the sacred warrior corrupted, enslaved, or violated. 
 
-Instead, she witnesses a love so pure, so sovereign, and so completely devoid of chains that it makes the ritual tortures of the coven look like the deranged butcheries of madmen.
+Instead, she witnesses a love so fierce, so sacred, and so completely devoid of chains that it makes the ritual tortures of the coven look like the deranged butcheries of madmen.
 
 No brands. No iron collars. No fear.
 

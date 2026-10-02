@@ -72,7 +72,7 @@ Her skin is cool, smooth with minute hexagonal scales along the wrist, scarred b
 
 I lift her hand, pressing my lips gently to the scarred knuckles of her fingers.
 
-"You gave me the sky," I whisper, looking into her golden eyes. "Not the altitude. Not the flight clearance. You gave me the right to choose what I bleed for. You are my sovereign, Tsunari. My anchor. My hearth."
+"You gave me the sky," I whisper, looking into her golden eyes. "Not the altitude. Not the flight clearance. You gave me the right to choose what I bleed for. You are my sky, Tsunari. My anchor. My hearth."
 
 Tsunari’s breath catches in her throat. 
 
@@ -92,7 +92,7 @@ It is the fierce, starving, breathless collision of two predators who have survi
 
 My arms wrap around her waist, pulling her flush against my chest, lifting her off the iron girder as my wings flare outward in a magnificent, protective canopy of obsidian and gold. Her mouth opens against mine, tasting of sweet cedar, copper, and salt, her hands clutching the back of my neck with a desperate, unyielding strength that anchors my soul to the earth.
 
-In the cold wind above Sector 09, under the dawn of a new world, the soldier and the scavenger forge their covenant—not with paper or crowns, but with a blood-oath between sovereign equals.
+In the cold wind above Sector 09, under the dawn of a new world, the soldier and the scavenger forge their covenant—not with paper or crowns, but with a blood-oath between unbroken equals.
 
 ***
 
@@ -178,7 +178,7 @@ The Commander’s silver-flecked eyes are not filled with despair. They are burn
 
 He spreads his magnificent, obsidian wings, their golden crest catching the rising sun in a blinding halo of living fire.
 
-"I know the launch rails," he adds, a deadly, sovereign smile touching his lips. "I know the perimeter codes. And I know how to break their glass."
+"I know the launch rails," he adds, a deadly, predatory smile touching his lips. "I know the perimeter codes. And I know how to break their glass."
 
 I look from Vram to Ferrin, to Veda, to young Toby Vance holding his rifle with steady hands, to Boran and Madame Chen standing guard over the undercity below.
 

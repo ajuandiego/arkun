@@ -151,9 +151,9 @@ With a feral, choked growl, Vram spins in the water. His large, scarred hands se
 
 The cold stone at my back contrasts wildly with the furnace of his body. 
 
-"You have no idea what you do to me," he snarls softly, his golden eyes dilated until the amber is nearly swallowed by obsidian black. His breath is scorching against my parted lips. "None at all."
+"You have no idea what you do to me, Tsune," he growls softly, his golden eyes blown black, his forehead resting hard against mine. "You touch my wings, and I forget every order I was ever given. I forget how to breathe."
 
-"Show me," I breathe, my fingers tangling in the damp dark hair at his nape.
+"Then don't breathe," I whisper against his lips, my fingers tangling in the damp dark hair at his nape. "Show me."
 
 He doesn't ask twice. 
 
@@ -199,7 +199,7 @@ My thighs begin to tremble violently on his shoulders. The tension in my lower a
 
 "Right there," I sob, my heels digging into the hard muscle of his back. "Vram... right there... I'm going to—"
 
-"Give it to me, Tsune," he growls against my center, his voice vibrating through my slick folds. "Break for me."
+"Don't you dare hold back," he growls against my center, his breath scalding my inner thighs. "Give it all to me, Tsune. Break for me."
 
 His thumb joins his fingers, pressing into my outer lips as his tongue delivers three rapid, agonizingly sharp licks against my peak.
 
@@ -235,11 +235,11 @@ Where his scorching hands and bearded mouth had pressed against my pale, delicat
 
 A sharp breath hisses through his teeth. 
 
-"No," he rasps, the word tearing from his throat like broken glass. He leans his forehead against mine, his chest heaving against my bare breasts, his entire body shuddering with the monumental effort of pulling back. "No... my core temp is spiking. If I take you now... if I lose control... my heat will burn you from the inside out."
+"No," he rasps, the word tearing from his throat like rusted wire. He leans his forehead against mine, his chest heaving against my bare breasts, his entire body shuddering with the monumental effort of pulling back. "My core temp is spiking past one hundred and seven. If I slide into you now... if I lose control... I'll burn you alive."
 
-"I can take it," I plead, my hips rolling against his rigid length, desperate for the fullness of him. "Vram, I'm cold-blooded—"
+"I’m not made of glass, Vram," I plead, my hips rolling against his rigid length, desperate for the fullness of him. "I can take your heat. I want it."
 
-"Not like this," he growls softly, his hands trembling as he cups my face, his thumbs wiping away the sweat and tears on my cheeks. "Not in a sewer, Tsune. Not when I can barely think through the fire. I won't hurt you. I'd rather cut my own throat."
+"Not in a sewer, Tsune," he murmurs, his hands trembling as he cups my face, his thumbs wiping away the sweat and tears on my cheeks. "Not when I'm one breath away from tearing you apart. When I take you, you're getting all of me, not my fever."
 
 The confession is so raw, so filled with terrifying love and restraint, that it silences the fever in my blood.
 

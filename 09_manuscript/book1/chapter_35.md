@@ -125,7 +125,7 @@ I see myself.
 
 Beside me, Tsunari reaches out, her cool fingers lightly brushing the back of my hand. She doesn't say a word. Her golden eyes merely meet mine, filled with a quiet, fierce pride that anchors the revelation deep into my soul.
 
-"Thank you, Elder," I murmur, my voice steady, clear, and ringing with a sovereign power I have never known before.
+"Thank you, Elder," I murmur, my voice steady, clear, and ringing with an unshakable power I have never known before.
 
 Gideon nods once, satisfied. 
 

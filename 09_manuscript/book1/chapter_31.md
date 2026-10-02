@@ -103,7 +103,7 @@ I don't draw my sidearm. I don't raise my fist.
 
 I take Tsunari’s left hand in my right. 
 
-I intertwine my thick, scarred fingers with her slender, cool ones, gripping her with an unbreakable, sovereign strength that pulls her close against my side.
+I intertwine my thick, scarred fingers with her slender, cool ones, gripping her with an unbreakable, protective strength that pulls her close against my side.
 
 Then, with a single, magnificent snap of muscle, my wings explode outward.
 
