@@ -70,7 +70,67 @@
       <content src="chapters/chapter_10.xhtml"/>
     </navPoint>
     
-    <navPoint id="np-backcover" playOrder="13">
+    <navPoint id="np-chap-11" playOrder="13">
+      <navLabel><text>Chapter 11</text></navLabel>
+      <content src="chapters/chapter_11.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-12" playOrder="14">
+      <navLabel><text>Chapter 12</text></navLabel>
+      <content src="chapters/chapter_12.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-13" playOrder="15">
+      <navLabel><text>Chapter 13</text></navLabel>
+      <content src="chapters/chapter_13.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-14" playOrder="16">
+      <navLabel><text>Chapter 14</text></navLabel>
+      <content src="chapters/chapter_14.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-15" playOrder="17">
+      <navLabel><text>Chapter 15</text></navLabel>
+      <content src="chapters/chapter_15.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-16" playOrder="18">
+      <navLabel><text>Chapter 16</text></navLabel>
+      <content src="chapters/chapter_16.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-17" playOrder="19">
+      <navLabel><text>Chapter 17</text></navLabel>
+      <content src="chapters/chapter_17.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-18" playOrder="20">
+      <navLabel><text>Chapter 18</text></navLabel>
+      <content src="chapters/chapter_18.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-19" playOrder="21">
+      <navLabel><text>Chapter 19</text></navLabel>
+      <content src="chapters/chapter_19.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-20" playOrder="22">
+      <navLabel><text>Chapter 20</text></navLabel>
+      <content src="chapters/chapter_20.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-21" playOrder="23">
+      <navLabel><text>Chapter 21</text></navLabel>
+      <content src="chapters/chapter_21.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-22" playOrder="24">
+      <navLabel><text>Chapter 22</text></navLabel>
+      <content src="chapters/chapter_22.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-backcover" playOrder="25">
       <navLabel><text>Back Cover</text></navLabel>
       <content src="backcover.xhtml"/>
     </navPoint>

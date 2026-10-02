@@ -1,0 +1,129 @@
+# Chapter 14 // Vram
+
+> **Vaelen Harvester Barge** *[extraterrestrial]*: A massive, soundless anti-gravity atmospheric vessel constructed of black bio-crystalline obsidian. Operates without exhaust or moving parts, continuously siphoning nitrogen-ammonia currents for planetary terraforming.
+
+***
+
+The air inside the main chamber of Redoubt 14 turns freezing the instant the landing skiff touches down.
+
+It isn't weather. It is the unholy, heat-drinking vacuum that follows Vaelen technology wherever it goes. The ambient temperature in the room plummets twenty degrees in three heartbeats, coating the exposed copper conduits and yellowed maps in a fine, crystalline frost that crackles like stepping on eggshells.
+
+I stand at attention in the center of the concrete floor, six feet and four inches of transgenic muscle locked in rigid, parade-ground posture. 
+
+My flight harness is back on my shoulders, the heavy straps buckled across my chest to hide the fresh silver-nitrate bandage on my back. My kinetic sidearm is holstered at my right hip—empty, the power cell still hidden beneath the floor grating behind the cot. Facing an extraterrestrial Inquisitor with a loaded firearm is an automated suicide sentence; the bio-resonance scanners in their armor detect pressurized projectile charges before your fingers can reach the trigger guard.
+
+The reinforced steel blast door groans along its tracks, sliding open with a hollow, metallic thud.
+
+Three figures cross the threshold.
+
+They do not walk with the heavy, balanced stride of human infantry. They glide. 
+
+The two flanking enforcers stand over seven feet tall, encased from crown to claw in pressurized carapaces of polished obsidian chitin that absorb the amber emergency light like black holes. Their limbs are unnervingly elongated, with double-jointed elbows and tri-segmented legs that terminate in razor-sharp anti-gravity anchors. They carry six-foot bio-resonance pikes—dense, crystalline spears that hum with a faint, violet luminescence capable of scrambling human neuromuscular synapses at twenty paces.
+
+Between them strides the Inquisitor.
+
+It is narrower than the guards, draped in a ceremonial mantle of translucent, multi-layered bio-fiber that ripples like oil on water. Its head is a smooth, elongated dome of dark, iridescent keratin, completely devoid of eyes, ears, or mouth. In place of a face, a vertical cluster of sensory pits pulses along its mandibular ridge, flashing with faint, bioluminescent pulses of turquoise and ultraviolet light.
+
+The creature halts three paces from me.
+
+The cold radiating from its armor hits my bare face like an open freezer door. My Simurgh core reacts violently to the thermal drop—subcutaneous capillaries dilating, superheating my blood to fight the frost, sending a cloud of white condensation steaming from my lips with every breath.
+
+A high-frequency clicking sound rattles through the Inquisitor’s mandibular ridge—a sound like shattered glass grinding in a mortar—before its vocal resonator translates the harmonic wave into flat, synthesized human speech:
+
+*"Subject Seven-Zero-One. Designation: Tyage, Vram. Aeros-Commander, Cohort Seven."*
+
+The voice carries no accent, no inflection, no humanity. It is an acoustic dead end.
+
+"Inquisitor," I say, keeping my eyes fixed on the empty air six inches above its crown. "Redoubt Fourteen is an auxiliary outpost outside regular patrol rotation. I received no flight clearance for an inspection skiff in this sector."
+
+*"Your flight clearance was revoked eighty-two minutes ago, Subject Seven-Zero-One,"* the Inquisitor answers, its sensory pits strobing in a rapid, agitated sequence of yellow and crimson. *"By order of the Spire-Consensus and the Directorate Oversight Committee."*
+
+The two flanking guards step forward in unison, the crystalline tips of their pikes lowering toward my chest. The low-frequency hum vibrating through the air sets my teeth on edge, rattling through my hollow clavicles like a tuning fork struck against iron.
+
+*"You reported the target asset terminated in Conduit Twelve-B,"* the creature continues, its mantle rustling with a dry, papery whisper. *"Director Corvus accepted your verbal report. The Spire-Consensus does not trade in verbal reports. We trade in mathematical telemetry."*
+
+The Inquisitor raises its right arm. 
+
+Its limb ends not in a hand, but in an articulated cluster of four elongated, needle-tipped silver digits. A holographic projection node embedded in its palm flickers to life, casting a three-dimensional lattice of glowing green biometric waveforms into the cold air between us.
+
+The display shows my flight recorder. 
+
+Highlighted in flashing violet text sits the exact four-minute window from the ruined substation:
+
+```console
+telemetry discrepancy log // subject ae-701
+timestamp: 21:44:12 // solar substation 04
+synapse saturation variance: -85% in 4.2 seconds
+core temperature: 108.4°f -> 103.8°f [anomalous quench]
+external ground signature: null-phase conductor detected
+```
+
+*"At twenty-one hours and forty-four minutes,"* the Inquisitor speaks, the mandibular clicks sharpening into an execution cadence, *"your cervical siphon experienced a catastrophic bio-frequency disruption. A complete nullification of the compliance carrier wave. An event mathematically impossible without direct contact with an unregistered genetic anomaly."*
+
+My jaw tightens until transgenic bone threatens to crack. 
+
+Beneath my boots, forty feet through the concrete floor, I know Tsunari is crawling through the ventilation matrix. I can almost feel her presence—that cool, grounding pull that had quieted the fire in my head an hour ago. 
+
+*She’s in the ducts. If they scan down, they will find her.*
+
+"The runner was equipped with an improvised micro-EMP capacitor," I say, forcing my voice into the cold, unshakable cadence of Aeros-Actual. "She detonated the charge during the grapple. The shockwave fried my optic buffer and grounded the cervical couplings for ten seconds. When my vision cleared, her pressurized suit had ruptured. She died in the storm."
+
+The Inquisitor tilts its elongated crown five degrees to the left—an avian, predatory movement that mirrors the very posture the Directorate bred into my own spine.
+
+*"A primitive lie, Subject Seven-Zero-One,"* the alien drones. *"An electromagnetic pulse produces an exponential decay curve across thirty milliseconds. This waveform is an organic plateau. It is continuous. It possesses a cellular pulse."*
+
+The creature lowers its arm. The holographic lattice vanishes.
+
+*"You are harboring an unsanctioned biological contaminant,"* the Inquisitor states with bureaucratic finality. *"Present your cervical siphon for forensic extraction. If you resist, your cohort will be purged under the Heresy of the First Hand."*
+
+The guard to the right steps behind me. 
+
+Before I can shift my weight, a heavy, freezing grip clamps onto my left shoulder. The guard's chitinous claws sink an inch into the ballistic nylon of my flight harness, torquing my body sideways with terrifying, pneumatic leverage. 
+
+The second guard steps forward, raising a silver diagnostic wand tipped with three spinning, diamond-toothed micro-drills.
+
+They aren't here to inspect the siphon.
+
+They are here to core it out. To rip the titanium sockets from my vertebrae with pressurized pliers, dump my neural tissue into a cryogenic specimen jar, and leave my paralyzed carcass on the concrete floor for the sandstorm to bury.
+
+A violent, blinding spike of fear and rage rips through my chest. 
+
+Separated from Tsunari by six feet of floor and thirty feet of air, the Silver Spine inside my skull detects the stress. The alien cyber-neural lattice woven through my brainstem flares into life with the fury of a dying star. 
+
+Thousands of micro-amperage warning pings sear across my motor cortex. 
+
+The heat returns with concussive violence—my core temperature rocketing past 106 degrees in ten seconds. White fire blinds my retinas. My left arm spasms violently, the retracted nanocarbon talons clicking against my knuckles as my nervous system convulses under the synthetic leash.
+
+The conditioned order screams through my auditory cortex like a siren tearing through an empty street, demanding compliance: *obey. submit to the shears. the cattle do not question the kiln.*
+
+I drop to one knee, the granite floor slamming into my kneecap with a bone-jarring impact. Blood drips hot and thick from my left nostril, spattering in dark crimson droplets across the frosted concrete. 
+
+The guard behind me twists my collar back, exposing the silver-nitrate bandage on the nape of my neck. 
+
+The diamond-toothed drill spins up with a high-pitched, terrifying shriek.
+
+And then, through the floor grates twenty feet away in the shadows of the mechanical vault, a sound echoes through the zinc air ducts.
+
+A soft, sharp scrape of steel on zinc. 
+
+Followed by a muffled, strangled gasp.
+
+Tsunari.
+
+The Inquisitor’s elongated head snaps toward the floor grate, its sensory pits strobing with sudden, violent violet illumination.
+
+*"Biological anomaly detected,"* the alien clicks, its acoustic resonator rising in pitch. *"Secondary life-sign in lower duct matrix. Sub-specimen: Dromaeon."*
+
+The drill at my neck halts. 
+
+The guard holding my shoulder turns toward the grate, raising its bio-resonance pike.
+
+In my mind, the screaming static of the Silver Spine reaches an unbearable, deafening crescendo—a wall of white fire designed to keep the dog on its knees while the masters inspect the kill.
+
+For twenty-one years, that fire kept me collared.
+
+For twenty-one years, it told me that pain was my master, that obedience was my armor, that I had no name, no blood, and no soul.
+
+And looking at the alien raising its weapon toward the grate where Tsunari hides in the dark, the fire in my blood doesn't obey anymore.
+
+It burns.
