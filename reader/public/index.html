@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Storm-Born Cycle — Interactive Novel Reader</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+</head>
+<body data-theme="parchment">
+
+  <!-- Top Navigation Header -->
+  <header class="reader-header">
+    <div class="brand-section">
+      <div class="brand-icon">❖</div>
+      <div class="brand-titles">
+        <span class="series-badge" id="header-series">The Storm-Born Cycle</span>
+        <h1 class="book-title-header" id="header-book-title">A Spark in the Rust</h1>
+      </div>
+    </div>
+
+    <div class="center-controls">
+      <!-- Mode Toggle -->
+      <div class="mode-toggle">
+        <button id="mode-volume" class="mode-btn active" title="Read entire Volume 1 as a bound book">Full Novel</button>
+        <button id="mode-chapter" class="mode-btn" title="Read selected chapter individually">Chapter</button>
+      </div>
+
+      <!-- Chapter Dropdown -->
+      <select id="chapter-select" class="chapter-select" aria-label="Select Chapter">
+        <option value="">Loading chapters...</option>
+      </select>
+    </div>
+
+    <div class="action-buttons">
+      <!-- Table of Contents -->
+      <button id="btn-toc" class="icon-btn" title="Table of Contents (T)">
+        <span>☰</span>
+      </button>
+
+      <!-- Theme Switcher -->
+      <button id="btn-theme" class="icon-btn" title="Cycle Reading Theme (Parchment, Ivory, Obsidian, Amber Haze)">
+        <span>🎨</span>
+      </button>
+
+      <!-- Font Size Down -->
+      <button id="btn-font-dec" class="icon-btn" title="Decrease Font Size">
+        <span>A⁻</span>
+      </button>
+
+      <!-- Font Size Up -->
+      <button id="btn-font-inc" class="icon-btn" title="Increase Font Size">
+        <span>A⁺</span>
+      </button>
+
+      <!-- Audio Page Turn Toggle -->
+      <button id="btn-audio" class="icon-btn active" title="Toggle Page Flip Sound (M)">
+        <span id="audio-icon">🔊</span>
+      </button>
+
+      <!-- Keyboard Shortcuts Help -->
+      <button id="btn-help" class="icon-btn" title="Keyboard Shortcuts (?)">
+        <span>?</span>
+      </button>
+
+      <!-- Download EPUB -->
+      <a href="/api/books/book1/download/epub" class="icon-btn" title="Download EPUB3 Ebook (.epub)" download="A_Spark_in_the_Rust.epub" style="text-decoration: none;">
+        <span>📥</span>
+      </a>
+
+      <!-- Fullscreen Toggle -->
+      <button id="btn-fullscreen" class="icon-btn" title="Toggle Fullscreen (F)">
+        <span>⛶</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Book Stage Area -->
+  <main class="book-stage" id="book-stage">
+    <!-- Prev Arrow -->
+    <button class="nav-arrow nav-arrow-prev" id="btn-prev" title="Previous Page (← or Space)">
+      <span>‹</span>
+    </button>
+
+    <!-- 3D Book Container -->
+    <div class="book-wrapper" id="book-wrapper">
+      <div class="book-edge-stack book-edge-left" id="stack-left"></div>
+      <div id="flipbook"></div>
+      <div class="book-edge-stack book-edge-right" id="stack-right"></div>
+    </div>
+
+    <!-- Next Arrow -->
+    <button class="nav-arrow nav-arrow-next" id="btn-next" title="Next Page (→ or Space)">
+      <span>›</span>
+    </button>
+  </main>
+
+  <!-- Bottom Reading Bar -->
+  <footer class="reader-footer">
+    <div class="page-indicator">
+      Page <span id="current-page">1</span> of <span id="total-pages">--</span>
+    </div>
+
+    <div class="scrubber-container">
+      <input type="range" id="page-scrubber" class="scrubber-slider" min="0" max="100" value="0" aria-label="Page Scrubber">
+    </div>
+
+    <div class="reading-meta">
+      <span id="chapter-badge">Loading...</span>
+      <span id="read-time-left">-- min left</span>
+    </div>
+  </footer>
+
+  <!-- Table of Contents Slide-Out Drawer -->
+  <div class="drawer-backdrop" id="toc-backdrop">
+    <aside class="toc-drawer">
+      <div class="drawer-header">
+        <h2>Table of Contents</h2>
+        <button class="drawer-close" id="drawer-close" aria-label="Close Drawer">&times;</button>
+      </div>
+      <div class="drawer-content" id="drawer-chapters-list">
+        <!-- Rendered chapters -->
+      </div>
+    </aside>
+  </div>
+
+  <!-- Keyboard Shortcuts Modal -->
+  <div class="modal-overlay" id="shortcuts-modal">
+    <div class="modal-card">
+      <h3>Reading Navigation</h3>
+      <div class="shortcut-row">
+        <span>Turn to Next Page</span>
+        <span><kbd>→</kbd> or <kbd>Space</kbd> or <kbd>L</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Turn to Previous Page</span>
+        <span><kbd>←</kbd> or <kbd>Shift + Space</kbd> or <kbd>J</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Table of Contents</span>
+        <span><kbd>T</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Toggle Audio Effect</span>
+        <span><kbd>M</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Cycle Color Theme</span>
+        <span><kbd>C</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Toggle Fullscreen</span>
+        <span><kbd>F</kbd></span>
+      </div>
+      <div class="shortcut-row">
+        <span>Close Overlays</span>
+        <span><kbd>Esc</kbd></span>
+      </div>
+      <div style="margin-top: 20px; text-align: center;">
+        <button id="modal-close-btn" class="mode-btn active" style="padding: 8px 24px;">Got It</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="reader-toast" id="reader-toast"></div>
+
+  <!-- Scripts -->
+  <script src="/vendor/page-flip.browser.js"></script>
+  <script src="/js/audio.js"></script>
+  <script src="/js/paginator.js"></script>
+  <script src="/js/reader.js"></script>
+</body>
+</html>

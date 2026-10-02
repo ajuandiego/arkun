@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Chapter 10 — A Spark in the Rust</title>
+  <link rel="stylesheet" type="text/css" href="../styles/book.css" />
+</head>
+<body epub:type="bodymatter">
+  <section role="doc-chapter" epub:type="chapter" class="chapter chapter-10">
+    <header class="chapter-header">
+      <div class="chapter-number">Chapter 10</div>
+      <h1 class="chapter-title">Chapter 10</h1>
+      <div class="chapter-pov">Point of View // Vram</div>
+    </header>
+
+    
+    <aside role="doc-epigraph" epub:type="epigraph" class="doc-epigraph">
+      <div class="epigraph-label">Tactical Dossier // Codex</div>
+      <blockquote>**Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Vaelen Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.</blockquote>
+    </aside>
+    
+
+    <div class="chapter-content">
+      <p class="has-dropcap"><span class="dropcap">T</span>he bio-monitor on the steel desk blinks in angry, strobing amber:</p>
+<pre><code>SUBJECT: AE-701 // COMMANDER VRAM TYAGE
+CORE TEMPERATURE: 108.4°F [CRITICAL HYPERPYREXIA]
+SYNAPSE LATTICE SATURATION: 96% [SEIZURE IMMINENT]
+CARDIAC LOAD: 168 BPM
+STATUS: LATTICE BURN PROTOCOL // STAGE 3
+</code></pre>
+<p>My hands are shaking so violently I can barely keep the diagnostic sensor clipped to my left index finger. </p>
+<p>The pain behind my left eye isn&#39;t an ache anymore. It is an open, bleeding laceration inside my skull. White-and-violet light bursts across my retinas with every heavy thud of my heart, painting the cracked concrete walls of Redoubt 14 in hallucinatory, vibrating neon. </p>
+<p>I can smell my own blood. A thin, dark trickle drips from my left nostril, spattering in hot, metallic drops onto the yellowed paper maps spread across the command desk.</p>
+<p>Six paces away, sitting on the edge of the narrow military cot, Tsunari watches me.</p>
+<p>Her chained wrists rest quietly on her knees. Her dark raven hair is still pinned by that slender steel bodkin knife. Her amber-chartreuse eyes, with their predatory horizontal slit pupils, follow every ragged breath that tears through my chest. </p>
+<p>She isn&#39;t mocking me now. She isn&#39;t taunting. </p>
+<p>She is observing with the cold, detached fascination of a field biologist watching a caged specimen approach lethal organ failure.</p>
+<p>&quot;You&#39;re strobing,&quot; she says quietly, her voice cutting through the electric buzzing of the overhead fluorescent tubes. &quot;Your optic capillaries are rupturing. In about three minutes, your motor cortex will seize, and your heart will try to auto-defibrillate inside a locked bunker.&quot;</p>
+<p>I grip the edge of the steel desk, my knuckles turning white as transgenic bone groans under the strain. </p>
+<p>&quot;I know... the symptoms,&quot; I grind out through clenched teeth.</p>
+<p>&quot;Then why are you standing over there?&quot; </p>
+<p>The question is simple. Clinical. Merciless.</p>
+<p>I look at the distance between us: eighteen feet of cold concrete floor. </p>
+<p>I pull the bio-monitor cable taut, step away from the desk, and take three paces toward the cot.</p>
+<p>The display on the wrist-unit flickers:</p>
+<pre><code>DISTANCE: 9 FEET
+CORE TEMPERATURE: 107.1°F
+SYNAPSE SATURATION: 82%
+CARDIAC LOAD: 142 BPM
+</code></pre>
+<p>My breath stutters in my throat. </p>
+<p>The white-hot needle behind my eye blunts by a fraction of an inch. The violet light dancing across my vision dims from an blinding glare to a dull, violet fog. </p>
+<p><em>Just being near her cools the current.</em></p>
+<p>Her baseline DNA doesn&#39;t just neutralize the alien frequency on physical contact; her very presence radiates an invisible, low-frequency electromagnetic grounding field. To the synthetic quantum lattice in my skull, she is an organic sinkhole. A black hole that drinks the screaming static before it can cook my gray matter.</p>
+<p>I take two more strides. </p>
+<p>My knees hit the edge of the cot. </p>
+<p>I drop to one knee before her, my massive frame casting a towering shadow across her lap. Fourteen feet of heavy obsidian flight feathers droop against the stone floor, completely devoid of their usual military tension. </p>
+<p>Up close, the scent of her is an intoxicating, grounding anchor: desert sage, clean sulfur, cool linen, and the faint, sweet musk of Dromaeon pheromones. </p>
+<p>She doesn&#39;t pull back. Her chin remains lifted, her delicate East-Asian bone structure proud and unyielding behind the stiff charcoal collar of her combat tunic.</p>
+<p>&quot;Touch me,&quot; I whisper. </p>
+<p>The words tear out of my throat, stripped of every shred of rank, pride, or command. It is the plea of a starving man begging for water at the edge of a poisoned well.</p>
+<p>Tsunari doesn&#39;t move immediately. Her amber eyes trace the trembling line of my jaw, the fever-sweat dripping from my sculpted dark beard, down to the inflamed, purplish flesh around the titanium siphon port at the base of my throat.</p>
+<p>&quot;Why should I?&quot; she asks softly. &quot;An hour ago, you tackled me through a concrete wall. You pinned my wrists and called me an unregistered abomination.&quot;</p>
+<p>&quot;Because if I die,&quot; I rasp, my molten eyes locking onto hers, &quot;this blast door is sealed with a biometric dead-bolt slaved to my pulse. If my heart stops, the emergency interlocks trigger. You will starve in this concrete tomb long before you ever find your sister.&quot;</p>
+<p>Her horizontal pupils contract into razor-thin points.</p>
+<p>&quot;You know about Sora,&quot; she whispers, a deadly edge hardening her tone.</p>
+<p>&quot;I saw the personnel log... in the breach telemetry,&quot; I breathe, my chest heaving against her knees. &quot;Thorne, Sora. Junior Synthetics Assistant. Bio-Lab 4. I know why you took the Lazarus wafer. I know what you&#39;re fighting for.&quot;</p>
+<p>I reach up with my right hand, my fingers trembling violently, and lay my open palm flat against the cold stone between her boots.</p>
+<p>&quot;Touch me, Tsune,&quot; I murmur, using her street moniker for the first time. &quot;Or we both die in the dark.&quot;</p>
+<p>She stares at me for a heartbeat that feels like an eternity.</p>
+<p>Then, slowly, deliberately, she raises her chained hands.</p>
+<p>She doesn&#39;t strike. She doesn&#39;t reach for her hair knife.</p>
+<p>She reaches down and presses both of her bare, cool palms flat against the burning flesh of my bare shoulders.</p>
+<p><em>CRACK-HISS.</em></p>
+<p>The relief is so sudden, so violent, that a strangled gasp leaves my lips.</p>
+<p>The bio-monitor on my wrist screeches as its numbers plummet through the floor:</p>
+<pre><code>CONTACT ESTABLISHED: CONDUCTIVE GROUND DETECTED
+CORE TEMPERATURE: 103.8°F [STABILIZING]
+SYNAPSE SATURATION: 11% [QUIET]
+CARDIAC LOAD: 74 BPM
+STATUS: NORMALIZED
+</code></pre>
+<p>The screaming in my head dies.</p>
+<p>The red and violet strobes vanish from my retinas. The grinding, drilling pressure behind my temples melts away like morning frost under a desert sun. </p>
+<p>My forehead drops forward, resting against the worn leather of her utility harness, right between her breasts. </p>
+<p>I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy beats per minute, calm, cursorial, unhurried. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.</p>
+<p>For a long, breathless moment, neither of us speaks. </p>
+<p>The undefeated Commander of Aeros-Legion 7 is on his knees, his forehead pressed against an insurgent’s chest, breathing in her scent like a man drowning in fresh water. </p>
+<p>And her hands remain on my shoulders. </p>
+<p>She doesn&#39;t push me away. Her slender fingers slowly tighten their grip against the dense muscle of my upper back, feeling the heavy, titanium-reinforced bone where my obsidian wings anchor into my spine.</p>
+<p>&quot;Your wings,&quot; she murmurs, her voice barely carrying over the hum of the air scrubber. Her fingers brush the base of a primary quill, feeling the smooth, metallic keratin. &quot;They grew these directly from your scapula.&quot;</p>
+<p>&quot;Yes,&quot; I whisper against her chest, my eyes closed in reverent, exhausted peace.</p>
+<p>&quot;It must have hurt.&quot;</p>
+<p>&quot;I don&#39;t remember,&quot; I lie softly. &quot;They scrubbed the memory.&quot;</p>
+<p>Before she can answer, the sharp, piercing scream of the shortwave surveillance receiver shatters the silence.</p>
+<p><em>BEEP. BEEP. BEEP.</em></p>
+<p>A high-frequency emergency broadcast overrides the radio’s audio buffer. </p>
+<p>A harsh, synthesized chime echoes off the concrete walls—the distinct, three-tone priority ping of an <strong>Obsidian-Zero</strong> command transmission from Dome Alpha&#39;s Executive Spire.</p>
+<p>I freeze.</p>
+<p>Tsunari’s hands stiffen on my shoulders. </p>
+<p>I lift my head from her chest. The cool peace remains, but my military instincts snap back to razor-sharp focus. </p>
+<p>I stand up, stepping away from the cot, my legs solid beneath me for the first time in six hours. </p>
+<p>The radio console’s green CRT screen blinks with an encrypted authorization code:</p>
+<pre><code>INCOMING TRANSMISSION // ENCRYPTION: OBSIDIAN-ZERO
+ORIGIN: DIRECTORATE EXECUTIVE SUITE // DOME ALPHA
+AUTHENTICATION: CORVUS, ELENA // DIRECTOR-GENERAL
+TARGET: AEROS-ACTUAL // COMMANDER VRAM TYAGE
+</code></pre>
+<p>Tsunari watches the screen from the cot, her eyes narrowing as she reads the Director&#39;s name.</p>
+<p>I step to the desk and flip the manual toggle.</p>
+<p>The speaker crackles with static, and then a voice fills the bunker—cool, aristocratic, dripping with the absolute, unhurried authority of a woman who owns the air of three million people.</p>
+<p><em>&quot;Commander Tyage,&quot;</em> Director Elena Corvus speaks, her voice as smooth and lethal as chilled mercury. <em>&quot;I am reviewing the perimeter telemetry logs from Sector 09. We have uncovered an anomaly.&quot;</em></p>
+<p>I remain silent, my hand hovering over the transmitter switch.</p>
+<p><em>&quot;Automated optical sensors on Perimeter Tower 4 recorded an engagement outside Mirror Bank 402,&quot;</em> Corvus continues, her tone devoid of warmth. <em>&quot;They recorded the silhouette of a flight commander executing a terminal stoop into the solar substation. They recorded a struggle.&quot;</em></p>
+<p>A beat of dead air hums over the shortwave frequency.</p>
+<p><em>&quot;You did not lose the runner in the drainage conduits, Vram. We know she is with you.&quot;</em></p>
+<p>Tsunari’s hand slips toward her high hair bun, her fingers brushing the steel pommel of her bodkin knife. </p>
+<p><em>&quot;The Directorate cannot tolerate rogue biological assets,&quot;</em> Corvus says, her voice tightening into an execution order. <em>&quot;The Lazarus Key contains data vital to the upcoming Atmospheric Purge. If you have the asset in custody, execute her immediately. Disintegrate the remains in the prowler’s emergency plasma incinerator. Retrieve the wafer and report to Dome Alpha for mandatory synaptic recalibration.&quot;</em></p>
+<p>The speaker clicks. A low, rhythmic timer begins to pulse:</p>
+<p><em>TICK. TICK. TICK.</em></p>
+<p><em>&quot;You have sixty seconds to confirm termination, Commander,&quot;</em> Corvus concludes coldly. <em>&quot;If you fail to respond, Aeros-Legion 7 will be scrambled under Commander Cassian with full authorization to eliminate all rogue elements. Confirm.&quot;</em></p>
+<p>The radio waits.</p>
+<p>The timer counts down in the silence of the bunker: fifty-five seconds... fifty-four...</p>
+<p>I stand at the desk, looking at the microphone.</p>
+<p>The path before me is blindingly clear.</p>
+<p>If I execute Tsunari, if I take the Lazarus Key and fly back to the dome, my rank is restored. Corvus will wipe my telemetry gap. She will grant me medical leave, strap me into a surgical bed, and recalibrate the Silver Spine with heavy neuro-dampeners.</p>
+<p>And in twenty-four months, my brain will cook inside my skull, and I will die an obedient, collared dog.</p>
+<p>I turn my head and look at Tsunari.</p>
+<p>She has stood up from the cot. </p>
+<p>She stands straight, her chained hands resting over the pocket where the stolen Lazarus wafer sits against her heart. She isn&#39;t pleading. She isn&#39;t crying. Her horizontal slit pupils are locked onto mine, fierce, unyielding, and utterly fearless.</p>
+<p>She is ready to fight me to the death. Right here. In this thirty-foot room.</p>
+<p>And looking at her, I realize something that shakes the foundation of my entire existence:</p>
+<p>I would rather burn this entire world to ash than let them take her silence from me.</p>
+<p>I reach down to the console.</p>
+<p>My thumb presses the transmitter toggle.</p>
+<p>I lean into the microphone, my voice dropping into the cold, unshakable gravel of Aeros-Actual:</p>
+<p>&quot;Director Corvus.&quot;</p>
+<p><em>&quot;Report, Commander,&quot;</em> Corvus answers instantly. <em>&quot;Is the asset neutralized?&quot;</em></p>
+<p>I look Tsunari straight in the eyes.</p>
+<p>&quot;Negative, Director,&quot; I say, the lie ringing through the shortwave frequency with absolute, terrifying conviction. &quot;The asset is dead. During the tackle in the substation, the runner detonated an improvised micro-EMP capacitor. Her pressurized bio-suit ruptured. She died of explosive decompression in the storm before containment could be established.&quot;</p>
+<p>A pause on the line. The silence from Dome Alpha is suffocating.</p>
+<p>&quot;And the Lazarus Key?&quot; Corvus demands, her voice sharp with suspicion.</p>
+<p>&quot;Destroyed in the EMP discharge,&quot; I answer without flinching. &quot;The crystal wafer shattered into ionized dust. There is nothing left to retrieve.&quot;</p>
+<p>Five seconds of dead air crawl past.</p>
+<p><em>&quot;Return to base immediately, Commander,&quot;</em> Corvus commands, her tone ice-cold. <em>&quot;Aeros-Legion 7 will stand down. But you will submit to full biometric audit upon landing. If your flight recorder shows a single second of discrepancy...&quot;</em></p>
+<p>I don&#39;t wait for her to finish.</p>
+<p>I reach down and tear the primary shortwave antenna lead clean out of the radio console.</p>
+<p><em>SNAP.</em></p>
+<p>The speaker dies with a hiss of severed static. </p>
+<p>The green CRT monitor goes black.</p>
+<p>Silence returns to Redoubt 14.</p>
+<p>I stand there in the dim fluorescent glare, breathing slowly, feeling the immense, crushing weight of what I have just done. </p>
+<p>High treason. </p>
+<p>Defiance of a direct executive order. </p>
+<p>The complete, irreversible destruction of my twenty-one-year military career.</p>
+<p>Slowly, I turn to face Tsunari.</p>
+<p>I reach down to my utility belt. </p>
+<p>I unclip my heavy kinetic sidearm, slide the power cell from the magazine well, and set the weapon down on the steel table between us. </p>
+<p>Then, I unclip a small, magnetic key from my harness.</p>
+<p>I walk over to her, stop six inches from her chest, and take her chained hands in mine. </p>
+<p>I press the key to the magnetic suppression cuffs.</p>
+<p><em>Click-shhk.</em></p>
+<p>The polarized titanium rings unlock, springing open with a soft metallic whine. </p>
+<p>Her hands are free.</p>
+<p>She lowers her arms slowly, rubbing the faint red indentations on her wrists, her amber eyes wide, stunned, searching my face as if looking at a ghost.</p>
+<p>&quot;Why did you do that?&quot; she whispers.</p>
+<p>&quot;Because Corvus is going to realize I lied within twelve hours,&quot; I say, my voice steady, raspy, carrying the grim certainty of a man who has jumped from a cliff with no intention of deploying his wings. </p>
+<p>&quot;She will scramble Cassian. She will scramble the Iron Division. And when dawn breaks, the entire Consortium will be hunting us.&quot;</p>
+<p>I look down into her fierce, beautiful amber gaze.</p>
+<p>&quot;You wanted to know who holds the leash, Tsune?&quot;</p>
+<p>I step back, gesturing to the open bunker, to the maps of the dead world, to the howling storm raging beyond the blast doors.</p>
+<p>&quot;Neither of us,&quot; I say softly. &quot;Now we run together. Or we burn together.&quot;</p>
+<p>A slow, feral smile touches the corners of her lips beneath the linen mask.</p>
+<p>&quot;Then let&#39;s make them burn,&quot; she whispers.</p>
+<div class="scene-break">❖ ❖ ❖</div>
+<h3>END OF PART I: THE INCITING FIRESTORM</h3>
+
+    </div>
+  </section>
+</body>
+</html>
