@@ -14,7 +14,17 @@ I nod, reluctantly uncoiling my wings from around her body.
 
 The cold subterranean air rushes back between our bare chests, but the warmth between us lingers like an indelible brand. We scavenge what we can from the waterproof dry-bags strapped to the underside of my flight harness: two spare rolls of vulcanized linen wraps, my sidearm, her data-slate containing the stolen Lazarus Key, and a fresh container of water. 
 
-Tsunari binds her breasts tightly with strips of clean linen, securing her bodkin knife through her high bun. I pull a dry, dark ballistic flight tunic over my shoulders, sliding my arms through the torn sleeves, leaving the damaged fabric loose over my wounded left deltoid.
+Tsunari binds her breasts tightly with strips of clean linen, securing her bodkin knife through her high bun. She looks down at our dripping boots, then up at my massive, half-scorched wings rustling against the narrow concrete arch.
+
+"Well," she whispers, her amber eyes glittering with dry, wicked amusement. "If my father could see me now. Scurrying through a flooded drainpipe with a treasonous corporate archangel whose clothes are in shreds."
+
+I pull a dry, dark ballistic flight tunic over my shoulders, wincing slightly as the torn fabric settles across my wounded deltoid. "I believe the official military designation is Supreme Commander of Aeros-Legion."
+
+"Right now, Commander, you look like a drowned hawk who lost an argument with an incinerator."
+
+"And you," I reply, a rare, self-deprecating smile pulling at my lips as I check the battery seal on her data-slate, "look like a rogue lab specimen who just stole the most dangerous weapon on the continent."
+
+"Flattery will get you everywhere," she murmurs, cinching her utility harness down over her ribs. "Let's move before your fan club catches up."
 
 We wade through the black water for forty minutes, the ceiling sloping downward until the concrete arches collapse into a natural limestone gorge.
 

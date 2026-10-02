@@ -95,7 +95,15 @@ Madame Chen looks up from the cylinder, studying Vram’s face with a new, pierc
 
 "They already have," Tsunari interjects, stepping up beside Vram. "We need high-pressure oxygen canisters, two replacement centrifuge diaphragms, and medical burn salve. And we need to know what The Forger is brewing in the deep pipes."
 
-Madame Chen’s expression darkens at the mention of the prophet’s name.
+Madame Chen squints at Tsunari over her silver spectacles, clicking her mechanical bronze index finger against the edge of the desk.
+
+"Still as greedy as your father, Tsune. He used to bill me four brass circuits every time he oiled a pump."
+
+"My father undercharged you," Tsunari shoots back without blinking. "And your filters still taste like rust and old tin."
+
+Madame Chen lets out a dry, hacking snort that might pass for laughter in an iron mine. "That's character, girl. Builds lung density."
+
+Her gaze sharpens, dark and serious once more, at the mention of the prophet’s name.
 
 She opens a desk drawer, pulls out a ring of heavy brass keys, and tosses them to Ren.
 

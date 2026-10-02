@@ -216,6 +216,36 @@ You are an Aeros Commander. She is an enemy asset who tried to kick your femoral
 
 *If I reach for her, she'll slit my throat. And she'd be right.*
 
+A sharp, metallic tap against the brass intercom grill in the partition shatters my train of thought.
+
+I reach over and flip the toggle switch on the dashboard.
+
+"What?" I grate into the mic.
+
+"If you're going to abduct me across forty miles of dead stone, Commander," her voice comes through the tiny speaker, dry and biting, "the least you could do is turn on the cabin heaters. Some of us don't run on aviation fuel."
+
+I glance in the rearview mirror. Her teeth are clamped, her shoulders huddled slightly against the chill of the uninsulated steel cargo bay, where the sub-zero canyon draft leaks through the floor seams.
+
+"The heating grid draws forty amps from the auxiliary cell," I reply evenly. "I need the reserve power for the magnetic steering servos."
+
+"Then turn off your high beams," she retorts without missing a beat. "The canyon isn't going anywhere, and my scales are turning to ice."
+
+"You survived ten winters in Sector 09's drainage culverts without a radiator."
+
+"Yes, but back then I wasn't handcuffed to an iron bench listening to a two-hundred-and-sixty-pound bird complain about his headache."
+
+I stare at the mic for two seconds, a sudden, traitorous twitch pulling at the corner of my mouth. With a low grunt, I reach down and flip the auxiliary heating toggle to low.
+
+A warm rush of recycled air hisses through the cargo floor vents.
+
+Through the observation window, I see her lean back against the bench, her chin tucking into her collar, a tiny flicker of satisfaction softening her fierce eyes.
+
+"Don't get used to luxury, runner," I say into the mic.
+
+"Wouldn't dream of it, bird-boy," she whispers back.
+
+I click the channel shut.
+
 She knows we aren't going to the dome.
 
 A faint, bitter smile touches my lips in the dark.

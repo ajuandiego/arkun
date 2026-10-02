@@ -106,7 +106,25 @@ I hand it back to her. Our fingers brush across the dented steel.
 
 The brief, accidental touch sends a faint, delicious shiver through my knuckles—a micro-second of absolute quiet that ripples down my arm, making the primary feathers along my wings rustle in reflexive, soothed contentment. 
 
-Tsunari takes a measured sip, caps the canteen, and slides it back into her harness. 
+I reach into my flight harness and pull out a silver vacuum-sealed foil packet—standard Directorate field ration AE-4. I offer it to her.
+
+She takes it, squinting at the sterile industrial barcode. "What is this? Liquid chalk?"
+
+"Concentrated lipid paste and hydrolyzed soy protein," I answer. "Two thousand calories. Keeps a flight commander functional for twenty-four hours in sub-zero alpine conditions."
+
+She pops the foil tab, squeezes a dab onto her fingertip, and touches it to her tongue. Her face immediately twists into an expression of profound, offended disgust.
+
+"It tastes like powdered drywall mixed with hydraulic grease," she mutters, handing it back with two fingers like a contaminated bio-hazard. "Is this what they feed the glorious eagles of Eden Alpha? No wonder you look like you want to murder the horizon. In the sumps, even the sewer rats have the decency to season their moss."
+
+A low, genuine laugh breaks from my chest before I can stop it—a sound so foreign, so rusty from years of disuse, that the feathers along my wing-roots flutter in surprise.
+
+"It's military issue," I offer.
+
+"It's an atrocity," she counters, taking a sip from her canteen to rinse her mouth. "If we survive this, Commander, I’m introducing you to real food. Even if it's fried sulfur-dough from the market."
+
+A strange warmth tightens in my ribs—not the burning fever of the siphon, but something far more dangerous.
+
+Tsunari caps the canteen, slides it back into her harness, and looks north toward the perimeter lights.
 
 "Cassian won't wait for dawn," she says, her tactical mind seamlessly reclaiming the space. "If he’s as disciplined as you say, he’s already reviewing the telemetry logs from your prowler. He knows you didn't deviate into the southern conduits by accident."
 
