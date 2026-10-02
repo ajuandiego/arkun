@@ -94,7 +94,8 @@ function parseChapter(rawMarkdown, filename, index) {
     }
   }
   if (quoteLines.length > 0) {
-    epigraph = quoteLines.join(' ');
+    epigraphDescription = quoteLines.slice(0, 1).join(' '); //should be the first element of quoteLines array
+    epigraph = quoteLines.slice(1).join(' '); //should be the rest of the elements of quoteLines array
   }
 
   // Remove top H1, epigraph quote, and divider from narrative body
@@ -127,6 +128,7 @@ function parseChapter(rawMarkdown, filename, index) {
     title,
     pov,
     epigraph,
+    epigraphDescription,
     bodyHtml: toStrictXHTML(bodyHtml),
     wordCount: rawMarkdown.trim().split(/\s+/).length
   };
@@ -359,6 +361,7 @@ function generateChapterXHTML(chapter) {
     <aside role="doc-epigraph" epub:type="epigraph" class="doc-epigraph">
       <div class="epigraph-label">${chapter.pov.toLowerCase().includes('vram') ? 'Tactical Dossier // Codex' : 'Neural Intercept // Audio Log'}</div>
       <blockquote>${chapter.epigraph}</blockquote>
+      <p class="epigraph-description">${chapter.epigraphDescription}</p>
     </aside>
     ` : ''}
 

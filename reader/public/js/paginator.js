@@ -67,7 +67,7 @@ class BookPaginator {
       }
 
       // Add drop-cap to first narrative paragraph
-      if (tagName === 'p' && isFirstParagraph && !node.closest('blockquote')) {
+      if (tagName === 'p' && isFirstParagraph && !node.closest('blockquote') && !node.classList.contains('epigraph-description')) {
         const text = node.innerHTML.trim();
         if (text.length > 1) {
           const firstChar = text.charAt(0);

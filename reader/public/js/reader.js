@@ -325,6 +325,19 @@ class NovelReader {
     }
   }
 
+  renderEpigraph(epigraph, epigraphDescription) {
+    if (!epigraph && !epigraphDescription) return '';
+    let html = '';
+    if (epigraph) {
+      html += `<blockquote>${epigraph}</blockquote>`;
+    }
+    if (epigraphDescription) {
+      html += `<p class="epigraph-description">${epigraphDescription}</p>`;
+    }
+    html += '<hr>';
+    return html;
+  }
+
   async buildFullVolumePages() {
     const pages = [];
     const fullRes = await fetch(`/api/books/${this.currentBookId}/full`);
@@ -433,9 +446,7 @@ class NovelReader {
         </div>
       `;
 
-      if (chap.epigraph) {
-        chapterHtml += `<blockquote>${chap.epigraph}</blockquote><hr>`;
-      }
+      chapterHtml += this.renderEpigraph(chap.epigraph, chap.epigraphDescription);
 
       // Add chapter narrative body
       const cleanNarrativeHtml = chap.html
@@ -561,9 +572,7 @@ class NovelReader {
       </div>
     `;
 
-    if (chapData.epigraph) {
-      chapterHtml += `<blockquote>${chapData.epigraph}</blockquote><hr>`;
-    }
+    chapterHtml += this.renderEpigraph(chapData.epigraph, chapData.epigraphDescription);
 
     const cleanNarrativeHtml = chapData.html
       .replace(/<h1[^>]*>.*?<\/h1>/i, '')

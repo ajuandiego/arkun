@@ -30,12 +30,50 @@ function countWords(str) {
   return (str || '').trim().split(/\s+/).filter(Boolean).length;
 }
 
+// Split a chapter's opening quote into the passage and its source line.
+// Source lines either lead the quote (audio-log headers) or follow it (em-dash attributions).
+function splitEpigraph(quoteLines) {
+  const lines = quoteLines.map(line => line.trim()).filter(Boolean);
+  if (lines.length === 0) {
+    return { epigraph: '', epigraphDescription: '' };
+  }
+  if (lines.length === 1) {
+    return { epigraph: lines[0], epigraphDescription: '' };
+  }
+
+  const isAttribution = (line) => /^[—–-]/.test(line);
+  const isQuoted = (line) => /["“]/.test(line);
+
+  const attributionAt = lines.findIndex(isAttribution);
+  if (attributionAt > 0) {
+    return {
+      epigraph: lines.slice(0, attributionAt).join(' '),
+      epigraphDescription: lines.slice(attributionAt).join(' ')
+    };
+  }
+
+  if (!isQuoted(lines[0]) && lines.slice(1).some(isQuoted)) {
+    return {
+      epigraph: lines.slice(1).join(' '),
+      epigraphDescription: lines[0]
+    };
+  }
+
+  return { epigraph: lines.join(' '), epigraphDescription: '' };
+}
+
+function renderEpigraphHtml(markdown) {
+  if (!markdown) return '';
+  return marked.parseInline(markdown);
+}
+
 // Helper to parse chapter info
 function parseChapterMetadata(rawContent, filename) {
   const lines = rawContent.split('\n');
   let title = filename.replace(/\.md$/, '').replace(/_/g, ' ');
   let pov = 'Omniscient';
   let epigraph = '';
+  let epigraphDescription = '';
 
   // Check first header
   for (let i = 0; i < Math.min(lines.length, 10); i++) {
@@ -65,7 +103,9 @@ function parseChapterMetadata(rawContent, filename) {
     }
   }
   if (quoteLines.length > 0) {
-    epigraph = quoteLines.join(' ');
+    const split = splitEpigraph(quoteLines);
+    epigraph = renderEpigraphHtml(split.epigraph);
+    epigraphDescription = renderEpigraphHtml(split.epigraphDescription);
   }
 
   const words = countWords(rawContent);
@@ -76,6 +116,7 @@ function parseChapterMetadata(rawContent, filename) {
     title,
     pov,
     epigraph,
+    epigraphDescription,
     wordCount: words,
     readingTimeMinutes
   };
