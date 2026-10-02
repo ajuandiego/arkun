@@ -1,6 +1,7 @@
-# Book 2: The Iron Chrysalis — Chapter Breakdown
+# Book 2: Crown of Salt — Chapter Breakdown
 
-> **Series:** The Storm-Born Cycle (Book 2 of 3)  
+**Author:** J.D. Alfaro  
+> **Series:** The Arkun Cycle (Book 2 of 3)  
 > **Structure:** 24 Chapters | **Format:** Alternating Dual First-Person (or Third-Person Limited) POV — **Tsunari** & **Vram**  
 > **Core Romance Arc:** Deepening Devotion Tested by War & Separation (Heat: 🌶️🌶️ to 🌶️🌶️🌶️)  
 > **Settings:** Sector 09, The Torrid Kiln, The Salt Flats, Southern Dome Meridian, Subterranean Rebel HQ, and Ascent to Spire Prime

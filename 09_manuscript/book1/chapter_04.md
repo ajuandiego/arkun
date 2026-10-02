@@ -54,7 +54,11 @@ She sheared a steel-braided hydraulic line with a single, sweeping talon strike.
 
 The recognition hit me like a physical blow. 
 
-The Dromaeon lineage was supposedly wiped out during the Great Purge fifteen years ago. The Directorate classified the strain as uncontrollable—too fast, too intelligent, too resistant to psychological conditioning. They were exterminated in their cribs, their genetic templates expunged from the archives.
+Memory flared in the back of my mind—a cold, sickening recollection from fifteen years ago, during the Great Purge. I had been thirteen years old, a newly collared fledgeling in the training barracks of Sector 04, forced to stand at attention while Directorate tactical teams dragged the Dromaeon crèches into the street. The officers had told us that the raptor strain was defective. They said the dromaeon genome was feral, un-stabilized, incapable of accepting the Silver Spine without suffering violent psychological psychosis. 
+
+*‘A raptor cannot be collared,’* the Chief Inquisitor had announced before the flamethrowers ignited. *‘And what cannot be collared must be purged.’*
+
+They had exterminated them in their cribs. They burned their gene seeds, wiped their records from the bio-archives, and told the world the lineage was extinct.
 
 Yet here she stands. Breathing. Lethal. Free.
 

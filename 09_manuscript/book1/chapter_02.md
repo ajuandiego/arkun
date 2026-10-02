@@ -4,75 +4,89 @@
 
 ***
 
-Three thousand feet above the rusted slag of Sector 09, the wind tastes of razor wire and freezing sulfur.
+Three thousand feet above the rusted slag of Sector 09, the wind tastes of razor wire, ozone, and freezing sulfur.
 
-It screams across the black granite launch apron, whipping off the curve of Dome Alpha’s titanium spine with enough velocity to shear the flesh off an unaugmented human. Out here, on the naked lip of the roost, there are no safety cables. No painted warning lines. No guardrails to catch a stumbling boot. 
+It screams across the black granite launch apron, whipping off the curved titanium spine of Dome Alpha with enough velocity to shear the skin off an unaugmented human. Out here, on the naked lip of the roost, there are no safety cables. No painted yellow hazard stripes. No guardrails to catch a stumbling boot. 
 
-The Directorate engineers who poured the cantilevered granite didn’t bother with railings. If a soldier of Aeros-Legion 7 steps off the edge and doesn’t have the instinct or the wing-strength to catch the freezing thermals, the Directorate considers the three-thousand-foot drop a self-correcting administrative error.
+The Directorate engineers who poured the cantilevered stone forty years ago didn’t bother with railings. Their logic was as cold and efficient as their budget spreadsheets: if a soldier of Aeros-Legion 7 steps off the edge and doesn’t have the instinct or the wing-strength to catch the freezing thermals, the three-thousand-foot drop is considered a self-correcting administrative error.
 
 Flesh is cheap. Titanium is not.
 
-I stand three inches from the void, my heavy flight boots planted on the ice-slicked stone, looking out into the copper abyss.
+I stand three inches from the void, the heavy soles of my flight boots planted on the frost-slicked stone, looking out into the copper abyss.
 
-The sky below me is a roiling, suffocating blanket of toxic dust, lit from beneath by the flickering, sickly amber neon of the Gray Sector gutters. Further south, the dead Photovoltaic Graveyard stretches into the gloom—ten square miles of shattered solar mirrors angling like fractured black teeth toward a sun that hasn't shone clean since the Resource Wars broke the world forty years ago.
+The sky below me is a roiling, suffocating blanket of toxic dust, lit from beneath by the flickering, sickly amber neon of the Gray Sector gutters. It looks like an open grave lined with dying embers. Further south, the dead Photovoltaic Graveyard stretches into the gloom—ten square miles of shattered solar mirrors angling like fractured black teeth toward a sun that hasn't shone clean since the Resource Wars broke the world forty years ago.
 
-And hanging in the upper mesosphere, silent and terrible above the smog, three black obsidian obelisks hover in absolute stillness. 
+And hanging in the upper mesosphere, silent, ancient, and terrible above the copper smog, three black obsidian obelisks hover in absolute stillness. 
 
-*Vaelen Harvester Barges.* 
+*Vaelen Harvester Barges.*
 
-They don't move. They don't make a sound. They simply float like geometric coffin-ships in the stratosphere, siphoning Earth’s nitrogen and vapor into their alien bellies while the Consortium directors drink champagne under Dome Alpha’s climate-controlled polycarbonate sky. 
+They don't move. They don't emit heat. They don't make a sound. They simply float like geometric coffin-ships in the thin upper air, siphoning Earth’s nitrogen and vapor into their alien bellies while the Consortium directors drink champagne under Dome Alpha’s climate-controlled polycarbonate sky. 
 
-Baseline humans haven't built a fighter jet in two generations. When the oil wells ran dry and the microchip foundries were bombed to powdered glass, the jet turbines died with them. Kerosene is a myth whispered by dying old men. Micro-avionics rusted away in desert boneyards. 
+Baseline humans haven't built a fighter jet in two generations. When the oil wells were sabotaged and the microchip foundries were bombed to powdered glass during the Collapse, the jet turbines died with them. Kerosene is a fairy tale whispered by dying old men around oil drums. Micro-avionics rusted away into useless brown flakes in desert boneyards. 
 
-So the Consortium adapted. They took the orphaned children of the Gray Sector, cracked open our chromosomes, and spliced what nature had perfected a hundred million years before man invented the combustion engine. 
+So the Consortium adapted with corporate cruelty. They took the orphaned children of the Gray Sector, cracked open our chromosomes, and spliced what nature had perfected a hundred million years before man ever dreamed of a combustion engine. 
 
-They gave us hollow titanium-reinforced bones. They gave us fourteen feet of predatory primary quills anchored into dense thoracic muscle. They gave us hyper-oxygenated avian lungs that laugh at thin air. 
+They gave us hollow titanium-reinforced bones. They gave us fourteen feet of predatory, razor-sharp flight quills anchored directly into dense thoracic muscle across our shoulder blades. They gave us hyper-oxygenated avian lungs that laugh at thin air and twelve gravities of rotational torque. 
 
-Flesh heals. Flesh doesn't require imported synthetic fuel—just bowls of sulfurous algae mash and state-rationed nutrient sludge. 
+Flesh heals. Flesh doesn't require imported synthetic kerosene—just twice-daily bowls of sulfurous algae mash and state-rationed nutrient sludge that tastes like chalk and wet zinc. 
 
-We are their air force. Disposable. Deadly. Grounded only by the titanium leash drilled into our necks.
+We are their air force. Disposable. Deadly. Grounded only by the titanium leash drilled into our cervical vertebrae.
 
 A sudden, vicious bolt of white-hot agony drives through the base of my skull.
 
-I flinch, my jaw clenching so hard my molars creak. My right hand rises instinctively to my throat, fingers curling over the knurled titanium rim of the cervical siphon port sunk into the junction between my skull and spine. 
+I flinch, my jaw clamping shut so hard my molars creak in their sockets. My right hand rises instinctively to my throat, fingers curling over the knurled titanium rim of the cervical siphon port sunk into the junction between my skull and spine. 
 
-The port is scalding hot. The synthetic neural lattice laced through my gray matter—the Consortium’s little insurance policy, the "Silver Spine"—is humming its hourly diagnostic frequency. It feels like someone is driving an electrified sewing needle into my optic nerve.
+The port is scalding hot to the touch. The synthetic neural lattice laced through my gray matter—the Consortium’s little insurance policy, the "Silver Spine"—is humming its hourly diagnostic frequency. It feels like someone is driving an electrified sewing needle through the back of my head and wiggling the point behind my optic nerve.
 
 *Static. High-pitch whine. Compliance verified.*
 
-"Easy, Boss," a voice calls from the sheltered alcove behind me. "Rub that socket any harder and you'll strip the threading. Directorate mechanics charge two days’ pay just to calibrate the screws."
+"Easy, Boss," a voice calls from the sheltered alcove behind me. "Rub that socket any harder and you'll strip the threading. Directorate mechanics charge two weeks’ pay just to calibrate the screws."
 
-I exhale slowly through my nose, forcing the muscles in my neck to unlock. The breath plumes into the sub-zero wind, thick with the heat of my own lungs. 
+I exhale slowly through my nose, forcing the muscles in my neck to unlock one by one. The breath plumes into the sub-zero wind, thick and white with the internal heat of my own lungs. 
 
-My body temperature sits at a constant 106 degrees Fahrenheit. Inside my chest, the Simurgh strain burns like a blast furnace—a metabolism tuned so hot that the freezing wind rolling off the dome feels like nothing more than a cool hand on fevered skin. My dark sleeveless flight tunic, cut from heavy charcoal ballistic weave with burnished copper piping, leaves my shoulders and arms completely bare. 
+My core body temperature sits at a constant 106 degrees Fahrenheit. 
 
-Where the freezing draft hits my skin, it doesn't give me goosebumps. It dissipates in faint, shimmering heat ripples.
+Inside my chest, the Simurgh strain burns like a blast furnace—a hyper-accelerated metabolism that demands six thousand calories a day just to keep my organs from cannibalizing themselves. The bitter sub-zero gale rolling off the dome doesn't make me shiver. It feels like nothing more than a cool hand pressed against fevered skin. 
 
-"Calder," I say, my voice carrying the low, gravelly rasp of vocal cords scorched by high-altitude ice. "If you spent as much time checking your primary flight pins as you do watching my neck, you wouldn't have stalled out in the crosswinds during yesterday's patrol."
+My dark sleeveless flight tunic, tailored from charcoal ballistic canvas with burnished copper piping, leaves my broad shoulders and muscular arms completely bare. 
 
-Corporal Ferrin Calder—callsign *Rook*—sits lazily on an upturned titanium munitions crate twenty paces back, tucked under the granite overhang. His dark raven wings are half-spread behind him, resting against the stone like ragged cloaks as he gnaws on a leathery strip of dried protein ration.
+Where the freezing draft hits my skin, it doesn't give me goosebumps. It dissipates in faint, shimmering ripples of convection heat.
 
-"Hey, the downdraft off Sector 09's smokestacks is an environmental hazard," Ferrin shoots back, waving the half-chewed ration bar. He leans toward me with a wicked grin, holding up a cold slab of flatbread. "Besides, why waste rations on the heating coils? Hold still for two minutes, Commander. Your shoulder's hot enough to toast my dinner."
+"Calder," I say, my voice carrying the low, gravelly rasp of vocal cords scorched by years of high-altitude ice. "If you spent as much time checking your primary flight pins as you do watching my neck, you wouldn't have stalled out in the crosswinds during yesterday's patrol."
+
+Corporal Ferrin Calder—callsign *Rook*—sits lazily on an upturned titanium munitions crate twenty paces back, tucked under the granite overhang of the roost. His dark raven wings are half-spread behind him, resting against the cold stone like ragged, feathered cloaks as he gnaws on a leathery strip of dried protein ration.
+
+"Hey, the downdraft off Sector 09's smokestacks is an environmental hazard," Ferrin shoots back, waving the half-chewed ration bar. He leans toward me with a wicked, irreverent grin, holding up a cold slab of flatbread. "Besides, why waste fuel on the barracks heating coils? Hold still for two minutes, Commander. Your shoulder's hot enough to toast my dinner."
 
 "Touch my shoulder with that grease," I reply without turning around, "and I'll pitch you off the cantilever without your flight harness."
 
 "Promises, promises."
 
-Leaning against the bulkhead next to him, arms crossed over his chest, is Cassian. My second-in-command is older than the rest of us—thirty-two years old, which in Aeros-Legion makes him an ancient patriarch on borrowed time. His face is a roadmap of scar tissue from shrapnel bursts over the southern border, his slate-gray wings folded tight against his broad back like overlapping iron shields. He doesn't laugh at Ferrin's jokes. He just watches the cloud deck with the cold, calculating eyes of a bird of prey that has buried too many fledglings.
+Leaning against the bulkhead next to him, arms crossed over his chest, is Cassian. 
+
+My second-in-command is thirty-two years old, which in Aeros-Legion makes him an ancient patriarch living on borrowed time. His face is a roadmap of scar tissue from shrapnel bursts over the southern border, his slate-gray wings folded tight against his broad back like overlapping iron shields. He doesn't laugh at Ferrin's jokes. He just watches the cloud deck with the cold, calculating eyes of a veteran raptor who has buried too many fledglings.
 
 "Wind's picking up from the north," Cassian murmurs, nodding toward the dark rust-colored squall gathering on the horizon. "Fine iron particulate. It's going to scour our flight feathers to ribbons if we get scrambled into that mess."
 
 "Then we preen after," I say.
 
+"Easy for you to say," Ferrin mutters, picking at a flight quill. "Simurgh primaries regrow in forty-eight hours. My Gryphon quills take three weeks of oiling and swearing just to stop whistling in a dive."
+
+I glance down at my own wingtips. 
+
+He's right, of course. The Simurgh strain was engineered for rapid cellular regeneration—our feathers molt and knit overnight, our cuts smoke and close within minutes, and our hearts carry an automatic defibrillation pulse that can restart our core if we flatline under G-force shock. But that regenerative fire comes at a terrible price: the hotter the furnace burns, the faster the Silver Spine cooks the brain.
+
 Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
 
 I don't need to look to know who it is. The scent reaches me first: crushed eucalyptus, zinc, and the sharp medicinal sting of numbing paste.
 
-Specialist Tobin Vance steps out of the shadow of the blast doors. At nineteen, Toby is the youngest chimeric recruit assigned to my flight wing. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+Specialist Tobin Vance steps out of the shadow of the blast doors. 
+
+At nineteen, Toby is the youngest chimeric recruit assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
 
 "Commander," Toby whispers, his voice barely carrying over the wind. 
 
-He holds out a small, circular gel patch wrapped in sterile foil.
+He holds out a small, circular gel patch wrapped in sterile silver foil.
 
 "You're squinting," Toby says, his hazel eyes wide and anxious. "The left side of your jaw is twitching. That's the fourth time today the siphon's flared, isn't it? The ice-salve helps. I... I traded two nutrient tubes to the bio-techs in sub-level three for it."
 
@@ -80,11 +94,23 @@ I look down at the boy.
 
 He shouldn't be here. In a sane world, a kid with hands as gentle as his would be studying botanical architecture in the interior gardens, not wearing an officer's leash and sleeping in an unheated granite barracks with forty other spliced killers. But the draft boards don't care about gentle hands. They saw high pulmonary capacity and hollow bone density, and they stamped him for the sky.
 
-"You need those nutrient tubes, Vance," I say, keeping my tone clipped, military. "Your body mass index is down three percent this month. If you burn off your fat reserves, your core temperature will crash during high-altitude patrol."
+Memory stirs unbidden in the dark corners of my mind—a sudden, sharp recollection of my own fledging trials nineteen years ago. 
+
+I remember standing on this exact stone precipice at nine years old, shivering in an oversized flight harness, my newly sprouted primary feathers aching where they tore through the skin of my back. The training instructor—a scarred, humorless Gryphon sergeant named Vance—hadn't given a speech. He had simply walked behind me and kicked me square between the shoulder blades.
+
+*‘Fly or paint the rocks, 701!’*
+
+I remember the terrifying, endless plummet through the freezing smog, the sensation of three thousand feet of empty air rushing past my ears, the absolute certainty of my own death. And then, at the last second, the violent, instinctual snap of my wings catching the updraft—the bone-crushing jolt of kinetic drag, the roar of the wind beneath my feathers, and the triumphant, terrifying realization that I was no longer human. 
+
+I was an eagle with a number on my arm.
+
+"You need those nutrient tubes, Vance," I say, keeping my tone clipped, military, pushing the memory back into the dark. "Your body mass index is down three percent this month. If you burn off your fat reserves, your core temperature will crash during high-altitude patrol."
 
 "I have enough, sir," Toby lies, looking at his boots. "Please. Take it."
 
-My chest tightens with something dangerous and unpermitted—the quiet, heavy weight of brotherhood. In this unit, caring for each other is the only rebellion we have left. The Directorate can monitor our biometrics through the siphon ports, but they cannot scrub the silent solidarity forged between men who share the same cage.
+My chest tightens with something dangerous and unpermitted—the quiet, heavy weight of brotherhood. 
+
+In Aeros-Legion, caring for each other is the only rebellion we have left. The Directorate can monitor our biometrics through the siphon ports, they can listen to our comms, and they can measure our heart rates from their glass towers, but they cannot scrub the silent solidarity forged between men who share the same cage.
 
 "Thank you, Toby," I say softly.
 
@@ -110,10 +136,10 @@ Simultaneously, the titanium port at the base of my skull discharges a violent p
 
 I drop to one knee, the granite slamming into my shin. White fire blinds me. Ferrin drops his flatbread, his hand instantly flying to his sidearm. Cassian pushes off the wall, his wings flaring wide to catch his balance as his own siphon port receives the emergency telemetry broadcast.
 
-*DIRECTORATE OVERRIDE // CODE RED // BREACH IDENTIFIED.*
-*SECTOR 09 PERIMETER // CONDUIT 12-B COMPROMISED.*
-*SECURITY VAULT 4 DECRYPTED.*
-*PAYLOAD EXTRACTED: LAZARUS TELEMETRY CORE.*
+*DIRECTORATE OVERRIDE // CODE RED // BREACH IDENTIFIED.*  
+*SECTOR 09 PERIMETER // CONDUIT 12-B COMPROMISED.*  
+*SECURITY VAULT 4 DECRYPTED.*  
+*PAYLOAD EXTRACTED: LAZARUS TELEMETRY CORE.*  
 *ORDERS: INTERCEPT. RETRIEVE PAYLOAD. VIVISECT INTRUDER.*
 
 The word *vivisect* echoes through my auditory cortex with cold, bureaucratic finality. 

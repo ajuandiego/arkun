@@ -81,11 +81,23 @@ I am twenty-eight years old. In Aeros-Legion, twenty-eight is the edge of the cl
 
 The human brain was never designed to house an alien quantum transceiver. By age thirty, every winged soldier of the Simurgh and Gryphon strains succumbs to *Lattice Burn*—the progressive, catastrophic neuro-decay caused by long-term rejection of the Silver Spine. 
 
-First come the micro-tremors in the fingers. Then the blinding optical migraines that turn sunlight into razors. Then the core fever spikes past 109 degrees, cooking the temporal lobes until the pilot forgets his own squadmates' faces. And finally, the cerebral blowout: a massive, fatal seizure mid-flight, a winged corpse folding into a terminal stoop and crashing like a meteor into the salt flats.
+I remember Commander Gabriel. 
 
-Cassian has two years left. Ferrin has four. 
+Two years ago, Gabriel was the proudest flight commander in the northern hemisphere. Thirty years old, with wings like thunderclouds and a chest covered in valor citations. 
 
-I have less than twenty-four months before my brain turns to soup and the Directorate drags my carcass to the incinerator to make room for the next batch of spliced children.
+I remember watching him in the mess hall during his final weeks. His hands shook so violently he couldn't keep water in his metal cup. His molten eyes had clouded over with a milky, violet haze as his retinal capillaries slowly cooked from the inside out. He sat by the window, muttering that the sky was on fire, that the Vaelen were singing inside his teeth. 
+
+Three weeks later, on routine border patrol, Gabriel suffered a massive cerebral blowout at ten thousand feet. His wings locked, his cardiac core auto-defibrillated three times in mid-air until his heart ruptured, and his body crashed like a two-hundred-pound artillery shell into the salt flats.
+
+The Directorate didn't hold a funeral. They didn't even salvage his remains. 
+
+They sent an administrative requisition form to Sub-Level 3, deleted Gabriel's serial number from the flight roster, and promoted me to Commander. 
+
+That was the day I realized that every winged soldier in this legion is standing on a conveyor belt that leads directly into a corporate incinerator.
+
+Cassian has two years left. Ferrin has four. Toby... sweet, gentle Toby has perhaps eight.
+
+And I have less than twenty-four months before my brain turns to boiling mush.
 
 I look at my hands on the console. 
 

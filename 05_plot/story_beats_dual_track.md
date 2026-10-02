@@ -1,6 +1,7 @@
 # Book 1: Dual-Track Plot & Romance Architecture
 
-> **Book 1:** *A Spark in the Rust* | **Protagonists:** Tsunari & Vram
+**Author:** J.D. Alfaro  
+> **Book 1:** *Stolen Breath* (The Arkun Cycle) | **Protagonists:** Tsunari & Vram
 
 Romantasy requires the external action plot and the internal romantic progression to be inextricably linked: **every external crisis must force an escalation in their psychological, biological, and physical intimacy while rigorously subverting predictable tropes.**
 

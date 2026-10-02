@@ -1,6 +1,7 @@
-# Book 1: A Spark in the Rust — Chapter Breakdown
+# Book 1: Stolen Breath — Chapter Breakdown
 
-> **Series:** The Storm-Born Cycle (Book 1 of 3)  
+**Author:** J.D. Alfaro  
+> **Series:** The Arkun Cycle (Book 1 of 3)  
 > **Target Length:** ~105,000 Words (~400 Printed Pages) | **Target Chapter Length:** 2,200 – 2,600 Words  
 > **Structure:** 44 Chapters | 4 Parts | **Format:** Alternating Dual POV — **Tsunari** & **Vram** (No Chapter Titles)  
 > **Chapter Header Architecture:** Intercalated Epigraphs alternating between **Archival Quotes & Artifacts** (Odd Chapters) and **The Glass Vault Lexicon / Dictionary Entries** (Even Chapters)  

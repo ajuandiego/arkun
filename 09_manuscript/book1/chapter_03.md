@@ -7,9 +7,9 @@
 
 The storm does not merely blow outside the wall. It chews.
 
-It chews through iron siding, through galvanized steel, through the calloused skin of anyone foolish enough to walk the dunes without a full-face respirator. 
+It chews through corrugated zinc siding, through galvanized steel conduits, and through the calloused skin of anyone foolish enough to walk the dunes without a full-face respirator. 
 
-I hit the sand in a low, sliding crouch. The acid dust boils around my boots, stinging the bare skin of my shoulders and upper arms like a thousand hot needles. The dry copper heat of the wasteland—a sweltering 110 degrees even in the dying twilight—slams into my chest, but I don't slow down. My high, stiff collar and wrapped linen gaiter are pulled tight over my throat, protecting my airway from the alkaline grit and concealing the smooth, unblemished skin where the Directorate’s titanium leash ought to be.
+I hit the sand in a low, sliding crouch. The acid dust boils around my boots, stinging the bare skin of my shoulders and upper arms like a thousand hot needles. The dry copper heat of the wasteland—a sweltering 110 degrees even in the dying twilight—slams into my chest like an open oven, but I don't slow down. My high, stiff mandarin collar and wrapped linen gaiter are pulled tight over my throat, protecting my airway from the alkaline grit and concealing the smooth, unblemished skin where the Directorate’s titanium leash ought to be.
 
 A gust of wind catches me sideways, carrying a fistful of pulverized iron sand directly into my face.
 
@@ -29,13 +29,25 @@ Inside the reinforced pocket of my leather chest harness, the stolen crystal dat
 
 I sprint across the crest of the first dune, my elongated foot tendons working like hyper-elastic coiled springs. With every stride, my legs drive three times deeper and push four times harder than any baseline human’s could. I don’t run with the heavy, heel-striking plod of the scavengers; my center of gravity stays low, fluid, gliding over the shifting powder. 
 
+Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking kerosene stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
+
+*‘You run like a human, Tsune,’* the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. *‘Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you.’*
+
+He was right. 
+
+I don't fight the sand. I ride it.
+
 Fifty yards ahead, the darkness opens up into a jagged forest of dead technology: the Photovoltaic Graveyard.
 
 Before the Storm forty years ago—before the copper dust turned the skies into an open furnace and the black Vaelen barges appeared like floating tombs in the stratosphere—humanity tried to save itself with clean light. They covered miles of desert with towering parabolic mirrors, sixty-foot bowls of polished silver and obsidian glass designed to capture the sun and boil water into clean turbine steam.
 
-Then the Resource Wars came. Then the dust rolled in.
+Then the Resource Wars came. Then the corporate syndicates realized that sunlight couldn't be metered, couldn't be taxed, and couldn't be weaponized to keep three billion workers in chains. 
 
-Now, thousands of shattered mirrors rise from the sand dunes like the ribs of beached Leviathans. The glass is crazed and blackened by acid rain. Half-buried steel pylons groan in the wind. Sand has drifted against the concave mirrors, creating thirty-foot slides of glass and iron slag.
+So they let the mirrors die.
+
+Now, thousands of shattered mirrors rise from the sand dunes like the ribs of beached Leviathans. The glass is crazed and blackened by forty years of acid rain. Half-buried steel pylons groan in the wind, their hollow frames humming like giant, discordant tuning forks as the gale tears through the canyon of glass. 
+
+In the troughs between the dunes, the copper storm interacts with the shattered silica in strange, haunting ways. Static electricity dances across the mirror shards in faint, ghostly webs of violet arc-light, illuminating twisted, black spires of fulgurite—places where lightning struck decades ago, fusing the iron sand and glass into jagged, crystalline monuments.
 
 It is a nightmare landscape for anyone trying to navigate on foot.
 
@@ -47,7 +59,7 @@ Behind me, the wind carries a sound that cuts through the roar of the squall: th
 
 Two ground scouts from the Directorate’s Iron Division. 
 
-I glance over my shoulder through the swirling copper fog. They’re coming fast, their heavy combat suits powered by pneumatic hydraulic actuators that hiss with every twenty-foot leap. They carry high-voltage capture nets and arc-rifles designed to disable chimeras without damaging internal organs. The Directorate wants me intact. They want the core back, and they want my corpse fresh enough for the dissection tables.
+I glance over my shoulder through the swirling copper fog. They’re coming fast, their heavy combat suits powered by pneumatic hydraulic actuators that hiss with every twenty-foot leap across the sand. They carry high-voltage capture nets and arc-rifles designed to disable chimeras without damaging internal organs. The Directorate wants me intact. They want the core back, and they want my corpse fresh enough for the dissection tables.
 
 And above them? 
 
@@ -57,7 +69,7 @@ I can’t see him through the smog, but I can feel the change in the air pressur
 
 *You picked the wrong rabbit, bird-boy.*
 
-I vault over a shattered titanium girder, dropping ten feet into the shadowed trench beneath a bank of tilted parabolic mirrors. The air here is trapped, stifling, thick with the smell of scorched glass and hot desert ozone.
+I vault over a shattered titanium girder, dropping ten feet into the shadowed trench beneath a bank of tilted parabolic mirrors. The air here is trapped, stifling, thick with the smell of scorched glass, cold sulfur, and hot desert ozone.
 
 I slide to a halt beside the rusted steel foundation of Mirror Bank 402.
 

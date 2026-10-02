@@ -31,12 +31,12 @@
 ## 2. Trilogy Heat & Spice Profile Arc
 
 ```
-[ BOOK 1: A Spark in the Rust ]  -->  🌶️ to 🌶️🌶️ (Restrained Tension, Fever Triage & Blood Compact)
-[ BOOK 2: The Iron Chrysalis ]   -->  🌶️🌶️ to 🌶️🌶️🌶️ (Geothermal Haven Consummation & Heartbreak)
-[ BOOK 3: The Unchained Sky ]    -->  🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️ (Touch-Starved Reunion & Sovereign Climax)
+[ BOOK 1: Stolen Breath ]  -->  🌶️ to 🌶️🌶️ (Restrained Tension, Fever Triage & Blood Compact)
+[ BOOK 2: Crown of Salt ]  -->  🌶️🌶️ to 🌶️🌶️🌶️ (Geothermal Haven Consummation & Heartbreak)
+[ BOOK 3: Unleashed ]      -->  🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️ (Touch-Starved Reunion & Sovereign Climax)
 ```
 
-### Book 1: *A Spark in the Rust* (Restrained Tension, Fever Triage & Blood Compact)
+### Book 1: *Stolen Breath* (Restrained Tension, Fever Triage & Blood Compact)
 *   **Spice Level:** 🌶️ to 🌶️🌶️ (Sensory Overload, Agonizing Restraint, and Intimate Triage)
 *   **The Progression:**
     *   *Weaponized Friction (Act I):* Knife edge pressed against breastbone; breath mingling over an interrogation bench; cold hostility masking visceral sensory shock.
@@ -46,14 +46,14 @@
     *   *The Near-Kiss / The Standoff (Act III):* In the shadowy bunker during an artillery siege, pressed chest-to-chest against cold ferro-concrete. Lips millimeters apart, breathing each other's air, electricity crackling—stopped only by the incoming shriek of an orbital missile strike.
     *   *The Climax Compact:* In the quiet rubble of Sector 09, hands clasping in blood and ash. A covenant of absolute equals, withholding full physical surrender until the world burning around them is broken.
 
-### Book 2: *The Iron Chrysalis* (Fierce Passion & Heartbreaking Separation)
+### Book 2: *Crown of Salt* (Fierce Passion & Heartbreaking Separation)
 *   **Spice Level:** 🌶️🌶️ to 🌶️🌶️🌶️ (Full Consummation & Deep Vulnerability)
 *   **Key Beats:**
     *   *The Geothermal Haven:* In a secluded subterranean sulfur spring beneath the Salt Flats, the simmering restraint of months completely detonates into fierce, ravenous, and deeply emotional physical consummation.
     *   *Morning After & Domestic Tenderness:* The ferocious flight commander waking up entirely unguarded, burying his face in the crook of her neck, whispering *"Tsunie"* as a quiet, sacred prayer.
     *   *The Agony of Separation:* The hermetic blast door sealing between them as Vram stays behind to detonate the bio-furnace, tearing their nervous systems apart just after reaching total union.
 
-### Book 3: *The Unchained Sky* (Touch-Starved Reunion & Sovereign Catharsis)
+### Book 3: *Unleashed* (Touch-Starved Reunion & Sovereign Catharsis)
 *   **Spice Level:** 🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️ (Sovereign Surrender & Explosive Reunion)
 *   **Key Beats:**
     *   *The Zero-G Orbital Rescue:* Cutting his titanium chains in the Spire's vivisection bay; the desperate, weeping, touch-starved collision of mouths and bodies in zero gravity.

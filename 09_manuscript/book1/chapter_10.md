@@ -117,7 +117,19 @@ The red and violet strobes vanish from my retinas. The grinding, drilling pressu
 
 My forehead drops forward, resting against the worn leather of her utility harness, right between her breasts. 
 
-I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy beats per minute, calm, cursorial, unhurried. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
+I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy-four beats per minute, calm, cursorial, unhurried. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
+
+Memory flashes unbidden in the quiet: eight years ago, during my first medal ceremony in Dome Alpha’s Executive Spire. 
+
+I remember Director Elena Corvus in her immaculate white uniform, her white silk gloves cool against my collar as she pinned the copper star of Aeros-Legion to my chest. The scent of synthetic gardenias and ozone had clung to her like a shroud. 
+
+*‘Empathy is a congenital birth defect, Commander,’* Corvus had whispered in my ear, her cold, aristocratic fingers gripping my chin to force my gaze up to the glass ceiling. *‘A bird that looks down at the dirt crashes. You are the instrument of Eden, and instruments do not bleed.’*
+
+For eight years, I believed her. I wore the copper star, executed her orders, and pretended that cold obedience was an armor against the screaming in my skull.
+
+Corvus was wrong. 
+
+Instruments bleed. And sometimes, they choose who they bleed for.
 
 For a long, breathless moment, neither of us speaks. 
 

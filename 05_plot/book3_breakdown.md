@@ -1,6 +1,7 @@
-# Book 3: The Unchained Sky — Chapter Breakdown
+# Book 3: Unleashed — Chapter Breakdown
 
-> **Series:** The Storm-Born Cycle (Book 3 of 3)  
+**Author:** J.D. Alfaro  
+> **Series:** The Arkun Cycle (Book 3 of 3)  
 > **Structure:** 24 Chapters | **Format:** Alternating Dual First-Person (or Third-Person Limited) POV — **Tsunari** & **Vram**  
 > **Core Romance Arc:** Sovereign Equals / Unbreakable Bond & Primal Devotion (Heat: 🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️)  
 > **Settings:** Sector 09 Staging Ground, High-Altitude Gunship Fleet, Orbital Spire Prime, Spire Meridian, and The Open Earth

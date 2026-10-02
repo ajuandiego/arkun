@@ -108,19 +108,17 @@ The Silver Spine roars back to life with the fury of a kicked hornet's nest.
 
 A violent, blinding spike of red-hot synthetic feedback arcs across my brainstem. My vision strobes with searing white agony. A wave of intense, debilitating nausea rips through my gut, forcing a harsh, strangled groan from my throat. 
 
-*TELEMETRY OVERRIDE // COMPLIANCE SIGNAL DISRUPTED.*
-*BIO-ANOMALY DETECTED // SEVERE STATIC BREACH.*
+*TELEMETRY OVERRIDE // COMPLIANCE SIGNAL DISRUPTED.*  
+*BIO-ANOMALY DETECTED // SEVERE STATIC BREACH.*  
 *TARGET COMPROMISED // RE-ENGAGE. VIVISECT. ELIMINATE.*
 
-The Directorate's automated commands scream through my auditory cortex, loud enough to burst my eardrums.
+The Directorate's automated commands scream through my auditory cortex, loud enough to burst my eardrums. Blood drips from my nose, spattering dark against the gray concrete dust.
 
-I roll onto my hands and knees, my flight boots scrabbling against the glass-strewn floor, fighting against the blinding vertigo. Blood drips from my nose, spattering dark against the gray dust. 
+Through the haze of pain, a memory flashes like lightning across a scarred landscape: the smell of boiled potatoes and desert rain on a hot tin roof in the Gray Ring orphanage before they took me away. An anonymous woman’s voice humming an ancient tune over an oil lantern. The Directorate doctors had told me those memories were synaptic garbage—worthless waste heat that slowed down tactical latency.
 
-Through the haze of pain, I look up.
+They were wrong. That memory was the only real human thing I owned.
 
-She is already across the room. 
-
-She scoops her steel bodkin knife from the floor with a fluid, acrobatic sweep of her arm, sliding the blade back through the high braided bun of her raven hair. She snatches her amber goggles from the sand, jamming them around her neck, her high-collared tunic already pulled tight to mask the unblemished flesh of her throat.
+And looking at the woman sprinting toward the exit, I realize she just handed me the key to that locked room.
 
 She reaches the shattered threshold of the substation. 
 

@@ -49,6 +49,14 @@ I hit the concrete on my hands and knees, sliding through a drift of acid-bleach
 
 My amber welder goggles are knocked askew, dangling uselessly by their leather strap against my jaw. I rip them off with my left hand and fling them into the darkness, letting my horizontal slit pupils expand to drink in the gloom of the ruined substation.
 
+Memory flashes unbidden in the dark—an old anatomical sketch my father had unrolled across our workshop table in the Lower Sumps when I was twelve. Yellowed vellum covered in dense medical Latin and schematics of the human spinal column fused with raptor genetics.
+
+*‘Never try to out-wrestle an Aeros soldier, Tsune,’* Jeffrey Thorne had warned me, tapping the sketch with his grease-stained thumb. *‘Their bones are hollow, but they’re honeycombed with titanium web-lattice. Their pectoral muscles can bend a steel girder. In an open grapple, a flight commander will crush your ribcage like an eggshell. You fight their environment, or you strike their bridle.’*
+
+*Their bridle.* 
+
+The titanium siphon drilled into their spine.
+
 My spatial geometry takes over instantly. 
 
 The room is narrow—barely twenty feet wide, with a crumbling twelve-foot ceiling crisscrossed by dead conduit pipes, rusted steel girders, and hanging bundles of fried optical ribbon. A graveyard of pre-Storm electrical transformers hums with faint, dying residual static from the storm outside. 
@@ -191,7 +199,7 @@ If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Ke
 
 I don't try to reach for the dropped bodkin knife. I don't try to kick with the sickle-claw.
 
-I do the one thing a pinned prey never does to an apex predator.
+I remember my father's words: *Strike their bridle.*
 
 I stop fighting the grip on my wrists. 
 

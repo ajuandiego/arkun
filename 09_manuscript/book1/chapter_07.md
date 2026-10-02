@@ -5,15 +5,15 @@
 
 ***
 
-The first thing that returns is the smell: diesel fumes, scorching ozone, and hot, unpainted steel.
+The first thing that returns is the smell: diesel exhaust, scorching ozone, hot unpainted steel, and the faint, bitter tang of dried blood.
 
 The second thing is the pain.
 
-A dull, throbbing spike of agony pulses behind my temples, right where the back of my skull kissed the iron lintel of the substation door. I groan through my teeth, the taste of dry copper grit and dried blood coating my tongue. 
+A dull, rhythmic spike of agony pulses behind my right temple, right where the back of my skull slammed against the iron lintel of the substation door. I groan through my teeth, the taste of dry copper sand and split lip coating my tongue. 
 
 I don't open my eyes immediately. 
 
-In the undercity, opening your eyes the moment you wake up is an amateur mistake. When you're taken, you listen first. You smell. You assess the room's geometry and test your restraints before your captor realizes you're conscious.
+In the undercity, opening your eyes the second you regain consciousness is an amateur mistake that gets your throat cut. When you're taken, you listen first. You smell. You assess the room's acoustics, measure the vibration through the floor, and test your restraints before your captor realizes your brain is back online.
 
 The surface beneath my back is hard, vibrating metal. A rhythmic, heavy churning rattles through my spine—the distinctive, pneumatic clank of heavy rubber-and-steel treads chewing through deep sand. 
 
@@ -21,7 +21,7 @@ The surface beneath my back is hard, vibrating metal. A rhythmic, heavy churning
 
 I test my fingers. 
 
-They move. But when I try to pull my arms apart, a cold, unyielding weight locks my wrists together. 
+They twitch. But when I try to separate my forearms, a cold, unyielding weight locks my wrists together with an ominous magnetic hum.
 
 *Clack-hum.*
 
@@ -33,7 +33,7 @@ I flex my toes inside my boots.
 
 My soles are empty. The magnetic latches in my hollow boots are intact, but my ankles are secured to the lower bench frame by a reinforced braided steel cable. 
 
-I reach up with my internal senses, scanning my body. 
+I reach inward with my senses, scanning my body. 
 
 My high-collared combat tunic is still on. The wrapped linen neck gaiter has slipped slightly down my throat, but the stiff collar is still upright, still masking the unscarred skin where a siphon port should be. Across my ribs, my leather utility harness is still fastened.
 
@@ -105,9 +105,9 @@ I expected him to crush my skull. I expected his talons to rip my windpipe open.
 
 *Null-Resonance.*
 
-The word flashes through my mind, drawn from the yellowed pages of my father’s hidden journals. 
+Memory surfaces from my father’s cramped journals, written in faded black ink on yellowed pre-collapse paper:
 
-*‘The Vaelen leash is a synthetic quantum carrier wave,’* Jeffrey Thorne had written in his cramped, frantic handwriting. *‘It controls the spliced brain through artificial harmonic oscillation. But baseline human genetics—uncorrupted, un-spliced chromosomal structures—possess a natural bio-electromagnetic null-field. To an alien signal, pure human touch is a ground wire. It snuffs the spark.’*
+*‘The Vaelen leash is a synthetic quantum carrier wave,’* Jeffrey Thorne had written. *‘It controls the spliced brain through artificial harmonic oscillation. But baseline human genetics—uncorrupted, un-spliced chromosomal structures—possess a natural bio-electromagnetic null-field. To an alien signal, pure human touch is a ground wire. It snuffs the spark.’*
 
 My father wasn't speaking in metaphors. 
 

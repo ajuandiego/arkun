@@ -89,7 +89,9 @@ The room is thirty feet square, functional, military, and Spartan.
 
 Against the far wall sits a heavy steel tactical desk covered in yellowed paper maps—ancient topographical charts of Old Geneva and the Mediterranean Basin from an era before the sea evaporated into the Stygian Ocean, back when the sky was blue and water fell from clouds like a blessing. 
 
-In the corner, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
+Memory stirs—an old lesson from my father in the Lower Sumps: *‘Look at these ancient contours, Tsune. Lake Geneva was two hundred meters deep. Cold, sweet alpine runoff. The Consortium built Dome Alpha directly over the ruins of the European bio-curator vaults to bury the evidence of what Earth looked like before the corporate syndicates traded our sky to the Vaelen.’*
+
+In the corner of the bunker, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
 
 In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace—narrow, perhaps two feet wide, but easily navigable for someone with my wiry, elastic frame.
 
