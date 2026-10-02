@@ -71,176 +71,201 @@
     </navPoint>
     
     <navPoint id="np-chap-11" playOrder="13">
-      <navLabel><text>Chapter 11</text></navLabel>
+      <navLabel><text>The Glass Moth</text></navLabel>
       <content src="chapters/chapter_11.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-12" playOrder="14">
-      <navLabel><text>Chapter 12</text></navLabel>
+      <navLabel><text>Chapter 11</text></navLabel>
       <content src="chapters/chapter_12.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-13" playOrder="15">
-      <navLabel><text>Chapter 13</text></navLabel>
+      <navLabel><text>Chapter 12</text></navLabel>
       <content src="chapters/chapter_13.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-14" playOrder="16">
-      <navLabel><text>Chapter 14</text></navLabel>
+      <navLabel><text>Chapter 13</text></navLabel>
       <content src="chapters/chapter_14.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-15" playOrder="17">
-      <navLabel><text>Chapter 15</text></navLabel>
+      <navLabel><text>Chapter 14</text></navLabel>
       <content src="chapters/chapter_15.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-16" playOrder="18">
-      <navLabel><text>Chapter 16</text></navLabel>
+      <navLabel><text>Chapter 15</text></navLabel>
       <content src="chapters/chapter_16.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-17" playOrder="19">
-      <navLabel><text>Chapter 17</text></navLabel>
+      <navLabel><text>Chapter 16</text></navLabel>
       <content src="chapters/chapter_17.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-18" playOrder="20">
-      <navLabel><text>Chapter 18</text></navLabel>
+      <navLabel><text>The Sterile Room</text></navLabel>
       <content src="chapters/chapter_18.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-19" playOrder="21">
-      <navLabel><text>Chapter 19</text></navLabel>
+      <navLabel><text>Chapter 17</text></navLabel>
       <content src="chapters/chapter_19.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-20" playOrder="22">
-      <navLabel><text>Chapter 20</text></navLabel>
+      <navLabel><text>Chapter 18</text></navLabel>
       <content src="chapters/chapter_20.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-21" playOrder="23">
-      <navLabel><text>Chapter 21</text></navLabel>
+      <navLabel><text>Chapter 19</text></navLabel>
       <content src="chapters/chapter_21.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-22" playOrder="24">
-      <navLabel><text>Chapter 22</text></navLabel>
+      <navLabel><text>Chapter 20</text></navLabel>
       <content src="chapters/chapter_22.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-23" playOrder="25">
-      <navLabel><text>Chapter 23</text></navLabel>
+      <navLabel><text>Chapter 21</text></navLabel>
       <content src="chapters/chapter_23.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-24" playOrder="26">
-      <navLabel><text>Chapter 24</text></navLabel>
+      <navLabel><text>Chapter 22</text></navLabel>
       <content src="chapters/chapter_24.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-25" playOrder="27">
-      <navLabel><text>Chapter 25</text></navLabel>
+      <navLabel><text>The Quota Calculation</text></navLabel>
       <content src="chapters/chapter_25.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-26" playOrder="28">
-      <navLabel><text>Chapter 26</text></navLabel>
+      <navLabel><text>Chapter 23</text></navLabel>
       <content src="chapters/chapter_26.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-27" playOrder="29">
-      <navLabel><text>Chapter 27</text></navLabel>
+      <navLabel><text>Chapter 24</text></navLabel>
       <content src="chapters/chapter_27.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-28" playOrder="30">
-      <navLabel><text>Chapter 28</text></navLabel>
+      <navLabel><text>Chapter 25</text></navLabel>
       <content src="chapters/chapter_28.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-29" playOrder="31">
-      <navLabel><text>Chapter 29</text></navLabel>
+      <navLabel><text>Chapter 26</text></navLabel>
       <content src="chapters/chapter_29.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-30" playOrder="32">
-      <navLabel><text>Chapter 30</text></navLabel>
+      <navLabel><text>Chapter 27</text></navLabel>
       <content src="chapters/chapter_30.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-31" playOrder="33">
-      <navLabel><text>Chapter 31</text></navLabel>
+      <navLabel><text>Chapter 28</text></navLabel>
       <content src="chapters/chapter_31.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-32" playOrder="34">
-      <navLabel><text>Chapter 32</text></navLabel>
+      <navLabel><text>The Fatal Siphon</text></navLabel>
       <content src="chapters/chapter_32.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-33" playOrder="35">
-      <navLabel><text>Chapter 33</text></navLabel>
+      <navLabel><text>Chapter 29</text></navLabel>
       <content src="chapters/chapter_33.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-34" playOrder="36">
-      <navLabel><text>Chapter 34</text></navLabel>
+      <navLabel><text>Chapter 30</text></navLabel>
       <content src="chapters/chapter_34.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-35" playOrder="37">
-      <navLabel><text>Chapter 35</text></navLabel>
+      <navLabel><text>Chapter 31</text></navLabel>
       <content src="chapters/chapter_35.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-36" playOrder="38">
-      <navLabel><text>Chapter 36</text></navLabel>
+      <navLabel><text>Chapter 32</text></navLabel>
       <content src="chapters/chapter_36.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-37" playOrder="39">
-      <navLabel><text>Chapter 37</text></navLabel>
+      <navLabel><text>Chapter 33</text></navLabel>
       <content src="chapters/chapter_37.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-38" playOrder="40">
-      <navLabel><text>Chapter 38</text></navLabel>
+      <navLabel><text>Chapter 34</text></navLabel>
       <content src="chapters/chapter_38.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-39" playOrder="41">
-      <navLabel><text>Chapter 39</text></navLabel>
+      <navLabel><text>Chapter 35</text></navLabel>
       <content src="chapters/chapter_39.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-40" playOrder="42">
-      <navLabel><text>Chapter 40</text></navLabel>
+      <navLabel><text>Chapter 36</text></navLabel>
       <content src="chapters/chapter_40.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-41" playOrder="43">
-      <navLabel><text>Chapter 41</text></navLabel>
+      <navLabel><text>Chapter 37</text></navLabel>
       <content src="chapters/chapter_41.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-42" playOrder="44">
-      <navLabel><text>Chapter 42</text></navLabel>
+      <navLabel><text>Chapter 38</text></navLabel>
       <content src="chapters/chapter_42.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-43" playOrder="45">
-      <navLabel><text>Chapter 43</text></navLabel>
+      <navLabel><text>Chapter 39</text></navLabel>
       <content src="chapters/chapter_43.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-44" playOrder="46">
-      <navLabel><text>Chapter 44</text></navLabel>
+      <navLabel><text>Chapter 40</text></navLabel>
       <content src="chapters/chapter_44.xhtml"/>
     </navPoint>
     
-    <navPoint id="np-backcover" playOrder="47">
+    <navPoint id="np-chap-45" playOrder="47">
+      <navLabel><text>Chapter 41</text></navLabel>
+      <content src="chapters/chapter_45.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-46" playOrder="48">
+      <navLabel><text>Chapter 42</text></navLabel>
+      <content src="chapters/chapter_46.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-47" playOrder="49">
+      <navLabel><text>Chapter 43</text></navLabel>
+      <content src="chapters/chapter_47.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-48" playOrder="50">
+      <navLabel><text>Chapter 44</text></navLabel>
+      <content src="chapters/chapter_48.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-49" playOrder="51">
+      <navLabel><text>The Gospel of the Slag</text></navLabel>
+      <content src="chapters/chapter_49.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-backcover" playOrder="52">
       <navLabel><text>Back Cover</text></navLabel>
       <content src="backcover.xhtml"/>
     </navPoint>

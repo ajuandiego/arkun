@@ -479,13 +479,15 @@ class NovelReader {
       });
 
       // Prepare chapter header & epigraph
+      const isInterlude = chap.isInterlude || (chap.pov && chap.pov.toLowerCase().includes('interlude')) || (chap.filename && chap.filename.includes('interlude'));
+      const subtitleText = isInterlude ? 'INTERLUDE // OMNISCIENT' : `POINT OF VIEW // ${chap.pov.toUpperCase()}`;
       let chapterHtml = `
         <div class="chapter-start-banner">
           <div style="font-family: var(--font-display); font-size: 11px; letter-spacing: 3px; color: var(--gold-accent); text-align: center; margin-bottom: 4px;">
             ${chap.title.toUpperCase()}
           </div>
           <div style="font-size: 11px; color: var(--text-dim); text-align: center; margin-bottom: 12px;">
-            POINT OF VIEW // ${chap.pov.toUpperCase()}
+            ${subtitleText}
           </div>
         </div>
       `;
@@ -585,6 +587,8 @@ class NovelReader {
       </div>
     `);
 
+    const isInterlude = chapData.isInterlude || (chapData.pov && chapData.pov.toLowerCase().includes('interlude')) || (chapData.filename && chapData.filename.includes('interlude'));
+    const subtitleText = isInterlude ? 'INTERLUDE // OMNISCIENT' : `POINT OF VIEW // ${chapData.pov.toUpperCase()}`;
     // Title / Epigraph page
     let chapterHtml = `
       <div class="chapter-start-banner" style="text-align: center; margin-bottom: 20px;">
@@ -592,7 +596,7 @@ class NovelReader {
           ${chapData.title}
         </h1>
         <div style="font-family: var(--font-ui); font-size: 12px; color: var(--gold-accent); letter-spacing: 2px;">
-          POINT OF VIEW // ${chapData.pov.toUpperCase()}
+          ${subtitleText}
         </div>
       </div>
     `;

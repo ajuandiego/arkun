@@ -46,23 +46,29 @@ He opens the heavy chest straps of his flight harness.
 
 The words are simple, but the weight behind them is suffocating. 
 
-I step forward.
+I step forward into his reach.
 
-The heat radiating from his chest hits me like an open furnace. Even through the torn linen of my combat tunic and the ballistic weave of his flight rig, standing against him feels like stepping directly into a forge. His chest rises and falls with deep, measured breaths—his heart hammering at a steady, combat-ready eighty beats per minute, devoid of panic.
+The heat radiating from him hits me like an open furnace door. Even through the torn linen of my combat tunic and the ballistic weave of his flight rig, standing against him feels like stepping directly into a forge. 
 
-He pulls the reinforced nylon straps around my torso, looping the secondary tactical tethers beneath my thighs and across the small of my back.
+"Legs," he orders, his voice rougher than before. "Around my hips. Lock them, Tsune."
 
-The heavy brass buckles snap shut with a series of cold, solid clicks.
+I swallow hard, lifting my knees. My thighs wrap around his waist, the muscular curve of my inner legs straddling his hips. With swift, merciless efficiency, he threads the secondary tactical webbing beneath my thighs, cinching the brass ratchets down until there isn't a sliver of air between us. 
 
-The harness binds us together—chest to chest, pelvis to pelvis, my bare shoulders bracketed between his wide, muscular arms. My hands, instinctively searching for leverage, press flat against the dense muscle of his upper chest. Beneath my palms, his skin is scorching, burning through the thin fabric, while my naturally cool reptilian scales pulse with an involuntary, calming resonance that seeks to ground his rising fever.
+The harness binds us flush—pelvis to pelvis, chest to chest, my small breasts flattened against the hard, unyielding plates of his pectoral armor. With every heave of his lungs, the friction is intoxicating, sending a suffocating jolt of electricity straight down into the pit of my stomach. Through the layers of combat gear, the hard, uncompromising ridge of his body presses against my lower abdomen—a raw, involuntary physiological response that neither of his disciplined masks can hide.
 
-"Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper and cedar against my cheek. "Listen to me."
+His breath catches. His jaw cords into iron, a muscle ticking beneath his trimmed beard as he fights his own traitorous blood for control. 
 
-I look up into his golden, predatory gaze. His vertical slit pupils are dilated with combat focus, but the expression in his eyes is reverent. Focused. Absolute.
+*God help me,* the thought slices through my panic, sharp and humiliating. *He is a corporate butcher, and my body is melting against his groin like butter in a pan.*
+
+His large, scarred hands haul the shoulder buckles down, his knuckles brushing the bare skin of my ribs. The contact makes my breath hitch. Beneath my palms, his upper chest is burning, while my cool reptilian scales pulse with an involuntary, calming resonance that seeks to ground his rising fever.
+
+"Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper, ozone, and dark cedar against my cheek. "Listen to me."
+
+I look up into his golden, predatory gaze. His vertical slit pupils are dilated, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
 
 "The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming rotors above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
 
-"And if you get hit?" I whisper against his jaw.
+"And if you get hit?" I whisper against his jaw, my lips grazing the rough stubble of his cheek.
 
 "Then I lock my wings and we burn together," he answers without flinching. "Just like I promised."
 

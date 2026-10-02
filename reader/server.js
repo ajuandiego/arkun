@@ -117,6 +117,7 @@ function parseChapterMetadata(rawContent, filename) {
 
   const words = countWords(rawContent);
   const readingTimeMinutes = Math.max(1, Math.round(words / 220));
+  const isInterlude = filename.includes('interlude') || filename.includes('addendum') || pov.toLowerCase() === 'interlude';
 
   return {
     filename,
@@ -125,7 +126,8 @@ function parseChapterMetadata(rawContent, filename) {
     epigraph,
     epigraphDescription,
     wordCount: words,
-    readingTimeMinutes
+    readingTimeMinutes,
+    isInterlude
   };
 }
 
@@ -183,6 +185,15 @@ app.get('/api/books', (req, res) => {
   }
 });
 
+// Helper to get ordered manuscript files (natural alphabetical sort with chapter_XXb_addendum_XX)
+function getOrderedManuscriptFiles(bookDir) {
+  if (!fs.existsSync(bookDir)) return [];
+  const files = fs.readdirSync(bookDir).filter(f => f.endsWith('.md'));
+  
+  // Natural sort cleanly puts chapter_10b_addendum_01 between chapter_10 and chapter_11
+  return files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+}
+
 // API: List chapters for a book
 app.get('/api/books/:bookId/chapters', (req, res) => {
   const { bookId } = req.params;
@@ -193,9 +204,7 @@ app.get('/api/books/:bookId/chapters', (req, res) => {
   }
 
   try {
-    const files = fs.readdirSync(bookDir)
-      .filter(f => f.endsWith('.md'))
-      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+    const files = getOrderedManuscriptFiles(bookDir);
 
     const chapters = files.map((filename, index) => {
       const fullPath = path.join(bookDir, filename);
@@ -251,9 +260,7 @@ app.get('/api/books/:bookId/full', (req, res) => {
   }
 
   try {
-    const files = fs.readdirSync(bookDir)
-      .filter(f => f.endsWith('.md'))
-      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+    const files = getOrderedManuscriptFiles(bookDir);
 
     let totalWords = 0;
     const chapters = files.map((filename, index) => {

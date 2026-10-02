@@ -2,10 +2,10 @@
 
 **Author:** J.D. Alfaro  
 > **Series:** The Arkun Cycle (Book 1 of 3)  
-> **Target Length:** ~105,000 Words (~400 Printed Pages) | **Target Chapter Length:** 2,200 – 2,600 Words  
-> **Structure:** 44 Chapters | 4 Parts | **Format:** Alternating Dual POV — **Tsunari** & **Vram** (No Chapter Titles)  
+> **Target Length:** ~80,000 – 85,000 Words (~320 Printed Pages) | **Target Chapter Length:** 1,600 – 2,200 Words  
+> **Structure:** 44 Chapters + 5 Worldbuilding Interludes | 4 Parts | **Format:** Alternating Dual POV — **Tsunari** & **Vram** (with 5 Omniscient Interludes)  
 > **Chapter Header Architecture:** Intercalated Epigraphs alternating between **Archival Quotes & Artifacts** (Odd Chapters) and **The Glass Vault Lexicon / Dictionary Entries** (Even Chapters)  
-> **Core Romance Arc:** Biological Resentment $\rightarrow$ Competence Parity $\rightarrow$ Terror of Silence $\rightarrow$ Blood Compact of Equals (Heat: 🌶️ to 🌶️🌶️)  
+> **Core Romance Arc:** Biological Resentment $\rightarrow$ Sensory Addiction $\rightarrow$ Primal Survival Consummation $\rightarrow$ Sovereign Devotion (*Fourth Wing* Level Heat: 🌶️🌶️🌶️🌶️ Open Door, Multi-Sensory, Explicit)  
 > **Settings:** Eden Dome Alpha Perimeter, Sector 09 Gray Ring, Redoubt Station 14 & Canyon, The Rust Barrens, Subterranean Transit Depots, The Sump Catacombs, and The Glass Vault
 
 ---
@@ -67,15 +67,15 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > *"They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing."*
     *   *Setting:* The dust-choked ruins of a solar power substation.
     *   *Core Action:* Vicious hand-to-hand grapple. Tsunari slashes with her vibro-blade, tapping her magnetic boot-latch to deploy her nanocarbon pedal sickle-claws in a lethal vertical kick; Vram parries with hardened flight quills and disarms her with terrifying military precision.
-    *   *Tension:* Tsunari realizes she cannot outpower a 6'4" flight commander in open combat; she must exploit the environment and find his biological vulnerability.
+    *   *Tension & Unwanted Attraction:* Pinned beneath his massive frame on the sand, Tsunari feels the furnace-hot wall of his chest and thighs trapping her hips. She despises him as a corporate executioner, but her traitorous body jolts at the intoxicating scent of cedar and ozone in his feathers, and the lethal beauty of his scarred jaw inches from hers. *Pull your knife, you fool. Don't look at his mouth.*
 
 *   **Chapter 6 // Vram**
     *   *Lexicon Entry (Null-Resonance):*  
         > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Vaelen quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
     *   *Setting:* The floor of the shattered substation.
     *   *Core Action:* During their desperate grapple, Tsunari's bare hand locks onto Vram's open collar, making direct skin-to-skin contact with his exposed spinal neural siphon port.
-    *   *The Sensation:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees, gasping in shock.
-    *   *Psychological Beat:* Tsunari witnesses the invincible sky-lord tremble; Vram is humiliated and terrified that an un-collared Gray Sector insurgent neutralized his nervous system with a touch.
+    *   *The Sensation & Forbidden Lust:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees. But as his hands pin her wrists in the sand, he feels the lithe, muscular curve of her waist between his thighs and the wild sage on her throat. An involuntary, primal surge of arousal shocks his discipline. *Focus, soldier. She's an illegal insurgent with blood on her boots, not a woman in your quarters.*
+    *   *Psychological Beat:* Tsunari witnesses the invincible sky-lord tremble; Vram is humiliated and terrified that an un-collared Gray Sector insurgent neutralized his nervous system and ignited his blood with a touch.
 
 *   **Chapter 7 // Tsunari**
     *   *Epigraph (Intake Registry, Gray Ring Child Orphanage Ward C — Year 26 AS):*  
@@ -89,14 +89,14 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > **Liter-Hour** *[noun, currency]*: The universal survival currency of the Gray Sectors. Represents one hour of certified breathable air filtered through a mechanical scrubber cartridge. Issued as brass tithe-tokens by corporate monopolies.
     *   *Setting:* The driver's cabin of the prowler nearing the perimeter canyon.
     *   *Core Action:* Vram makes a fateful command decision: he overrides the vehicle's automated navigation beacon, rerouting transport away from the corporate detention block to an isolated desert watchpost: Redoubt Station 14.
-    *   *Selfish Motivation:* Vram knows that if he turns Tsunari over to Director Corvus, she will be lobotomized and incinerated within hours, returning him to eternal neuro-agony until his brain burns out at 32. He cannot let her die.
+    *   *Unwanted Attraction & Restraint:* In the cramped cabin, Vram catches himself tracking the graceful line of her bare, athletic shoulders (freed by her sleeveless combat tunic) and the subtle hexagonal scales dusting her collarbone. When her lower lip parts in defiance, his pulse spikes for reasons that have nothing to do with telemetry, forcing his knuckles white on the steering wheel. *If I reach for her, she'll slit my throat. And I'd deserve it.*
 
 *   **Chapter 9 // Tsunari**
     *   *Epigraph (Executive Memorandum, Apex GeneSys Directorate — Classification: Obsidian-Zero):*  
         > *"To grant a weapon empathy is to prime its self-destruct. The moment an Aeros Commander values a single human life above the mission parameters, decommission the cohort immediately."*
     *   *Setting:* Redoubt Station 14 (an ancient pre-collapse concrete bunker perched atop a jagged 800-foot canyon).
     *   *Core Action:* Vram marches Tsunari inside the fortified watchpost. Tsunari immediately scans the room for exits, structural failure points, and improvised weapons, while noticing the bunker's isolation: no comm-lines to the city, only shortwave surveillance relays.
-    *   *Psychological Beat:* The realization that this is not an interrogation cell—it is a hiding place.
+    *   *Sensory & Forbidden Attraction:* When Vram unbuckles his flight harness to treat his wing roots, exposing his broad bronze back, sculpted spinal muscles, and the carved ridges of his torso, Tsunari forces her eyes to the floor, her throat parched. *Don't look. Don't acknowledge that he's built like an ancient war god. He's holding you prisoner.*
 
 *   **Chapter 10 // Vram**
     *   *Lexicon Entry (Lattice Burn / Neuro-Decay):*  
@@ -104,6 +104,15 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Setting:* The tactical command desk of Redoubt Station 14.
     *   *Core Action:* Isolation interrogation. Vram measures his biometrics: standing six feet away from Tsunari causes his fever to spike past 108°F with violent lattice tremors; touching her skin immediately stabilizes his pulse.
     *   *Climax of Part I:* Director Elena Corvus radios an encrypted order demanding the captive’s immediate execution. Vram lies to his corporate master for the first time in his life, claiming the prisoner died during the sandstorm.
+
+***
+
+### THE GLASS MOTH (Interlude I — Between Part I & Part II)
+*   **POV:** Omniscient Narrator (Observing Miri, a 9-year-old baseline girl living in the rusted shantytown outside Sector 04's perimeter wall).
+*   **Core Theme:** The enduring resilience of human innocence; finding joy in a decaying world without exposition.
+*   **Narrative:** Miri scavenges through the copper slag heaps for pre-collapse trinkets. She captures a rare, bioluminescent glass-winged desert moth inside an old glass fuse tube. Returning to her family's rusted corrugated shack, she shares a clean thimble of condensed morning dew with her coughing grandmother, watching the green moth glow in the dark. It establishes the visceral, fragile human life living in the dirt that the corporate towers consider disposable statistics.
+
+***
 
 ---
 
@@ -114,6 +123,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > *"The defoliant burns slow. It eats through linen in ten seconds, leather in thirty, and flesh until it hits marrow. Water cannot save you if your clothes remain. Strip the rot, or let the grave have you whole."*
     *   *Setting:* The fortified living quarters of Redoubt Station 14.
     *   *Core Action:* Tsunari observes Vram stripping off his flight harness to clean and treat his wing roots and neural couplings. She sees the raw, suppurating inflammation around his titanium spinal ports and the burnished quills growing directly from living bone.
+    *   *Sensory & Forbidden Attraction:* Stripped to the waist in the dim bunker, Vram's bronze back is corded with massive muscle and scar tissue. Tsunari feels an illicit shock of heat in her belly watching the play of light across his pectoral plates and flared wing joints. She despises herself for noticing how beautiful his broad, lethal body is, forcing her gaze away as her throat tightens.
     *   *Emotional Beat:* The realization that Vram is not an arrogant monster, but a mutilated, enslaved lab subject whose body is cannibalizing itself to serve the regime.
 
 *   **Chapter 12 // Vram**
@@ -121,7 +131,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > **The Storm-Born** *[demographic]*: The generation born in Year 0 AS or later who possess no living memory of open blue skies or natural rain, knowing only the copper twilight of the Amber Haze and the hum of respirators. Contrasted with **The Sky-Born (Old-Worlders)**, who remember the pre-collapse biosphere.
     *   *Setting:* The watchpost balcony at twilight.
     *   *Core Action:* As dusk turns the toxic sky into bruised violet and molten brass, Vram’s fragmented childhood memories surface—remembering the day he was dragged from a Gray Sector dormitory, stripped of his name, and re-designated *Subject AE-701*.
-    *   *Dynamic:* A rare moment of quiet vulnerability between them across the stone threshold.
+    *   *Dynamic & Forbidden Longing:* A rare moment of quiet vulnerability between them across the stone threshold. Watching Tsunari lean against the parapet, her profile bathed in violet light, Vram is struck by a fierce, involuntary ache to cross the distance and pull her close. But his training and ideology paralyze him: she is an insurgent who despises his uniform, and to reveal his desire would risk her contempt or a blade in his throat. He keeps his distance, knuckles white against the railing.
 
 *   **Chapter 13 // Tsunari**
     *   *Epigraph (Consortium Internal Dispatch — Security Clearance Beta):*  
@@ -151,11 +161,21 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Core Action:* Hearing Tsunari's muffled gasp through the floor grates, Vram snaps his conditioning. He drops through the ceiling, tackling the Inquisitor and driving his nanocarbon talons through its ocular cluster, crushing its cranial casing into obsidian shards.
     *   *The Turning Point:* High treason. Vram has murdered an alien overlord to keep Tsunari alive; his old life is permanently extinguished.
 
+***
+
+### THE STERILE ROOM (Interlude II — Between Chapter 16 & Chapter 17)
+*   **POV:** Omniscient Narrator (Observing Dr. Alistair Vance, 52, Senior Cardiovascular Surgeon in Eden Dome Alpha's Gilded Tier).
+*   **Core Theme:** The quiet, suffocating rot and sterile psychological death inside the dome.
+*   **Narrative:** Dr. Vance returns to his pristine penthouse after a successful twelve-hour surgical shift harvesting organs for Directorate directors. To everyone in the dome, he has achieved paradise: fresh hydroponic fruit, filtered air, unblemished marble floors. The story tracks his obsessive, lifeless evening ritual: scrubbing his hands five times until the skin bleeds, polishing his antique silver scalpels, pouring a glass of synthetic wine he cannot taste. The story ends in absolute silence on his immaculate balcony overlooking the gleaming dome gardens—standing on the ledge, looking down at the 500-foot drop, one breath away from stepping off. It shows that the "gilded cage" is a psychological slaughterhouse.
+
+***
+
 *   **Chapter 17 // Tsunari**
     *   *Epigraph (Aeros-Legion Cadence — Chanted during high-altitude tether drills, unrecorded in official manuals):*  
         > *"Feather to feather, bone to bone / None of the Aerie falls alone. / Break the wind and ride the squall / If one must dive, we catch the fall."*
     *   *Setting:* The cliff's edge atop the 800-foot canyon.
     *   *Core Action:* Consortium perimeter forces and Aeros-Legion 7 converge on the bunker. Vram locks Tsunari securely against his chest with his flight harness, warning her to hold tight and close her eyes as searchlights pin them against the concrete.
+    *   *The Tandem Lock & Agonizing Restraint:* Vram straps Tsunari flush against his chest, her thighs wrapped around his hips, her arms wound around his neck, her breasts pressed against his chest armor. Every shift of the harness sends an electric, suffocating wave of heat through them. In mid-air, Vram has to fight an overwhelming, rock-hard physical reaction to her clinging thighs, while Tsunari clings to his burning shoulders, terrified by how safe she feels in his arms.
     *   *Dynamic:* The threshold of total surrender—Tsunari must trust her life completely to a winged soldier she fought to the death three days ago.
 
 *   **Chapter 18 // Vram**
@@ -181,14 +201,23 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 *   **Chapter 21 // Tsunari**
     *   *Epigraph (Field Triage Notice, Dustborn Chem-Scavenger Guild):*  
         > *"Water alone will not wash phosphor. You must scrape the skin with lead-paste, strip the garments, and breathe through charcoal. He who pauses out of modesty will be buried in ash."*
-    *   *Setting:* A flooded subterranean stormwater culvert at the base of the gorge.
-    *   *Sensory Beat (🌶️ to 🌶️🌶️):* In pitch-black water under a freezing runoff pipe, they must urgently strip their burning, acid-soaked combat clothes to prevent flesh necrosis. Skin-to-skin contact, icy water, glowing golden feathers, and lean reptilian muscle create an intense, suffocating physical intimacy that shatters the last barriers between them.
+    *   *Setting:* A flooded subterranean stormwater culvert and dry maintenance ledge at the base of the gorge.
+    *   *Sensory & Spicy Climax (🌶️🌶️🌶️🌶️ Open Door / The Wing-Root Awakening):* After stripping their burning, acid-soaked garments in the freezing culvert, Tsunari tends Vram's burns and begins preening the toxic alkali dust and scorched feathers from his dorsal flight roots. In Simurgh biology, the wing roots anchor directly into the sympathetic thoracic nerve cluster—an intensely sensitive, involuntary erogenous center. The sensory overload breaks Vram’s military discipline. Driven by raw dopamine, the adrenaline crash, and the intoxicating contrast of her cool scent, he pins her against the stone wall. Dropping to his knees, his hands and mouth worship her: explicit oral sex (cunnilingus) and manual stimulation that brings Tsunari to a shuddering, vocal orgasm against the rock. He pulls back before intercourse, terrified his 106°F heat will burn her, leaving them both breathless, aching, and physically addicted to each other's touch.
 
 *   **Chapter 22 // Vram**
     *   *Lexicon Entry (The Rust Barrens & Acid Sinks):*  
         > **The Rust Barrens** *[geography]*: The vast, uninhabitable desert spanning hundreds of miles between dome cities. Characterized by oxidized red iron dust, dried toxic lakebeds, and sub-zero night temperatures that drop 70 degrees in minutes.
     *   *Setting:* The upper airspace descending into the deep Rust Barrens.
     *   *Core Action:* Taking flight once more to escape ground trackers, high-altitude anti-air shrapnel shreds Vram's left flight primaries and dislocates his shoulder. With his wing failing and fever flaring to 108°F, Vram locks his wings into a desperate glide, using his broad body to shield Tsunari as they crash-land through a blinding dust squall into the sand dunes.
+
+***
+
+### THE QUOTA CALCULATION (Interlude III — Between Part II & Part III)
+*   **POV:** Omniscient Narrator (Observing High Chancellor Julian Ward, Directorate Resource Allocation Council, Eden Dome Alpha).
+*   **Core Theme:** The bureaucratic cruelty of the elite; sacrificing thousands to preserve family luxury.
+*   **Narrative:** Over an exquisite dinner of real hydroponic beef, fresh strawberries, and imported wine with his pregnant wife and seven-year-old daughter in their sun-drenched penthouse, Chancellor Ward reviews the quarterly atmospheric balance sheet. The numbers are unforgiving: Eden Alpha's secondary domes require a 40% increase in scrubbed oxygen to keep the ornamental botanical gardens and private athletic courts lush. Ward calmly signs an administrative dispatch rerouting 40% of the clean air filter shipments away from Sector 09's lower sumps, fully aware that four thousand baseline children will choke on sulfur grit and develop terminal fibrosis within ninety days. He wipes his mouth with a linen napkin, kisses his daughter’s forehead, and justifies the atrocity with chilling ease: *"My blood survives. The rest is arithmetic."*
+
+***
 
 ---
 
@@ -216,7 +245,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Lexicon Entry (The Night Freeze & Thermal Swings):*  
         > **The Night Freeze** *[meteorology]*: Post-collapse atmospheric phenomena wherein surface temperatures plummet from 115°F during the day to -10°F at night due to the absence of upper atmospheric ozone and cloud insulation.
     *   *Setting:* The sub-zero basement of the bunker.
-    *   *Core Action:* Delirious from lattice burn and shredded flight muscles, Vram’s fever flares out of control. Tsunari strips off her bracers and wraps herself around his shivering, burning frame through the freezing night, her cool reptilian skin absorbing his 106°F heat like an oasis.
+    *   *Sensory & Spicy Climax (🌶️🌶️🌶️🌶️ Open Door / Primal Consummation):* Delirious from lattice burn and shredded flight muscles, Vram’s fever flares past 106°F in the sub-zero chill. Tsunari climbs onto the narrow cot, stripping down to bare skin to wrap herself around him. As her cool reptilian flesh absorbs his fever, the relief turns into an overwhelming surge of primal adrenaline and starving desire. Stripping away the last barriers: his massive, muscular, furnace-hot frame against her lithe, scaly curves. Passionate, desperate foreplay—his mouth tasting her throat, his scarred hands learning every ridge of her ribs and hips—leading into fierce, rhythmic, bed-creaking first intercourse enclosed beneath his flared wings. A raw, vocal, mutual climax that breaks the final barrier between captor and prisoner, leaving them tangled in the wool blankets until dawn.
 
 *   **Chapter 27 // Vram**
     *   *Epigraph (Navigation Slate, Pre-Collapse Trans-Continental Rail Authority — Dated October 2031, one month Before Storm):*  
@@ -229,6 +258,15 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > **Mutation L (Lindwurm Strain)** *[archeo-genetics]*: Subterranean heavy-breacher biotype. Characterized by hexagonal interlocking stone-scutes (*lithodermic plating*) across the dermis, extreme bone density, immunity to toxic gases, and localized seismic shock generation.
     *   *Setting:* The sealed tunnel bulkhead of the pre-collapse heavy-rail line.
     *   *Core Action:* Kira guides them to the sealed bulkhead guarded by **Boran "The Bastion" Vael-Korr**—a 6'8" stone-scute breacher. Boran mocks the "fancy fallen sky-bird with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, unlocking the hand-cranked rail trolley to smuggle them into Sector 09.
+
+***
+
+### THE FATAL SIPHON (Interlude IV — Between Chapter 28 & Chapter 29)
+*   **POV:** Omniscient Narrator (Observing Lieutenant Cassian, 28, Wing 3 Aeros-Legion Pilot, Sector 09 Upper Garrison).
+*   **Core Theme:** The lethal biological incompatibility of cross-strain chimeric mating; establishing the stakes of the Mosaic Keystone.
+*   **Narrative:** Desperate to drown out the screaming telemetry static and blinding lattice headaches in his skull, Cassian slips into an illicit speakeasy in the lower sump rim. He buys an hour with Nyx, an enigmatic dancer whose skin seems cool and soothing. Seeking pure physical oblivion, they retreat into a shadowed back room. The encounter is charged and intensely physical—she drops to her knees to take him into her mouth, a high-heat, explicit sexual release that temporarily silences his screaming nerves. But when he pulls her up and drives into her against the corrugated wall, reaching his peak, Nyx’s body spasms in uncontrollable climax. In her ecstasy, her true mutation deploys: microscopic, razor-sharp venom pores along her inner thighs (an illegal Gorgon-Lindwurm hybrid splice) puncture Cassian's flesh. His Simurgh chimeric blood instantly undergoes catastrophic cross-strain hemolysis. The heat in his veins turns to liquid ice; his respiratory tract seizes; his cardiac rhythm flatlines mid-orgasm. He collapses onto the filthy floor, staring at her terrified face as darkness takes him, realizing too late that between different chimeric strains, unfiltered intimacy is an automatic death sentence. Proves to the reader why Vram and Tsunari's biological compatibility is an impossible miracle.
+
+***
 
 *   **Chapter 29 // Tsunari**
     *   *Epigraph (The Book of the Crucible — Liturgical Canticle of The Enlightened, Chapter III):*  
@@ -296,8 +334,8 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 *   **Chapter 38 // Vram**
     *   *Lexicon Entry (Cross-Strain Biological Xenophobia):*  
         > **Cross-Strain Xenophobia** *[pathology]*: The fatal immunological incompatibility between different chimeric strains (e.g., Lindwurm blood induces violent hemolysis in a Simurgh host). Tsunari's Mosaic Keystone architecture is the only known biological substrate that circumvents this barrier.
-    *   *Setting:* The outer ventilation matrix of The Glass Vault.
-    *   *Core Action:* Vram tenderly cleans and bandages Tsunari's wounds in the quiet archive. Stalking through the shadows above with a poisoned dagger, **Caelia** watches their reverence and overhears radio comms proving The Forger views her as disposable bait. Her fanatical illusions crumble; genuine love is a free choice, not a cult prophecy.
+    *   *Setting:* The secluded crystal alcove and outer ventilation matrix of The Glass Vault.
+    *   *The Grand Romantic & Spicy Climax (🌶️🌶️🌶️🌶️🌶️ Open Door / The Sovereign Sanctuary):* While Gideon is locked in the lab synthesizing the stabilizer, Vram tenderly cleans and bandages Tsunari's shoulder burn. Safe for the first time in an unmonitored sanctuary, the emotional dam breaks. Vram confesses his unyielding devotion (*"There isn't an empire of glass or gold on this earth that could buy your breath from my hands"*). The slow-burn tension explodes into an unhurried, multi-climax consummation on the velvet archival rugs beneath the rainbow prisms: mutual oral sex (Tsunari tasting his heat, Vram worshiping her cool skin), manual foreplay, and deep, vocal, passionate intercourse as his flared wings enclose them in a private cocoon of gold and obsidian. In the high ventilation ducts above, Caelia watches their reverence and overhears radio comms proving The Forger views her as disposable bait; her fanatical illusions crumble into tears as she witnesses genuine, sovereign love.
 
 *   **Chapter 39 // Tsunari**
     *   *Epigraph (Restricted Siphon Protocol, Aeros-Legion Command Frequency — Automated Broadcast):*  
@@ -334,7 +372,16 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > **Mare Stygium (The Stygian Oceans)** *[geography]*: The boiling, ionized seas created during the Great Cleave of Year 0 AS. Wracked by perpetual electromagnetic squalls, hyper-saline currents, and caustic storms, they have remained completely impassable to human navigation for forty years.
     *   *Setting:* The smoke-choked rooftop of the Vault’s upper air-scrubber under artificial starlight.
     *   *The Resolution:* Consortium forces retreat; the cult scatters. Tsunari stabilizes Caelia's injuries, saving her life. Madame Chen secures a permanent pipeline of scrubbed oxygen for the Vault. Kira Brandt loads encrypted data drives of the stabilizer into her sand-crawler to spark the continent-wide rebellion.
-    *   *The Romance Climax (The Compact):* Sitting back-to-back on a sheared girder, Vram and Tsunari clasp scarred, bleeding palms in a silent, primal blood covenant between sovereign equals.
+    *   *The Romance Climax (The Sovereign Compact):* Sitting on the sheared girder at dawn, Vram and Tsunari clasp scarred palms in a sovereign blood covenant of equals, sealed with a passionate dawn kiss.
     *   *The Hook for Book 2 (The True Lazarus Decryption & The Sister's Clock):* Using Gideon's optical decoders and combining Tsunari's Null-frequency with Vram's military cipher, they finally decrypt the deep alien root layer of the *Lazarus Key*:
         1.  *The Alien Plan:* The atmospheric decay is active alien terraforming. The Vaelen are deliberately pumping nitrogen-ammonia gas through the Terra-Pylons to wipe out human biology for an alien colonization fleet. Humanity has **14 months** before outdoor air is 100% fatal.
         2.  *The Personal Stake:* The decryption reveals the scheduled liquidation order for Eden Dome Alpha's lower biological staff once the terraforming finishes—meaning **Sora Thorne** is marked for execution inside the very dome she believes is paradise. Tsunari vows to break through the 100-meter wall and rescue her sister before the countdown expires. Their war has gone global.
+
+***
+
+### THE GOSPEL OF THE SLAG (Interlude V — Epilogue & Hook for Book 2)
+*   **POV:** Omniscient Narrator (Observing Sister Maeva, First Acolyte of The Enlightened, deep beneath Sector 04).
+*   **Core Theme:** Religious fanaticism, self-punishment, and chilling foreshadowing for Book 2 (*Hollow Cage*).
+*   **Narrative:** In an active Vaelen geothermal fissure three hundred feet below the tectonic crust, Sister Maeva kneels over a bubbling pool of emerald rift fluid. Alone in the sulfur gloom, she conducts a brutal, obsessive ritual of self-branding—pressing red-hot bronze stamps into her inner thighs, reciting a chilling soliloquy of holy devotion. In her fevered monologue, she laughs at The Forger's downfall: *The prophet was merely the match; the kiln is across the sea.* She reveals that the Terra-Pylons in the deep ocean are pulsing in harmonic resonance, and the true Vaelen Archons—the ancient shepherds—have already detected the ignition of the Keystone. Leaves an ominous, spine-chilling question mark that directly sets the stage for the global war in Book 2.
+
+***

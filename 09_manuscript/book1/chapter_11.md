@@ -53,9 +53,19 @@ Vram peels the tunic over his head, tossing it onto the table.
 
 My breath catches behind my teeth.
 
-His skin is bronze, scarred, and feverish—radiating a dry, blistering heat that makes the cool concrete around him seem to sweat. Across his broad chest and the ridged symmetry of his abdominal wall, old shrapnel tracks cross paths with surgical incision lines that had been closed with crude, wide-spaced wire staples. But it is his back that commands the room.
+It isn't just the scars that stun me into silence. It is the sheer, overwhelming physical reality of him.
 
-It is a monument to corporate butchery.
+Stripped to the waist, his skin is warm bronze, glowing with suppressed metabolic fire. Broad pectoral plates taper down into the ridged, carved symmetry of an abdominal wall crossed by old shrapnel tracks. Muscles cord along his ribs and obliques like thick cables of twisted steel, flexing with every deep intake of air. 
+
+Against my will, my eyes trace the sharp V-taper where his abdominal ridges disappear into the low-slung waistband of his flight trousers. A sudden, illicit prickle of heat sparks low in my belly, startling and fierce. My mouth goes dry. 
+
+*Stop it, Tsune.* 
+
+I force my gaze upward, furious at my own traitorous body. He is an instrument of the state. A genetically engineered killer. 
+
+*Don't acknowledge that he's built like an ancient war god carved out of granite. Look at the butchery.*
+
+And it is a monument to corporate butchery.
 
 Between his shoulder blades, where the heavy thoracic muscle groups anchor the fourteen-foot wings, the human anatomy simply ends. The flesh has been forced to widen, split, and reconstruct itself around massive structural implants—thick, knurled plates of dull titanium bolted directly through his scapulae with surgical lag-screws. Where the primary quills emerge from his flesh, there are no feathers growing soft like down on a bird's wing. They burst from living, suppurating follicles of inflamed, purplish keratin, surrounded by thick rings of pale keloid scar tissue that had torn and re-healed a thousand times under the violent drag of flight.
 

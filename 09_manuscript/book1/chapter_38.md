@@ -64,7 +64,123 @@ She reaches out. Her cool, slender fingers slide up my jaw, her palm resting fla
 
 Neither of us speaks. The truth hangs between us, absolute, sovereign, and undeniable.
 
-Thirty feet above our heads, in the dark iron labyrinth of the ventilation matrix, another heart is listening.
+Tsunari’s amber gaze doesn't waver. Her hand slides from my cheek down to the collar of my flight undershirt, her knuckles hooking into the hem. 
+
+"The lab doors are sealed for three hours," she whispers, her voice husky, edged with an electric tremor that sends a shockwave down my spine. "No cameras. No drones. No Directorate."
+
+"Tsune..." My voice is a low, warning rumble, but my hands are already moving, slipping to the small of her back.
+
+"Take me to the rugs, Vram," she breathes, leaning up until her lips brush against mine. "No rush this time. No freezing cot. I want to feel all of you."
+
+The last ember of my military discipline disintegrates.
+
+I rise from the wooden bench, scooping her into my arms. Three paces away, spread across the polished quartz flagstones beneath an archway of refracted rainbow light, lies an ancient pre-collapse archival rug—deep crimson velvet, thick and soft, preserved for eighty years in the dry mountain air.
+
+I lower her onto the velvet. 
+
+Her dark hair spills across the crimson weave like black silk. The amber crystal light overhead casts long, liquid prisms across the pale, flawless contours of her skin and the delicate hexagonal scales tracing her ribs. 
+
+Slowly, without the desperate panic of the bunker, I peel the remaining linen wrap from her waist. She sits up, her small, deft hands unbuckling my tactical belt, tugging my trousers and undershirt down until we are both completely, uninhibitedly bare in the warm, crystalline glow.
+
+She looks at my body—at the heavy scars carved into my chest, the burnished bone sockets of my wing roots, and the thick, rigid length of my erection standing proud against my lower belly, pulsing with dark, fiery heat.
+
+Before I can reach for her, Tsunari shifts. 
+
+With the supple, fluid grace of a cursorial hunter, she crawls forward between my knees. Her cool, smooth hands settle onto my hips, anchoring me to the rug.
+
+"What are you doing?" I gasp, my breath seizing as she leans down.
+
+"Tasting my fire," she murmurs.
+
+Her dark head dips between my thighs. 
+
+When her warm, wet mouth envelops the swollen head of my cock, a violent jolt of electricity screams through my spine. My hands fly back, fisting into the thick pile of the rug, my knuckles turning white as my hips buck involuntarily against her lips.
+
+The sensation is sheer, blinding madness. Her mouth is cool, soft, slick with saliva, contrasting devastatingly with the 106-degree blood roaring through my shaft. She takes me deep—swallowing half my length, her tongue swirling around the sensitive ridge beneath the flared head with slow, greedy strokes. 
+
+"Tsune... gods..." A ragged, guttural groan tears from my throat. My wings shudder, snapping half-open, the crimson feathers trembling against the stone. 
+
+She looks up at me through dark lashes, her amber slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
+
+She bobs her head in a steady, devastating cadence, her small hand pumping the shaft where her mouth can't reach, milking every drop of pre-cum onto her tongue. The friction of her cool throat against my scorching iron pushes me to the razor edge of oblivion.
+
+"Stop," I choke out, my fingers tangling in her hair, gently pulling her upward before I lose control entirely. "Stop... or it's over before it begins."
+
+She smiles against my skin, breathless and flushed, her lips glistening with my heat.
+
+I pull her up by the hips, rolling her onto her back on the velvet. 
+
+"My turn," I growl softly.
+
+I part her thighs, lifting her knees until her heels rest against my chest. In the prism light, her center is glistening—swollen, dripping, weeping with a sweet, musky nectar that fills the alcove with the scent of wild sage and damp earth.
+
+I lean down and bury my face between her thighs.
+
+Tsunari cries out, her hips arching off the rug, her fingers clutching frantically at my shoulders. 
+
+I take my time. I lick her from the bottom of her cleft to the top, my tongue broad, hot, and demanding, gathering her slick essence onto my mouth. When I find her clitoris, swollen and hard as a jewel, I circle it with the flat of my tongue, teasing the edges before drawing the bud into my mouth, sucking with firm, rhythmic devotion.
+
+At the same time, I slide two long fingers deep into her soaking channel.
+
+Her inner walls clamp down on my fingers like a velvet fist. She is so tight, so drenched, each stroke of my hand sliding effortlessly against her heat while my thumb works the sensitive seam of her hood.
+
+"Vram! Ah... Vram!" Her cries are uninhibited, ringing against the quartz pillars in breathless, musical gasps. Her heels dig into my back, urging me deeper, her hips grinding in frantic circles against my face.
+
+I curl my fingers upward, hitting the spongy ridge of her G-spot, and double my tempo. 
+
+Tsunari’s body locks. A shuddering, vocal orgasm rips through her, her inner muscles milking my fingers in wild, rhythmic waves as she sobs my name into the quiet vault.
+
+I don't let her come down. 
+
+I rise over her, my golden eyes locked onto her dazed, ecstatic face. I slide between her trembling thighs, settling my hips against hers. Behind us, my fourteen-foot obsidian wings flare to their full, magnificent width, sweeping downward to seal around the velvet rug, enclosing us in a domed, private cathedral of midnight feathers and warm, golden ember-light.
+
+"Look at me, my sovereign," I whisper, guiding the scorching head of my cock to her wet, pulsing entrance.
+
+She opens her heavy lids, her golden eyes filled with raw, unshielded adoration. "I'm looking. Take me home."
+
+I push forward.
+
+Slowly. Agonizingly. With unhurried, reverent perfection.
+
+She is so wet, so opened by her climax, that my thick length slides into her like a heated sword into a custom sheath. Inch by burning inch, I sink deep into her cool, velvet depths, until my pelvis meets hers with a soft, heavy slap that presses our souls together.
+
+Tsunari lets out a long, shuddering sigh of pure completion, wrapping her legs around my waist, her arms locking around my neck.
+
+"Gods," she whispers against my throat, tears of overwhelming emotion pricking her lashes. "You fill every corner of me."
+
+"And you hold the only sky I care to fly in," I answer, kissing the salt from her eyelids.
+
+I begin to move.
+
+It is not the desperate, frantic pounding of the bunker cot. It is a deep, unhurried, sovereign rhythm—every stroke long, powerful, and deliberate. I pull out until only the tip remains, letting the cool air tease her entrance, before sinking all the way back in, burying myself to the hilt, grinding my pelvis against her clitoris with every thrust.
+
+The friction is intoxicating. Her cool walls clutch and ripple against my burning cock, generating an unbearable, molten heat between our bodies. The sound of our bodies colliding—wet, rhythmic, and heavy—echoes softly beneath the dome of my wings.
+
+She meets every thrust with fluid grace, her hips arching to meet mine, her nails tracing the scars along my ribs. 
+
+"Vram... more... deeper..."
+
+I alter the angle, driving upward into her sweet spot with measured, relentless force. Each thrust pushes her higher, building the electric charge in our blood until the bioluminescent capillaries beneath our skin begin to pulse in unison—gold and emerald light dancing across our sweat-slicked bodies like living starlight.
+
+The tension coils to the snapping point.
+
+"With me, Tsune," I growl, my voice breaking into a ragged rasp as my hips accelerate, pounding into her with fierce, possessive power. "Fly with me!"
+
+"Yes! Now, Vram, now!"
+
+We shatter together.
+
+Tsunari’s climax hits first, a torrential convulsion that clamps her inner walls around my cock with bone-melting intensity, her voice ringing out in a high, clear, breathless cry of absolute ecstasy.
+
+The feeling of her milking my length destroys my last defense. 
+
+With a deep, thunderous roar that vibrates against her sternum, I drive my hips hard against hers and unload. 
+
+My cock pulses violently inside her, pumping thick, scalding waves of seed deep into her womb. The release is so profound, so devastatingly complete, that my vision whites out into pure solar fire. I collapse forward, cradling her head against my shoulder, shuddering through aftershock after aftershock as our souls weld together beneath the dark canopy of my wings.
+
+***
+
+Thirty feet above their heads, in the dark iron labyrinth of the ventilation matrix, another heart is listening.
 
 **Caelia** crouches on an overhead air duct, her knees pulled tight against her soot-stained chest, her bare feet silent on the corrugated iron. In her right hand, she grips a jagged bone dagger dipped in neuro-toxin, its pale surface gleaming in the dim light filtering through the floor grates.
 
@@ -74,11 +190,13 @@ She had crawled through three miles of rusted drainage culverts, ignoring the ag
 
 She looks down through the iron slats.
 
-She sees the Fire-Giver—the winged god who could crush a man's skull with a single wing strike—kneeling before the gutter-drake on a wooden bench. 
+She sees the Fire-Giver—the winged god who could crush a man's skull with a single wing strike—lying on the velvet rug, his great wings curved tenderly over the woman in his arms, his mouth kissing her forehead with a reverent, worshipful gentleness that steals the breath from Caelia's lungs.
 
-She watches his massive, scarred hands bandage her shoulder with trembling tenderness. She watches him look into her eyes not with the cold, demanding dominion of a cult master, but with the helpless, aching reverence of a man who has surrendered his soul freely.
+She had expected a slaughter. She had expected to see the sacred warrior corrupted, enslaved, or violated. 
 
-No chains. No ritual brands. No mutagenic fever.
+Instead, she witnesses a love so pure, so sovereign, and so completely devoid of chains that it makes the ritual tortures of the coven look like the deranged butcheries of madmen.
+
+No brands. No iron collars. No fear.
 
 Just two souls choosing each other in the dark.
 

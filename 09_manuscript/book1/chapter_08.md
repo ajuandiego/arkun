@@ -204,6 +204,18 @@ She isn't panicking. She isn't banging on the partition or screaming for help.
 
 She is watching the tilt of the cockpit. She is counting the gear shifts. She is tracking the angle of the canyon walls against the incandescent violet sky, calculating our elevation and heading with the cold, terrifying precision of a born predator.
 
+And my gaze, traitorous and undisciplined, lingers.
+
+In the green dashboard glow, my eyes trace the graceful, athletic sweep of her bare shoulders—smooth, pale, dusted along the outer curve with fine, hexagonal micro-scales that gleam like crushed diamonds. Her sleeveless tunic leaves the corded muscle of her arms exposed, lean and coiled with lethal speed. When she catches me watching her through the glass, her chin lifts in raw defiance, her bruised lower lip parting slightly.
+
+A sharp, electric jolt shoots down my spine, tightening in my groin with humiliating, unbidden force. My knuckles turn white on the steering yokes, my breath catching behind my teeth. 
+
+*Stop it, Tyage.* 
+
+You are an Aeros Commander. She is an enemy asset who tried to kick your femoral artery open twenty minutes ago. 
+
+*If I reach for her, she'll slit my throat. And she'd be right.*
+
 She knows we aren't going to the dome.
 
 A faint, bitter smile touches my lips in the dark.

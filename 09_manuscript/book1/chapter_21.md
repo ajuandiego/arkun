@@ -117,8 +117,136 @@ It is not gentle, and it is not polite. It is the desperate, starving collision 
 
 His mouth is hot, demanding, tasting of copper and clean water, parting my lips with a low, possessive groan that vibrates deep in his chest. I clutch at his shoulders, my fingers digging into the scarred muscle at the base of his wings, pulling him closer, arching my cool chest against his burning skin as the current swirls around our hips.
 
-The world above us can burn. 
+When his lips finally yield mine to drag down the line of my throat, we are both trembling. His breath scorches against my collarbone, ragged and uneven. 
 
-The Directorate can send their gunships, their legions, their alien masters.
+"Your wings," I whisper, my hands drifting around his shoulders to the heavy dorsal joints along his upper spine. "The phosphorus... it got into the quills."
 
-Down here in the dark, we are untouchable.
+"It's nothing," he grunts, but a violent tremor runs down his ribs as my fingers graze the base of his primary feathers.
+
+"It isn't nothing. Turn around."
+
+He hesitates, then slowly pivots in the water, presenting his back. 
+
+In the dim golden light radiating from his own capillaries, the damage is stark. Yellow sulfur grit and charred feather barbs are matted against the deep, fleshy sockets where bone meets cartilage. I wade closer, lifting my hands. Gently, with the instinctive precision of a cursorial groomer, I begin combing out the blackened ash. My thumbs work into the downy under-feathers, carefully extracting the sharp, crystallized flecks of defoliant before they can burn into the living marrow.
+
+Then my fingers slip deeper, smoothing across the swollen, naked skin of his wing roots.
+
+Vram’s entire body stiffens as if struck by high voltage.
+
+A low, guttural sound rips from his chest—not a gasp of pain, but a strangled, breathless shudder of pure, unadulterated sensation. His massive hands slam against the wet stone wall of the culvert to brace himself, the muscles of his back cording so hard the skin pulls taut over his ribs.
+
+In Simurgh anatomy, the dorsal wing roots anchor directly into the sympathetic thoracic nerve cluster. It is not merely a flight hinge; it is an erogenous junction of hyper-sensitive, raw nerve endings that bypass the brain entirely, wired straight into the primal core of his chimeric physiology.
+
+"Tsune..." he groans, his voice cracking, thick with an agonizing, delirious heat. "Don't... gods, don't touch there..."
+
+"Does it hurt?" I whisper, leaning in, my cool breath brushing the nape of his neck.
+
+"No," he rasps, his head falling forward between his braced arms, his breath hitching violently as my fingertips circle the sensitive ring of cartilage. "No, it doesn't hurt. It's... too much."
+
+My fingers stroke upward along the flight tendon, smoothing the velvet sheath at the base of the bone. 
+
+The sensory overload snaps his last thread of military discipline.
+
+With a feral, choked growl, Vram spins in the water. His large, scarred hands seize my waist, his grip bruising in its intensity. Before I can draw breath, he hoists me out of the freezing current as if I weighed nothing, driving me back against the smooth basalt wall of the culvert.
+
+The cold stone at my back contrasts wildly with the furnace of his body. 
+
+"You have no idea what you do to me," he snarls softly, his golden eyes dilated until the amber is nearly swallowed by obsidian black. His breath is scorching against my parted lips. "None at all."
+
+"Show me," I breathe, my fingers tangling in the damp dark hair at his nape.
+
+He doesn't ask twice. 
+
+His mouth crashes down on mine again—starving, ferocious, open and consuming. At the same time, his hands hook beneath the waistband of my soaked compression leggings. The fabric tears with a sharp rip as his nanocarbon talons nick the seams, peeling the sodden cloth down over my hips and thighs, kicking it into the current until I am entirely bare against the rock.
+
+The cold air licks at my wet skin, but only for a heartbeat. 
+
+Vram drops to his knees in the rushing water before me.
+
+The sight of him kneeling there—this towering, undefeated commander of the skies, kneeling in the sewer muck with his head bowed between my bare thighs—steals the air from my chest. His massive obsidian wings flare wide behind him, shielding my lower body from the freezing spray, trapping a pocket of dry, radiant heat between us.
+
+His hands slide up the back of my calves, strong and calloused, smoothing over the tight curve of my hamstrings before hooking behind my knees. He parts my legs, lifting them onto his broad shoulders, opening me completely to his gaze in the golden embers of his light.
+
+"Vram..." The whisper catches in my throat as his hot palms settle onto the smooth, pale skin of my inner thighs.
+
+"Look at you," he murmurs, his voice trembling with a raw, worshipful awe that makes my toes curl. "Pure frost and silk."
+
+He leans forward. His warm, bearded cheek brushes against the sensitive skin of my inner leg, and then his breath—scalding, sweet, smelling of ozone and crushed cloves—washes directly over the slick, swollen folds of my center.
+
+I let out a sharp, choked gasp, my fingers scrambling against the wet rock behind me.
+
+Then his mouth touches me.
+
+The shock of his hot tongue against my cool, hypersensitive flesh is an explosion of white light behind my eyes. He tastes me with long, deliberate, agonizingly slow strokes—licking from the base of my cleft upward, gathering my slickness onto his tongue with a low, guttural hum that vibrates straight into my bones. 
+
+*Gods above.* My head falls back against the stone, my spine arching off the wall. *He's consuming me.*
+
+He doesn't hold back. His hands grip my hips, his thumbs pressing into the small indentations above my buttocks, anchoring me firmly against the relentless, devastating pressure of his mouth. His tongue parts my swollen lips, seeking out the small, hard bud of my pleasure and flattening against it with greedy, possessive hunger. 
+
+Every flick of his tongue sends liquid fire shooting through my veins. The contrast is intoxicating: my reptilian blood, naturally cool and deliberate, is whipped into a boiling, frantic frenzy by his 106-degree mouth. 
+
+"Vram... please..." I don't know what I'm begging for—for him to stop, for him to devour me whole. My fingers find his dark, thick hair, fist-gripping it, not to pull him away, but to press his face harder into my core.
+
+He groans against my flesh, the vibration sending shudders through my pelvis. One of his large hands leaves my hip, sliding between our bodies. Two long, calloused fingers, wet with my own arousal, slide smoothly into my tight, dripping heat.
+
+The invasion rips a loud, vocal cry from my throat that echoes off the culvert ceiling. 
+
+He curls his fingers inside me, finding the swollen ridge along my upper wall and pressing upward with cruel, exquisite precision, even as his mouth latches over my clitoris, sucking rhythmically with blistering suction. 
+
+The dual assault is devastating. His fingers pump inside me, stretching me, setting a deep, demanding tempo while his tongue works with relentless, merciless devotion against my bud. 
+
+My thighs begin to tremble violently on his shoulders. The tension in my lower abdomen coils tighter and tighter, an electric wire humming at breaking point. 
+
+"Right there," I sob, my heels digging into the hard muscle of his back. "Vram... right there... I'm going to—"
+
+"Give it to me, Tsune," he growls against my center, his voice vibrating through my slick folds. "Break for me."
+
+His thumb joins his fingers, pressing into my outer lips as his tongue delivers three rapid, agonizingly sharp licks against my peak.
+
+The world shatters.
+
+The orgasm hits me with the force of a hydraulic blast, tearing through my nervous system in blinding, rhythmic spasms. My inner walls clamp down on his fingers in violent, milking pulses, soaking his hand and chin in a torrent of release. A ragged, keening cry tears from my lungs, uninhibited and raw, echoing through the empty subterranean tunnel.
+
+Vram doesn't pull away. He drinks every drop, his mouth catching my release, his tongue soothing my hypersensitive center through each aftershock, humming with deep, possessive satisfaction as my body shivers and unwinds against the stone.
+
+When he finally lifts his head, his face is glistening in the amber light. His jaw and beard are slick with my essence, his golden eyes blown wide, black, and feral.
+
+He rises to his feet, water cascading from his massive shoulders. 
+
+The heat coming off his skin is suffocating now, roaring like a furnace at full bore. His damp trousers strain against the massive, rigid length of his erection, tenting the dark fabric, pulsing with heavy, visible beats that betray the agonizing restraint holding him back. 
+
+He hofts me into his arms, cradling me against his chest as my trembling legs wrap around his waist. My core pulses against the front of his waistband, soaking the fabric, aching with an empty, hollow throb that screams for him to fill me, to bury that blistering iron inside me until we both burn to ash.
+
+I reach down, my fingers brushing the hard ridge through his cloth. 
+
+Vram groans, a sound of pure agony, his hips thrusting involuntarily into my palm.
+
+"Vram," I whisper against his lips, tasting myself on his mouth, dizzy with desire. "Take it off. Put it inside me."
+
+He freezes.
+
+For a heartbeat, his molten eyes flare with a dark, primal hunger that threatens to devour both of us. His hand grips my hip, his knuckles white.
+
+Then his gaze drops.
+
+In the amber glow, he sees my inner thighs. 
+
+Where his scorching hands and bearded mouth had pressed against my pale, delicate skin, the flesh is flushed a deep, angry crimson—not blistered, but overheated, the fine scales radiating trapped thermal energy. 
+
+A sharp breath hisses through his teeth. 
+
+"No," he rasps, the word tearing from his throat like broken glass. He leans his forehead against mine, his chest heaving against my bare breasts, his entire body shuddering with the monumental effort of pulling back. "No... my core temp is spiking. If I take you now... if I lose control... my heat will burn you from the inside out."
+
+"I can take it," I plead, my hips rolling against his rigid length, desperate for the fullness of him. "Vram, I'm cold-blooded—"
+
+"Not like this," he growls softly, his hands trembling as he cups my face, his thumbs wiping away the sweat and tears on my cheeks. "Not in a sewer, Tsune. Not when I can barely think through the fire. I won't hurt you. I'd rather cut my own throat."
+
+The confession is so raw, so filled with terrifying love and restraint, that it silences the fever in my blood.
+
+He wraps his obsidian wings around us once more, sealing us in the dark, warm cocoon. With infinite tenderness, he lifts me back into the cradle of his arms, wading slowly through the black water toward the dry stone ledge at the tunnel's bend.
+
+Behind us, the culvert is quiet.
+
+We haven't crossed the final threshold, but the world has permanently tilted on its axis. 
+
+I rest my head against his burning collarbone, listening to the thunderous, desperate rhythm of his heart, knowing with terrifying certainty that neither of us will ever be free of this hunger again.

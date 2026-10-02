@@ -155,9 +155,21 @@ Above us, his fourteen-foot wings flare wide, an obsidian canopy that shuts out 
 
 I am completely pinned.
 
-My heart hammers against my ribs like a trapped bird beating its wings against iron bars. My horizontal slit pupils lock onto his molten-gold eyes. 
+My heart hammers against my ribs like a trapped bird beating its wings against iron bars. But it isn't just survival panic making my chest heave. 
 
-Up close, the severity of his face is breathtaking—harsh, aristocratic planes unmarred by the scars of the undercity, framed by dark raven hair pulled back into a disciplined warrior topknot, and a crisply sculpted dark beard along a jawline that looks like it was chiseled from volcanic glass. 
+It is the suffocating, terrifying heat of him.
+
+Through the worn canvas of my combat trousers, his heavy thighs are an iron clamp around my hips, radiating a searing, furnace-hot warmth that soaks straight through to my cold-blooded skin. Up close, the severity of his face is breathtaking—harsh, aristocratic planes unmarred by the scars of the undercity, framed by dark raven hair pulled back into a disciplined warrior topknot, and a crisply sculpted dark beard along a jawline that looks like it was chiseled from volcanic glass. 
+
+His scent washes over me—not the rancid grease of the sumps, but sharp ozone, scorched cedar, and the clean, intoxicating musk of high-altitude wind. 
+
+A sudden, traitorous jolt of heat coils deep in the pit of my belly—a flash of raw, unwanted physical awareness that makes my breath catch in my throat. 
+
+*No. Stop it, you fool.* 
+
+He is the Director’s pet hawk. A gilded executioner who came down from the clouds to turn you into scrap. 
+
+*Don't look at his mouth. Find his throat and kill him.*
 
 He isn't even breathing hard. His broad, muscular chest barely rises and falls against mine. 
 

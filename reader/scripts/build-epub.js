@@ -67,12 +67,14 @@ function toStrictXHTML(html) {
     .replace(/&(?!(amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;');
 }
 
-// Parse individual markdown chapter
-function parseChapter(rawMarkdown, filename, index) {
+// Parse individual markdown chapter or interlude
+function parseChapter(rawMarkdown, filename, index, chapterNumber) {
+  const isInterlude = filename.includes('interlude') || filename.includes('addendum');
   const lines = rawMarkdown.split('\n');
-  let title = `Chapter ${index}`;
+  let title = isInterlude ? 'Interlude' : `Chapter ${chapterNumber}`;
   let pov = 'Omniscient';
   let epigraph = '';
+  let epigraphDescription = '';
 
   for (let i = 0; i < Math.min(lines.length, 10); i++) {
     const line = lines[i].trim();
@@ -102,8 +104,8 @@ function parseChapter(rawMarkdown, filename, index) {
     }
   }
   if (quoteLines.length > 0) {
-    epigraphDescription = quoteLines.slice(0, 1).join(' '); //should be the first element of quoteLines array
-    epigraph = quoteLines.slice(1).join(' '); //should be the rest of the elements of quoteLines array
+    epigraphDescription = quoteLines.slice(0, 1).join(' ');
+    epigraph = quoteLines.slice(1).join(' ');
   }
 
   // Remove top H1, epigraph quote, and divider from narrative body
@@ -132,6 +134,8 @@ function parseChapter(rawMarkdown, filename, index) {
 
   return {
     index,
+    chapterNumber,
+    isInterlude,
     filename,
     title,
     pov,
@@ -396,8 +400,14 @@ pre {
 `;
 }
 
-// Generate XHTML for Chapter
+// Generate XHTML for Chapter or Interlude
 function generateChapterXHTML(chapter) {
+  const numberLabel = chapter.isInterlude ? 'Interlude' : `Chapter ${chapter.chapterNumber}`;
+  const povLabel = chapter.isInterlude ? 'Interlude // Omniscient' : `Point of View // ${xmlEscape(chapter.pov)}`;
+  const epigraphLabel = chapter.isInterlude
+    ? 'World Archive // Recovered Dispatch'
+    : (chapter.pov.toLowerCase().includes('vram') ? 'Tactical Dossier // Codex' : 'Neural Intercept // Audio Log');
+
   return `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
@@ -409,14 +419,14 @@ function generateChapterXHTML(chapter) {
 <body epub:type="bodymatter">
   <section role="doc-chapter" epub:type="chapter" class="chapter chapter-${chapter.index}">
     <header class="chapter-header">
-      <div class="chapter-number">Chapter ${chapter.index}</div>
+      <div class="chapter-number">${numberLabel}</div>
       <h1 class="chapter-title">${xmlEscape(chapter.title)}</h1>
-      <div class="chapter-pov">Point of View // ${xmlEscape(chapter.pov)}</div>
+      <div class="chapter-pov">${povLabel}</div>
     </header>
 
     ${chapter.epigraph ? `
     <aside role="doc-epigraph" epub:type="epigraph" class="doc-epigraph">
-      <div class="epigraph-label">${chapter.pov.toLowerCase().includes('vram') ? 'Tactical Dossier // Codex' : 'Neural Intercept // Audio Log'}</div>
+      <div class="epigraph-label">${epigraphLabel}</div>
       <blockquote>${chapter.epigraph}</blockquote>
       <p class="epigraph-description">${chapter.epigraphDescription}</p>
     </aside>
@@ -713,21 +723,25 @@ async function buildEPUB() {
   console.log('⚡ THE ARKUN CYCLE — EPUB3 COMPILER');
   console.log('========================================================');
 
-  // 1. Read Manuscript Chapters
+  // 1. Read Manuscript Chapters & Addendums
   if (!fs.existsSync(MANUSCRIPT_DIR)) {
     throw new Error(`Manuscript directory not found at: ${MANUSCRIPT_DIR}`);
   }
 
+  // Natural sort cleanly places chapter_10b_addendum_01 between chapter_10 and chapter_11
   const files = fs.readdirSync(MANUSCRIPT_DIR)
-    .filter(f => f.startsWith('chapter_') && f.endsWith('.md'))
+    .filter(f => f.endsWith('.md'))
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
-  console.log(`📖 Found ${files.length} chapters in ${MANUSCRIPT_DIR}`);
+  console.log(`📖 Found ${files.length} sections (${files.filter(f => !f.includes('interlude')).length} chapters + ${files.filter(f => f.includes('interlude')).length} interludes) in ${MANUSCRIPT_DIR}`);
 
   let totalWords = 0;
+  let chapterCounter = 0;
   const chapters = files.map((file, i) => {
+    const isInterlude = file.includes('interlude');
+    if (!isInterlude) chapterCounter++;
     const raw = fs.readFileSync(path.join(MANUSCRIPT_DIR, file), 'utf8');
-    const parsed = parseChapter(raw, file, i + 1);
+    const parsed = parseChapter(raw, file, i + 1, chapterCounter);
     totalWords += parsed.wordCount;
     return parsed;
   });

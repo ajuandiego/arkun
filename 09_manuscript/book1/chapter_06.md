@@ -80,7 +80,19 @@ And she carries it in her blood.
 
 For two heartbeats, neither of us moves. 
 
-Two apex predators, tangled in the ruins of an ancient world, breathing in the same hot, dust-thick air. The heat of my 106-degree chest burns against her torso; the cool, grounding chill of her skin seeps through my collar, cooling my fevered blood.
+Two apex predators, tangled in the ruins of an ancient world, breathing in the same hot, dust-thick air. 
+
+With the deafening scream of the static stripped from my mind, my other senses roar awake with terrifying, razor-sharp intensity. 
+
+I am suddenly, acutely aware of the physical reality of our bodies. 
+
+My heavy thighs bracket her lithe, muscular hips, pinning her beneath two hundred and sixty pounds of deadened weight. Her waist is narrow, carved with lean, athletic strength, her small, scaly ribs rising and falling against the hard plates of my chest. Her scent—wild desert sage, hot copper, and clean skin—floods my nostrils, intoxicating in a way that has nothing to do with combat stimulants. 
+
+Beneath the leather of my flight trousers, a sudden, illicit jolt of raw heat hits my groin—a sharp, involuntary surge of primal desire that shocks my military discipline to its core. 
+
+*Focus, soldier.* The conditioning screams against the quiet of my skull. *She's an unregistered Gray Sector insurgent with blood on her claws, not a woman in your quarters. She's a thief. A traitor.*
+
+Yet looking down into those blazing amber eyes, at the delicate arch of her throat and the bruised softness of her mouth beneath the mask, my pulse hammers with a hunger that terrifies me far more than any execution order.
 
 "What..." my voice breaks, a ragged, vulnerable whisper that sounds alien even to my own ears. "...what are you?"
 
