@@ -1,5 +1,5 @@
 /**
- * Markdown to EPUB3 Compiler for The Storm-Born Cycle
+ * Markdown to EPUB3 Compiler for The Arkun Cycle
  * Generates an official, validated EPUB3 ebook file from manuscript markdown chapters.
  */
 
@@ -26,17 +26,17 @@ fs.mkdirSync(EPUB_SOURCE_DIR, { recursive: true });
 
 // Book Metadata
 const BOOK_META = {
-  title: 'A Spark in the Rust',
-  series: 'The Storm-Born Cycle',
+  title: 'Stolen Breath',
+  series: 'The Arkun Cycle',
   volume: '1',
-  author: 'The Storm-Born Chronicles',
+  author: 'J.D. Alfaro',
   language: 'en-US',
-  identifier: 'urn:uuid:8b341f20-9482-40as-storm-born-vol1',
+  identifier: 'urn:uuid:8b341f20-9482-40as-arkun-cycle-vol1',
   modified: new Date().toISOString().replace(/\.\d+Z$/, 'Z'),
-  date: '2072-01-01',
-  description: 'Outside the sealed Green Domes, Sector 09\'s toxic Gray Ring is a powder keg. When Tsunari hacks the courier terminal and steals the Lazarus Key, Commander Vram Tyage is sent to eliminate her. But in the ruins of a collapsed solar farm, her touch accidentally grounds his neuro-lattice fever, sparking an outlaw alliance that will burn the sky.',
-  publisher: 'Eden Dome Alpha Archive Division',
-  rights: '© 2072 The Storm-Born Cycle. All rights reserved.'
+  date: '2026-10-02',
+  description: 'In a world choked by copper dust, every breath has a price. High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind. In the rust-slicked alleys below, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing his agony and sparking an alliance that will tear the sky apart.',
+  publisher: 'J.D. Alfaro',
+  rights: '© 2026 J.D. Alfaro. All rights reserved.'
 };
 
 // Helper: Escape XML entities
@@ -136,7 +136,7 @@ function parseChapter(rawMarkdown, filename, index) {
 
 // Generate EPUB Stylesheet
 function generateCSS() {
-  return `/* The Storm-Born Cycle — EPUB3 Stylesheet */
+  return `/* The Arkun Cycle — EPUB3 Stylesheet */
 
 @charset "utf-8";
 
@@ -505,7 +505,7 @@ function generateOPF(chapters) {
 // MAIN COMPILER FUNCTION
 async function buildEPUB() {
   console.log('========================================================');
-  console.log('⚡ THE STORM-BORN CYCLE — EPUB3 COMPILER');
+  console.log('⚡ THE ARKUN CYCLE — EPUB3 COMPILER');
   console.log('========================================================');
 
   // 1. Read Manuscript Chapters
@@ -606,7 +606,7 @@ async function buildEPUB() {
     compressionOptions: { level: 9 }
   });
 
-  const epubOutputFile = path.join(OUTPUT_DIR, 'A_Spark_in_the_Rust.epub');
+  const epubOutputFile = path.join(OUTPUT_DIR, 'Stolen_Breath.epub');
   fs.writeFileSync(epubOutputFile, epubBuffer);
 
   const stats = fs.statSync(epubOutputFile);

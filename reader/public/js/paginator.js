@@ -321,7 +321,7 @@ class BookPaginator {
     const sideClass = isLeft ? 'page-verso' : 'page-recto';
 
     const headerText = isLeft
-      ? `<span class="header-series">${metadata.bookTitle || 'THE STORM-BORN CYCLE'}</span>`
+      ? `<span class="header-series">${metadata.bookTitle || 'THE ARKUN CYCLE'}</span>`
       : `<span class="header-chapter">${metadata.chapterTitle || ''}</span>`;
 
     const footerNumber = `<span class="page-number">${bookPageNum}</span>`;

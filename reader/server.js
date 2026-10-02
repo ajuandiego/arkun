@@ -124,17 +124,17 @@ function parseChapterMetadata(rawContent, filename) {
 
 // Get Book metadata
 function getBookInfo(bookId = 'book1') {
-  let title = 'Book 1: A Spark in the Rust';
-  let series = 'The Storm-Born Cycle';
-  let tagline = 'A hunted hacker with sickle-claw reflexes. A winged soldier with a burning fever. One touch that changes the fate of Earth.';
-  let synopsis = 'Outside the sealed Green Domes, Sector 09\'s toxic Gray Ring is a powder keg. When Tsunari hacks the courier terminal and steals the Lazarus Key, Commander Vram Tyage is sent to eliminate her.';
+  let title = 'Book 1: Stolen Breath';
+  let series = 'The Arkun Cycle';
+  let tagline = 'In a world choked by copper dust, every breath has a price. One touch that changes the fate of Earth.';
+  let synopsis = 'High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind. In the rust-slicked alleys below, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing his agony and sparking an alliance that will tear the sky apart.';
 
   const pitchFile = path.join(ROOT_DIR, 'pitch.md');
   if (fs.existsSync(pitchFile)) {
     try {
       const pitchText = fs.readFileSync(pitchFile, 'utf8');
-      if (pitchText.includes('Book 1: *A Spark in the Rust*')) {
-        title = 'Book 1: A Spark in the Rust';
+      if (pitchText.includes('Book 1: *Stolen Breath*')) {
+        title = 'Book 1: Stolen Breath';
       }
     } catch (e) {
       console.warn('Could not read pitch.md:', e.message);
@@ -147,7 +147,7 @@ function getBookInfo(bookId = 'book1') {
     series,
     tagline,
     synopsis,
-    author: 'The Storm-Born Chronicles',
+    author: 'J.D. Alfaro',
     year: '40 AS (2072 CE)'
   };
 }
@@ -276,9 +276,10 @@ app.get('/api/books/:bookId/full', (req, res) => {
 // API: Download compiled EPUB3 file
 app.get('/api/books/:bookId/download/epub', (req, res) => {
   const { bookId } = req.params;
-  const epubPath = path.join(__dirname, 'books', bookId, 'A_Spark_in_the_Rust.epub');
+  const epubPath = path.join(__dirname, 'books', bookId, 'Stolen_Breath.epub');
+
   if (fs.existsSync(epubPath)) {
-    res.download(epubPath, 'A_Spark_in_the_Rust.epub');
+    res.download(epubPath, 'Stolen_Breath.epub');
   } else {
     res.status(404).json({ error: 'EPUB file not found. Run npm run build:epub first.' });
   }
@@ -292,7 +293,7 @@ app.use((req, res) => {
 // Start the server
 app.listen(PORT, '0.0.0.0', () => {
   console.log('====================================================');
-  console.log('📖 THE STORM-BORN CYCLE — 3D BOOK SIMULATION READER');
+  console.log('📖 THE ARKUN CYCLE — 3D BOOK SIMULATION READER');
   console.log('----------------------------------------------------');
   console.log(`🚀 Serving on non-typical port: ${PORT}`);
   console.log(`🌐 Local URL:  http://localhost:${PORT}`);

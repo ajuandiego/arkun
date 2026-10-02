@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId" xml:lang="en">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
-    <dc:identifier id="BookId">urn:uuid:8b341f20-9482-40as-storm-born-vol1</dc:identifier>
-    <dc:title>A Spark in the Rust</dc:title>
-    <dc:creator>The Storm-Born Chronicles</dc:creator>
+    <dc:identifier id="BookId">urn:uuid:8b341f20-9482-40as-arkun-cycle-vol1</dc:identifier>
+    <dc:title>Stolen Breath</dc:title>
+    <dc:creator>J.D. Alfaro</dc:creator>
     <dc:language>en-US</dc:language>
-    <dc:publisher>Eden Dome Alpha Archive Division</dc:publisher>
-    <dc:date>2072-01-01</dc:date>
-    <dc:description>Outside the sealed Green Domes, Sector 09&apos;s toxic Gray Ring is a powder keg. When Tsunari hacks the courier terminal and steals the Lazarus Key, Commander Vram Tyage is sent to eliminate her. But in the ruins of a collapsed solar farm, her touch accidentally grounds his neuro-lattice fever, sparking an outlaw alliance that will burn the sky.</dc:description>
-    <dc:rights>© 2072 The Storm-Born Cycle. All rights reserved.</dc:rights>
-    <meta property="dcterms:modified">2026-10-02T01:56:16Z</meta>
-    <meta property="belongs-to-collection" id="c01">The Storm-Born Cycle</meta>
+    <dc:publisher>J.D. Alfaro</dc:publisher>
+    <dc:date>2026-10-02</dc:date>
+    <dc:description>In a world choked by copper dust, every breath has a price. High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind. In the rust-slicked alleys below, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing his agony and sparking an alliance that will tear the sky apart.</dc:description>
+    <dc:rights>© 2026 J.D. Alfaro. All rights reserved.</dc:rights>
+    <meta property="dcterms:modified">2026-10-02T15:28:31Z</meta>
+    <meta property="belongs-to-collection" id="c01">The Arkun Cycle</meta>
     <meta refines="#c01" property="collection-type">series</meta>
     <meta refines="#c01" property="group-position">1</meta>
   </metadata>

@@ -1,5 +1,5 @@
 /**
- * The Storm-Born Cycle — Interactive 3D Book Controller
+ * The Arkun Cycle — Interactive 3D Book Controller
  */
 
 class NovelReader {
@@ -64,8 +64,8 @@ class NovelReader {
       this.books = await bRes.json();
       if (this.books.length > 0) {
         this.bookMeta = this.books[0];
-        document.getElementById('header-series').innerText = this.bookMeta.series || 'The Storm-Born Cycle';
-        document.getElementById('header-book-title').innerText = this.bookMeta.title || 'A Spark in the Rust';
+        document.getElementById('header-series').innerText = this.bookMeta.series || 'The Arkun Cycle';
+        document.getElementById('header-book-title').innerText = this.bookMeta.title || 'Stolen Breath';
       }
 
       const cRes = await fetch(`/api/books/${this.currentBookId}/chapters`);
@@ -351,13 +351,13 @@ class NovelReader {
         <div class="cover-overlay">
           <div class="cover-filigree-border"></div>
           <div>
-            <div class="cover-series-title">❖ THE STORM-BORN CYCLE ❖</div>
-            <div class="cover-badge" style="margin-top: 8px;">BOOK ONE // VOLUME ARCHIVE</div>
+            <div class="cover-series-title">❖ THE ARKUN CYCLE ❖</div>
+            <div class="cover-badge" style="margin-top: 8px;">BOOK ONE // STOLEN BREATH</div>
           </div>
           <div style="flex: 1;"></div>
           <div>
-            <div class="cover-author">EDEN DOME ALPHA RESTRICTED ARCHIVE</div>
-            <div style="font-size: 10px; color: var(--gold-light); margin-top: 4px; letter-spacing: 2px;">YEAR 40 AS // 2072 CE</div>
+            <div class="cover-author">BY J.D. ALFARO</div>
+            <div style="font-size: 10px; color: var(--gold-light); margin-top: 4px; letter-spacing: 2px;">EDITION // 2026</div>
           </div>
         </div>
       </div>
@@ -376,13 +376,13 @@ class NovelReader {
         <div class="page-inner page-title-spread">
           <div class="page-gutter-shadow"></div>
           <div class="title-page-crest">❖</div>
-          <div class="title-page-series">The Storm-Born Cycle // Series Classification</div>
+          <div class="title-page-series">The Arkun Cycle // Series Classification</div>
           <div style="font-family: var(--font-display); font-size: 13px; color: var(--text-secondary); margin-bottom: 20px;">DIRECTORATE ARCHIVE CLEARANCE: LEVEL 9</div>
           <p style="font-family: var(--font-serif); font-size: 12.5px; line-height: 1.6; color: var(--text-secondary); max-width: 300px; text-align: center;">
             This volume contains declassified neural data streams, intercepted Vaelen transmissions, and personal audio transcripts recovered from the Sector 09 perimeter conduit incident.
           </p>
           <div class="colophon-meta">
-            FIRST EDITION • PUBLISHED IN EDEN DOME ALPHA<br>
+            FIRST EDITION • PUBLISHED BY J.D. ALFARO<br>
             CHRONO: 40 YEARS AFTER THE STORM<br>
             RESTRICTED DISTRIBUTION TO BASELINE BIOLOGY
           </div>
@@ -395,14 +395,14 @@ class NovelReader {
       <div class="page page-verso" data-density="soft">
         <div class="page-inner page-title-spread">
           <div class="page-gutter-shadow"></div>
-          <div class="title-page-series">THE STORM-BORN CYCLE — BOOK 1</div>
-          <div class="title-page-main">A SPARK IN THE RUST</div>
+          <div class="title-page-series">THE ARKUN CYCLE — BOOK 1</div>
+          <div class="title-page-main">STOLEN BREATH</div>
           <div class="title-page-rule"></div>
           <div class="title-page-logline">
-            "A hunted hacker with sickle-claw reflexes. A winged soldier with a burning fever. One touch that changes the fate of Earth."
+            "In a world choked by copper dust, every breath has a price. One touch that changes the fate of Earth."
           </div>
           <div style="font-family: var(--font-display); font-size: 11px; letter-spacing: 3px; color: var(--gold-accent);">
-            THE COMPLETE TEN-CHAPTER VOLUME
+            BY J.D. ALFARO
           </div>
         </div>
       </div>
@@ -457,7 +457,7 @@ class NovelReader {
       chapterHtml += cleanNarrativeHtml;
 
       const paginatedPages = window.bookPaginator.paginateHtml(chapterHtml, {
-        bookTitle: 'THE STORM-BORN CYCLE',
+        bookTitle: 'STOLEN BREATH',
         chapterTitle: chap.title
       }, currentGlobalPage, pages.length);
 
@@ -480,8 +480,8 @@ class NovelReader {
       <div class="page page-verso" data-density="soft">
         <div class="page-inner page-title-spread">
           <div class="title-page-crest">❖</div>
-          <div class="title-page-series">THE STORM-BORN CYCLE — BOOK TWO</div>
-          <div class="title-page-main" style="font-size: 20px;">THE IRON CHRYSALIS</div>
+          <div class="title-page-series">THE ARKUN CYCLE — BOOK TWO</div>
+          <div class="title-page-main" style="font-size: 20px;">CROWN OF SALT</div>
           <div class="title-page-rule"></div>
           <p style="font-family: var(--font-serif); font-size: 13px; line-height: 1.6; color: var(--text-secondary); text-align: center; max-width: 320px;">
             "To save a dying planet, they must cross the burning wastelands. But the deepest enemy wears the face of the family they trust."
@@ -503,22 +503,22 @@ class NovelReader {
       <div class="page page-cover-back" data-density="hard">
         <div class="cover-filigree-border"></div>
         <div class="back-blurb">
-          <h3>A SPARK IN THE RUST</h3>
+          <h3>STOLEN BREATH</h3>
           <p style="margin-bottom: 12px;">
-            In Year 40 AS, Earth belongs to an alien empire that bought the atmosphere from corporate oligarchs and is systematically phasing out human air.
+            In a world choked by copper dust, every breath has a price.
           </p>
           <p style="margin-bottom: 12px;">
-            When rogue Dromaeon-spliced bio-hacker <strong>Dr. Tsunari Thorne</strong> steals the mathematical proof of humanity's impending extinction, the regime unleashes its supreme weapon: <strong>Commander Vram Tyage</strong>, a Simurgh-spliced soldier burning with a lethal 106°F solar furnace.
+            High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind.
           </p>
           <p>
-            Forced into a volatile rogue alliance after crashing into the feral Rust Barrens, the two lethal combatants must survive wild transgenic packs, defect from an empire, and defend the ancient secrets of The Glass Vault before the sky turns to ash.
+            Three thousand feet below, in the rust-slicked alleys of the Gray Sector, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing the agony that is destroying him, and sparking a forbidden bond that could tear the sky apart.
           </p>
         </div>
         <div class="back-barcode">
           <div class="barcode-lines">|||||| | ||||| |||| | |||||</div>
           <div class="isbn-meta">
-            VAELEN ARCHIVE: 978-0-9842-072-1<br>
-            CATEGORY: BIOPUNK ROMANTASY
+            THE ARKUN CYCLE // BOOK ONE<br>
+            BY J.D. ALFARO
           </div>
         </div>
       </div>
@@ -541,7 +541,7 @@ class NovelReader {
         <div class="cover-overlay">
           <div class="cover-filigree-border"></div>
           <div>
-            <div class="cover-series-title">❖ THE STORM-BORN CYCLE ❖</div>
+            <div class="cover-series-title">❖ THE ARKUN CYCLE ❖</div>
             <div class="cover-badge" style="margin-top: 6px;">${chapData.title.toUpperCase()}</div>
           </div>
           <div style="flex: 1;"></div>
@@ -582,7 +582,7 @@ class NovelReader {
     chapterHtml += cleanNarrativeHtml;
 
     const paginated = window.bookPaginator.paginateHtml(chapterHtml, {
-      bookTitle: 'A SPARK IN THE RUST',
+      bookTitle: 'STOLEN BREATH',
       chapterTitle: chapData.title
     }, 1, pages.length);
 
@@ -612,12 +612,12 @@ class NovelReader {
               </button>
             </div>
           ` : `
-            <p style="text-align: center; color: var(--gold-light);">You have finished Book 1: A Spark in the Rust.</p>
+            <p style="text-align: center; color: var(--gold-light);">You have finished Book 1: Stolen Breath.</p>
           `}
         </div>
         <div class="back-barcode">
           <div class="barcode-lines">|||| ||| ||||||| |||</div>
-          <div class="isbn-meta">THE STORM-BORN CYCLE</div>
+          <div class="isbn-meta">THE ARKUN CYCLE</div>
         </div>
       </div>
     `);
