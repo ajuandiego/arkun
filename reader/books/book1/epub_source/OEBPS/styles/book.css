@@ -247,3 +247,183 @@ pre {
   line-height: 1.8;
   margin-top: 4em;
 }
+
+/* Copyright & Content Advisory */
+.copyright-section {
+  font-size: 0.88em;
+  line-height: 1.8;
+  color: #4a4237;
+  padding: 10% 5% 5% 5%;
+  text-align: left;
+}
+
+.copyright-section p {
+  text-indent: 0;
+  margin-bottom: 1.2em;
+}
+
+.copyright-title {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.3em;
+  letter-spacing: 2px;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 0.2em;
+}
+
+.copyright-series {
+  font-size: 0.9em;
+  color: #c49a45;
+  font-style: italic;
+  margin-bottom: 1.5em;
+}
+
+.copyright-rule {
+  width: 50px;
+  height: 1px;
+  background: #c49a45;
+  margin: 1.5em 0;
+}
+
+.advisory-box {
+  margin: 2em 0;
+  padding: 1.2em 1.4em;
+  border: 1px solid #c49a45;
+  border-left: 4px solid #c49a45;
+  background: #fbf9f4;
+  border-radius: 4px;
+}
+
+.advisory-header {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 0.92em;
+  font-weight: 700;
+  color: #1a1a1a;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+
+.advisory-rating {
+  display: inline-block;
+  font-weight: bold;
+  color: #b91c1c;
+  font-size: 0.88em;
+  letter-spacing: 1px;
+  margin-bottom: 0.8em;
+}
+
+/* Review Box */
+.review-box {
+  text-align: center;
+  padding: 15% 8% 5% 8%;
+}
+
+.review-badge {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.25em;
+  letter-spacing: 2px;
+  color: #c49a45;
+  text-transform: uppercase;
+  margin-bottom: 0.8em;
+  font-weight: 700;
+}
+
+.review-rule {
+  width: 60px;
+  height: 2px;
+  background: #c49a45;
+  margin: 1.2em auto 2em auto;
+}
+
+.review-text {
+  font-size: 1.05em;
+  line-height: 1.8;
+  color: #2b2b2b;
+  margin-bottom: 1.5em;
+  text-indent: 0;
+}
+
+.stars {
+  color: #c49a45;
+  font-size: 1.4em;
+  letter-spacing: 4px;
+  margin-bottom: 1.2em;
+}
+
+/* Teaser / Sneak Peek */
+.teaser-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.teaser-series {
+  font-size: 0.9em;
+  letter-spacing: 3px;
+  color: #8c7d6b;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+
+.teaser-title {
+  font-size: 2em;
+  color: #1a1a1a;
+  letter-spacing: 1.5px;
+  margin: 0.2em 0 0.4em 0;
+}
+
+.teaser-subtitle {
+  font-size: 1em;
+  color: #c49a45;
+  font-style: italic;
+}
+
+.teaser-hook {
+  font-style: italic;
+  border-left: 3px solid #c49a45;
+  padding: 1em 1.5em;
+  background: #fbf9f4;
+  margin: 2em 0;
+  color: #3e3830;
+  line-height: 1.7;
+}
+
+/* About the Author */
+.author-section {
+  text-align: center;
+  padding: 10% 5%;
+}
+
+.author-name {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.8em;
+  letter-spacing: 2px;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  margin-bottom: 0.3em;
+}
+
+.author-tagline {
+  font-size: 0.95em;
+  color: #c49a45;
+  font-style: italic;
+  margin-bottom: 1.8em;
+}
+
+.author-rule {
+  width: 50px;
+  height: 1px;
+  background: #c49a45;
+  margin: 1.5em auto;
+}
+
+.author-bio {
+  text-align: justify;
+  max-width: 85%;
+  margin: 0 auto 1.5em auto;
+  font-size: 0.98em;
+  line-height: 1.75;
+  color: #333;
+  text-indent: 0;
+}

@@ -397,6 +397,186 @@ pre {
   line-height: 1.8;
   margin-top: 4em;
 }
+
+/* Copyright & Content Advisory */
+.copyright-section {
+  font-size: 0.88em;
+  line-height: 1.8;
+  color: #4a4237;
+  padding: 10% 5% 5% 5%;
+  text-align: left;
+}
+
+.copyright-section p {
+  text-indent: 0;
+  margin-bottom: 1.2em;
+}
+
+.copyright-title {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.3em;
+  letter-spacing: 2px;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 0.2em;
+}
+
+.copyright-series {
+  font-size: 0.9em;
+  color: #c49a45;
+  font-style: italic;
+  margin-bottom: 1.5em;
+}
+
+.copyright-rule {
+  width: 50px;
+  height: 1px;
+  background: #c49a45;
+  margin: 1.5em 0;
+}
+
+.advisory-box {
+  margin: 2em 0;
+  padding: 1.2em 1.4em;
+  border: 1px solid #c49a45;
+  border-left: 4px solid #c49a45;
+  background: #fbf9f4;
+  border-radius: 4px;
+}
+
+.advisory-header {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 0.92em;
+  font-weight: 700;
+  color: #1a1a1a;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+
+.advisory-rating {
+  display: inline-block;
+  font-weight: bold;
+  color: #b91c1c;
+  font-size: 0.88em;
+  letter-spacing: 1px;
+  margin-bottom: 0.8em;
+}
+
+/* Review Box */
+.review-box {
+  text-align: center;
+  padding: 15% 8% 5% 8%;
+}
+
+.review-badge {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.25em;
+  letter-spacing: 2px;
+  color: #c49a45;
+  text-transform: uppercase;
+  margin-bottom: 0.8em;
+  font-weight: 700;
+}
+
+.review-rule {
+  width: 60px;
+  height: 2px;
+  background: #c49a45;
+  margin: 1.2em auto 2em auto;
+}
+
+.review-text {
+  font-size: 1.05em;
+  line-height: 1.8;
+  color: #2b2b2b;
+  margin-bottom: 1.5em;
+  text-indent: 0;
+}
+
+.stars {
+  color: #c49a45;
+  font-size: 1.4em;
+  letter-spacing: 4px;
+  margin-bottom: 1.2em;
+}
+
+/* Teaser / Sneak Peek */
+.teaser-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.teaser-series {
+  font-size: 0.9em;
+  letter-spacing: 3px;
+  color: #8c7d6b;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+
+.teaser-title {
+  font-size: 2em;
+  color: #1a1a1a;
+  letter-spacing: 1.5px;
+  margin: 0.2em 0 0.4em 0;
+}
+
+.teaser-subtitle {
+  font-size: 1em;
+  color: #c49a45;
+  font-style: italic;
+}
+
+.teaser-hook {
+  font-style: italic;
+  border-left: 3px solid #c49a45;
+  padding: 1em 1.5em;
+  background: #fbf9f4;
+  margin: 2em 0;
+  color: #3e3830;
+  line-height: 1.7;
+}
+
+/* About the Author */
+.author-section {
+  text-align: center;
+  padding: 10% 5%;
+}
+
+.author-name {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 1.8em;
+  letter-spacing: 2px;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  margin-bottom: 0.3em;
+}
+
+.author-tagline {
+  font-size: 0.95em;
+  color: #c49a45;
+  font-style: italic;
+  margin-bottom: 1.8em;
+}
+
+.author-rule {
+  width: 50px;
+  height: 1px;
+  background: #c49a45;
+  margin: 1.5em auto;
+}
+
+.author-bio {
+  text-align: justify;
+  max-width: 85%;
+  margin: 0 auto 1.5em auto;
+  font-size: 0.98em;
+  line-height: 1.75;
+  color: #333;
+  text-indent: 0;
+}
 `;
 }
 
@@ -573,6 +753,198 @@ function generateDedicationXHTML() {
 </html>`;
 }
 
+// Generate Copyright & Content Advisory XHTML
+function generateCopyrightXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Copyright &amp; Content Advisory — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="frontmatter">
+  <section class="copyright-section" role="doc-pagebreak" epub:type="copyright-page">
+    <div class="copyright-title">${xmlEscape(BOOK_META.title)}</div>
+    <div class="copyright-series">${xmlEscape(BOOK_META.series)} — Book One</div>
+    <div class="copyright-rule"></div>
+
+    <p>Copyright &#169; 2026 by J.D. Alfaro.</p>
+    <p>All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means—electronic, mechanical, photocopying, recording, scanning, or otherwise—without prior written permission of the author, except for the use of brief quotations in a book review or scholarly article.</p>
+
+    <p><strong>First Edition: October 2026</strong></p>
+    <p>Published by J.D. Alfaro<br />
+    Cover Art &amp; Interior Typography: The Arkun Cycle Studio<br />
+    Series: The Arkun Cycle (Volume 1)<br />
+    eBook Identifier: ${xmlEscape(BOOK_META.identifier)}</p>
+
+    <p><strong>Publisher&#39;s Note:</strong> This novel is a work of fiction. Names, characters, places, organizations, and incidents are either the product of the author&#39;s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, business establishments, events, or locales is entirely coincidental.</p>
+
+    <div class="advisory-box">
+      <div class="advisory-header">Mature Reader Guidance</div>
+      <div class="advisory-rating">&#9888; RATED 18+ FOR ADULT AUDIENCES &bull; SPICE LEVEL: &#x1F336;&#x1F336;&#x1F336;&#x1F336;</div>
+      <p style="font-size: 0.9em; line-height: 1.6; margin: 0; text-indent: 0; color: #4a4237;">
+        <em>Stolen Breath</em> is a high-heat biopunk romantasy written for mature audiences. It contains explicit, descriptive sexual encounters (open door), graphic violence, biological body horror, trauma recovery, high-stakes peril, and strong language. Reader discretion is advised.
+      </p>
+    </div>
+  </section>
+</body>
+</html>`;
+}
+
+// Generate Author's Note & Acknowledgments XHTML
+function generateAcknowledgmentsXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Author&#39;s Note &amp; Acknowledgments — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="backmatter">
+  <section class="chapter" role="doc-acknowledgments" epub:type="acknowledgments">
+    <header class="chapter-header">
+      <div class="chapter-number">Back Matter</div>
+      <h1 class="chapter-title">Author&#39;s Note &amp; Acknowledgments</h1>
+      <div class="chapter-pov">Gratitude // J.D. Alfaro</div>
+    </header>
+
+    <div class="chapter-content">
+      <p class="has-dropcap"><span class="dropcap">B</span>uilding the shattered skies and scorched dunes of Arkun began with a simple question: what happens when two engineered survivors—each weaponized by trauma, duty, and genetic design—find salvation in the very touch they were taught to fear? Bringing Tsunari and Vram&#39;s story into the world has been an exhilarating, demanding, and deeply transformative voyage.</p>
+
+      <p>To my partner, Zuni: thank you for being my constant anchor, my first sounding board, and the quiet heart behind every word. Your faith in this world breathed life into it when the pages were dark. Every sentence carries the quiet imprint of your love.</p>
+
+      <p>To my early readers and critique partners: thank you for challenging me to sharpen the blades, deepen the tension, and never hold back on the heat or the emotional cost. Your honest feedback helped forge <em>Stolen Breath</em> into the fierce, visceral tale it needed to be.</p>
+
+      <p>To the vibrant Romantasy community: thank you for embracing stories where unapologetic romance and high-stakes speculative fiction collide. Readers like you make epic worlds like Arkun possible.</p>
+
+      <p>And finally, to you—the reader: thank you for walking the dangerous catwalks of Sector 09 with Tsunari and soaring through the storm with Vram. If this story stirred your pulse, kept you reading past midnight, or made your breath catch, then every late night and rewound line was worth it.</p>
+    </div>
+  </section>
+</body>
+</html>`;
+}
+
+// Generate Review Request XHTML
+function generateReviewRequestXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>A Note to the Reader — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="backmatter">
+  <section class="review-box" role="doc-afterword" epub:type="afterword">
+    <div class="review-badge">Did Stolen Breath Steal Yours?</div>
+    <div class="review-rule"></div>
+    <div class="stars">&#9733; &#9733; &#9733; &#9733; &#9733;</div>
+
+    <p class="review-text">
+      Reviews are the lifeblood of independent authors. They help fellow romantasy and sci-fi readers discover new stories, support continuing series, and allow authors to keep creating the worlds you love.
+    </p>
+
+    <p class="review-text">
+      If you enjoyed journeying with Tsunari and Vram, please take two minutes to <strong>leave an honest review or rating on Amazon and Goodreads</strong>.
+    </p>
+
+    <p class="review-text" style="font-style: italic; color: #555;">
+      Every star, every review, and every recommendation helps the rebellion rise. Thank you for your support!
+    </p>
+  </section>
+</body>
+</html>`;
+}
+
+// Generate Book Two Teaser XHTML
+function generateTeaserXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Sneak Peek: Crown of Salt — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="backmatter">
+  <section class="chapter" role="doc-conclusion" epub:type="conclusion">
+    <div class="teaser-header">
+      <div class="teaser-series">${xmlEscape(BOOK_META.series)} &bull; Book Two</div>
+      <h1 class="teaser-title">Crown of Salt</h1>
+      <div class="teaser-subtitle">Coming Soon</div>
+    </div>
+
+    <div class="teaser-hook">
+      "Fourteen months until outdoor air kills everything that breathes. Thirty days until the glass dome of Eden Alpha becomes Sora's tomb. And eighty miles of scorching, caustic salt between the rebels and the cure."
+    </div>
+
+    <div class="chapter-content">
+      <p class="has-dropcap"><span class="dropcap">T</span>he thermals over the Great Cleave smelled of boiling salt and distant lightning.</p>
+
+      <p>From three thousand feet above the southern flats, the world looked like a shattered porcelain plate crusted with dried blood. The high towers of Eden Alpha were behind us now—distant needles of frosted crystal mocking the poisoned wastes below. But the horizon ahead offered no sanctuary.</p>
+
+      <p>Beside me, the steady, rhythmic beating of obsidian and gold wings broke through the high-altitude silence. Vram flew close enough that the radiant heat of his Simurgh crest bathed my face in warmth, keeping the sub-zero bite of the troposphere from numbing my skin.</p>
+
+      <p>His jaw was tight, his silver-flecked eyes scanning the cloud banks for Consortium hunter-squadrons. Ten years of military conditioning did not die easily; he still read the sky as a kill-box.</p>
+
+      <p>Through the flight link, his voice entered my mind—rough, deep, and steady as bedrock.</p>
+
+      <p><em>Turbulence coming off the salt ridges,</em> he signaled, his wingtip dipping by a fraction of an inch to shield me from a shearing updraft. <em>Stay on my flank, Tsune. When we hit the perimeter, we drop like stones.</em></p>
+
+      <p>I gripped the harness, my carbon claws humming against the reinforced leather.</p>
+
+      <p><em>They know we're coming, Vram,</em> I answered through the bond, feeling the electric pulse of his blood resonate with mine. <em>Corvus has fortified the lower labs.</em></p>
+
+      <p>A dark, lethal smile curved the Commander's lips against the rushing wind.</p>
+
+      <p><em>Let him build his walls,</em> Vram whispered into the sky. <em>He's never seen us hungry.</em></p>
+    </div>
+
+    <div style="text-align: center; margin-top: 3em; font-family: 'Cinzel', Georgia, serif; letter-spacing: 2px; color: #c49a45; font-size: 0.95em;">
+      THE ARKUN CYCLE WILL RETURN IN<br />
+      <strong>BOOK TWO: CROWN OF SALT</strong>
+    </div>
+  </section>
+</body>
+</html>`;
+}
+
+// Generate About the Author XHTML
+function generateAboutAuthorXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>About the Author — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="backmatter">
+  <section class="author-section" role="doc-biography" epub:type="biography">
+    <h1 class="author-name">J.D. Alfaro</h1>
+    <div class="author-tagline">Architect of Broken Skies &amp; Savage Hearts</div>
+    <div class="author-rule"></div>
+
+    <p class="author-bio">
+      J.D. Alfaro is a storyteller specializing in dark romantasy, high-stakes speculative fiction, and biopunk adventures. He weaves complex worldbuilding with visceral tension, lethal heroines, morally gray protectors, and scorching, open-door passion.
+    </p>
+
+    <p class="author-bio">
+      When he isn't plotting rebellions, choreographing aerial dogfights, or tuning the emotional frequency of engineered souls, he can be found exploring rugged wilderness trails, drinking absurd amounts of black coffee, and daydreaming beneath the stars.
+    </p>
+
+    <p class="author-bio" style="text-align: center; margin-top: 2.5em; font-style: italic; color: #666;">
+      Stay connected for news on <em>Crown of Salt</em>, bonus chapters, and character art:<br />
+      <strong>www.jdalfaro.com</strong><br />
+      Instagram &amp; TikTok: <strong>@jdalfarobooks</strong>
+    </p>
+  </section>
+</body>
+</html>`;
+}
+
 // Generate EPUB3 Navigation Document (nav.xhtml)
 function generateNavXHTML(chapters, hasBackCover) {
   const chapterItems = chapters.map(c => {
@@ -593,8 +965,13 @@ function generateNavXHTML(chapters, hasBackCover) {
     <h1 class="titlepage-title" style="font-size: 1.8em; margin-bottom: 1.5em;">Table of Contents</h1>
     <ol style="list-style-type: none; padding-left: 0; line-height: 2;">
       <li><a href="titlepage.xhtml">Title Page</a></li>
+      <li><a href="copyright.xhtml">Copyright &amp; Advisory</a></li>
       <li><a href="dedication.xhtml">Dedication</a></li>
 ${chapterItems}
+      <li><a href="acknowledgments.xhtml">Author&#39;s Note &amp; Acknowledgments</a></li>
+      <li><a href="reviews.xhtml">A Note to the Reader</a></li>
+      <li><a href="teaser.xhtml">Sneak Peek: Crown of Salt</a></li>
+      <li><a href="about_author.xhtml">About the Author</a></li>
       ${hasBackCover ? '<li><a href="backcover.xhtml">Back Cover</a></li>' : ''}
     </ol>
   </nav>
@@ -615,6 +992,13 @@ function generateNCX(chapters, hasBackCover) {
   `);
 
   navPoints.push(`
+    <navPoint id="np-copyright" playOrder="${playOrder++}">
+      <navLabel><text>Copyright &amp; Advisory</text></navLabel>
+      <content src="copyright.xhtml"/>
+    </navPoint>
+  `);
+
+  navPoints.push(`
     <navPoint id="np-dedication" playOrder="${playOrder++}">
       <navLabel><text>Dedication</text></navLabel>
       <content src="dedication.xhtml"/>
@@ -630,6 +1014,34 @@ function generateNCX(chapters, hasBackCover) {
     </navPoint>
     `);
   });
+
+  navPoints.push(`
+    <navPoint id="np-acknowledgments" playOrder="${playOrder++}">
+      <navLabel><text>Author&#39;s Note &amp; Acknowledgments</text></navLabel>
+      <content src="acknowledgments.xhtml"/>
+    </navPoint>
+  `);
+
+  navPoints.push(`
+    <navPoint id="np-reviews" playOrder="${playOrder++}">
+      <navLabel><text>A Note to the Reader</text></navLabel>
+      <content src="reviews.xhtml"/>
+    </navPoint>
+  `);
+
+  navPoints.push(`
+    <navPoint id="np-teaser" playOrder="${playOrder++}">
+      <navLabel><text>Sneak Peek: Crown of Salt</text></navLabel>
+      <content src="teaser.xhtml"/>
+    </navPoint>
+  `);
+
+  navPoints.push(`
+    <navPoint id="np-about-author" playOrder="${playOrder++}">
+      <navLabel><text>About the Author</text></navLabel>
+      <content src="about_author.xhtml"/>
+    </navPoint>
+  `);
 
   if (hasBackCover) {
     navPoints.push(`
@@ -665,8 +1077,22 @@ function generateOPF(chapters, hasBackCover) {
     `<item id="cover-image" href="assets/cover.jpg" media-type="image/jpeg" properties="cover-image"/>`,
     `<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>`,
     `<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>`,
+    `<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>`,
     `<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>`,
   ];
+
+  chapters.forEach(c => {
+    const id = `chap_${String(c.index).padStart(2, '0')}`;
+    const href = `chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml`;
+    manifestItems.push(`<item id="${id}" href="${href}" media-type="application/xhtml+xml"/>`);
+  });
+
+  manifestItems.push(
+    `<item id="acknowledgments" href="acknowledgments.xhtml" media-type="application/xhtml+xml"/>`,
+    `<item id="reviews" href="reviews.xhtml" media-type="application/xhtml+xml"/>`,
+    `<item id="teaser" href="teaser.xhtml" media-type="application/xhtml+xml"/>`,
+    `<item id="about-author" href="about_author.xhtml" media-type="application/xhtml+xml"/>`
+  );
 
   if (hasBackCover) {
     manifestItems.push(`<item id="back-cover-image" href="assets/back_cover.jpg" media-type="image/jpeg"/>`);
@@ -676,15 +1102,21 @@ function generateOPF(chapters, hasBackCover) {
   const spineItems = [
     `<itemref idref="cover" linear="no"/>`,
     `<itemref idref="titlepage"/>`,
+    `<itemref idref="copyright"/>`,
     `<itemref idref="dedication"/>`,
   ];
 
   chapters.forEach(c => {
     const id = `chap_${String(c.index).padStart(2, '0')}`;
-    const href = `chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml`;
-    manifestItems.push(`<item id="${id}" href="${href}" media-type="application/xhtml+xml"/>`);
     spineItems.push(`<itemref idref="${id}"/>`);
   });
+
+  spineItems.push(
+    `<itemref idref="acknowledgments"/>`,
+    `<itemref idref="reviews"/>`,
+    `<itemref idref="teaser"/>`,
+    `<itemref idref="about-author"/>`
+  );
 
   if (hasBackCover) {
     spineItems.push(`<itemref idref="backcover"/>`);
@@ -785,6 +1217,7 @@ async function buildEPUB() {
   // Cover & Frontmatter XHTML
   zip.file('OEBPS/cover.xhtml', generateCoverXHTML());
   zip.file('OEBPS/titlepage.xhtml', generateTitlePageXHTML());
+  zip.file('OEBPS/copyright.xhtml', generateCopyrightXHTML());
   zip.file('OEBPS/dedication.xhtml', generateDedicationXHTML());
 
   // Chapters XHTML
@@ -793,6 +1226,12 @@ async function buildEPUB() {
     const xhtml = generateChapterXHTML(c);
     zip.file(`OEBPS/chapters/${filename}`, xhtml);
   });
+
+  // Back Matter XHTML
+  zip.file('OEBPS/acknowledgments.xhtml', generateAcknowledgmentsXHTML());
+  zip.file('OEBPS/reviews.xhtml', generateReviewRequestXHTML());
+  zip.file('OEBPS/teaser.xhtml', generateTeaserXHTML());
+  zip.file('OEBPS/about_author.xhtml', generateAboutAuthorXHTML());
 
   // Back Cover XHTML
   if (backCoverData) {
@@ -825,15 +1264,22 @@ async function buildEPUB() {
   }
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'cover.xhtml'), generateCoverXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'titlepage.xhtml'), generateTitlePageXHTML());
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'copyright.xhtml'), generateCopyrightXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'dedication.xhtml'), generateDedicationXHTML());
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.xhtml'), generateNavXHTML(chapters, !!backCoverData));
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters, !!backCoverData));
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'content.opf'), generateOPF(chapters, !!backCoverData));
 
   chapters.forEach(c => {
     const filename = `chapter_${String(c.index).padStart(2, '0')}.xhtml`;
     fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'chapters', filename), generateChapterXHTML(c));
   });
+
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'acknowledgments.xhtml'), generateAcknowledgmentsXHTML());
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'reviews.xhtml'), generateReviewRequestXHTML());
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'teaser.xhtml'), generateTeaserXHTML());
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'about_author.xhtml'), generateAboutAuthorXHTML());
+
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.xhtml'), generateNavXHTML(chapters, !!backCoverData));
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters, !!backCoverData));
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'content.opf'), generateOPF(chapters, !!backCoverData));
 
   // 4. Generate the Compressed EPUB3 Archive
   console.log('📦 Compiling EPUB3 archive...');
