@@ -285,12 +285,7 @@
       <content src="teaser.xhtml"/>
     </navPoint>
   
-    <navPoint id="np-about-author" playOrder="56">
-      <navLabel><text>About the Author</text></navLabel>
-      <content src="about_author.xhtml"/>
-    </navPoint>
-  
-    <navPoint id="np-backcover" playOrder="57">
+    <navPoint id="np-backcover" playOrder="56">
       <navLabel><text>Back Cover</text></navLabel>
       <content src="backcover.xhtml"/>
     </navPoint>

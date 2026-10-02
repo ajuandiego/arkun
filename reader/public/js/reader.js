@@ -480,15 +480,18 @@ class NovelReader {
 
       // Prepare chapter header & epigraph
       const isInterlude = chap.isInterlude || (chap.pov && chap.pov.toLowerCase().includes('interlude')) || (chap.filename && chap.filename.includes('interlude'));
-      const subtitleText = isInterlude ? 'INTERLUDE // OMNISCIENT' : `POINT OF VIEW // ${chap.pov.toUpperCase()}`;
+      const cleanPov = isInterlude ? '' : (chap.pov || '').replace(/^point of view\s*\/\/\s*/i, '').trim();
+      const subtitleText = cleanPov ? cleanPov.toUpperCase() : '';
       let chapterHtml = `
         <div class="chapter-start-banner">
           <div style="font-family: var(--font-display); font-size: 11px; letter-spacing: 3px; color: var(--gold-accent); text-align: center; margin-bottom: 4px;">
             ${chap.title.toUpperCase()}
           </div>
+          ${subtitleText ? `
           <div style="font-size: 11px; color: var(--text-dim); text-align: center; margin-bottom: 12px;">
             ${subtitleText}
-          </div>
+          </div>` : `
+          <div style="margin-bottom: 12px;"></div>`}
         </div>
       `;
 
@@ -510,16 +513,6 @@ class NovelReader {
       pages.push(...paginatedPages);
       currentGlobalPage += paginatedPages.length;
     }
-
-    // Now inject the rendered Table of Contents on Page 4
-    const tocItemsHtml = this.chapterPageMap.map(m => `
-      <li class="toc-item" onclick="window.novelReader.jumpToPage(${m.startPage})">
-        <span class="toc-chapter-name">${m.title}</span>
-        <span class="toc-pov-tag">${m.pov}</span>
-        <span class="toc-dots"></span>
-        <span class="toc-page-num">${m.bookPageNum}</span>
-      </li>
-    `).join('\n');
 
     // 7. BOOK 2 TEASER / EPILOGUE (Soft)
     pages.push(`
@@ -588,16 +581,18 @@ class NovelReader {
     `);
 
     const isInterlude = chapData.isInterlude || (chapData.pov && chapData.pov.toLowerCase().includes('interlude')) || (chapData.filename && chapData.filename.includes('interlude'));
-    const subtitleText = isInterlude ? 'INTERLUDE // OMNISCIENT' : `POINT OF VIEW // ${chapData.pov.toUpperCase()}`;
+    const cleanPov = isInterlude ? '' : (chapData.pov || '').replace(/^point of view\s*\/\/\s*/i, '').trim();
+    const subtitleText = cleanPov ? cleanPov.toUpperCase() : '';
     // Title / Epigraph page
     let chapterHtml = `
       <div class="chapter-start-banner" style="text-align: center; margin-bottom: 20px;">
         <h1 style="font-family: var(--font-display); font-size: 22px; color: var(--text-primary); margin-bottom: 6px;">
           ${chapData.title}
         </h1>
+        ${subtitleText ? `
         <div style="font-family: var(--font-ui); font-size: 12px; color: var(--gold-accent); letter-spacing: 2px;">
           ${subtitleText}
-        </div>
+        </div>` : ''}
       </div>
     `;
 

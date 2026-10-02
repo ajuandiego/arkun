@@ -67,6 +67,33 @@ function toStrictXHTML(html) {
     .replace(/&(?!(amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;');
 }
 
+// Split a chapter's opening quote into the passage and its source line
+function splitEpigraph(quoteLines) {
+  const lines = quoteLines.map(line => line.trim()).filter(Boolean);
+  if (lines.length === 0) return { epigraph: '', epigraphDescription: '' };
+  if (lines.length === 1) return { epigraph: lines[0], epigraphDescription: '' };
+
+  const isAttribution = (line) => /^[—–-]/.test(line);
+  const isQuoted = (line) => /["“]/.test(line);
+
+  const attributionAt = lines.findIndex(isAttribution);
+  if (attributionAt > 0) {
+    return {
+      epigraph: lines.slice(0, attributionAt).join(' '),
+      epigraphDescription: lines.slice(attributionAt).join(' ')
+    };
+  }
+
+  if (!isQuoted(lines[0]) && lines.slice(1).some(isQuoted)) {
+    return {
+      epigraph: lines.slice(1).join(' '),
+      epigraphDescription: lines[0]
+    };
+  }
+
+  return { epigraph: lines.join(' '), epigraphDescription: '' };
+}
+
 // Parse individual markdown chapter or interlude
 function parseChapter(rawMarkdown, filename, index, chapterNumber) {
   const isInterlude = filename.includes('interlude') || filename.includes('addendum');
@@ -104,8 +131,17 @@ function parseChapter(rawMarkdown, filename, index, chapterNumber) {
     }
   }
   if (quoteLines.length > 0) {
-    epigraphDescription = quoteLines.slice(0, 1).join(' ');
-    epigraph = quoteLines.slice(1).join(' ');
+    const split = splitEpigraph(quoteLines);
+    epigraph = marked.parseInline(split.epigraph);
+    epigraphDescription = marked.parseInline(split.epigraphDescription);
+  }
+
+  // Display Title (single heading, no duplication) & Character Name (no 'POINT OF VIEW //', no 'INTERLUDE', no 'OMNISCIENT')
+  let displayTitle = isInterlude ? title : `Chapter ${chapterNumber}`;
+
+  let displayCharacter = isInterlude ? '' : pov.replace(/^point of view\s*\/\/\s*/i, '').trim();
+  if (displayCharacter.toLowerCase().includes('omniscient') || displayCharacter.toLowerCase().includes('interlude')) {
+    displayCharacter = '';
   }
 
   // Remove top H1, epigraph quote, and divider from narrative body
@@ -139,6 +175,8 @@ function parseChapter(rawMarkdown, filename, index, chapterNumber) {
     filename,
     title,
     pov,
+    displayTitle,
+    displayCharacter,
     epigraph,
     epigraphDescription,
     bodyHtml: toStrictXHTML(bodyHtml),
@@ -198,50 +236,61 @@ h2 {
   break-before: page;
 }
 
-.chapter-number {
-  font-size: 0.9em;
-  letter-spacing: 3px;
-  color: #8c7d6b;
-  text-transform: uppercase;
-  margin-bottom: 0.4em;
-}
-
 .chapter-title {
+  font-family: "Cinzel", Georgia, serif;
   font-size: 1.8em;
   color: #1a1a1a;
-  margin: 0.2em 0 0.4em 0;
+  margin: 0 0 0.35em 0;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
-.chapter-pov {
-  font-size: 0.85em;
-  letter-spacing: 2px;
+.chapter-character {
+  font-family: "Cinzel", Georgia, serif;
+  font-size: 0.88em;
+  letter-spacing: 3px;
   color: #c49a45;
   text-transform: uppercase;
   font-weight: 600;
 }
 
-/* Epigraph / Audio Logs / Codex */
-aside.doc-epigraph, .epigraph-box {
-  margin: 2em 1.5em 2.5em 1.5em;
-  padding: 1em 1.4em;
-  border-left: 3px solid #c49a45;
-  background: #fbf9f4;
-  font-style: italic;
-  font-size: 0.92em;
-  line-height: 1.55;
-  color: #4a4237;
+/* Epigraphs matching the Reader */
+.epigraph-container {
+  margin: 1.8em 0.5em 2.2em 0.5em;
   page-break-inside: avoid;
   break-inside: avoid;
 }
 
-.epigraph-label {
-  font-style: normal;
-  font-size: 0.78em;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  color: #8c7d6b;
-  margin-bottom: 0.6em;
-  font-weight: 600;
+.epigraph-container blockquote {
+  font-style: italic;
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: #3e3830;
+  border-left: 3px solid #c49a45;
+  margin: 0 0 8px 0;
+  padding: 10px 18px;
+  background: rgba(196, 154, 69, 0.06);
+  border-radius: 0 6px 6px 0;
+}
+
+.epigraph-description {
+  font-style: italic;
+  font-size: 0.82em;
+  line-height: 1.5;
+  color: #776e62;
+  text-align: right;
+  text-indent: 0;
+  margin: 6px 0 16px 15%;
+  padding: 0;
+}
+
+.epigraph-divider {
+  text-align: center;
+  color: #c49a45;
+  font-size: 11px;
+  letter-spacing: 6px;
+  margin: 16px 0 24px 0;
 }
 
 /* Paragraphs & Indentation */
@@ -582,34 +631,27 @@ pre {
 
 // Generate XHTML for Chapter or Interlude
 function generateChapterXHTML(chapter) {
-  const numberLabel = chapter.isInterlude ? 'Interlude' : `Chapter ${chapter.chapterNumber}`;
-  const povLabel = chapter.isInterlude ? 'Interlude // Omniscient' : `Point of View // ${xmlEscape(chapter.pov)}`;
-  const epigraphLabel = chapter.isInterlude
-    ? 'World Archive // Recovered Dispatch'
-    : (chapter.pov.toLowerCase().includes('vram') ? 'Tactical Dossier // Codex' : 'Neural Intercept // Audio Log');
-
   return `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>${xmlEscape(chapter.title)} — ${xmlEscape(BOOK_META.title)}</title>
+  <title>${xmlEscape(chapter.displayTitle)} — ${xmlEscape(BOOK_META.title)}</title>
   <link rel="stylesheet" type="text/css" href="../styles/book.css" />
 </head>
 <body epub:type="bodymatter">
   <section role="doc-chapter" epub:type="chapter" class="chapter chapter-${chapter.index}">
     <header class="chapter-header">
-      <div class="chapter-number">${numberLabel}</div>
-      <h1 class="chapter-title">${xmlEscape(chapter.title)}</h1>
-      <div class="chapter-pov">${povLabel}</div>
+      <h1 class="chapter-title">${xmlEscape(chapter.displayTitle.toUpperCase())}</h1>
+      ${chapter.displayCharacter ? `<div class="chapter-character">${xmlEscape(chapter.displayCharacter.toUpperCase())}</div>` : ''}
     </header>
 
     ${chapter.epigraph ? `
-    <aside role="doc-epigraph" epub:type="epigraph" class="doc-epigraph">
-      <div class="epigraph-label">${epigraphLabel}</div>
-      <blockquote>${chapter.epigraph}</blockquote>
-      <p class="epigraph-description">${chapter.epigraphDescription}</p>
-    </aside>
+    <div class="epigraph-container">
+      <blockquote class="epigraph-quote">${chapter.epigraph}</blockquote>
+      ${chapter.epigraphDescription ? `<p class="epigraph-description">${chapter.epigraphDescription}</p>` : ''}
+      <div class="epigraph-divider">❖ &nbsp; ❖ &nbsp; ❖</div>
+    </div>
     ` : ''}
 
     <div class="chapter-content">
@@ -782,7 +824,7 @@ function generateCopyrightXHTML() {
 
     <div class="advisory-box">
       <div class="advisory-header">Mature Reader Guidance</div>
-      <div class="advisory-rating">&#9888; RATED 18+ FOR ADULT AUDIENCES &bull; SPICE LEVEL: &#x1F336;&#x1F336;&#x1F336;&#x1F336;</div>
+      <div class="advisory-rating">RATED 18+ FOR ADULT AUDIENCES</div>
       <p style="font-size: 0.9em; line-height: 1.6; margin: 0; text-indent: 0; color: #4a4237;">
         <em>Stolen Breath</em> is a high-heat biopunk romantasy written for mature audiences. It contains explicit, descriptive sexual encounters (open door), graphic violence, biological body horror, trauma recovery, high-stakes peril, and strong language. Reader discretion is advised.
       </p>
@@ -911,39 +953,6 @@ function generateTeaserXHTML() {
 </html>`;
 }
 
-// Generate About the Author XHTML
-function generateAboutAuthorXHTML() {
-  return `<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>About the Author — ${xmlEscape(BOOK_META.title)}</title>
-  <link rel="stylesheet" type="text/css" href="styles/book.css" />
-</head>
-<body epub:type="backmatter">
-  <section class="author-section" role="doc-biography" epub:type="biography">
-    <h1 class="author-name">J.D. Alfaro</h1>
-    <div class="author-tagline">Architect of Broken Skies &amp; Savage Hearts</div>
-    <div class="author-rule"></div>
-
-    <p class="author-bio">
-      J.D. Alfaro is a storyteller specializing in dark romantasy, high-stakes speculative fiction, and biopunk adventures. He weaves complex worldbuilding with visceral tension, lethal heroines, morally gray protectors, and scorching, open-door passion.
-    </p>
-
-    <p class="author-bio">
-      When he isn't plotting rebellions, choreographing aerial dogfights, or tuning the emotional frequency of engineered souls, he can be found exploring rugged wilderness trails, drinking absurd amounts of black coffee, and daydreaming beneath the stars.
-    </p>
-
-    <p class="author-bio" style="text-align: center; margin-top: 2.5em; font-style: italic; color: #666;">
-      Stay connected for news on <em>Crown of Salt</em>, bonus chapters, and character art:<br />
-      <strong>www.jdalfaro.com</strong><br />
-      Instagram &amp; TikTok: <strong>@jdalfarobooks</strong>
-    </p>
-  </section>
-</body>
-</html>`;
-}
 
 // Generate EPUB3 Navigation Document (nav.xhtml)
 function generateNavXHTML(chapters, hasBackCover) {
@@ -971,7 +980,6 @@ ${chapterItems}
       <li><a href="acknowledgments.xhtml">Author&#39;s Note &amp; Acknowledgments</a></li>
       <li><a href="reviews.xhtml">A Note to the Reader</a></li>
       <li><a href="teaser.xhtml">Sneak Peek: Crown of Salt</a></li>
-      <li><a href="about_author.xhtml">About the Author</a></li>
       ${hasBackCover ? '<li><a href="backcover.xhtml">Back Cover</a></li>' : ''}
     </ol>
   </nav>
@@ -1036,12 +1044,6 @@ function generateNCX(chapters, hasBackCover) {
     </navPoint>
   `);
 
-  navPoints.push(`
-    <navPoint id="np-about-author" playOrder="${playOrder++}">
-      <navLabel><text>About the Author</text></navLabel>
-      <content src="about_author.xhtml"/>
-    </navPoint>
-  `);
 
   if (hasBackCover) {
     navPoints.push(`
@@ -1090,8 +1092,7 @@ function generateOPF(chapters, hasBackCover) {
   manifestItems.push(
     `<item id="acknowledgments" href="acknowledgments.xhtml" media-type="application/xhtml+xml"/>`,
     `<item id="reviews" href="reviews.xhtml" media-type="application/xhtml+xml"/>`,
-    `<item id="teaser" href="teaser.xhtml" media-type="application/xhtml+xml"/>`,
-    `<item id="about-author" href="about_author.xhtml" media-type="application/xhtml+xml"/>`
+    `<item id="teaser" href="teaser.xhtml" media-type="application/xhtml+xml"/>`
   );
 
   if (hasBackCover) {
@@ -1114,8 +1115,7 @@ function generateOPF(chapters, hasBackCover) {
   spineItems.push(
     `<itemref idref="acknowledgments"/>`,
     `<itemref idref="reviews"/>`,
-    `<itemref idref="teaser"/>`,
-    `<itemref idref="about-author"/>`
+    `<itemref idref="teaser"/>`
   );
 
   if (hasBackCover) {
@@ -1231,7 +1231,6 @@ async function buildEPUB() {
   zip.file('OEBPS/acknowledgments.xhtml', generateAcknowledgmentsXHTML());
   zip.file('OEBPS/reviews.xhtml', generateReviewRequestXHTML());
   zip.file('OEBPS/teaser.xhtml', generateTeaserXHTML());
-  zip.file('OEBPS/about_author.xhtml', generateAboutAuthorXHTML());
 
   // Back Cover XHTML
   if (backCoverData) {
@@ -1275,7 +1274,6 @@ async function buildEPUB() {
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'acknowledgments.xhtml'), generateAcknowledgmentsXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'reviews.xhtml'), generateReviewRequestXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'teaser.xhtml'), generateTeaserXHTML());
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'about_author.xhtml'), generateAboutAuthorXHTML());
 
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.xhtml'), generateNavXHTML(chapters, !!backCoverData));
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters, !!backCoverData));

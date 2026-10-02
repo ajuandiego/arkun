@@ -9,7 +9,7 @@
     <dc:date>2026-10-02</dc:date>
     <dc:description>HE WAS ENGINEERED TO KILL. SHE WAS BRED TO SURVIVE. In a dying city where every breath has a price, she owes a debt that can only be paid in blood. Dragged to the high towers to be auctioned to the regime’s deadliest aerial predator, she prepares for slaughter. In a world of monsters, there is no other way. Conditioned for war, his mind is consumed by a lethal electrical storm ticking toward madness. To the regime, he is merciless—untouchable, lethal, and feared. All he has ever known is instinct and cold survival. Until one breathless touch silences the agony in his head. Now, the weapon who answers to no one will burn down the sky before he lets anything happen to her.</dc:description>
     <dc:rights>© 2026 J.D. Alfaro. All rights reserved.</dc:rights>
-    <meta property="dcterms:modified">2026-10-02T20:35:55Z</meta>
+    <meta property="dcterms:modified">2026-10-02T22:38:17Z</meta>
     <meta property="belongs-to-collection" id="c01">The Arkun Cycle</meta>
     <meta refines="#c01" property="collection-type">series</meta>
     <meta refines="#c01" property="group-position">1</meta>
@@ -76,7 +76,6 @@
     <item id="acknowledgments" href="acknowledgments.xhtml" media-type="application/xhtml+xml"/>
     <item id="reviews" href="reviews.xhtml" media-type="application/xhtml+xml"/>
     <item id="teaser" href="teaser.xhtml" media-type="application/xhtml+xml"/>
-    <item id="about-author" href="about_author.xhtml" media-type="application/xhtml+xml"/>
     <item id="back-cover-image" href="assets/back_cover.jpg" media-type="image/jpeg"/>
     <item id="backcover" href="backcover.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
@@ -138,7 +137,6 @@
     <itemref idref="acknowledgments"/>
     <itemref idref="reviews"/>
     <itemref idref="teaser"/>
-    <itemref idref="about-author"/>
     <itemref idref="backcover"/>
   </spine>
 </package>

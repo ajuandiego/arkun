@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build:epub": "node scripts/build-epub.js"
+    "build:epub": "node scripts/build-epub.js",
+    "build:pdf": "node scripts/build-pdf.js",
+    "build:editorial": "node scripts/build-editorial-manuscript.js"
   },
   "keywords": [],
   "author": "",
