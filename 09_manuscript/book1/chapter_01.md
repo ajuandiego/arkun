@@ -65,7 +65,7 @@ The high, braided warrior bun loosens with a soft rustle, thick raven strands sp
 
 It’s an antique tool, forged from pre-collapse surgical carbon steel, ground flat at the tip to fit standard diagnostic terminals. My father gave it to me on my twelfth birthday, back when our workshop in the lower sumps still had glass in the windows and an oil lantern burning on the workbench.
 
-*‘A knife is just a blade, Tsune,’* Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip. *‘A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die.’*
+"A knife is just a blade, Tsune," Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip. "A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die."
 
 Before me sits the target: a heavy cast-iron courier terminal bolted directly into the conduit’s structural rib, stenciled with the white double-helix logo of **Apex GeneSys**.
 
@@ -89,10 +89,10 @@ I slide a slim glass optic tap—salvaged from a destroyed surveillance drone th
 
 The small green phosphor screen flickers to life, lines of glowing alphanumeric hex code cascading down the cracked glass like falling water:
 
-```
-DIRECTORATE ROOT ACCESS: OVERRIDE DETECTED
-DECRYPTING LAZARUS_KEY_PAYLOAD_V09...
-SECURITY LEVEL: ARCHON-OBSIDIAN
+```console
+directorate root access: override detected
+decrypting lazarus_key_payload_v09...
+security level: archon-obsidian
 ```
 
 My breath catches behind the rebreather valve. 
@@ -113,11 +113,11 @@ They aren't cleaning the earth for humanity. They are terraforming it. Methodica
 
 And at the bottom of the telemetry block, highlighted in flashing crimson text, sits the execution clock:
 
-```
-EDEN DOME ALPHA: BIOLOGICAL ISOLATION SCHEDULE
-PERIMETER FILTRATION CUTOFF: T-MINUS 14 MONTHS, 02 DAYS
-GRAY SECTOR EVACUATION ALLOCATION: 0.00%
-DISPOSAL METHOD: PHASED ANOXIA
+```console
+eden dome alpha: biological isolation schedule
+perimeter filtration cutoff: t-minus 14 months, 02 days
+gray sector evacuation allocation: 0.00%
+disposal method: phased anoxia
 ```
 
 Fourteen months.
@@ -132,8 +132,8 @@ Every scavenger in the scrap yards, every sick kid sleeping on cardboard in the 
 
 My hands tremble against the metal casing of the data-slate. I initiate the root download, copying the unencrypted mathematical keys. If I can get this file to Gideon Cross at the Glass Vault—if the Bio-Curators can broadcast this telemetry across the underground shortwave relays—we can break the illusion. We can force the Gray Ring to rise before the air is turned off.
 
-```
-COPYING: 78%... 84%... 91%...
+```console
+copying: 78%... 84%... 91%...
 ```
 
 A secondary window pops up on the screen, an automated internal personnel directory routing the transmission to its recipient inside Culture Lab 4. 
@@ -142,10 +142,10 @@ My gaze drifts across the terminal log.
 
 And then my heart stops beating.
 
-```
-RECIPIENT QUEUE: CULTURE LAB 4 (SYNTHETICS OVERSIGHT)
-PRIMARY ANALYST: THORNE, SORA — TECH-SPECIALIST JUNIOR (ID: ED-8841)
-STATUS: ACTIVE / DOMICILE QUAD C-12
+```console
+recipient queue: culture lab 4 (synthetics oversight)
+primary analyst: thorne, sora — tech-specialist junior (id: ed-8841)
+status: active / domicile quad c-12
 ```
 
 The conduit around me seems to dissolve into thin air. 
@@ -164,11 +164,11 @@ The concussive, deafening boom of pneumatic breaching rams shattering the heavy 
 
 My father had shoved me into the dark, oily water of the drainage sluice with desperate, crushing strength. 
 
-*‘Run, Tsune! Don't look back!’*
+"Run, Tsune! Don't look back!"
 
 I had reached out through the black water, my fingers brushing Sora's small, warm hand in the dark. 
 
-*‘Tsune! Don't let go!’* she had screamed, her voice cracking with terror. *‘Tsune!’*
+"Tsune! Don't let go!" she had screamed, her voice cracking with terror. "Tsune!"
 
 The rifle fire erupted. The flash of blue plasma beams lit the workshop in strobing horror. 
 
@@ -198,10 +198,10 @@ Tears prick the corners of my eyes, instantly burning where they touch the alkal
 
 A sharp, piercing klaxon shrieks through the terminal housing.
 
-```
-CRITICAL ALERT: INTRUSION DETECTED AT SECTOR 09 JUNCTION 4
-COUNTERMEASURE: AEROS INTERCEPT VECTOR ALPHA
-TERMINAL LOCK INITIATED
+```console
+critical alert: intrusion detected at sector 09 junction 4
+countermeasure: aeros intercept vector alpha
+terminal lock initiated
 ```
 
 "Damn it!"
@@ -212,9 +212,7 @@ I yank the data-slate free, jamming the warm crystal wafer into the reinforced b
 
 Simultaneously, the red perimeter strobe lights along the top of the 100-meter wall ignite with a blinding, blood-red glare.
 
-Sirens tear through the toxic smog—deep, concussive foghorn blasts that vibrate the concrete conduit around my ribs.
-
-*WAAAAAIL. WAAAAAIL. WAAAAAIL.*
+Sirens tear through the toxic smog—three concussive wails that vibrate the concrete conduit around my ribs and shudder through my teeth.
 
 Below the floor grating, the alleys of Sector 09 erupt into absolute chaos. Scavengers scatter like cockroaches, slamming heavy iron shutters over their container stalls. Warning whistles shriek from the rooftops as mothers drag their children into storm cellars.
 

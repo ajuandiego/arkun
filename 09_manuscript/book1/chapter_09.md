@@ -57,11 +57,7 @@ I feel a strange, involuntary ripple pass through my own blood—a cool, bio-ele
 
 I step forward across the gravel.
 
-Vram reaches past my shoulder, his massive wings rustling in the gale, and punches a six-digit manual code into an ancient mechanical keypad beside the blast door. 
-
-*CLACK. CHHHK-HISSSS.*
-
-Heavy pneumatic seals disengage with a deafening release of compressed air. The four-ton blast door groans along iron floor tracks, swinging outward to reveal a dark, subterranean cavern.
+Vram reaches past my shoulder, his massive wings rustling in the gale, and punches a six-digit manual code into an ancient mechanical keypad beside the blast door. With a heavy clatter and a violent hiss, the pneumatic seals disengage under a deafening release of compressed air. The four-ton blast door groans along iron floor tracks, swinging outward to reveal a dark, subterranean cavern.
 
 He ushers me inside and slams the door shut.
 
@@ -89,7 +85,7 @@ The room is thirty feet square, functional, military, and Spartan.
 
 Against the far wall sits a heavy steel tactical desk covered in yellowed paper maps—ancient topographical charts of Old Geneva and the Mediterranean Basin from an era before the sea evaporated into the Stygian Ocean, back when the sky was blue and water fell from clouds like a blessing. 
 
-Memory stirs—an old lesson from my father in the Lower Sumps: *‘Look at these ancient contours, Tsune. Lake Geneva was two hundred meters deep. Cold, sweet alpine runoff. The Consortium built Dome Alpha directly over the ruins of the European bio-curator vaults to bury the evidence of what Earth looked like before the corporate syndicates traded our sky to the Vaelen.’*
+Memory stirs—an old lesson from my father in the Lower Sumps: "Look at these ancient contours, Tsune. Lake Geneva was two hundred meters deep. Cold, sweet alpine runoff. The Consortium built Dome Alpha directly over the ruins of the European bio-curator vaults to bury the evidence of what Earth looked like before the corporate syndicates traded our sky to the Vaelen."
 
 In the corner of the bunker, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
 

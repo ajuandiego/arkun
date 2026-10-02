@@ -98,7 +98,7 @@ Memory stirs unbidden in the dark corners of my mind—a sudden, sharp recollect
 
 I remember standing on this exact stone precipice at nine years old, shivering in an oversized flight harness, my newly sprouted primary feathers aching where they tore through the skin of my back. The training instructor—a scarred, humorless Gryphon sergeant named Vance—hadn't given a speech. He had simply walked behind me and kicked me square between the shoulder blades.
 
-*‘Fly or paint the rocks, 701!’*
+"Fly or paint the rocks, 701!"
 
 I remember the terrifying, endless plummet through the freezing smog, the sensation of three thousand feet of empty air rushing past my ears, the absolute certainty of my own death. And then, at the last second, the violent, instinctual snap of my wings catching the updraft—the bone-crushing jolt of kinetic drag, the roar of the wind beneath my feathers, and the triumphant, terrifying realization that I was no longer human. 
 
@@ -124,23 +124,21 @@ The relief hits like a splash of glacial water on a searing iron skillet. The me
 
 Before he can answer, the sky explodes.
 
-Not with thunder. With the shrill, deafening shriek of Dome Alpha's internal defense sirens.
-
-*WAAAAAIL. WAAAAAIL. WAAAAAIL.*
+Not with thunder. With the shrill, deafening shriek of Dome Alpha's internal defense sirens—three concussive wails that shudder through the deck plates and blast across the launch ledge.
 
 High above us, along the curving titanium bulkhead of the dome, massive emergency floodlights snap on, bathing the launch ledge in blood-red light. 
 
-Simultaneously, the titanium port at the base of my skull discharges a violent pulse of electrical static directly into my brainstem.
+Simultaneously, the titanium port at the base of my skull discharges with an ear-splitting snap, shooting a violent pulse of electrical static directly into my brainstem.
 
-*CRACK.*
+I drop to one knee, the granite slamming into my shin. White fire blinds me. Ferrin drops his flatbread, his hand instantly flying to his sidearm. Cassian pushes off the wall, his wings flaring wide to catch his balance as his own siphon port receives the emergency telemetry broadcast:
 
-I drop to one knee, the granite slamming into my shin. White fire blinds me. Ferrin drops his flatbread, his hand instantly flying to his sidearm. Cassian pushes off the wall, his wings flaring wide to catch his balance as his own siphon port receives the emergency telemetry broadcast.
-
-*DIRECTORATE OVERRIDE // CODE RED // BREACH IDENTIFIED.*  
-*SECTOR 09 PERIMETER // CONDUIT 12-B COMPROMISED.*  
-*SECURITY VAULT 4 DECRYPTED.*  
-*PAYLOAD EXTRACTED: LAZARUS TELEMETRY CORE.*  
-*ORDERS: INTERCEPT. RETRIEVE PAYLOAD. VIVISECT INTRUDER.*
+```console
+directorate override // code red // breach identified
+sector 09 perimeter // conduit 12-b compromised
+security vault 4 decrypted
+payload extracted: lazarus telemetry core
+orders: intercept. retrieve payload. vivisect intruder.
+```
 
 The word *vivisect* echoes through my auditory cortex with cold, bureaucratic finality. 
 
@@ -174,9 +172,7 @@ This was a ghost.
 
 A knot of revulsion twists in my gut. I have killed for the Directorate. I have gunned down rebel cells in the southern refineries and shredded smuggler caravans crossing the salt flats. It is what we were grown to do. But hunting down an unregistered soul whose only crime was surviving outside their corporate pens?
 
-The leash in my neck tightens—a warning micro-shock tingling across my spine.
-
-*OBEY.*
+The leash in my neck tightens—a warning micro-shock tingling across my spine, searing a single conditioned imperative into my skull: *obey.*
 
 I inhale the biting wind, letting the freezing sulfur fill my lungs, fueling the furnace in my blood.
 
@@ -200,11 +196,7 @@ She thinks the shattered glass will blind our thermal tracking. She thinks the s
 
 I step to the very edge of the roost. The sub-zero gale catches my dark hair, tearing loose raven strands from my disciplined topknot, whipping them across my temples and the sculpted line of my jaw. 
 
-Behind my shoulder blades, the massive, dense muscle groups of my thoracic carriage contract.
-
-*SHHK.*
-
-With a sound like heavy silk banners cracking open in a gale, my wings unfurl. 
+Behind my shoulder blades, the massive, dense muscle groups of my thoracic carriage contract. With a sound like heavy silk banners cracking open in a gale, my wings unfurl. 
 
 Fourteen feet of predatory, iridescent obsidian feathers expand into the freezing storm. Along the wing-shafts and primary quills, deep copper-gold and crimson highlights catch the flashing red emergency beacons, glowing like embers dragged from an open furnace. Under my skin, my subcutaneous capillaries pulse with liquid solar fire, superheating my blood, armoring my flesh against the drop.
 

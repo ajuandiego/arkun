@@ -56,7 +56,7 @@ The recognition hit me like a physical blow.
 
 Memory flared in the back of my mind—a cold, sickening recollection from fifteen years ago, during the Great Purge. I had been thirteen years old, a newly collared fledgeling in the training barracks of Sector 04, forced to stand at attention while Directorate tactical teams dragged the Dromaeon crèches into the street. The officers had told us that the raptor strain was defective. They said the dromaeon genome was feral, un-stabilized, incapable of accepting the Silver Spine without suffering violent psychological psychosis. 
 
-*‘A raptor cannot be collared,’* the Chief Inquisitor had announced before the flamethrowers ignited. *‘And what cannot be collared must be purged.’*
+"A raptor cannot be collared," the Chief Inquisitor had announced before the flamethrowers ignited. "And what cannot be collared must be purged."
 
 They had exterminated them in their cribs. They burned their gene seeds, wiped their records from the bio-archives, and told the world the lineage was extinct.
 
@@ -84,9 +84,7 @@ Her face is masked from the nose down by a stiff, high-collared combat tunic and
 
 A creature born outside their cages, surviving on raw instinct and razor-sharp intellect.
 
-A sharp, violent pulse of static arcs across my neck siphon. 
-
-*OBEY. RETRIEVE PAYLOAD. VIVISECT INTRUDER.*
+A sharp, violent pulse of static arcs across my neck siphon, searing the Directorate's conditioned protocol into my skull: *obey. retrieve payload. vivisect intruder.*
 
 The Silver Spine sends a wave of nausea rolling through my stomach, reminding me of the leash around my throat. The Directorate doesn't want her alive. They want her dissected on a steel tray, her genome cataloged, her rogue lineage burned to cinders.
 

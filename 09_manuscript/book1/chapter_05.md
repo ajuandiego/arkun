@@ -35,11 +35,7 @@ In a single, fluid arc, I slash horizontally, aiming for the exposed jugular ben
 
 He doesn't flinch. He doesn't even pull his head back.
 
-Instead, his left wing snaps forward like an articulated iron shield. 
-
-*CLANG.*
-
-The steel blade strikes the leading edge of his primary flight quills. Sparks shower between our faces in a brilliant white spray. The feathers aren’t soft down; they are dense, barometric carbon shafts, hardened by transgenic keratin into blades as tough as tempered steel. The vibration rings through the hilt of my knife, turning my fingers numb.
+Instead, his left wing snaps forward like an articulated iron shield. The steel blade strikes the leading edge of his primary flight quills with a ringing metallic shriek. Sparks shower between our faces in a brilliant white spray. The feathers aren’t soft down; they are dense, barometric carbon shafts, hardened by transgenic keratin into blades as tough as tempered steel. The vibration rings through the hilt of my knife, turning my fingers numb.
 
 "Sloppy," his voice rumbles—a deep, raspy baritone that vibrates against my collarbone. 
 
@@ -51,7 +47,7 @@ My amber welder goggles are knocked askew, dangling uselessly by their leather s
 
 Memory flashes unbidden in the dark—an old anatomical sketch my father had unrolled across our workshop table in the Lower Sumps when I was twelve. Yellowed vellum covered in dense medical Latin and schematics of the human spinal column fused with raptor genetics.
 
-*‘Never try to out-wrestle an Aeros soldier, Tsune,’* Jeffrey Thorne had warned me, tapping the sketch with his grease-stained thumb. *‘Their bones are hollow, but they’re honeycombed with titanium web-lattice. Their pectoral muscles can bend a steel girder. In an open grapple, a flight commander will crush your ribcage like an eggshell. You fight their environment, or you strike their bridle.’*
+"Never try to out-wrestle an Aeros soldier, Tsune," Jeffrey Thorne had warned me, tapping the sketch with his grease-stained thumb. "Their bones are hollow, but they’re honeycombed with titanium web-lattice. Their pectoral muscles can bend a steel girder. In an open grapple, a flight commander will crush your ribcage like an eggshell. You fight their environment, or you strike their bridle."
 
 *Their bridle.* 
 
@@ -83,11 +79,7 @@ He lunges.
 
 It is a terrifying burst of forward speed that defies his massive size, his right hand reaching out to lock around my throat like an iron vise.
 
-I don't try to block him. I dive sideways, planting my boots against the concrete floor, and drive my shoulder straight into the rusted support leg of the capacitor rack.
-
-*CRACK.*
-
-The rotted iron brace shears under the impact. 
+I don't try to block him. I dive sideways, planting my boots against the concrete floor, and drive my shoulder straight into the rusted support leg of the capacitor rack. The rotted iron brace shears under the impact with a violent snap. 
 
 Three hundred pounds of industrial copper coils, dead transformers, and rusted casing collapse forward in a roaring avalanche of metal and choking iron dust, falling directly between us.
 
@@ -141,11 +133,7 @@ The nanocarbon sickle-claw arcs toward his groin, aiming to sever his femoral ar
 
 He reacts with supersonic, transgenic reflexes.
 
-He twists his hips in mid-air, bringing his right knee up to check the strike. 
-
-*SKRRRRR.*
-
-The carbon claw doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon on titanium fills the room, throwing a shower of bright blue sparks across the floor.
+He twists his hips in mid-air, bringing his right knee up to check the strike. The carbon claw doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon on titanium fills the room, throwing a shower of bright blue sparks across the floor.
 
 Before my foot can retract, his hand snaps shut around my ankle.
 
@@ -157,11 +145,7 @@ He torques his wrist.
 
 The sudden, brutal rotational force flips me completely over in the air. I crash onto my stomach, the wind knocked out of me for the third time in five minutes. 
 
-I roll instantly, bringing the bodkin knife up in a desperate reverse-grip stab toward his inner wrist, but his left knee drops like a falling anvil onto my right forearm.
-
-*CRACK.*
-
-The sheer weight pins my arm to the concrete. The steel bodkin knife clatters from my numb fingers, spinning across the floor into the dark shadows under a dead generator.
+I roll instantly, bringing the bodkin knife up in a desperate reverse-grip stab toward his inner wrist, but his left knee drops like a falling anvil, slamming my right forearm into the concrete with bone-jarring force. The sheer weight pins my arm to the floor. The steel bodkin knife clatters from my numb fingers, spinning across the floor into the dark shadows under a dead generator.
 
 I thrash beneath him, driving my free elbow into his ribs, kicking violently with my right boot, but he shifts his immense weight with flawless military discipline. 
 

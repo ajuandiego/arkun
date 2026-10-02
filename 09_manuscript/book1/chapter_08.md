@@ -18,17 +18,15 @@ I don't need a medical scanner to know my core temperature. I can feel it in the
 
 The Silver Spine is punishing me.
 
-The alien cyber-neural lattice woven through my brainstem is firing thousands of micro-amperage warning pings directly into my nervous system. It knows I severed contact. It knows that for ten impossible seconds in that substation, its synthetic choke-collar was bypassed. The lattice is fighting to reassert dominance, flooding my cerebral cortex with agonizing white noise to remind the dog who holds the chain.
-
-*OBEY. DELIVER CAPTIVE. SUB-LEVEL 3.*
+The alien cyber-neural lattice woven through my brainstem is firing thousands of micro-amperage warning pings directly into my nervous system. It knows I severed contact. It knows that for ten impossible seconds in that substation, its synthetic choke-collar was bypassed. The lattice is fighting to reassert dominance, flooding my cerebral cortex with agonizing white noise to remind the dog who holds the chain: *obey. deliver captive. sub-level 3.*
 
 The green phosphor display on the prowler's center console blinks with bureaucratic indifference:
 
-```
-AUTOMATED TRANSPORT ACTIVE
-DESTINATION: SECTOR 01 // DETENTION COMPLEX SUB-LEVEL 3
-ESTIMATED TIME OF ARRIVAL: 38 MINUTES
-PAYLOAD STATUS: SECURED (CARGO BAY)
+```console
+automated transport active
+destination: sector 01 // detention complex sub-level 3
+estimated time of arrival: 38 minutes
+payload status: secured (cargo bay)
 ```
 
 Thirty-eight minutes.
@@ -109,9 +107,9 @@ Unless...
 
 My gaze shifts back to the blinking green terminal:
 
-```
-DESTINATION: DETENTION COMPLEX SUB-LEVEL 3
-ETA: 36 MINUTES
+```console
+destination: detention complex sub-level 3
+eta: 36 minutes
 ```
 
 *No.*
@@ -128,11 +126,7 @@ I am not letting them burn the only thing in this poisoned world that can quiet 
 
 I reach down to my utility belt and unclip my heavy field-service tool. 
 
-I wedge the steel pry-bar beneath the edge of the prowler’s center dashboard and yank upward with sixty pounds of transgenic leverage. 
-
-*CRACK.*
-
-The composite polymer casing snaps open, exposing the vehicle’s primary navigation computer: a dense knot of shielded optical ribbons, hydraulic sensor lines, and the pulsing red cylinder of the Directorate’s automated tracking transponder.
+I wedge the steel pry-bar beneath the edge of the prowler’s center dashboard and yank upward with sixty pounds of transgenic leverage. The composite polymer casing snaps open with a sharp crack, exposing the vehicle’s primary navigation computer: a dense knot of shielded optical ribbons, hydraulic sensor lines, and the pulsing red cylinder of the Directorate’s automated tracking transponder.
 
 I flex the fingers of my right hand.
 
@@ -142,16 +136,12 @@ I don't ignite them into an open flame. I channel a tight, localized burst of th
 
 I reach into the dashboard.
 
-The glowing carbon claws slice through the Directorate’s satellite transponder cables like a hot knife through butter. 
+The glowing carbon claws slice through the Directorate’s satellite transponder cables like a hot knife through butter. A sharp zap of dying current spits acrid white smoke from the severed fiber-optic ribbons. The main dashboard terminal flickers violently, the automated route coordinates collapsing into scrambled static:
 
-*PZZZT.*
-
-A small puff of acrid white smoke rises from the severed fiber-optic ribbons. The main dashboard terminal flickers violently, the automated route coordinates collapsing into scrambled static.
-
-```
-WARNING: SATELLITE TELEMETRY LINK SEVERED
-AUTOMATED ROUTE CANCELLED
-SWITCHING TO MANUAL AUXILIARY CONTROL
+```console
+warning: satellite telemetry link severed
+automated route cancelled
+switching to manual auxiliary control
 ```
 
 A sharp warning siren begins to chirp on the secondary console.
@@ -162,10 +152,10 @@ I punch the emergency override button, lean into the microphone, and speak the a
 
 The console pauses. A low, synthetic chime confirms the clearance:
 
-```
-AUTHORIZATION VERIFIED: COMMANDER VRAM TYAGE
-MANUAL DRIVE ENGAGED
-ALL EXTERNAL BEACONS DISABLED
+```console
+authorization verified: commander vram tyage
+manual drive engaged
+all external beacons disabled
 ```
 
 The automated siren dies. 

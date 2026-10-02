@@ -6,12 +6,12 @@
 
 The bio-monitor on the steel desk blinks in angry, strobing amber:
 
-```
-SUBJECT: AE-701 // COMMANDER VRAM TYAGE
-CORE TEMPERATURE: 108.4°F [CRITICAL HYPERPYREXIA]
-SYNAPSE LATTICE SATURATION: 96% [SEIZURE IMMINENT]
-CARDIAC LOAD: 168 BPM
-STATUS: LATTICE BURN PROTOCOL // STAGE 3
+```console
+subject: ae-701 // commander vram tyage
+core temperature: 108.4°f [critical hyperpyrexia]
+synapse lattice saturation: 96% [seizure imminent]
+cardiac load: 168 bpm
+status: lattice burn protocol // stage 3
 ```
 
 My hands are shaking so violently I can barely keep the diagnostic sensor clipped to my left index finger. 
@@ -44,11 +44,11 @@ I pull the bio-monitor cable taut, step away from the desk, and take three paces
 
 The display on the wrist-unit flickers:
 
-```
-DISTANCE: 9 FEET
-CORE TEMPERATURE: 107.1°F
-SYNAPSE SATURATION: 82%
-CARDIAC LOAD: 142 BPM
+```console
+distance: 9 feet
+core temperature: 107.1°f
+synapse saturation: 82%
+cardiac load: 142 bpm
 ```
 
 My breath stutters in my throat. 
@@ -95,20 +95,16 @@ Then, slowly, deliberately, she raises her chained hands.
 
 She doesn't strike. She doesn't reach for her hair knife.
 
-She reaches down and presses both of her bare, cool palms flat against the burning flesh of my bare shoulders.
-
-*CRACK-HISS.*
-
-The relief is so sudden, so violent, that a strangled gasp leaves my lips.
+She reaches down and presses both of her bare, cool palms flat against the burning flesh of my bare shoulders with a sharp, grounding crackle. The relief is so sudden, so violent, that a strangled gasp leaves my lips.
 
 The bio-monitor on my wrist screeches as its numbers plummet through the floor:
 
-```
-CONTACT ESTABLISHED: CONDUCTIVE GROUND DETECTED
-CORE TEMPERATURE: 103.8°F [STABILIZING]
-SYNAPSE SATURATION: 11% [QUIET]
-CARDIAC LOAD: 74 BPM
-STATUS: NORMALIZED
+```console
+contact established: conductive ground detected
+core temperature: 103.8°f [stabilizing]
+synapse saturation: 11% [quiet]
+cardiac load: 74 bpm
+status: normalized
 ```
 
 The screaming in my head dies.
@@ -123,7 +119,7 @@ Memory flashes unbidden in the quiet: eight years ago, during my first medal cer
 
 I remember Director Elena Corvus in her immaculate white uniform, her white silk gloves cool against my collar as she pinned the copper star of Aeros-Legion to my chest. The scent of synthetic gardenias and ozone had clung to her like a shroud. 
 
-*‘Empathy is a congenital birth defect, Commander,’* Corvus had whispered in my ear, her cold, aristocratic fingers gripping my chin to force my gaze up to the glass ceiling. *‘A bird that looks down at the dirt crashes. You are the instrument of Eden, and instruments do not bleed.’*
+"Empathy is a congenital birth defect, Commander," Corvus had whispered in my ear, her cold, aristocratic fingers gripping my chin to force my gaze up to the glass ceiling. "A bird that looks down at the dirt crashes. You are the instrument of Eden, and instruments do not bleed."
 
 For eight years, I believed her. I wore the copper star, executed her orders, and pretended that cold obedience was an armor against the screaming in my skull.
 
@@ -147,11 +143,7 @@ She doesn't push me away. Her slender fingers slowly tighten their grip against 
 
 "I don't remember," I lie softly. "They scrubbed the memory."
 
-Before she can answer, the sharp, piercing scream of the shortwave surveillance receiver shatters the silence.
-
-*BEEP. BEEP. BEEP.*
-
-A high-frequency emergency broadcast overrides the radio’s audio buffer. 
+Before she can answer, the sharp, piercing scream of the shortwave surveillance receiver shatters the silence—three urgent, high-frequency pings overriding the radio’s audio buffer. 
 
 A harsh, synthesized chime echoes off the concrete walls—the distinct, three-tone priority ping of an **Obsidian-Zero** command transmission from Dome Alpha's Executive Spire.
 
@@ -165,11 +157,11 @@ I stand up, stepping away from the cot, my legs solid beneath me for the first t
 
 The radio console’s green CRT screen blinks with an encrypted authorization code:
 
-```
-INCOMING TRANSMISSION // ENCRYPTION: OBSIDIAN-ZERO
-ORIGIN: DIRECTORATE EXECUTIVE SUITE // DOME ALPHA
-AUTHENTICATION: CORVUS, ELENA // DIRECTOR-GENERAL
-TARGET: AEROS-ACTUAL // COMMANDER VRAM TYAGE
+```console
+incoming transmission // encryption: obsidian-zero
+origin: directorate executive suite // dome alpha
+authentication: corvus, elena // director-general
+target: aeros-actual // commander vram tyage
 ```
 
 Tsunari watches the screen from the cot, her eyes narrowing as she reads the Director's name.
@@ -178,25 +170,23 @@ I step to the desk and flip the manual toggle.
 
 The speaker crackles with static, and then a voice fills the bunker—cool, aristocratic, dripping with the absolute, unhurried authority of a woman who owns the air of three million people.
 
-*"Commander Tyage,"* Director Elena Corvus speaks, her voice as smooth and lethal as chilled mercury. *"I am reviewing the perimeter telemetry logs from Sector 09. We have uncovered an anomaly."*
+"Commander Tyage," Director Elena Corvus speaks, her voice as smooth and lethal as chilled mercury. "I am reviewing the perimeter telemetry logs from Sector 09. We have uncovered an anomaly."
 
 I remain silent, my hand hovering over the transmitter switch.
 
-*"Automated optical sensors on Perimeter Tower 4 recorded an engagement outside Mirror Bank 402,"* Corvus continues, her tone devoid of warmth. *"They recorded the silhouette of a flight commander executing a terminal stoop into the solar substation. They recorded a struggle."*
+"Automated optical sensors on Perimeter Tower 4 recorded an engagement outside Mirror Bank 402," Corvus continues, her tone devoid of warmth. "They recorded the silhouette of a flight commander executing a terminal stoop into the solar substation. They recorded a struggle."
 
 A beat of dead air hums over the shortwave frequency.
 
-*"You did not lose the runner in the drainage conduits, Vram. We know she is with you."*
+"You did not lose the runner in the drainage conduits, Vram. We know she is with you."
 
 Tsunari’s hand slips toward her high hair bun, her fingers brushing the steel pommel of her bodkin knife. 
 
-*"The Directorate cannot tolerate rogue biological assets,"* Corvus says, her voice tightening into an execution order. *"The Lazarus Key contains data vital to the upcoming Atmospheric Purge. If you have the asset in custody, execute her immediately. Disintegrate the remains in the prowler’s emergency plasma incinerator. Retrieve the wafer and report to Dome Alpha for mandatory synaptic recalibration."*
+"The Directorate cannot tolerate rogue biological assets," Corvus says, her voice tightening into an execution order. "The Lazarus Key contains data vital to the upcoming Atmospheric Purge. If you have the asset in custody, execute her immediately. Disintegrate the remains in the prowler’s emergency plasma incinerator. Retrieve the wafer and report to Dome Alpha for mandatory synaptic recalibration."
 
-The speaker clicks. A low, rhythmic timer begins to pulse:
+The speaker clicks, and a low, rhythmic countdown timer begins to pulse against the frequency.
 
-*TICK. TICK. TICK.*
-
-*"You have sixty seconds to confirm termination, Commander,"* Corvus concludes coldly. *"If you fail to respond, Aeros-Legion 7 will be scrambled under Commander Cassian with full authorization to eliminate all rogue elements. Confirm."*
+"You have sixty seconds to confirm termination, Commander," Corvus concludes coldly. "If you fail to respond, Aeros-Legion 7 will be scrambled under Commander Cassian with full authorization to eliminate all rogue elements. Confirm."
 
 The radio waits.
 
@@ -230,7 +220,7 @@ I lean into the microphone, my voice dropping into the cold, unshakable gravel o
 
 "Director Corvus."
 
-*"Report, Commander,"* Corvus answers instantly. *"Is the asset neutralized?"*
+"Report, Commander," Corvus answers instantly. "Is the asset neutralized?"
 
 I look Tsunari straight in the eyes.
 
@@ -244,15 +234,11 @@ A pause on the line. The silence from Dome Alpha is suffocating.
 
 Five seconds of dead air crawl past.
 
-*"Return to base immediately, Commander,"* Corvus commands, her tone ice-cold. *"Aeros-Legion 7 will stand down. But you will submit to full biometric audit upon landing. If your flight recorder shows a single second of discrepancy..."*
+"Return to base immediately, Commander," Corvus commands, her tone ice-cold. "Aeros-Legion 7 will stand down. But you will submit to full biometric audit upon landing. If your flight recorder shows a single second of discrepancy..."
 
 I don't wait for her to finish.
 
-I reach down and tear the primary shortwave antenna lead clean out of the radio console.
-
-*SNAP.*
-
-The speaker dies with a hiss of severed static. 
+I reach down and tear the primary shortwave antenna lead clean out of the radio console. The connection snaps, and the speaker dies with a hiss of severed static. 
 
 The green CRT monitor goes black.
 

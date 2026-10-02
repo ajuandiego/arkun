@@ -1,6 +1,6 @@
 # Chapter 3 // Tsunari
 
-> *"‘...the lion of the wind and the serpent of the grass knew no war in the elder days, for in the root of the first seed, their veins sang the same song. Only when the sky-men carved their tongues did they turn to tearing one another's throats.’"*  
+> *"...the lion of the wind and the serpent of the grass knew no war in the elder days, for in the root of the first seed, their veins sang the same song. Only when the sky-men carved their tongues did they turn to tearing one another's throats."*  
 > — Fragment from an Uncatalogued Scythian Steppe Papyrus (ca. 480 BCE, Bio-Curator Archive Plate 12)
 
 ***
@@ -31,7 +31,7 @@ I sprint across the crest of the first dune, my elongated foot tendons working l
 
 Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking kerosene stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
 
-*‘You run like a human, Tsune,’* the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. *‘Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you.’*
+"You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you."
 
 He was right. 
 
@@ -77,9 +77,7 @@ My fingers work with cold, clinical speed. I slip two thumb-sized metal canister
 
 I jam the first capacitor into the exposed wiring junction of the mirror’s solar tracking servo. I pull a spool of monofilament tripwire—thin as a spider’s silk, completely invisible in the dust—and stretch it across the narrow gap between two cracked glass pylons, tying off the second end to a rusted grounding spike.
 
-A second later, the heavy mechanical stomp of the first scout echoes off the glass.
-
-*CLANK. HISS. CLANK.*
+A second later, the heavy mechanical stomp of the first scout echoes off the glass—a rhythmic, pressurized thud accompanied by the pneumatic wheeze of his leg servos.
 
 The beam of his shoulder-mounted searchlight cuts through the swirling sand, sweeping across the jagged shards of the broken mirror above my head. The white light refracts into a blinding web of scattered beams, bouncing erratically off the silvered glass.
 
@@ -99,17 +97,9 @@ His boots are heavy. Clumsy. Confident.
 
 His left shin strikes the monofilament wire.
 
-The tension snaps the trigger switch on the capacitor.
+The tension snaps the trigger switch on the capacitor with a sharp, dry pop. A brilliant, blinding flash of violet electric arc-fire erupts from the junction box at his feet. A thousand volts of stored galvanic charge surge through the conductive copper filament, riding the tripwire directly into his suit's grounding harness.
 
-*SNAP-POP.*
-
-A brilliant, blinding flash of violet electric arc-fire erupts from the junction box at his feet. A thousand volts of stored galvanic charge surge through the conductive copper filament, riding the tripwire directly into his suit's grounding harness.
-
-The scout’s pneumatic actuators scream. 
-
-*BZRRRZZT.*
-
-His shoulder searchlight explodes in a shower of white sparks. The external speakers screech with feedback, and the internal gyros in his leg servos short out, locking his knees with a violent hydraulic slam. 
+The scout’s pneumatic actuators scream in a violent electrical shriek. His shoulder searchlight explodes in a shower of white sparks. The external speakers screech with feedback, and the internal gyros in his leg servos short out, locking his knees with a violent hydraulic slam. 
 
 "EMP!" he roars, stumbling forward, his weapon arm flailing as the suit’s telemetry shuts down. "My optic array is fried! Sector—"
 
@@ -123,13 +113,7 @@ My leg springs unload with sixty pounds of elastic force, driving me straight up
 
 My weight drives his already compromised balance into the sand. 
 
-As he crashes to his knees, I drive the blunt steel pommel of my bodkin knife straight into the primary oxygen regulator valve behind his right ear.
-
-*CRACK.*
-
-The brass regulator snaps clean off. 
-
-A high-pressure jet of compressed medical oxygen hisses into the night, venting his breathing reserves in a white geyser of cold vapor. Panic hits him instantly—his hands fly up to his throat as his emergency sealed mask begins to starve his lungs of air.
+As he crashes to his knees, I drive the blunt steel pommel of my bodkin knife straight into the primary oxygen regulator valve behind his right ear. The brass regulator snaps clean off with a sharp fracture. A high-pressure jet of compressed medical oxygen hisses into the night, venting his breathing reserves in a white geyser of cold vapor. Panic hits him instantly—his hands fly up to his throat as his emergency sealed mask begins to starve his lungs of air.
 
 I don't stay to watch him suffocate. He’ll pass out from hypoxia in sixty seconds, safe enough to survive, useless enough to be off my trail.
 
@@ -181,11 +165,7 @@ My left foot lashes out.
 
 The nanocarbon sickle-claw strikes the articulated hydraulic line behind his knee.
 
-The carbon blade, sharpened to a single molecular edge, shears through the reinforced steel-braided fluid hose like butter. 
-
-*HISSSS.*
-
-Red hydraulic fluid geysers across the sand under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
+The carbon blade, sharpened to a single molecular edge, shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
 
 I land lightly on the crest of the ridge, my boots digging into the loose earth, absorbing the impact without a wobble. 
 

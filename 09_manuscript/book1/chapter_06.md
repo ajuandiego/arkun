@@ -96,21 +96,17 @@ She slips out from beneath me like water through clenched fingers.
 
 Her bare hand rips free from my neck.
 
-*NO.*
+*No.* The protest tears through my mind before I can stop it.
 
-The protest tears through my mind before I can stop it.
-
-The instant her skin breaks contact with the titanium siphon, the silence shatters into a million jagged shards.
-
-*CRACK.*
-
-The Silver Spine roars back to life with the fury of a kicked hornet's nest. 
+The instant her skin breaks contact with the titanium siphon, the silence shatters into a million jagged shards. With an ear-splitting crack, the Silver Spine roars back to life with the fury of a kicked hornet's nest. 
 
 A violent, blinding spike of red-hot synthetic feedback arcs across my brainstem. My vision strobes with searing white agony. A wave of intense, debilitating nausea rips through my gut, forcing a harsh, strangled groan from my throat. 
 
-*TELEMETRY OVERRIDE // COMPLIANCE SIGNAL DISRUPTED.*  
-*BIO-ANOMALY DETECTED // SEVERE STATIC BREACH.*  
-*TARGET COMPROMISED // RE-ENGAGE. VIVISECT. ELIMINATE.*
+```console
+telemetry override // compliance signal disrupted
+bio-anomaly detected // severe static breach
+target compromised // re-engage. vivisect. eliminate.
+```
 
 The Directorate's automated commands scream through my auditory cortex, loud enough to burst my eardrums. Blood drips from my nose, spattering dark against the gray concrete dust.
 

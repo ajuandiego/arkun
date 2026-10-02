@@ -107,7 +107,7 @@ I expected him to crush my skull. I expected his talons to rip my windpipe open.
 
 Memory surfaces from my father’s cramped journals, written in faded black ink on yellowed pre-collapse paper:
 
-*‘The Vaelen leash is a synthetic quantum carrier wave,’* Jeffrey Thorne had written. *‘It controls the spliced brain through artificial harmonic oscillation. But baseline human genetics—uncorrupted, un-spliced chromosomal structures—possess a natural bio-electromagnetic null-field. To an alien signal, pure human touch is a ground wire. It snuffs the spark.’*
+"The Vaelen leash is a synthetic quantum carrier wave," Jeffrey Thorne had written. "It controls the spliced brain through artificial harmonic oscillation. But baseline human genetics—uncorrupted, un-spliced chromosomal structures—possess a natural bio-electromagnetic null-field. To an alien signal, pure human touch is a ground wire. It snuffs the spark."
 
 My father wasn't speaking in metaphors. 
 
