@@ -59,13 +59,15 @@ The tunic is strictly sleeveless, cut close to my ribs from weathered slate-drab
 
 Under the amber glare of my scavenged welder goggles, the pebbled dermal scales look like delicate, decorative tattoo work rather than hardened reptilian keratin. Lower down, heavy leather mechanic’s bracers cover my inner wrists, cinched tight with tarnished brass buckles that conceal the sharp, razor-thin scutes running along my ulna.
 
+A sharp gust of copper dust whistles through the vent, catching me right in the face. I don't even blink. A second, clear lid sweeps across my eyes—a reflex from the raptor blood under my skin—brushing away the sting before the grit can scratch.
+
 I reach up to the crown of my head and pull the steel bodkin knife from my hair.
 
 The high, braided warrior bun loosens with a soft rustle, thick raven strands spilling down across my bare shoulders and neck as the five-inch tapered needle slides free in my grip. 
 
-It’s an antique tool, forged from pre-collapse surgical carbon steel, ground flat at the tip to fit standard diagnostic terminals. My father gave it to me on my twelfth birthday, back when our workshop in the lower sumps still had glass in the windows and an oil lantern burning on the workbench.
+It’s an antique tool, forged from pre-collapse surgical carbon steel, ground flat at the tip to fit standard diagnostic terminals. My father gave it to me on my twelfth birthday, back when our workshop in the lower sumps still had glass in the windows and an oil lantern burning on the workbench. Back before the Directorate put a price on his head, he would sit up late into the night beneath the sputtering wick, poring over charcoal rubbings of ancient, eroded stone tablets excavated from old-world ruins—sketches of feathered kings and horned terrestrial stalkers that the history vids claimed never existed.
 
-"A knife is just a blade, Tsune," Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip. "A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die."
+*"A knife is just a blade, Tsune,"* Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip, his voice dropping to a low, quiet murmur as he closed his battered journal. *"A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die. Never forget: the Directorate thinks they're gods because they splice flesh in vats. But they didn't invent the fire, and they didn't invent the blood. They just built the cages."*
 
 Before me sits the target: a heavy cast-iron courier terminal bolted directly into the conduit’s structural rib, stenciled with the white double-helix logo of **Apex GeneSys**.
 

@@ -74,7 +74,11 @@ My second-in-command is thirty-two years old, which in Aeros-Legion makes him an
 
 I glance down at my own wingtips. 
 
-He's right, of course. The Simurgh strain was engineered for rapid cellular regeneration—our feathers molt and knit overnight, our cuts smoke and close within minutes, and our hearts carry an automatic defibrillation pulse that can restart our core if we flatline under G-force shock. But that regenerative fire comes at a terrible price: the hotter the furnace burns, the faster the Silver Spine cooks the brain.
+He's right, of course. Ninety-five percent of the aerial cohorts are spliced from the **Gryphon** lineage—sturdy, slate-quilled, disciplined workhorses bred for long-range surveillance and high-altitude endurance. They are the backbone of the sky. 
+
+The **Simurgh** lineage was Apex Bio’s volatile solar prototype—a high-risk, hyper-thermic experiment that nearly bankrupt the genetics division. There are barely four of us alive in the active wings. We were engineered for explosive kinetic devastation and rapid cellular regeneration: our flight feathers molt and knit overnight, our lacerations smoke and knit closed within minutes, and our hearts carry an automatic cardiac defibrillation pulse that can restart our core if we flatline under severe G-force shock. 
+
+But that solar fire comes at a catastrophic cost. We burn six thousand calories a day just to keep our organs from consuming themselves, and the hotter the internal furnace burns, the faster the Silver Spine cooks the cerebral cortex. 
 
 Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
 
@@ -82,7 +86,7 @@ I don't need to look to know who it is. The scent reaches me first: crushed euca
 
 Specialist Tobin Vance steps out of the shadow of the blast doors. 
 
-At nineteen, Toby is the youngest chimeric recruit assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+At nineteen, Toby is the youngest of our rare lineage assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
 
 "Commander," Toby whispers, his voice barely carrying over the wind. 
 

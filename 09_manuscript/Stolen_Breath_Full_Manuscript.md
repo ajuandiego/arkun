@@ -100,13 +100,15 @@ The tunic is strictly sleeveless, cut close to my ribs from weathered slate-drab
 
 Under the amber glare of my scavenged welder goggles, the pebbled dermal scales look like delicate, decorative tattoo work rather than hardened reptilian keratin. Lower down, heavy leather mechanic’s bracers cover my inner wrists, cinched tight with tarnished brass buckles that conceal the sharp, razor-thin scutes running along my ulna.
 
+A sudden, caustic gust of copper-scented wind shrieks through the loose louvers, blowing a spray of abrasive alkaline dust directly into my face. I don't flinch or close my eyes. Beneath my goggles, my translucent inner eyelids flick horizontally across my corneas—a swift, fluid stroke that wipes away the stinging grit and clears my vision in a heartbeat, leaving my focus locked on the ironwork.
+
 I reach up to the crown of my head and pull the steel bodkin knife from my hair.
 
 The high, braided warrior bun loosens with a soft rustle, thick raven strands spilling down across my bare shoulders and neck as the five-inch tapered needle slides free in my grip. 
 
-It’s an antique tool, forged from pre-collapse surgical carbon steel, ground flat at the tip to fit standard diagnostic terminals. My father gave it to me on my twelfth birthday, back when our workshop in the lower sumps still had glass in the windows and an oil lantern burning on the workbench.
+It’s an antique tool, forged from pre-collapse surgical carbon steel, ground flat at the tip to fit standard diagnostic terminals. My father gave it to me on my twelfth birthday, back when our workshop in the lower sumps still had glass in the windows and an oil lantern burning on the workbench. Back before the Directorate put a price on his head, he would sit up late into the night beneath the sputtering wick, poring over charcoal rubbings of ancient, eroded stone tablets excavated from old-world ruins—sketches of feathered kings and horned terrestrial stalkers that the history vids claimed never existed.
 
-"A knife is just a blade, Tsune," Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip. "A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die."
+*"A knife is just a blade, Tsune,"* Jeffrey Thorne had said, his grease-stained fingers wrapping mine around the cold grip, his voice dropping to a low, quiet murmur as he closed his battered journal. *"A bodkin is an interface. It opens locks, it splices circuits, and when the world decides to put a collar around your neck, it gives you a say in how you die. Never forget: the Directorate thinks they're gods because they splice flesh in vats. But they didn't invent the fire, and they didn't invent the blood. They just built the cages."*
 
 Before me sits the target: a heavy cast-iron courier terminal bolted directly into the conduit’s structural rib, stenciled with the white double-helix logo of **Apex GeneSys**.
 
@@ -381,7 +383,11 @@ My second-in-command is thirty-two years old, which in Aeros-Legion makes him an
 
 I glance down at my own wingtips. 
 
-He's right, of course. The Simurgh strain was engineered for rapid cellular regeneration—our feathers molt and knit overnight, our cuts smoke and close within minutes, and our hearts carry an automatic defibrillation pulse that can restart our core if we flatline under G-force shock. But that regenerative fire comes at a terrible price: the hotter the furnace burns, the faster the Silver Spine cooks the brain.
+He's right, of course. Ninety-five percent of the aerial cohorts are spliced from the **Gryphon** lineage—sturdy, slate-quilled, disciplined workhorses bred for long-range surveillance and high-altitude endurance. They are the backbone of the sky. 
+
+The **Simurgh** lineage was Apex Bio’s volatile solar prototype—a high-risk, hyper-thermic experiment that nearly bankrupt the genetics division. There are barely four of us alive in the active wings. We were engineered for explosive kinetic devastation and rapid cellular regeneration: our flight feathers molt and knit overnight, our lacerations smoke and knit closed within minutes, and our hearts carry an automatic cardiac defibrillation pulse that can restart our core if we flatline under severe G-force shock. 
+
+But that solar fire comes at a catastrophic cost. We burn six thousand calories a day just to keep our organs from consuming themselves, and the hotter the internal furnace burns, the faster the Silver Spine cooks the cerebral cortex. 
 
 Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
 
@@ -389,7 +395,7 @@ I don't need to look to know who it is. The scent reaches me first: crushed euca
 
 Specialist Tobin Vance steps out of the shadow of the blast doors. 
 
-At nineteen, Toby is the youngest chimeric recruit assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+At nineteen, Toby is the youngest of our rare lineage assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
 
 "Commander," Toby whispers, his voice barely carrying over the wind. 
 
