@@ -7,9 +7,9 @@
     <dc:language>en-US</dc:language>
     <dc:publisher>J.D. Alfaro</dc:publisher>
     <dc:date>2026-10-02</dc:date>
-    <dc:description>In a world choked by copper dust, every breath has a price. High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind. In the rust-slicked alleys below, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing his agony and sparking an alliance that will tear the sky apart.</dc:description>
+    <dc:description>HE WAS ENGINEERED TO KILL. SHE WAS BRED TO SURVIVE. In a dying city where every breath has a price, she owes a debt that can only be paid in blood. Dragged to the high towers to be auctioned to the regime’s deadliest aerial predator, she prepares for slaughter. In a world of monsters, there is no other way. Conditioned for war, his mind is consumed by a lethal electrical storm ticking toward madness. To the regime, he is merciless—untouchable, lethal, and feared. All he has ever known is instinct and cold survival. Until one breathless touch silences the agony in his head. Now, the weapon who answers to no one will burn down the sky before he lets anything happen to her.</dc:description>
     <dc:rights>© 2026 J.D. Alfaro. All rights reserved.</dc:rights>
-    <meta property="dcterms:modified">2026-10-02T15:28:31Z</meta>
+    <meta property="dcterms:modified">2026-10-02T16:40:39Z</meta>
     <meta property="belongs-to-collection" id="c01">The Arkun Cycle</meta>
     <meta refines="#c01" property="collection-type">series</meta>
     <meta refines="#c01" property="group-position">1</meta>
@@ -17,10 +17,14 @@
 
   <manifest>
     <item id="ncx" href="nav.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="style" href="styles/book.css" media-type="text/css"/>
     <item id="cover-image" href="assets/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="back-cover-image" href="assets/back_cover.jpg" media-type="image/jpeg"/>
+    <item id="backcover" href="backcover.xhtml" media-type="application/xhtml+xml"/>
     <item id="chap_01" href="chapters/chapter_01.xhtml" media-type="application/xhtml+xml"/>
     <item id="chap_02" href="chapters/chapter_02.xhtml" media-type="application/xhtml+xml"/>
     <item id="chap_03" href="chapters/chapter_03.xhtml" media-type="application/xhtml+xml"/>
@@ -36,7 +40,7 @@
   <spine toc="ncx">
     <itemref idref="cover" linear="no"/>
     <itemref idref="titlepage"/>
-    <itemref idref="dossier"/>
+    <itemref idref="dedication"/>
     <itemref idref="chap_01"/>
     <itemref idref="chap_02"/>
     <itemref idref="chap_03"/>
@@ -47,5 +51,6 @@
     <itemref idref="chap_08"/>
     <itemref idref="chap_09"/>
     <itemref idref="chap_10"/>
+    <itemref idref="backcover"/>
   </spine>
 </package>

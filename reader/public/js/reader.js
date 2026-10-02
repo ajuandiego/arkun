@@ -408,6 +408,39 @@ class NovelReader {
       </div>
     `);
 
+    // Page 4: DEDICATION PAGE (Soft, Recto)
+    pages.push(`
+      <div class="page page-recto" data-density="soft">
+        <div class="page-inner page-title-spread" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 60px 40px; text-align: center;">
+          <div class="page-gutter-shadow"></div>
+          <div style="font-family: var(--font-display); font-size: 16px; letter-spacing: 3px; color: var(--gold-light); margin-bottom: 20px;">
+            FOR ZUNI
+          </div>
+          <div style="width: 45px; height: 1px; background: var(--gold-accent); margin-bottom: 24px; opacity: 0.7;"></div>
+          <p style="font-family: var(--font-serif); font-size: 14.5px; line-height: 2; color: var(--text-primary); font-style: italic; max-width: 320px; margin: 0 auto 14px auto;">
+            To the one who makes every breath in my life count.
+          </p>
+          <p style="font-family: var(--font-serif); font-size: 14px; line-height: 2; color: var(--text-primary); font-style: italic; max-width: 320px; margin: 0 auto 14px auto;">
+            I hope you find my devotion and love between these lines.
+          </p>
+          <p style="font-family: var(--font-serif); font-size: 14px; line-height: 2; color: var(--text-primary); font-style: italic; max-width: 320px; margin: 0 auto;">
+            Forever will never be enough to share this life with you.
+          </p>
+          <div style="margin-top: 32px; color: var(--gold-accent); font-size: 14px; opacity: 0.7;">❖</div>
+        </div>
+      </div>
+    `);
+
+    // Page 5: BLANK VERSO SPREAD (Soft, Verso)
+    pages.push(`
+      <div class="page page-verso" data-density="soft">
+        <div class="page-inner" style="display: flex; align-items: center; justify-content: center;">
+          <div class="page-gutter-shadow"></div>
+          <div style="color: var(--text-dim); font-size: 16px; opacity: 0.4;">❖</div>
+        </div>
+      </div>
+    `);
+
     // Page 6+: PAGINATE ALL CHAPTERS (Starting on Page 6, Recto)
     let currentGlobalPage = 1;
 
@@ -500,27 +533,8 @@ class NovelReader {
 
     // 9. BACK COVER (Hardcover)
     pages.push(`
-      <div class="page page-cover-back" data-density="hard">
-        <div class="cover-filigree-border"></div>
-        <div class="back-blurb">
-          <h3>STOLEN BREATH</h3>
-          <p style="margin-bottom: 12px;">
-            In a world choked by copper dust, every breath has a price.
-          </p>
-          <p style="margin-bottom: 12px;">
-            High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind.
-          </p>
-          <p>
-            Three thousand feet below, in the rust-slicked alleys of the Gray Sector, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing the agony that is destroying him, and sparking a forbidden bond that could tear the sky apart.
-          </p>
-        </div>
-        <div class="back-barcode">
-          <div class="barcode-lines">|||||| | ||||| |||| | |||||</div>
-          <div class="isbn-meta">
-            THE ARKUN CYCLE // BOOK ONE<br>
-            BY J.D. ALFARO
-          </div>
-        </div>
+      <div class="page page-cover-back" data-density="hard" style="padding: 0; border: none; overflow: hidden;">
+        <div class="cover-art-container" style="background-image: url('/assets/back_cover.jpg'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>
       </div>
     `);
 

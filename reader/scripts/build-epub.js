@@ -18,6 +18,7 @@ const ROOT_DIR = path.resolve(__dirname, '../..');
 const MANUSCRIPT_DIR = path.join(ROOT_DIR, '09_manuscript', 'book1');
 const OUTPUT_DIR = path.join(__dirname, '..', 'books', 'book1');
 const COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'cover.jpg');
+const BACK_COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'back_cover.jpg');
 
 // Ensure output directories exist
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -34,7 +35,7 @@ const BOOK_META = {
   identifier: 'urn:uuid:8b341f20-9482-40as-arkun-cycle-vol1',
   modified: new Date().toISOString().replace(/\.\d+Z$/, 'Z'),
   date: '2026-10-02',
-  description: 'In a world choked by copper dust, every breath has a price. High above the toxic smog of Dome Alpha, Lord Vram commands the sky with wings built for war, while a lethal electrical storm consumes his mind. In the rust-slicked alleys below, Tsunari survives by her claws. When they meet, her touch acts as a living ground wire—silencing his agony and sparking an alliance that will tear the sky apart.',
+  description: 'HE WAS ENGINEERED TO KILL. SHE WAS BRED TO SURVIVE. In a dying city where every breath has a price, she owes a debt that can only be paid in blood. Dragged to the high towers to be auctioned to the regime’s deadliest aerial predator, she prepares for slaughter. In a world of monsters, there is no other way. Conditioned for war, his mind is consumed by a lethal electrical storm ticking toward madness. To the regime, he is merciless—untouchable, lethal, and feared. All he has ever known is instinct and cold survival. Until one breathless touch silences the agony in his head. Now, the weapon who answers to no one will burn down the sky before he lets anything happen to her.',
   publisher: 'J.D. Alfaro',
   rights: '© 2026 J.D. Alfaro. All rights reserved.'
 };
@@ -395,6 +396,28 @@ function generateCoverXHTML() {
 </html>`;
 }
 
+// Generate Back Cover XHTML
+function generateBackCoverXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Back Cover — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+  <style type="text/css">
+    body { margin: 0; padding: 0; text-align: center; background-color: #0d0c0a; }
+    img.back-cover { max-width: 100%; height: 100vh; object-fit: contain; }
+  </style>
+</head>
+<body epub:type="backmatter">
+  <div role="doc-backcover" epub:type="backmatter">
+    <img src="assets/back_cover.jpg" alt="Back Cover: ${xmlEscape(BOOK_META.title)}" class="back-cover" />
+  </div>
+</body>
+</html>`;
+}
+
 // Generate Title Page XHTML
 function generateTitlePageXHTML() {
   return `<?xml version="1.0" encoding="utf-8"?>
@@ -412,7 +435,7 @@ function generateTitlePageXHTML() {
     <div class="titlepage-subtitle">A Biopunk Romantasy Novel</div>
     <div class="titlepage-rule"></div>
     <div class="titlepage-logline">
-      "A hunted hacker with sickle-claw reflexes. A winged soldier with a burning fever. One touch that changes the fate of Earth."
+      "He was engineered to kill. She was bred to survive. One breathless touch that changes the sky forever."
     </div>
     <div class="titlepage-colophon">
       ${xmlEscape(BOOK_META.publisher)}<br />
@@ -424,8 +447,97 @@ function generateTitlePageXHTML() {
 </html>`;
 }
 
+// Generate Dedication XHTML
+function generateDedicationXHTML() {
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Dedication — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+  <style type="text/css">
+    .dedication-section {
+      text-align: center;
+      padding: 24% 8% 0 8%;
+    }
+    .dedication-recipient {
+      font-family: "Cinzel", Georgia, serif;
+      font-size: 1.35em;
+      letter-spacing: 3px;
+      color: #c49a45;
+      text-transform: uppercase;
+      margin-bottom: 1.2em;
+    }
+    .dedication-rule {
+      width: 45px;
+      height: 1px;
+      background: #c49a45;
+      margin: 1.2em auto 2.2em auto;
+      opacity: 0.7;
+    }
+    .dedication-text {
+      font-family: Georgia, "Times New Roman", serif;
+      font-style: italic;
+      font-size: 1.08em;
+      line-height: 2.1;
+      color: #2b2b2b;
+      margin: 1em 0;
+      text-indent: 0;
+    }
+    .dedication-ornament {
+      margin-top: 3em;
+      color: #c49a45;
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body epub:type="frontmatter">
+  <section class="dedication" role="doc-dedication" epub:type="dedication">
+    <div class="dedication-section">
+      <div class="dedication-recipient">For Zuni</div>
+      <div class="dedication-rule"></div>
+      <p class="dedication-text">To the one who makes every breath in my life count.</p>
+      <p class="dedication-text">I hope you find my devotion and love between these lines.</p>
+      <p class="dedication-text">Forever will never be enough to share this life with you.</p>
+      <div class="dedication-ornament">❖</div>
+    </div>
+  </section>
+</body>
+</html>`;
+}
+
+// Generate EPUB3 Navigation Document (nav.xhtml)
+function generateNavXHTML(chapters, hasBackCover) {
+  const chapterItems = chapters.map(c => {
+    const filename = `chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml`;
+    return `      <li><a href="${filename}">${xmlEscape(c.title)}</a></li>`;
+  }).join('\n');
+
+  return `<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Table of Contents — ${xmlEscape(BOOK_META.title)}</title>
+  <link rel="stylesheet" type="text/css" href="styles/book.css" />
+</head>
+<body epub:type="frontmatter">
+  <nav epub:type="toc" id="toc" role="doc-toc">
+    <h1 class="titlepage-title" style="font-size: 1.8em; margin-bottom: 1.5em;">Table of Contents</h1>
+    <ol style="list-style-type: none; padding-left: 0; line-height: 2;">
+      <li><a href="titlepage.xhtml">Title Page</a></li>
+      <li><a href="dedication.xhtml">Dedication</a></li>
+${chapterItems}
+      ${hasBackCover ? '<li><a href="backcover.xhtml">Back Cover</a></li>' : ''}
+    </ol>
+  </nav>
+</body>
+</html>`;
+}
+
 // Generate EPUB2 NCX (nav.ncx) for backwards compatibility
-function generateNCX(chapters) {
+function generateNCX(chapters, hasBackCover) {
   let playOrder = 1;
   const navPoints = [];
 
@@ -435,6 +547,32 @@ function generateNCX(chapters) {
       <content src="titlepage.xhtml"/>
     </navPoint>
   `);
+
+  navPoints.push(`
+    <navPoint id="np-dedication" playOrder="${playOrder++}">
+      <navLabel><text>Dedication</text></navLabel>
+      <content src="dedication.xhtml"/>
+    </navPoint>
+  `);
+
+  chapters.forEach(c => {
+    const filename = `chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml`;
+    navPoints.push(`
+    <navPoint id="np-chap-${c.index}" playOrder="${playOrder++}">
+      <navLabel><text>${xmlEscape(c.title)}</text></navLabel>
+      <content src="${filename}"/>
+    </navPoint>
+    `);
+  });
+
+  if (hasBackCover) {
+    navPoints.push(`
+    <navPoint id="np-backcover" playOrder="${playOrder++}">
+      <navLabel><text>Back Cover</text></navLabel>
+      <content src="backcover.xhtml"/>
+    </navPoint>
+    `);
+  }
 
   return `<?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
@@ -453,19 +591,26 @@ function generateNCX(chapters) {
 }
 
 // Generate OPF Package Document (content.opf)
-function generateOPF(chapters) {
+function generateOPF(chapters, hasBackCover) {
   const manifestItems = [
     `<item id="ncx" href="nav.ncx" media-type="application/x-dtbncx+xml"/>`,
+    `<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>`,
     `<item id="style" href="styles/book.css" media-type="text/css"/>`,
     `<item id="cover-image" href="assets/cover.jpg" media-type="image/jpeg" properties="cover-image"/>`,
     `<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>`,
     `<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>`,
+    `<item id="dedication" href="dedication.xhtml" media-type="application/xhtml+xml"/>`,
   ];
+
+  if (hasBackCover) {
+    manifestItems.push(`<item id="back-cover-image" href="assets/back_cover.jpg" media-type="image/jpeg"/>`);
+    manifestItems.push(`<item id="backcover" href="backcover.xhtml" media-type="application/xhtml+xml"/>`);
+  }
 
   const spineItems = [
     `<itemref idref="cover" linear="no"/>`,
     `<itemref idref="titlepage"/>`,
-    `<itemref idref="dossier"/>`,
+    `<itemref idref="dedication"/>`,
   ];
 
   chapters.forEach(c => {
@@ -474,6 +619,10 @@ function generateOPF(chapters) {
     manifestItems.push(`<item id="${id}" href="${href}" media-type="application/xhtml+xml"/>`);
     spineItems.push(`<itemref idref="${id}"/>`);
   });
+
+  if (hasBackCover) {
+    spineItems.push(`<itemref idref="backcover"/>`);
+  }
 
   return `<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId" xml:lang="en">
@@ -514,7 +663,7 @@ async function buildEPUB() {
   }
 
   const files = fs.readdirSync(MANUSCRIPT_DIR)
-    .filter(f => f.endsWith('.md'))
+    .filter(f => f.startsWith('chapter_') && f.endsWith('.md'))
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
   console.log(`📖 Found ${files.length} chapters in ${MANUSCRIPT_DIR}`);
@@ -548,7 +697,7 @@ async function buildEPUB() {
   const css = generateCSS();
   zip.file('OEBPS/styles/book.css', css);
 
-  // Cover image
+  // Cover images
   let coverData = null;
   if (fs.existsSync(COVER_PATH)) {
     coverData = fs.readFileSync(COVER_PATH);
@@ -557,9 +706,16 @@ async function buildEPUB() {
     console.warn('⚠️ Cover image not found at', COVER_PATH);
   }
 
+  let backCoverData = null;
+  if (fs.existsSync(BACK_COVER_PATH)) {
+    backCoverData = fs.readFileSync(BACK_COVER_PATH);
+    zip.file('OEBPS/assets/back_cover.jpg', backCoverData);
+  }
+
   // Cover & Frontmatter XHTML
   zip.file('OEBPS/cover.xhtml', generateCoverXHTML());
   zip.file('OEBPS/titlepage.xhtml', generateTitlePageXHTML());
+  zip.file('OEBPS/dedication.xhtml', generateDedicationXHTML());
 
   // Chapters XHTML
   chapters.forEach(c => {
@@ -568,11 +724,17 @@ async function buildEPUB() {
     zip.file(`OEBPS/chapters/${filename}`, xhtml);
   });
 
-  // Navigation
-  zip.file('OEBPS/nav.ncx', generateNCX(chapters));
+  // Back Cover XHTML
+  if (backCoverData) {
+    zip.file('OEBPS/backcover.xhtml', generateBackCoverXHTML());
+  }
+
+  // Navigation (EPUB3 nav.xhtml + EPUB2 nav.ncx)
+  zip.file('OEBPS/nav.xhtml', generateNavXHTML(chapters, !!backCoverData));
+  zip.file('OEBPS/nav.ncx', generateNCX(chapters, !!backCoverData));
 
   // OPF Package Document
-  zip.file('OEBPS/content.opf', generateOPF(chapters));
+  zip.file('OEBPS/content.opf', generateOPF(chapters, !!backCoverData));
 
   // 3. Write Exploded Source Files for Inspection
   console.log('📂 Writing exploded source files to:', EPUB_SOURCE_DIR);
@@ -587,10 +749,16 @@ async function buildEPUB() {
   if (coverData) {
     fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'assets', 'cover.jpg'), coverData);
   }
+  if (backCoverData) {
+    fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'assets', 'back_cover.jpg'), backCoverData);
+    fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'backcover.xhtml'), generateBackCoverXHTML());
+  }
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'cover.xhtml'), generateCoverXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'titlepage.xhtml'), generateTitlePageXHTML());
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters));
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'content.opf'), generateOPF(chapters));
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'dedication.xhtml'), generateDedicationXHTML());
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.xhtml'), generateNavXHTML(chapters, !!backCoverData));
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters, !!backCoverData));
+  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'content.opf'), generateOPF(chapters, !!backCoverData));
 
   chapters.forEach(c => {
     const filename = `chapter_${String(c.index).padStart(2, '0')}.xhtml`;
