@@ -190,7 +190,57 @@
       <content src="chapters/chapter_34.xhtml"/>
     </navPoint>
     
-    <navPoint id="np-backcover" playOrder="37">
+    <navPoint id="np-chap-35" playOrder="37">
+      <navLabel><text>Chapter 35</text></navLabel>
+      <content src="chapters/chapter_35.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-36" playOrder="38">
+      <navLabel><text>Chapter 36</text></navLabel>
+      <content src="chapters/chapter_36.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-37" playOrder="39">
+      <navLabel><text>Chapter 37</text></navLabel>
+      <content src="chapters/chapter_37.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-38" playOrder="40">
+      <navLabel><text>Chapter 38</text></navLabel>
+      <content src="chapters/chapter_38.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-39" playOrder="41">
+      <navLabel><text>Chapter 39</text></navLabel>
+      <content src="chapters/chapter_39.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-40" playOrder="42">
+      <navLabel><text>Chapter 40</text></navLabel>
+      <content src="chapters/chapter_40.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-41" playOrder="43">
+      <navLabel><text>Chapter 41</text></navLabel>
+      <content src="chapters/chapter_41.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-42" playOrder="44">
+      <navLabel><text>Chapter 42</text></navLabel>
+      <content src="chapters/chapter_42.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-43" playOrder="45">
+      <navLabel><text>Chapter 43</text></navLabel>
+      <content src="chapters/chapter_43.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-chap-44" playOrder="46">
+      <navLabel><text>Chapter 44</text></navLabel>
+      <content src="chapters/chapter_44.xhtml"/>
+    </navPoint>
+    
+    <navPoint id="np-backcover" playOrder="47">
       <navLabel><text>Back Cover</text></navLabel>
       <content src="backcover.xhtml"/>
     </navPoint>
