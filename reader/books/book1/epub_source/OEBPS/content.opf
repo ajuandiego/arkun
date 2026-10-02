@@ -9,7 +9,7 @@
     <dc:date>2026-10-02</dc:date>
     <dc:description>HE WAS ENGINEERED TO KILL. SHE WAS BRED TO SURVIVE. In a dying city where every breath has a price, she owes a debt that can only be paid in blood. Dragged to the high towers to be auctioned to the regime’s deadliest aerial predator, she prepares for slaughter. In a world of monsters, there is no other way. Conditioned for war, his mind is consumed by a lethal electrical storm ticking toward madness. To the regime, he is merciless—untouchable, lethal, and feared. All he has ever known is instinct and cold survival. Until one breathless touch silences the agony in his head. Now, the weapon who answers to no one will burn down the sky before he lets anything happen to her.</dc:description>
     <dc:rights>© 2026 J.D. Alfaro. All rights reserved.</dc:rights>
-    <meta property="dcterms:modified">2026-10-02T17:53:21Z</meta>
+    <meta property="dcterms:modified">2026-10-02T18:03:12Z</meta>
     <meta property="belongs-to-collection" id="c01">The Arkun Cycle</meta>
     <meta refines="#c01" property="collection-type">series</meta>
     <meta refines="#c01" property="group-position">1</meta>
@@ -47,6 +47,18 @@
     <item id="chap_20" href="chapters/chapter_20.xhtml" media-type="application/xhtml+xml"/>
     <item id="chap_21" href="chapters/chapter_21.xhtml" media-type="application/xhtml+xml"/>
     <item id="chap_22" href="chapters/chapter_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_23" href="chapters/chapter_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_24" href="chapters/chapter_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_25" href="chapters/chapter_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_26" href="chapters/chapter_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_27" href="chapters/chapter_27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_28" href="chapters/chapter_28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_29" href="chapters/chapter_29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_30" href="chapters/chapter_30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_31" href="chapters/chapter_31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_32" href="chapters/chapter_32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_33" href="chapters/chapter_33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap_34" href="chapters/chapter_34.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
 
   <spine toc="ncx">
@@ -75,6 +87,18 @@
     <itemref idref="chap_20"/>
     <itemref idref="chap_21"/>
     <itemref idref="chap_22"/>
+    <itemref idref="chap_23"/>
+    <itemref idref="chap_24"/>
+    <itemref idref="chap_25"/>
+    <itemref idref="chap_26"/>
+    <itemref idref="chap_27"/>
+    <itemref idref="chap_28"/>
+    <itemref idref="chap_29"/>
+    <itemref idref="chap_30"/>
+    <itemref idref="chap_31"/>
+    <itemref idref="chap_32"/>
+    <itemref idref="chap_33"/>
+    <itemref idref="chap_34"/>
     <itemref idref="backcover"/>
   </spine>
 </package>
