@@ -8,10 +8,17 @@ const path = require('path');
 const { marked } = require('marked');
 const JSZip = require('jszip');
 
-// Configure marked
-marked.setOptions({
+// Configure marked with Biopunk Terminal Renderer
+const terminalRenderer = {
+  code({ text }) {
+    return `<div class="terminal-panel"><div class="terminal-header"><span class="terminal-status-dot">●</span> console.out</div><pre class="terminal-body"><code>${xmlEscape(text)}</code></pre></div>\n\n`;
+  }
+};
+
+marked.use({
   gfm: true,
-  breaks: true
+  breaks: true,
+  renderer: terminalRenderer
 });
 
 const ROOT_DIR = path.resolve(__dirname, '../..');
@@ -268,21 +275,70 @@ p.has-dropcap {
   break-inside: avoid;
 }
 
-/* Monospace Terminal Code */
-pre, code {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 0.88em;
+/* Biopunk Data-Slate Terminal */
+.terminal-panel {
+  margin: 1.5em 0;
+  background-color: #0d1015;
+  border: 1px solid #c49a45;
+  border-left: 3px solid #22c55e;
+  border-radius: 4px;
+  overflow: hidden;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
+.terminal-header {
+  background-color: #171b21;
+  border-bottom: 1px solid rgba(196, 154, 69, 0.4);
+  padding: 5px 10px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.72em;
+  letter-spacing: 1.2px;
+  color: #dfc187;
+  text-transform: lowercase;
+}
+
+.terminal-status-dot {
+  color: #22c55e;
+  font-size: 0.85em;
+  margin-right: 4px;
+}
+
+.terminal-panel pre,
+pre.terminal-body {
+  margin: 0;
+  padding: 0.8em 1em;
+  background: transparent;
+  border: none;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.terminal-panel code,
+pre.terminal-body code {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.88em;
+  line-height: 1.6;
+  color: #38e07b;
+  background: transparent;
+  padding: 0;
+  text-transform: lowercase;
+}
+
+/* Fallback Monospace */
 pre {
-  background: #f4f2ee;
-  border: 1px solid #e2ddd5;
+  background: #0d1015;
+  border: 1px solid #c49a45;
+  border-left: 3px solid #22c55e;
   padding: 0.8em 1em;
   margin: 1.4em 0;
   border-radius: 4px;
   overflow-x: auto;
   white-space: pre-wrap;
   word-wrap: break-word;
+  color: #38e07b;
+  text-transform: lowercase;
 }
 
 /* Title Page */

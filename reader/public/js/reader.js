@@ -338,6 +338,17 @@ class NovelReader {
     return html;
   }
 
+  formatTerminalPanels(html) {
+    if (!html) return '';
+    if (html.includes('terminal-panel')) {
+      return html.replace(/<div class="terminal-header">[\s\S]*?<\/div>/g, '<div class="terminal-header"><span class="terminal-status-dot">●</span> console.out</div>');
+    }
+
+    return html.replace(/<pre><code(?:\s+class="language-([^"]*)")?>([\s\S]*?)<\/code><\/pre>/gi, (match, lang, codeContent) => {
+      return `<div class="terminal-panel"><div class="terminal-header"><span class="terminal-status-dot">●</span> console.out</div><pre class="terminal-body"><code>${codeContent}</code></pre></div>`;
+    });
+  }
+
   async buildFullVolumePages() {
     const pages = [];
     const fullRes = await fetch(`/api/books/${this.currentBookId}/full`);
@@ -487,7 +498,7 @@ class NovelReader {
         .replace(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/i, '') // remove epigraph quote (already handled)
         .replace(/<hr\s*\/?>/i, '');
 
-      chapterHtml += cleanNarrativeHtml;
+      chapterHtml += this.formatTerminalPanels(cleanNarrativeHtml);
 
       const paginatedPages = window.bookPaginator.paginateHtml(chapterHtml, {
         bookTitle: 'STOLEN BREATH',
@@ -593,7 +604,7 @@ class NovelReader {
       .replace(/<blockquote[^>]*>[\s\S]*?<\/blockquote>/i, '')
       .replace(/<hr\s*\/?>/i, '');
 
-    chapterHtml += cleanNarrativeHtml;
+    chapterHtml += this.formatTerminalPanels(cleanNarrativeHtml);
 
     const paginated = window.bookPaginator.paginateHtml(chapterHtml, {
       bookTitle: 'STOLEN BREATH',

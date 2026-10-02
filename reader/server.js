@@ -3,10 +3,17 @@ const fs = require('fs');
 const path = require('path');
 const { marked } = require('marked');
 
-// Configure marked options
-marked.setOptions({
+// Configure marked options with Biopunk Terminal Renderer
+const terminalRenderer = {
+  code({ text }) {
+    return `<div class="terminal-panel"><div class="terminal-header"><span class="terminal-status-dot">●</span> console.out</div><pre class="terminal-body"><code>${text}</code></pre></div>\n\n`;
+  }
+};
+
+marked.use({
   gfm: true,
-  breaks: true
+  breaks: true,
+  renderer: terminalRenderer
 });
 
 const app = express();
