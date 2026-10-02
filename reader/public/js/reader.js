@@ -395,34 +395,6 @@ class NovelReader {
       </div>
     `);
 
-    // Page 4: TABLE OF CONTENTS (Placeholder, Recto)
-    let tocPlaceholderIndex = pages.length;
-    pages.push(''); // Reserved for TOC spread
-
-    // Page 5: DRAMATIS PERSONAE / WORLD OVERVIEW (Soft, Verso)
-    pages.push(`
-      <div class="page page-verso" data-density="soft">
-        <div class="page-inner">
-          <div class="page-gutter-shadow"></div>
-          <header class="page-header">
-            <span class="header-series">THE STORM-BORN CYCLE // DOSSIER</span>
-          </header>
-          <main class="page-body" style="font-size: 13.5px; line-height: 1.55;">
-            <h2 style="text-align: center; margin-bottom: 14px;">DRAMATIS PERSONAE</h2>
-            <p><strong>Dr. Tsunari Thorne</strong> — Field bio-hacker of Sector 09. Dromaeon spliced with sickle-claw reflexes and sensory syrinx. Keeper of the stolen <em>Lazarus Key</em>.</p>
-            <p style="margin-top: 10px;"><strong>Commander Vram Tyage</strong> — Aeros-Legion 7 Supreme Commander. Simurgh-spliced chimeric warrior with hollow titanium bones, 14-foot primary quills, and a burning 106°F solar furnace.</p>
-            <p style="margin-top: 10px;"><strong>Director Corvus</strong> — Overseer of Eden Dome Alpha Culture Labs and the atmospheric terraforming initiative.</p>
-            <p style="margin-top: 10px;"><strong>The Vaelen</strong> — Extraterrestrial oligarchs occupying the upper mesospheric Spires, methodically siphoning human air.</p>
-          </main>
-          <footer class="page-footer">
-            <span class="page-number">v</span>
-            <span class="footer-fleuron">✦</span>
-            <span></span>
-          </footer>
-        </div>
-      </div>
-    `);
-
     // Page 6+: PAGINATE ALL CHAPTERS (Starting on Page 6, Recto)
     let currentGlobalPage = 1;
 
@@ -491,18 +463,6 @@ class NovelReader {
         <span class="toc-page-num">${m.bookPageNum}</span>
       </li>
     `).join('\n');
-
-    pages[tocPlaceholderIndex] = `
-      <div class="page toc-page page-recto" data-density="soft">
-        <div class="page-inner">
-          <div class="page-gutter-shadow"></div>
-          <h2 class="toc-title">TABLE OF CONTENTS</h2>
-          <ul class="toc-list">
-            ${tocItemsHtml}
-          </ul>
-        </div>
-      </div>
-    `;
 
     // 7. BOOK 2 TEASER / EPILOGUE (Soft)
     pages.push(`

@@ -334,34 +334,6 @@ pre {
   line-height: 1.8;
   margin-top: 4em;
 }
-
-/* Dramatis Personae */
-.dossier-card {
-  margin-bottom: 1.4em;
-}
-
-.dossier-name {
-  font-weight: bold;
-  color: #1a1a1a;
-}
-
-/* Table of Contents */
-nav#toc ol {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-nav#toc li {
-  margin-bottom: 0.8em;
-  border-bottom: 1px dotted #ccc;
-  padding-bottom: 0.3em;
-}
-
-nav#toc a {
-  text-decoration: none;
-  color: #1a1a1a;
-  font-weight: 500;
-}
 `;
 }
 
@@ -449,75 +421,6 @@ function generateTitlePageXHTML() {
 </html>`;
 }
 
-// Generate Dramatis Personae XHTML
-function generateDossierXHTML() {
-  return `<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Dramatis Personae — ${xmlEscape(BOOK_META.title)}</title>
-  <link rel="stylesheet" type="text/css" href="styles/book.css" />
-</head>
-<body epub:type="frontmatter">
-  <section role="doc-prologue" epub:type="prologue">
-    <h2>DRAMATIS PERSONAE</h2>
-    <div class="dossier-card">
-      <span class="dossier-name">Dr. Tsunari Thorne</span> — Field bio-hacker of Sector 09's Gray Ring. Spliced with predatory Dromaeon reflexes, pebbled keratin scutes, and a high-frequency acoustic syrinx. Keeper of the stolen <em>Lazarus Key</em>.
-    </div>
-    <div class="dossier-card">
-      <span class="dossier-name">Commander Vram Tyage</span> — Supreme Commander of Aeros-Legion 7. Simurgh-spliced chimeric supersoldier with hollow titanium-reinforced bones, 14-foot primary quills, and a lethal 106°F internal solar furnace.
-    </div>
-    <div class="dossier-card">
-      <span class="dossier-name">Director Corvus</span> — High Directorate Overseer of Eden Dome Alpha Culture Labs and the planetary terraforming initiative.
-    </div>
-    <div class="dossier-card">
-      <span class="dossier-name">The Vaelen</span> — Extraterrestrial conquerors occupying the upper mesospheric Spires, methodically terraforming Earth's atmosphere for alien biology.
-    </div>
-  </section>
-</body>
-</html>`;
-}
-
-// Generate EPUB3 Navigation Document (toc.xhtml)
-function generateNavXHTML(chapters) {
-  const chapterLinks = chapters.map(c => `
-      <li>
-        <a href="chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml">
-          Chapter ${c.index}: ${xmlEscape(c.title)} <span style="color:#c49a45">(${xmlEscape(c.pov)})</span>
-        </a>
-      </li>
-  `).join('');
-
-  return `<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Table of Contents — ${xmlEscape(BOOK_META.title)}</title>
-  <link rel="stylesheet" type="text/css" href="styles/book.css" />
-</head>
-<body epub:type="frontmatter">
-  <nav role="doc-toc" epub:type="toc" id="toc">
-    <h2>TABLE OF CONTENTS</h2>
-    <ol>
-      <li><a href="titlepage.xhtml">Title Page</a></li>
-      <li><a href="dramatis_personae.xhtml">Dramatis Personae</a></li>
-      ${chapterLinks}
-    </ol>
-  </nav>
-
-  <nav epub:type="landmarks" hidden="hidden">
-    <ol>
-      <li><a epub:type="cover" href="cover.xhtml">Cover</a></li>
-      <li><a epub:type="toc" href="toc.xhtml">Table of Contents</a></li>
-      <li><a epub:type="bodymatter" href="chapters/chapter_01.xhtml">Start of Text</a></li>
-    </ol>
-  </nav>
-</body>
-</html>`;
-}
-
 // Generate EPUB2 NCX (nav.ncx) for backwards compatibility
 function generateNCX(chapters) {
   let playOrder = 1;
@@ -529,22 +432,6 @@ function generateNCX(chapters) {
       <content src="titlepage.xhtml"/>
     </navPoint>
   `);
-
-  navPoints.push(`
-    <navPoint id="np-dossier" playOrder="${playOrder++}">
-      <navLabel><text>Dramatis Personae</text></navLabel>
-      <content src="dramatis_personae.xhtml"/>
-    </navPoint>
-  `);
-
-  chapters.forEach(c => {
-    navPoints.push(`
-    <navPoint id="np-ch${c.index}" playOrder="${playOrder++}">
-      <navLabel><text>Chapter ${c.index}: ${xmlEscape(c.title)} (${xmlEscape(c.pov)})</text></navLabel>
-      <content src="chapters/chapter_${String(c.index).padStart(2, '0')}.xhtml"/>
-    </navPoint>
-    `);
-  });
 
   return `<?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
@@ -565,20 +452,17 @@ function generateNCX(chapters) {
 // Generate OPF Package Document (content.opf)
 function generateOPF(chapters) {
   const manifestItems = [
-    `<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>`,
     `<item id="ncx" href="nav.ncx" media-type="application/x-dtbncx+xml"/>`,
     `<item id="style" href="styles/book.css" media-type="text/css"/>`,
     `<item id="cover-image" href="assets/cover.jpg" media-type="image/jpeg" properties="cover-image"/>`,
     `<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>`,
     `<item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>`,
-    `<item id="dossier" href="dramatis_personae.xhtml" media-type="application/xhtml+xml"/>`
   ];
 
   const spineItems = [
     `<itemref idref="cover" linear="no"/>`,
     `<itemref idref="titlepage"/>`,
     `<itemref idref="dossier"/>`,
-    `<itemref idref="toc"/>`
   ];
 
   chapters.forEach(c => {
@@ -673,7 +557,6 @@ async function buildEPUB() {
   // Cover & Frontmatter XHTML
   zip.file('OEBPS/cover.xhtml', generateCoverXHTML());
   zip.file('OEBPS/titlepage.xhtml', generateTitlePageXHTML());
-  zip.file('OEBPS/dramatis_personae.xhtml', generateDossierXHTML());
 
   // Chapters XHTML
   chapters.forEach(c => {
@@ -682,8 +565,7 @@ async function buildEPUB() {
     zip.file(`OEBPS/chapters/${filename}`, xhtml);
   });
 
-  // Table of Contents & Navigation
-  zip.file('OEBPS/toc.xhtml', generateNavXHTML(chapters));
+  // Navigation
   zip.file('OEBPS/nav.ncx', generateNCX(chapters));
 
   // OPF Package Document
@@ -704,8 +586,6 @@ async function buildEPUB() {
   }
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'cover.xhtml'), generateCoverXHTML());
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'titlepage.xhtml'), generateTitlePageXHTML());
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'dramatis_personae.xhtml'), generateDossierXHTML());
-  fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'toc.xhtml'), generateNavXHTML(chapters));
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'nav.ncx'), generateNCX(chapters));
   fs.writeFileSync(path.join(EPUB_SOURCE_DIR, 'OEBPS', 'content.opf'), generateOPF(chapters));
 

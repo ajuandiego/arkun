@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Storm-Born Cycle — Interactive Novel Reader</title>
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
 </head>
+
 <body data-theme="parchment">
 
   <!-- Top Navigation Header -->
@@ -22,7 +25,8 @@
     <div class="center-controls">
       <!-- Mode Toggle -->
       <div class="mode-toggle">
-        <button id="mode-volume" class="mode-btn active" title="Read entire Volume 1 as a bound book">Full Novel</button>
+        <button id="mode-volume" class="mode-btn active" title="Read entire Volume 1 as a bound book">Full
+          Novel</button>
         <button id="mode-chapter" class="mode-btn" title="Read selected chapter individually">Chapter</button>
       </div>
 
@@ -64,7 +68,8 @@
       </button>
 
       <!-- Download EPUB -->
-      <a href="/api/books/book1/download/epub" class="icon-btn" title="Download EPUB3 Ebook (.epub)" download="A_Spark_in_the_Rust.epub" style="text-decoration: none;">
+      <a href="/api/books/book1/download/epub" class="icon-btn" title="Download EPUB3 Ebook (.epub)"
+        download="A_Spark_in_the_Rust.epub" style="text-decoration: none;">
         <span>📥</span>
       </a>
 
@@ -102,7 +107,8 @@
     </div>
 
     <div class="scrubber-container">
-      <input type="range" id="page-scrubber" class="scrubber-slider" min="0" max="100" value="0" aria-label="Page Scrubber">
+      <input type="range" id="page-scrubber" class="scrubber-slider" min="0" max="100" value="0"
+        aria-label="Page Scrubber">
     </div>
 
     <div class="reading-meta">
@@ -171,4 +177,5 @@
   <script src="/js/paginator.js"></script>
   <script src="/js/reader.js"></script>
 </body>
+
 </html>

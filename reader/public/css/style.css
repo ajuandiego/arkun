@@ -25,7 +25,7 @@
   --font-display: 'Cinzel', Georgia, serif;
   --font-ui: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: 'Fira Code', monospace;
-  
+
   --book-scale: 1;
   --font-size-base: 15.5px;
   --line-height-base: 1.6;
@@ -454,10 +454,10 @@ body {
 }
 
 .page-body p:first-of-type,
-.page-body h1 + p,
-.page-body h2 + p,
-.page-body hr + p,
-.page-body blockquote + p {
+.page-body h1+p,
+.page-body h2+p,
+.page-body hr+p,
+.page-body blockquote+p {
   text-indent: 0;
 }
 
@@ -517,7 +517,8 @@ body {
   font-weight: 700;
 }
 
-.page-body h2, .page-body h3 {
+.page-body h2,
+.page-body h3 {
   font-family: var(--font-display);
   font-size: 16px;
   margin-top: 14px;
@@ -525,14 +526,25 @@ body {
   color: var(--gold-accent);
 }
 
-/* Monospace code / terminal excerpts */
+/* Monospace code / terminal excerpts (Minimalist Inline Stream) */
 .page-body code {
   font-family: var(--font-mono);
-  font-size: 0.85em;
-  background: rgba(0, 0, 0, 0.06);
-  padding: 2px 5px;
-  border-radius: 3px;
+  font-size: 0.88em;
+  background: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
   color: var(--gold-accent);
+  letter-spacing: 0.6px;
+  font-weight: 500;
+}
+
+.page-body p:has(> code),
+.page-body p.terminal-stream {
+  text-indent: 0 !important;
+  text-align: left !important;
+  margin: 12px 0;
+  padding-left: 14px;
+  border-left: 2px solid rgba(196, 154, 69, 0.4);
 }
 
 /* Page Running Footer */
@@ -587,10 +599,10 @@ body {
   width: 100%;
   height: 100%;
   background: linear-gradient(to bottom,
-    rgba(14, 12, 10, 0.5) 0%,
-    rgba(14, 12, 10, 0.1) 40%,
-    rgba(14, 12, 10, 0.3) 70%,
-    rgba(14, 12, 10, 0.85) 100%);
+      rgba(14, 12, 10, 0.5) 0%,
+      rgba(14, 12, 10, 0.1) 40%,
+      rgba(14, 12, 10, 0.3) 70%,
+      rgba(14, 12, 10, 0.85) 100%);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -721,74 +733,6 @@ body {
   color: var(--text-dim);
   line-height: 1.8;
   margin-top: auto;
-}
-
-/* Table of Contents Page */
-.toc-page {
-  padding: 40px 45px;
-}
-
-.toc-title {
-  font-family: var(--font-display);
-  font-size: 20px;
-  text-align: center;
-  letter-spacing: 2px;
-  margin-bottom: 24px;
-  color: var(--text-primary);
-  border-bottom: 1px solid var(--gold-accent);
-  padding-bottom: 10px;
-}
-
-.toc-list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.toc-item {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  cursor: pointer;
-  padding: 4px 6px;
-  border-radius: 4px;
-  transition: background 0.15s;
-}
-
-.toc-item:hover {
-  background: rgba(196, 154, 69, 0.12);
-}
-
-.toc-chapter-name {
-  font-family: var(--font-display);
-  font-size: 12.5px;
-  color: var(--text-primary);
-  font-weight: 600;
-}
-
-.toc-dots {
-  flex: 1;
-  border-bottom: 1px dotted var(--text-dim);
-  margin: 0 10px;
-  opacity: 0.5;
-}
-
-.toc-page-num {
-  font-family: var(--font-display);
-  font-size: 11px;
-  color: var(--gold-accent);
-  font-weight: 600;
-}
-
-.toc-pov-tag {
-  font-family: var(--font-ui);
-  font-size: 9px;
-  padding: 1px 6px;
-  border-radius: 8px;
-  background: rgba(196, 154, 69, 0.15);
-  color: var(--gold-accent);
-  margin-left: 6px;
 }
 
 /* Hardcover Back */
@@ -1061,10 +1005,10 @@ body {
 }
 
 .page-content-measure p:first-of-type,
-.page-content-measure h1 + p,
-.page-content-measure h2 + p,
-.page-content-measure hr + p,
-.page-content-measure blockquote + p,
+.page-content-measure h1+p,
+.page-content-measure h2+p,
+.page-content-measure hr+p,
+.page-content-measure blockquote+p,
 .page-content-measure p.split-para-next {
   text-indent: 0;
 }
