@@ -131,11 +131,11 @@ I have approximately four seconds before he clears the dune and looks down.
 
 I crouch behind the broken edge of the parabolic collector. 
 
-A sharp, voluntary twitch in my left arch triggers the concealed magnetic release in the sole of my scavenger boot.
+My hands drop to my utility harness. With a whisper of oiled leather, I slip my Spire hooks from their quick-draw sheaths, flipping them into a tight reverse grip.
 
-*Snick.*
+*Click.*
 
-Through the hidden split-port in the worn leather, the four-inch curved nanocarbon sickle-claw punches forward on the inner digit of my foot, locking into its rigid strike position with a cold, solid click. 
+Hardened, razor-honed carbon steel, curved like a scythe and balanced for tearing through armor seals.
 
 I take three silent strides across the sand, accelerating from zero to thirty miles per hour in the span of ten feet. 
 
@@ -161,19 +161,17 @@ In that half-second of blindness, I am already airborne.
 
 I hit the sloping face of the sand berm, my legs pumping like pistons. I leap—ten feet into the air—twisting my body horizontally to bypass his rifle barrel. 
 
-My left foot lashes out.
+As I clear his shoulder, my left arm whips around his blind side.
 
-The nanocarbon sickle-claw strikes the articulated hydraulic line behind his knee.
+The curved, razor-honed beak of my Spire hook catches the articulated hydraulic line behind his knee.
 
-The carbon blade, sharpened to a single molecular edge, shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
+I rip backward with all the coiled torque of my Dromaeon fast-twitch muscle. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
 
 I land lightly on the crest of the ridge, my boots digging into the loose earth, absorbing the impact without a wobble. 
 
-I flick my foot. A single drop of hydraulic oil sprays from the dark sickle-claw. With another subtle flex of my inner arch, the magnetic latch releases. 
+I flick my left wrist, snapping a dark bead of hydraulic oil from the curved beak of the hook. With a practiced motion, I slide the weapon back into its hip sheath with a clean, satisfying *snick*. 
 
-*Clack.*
-
-The talon retracts flush into the reinforced hollow of my boot sole. To anyone looking at my footprint in the sand, it will look like nothing more than the heavy, clumsy tread of a standard scavenger work boot.
+To anyone inspecting this ground, there are only two bodies and the heavy, normal tread of my scavenger boots in the sand.
 
 Below me, the two scouts groan in the dark. One is gasping for air as his vented suit slowly suffocates him into unconsciousness; the other is pinned beneath his own ruined pneumatic armor, cursing into a dead radio.
 

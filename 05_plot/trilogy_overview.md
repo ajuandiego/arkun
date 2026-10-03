@@ -23,7 +23,7 @@ graph TD
     end
 
     subgraph B2 ["BOOK 2: CROWN OF SALT"]
-        B2_Plot["The Cleaved Frontier (Salt Flats / Southern Badlands)<br/>Alien Simulacra Revealed • Doc Mercer Betrayal<br/>Decoding Father's Ocean Vector • Vram Captured to Spire Prime"]
+        B2_Plot["The Cleaved Frontier (Salt Flats / Southern Badlands)<br/>Rescuing Vram from the Cult • Alien Simulacra Revealed<br/>Doc Mercer Betrayal • Vram Captured to Spire Prime"]
         B2_Romance["Uncaged Passion • Fierce Consummation<br/>The Agony of Separation (🌶️🌶️🌶️)"]
     end
 
@@ -47,11 +47,10 @@ graph TD
     *   *Religious Demagogues & Enforcers:* The Forger and Commander Malakar (Ember-Prime, wielding his pneumatic rail-flail in an epic duel before vanishing into the deep sumps).
     *   *The Tragic Rival / Redemptive Ally:* Caelia (Ember-Seven / "The Promised Bride")—initially an obsessive, jealous cultist groomed to marry the Deliverer who hates Tsunari, but who ultimately defects and sacrifices everything to save them for simple, imperfect human love.
 *   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium automated drone platforms and wall artillery drop incendiary sweeps from above while Malakar and the Ember Coven breach from the sumps beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.
-*   **Ending State:** Sector 09 secures a temporary sanctuary. Caelia is stabilized and granted freedom among the Gray Sector scouts; Malakar’s whereabouts remain a lurking mystery in the wastes. Vram and Tsunari are united as rogue partners bound by an unvoiced blood compact. In Gideon's vault, Tsunari catches a fleeting glimpse of an anomalous optical quartz disc—the *Ghost Beacon*—bearing her presumed-dead father's distinctive mathematical cipher.
-
+*   **Ending State:** Sector 09 secures a temporary sanctuary, and Vram and Tsunari forge an unbroken bond of love. But in the predawn quiet, surviving zealots of *The Enlightened* pump paralyzing rift-gas into their bunker: **they abduct Vram to crown him as their messiah across the salt desert, leaving Tsunari's shoulder branded with their burning ritual chevron.**
 ### Book 2: *Crown of Salt*
 *   **Core Setting:** The Torrid Kiln, radioactive Salt Flats, Southern badlands, and subterranean rebel networks.
-*   **Primary Conflict:** Expanding the rebellion across the cleaved continent while synthesizing an aerosolized cure. Paranoia rises as corporate leaders and resistance commanders act with inhuman cruelty—revealing the horrifying presence of **Vaelen Simulacra** (extraterrestrial organisms wearing cloned human flesh).
+*   **Primary Conflict:** Tsunari mounts a relentless pursuit across the blistering salt flats to storm the cult's subterranean Cathedral of Salt and liberate Vram. Reunited in a passionate, feral consummation, they expand the rebellion across the cleaved continent while synthesizing an aerosolized cure. Paranoia rises as corporate leaders and resistance commanders act with inhuman cruelty—revealing the horrifying presence of **Vaelen Simulacra** (extraterrestrial organisms wearing cloned human flesh).resence of **Vaelen Simulacra** (extraterrestrial organisms wearing cloned human flesh).
 *   **The Father's Discovery:** Deep in the southern badlands at Arbiter Lyraen's mountain observatory, Tsunari fully decodes the Ghost Beacon disc: her father, Dr. Jeffrey Thorne, did not die in the wastes ten years ago. He navigated the impassable Stygian Ocean and discovered **The Verdant Cradle**—a living, un-poisoned green continent preserved behind a ring of volcanic calderas.
 *   **Key Antagonist:** Weaver-Unit 09 (Doc Mercer unmasked) & the Consortium Director Board.
 *   **Key Ally:** Arbiter Lyraen (dissident leader of the Vaelen Preserver movement).

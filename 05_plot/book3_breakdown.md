@@ -41,7 +41,7 @@
     *   *Core Action:* Archon Xaevis displays the chained Vram before the Vaelen High Council and Consortium oligarchs, announcing that the final atmospheric conversion protocol will commence within hours.
 *   **Chapter 9 (Tsunari): The Hull Walk**
     *   *Setting:* The exterior crystalline surface of Spire Prime.
-    *   *Core Action:* A zero-gravity spacewalk across the city-ship’s exterior. Tsunari uses her nanocarbon pedal sickle-claws to anchor onto the biomechanical hull, bypassing the energy shields during a thermal cycle.
+    *   *Core Action:* A zero-gravity spacewalk across the city-ship’s exterior. Tsunari uses her high-tensile Spire hooks to anchor onto the biomechanical hull, bypassing the energy shields during a thermal cycle.
 *   **Chapter 10 (Vram): Scent in the Vacuum**
     *   *Setting:* The detention bay corridor.
     *   *Core Action:* Even through the filtered environmental atmosphere, Vram’s heightened avian senses catch the faintest trace of desert sage and copper dust. He knows she is on the ship.
@@ -88,7 +88,7 @@
     *   *The Miracle:* The viral cure dissolves his lattice. Seconds later, his cardiac core unleashes a blinding thermal-electric pulse—**The Rebirth**. Vram gasps, his heart restarting with the raw, uninhibited fire of a true solar sovereign.
 *   **Chapter 21 (Dual POV): The Sovereign Execution & The Broken Checkmate**
     *   *Setting:* The shattering throne chamber of Spire Prime.
-    *   *Core Action:* Fighting as a perfectly synchronized battle couple. Vram overclocks The Pyric Crucible, melting through Xaevis’s psionic forcefield, while Tsunari executes an acrobatic leaping strike, her pedal sickle-claws slicing through Xaevis’s primary neural core.
+    *   *Core Action:* Fighting as a perfectly synchronized battle couple. Vram overclocks The Pyric Crucible, melting through Xaevis’s psionic forcefield, while Tsunari executes an acrobatic leaping strike, driving her surgical bodkin and curved Spire hook through Xaevis’s primary neural core.
     *   *The Dying Checkmate:* Sprawled on the floor, Xaevis wheezes with dying malice: *"You fools... you killed me, but you killed yourselves. The soil of this continent is dead silica. Outside the domes, you have no food, and the oceans are boiling death. In two seasons, mankind will starve in its own ashes."*
     *   *The Retort:* Tsunari steps forward, holding up her father's glowing quartz disc: *"We aren't staying in your cages, Archon. We know about the Verdant Cradle."*
 *   **Chapter 22 (Tsunari): Reversing the World & Calming the Seas**

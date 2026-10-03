@@ -42,13 +42,13 @@ And the second one?
 
 I saw the flash of the plasma rifle. I saw the sixty-foot parabolic mirror disintegrate into a blinding geyser of shrapnel. 
 
-Any normal scavenger would have been shredded to ribbons. But she was already mid-leap—a vertical wall-spring off the mirror frame that defied every law of baseline human anatomy, twisting her body in mid-air with the eerie, fluid torque of an acrobat. 
+Any normal scavenger would have been shredded to ribbons. But she was already mid-leap—a vertical wall-spring off the mirror frame that defied every law of baseline human anatomy. 
 
-And then came the kick.
+A baseline soldier’s knees buckle under that kind of concussive force; their ankles roll, their momentum dies. But her body absorbed the impact like wound cable, storing the kinetic punch in those whip-cord thighs and rebounding off the frame at a ninety-degree angle without bleeding off a single knot of speed. 
 
-My enhanced retinas caught the split-second mechanics of it: a minute muscular contraction in her left arch, the faint metallic *snick* of a concealed magnetic latch in the sole of her oversized boot, and the lethal deployment of a four-inch curved carbon sickle-claw from the inner digit of her foot.
+And then the strike.
 
-She sheared a steel-braided hydraulic line with a single, sweeping talon strike. 
+She slipped inside the scout's guard with a blur of speed no baseline could dream of. A blackened, curved steel Spire hook flashed in her hand—reverse-gripped, catching the hydraulic line behind his knee and ripping it open with the brutal, practiced efficiency of a street butcher.
 
 *Dromaeon.* 
 
@@ -150,7 +150,7 @@ The moment her boots hit the sand, she pivots, realizing her initial ambush fail
 
 Now she has only one viable path left: the cracked concrete archway of the ruined solar substation thirty yards away. 
 
-Inside those reinforced walls, the ceiling is barely twelve feet high—too low for my wings to spread, too cramped for aerial maneuvers. Inside, her cursorial agility, her close-quarters blade work, and those lethal pedal sickle-claws give her the tactical advantage.
+Inside those reinforced walls, the ceiling is barely twelve feet high—too low for my wings to spread, too cramped for aerial maneuvers. Inside, her cursorial agility, her close-quarters blade work, and those lethal Spire hooks give her the tactical advantage.
 
 She sprints for the archway. 
 

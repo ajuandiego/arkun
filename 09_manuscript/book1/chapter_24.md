@@ -1,6 +1,6 @@
 # Chapter 24 // Tsunari
 
-> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, retractable pedal sickle-claws, sub-vocal acoustic echolocation, nictitating eye membranes, and cold-blood thermal dampening.
+> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, sub-vocal acoustic echolocation, translucent protective eye membranes, and cold-blood thermal dampening.
 
 ***
 
@@ -20,11 +20,13 @@ It tilts its head ninety degrees—a jerky, terrifying avian twitch—and takes 
 
 Its foot strikes the frozen sand with soundless precision. 
 
-On the inner digit of each clawed foot, a five-inch curved nanocarbon sickle-claw—identical to the ones retracted inside my own scavenger boots—swings upward into its elevated carry position, gleaming like black glass under the moon. Along its muscular flanks and rigid balance-tail, fine pebble-scales bristle, shedding a dusting of frozen red iron powder.
+On the inner digit of each clawed foot, a five-inch curved sickle-claw swings upward into its elevated carry position, gleaming like black glass under the moon. Along its muscular flanks and rigid balance-tail, fine pebble-scales bristle, shedding a dusting of frozen red iron powder.
 
-It is measuring me.
+I watch the alpha sink low into the red dust. I see the heavy tendon cords tighten along its hocks, winding tight like industrial winch cables. 
 
-It calculates the distance, the angle of the container door, the weight of the steel bodkin knife in my left hand. 
+I know that tension. I feel the exact same spring coiling behind my own knees. Because I know the load, I know the release.
+
+It calculates the distance, the angle of the container door, the weight of the steel bodkin knife in my left hand and the hooked Spire blade in my right. 
 
 And then it smells Vram.
 
@@ -98,7 +100,7 @@ I stand over the pinned alpha, my breath coming in ragged, white plumes against 
 
 My hands are steady, but the mathematics are simple.
 
-I have one bodkin knife. I have two sickle-claws. 
+I have one bodkin knife. I have my twin Spire hooks. 
 
 And out in the starlight, eight wild predators are closing the ring.
 

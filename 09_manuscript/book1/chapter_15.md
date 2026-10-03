@@ -47,15 +47,11 @@ I don't scream. I don't plead. In the Gray Ring, fear is just a waste of calorie
 
 I shift my weight onto the balls of my feet, curling my toes inside my scavenger boots.
 
-Under the worn leather of my right sole, my inner arch flexes with a sharp, voluntary spasm. 
-
-The concealed magnetic latch trips with a soft *snick*. 
-
-Through the split-port in my boot leather, the four-inch curved nanocarbon sickle-claw punches forward, locking into its rigid striking position on my inner digit. At the same time, I reverse the grip on my father's five-inch surgical bodkin knife, pressing the cold steel flat against my right forearm.
+My hands drop to my hip rig. In my right hand, I reverse the grip on my father's five-inch surgical bodkin knife, pressing the cold steel flat against my forearm. In my left, I unclip my blackened steel Spire hook, its curved beak balanced for tearing through armor seals.
 
 I know the odds. 
 
-My father’s journals had laid it out in cold, unsparing prose: Vaelen personal armor is woven from hyper-dense crystalline fullerenes bonded at the molecular level. A steel bodkin knife against an Inquisitor's carapace is like throwing a pine needle against a bank vault. Even my nanocarbon sickle-claw, sharpened to a single molecular edge, can only hope to scratch the outer lacquer.
+My father’s journals had laid it out in cold, unsparing prose: Vaelen personal armor is woven from hyper-dense crystalline fullerenes bonded at the molecular level. A steel bodkin knife against an Inquisitor's carapace is like throwing a pine needle against a bank vault. Even the hardened edge of my Spire hook can only hope to scratch the outer lacquer.
 
 The only vulnerability is the acoustic resonator node—the soft, multi-layered bio-membrane situated just beneath the mandibular ridge, where the alien vocal translation matrix connects to its internal nervous cluster.
 
@@ -85,11 +81,11 @@ The heavy ballistic fabric doesn't tear; it instantly dissolves into white ash, 
 
 I slide between its wide-planted, tri-segmented legs, the cold zinc floor scraping through the fabric of my trousers.
 
-I twist my hips in mid-slide, driving my right heel upward in a vicious, vertical strike.
+I twist my torso in mid-slide, whipping my left arm upward in a vicious, sweeping arc.
 
-The nanocarbon sickle-claw hooks into the articulation seam behind the alien's left knee.
+The curved beak of my Spire hook punches into the articulation seam behind the alien's left knee.
 
-The carbon blade bites into the dense, rubbery connective tissue beneath the chitin plates. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my boot. 
+I wrench the handle with both hands, leveraging the full coiled torque of my Dromaeon sinew. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
 
 The Inquisitor emits a high-pitched, shrieking harmonic pulse as its left knee collapses. 
 

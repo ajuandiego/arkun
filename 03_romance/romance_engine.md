@@ -6,7 +6,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 *   **The Polar Dynamics (Fire & Shadow):**
     *   **Vram (The Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
-    *   **Tsunari (The Dromaeon Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, pedal sickle-claws, and a rare *Null-Resonance* grounding frequency.
+    *   **Tsunari (The Dromaeon Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, twin Spire hooks, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
     *   When Tsunari touches Vram, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
     *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.

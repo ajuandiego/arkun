@@ -17,7 +17,8 @@
 *   **Face & Features:** Striking, captivating feminine beauty with noticeable East-Asian heritage in her eyes and sculpted bone structure; high cheekbones and delicate, defined jawline; normal rounded human ears (no elf ears); almond-shaped eyes with elegant epicanthic folds, holding a sharp, predatory amber-chartreuse gaze with subtle horizontal reptilian slit pupils and a translucent nictitating membrane. Wears a pair of scavenged, amber-tinted industrial optics/goggles around her neck or over her eyes to disguise her slit pupils as light-sensitive welder's optics. Long raven-dark hair secured in a high braided warrior bun, transfixed horizontally by a small, razor-sharp steel bodkin knife (serving simultaneously as hair pin, rapid-defense dagger, and improvised electronic lock-picker).
 *   **Signature Attire & Field Concealment:** Dressed for the sweltering wasteland heat in a **high-collared, strictly sleeveless** tactical combat tunic of weathered charcoal and slate-drab, tailored snugly over her torso and tucked into dark, reinforced combat trousers. The garment's stiff, upright high collar and wrapped linen neck gaiter completely conceal her throat—**hiding the smooth, unblemished skin and the dangerous absence of titanium cervical siphons** (in Sector 09, an un-collared chimera is marked for immediate vivisection). While her neck is securely shielded, the top is **strictly sleeveless**, leaving her toned, athletic shoulders and lean muscular arms bare for unrestricted kinetic climbing and high-velocity sprinting. Lower down, wrapped leather mechanic's bracers mask the fine pebbled reptilian scales along her inner forearms, while ballistic leggings cover her shin scutes. Across her chest rests a minimalist leather harness bearing diagnostic glass ampoules and lockpicks, with bare, ungloved hands showing natural, unmutated human fingernails.
 *   **Chimeric / Bio-Traits (The Dromaeon Lineage):**
-    *   **The Pedal Sickle-Claws & Quick-Release Boots:** Four-to-six-inch curved nanocarbon sickle-talons on the inner digits of her feet. In civilian mode, they remain completely retracted flush against her soles inside customized, oversized scavenger combat boots with hollow toe-boxes. Only when leaping or in lethal close combat does a flex of her foot tendon trigger a concealed magnetic sole latch, allowing the sickle-talons to punch forward through hidden split-ports in the leather.
+    *   **The Spire Hooks & Vertical Scavenger Rig:** Her signature tools and lethal weapons—a matched pair of curved, blackened spring-steel Spire hooks worn in quick-draw hip sheaths on her climbing harness. Originally engineered for scaling thousand-foot elevator flues, crane cables, and sheer bulkheads, she wields them in reverse grip with lethal martial finesse—hooking armor seams, arresting falls, and severing hydraulic lines.
+    *   **Hyper-Kinetic Tendon Torque (The Bio-Catapult):** Her dense tendon architecture compresses like loaded spring steel under gravitational impact, absorbing bone-jarring drops and instantaneously redirecting vertical momentum into explosive horizontal bursts, acrobatic wall-rebounds, and high-impact whip-strikes.
     *   **Subtle Dermal Scale Pattern:** Fine, smooth pebbled scales along her calves, shins, and forearm undersides, resembling intricate slate-gray geometric textures.
     *   **Sub-Vocal Acoustic Syrinx:** Capable of producing rapid, sub-vocal hunting clicks and chirps used to echolocate through pitch-black subterranean ruins.
 *   **Sensory Scent / Presence:** Copper dust, bitter desert ozone, cool desert sage, and the faint, sweet musk of reptilian predator pheromones.
@@ -40,7 +41,7 @@ When Tsunari was 17 (in Year 31 AS), her father, Dr. Jeffrey Thorne—an elite g
 
 ## 4. The Female Biotype (Dromaeon-Augmented) & Natural Skillset
 *   **Predictive Calculating Problem-Solving:** Instinctive spatial geometry. In high-stress combat, she maps enemy vectors, structural failure points, reload intervals, and escape trajectories in fractions of a second.
-*   **Acrobatic Kinetic Agility:** Low-gravity jumping torque, silent stalking footwork, and the ability to sprint vertically up concrete pillars or cling to rafters to drop silently onto prey.
+*   **Hyper-Kinetic Elasticity & Acrobatic Agility:** Low-gravity jumping torque, impact-absorption suspension, silent stalking footwork, and the ability to sprint vertically up concrete pillars or rebound off bulkheads to strike from unexpected angles.
 *   **The Null-Resonance Grounding:** Her unique epigenetic baseline acts as an organic electromagnetic dead-zone, cloaking her thermal and electronic signature from alien tracking grids.
 *   **Common-Sense Realism:** Zero tolerance for ideological posturing or theatrical heroics. She attacks from the shadows, exploits every environmental advantage, and fights with cold, lethal economy.
 
@@ -48,7 +49,7 @@ When Tsunari was 17 (in Year 31 AS), her father, Dr. Jeffrey Thorne—an elite g
 
 ## 5. Skills, Abilities & Quirks
 *   **Neural & Genetic Decryption:** A prodigy at reverse-engineering hybrid alien-terrestrial bioware and DNA encryption.
-*   **Asymmetric Close-Quarters Combat:** Master of paired combat knives, poisoned flechettes, and devastating leaping sickle-claw strikes.
+*   **Asymmetric Close-Quarters Combat:** Master of her signature "Hook & Bodkin" style (pairing her father's straight surgical bodkin knife with her curved Spire hooks), poisoned flechettes, and high-velocity acrobatic takedowns.
 *   **Habitual Quirks:**
     *   Emits faint, rapid sub-vocal throat clicks when concentrating or calculating odds.
     *   Tilts her head sideways with focused, predatory intensity when analyzing a person's micro-expressions.
@@ -62,7 +63,7 @@ The Arkun formula applied to Tsunari Thorne:
 $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{Arkun}$$
 
 *   **The Mosaic Keystone Genotype:**
-    *   **Primary Expressed Phenotype (100% Mutation D: Dromaeon):** Hyper-accelerated fast-twitch muscle fibers, pedal sickle-claws, acoustic echolocation, nictitating membranes, and cold-blood thermal dampening. Visually and physically, she is purely a Scythe-Stalker.
+    *   **Primary Expressed Phenotype (100% Mutation D: Dromaeon):** Hyper-accelerated fast-twitch muscle fibers, sub-vocal acoustic echolocation, translucent protective second eyelids, and cold-blood thermal dampening. Visually and physically, she possesses the explosive burst speed, predatory senses, and balance of an apex cursorial stalker without disfiguring foot mutations.
     *   **Dormant Regulatory Matrix (The Keystone Adapter):** Non-coding regulatory receptor loci of the other four ancient lineages (**Mutation G: Gryphon, Mutation L: Lindwurm, Mutation S: Simurgh, Mutation F: Fenris**). 
     *   **The Universal Ground Wire:** Because she carries the harmonized genetic receptors of all five strains, her **Null-Resonance** acts as a universal adapter. Her touch can ground Vram's Simurgh solar fever, stabilize Boran's Lindwurm armor, and heal leashed soldiers across any strain without immunological rejection.
 *   **True Character / Core Psychological Drive:**

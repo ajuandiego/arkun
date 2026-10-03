@@ -43,7 +43,7 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
         *   *Sgt. Veda Frost (Screech):* Harpy/Dromaeon close-quarters shock vanguard.
         *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent, sharp-tongued skirmisher and squad morale anchor (The "Ridoc" archetype).
         *   *Spc. Tobin "Toby" Vance (Kestrel):* Chivalrous, gentle Simurgh scout and optical quartz whittler (The "Liam Mairi" archetype).
-    2.  **The Dromaeon Stalkers (Scythe-Stalker Strain):** Lightweight, hyper-agile hunter-killers equipped with pedal sickle-claws, deployed for tracking insurgents and executing high-speed urban ambushes.
+    2.  **The Dromaeon Stalkers (Scythe-Stalker Strain):** Lightweight, hyper-agile hunter-killers built for 50+ mph burst velocity, acoustic echolocation, and vicious close-quarters ambushes.
     3.  **The Lindwurm Bastions (Earth-Bulwark Strain):** Massive, stone-armored heavy shock infantry used for breaching fortified rebel vaults and repelling toxic atmospheric storms. Exemplified by veteran heavy breachers like **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
     4.  **The Fenris Shock-Cohorts (Terrestrial Vanguard Strain):** Brutal, close-quarters vanguard fighters with enhanced olfaction and crushing jaw/claw torque.
 *   **Inter-Strain Rivalries:** Aerial Gryphons look down upon the "dirt-bound" Dromaeons and Fenris units, while Lindwurm heavy tanks regard Gryphon pilots as fragile, arrogant prima donnas. (Vividly seen in the combat banter between Boran the Lindwurm and Ferrin Calder).

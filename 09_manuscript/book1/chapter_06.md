@@ -90,7 +90,7 @@ My heavy thighs bracket her lithe, muscular hips, pinning her beneath two hundre
 
 Beneath the leather of my flight trousers, a sudden, illicit jolt of raw heat hits my groin—a sharp, involuntary surge of primal desire that shocks my military discipline to its core. 
 
-*Focus, soldier.* The conditioning screams against the quiet of my skull. *She's an unregistered Gray Sector insurgent with blood on her claws, not a woman in your quarters. She's a thief. A traitor.*
+*Focus, soldier.* The conditioning screams against the quiet of my skull. *She's an unregistered Gray Sector insurgent with blood on her blades, not a woman in your quarters. She's a thief. A traitor.*
 
 Yet looking down into those blazing amber eyes, at the delicate arch of her throat and the bruised softness of her mouth beneath the mask, my pulse hammers with a hunger that terrifies me far more than any execution order.
 

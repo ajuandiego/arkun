@@ -74,11 +74,11 @@ My second-in-command is thirty-two years old, which in Aeros-Legion makes him an
 
 I glance down at my own wingtips. 
 
-He's right, of course. Ninety-five percent of the aerial cohorts are spliced from the **Gryphon** lineage—sturdy, slate-quilled, disciplined workhorses bred for long-range surveillance and high-altitude endurance. They are the backbone of the sky. 
+He's right, of course. Almost everyone in the legion carries **Gryphon** blood—sturdy, slate-quilled workhorses built for brutal crosswinds and endless patrols. They’re the backbone of the sky. 
 
-The **Simurgh** lineage was Apex Bio’s volatile solar prototype—a high-risk, hyper-thermic experiment that nearly bankrupt the genetics division. There are barely four of us alive in the active wings. We were engineered for explosive kinetic devastation and rapid cellular regeneration: our flight feathers molt and knit overnight, our lacerations smoke and knit closed within minutes, and our hearts carry an automatic cardiac defibrillation pulse that can restart our core if we flatline under severe G-force shock. 
+The **Simurghs** were different. We were the Directorate’s wild, fire-blooded gamble—a freak strain that almost killed everyone in the vats. There are barely four of us left in the active wings. We fly faster, hit harder, and heal almost before the blood can pool. Even if our hearts give out in a crushing dive, our chest jolts itself back to life. 
 
-But that solar fire comes at a catastrophic cost. We burn six thousand calories a day just to keep our organs from consuming themselves, and the hotter the internal furnace burns, the faster the Silver Spine cooks the cerebral cortex. 
+But that fire comes at a brutal price. We have to eat constantly just to keep from burning up from the inside out, and the hotter the furnace runs, the faster the leash in our neck cooks the brain. 
 
 Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
 

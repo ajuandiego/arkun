@@ -67,17 +67,15 @@ The speed is monstrous. She does not move like a baseline human; she accelerates
 
 Her left hook-blade sweeps down in an executioner's arc, aimed straight at my collarbone.
 
-I pivot on the ball of my left foot, slipping beneath the strike with millimeter precision. The rebar blade grazes my leather vest, the heat of the metal searing the fabric with the smell of scorched hide. As she overextends, I drive the heel of my boot upward in a brutal, snap-kick counter.
-
-The carbon sickle-claw in my boot toe deploys with an acoustic click, burying itself two inches deep into her right thigh.
+I pivot on the ball of my left foot, slipping beneath the strike with millimeter precision. The rebar blade grazes my leather vest, the heat of the metal searing the fabric with the smell of scorched hide. As she overextends, I counter inside her reach. My left hand whips forward, the curved beak of my Spire hook burying itself two inches deep into her right thigh.
 
 Any normal human would have collapsed in agony, their femoral muscle severed. 
 
 Caelia doesn't even grunt. 
 
-Her nervous system, deadened by the ritual brands and overwhelmed by whatever foul drug courses through her blood, registers zero pain. Instead of retreating, she twists her torso around my trapped leg, laughing through bloody teeth, and brings her right blade down in a vicious backhand strike aimed at my face.
+Her nervous system, deadened by the ritual brands and overwhelmed by whatever foul drug courses through her blood, registers zero pain. Instead of retreating, she twists her torso around the strike, laughing through bloody teeth, and brings her right blade down in a vicious backhand strike aimed at my face.
 
-I yank my leg back, tearing the claw free of her flesh, and throw my arm up to block.
+I wrench the hook free of her flesh and throw my arm up to block.
 
 The heated rebar catches the steel reinforcement plate of my forearm bracer with a shower of orange sparks. The sheer kinetic force behind her strike drives me back three paces, my boots skidding across the slick sulfur slime. The rebar's hooked tip skips off the metal and catches the edge of my jaw, opening a hot, shallow furrow along my lower lip.
 

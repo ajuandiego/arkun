@@ -46,7 +46,7 @@ He turns and marches his machinists toward the lower culverts, his heavy boots s
 
 That leaves Tsunari and me on the central threshold.
 
-She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. In her right boot, the carbon sickle-claw snaps out with a crisp, predatory click, then smoothly retracts into its concealed housing. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
+She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. At her hips, she checks the release catches of her twin Spire hooks, the curved black blades seating into their sheaths with a crisp, oiled click. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
 
 She looks at me, her golden slit pupils steady and cool.
 

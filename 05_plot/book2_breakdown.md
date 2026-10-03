@@ -8,26 +8,27 @@
 
 ---
 
-### PART I: THE SCATTERED SPARK (Chapters 1–6)
+### PART I: THE HUNT ACROSS THE SALT (Chapters 1–6)
 
-*   **Chapter 1 (Vram): Guerrilla Skies**
-    *   *Setting:* The upper troposphere above the Gray Sector.
-    *   *Core Action:* Vram and Aeros-Legion 7 execute lightning aerial strikes against Consortium biometric convoys, hijacking raw biochemical precursors required for Tsunari's research.
-*   **Chapter 2 (Tsunari): The Living Ledger**
-    *   *Setting:* The Glass Vault laboratory.
-    *   *Core Action:* Tsunari, Gideon Cross, and fourteen-year-old Ren analyze the *Lazarus Key*. They discover that scaling the cure to an aerosolized global inoculant requires a rare catalyst—the *Star-Chrysalis Enzyme*—held in the deep southern wasteland.
-*   **Chapter 3 (Vram): The Whisper from the Stars**
-    *   *Setting:* The radio array of the Glass Vault.
-    *   *Core Action:* Vram intercepts a high-frequency tight-beam transmission from orbit: **Arbiter Lyraen**, leader of the dissident Vaelen Preservers, offering a covert coordinates drop in the Torrid Kiln.
-*   **Chapter 4 (Tsunari): The Southern Call**
-    *   *Setting:* The briefing hall of Sector 09.
-    *   *Core Action:* Tsunari makes contact with her estranged mentor, **Doc Mercer**, who claims his southern rebel cell in the Salt Flats has the laboratory equipment to synthesize the global batch.
-*   **Chapter 5 (Vram): Hangar Shadows**
-    *   *Setting:* The secluded flight bay.
-    *   *Romance Beat (🌶️🌶️):* Quiet, charged intimacy on the eve of their march. Vram confesses his recurring nightmare of the alien lattice wiping his memory clean of her face. Tsunari promises that as long as she breathes, he will never be alone in the dark.
-*   **Chapter 6 (Dual POV): The Long March**
-    *   *Setting:* Crossing the frontier into the unshielded wastelands.
-    *   *Core Action:* Aeros-Legion 7 provides high-altitude air cover while Tsunari and the ground convoy venture into the extreme terrain of the Torrid Kiln.
+*   **Chapter 1 (Tsunari): The Ash & The Scar**
+    *   *Setting:* The lower vault of Sector 09 & the Bio-Curator infirmary.
+    *   *Core Action:* Tsunari wakes with the fresh, weeping chevron branded into her shoulder. Gideon cleans the wound, confirming it is the ritual sigil of Sister Maeva's surviving coven (*The Enlightened*). Realizing the zealots took Vram south across the Torrid Kiln to perform their "Crowning of Salt," Tsunari mobilizes Ferrin Calder, Lieutenant Veda, and young Ren to mount a ruthless search-and-rescue pursuit into the unshielded wasteland.
+*   **Chapter 2 (Vram): The Chained Deliverer**
+    *   *Setting:* An armored cult pilgrimage crawler crossing the radioactive Salt Flats.
+    *   *Core Action:* Vram wakes bound in heavy bronze-alloy clamps and conductive grounding wire. Sister Maeva kneels before him, chanting the *Liturgy of the Slag*, treating him as their prophesied living god. She attempts to force-feed him catalytic rift fluid to trigger his uninhibited solar ascension. Vram bites his tongue to bloody awareness, fighting off the incense fog, vowing to reduce the cult to ash if they harmed Tsunari.
+*   **Chapter 3 (Tsunari): Into the Kiln**
+    *   *Setting:* The northern rim of the Torrid Kiln.
+    *   *Core Action:* High-speed tracking. Guided by sulfur residue and heavy tread tracks, Tsunari leads her rogue squad through caustic geysers and fields of silica-lotus. When an ambush of feral Dromaeon pack-hunters attacks, Tsunari utilizes sub-vocal acoustic clicks and dominant predatory instinct to assert alpha command, turning the wild beasts into perimeter scouts.
+*   **Chapter 4 (Vram): The Cathedral of Salt**
+    *   *Setting:* A colossal subterranean cavern beneath the dry salt lake.
+    *   *Core Action:* Maeva presents Vram to Commander Malakar and hundreds of branded cultists. They prepare the master ritual: sacrificing Vram's Simurgh heart-blood into the continental rift vent to summon the alien Archons across the sea. Vram channels his furnace internally, quietly melting the structural rivets of his bronze shackles while biding his time.
+*   **Chapter 5 (Tsunari): Breaching the Altar**
+    *   *Setting:* The perimeter of the Cathedral of Salt.
+    *   *Core Action:* Tsunari, Ferrin, and the scouts infiltrate the subterranean complex through sulfur drainage vents. Silent blade-work and coordinated sniper fire eliminate the outer guards. Tsunari spots Vram shackled atop the basalt altar under the sickly emerald glow of the rift pool.
+*   **Chapter 6 (Dual POV): The Sovereign Reunion (🌶️🌶️🌶️)**
+    *   *Setting:* The shattered basalt altar & a secluded geothermal haven.
+    *   *Core Action:* Tsunari drops from the ceiling, severing Vram's remaining bonds. United in combat, their combined fire and shadow annihilate the cult leadership: Malakar is crushed, Maeva is driven screaming into the deep abyss.
+    *   *Romance Beat:* In a secluded subterranean hot spring away from the battlefield, the emotional dam breaks. Furious, terrified, and overwhelmed with relief, Tsunari confronts him; Vram sees the blackened brand on her shoulder and breaks down in raw agony and fierce devotion. The slow-burn tension explodes into their first uninhibited, passionate consummation—sealing their souls in complete physical and emotional unity.
 
 ---
 

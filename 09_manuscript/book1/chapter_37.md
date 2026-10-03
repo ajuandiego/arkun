@@ -94,7 +94,7 @@ I stare at the light on the ceiling, my vision blurring with sudden, scalding te
 
 *He didn't curse me.*
 
-For ten years, every time I extended my sickle claws, every time I felt the cold, unfeeling chill of my reptilian blood, I felt the bitter sting of being an afterthought—a broken scrap tossed into the dirt while Sora was kept clean and safe in the towers.
+For ten years, every time I scaled a dead elevator flue with my hooks, every time I felt the cold, unfeeling chill of my reptilian blood, I felt the bitter sting of being an afterthought—a broken scrap tossed into the dirt while Sora was kept clean and safe in the towers.
 
 He hadn't discarded me. 
 

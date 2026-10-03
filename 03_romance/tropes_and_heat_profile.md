@@ -41,7 +41,7 @@
 *   **The Progression:**
     *   *Weaponized Friction (Act I):* Knife edge pressed against breastbone; breath mingling over an interrogation bench; cold hostility masking visceral sensory shock.
     *   *The Inciting Touch (Act I):* The violent shock of silence when her bare palm touches his exposed neural collar, short-circuiting his aggression.
-    *   *Bio-Decontamination (Act II):* Stripping down in the narrow emergency pod to scour caustic propellant from skin—raw visual inspection of scars, chimeric feather shafts, and sickle-claw pedal tendons.
+    *   *Bio-Decontamination (Act II):* Stripping down in the narrow emergency pod to scour caustic propellant from skin—raw visual inspection of scars, chimeric feather shafts, and fine reptilian scale textures.
     *   *The Fever Delirium (Act II):* Vram in severe lattice seizure; Tsunari pinning his massive frame to the cot, holding his skull against her chest to cool his core while his hands knot into her duster, gasping her name in raw delirium.
     *   *The Near-Kiss / The Standoff (Act III):* In the shadowy bunker during an artillery siege, pressed chest-to-chest against cold ferro-concrete. Lips millimeters apart, breathing each other's air, electricity crackling—stopped only by the incoming shriek of an orbital missile strike.
     *   *The Climax Compact:* In the quiet rubble of Sector 09, hands clasping in blood and ash. A covenant of absolute equals, withholding full physical surrender until the world burning around them is broken.

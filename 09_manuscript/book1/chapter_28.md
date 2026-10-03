@@ -30,7 +30,7 @@ Leaning against his leg is a six-foot pneumatic demolition hammer, its hardened 
 
 Boran Vael-Korr turns his flinty gaze upon us. 
 
-His eyes sweep over Tsunari first, lingering on her low center of gravity, her sickle-claw boots, and the tense, fluid readiness in her posture. A low, appreciative grunt rumbles in his throat.
+His eyes sweep over Tsunari first, lingering on her low center of gravity, the twin Spire hooks holstered at her hips, and the tense, fluid readiness in her posture. A low, appreciative grunt rumbles in his throat.
 
 "Dromaeon blood," he murmurs. "Fast. Sharp. Good teeth."
 

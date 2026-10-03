@@ -35,7 +35,7 @@ In thirty-eight minutes, the automated navigation system will guide this armored
 
 Director Elena Corvus will be waiting on the receiving dock in her pristine white uniform, surrounded by a dozen heavy Iron Division enforcers with pneumatic suppression nets and neuro-electric staves. 
 
-They will vent cryogenic gas into the cargo bay to put the captive under. They will drag her onto a stainless-steel gurney, strip away her sleeveless tunic and her scavenger boots, and discover the four-inch nanocarbon sickle-claws deployed from her soles. 
+They will vent cryogenic gas into the cargo bay to put the captive under. They will drag her onto a stainless-steel gurney, strip away her sleeveless tunic, and unbuckle the matched pair of blackened Spire hooks holstered at her hips. 
 
 And then Corvus will peel away that linen neck gaiter.
 

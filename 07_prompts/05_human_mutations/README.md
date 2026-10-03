@@ -32,13 +32,13 @@ Each prompt in this directory follows a strict comparative format:
 *   **Both Male and Female figures** are illustrated on the same manuscript page in a dual Vitruvian layout.
 *   The **left side** depicts the subject in the **Resting State** (relaxed posture, retracted bio-traits, subtle tells).
 *   The **right side** depicts the subject in the **Enhanced State** (dynamic combat stance, fully deployed claws/talons/wings, flared threat displays, glowing vascular tracks).
-*   **Technical insets** detail the specific mechanical transitions (e.g., the tendon pulley of a sickle claw, the heat output of capillary veins, or the interlocking of stone dermal plates).
+*   **Technical insets** detail the specific mechanical transitions (e.g., weapon strike angles, the heat output of capillary veins, or the interlocking of stone dermal plates).
 
 ---
 
 ## 3. Directory Codex Files
 
-1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker: Pedal sickle-claws, reptilian pebbled scales, nictitating membranes, acoustic syrinx.
+1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker: Spire hooks, burst sprinting velocity, reptilian pebbled scales, protective second eyelids, acoustic syrinx.
 2.  [02_simurgh_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/02_simurgh_mutation.md) — The Solar Sovereign: 106°F capillary furnace, bristling obsidian-gold plumage, pyric talons, cardiac rebirth node.
 3.  [03_gryphon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/03_gryphon_mutation.md) — The Sky-Lord: 14-foot functional feathered wings, honeycomb hollow bones, tetrachromatic vision, aerial talons.
 4.  [04_fenris_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/04_fenris_mutation.md) — The Pack Titan: Jaw bite-torque hypertrophy, sabre canines, olfactory sinus expansion, keratin knuckle strike-plates.

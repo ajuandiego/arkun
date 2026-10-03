@@ -35,15 +35,15 @@ One pace. Two paces.
 
 I reach the prophet. 
 
-I plant my left foot on the deck and pivot my entire torso, channeling forty pounds of coiled torque into my right leg. The carbon sickle-claw in the toe of my combat boot deploys with a sharp, acoustic click, sweeping upward in a vicious, executioner's roundhouse kick.
+With a blur of movement, my right hand draws my Spire hook from my hip. Channeling forty pounds of coiled torque through my torso and shoulders, I sweep the curved, hardened blade upward in a vicious, executioner's arc.
 
 The phase-stutter collapses with a concussive snap of displaced air.
 
 The world snaps back into full, deafening velocity.
 
-My sickle-claw strikes the iron staff just below the emitter nozzle. The sharpened carbon blade slices through the hollow steel tube like a razor through bamboo, shearing the weapon in two in a blinding shower of sparks and dead current.
+The beak of my Spire hook strikes the iron staff just below the emitter nozzle. The hardened steel shears through the hollow tube like a razor through bamboo, cutting the weapon in two in a blinding shower of sparks and dead current.
 
-The follow-through of my boot catches the side of The Forger’s bronze welding helmet.
+With the same fluid momentum, I drive the heavy pommel of the hook into the side of The Forger’s bronze welding helmet.
 
 The impact tears the heavy metal mask from its mounting bolts, sending it spinning into the abyss below.
 

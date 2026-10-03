@@ -230,15 +230,17 @@ The toxic desert air hits me like a furnace blast—110 degrees of dry, copper-t
 
 I vault out onto the narrow maintenance gantry, twenty feet above the sand dunes of the Photovoltaic Graveyard. 
 
-I flex my toes inside my boots. 
+I reach down to the quick-release loops at my harness, drawing my twin Spire hooks into a reverse grip. 
 
-A sharp, voluntary muscle twitch in my left arch triggers the concealed magnetic release in the sole. 
+*Click.* 
 
-*Snick.* 
+Forged from blackened spring steel with curved, razor-honed inner edges, they are the indispensable tools of every Spire scavenger who ever survived scaling a thousand-foot elevator flue—and the deadliest weapons an Undercity rogue could carry.
 
-Through the hidden split-ports in the weathered leather, my four-inch curved nanocarbon sickle-claws punch forward on the inner digits of my feet, locking into place with a subtle metallic ring. 
+I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, the tendons behind my knees compress like heavy spring steel, soaking up the impact before the shock can touch my spine. 
 
-I hit the rusted gantry rail, my pedal claws gouging deep into the iron, absorbing the shock of the drop without making a sound. 
+*“Don’t fight the drop, Tsune,”* my father’s voice whispers from the dark of memory. *“A baseline fights the weight. A predator catches it and throws it back.”*
+
+I don't roll; I don't brake. I let that stored pressure uncoil in a single, violent snap, launching me forward into a silent dead sprint before the dust of my landing has even settled. 
 
 High above me, tearing through the low copper cloud deck, comes a sound that makes every hair on my arms stand straight up.
 

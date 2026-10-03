@@ -164,7 +164,7 @@ The world goes dead silent.
 
 The wind howls across the roof, whipping the hem of my coat.
 
-Ten years ago, my father gave me the claws to survive the dirt, and he gave Sora the mind to survive the towers. I promised him I would keep her safe. I spent a decade believing she was fed, sheltered, and happy, while I bled in the sewers.
+Ten years ago, my father gave me the teeth and speed to survive the dirt, and he gave Sora the mind to survive the towers. I promised him I would keep her safe. I spent a decade believing she was fed, sheltered, and happy, while I bled in the sewers.
 
 She isn't safe. She is trapped in an execution chamber with a glass roof.
 
@@ -186,7 +186,7 @@ We are no longer two ghosts fleeing across the dunes.
 
 We are a legion.
 
-I reach down to my boot, feeling the carbon sickle-claw snap out with a crisp, predatory click, before sliding back into the leather. 
+I reach down to my harness, feeling the release catch of my Spire hook snap with a crisp, oiled click, before seating it back into its sheath. 
 
 I take Vram’s hand, my fingers lacing through his, and turn our faces toward the northern horizon where the towers of Eden Alpha gleam in the dawn.
 
@@ -194,10 +194,58 @@ I take Vram’s hand, my fingers lacing through his, and turn our faces toward t
 
 ***
 
+### Tsunari
+
+I wake to the smell of burned meat.
+
+My head is spinning, heavy and dull, my tongue coated in a thick, metallic bitterness. 
+
+I reach across the blankets, searching for that roaring warmth that kept the cold away all night.
+
+My hand hits frozen canvas.
+
+The space beside me is empty. The wool is ice.
+
+"Vram?"
+
+The dark stone room swallows the whisper whole. 
+
+Then the pain hits.
+
+A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My fingers fly to my collarbone.
+
+Raw. Charred. Blistered and weeping, still hot beneath my fingertips.
+
+I stumble out of the cot, crashing against the iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
+
+Burned deep into the flesh of my shoulder, raw and blackened, is a fresh, weeping brand.
+
+The interlocking chevron. 
+
+My breath catches in my throat.
+
+I spin toward the doorway. The heavy steel door is hanging open, swinging faintly in the draft from the dark hallway outside. 
+
+His boots are gone. His flight harness is gone. 
+
+No sound. No struggle. Nothing.
+
+Just an empty room, a door swinging in the freezing wind, and a fire burning into my bone.
+
+*Vram.*
+
+I press my hand against the burn, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
+
+My fingers find the hilt of my Spire hook on the table, the cold, blackened steel biting into my palm.
+
+"I'm coming," I whisper into the empty dark.
+
+***
+
 ```console
 ============================================================
               END OF BOOK 1: STOLEN BREATH
                THE ARKUN CYCLE CONTINUES IN
-                    BOOK 2: HOLLOW CAGE
+                   BOOK 2: CROWN OF SALT
 ============================================================
 ```

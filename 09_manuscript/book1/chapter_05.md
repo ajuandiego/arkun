@@ -111,13 +111,7 @@ He strides forward through the floating dust, his molten eyes locked onto me, hi
 
 "Then let's see how you like the sting," I whisper.
 
-Underneath my boots, my toes contract.
-
-A sharp, voluntary spasm in my left arch trips the magnetic release.
-
-*Snick.*
-
-Through the hidden split-port in the worn leather of my scavenger boot, the four-inch curved nanocarbon sickle-claw punches forward on the inner digit of my foot, locking into its rigid strike position with a cold, solid click.
+Underneath my leather harness, my left hand drops to my hip. With a silent flick of my thumb, the second Spire hook snaps free of its spring sheath into a reverse grip.
 
 I feign a stagger to the right, letting my shoulders drop as if my ribs are cracked and my balance is broken. 
 
@@ -125,17 +119,17 @@ He takes the bait.
 
 He closes the distance in a single, thunderous stride, his right hand shooting forward to pin my throat against the buckled breaker panel.
 
-I drop flat onto my back.
+I don't try to brace against his mass. You don't fight a falling mountain.
 
-I slide between his wide-planted boots, the cold concrete scraping through my combat trousers, and drive my left heel straight up into the air in a vicious, vertical bicycle-kick.
+I drop flat, catching the kinetic rush of his charge, and let my core compress like a loaded catapult. With a sharp, elastic snap, I slide between his wide-planted boots with Dromaeon burst velocity, the cold dust scraping through my combat trousers, and whip my left arm upward in a vicious, sweeping arc.
 
-The nanocarbon sickle-claw arcs toward his groin, aiming to sever his femoral artery.
+The curved beak of the Spire hook sweeps toward his unarmored inner thigh, aiming to sever his femoral artery.
 
 He reacts with supersonic, transgenic reflexes.
 
-He twists his hips in mid-air, bringing his right knee up to check the strike. The carbon claw doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon on titanium fills the room, throwing a shower of bright blue sparks across the floor.
+He twists his hips in mid-air, bringing his right knee down to check the strike. The hardened hook doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon steel on titanium fills the room, throwing a shower of bright blue sparks across the floor.
 
-Before my foot can retract, his hand snaps shut around my ankle.
+Before I can wrench the hook free, his heavy gauntlet snaps shut around my left wrist.
 
 His grip is an iron shackle.
 
@@ -193,7 +187,7 @@ If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Ke
 
 *No.*
 
-I don't try to reach for the dropped bodkin knife. I don't try to kick with the sickle-claw.
+I don't try to reach for the dropped bodkin knife. I don't try to wrench my trapped arm free.
 
 I remember my father's words: *Strike their bridle.*
 

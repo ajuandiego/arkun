@@ -85,11 +85,7 @@ He nods weakly, his knuckles turning white as his grip tightens around the weapo
 
 I draw my father's five-inch steel bodkin knife from my hair bun with my left hand. 
 
-Under the worn leather of my right scavenger boot, my inner arch flexes with a sharp, voluntary spasm. 
-
-The magnetic latch releases with a soft *snick*. 
-
-The four-inch curved nanocarbon sickle-claw punches forward on my inner digit, locking into its rigid striking position with a cold, solid click.
+With my right, I draw the curved Spire hook from the low sheath at my hip, the blackened steel seating into my palm with a quiet, satisfying ring.
 
 "I’m going to introduce myself," I whisper.
 
