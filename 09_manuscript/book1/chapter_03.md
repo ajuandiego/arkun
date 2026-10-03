@@ -29,7 +29,7 @@ Inside the reinforced pocket of my leather chest harness, the stolen crystal dat
 
 I sprint across the crest of the first dune, my elongated foot tendons working like hyper-elastic coiled springs. With every stride, my legs drive three times deeper and push four times harder than any baseline human’s could. I don’t run with the heavy, heel-striking plod of the scavengers; my center of gravity stays low, fluid, gliding over the shifting powder. 
 
-Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking kerosene stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
+Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking slag-tallow stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
 
 "You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you."
 

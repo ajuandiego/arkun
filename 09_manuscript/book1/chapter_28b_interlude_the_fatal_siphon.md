@@ -53,49 +53,15 @@ Her tongue was hot, flexible, and slightly rough, tasting of menthol and bitter 
 
 Nyx didn't argue. 
 
-With practiced, fluid grace, she dropped to her knees on the stained concrete floor between his boots.
+Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port, and for three heartbeats, the screaming static behind Cassian's eyes blunted into a muffled, thrumming hum.
 
-Her dark violet eyes looked up into his, teasing, mocking, and utterly fearless. Her hands reached up, unlacing his tactical combat trousers, peeling the stiff linen down his muscular thighs until his erection sprang free—heavy, thick, and rigid with weeks of pent-up adrenaline and terror.
+A ragged, desperate groan broke from his throat. He crushed her against the corrugated wall, his mouth crashing down on hers in a starving, frenzied kiss that tasted of menthol, bitter almond, and raw survival. He stripped away the heavy ballistic weave of his flight harness, needing every inch of her freezing skin against his 106-degree fever.
 
-She took him into her mouth in a single, smooth descent.
+Nyx hissed against his lips, her cool thighs wrapping around his hips, pulling him flush against her in the shadows of the alcove. The clash of their bodies—burning Simurgh avian furnace colliding with the cold, reptilian scales of her Gorgon-Lindwurm flesh—was violent, desperate, the frantic collision of two broken weapons seeking oblivion in the dark.
 
-Cassian gasped. His wings snapped half-open, the obsidian quills scraping against the corrugated iron sheets on either side of the alcove. His hands fisted in her thick, black hair as her hot mouth swallowed him to the root.
+Cassian gripped her hips, his head thrown back against the iron sheets, a breathless, guttural cry tearing from his chest as the agonizing tension of two weeks in the desert shattered in a sudden, violent surge of physical release.
 
-The relief was instantaneous. 
-
-For the first time in two weeks, the screaming static behind his eyes receded into a dull, thrumming hum. Her mouth worked with ruthless, rhythmic devotion—her tongue swirling around the sensitive ridge beneath his flared head, her throat contracting around his length in deep, swallowing pulses that made his knees buckle.
-
-"Ah... gods..." Cassian groaned, his hips rocking into her face, chasing the heat of her throat.
-
-When he reached the brink, he couldn't wait. He couldn't let it end on his knees in the dirt.
-
-He hauled her to her feet by her bare shoulders, lifting her bodily against the wall.
-
-"Up," he commanded, his voice thick and slurred with lust.
-
-Nyx wrapped her legs around his waist, her silk trousers sliding down to her ankles, her cool, scaly thighs clamping around his hips. Her wet center was open, dripping, pressed directly against the burning head of his cock.
-
-"Take it, soldier," she whispered against his throat, her sharp teeth grazing his carotid artery. "Take all of it."
-
-With a single, savage thrust, Cassian drove his cock inside her.
-
-The invasion tore a loud, breathless scream from her throat—half agony, half pleasure. She was tighter than he had imagined, her inner walls rippling with bizarre, muscular contractions that felt like living velvet rings squeezing his shaft from base to tip.
-
-Cassian drove into her with furious, frantic speed.
-
-The iron wall rattled behind them. The rhythm was brutal, relentless, a drowning man fighting for air. Every time his pelvis slammed against hers, the friction of her cool, slick depths against his burning cock sent blinding bolts of pleasure shooting into his spine.
-
-Nyx’s head was thrown back, her throat corded, her violet eyes rolling back into her skull as his thick length bottomed out against her cervix. 
-
-"Yes... yes... more..." she hissed, her claws digging bloody furrows into the muscle of his upper arms.
-
-The climax hit them both like a kinetic detonation.
-
-Cassian roared, burying his cock to the hilt, his hips locking against hers as the first scorching jet of his seed erupted deep inside her. 
-
-At the same instant, Nyx shrieked—a high, piercing, inhuman cry of absolute ecstasy as her climax ripped through her body.
-
-And in that moment of uncontrollable, biological release, her mutation deployed.
+And in that unguarded moment of biological surrender, her mutation deployed.
 
 It was not a conscious act of murder. It was an involuntary, predatory reflex wired into her illegal genome—a Gorgon-Lindwurm chimeric splice designed by rogue black-market bio-engineers for assassination through intimacy.
 
@@ -137,7 +103,7 @@ Nyx fell to her knees beside him, horror twisting her beautiful, mutated face.
 
 Beneath his bronze skin, black, necrotic veins were already spidering outward from his groin across his lower abdomen. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
 
-He lay there in the puddle of his own sweat, his seed still leaking onto the floor, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
+He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
 
 The Consortium had not just built cages of concrete and iron.
 

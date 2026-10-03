@@ -57,7 +57,7 @@ The white-hot needle behind my eye blunts by a fraction of an inch. The violet l
 
 *Just being near her cools the current.*
 
-Her baseline DNA doesn't just neutralize the alien frequency on physical contact; her very presence radiates an invisible, low-frequency electromagnetic grounding field. To the synthetic quantum lattice in my skull, she is an organic sinkhole. A black hole that drinks the screaming static before it can cook my gray matter.
+Her Mosaic Keystone genotype doesn't just neutralize the alien frequency on physical contact; her very presence radiates an invisible, low-frequency electromagnetic grounding field. To the synthetic quantum lattice in my skull, she is an organic sinkhole. A black hole that drinks the screaming static before it can cook my gray matter.
 
 I take two more strides. 
 

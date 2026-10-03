@@ -67,7 +67,7 @@ And then, from the red dunes to the south, the earth roars.
 
 Not with the organic hiss of a beast. 
 
-With the guttural, twin-turbocharged scream of a heavy diesel-electric hybrid combustion engine.
+With the guttural, high-torque scream of a heavy bio-synthetic turbine engine.
 
 Twin beams of searing, incandescent yellow headlights crest the dune sixty yards away, slicing through the freezing darkness like dual searchlights. 
 

@@ -133,20 +133,20 @@ With a massive, echoing groan that shudders through the iron bones of Sector 09,
 
 ```console
 atmospheric purge aborted.
-clean air circulation restored: 100%
+municipal scrubber loop: restored to baseline
 ```
 
 All across Sector 09, the deafening roar of battle begins to fade.
 
 Above our heads, the surviving Directorate gunships and rotor-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
 
-The mutinous pilots of Aeros-Legion 7—Ferrin, Veda, and young Toby Vance—circle overhead in a triumphal victory roll, their wings catching the first golden rays of dawn breaking through the high ventilation grates.
+The mutinous pilots of Aeros-Legion 7—Ferrin, Sergeant Veda, and young Toby Vance—circle overhead in a triumphal victory roll, their wings catching the first golden rays of dawn breaking through the high ventilation grates.
 
 Down on the catwalk, Boran Vael-Korr and his guild machinists unleash a ragged, booming cheer that echoes through forty miles of stone aqueducts.
 
 The battle is over.
 
-Sector 09 is free.
+The guns have withdrawn. The undercity has bought another day of air. But out beyond the titanium wall, the amber poison still blankets the continent, and the planetary clock is still ticking.
 
 I slide my knife back into its sheath, turn away from the shivering, broken prophet on the deck, and walk to the edge of the platform.
 
@@ -154,7 +154,7 @@ Down on the crane gantry, standing tall amid the steam and the dripping water, h
 
 He looks up at me through the mist.
 
-His silver-flecked eyes are clear, fierce, and entirely whole.
+His gold furnace eyes are clear, fierce, and entirely whole.
 
 For the first time since the sky fell on our heads in the ruins of Sector 04, the Commander smiles.
 

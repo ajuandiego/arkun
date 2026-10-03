@@ -106,7 +106,7 @@ His breath comes in ragged, shuddering gasps, hot and heavy against my cheek.
 
 He is bleeding from a shallow gash above his left temple, the blood dripping onto the shoulder of my shirt, smelling of cedar resin and hot iron. Beneath his skin, the golden bioluminescence of his plumage flickers with faint, dying pulses, casting a fragile, amber glow across his features.
 
-His silver-flecked eyes are wide, dark, and wild. 
+His gold furnace eyes are wide, dark, and wild. 
 
 He looks down at me as if he were seeing a ghost.
 

@@ -30,7 +30,7 @@ Kira looks up at the roof, pushes her amber goggles onto her forehead, and offer
 
 "I'm taking Line 9 north to the Fenris smuggling network," the veteran hauler calls up through the morning quiet. "By this time next week, every rogue squadron from here to the salt flats will have the cure. The Director won't have an enslaved pilot left in the sky."
 
-She climbs into the cab, the diesel engine roaring to life with a healthy, rhythmic growl, and the crawler rumbles down the tunnel ramp, vanishing into the subterranean arteries to spark a continent-wide rebellion.
+She climbs into the cab, the crawler engine roaring to life with a healthy, rhythmic growl, and the crawler rumbles down the tunnel ramp, vanishing into the subterranean arteries to spark a continent-wide rebellion.
 
 Behind me, the soft rustle of feathers announces his arrival.
 
@@ -52,7 +52,7 @@ My hip presses against hers. The contact is effortless, natural, as if the space
 
 She doesn't pull away. 
 
-She turns her head, her golden slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
+She turns her head, her amber horizontal slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
 
 "You look like you've been through a meat grinder, Commander," she says softly, though there is no mockery in her voice—only an ocean of quiet, unvarnished warmth.
 
@@ -72,7 +72,7 @@ Her skin is cool, smooth with minute hexagonal scales along the wrist, scarred b
 
 I lift her hand, pressing my lips gently to the scarred knuckles of her fingers.
 
-"You gave me the sky," I whisper, looking into her golden eyes. "Not the altitude. Not the flight clearance. You gave me the right to choose what I bleed for. You are my sky, Tsunari. My anchor. My hearth."
+"Corvus gave me wings to hunt for her, and The Forger wanted a god to burn the world," I whisper, looking into her amber eyes. "They were wrong. You gave me the right to choose what I bleed for. You are my sky, Tsunari. My anchor. My hearth."
 
 Tsunari’s breath catches in her throat. 
 
@@ -102,7 +102,7 @@ Footsteps echo against the iron roof stairs.
 
 We break apart slowly, our foreheads still touching, our chests rising and falling in breathless, synchronized cadence, our fingers tightly intertwined.
 
-Elder Gideon Cross emerges onto the roof platform, flanked by Ferrin Calder and Lieutenant Veda. 
+Elder Gideon Cross emerges onto the roof platform, flanked by Ferrin Calder and Sergeant Veda. 
 
 The old curator is breathing heavily from the climb, his linen smock stained with optical dye. In his hands, he carries a heavy brass reading terminal linked to the decoded **Lazarus Key** and the uncatalogued **Ghost Beacon 09-Omega** disc.
 
@@ -156,9 +156,9 @@ On the screen, etched in green phosphor letters, is the face of my sister.
 
 **Sora**.
 
-Nineteen years old, her dark hair pulled back into a clinical bun, wearing the pristine white laboratory coat of the Directorate Bio-Curator apprentice corps. Her eyes are bright, innocent, and trusting—completely unaware that the glass dome she considers a sanctuary has already scheduled her execution.
+Seventeen years old, her dark hair pulled back into a clinical bun, wearing the pristine white laboratory coat of the Directorate Bio-Curator apprentice corps. Her eyes are bright, innocent, and trusting—completely unaware that the glass dome she considers a sanctuary has already scheduled her execution.
 
-"When the terraforming reaches twenty percent," Gideon murmurs, "Director Corvus is purging the entire lower staff. He’s going to seal the residential vents and sanitize the labs. Sora has less than thirty days before the execution order is carried out."
+"When the terraforming reaches twenty percent," Gideon murmurs, "Director Corvus is purging the entire lower staff. She is going to seal the residential vents and sanitize the labs. Sora has less than thirty days before the execution order is carried out."
 
 The world goes dead silent.
 
@@ -172,7 +172,7 @@ A hand—massive, warm, and steady as bedrock—grips my shoulder.
 
 I look up into Vram’s face.
 
-The Commander’s silver-flecked eyes are not filled with despair. They are burning with the incandescent, terrifying fury of a sky-lord who has broken his own chains and is ready to tear the heavens apart.
+The Commander’s gold furnace eyes are not filled with despair. They are burning with the incandescent, terrifying fury of a sky-lord who has broken his own chains and is ready to tear the heavens apart.
 
 "We have fourteen months to save the world," Vram says, his voice carrying the calm, absolute certainty of an executioner. "And thirty days to break into Eden Alpha."
 
@@ -192,6 +192,22 @@ I take Vram’s hand, my fingers lacing through his, and turn our faces toward t
 
 "Get your wings ready, Commander," I say, my voice ringing clear and fierce into the rising wind. "We're going to get my sister back."
 
+The war council breaks as the sun clears the rim of the canyon. Gideon retreats to the archives with Ferrin and Toby to map the sub-aqueduct approaches, while Boran leads the machinists to secure the lower intake bulkheads.
+
+By the time Vram and I descend through the rooftop hatch into the quiet quarters beneath the observation deck, the adrenaline that had kept our legs moving for three days drains away all at once. The exhaustion is physical, crushing, settling into the marrow of our bones like wet lead.
+
+My boots hit the floor; the heavy leather harness slides from my shoulders onto the table. 
+
+Vram unbuckles his scorched breastplate, the blackened composite clattering against the iron footlocker. He looks at me in the dim lantern light—the purple hollows beneath my eyes, the dried blood flaking along my knuckles. Without a word, he pulls the heavy wool blankets back on the iron cot and draws me down beside him.
+
+His massive, furnace-warm body curves around mine, sheltering my cool skin against his chest. His fourteen-foot obsidian wings draw up over the blanket like a dark, impenetrable shield, locking out the noise, the dust, and the dying world outside.
+
+My head rests in the hollow of his shoulder. His heart beats against my ear—slow, heavy, steady as bedrock.
+
+"Sleep, Tsune," he whispers into my hair, his arm tightening around my waist, his breath warm against my temple. "I have the watch."
+
+For the first time in ten years, I close my eyes without checking the locks. I let the darkness take me.
+
 ***
 
 ### Tsunari
@@ -200,7 +216,7 @@ I wake to the smell of burned meat.
 
 My head is spinning, heavy and dull, my tongue coated in a thick, metallic bitterness. 
 
-I reach across the blankets, searching for that roaring warmth that kept the cold away all night.
+I reach across the blankets, searching for that roaring warmth that kept the cold away.
 
 My hand hits frozen canvas.
 

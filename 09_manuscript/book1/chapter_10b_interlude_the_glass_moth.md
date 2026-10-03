@@ -59,7 +59,7 @@ She tucked the tube into the warm fleece lining of her inner smock, right over h
 
 She scrambled down the slag mound, her bare feet finding the worn ruts between the corrugated shacks of Ward 11. 
 
-The settlement was already hunkering down for the Night Freeze. Iron shutters were being bolted into place with dull, metallic clangs. In the narrow alleys, kerosene burners sputtered with foul, yellow flames, casting long, shivering shadows of men and women hunched over steaming pots of gray turnip mash and synthetic algae paste. Coughing was the only language spoken here—a rhythmic, rattling percussion that echoed from every doorway, the communal death-rattle of ten thousand throats drowning in the Amber Haze.
+The settlement was already hunkering down for the Night Freeze. Iron shutters were being bolted into place with dull, metallic clangs. In the narrow alleys, slag-tallow lamps sputtered with foul, yellow flames, casting long, shivering shadows of men and women hunched over steaming pots of gray turnip mash and synthetic algae paste. Coughing was the only language spoken here—a rhythmic, rattling percussion that echoed from every doorway, the communal death-rattle of ten thousand throats drowning in the Amber Haze.
 
 Miri ducked through a low doorway covered by a double layer of wet burlap.
 

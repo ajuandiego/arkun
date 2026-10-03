@@ -23,21 +23,27 @@ Three figures round the corner of the Great Hall of Quartz, stepping into the ra
 
 They wear the sleek, matte-black carbon composite armor of the **Aeros-Legion**. 
 
-From their broad backs, magnificent pairs of feathered wings rise like folded shields—obsidian, gray-dappled, and falcon-brown. Across their chests, the silver emblem of Eden Alpha gleams under the vault’s lanterns, and in their gloved hands, they carry high-velocity kinetic assault carbines, their targeting lasers painting red needles across Vram’s chest.
+From their broad backs, magnificent pairs of feathered wings rise like folded shields—obsidian, gray-dappled, and iridescent cream-and-gold. Across their chests, the silver emblem of Eden Alpha gleams under the vault’s lanterns, and in their gloved hands, they carry high-velocity kinetic assault carbines, their targeting lasers painting red needles across Vram’s chest.
 
 At their head stands a tall, lean soldier with an unruly shock of sandy hair and a scarred, cynical grin: **Ferrin Calder**. 
 
-To his left is **Lieutenant Veda**, her short-cropped dark hair framing a face carved from military granite, her sniper carbine held at a perfect low-ready. 
+To his left is **Sergeant Veda**, her short-cropped dark hair framing a face carved from military granite, her sniper carbine held at a perfect low-ready. 
 
-And bringing up the rear, barely nineteen years old, his young face pale and drenched in cold sweat, is **Toby Vance**. His brown wings are trembling violently, the primary feathers rattling like dry reeds as involuntary lattice spasms jerk through his shoulder joints.
+And bringing up the rear, twenty-one years old, his gentle face pale and drenched in cold sweat, is **Toby Vance**. His cream-and-gold wings are trembling violently, the delicate primary feathers rattling like dry reeds as involuntary lattice spasms jerk through his shoulder joints.
 
 "Well, look at this," Ferrin draws out the words with effortless, sardonic bravado, though the barrel of his carbine trembles with the same unmistakable neural tremors. "They told us you were rotting in a sand dune, Commander. But here you are, lounging in an underground palace with a pretty little gutter-drake."
 
-Vram does not raise his pistol. He keeps it pointed at the stone flags.
+Vram does not raise his pistol. He keeps it pointed at the stone flags. His gaze sweeps past them toward the empty corridor behind.
 
-"Ferrin," Vram says, his voice carrying the calm, steady authority of the flight deck. "Veda. Toby. Lower your weapons."
+"Where is Cassian?" Vram asks, his voice low and dangerous. "Where is my second?"
 
-"Can't do that, boss," Ferrin replies, his cynical grin twitching as a spasm veers his jaw to the right. "Director Corvus put a Level Crimson retrieval order on your skull. Failure to execute within twenty-four hours constitutes treason punishable by terminal neural wipe. The net in our skulls has been screaming since dawn."
+Ferrin’s smirk falters, a shadow of genuine pain crossing his scarred features.
+
+"Cassian deserted three days out of the gorge, boss," Ferrin replies, his voice dropping into grim reality. "The Directorate dialed the carrier net to maximum the moment you went dark. Cassian couldn't take the noise. He said following a rogue commander was a suicide pact, threw his comms into the dirt, and peeled off toward the western sumps to drown the static in rotgut."
+
+Behind him, young Toby Vance lets out a stifled, shuddering sob, his fingers slipping on the receiver of his rifle.
+
+"My brother chose the dark, Commander," Toby whispers, his voice cracking like dry wood. "He gave up on the sky. But I couldn't let them kill you. And it hurts... gods, it hurts so much. The static... the voice in the channel won't stop screaming."
 
 "Listen to the frequency in your ears, Ferrin," Vram says, taking a step forward. His wings flare slightly—not in aggression, but in an open, welcoming arc. "How loud is the static today? How hot does the back of your neck feel? One hundred and five? One hundred and six?"
 
@@ -75,7 +81,7 @@ Ferrin lets out a harsh, barking laugh that ends in a painful cough.
 
 Ferrin looks. 
 
-His eyes sweep over Vram’s face—the calm, steady silver in his gaze, the unhurried ease of his breathing, the absence of tremors in his hands, and the brilliant, healthy golden crest along the nape of his neck. 
+His eyes sweep over Vram’s face—the calm, steady gold in his gaze, the unhurried ease of his breathing, the absence of tremors in his hands, and the brilliant, healthy golden crest along the nape of his neck. 
 
 Every Aeros pilot knows what late-stage lattice burn looks like; every pilot has watched comrades seize and die on the hangar deck.
 

@@ -70,7 +70,7 @@ Tsunari’s amber gaze doesn't waver. Her hand slides from my cheek down to the 
 
 "Tsune..." My voice is a low, warning rumble, but my hands are already moving, slipping to the small of her back.
 
-"Take me to the rugs, Vram," she breathes, leaning up until her lips brush against mine. "No rush this time. No freezing cot. I want to feel all of you."
+"Take me to the rugs, Vram," she breathes, leaning up until her lips brush against mine. "No more running. No more cold walls. I want all of you."
 
 The last ember of my military discipline disintegrates.
 
@@ -100,7 +100,7 @@ The sensation is sheer, blinding madness. Her mouth is cool, soft, slick with sa
 
 "Tsune... gods..." A ragged, guttural groan tears from my throat. My wings shudder, snapping half-open, the crimson feathers trembling against the stone. 
 
-She looks up at me through dark lashes, her amber slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
+She looks up at me through dark lashes, her amber horizontal slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
 
 She bobs her head in a steady, devastating cadence, her small hand pumping the shaft where her mouth can't reach, milking every drop of pre-cum onto her tongue. The friction of her cool throat against my scorching iron pushes me to the razor edge of oblivion.
 
@@ -136,7 +136,7 @@ I rise over her, my golden eyes locked onto her dazed, ecstatic face. I slide be
 
 "Look at me, Tsune," I whisper, my fingers tangling in hers and pressing our palms flat into the velvet beside her head. "I want your eyes on me when I go in."
 
-Her lids flutter open, her golden irises burning with raw, unshielded adoration. "Always you," she whispers, parting wider for me. "Take me home."
+Her lids flutter open, her amber irises burning with raw, unshielded adoration. "Always you," she whispers, parting wider for me. "Take me home."
 
 I push forward.
 
@@ -152,31 +152,29 @@ Tsunari lets out a long, shuddering sigh of pure completion, wrapping her legs a
 
 I begin to move.
 
-It is not the desperate, frantic pounding of the bunker cot. It is a deep, unhurried, devastating rhythm—every stroke long, powerful, and deliberate. I pull out until only the tip remains, letting the cool air tease her entrance, before sinking all the way back in, burying myself to the hilt, grinding my pelvis against her clitoris with every thrust.
+It is a deep, unhurried, devastating rhythm—every stroke long, powerful, and deliberate. In this quiet sanctuary, surrounded by eighty years of preserved history and the faint, grounding smell of aged vellum and dry quartz dust, there are no executioners at our backs. I pull out until only the tip remains, letting the cool mountain draft tease her entrance, before sinking all the way back in, burying myself to the hilt, grinding my pelvis against her with steady, worshipful force.
 
-The friction is intoxicating. Her cool walls clutch and ripple against my burning cock, generating an unbearable, molten heat between our bodies. The sound of our bodies colliding—wet, rhythmic, and heavy—echoes softly beneath the dome of my wings.
+The friction is intoxicating. Her cool walls clutch and ripple against my burning flesh, generating an unbearable, molten heat between our bodies. The sound of our bodies colliding—rhythmic, heavy, and breathless—echoes softly beneath the dome of my wings.
 
 She meets every thrust with fluid grace, her hips arching to meet mine, her nails tracing the scars along my ribs. 
 
-"Vram... more... deeper..."
+"Vram... more..."
 
-I alter the angle, driving upward into her sweet spot with measured, relentless force. Each thrust pushes her higher, building the electric charge in our blood until the bioluminescent capillaries beneath our skin begin to pulse in unison—gold and emerald light dancing across our sweat-slicked bodies like living starlight.
+I alter the angle, driving upward with measured, relentless force. Each thrust pushes her higher, building the electric charge in our blood until the bioluminescent capillaries beneath our skin begin to pulse in unison—gold and emerald light dancing across our sweat-slicked bodies.
 
 The tension coils to the snapping point.
 
-"With me, Tsune," I growl, my voice rough and breaking as I bury myself to the root with each thrust. "Stay right here with me. We burn together."
+"With me, Tsune," I growl, my voice rough and breaking as our bodies lock in desperate rhythm. "Right here with me."
 
-"Yes... Vram, yes! Now!"
+"Always," she cries out, her nails digging into the hard muscle of my shoulders as the crest breaks over her.
 
-We shatter together.
+Her climax hits first, a deep, shuddering convulsion that ripples through her entire body, her voice ringing out in a high, breathless cry that echoes softly beneath the dome of my feathers.
 
-Tsunari’s climax hits first, a torrential convulsion that clamps her inner walls around my cock with bone-melting intensity, her voice ringing out in a high, clear, breathless cry of absolute ecstasy.
+The sheer, overwhelming surrender of her body shatters my final control.
 
-The feeling of her milking my length destroys my last defense. 
+With a low, thunderous roar that vibrates against her sternum, I drive hard against her, burying myself to the root as my own release breaks free in scalding, shuddering waves. The sensation is blinding, absolute, solar fire flooding through every nerve ending until my vision washes out into gold.
 
-With a deep, thunderous roar that vibrates against her sternum, I drive my hips hard against hers and unload. 
-
-My cock pulses violently inside her, pumping thick, scalding waves of seed deep into her womb. The release is so profound, so devastatingly complete, that my vision whites out into pure solar fire. I collapse forward, cradling her head against my shoulder, shuddering through aftershock after aftershock as our souls weld together beneath the dark canopy of my wings.
+I collapse forward against her, cradling her head in the curve of my shoulder, our chests heaving in ragged, synchronized breaths as our wings slowly settle around the velvet rug.
 
 ***
 

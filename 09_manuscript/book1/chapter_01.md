@@ -25,7 +25,7 @@ I wedge my shoulder into the sharp ninety-degree elbow of the conduit, forty fee
 
 Beneath my boots, through the rusted gaps in the floor grating, the Gray Ring stretches into the copper twilight: a jagged, sprawling ocean of stacked shipping containers, corrugated zinc roofs, and makeshift air-scrubber chimneys venting thin, anemic plumes of pale steam into the Amber Haze. 
 
-From up here, the people look like ants scurrying across a slag heap. Scavengers hauling carts of scrap copper; street vendors boiling sulfur-algae paste over kerosene burners; mothers in patched linen hoods counting brass tokens outside Madame Chen’s oxygen depot. Chen charges half a day's wages for an hour of recycled tank air, and her filters haven't been backwashed since the winter before last. Everyone knows it, and everyone pays anyway, because the alternative is swallowing the open desert.
+From up here, the people look like ants scurrying across a slag heap. Scavengers hauling carts of scrap copper; street vendors boiling sulfur-algae paste over slag-grease burners; mothers in patched linen hoods counting brass tokens outside Madame Chen’s oxygen depot. Chen charges half a day's wages for an hour of recycled tank air, and her filters haven't been backwashed since the winter before last. Everyone knows it, and everyone pays anyway, because the alternative is swallowing the open desert.
 
 And rising beyond the squalor, slicing across the horizon like an unbroken mountain range of polished gunmetal, stands the Wall.
 
@@ -107,24 +107,20 @@ The state news feeds broadcast over the public holos in the Gray Ring tell us th
 
 The raw data scrolling across my screen tells a slaughterhouse truth.
 
-The atmospheric oxygen level outside the domes isn’t recovering. It’s decaying at **2.4% per calendar quarter**—more than twice the rate admitted by the Consortium’s official ministry. But it isn't an engineering failure. It isn't an environmental accident. 
+The atmospheric oxygen level outside the domes isn’t recovering. It’s decaying at **2.4% per calendar quarter**—more than twice the rate admitted by the Consortium’s official ministry. The air in the Gray Sectors is dying on an accelerated curve.
 
-The Terra-Pylons aren't scrubbing the air; they are actively pumping industrial volumes of compressed nitrogen-ammonia and sulfurous aerosol catalysts directly into the troposphere.
-
-They aren't cleaning the earth for humanity. They are terraforming it. Methodically, mathematically transforming the biosphere into an alien atmosphere that will dissolve human pulmonary tissue in under four minutes without a pressurized filter.
-
-And at the bottom of the telemetry block, highlighted in flashing crimson text, sits the execution clock:
+And beneath the telemetry stream, behind an impenetrable multi-layered encryption header labeled *PROJECT LAZARUS // ROOT CIPHER ARCHON-OBSIDIAN*, sits the execution clock:
 
 ```console
-eden dome alpha: biological isolation schedule
-perimeter filtration cutoff: t-minus 14 months, 02 days
+eden dome alpha: atmospheric telemetry schedule
+perimeter filtration cutoff: t-minus 14 months, 12 days
 gray sector evacuation allocation: 0.00%
 disposal method: phased anoxia
 ```
 
 Fourteen months.
 
-In four hundred and twenty-eight days, Director Corvus isn’t going to open the blast gates. She isn't going to let the workers inside. Apex GeneSys is simply going to switch off the municipal scrubbers, seal the titanium bulkheads permanently, and let five million people outside the wall suffocate in their sleep.
+In four hundred and thirty-eight days, Director Corvus isn’t going to open the blast gates. She isn't going to let the workers inside. Apex GeneSys is simply going to switch off the municipal scrubbers, seal the titanium bulkheads permanently, and let five million people outside the wall suffocate in the Amber Haze. The root data blocks explaining the underlying planetary mechanism are scrambled behind the Lazarus encryption, but the countdown is undeniable.
 
 A cold, sickening numbness washes down my spine, freezing the sweat along my bare shoulders. 
 
@@ -132,7 +128,7 @@ A cold, sickening numbness washes down my spine, freezing the sweat along my bar
 
 Every scavenger in the scrap yards, every sick kid sleeping on cardboard in the orphan wards, every dockworker trading his teeth for another hour of air—they are all dead men walking. We aren't living in a city. We are living in a condemned slaughter pen, waiting for the butchers to turn the gas valves.
 
-My hands tremble against the metal casing of the data-slate. I initiate the root download, copying the unencrypted mathematical keys. If I can get this file to Gideon Cross at the Glass Vault—if the Bio-Curators can broadcast this telemetry across the underground shortwave relays—we can break the illusion. We can force the Gray Ring to rise before the air is turned off.
+My hands tremble against the metal casing of the data-slate. I initiate the root download, copying the encrypted packet. If I can get this file to Gideon Cross at the Glass Vault—if the Bio-Curators can crack the Lazarus Key and broadcast this truth across the underground shortwave relays—we can break the illusion. We can force the Gray Ring to rise before the air is turned off.
 
 ```console
 copying: 78%... 84%... 91%...
@@ -164,25 +160,25 @@ And then came the boots.
 
 The concussive, deafening boom of pneumatic breaching rams shattering the heavy oak doors. The blinding white magnesium glare of tactical flashlights. The cold, mechanical bark of the Apex GeneSys strike team shouting extraction orders.
 
-My father had shoved me into the dark, oily water of the drainage sluice with desperate, crushing strength. 
+My father had shoved me toward the dark, oily water of the drainage sluice with desperate, crushing strength. 
 
-"Run, Tsune! Don't look back!"
+"Run, Tsune! Get into the flume!"
 
-I had reached out through the black water, my fingers brushing Sora's small, warm hand in the dark. 
+Across the smoke-choked workshop, the breaching team in matte-black environmental armor had cornered Sora. My father lunged between the plasma rifles and my little sister, shoving her bodily into the arms of the Directorate transport officers—shouting for them to take the child, to register her clean baseline genes in the dome crèches where she would be fed, sheltered, and spared from the crossfire.
 
-"Tsune! Don't let go!" she had screamed, her voice cracking with terror. "Tsune!"
+"Tsune!" she had screamed, her small hands reaching out toward me through the armored viewport as the transport door sealed shut. "Tsune!"
 
-The rifle fire erupted. The flash of blue plasma beams lit the workshop in strobing horror. 
+"Go!" Father roared at me, turning to face the tactical squad with his plasma torch flaring. "They keep the clean ones alive! If they take you, they kill you! Run!"
 
-And my fingers slipped. 
+He hurled me down into the subterranean dark as the execution squad blew the workshop to slag. 
 
-The rushing current of the sump dragged me down into the subterranean dark. When I finally dragged myself out of the black sewer three days later, coughing up toxic sludge, the workshop was a blackened crater of melted slag. Father’s amphibious crawler was gone, tracked into the boiling sulfuric mist of the Stygian Ocean. 
+The rushing current of the sump dragged me down into the depths. When I finally dragged myself out of the black sewer three days later, coughing up toxic sludge, the workshop was a blackened crater of melted slag. Father’s amphibious crawler was gone, tracked into the boiling sulfuric mist of the Stygian Ocean. 
 
 And Sora was listed on the Directorate’s public morgue rolls as *Casualty #412: Incinerated during insurgent clearance raid.*
 
-For ten years, I believed she was dead. 
+For ten years, I believed they had murdered her anyway. 
 
-For ten long, agonizing years, I carved my life out of scrap metal and blood believing I was the last piece of Jeffrey Thorne left on this poisoned rock. Every time I looked at my reflection in a shard of broken glass, every time I touched the bodkin knife in my hair, the guilt chewed at my ribs like acid: *I survived because I let go.*
+For ten long, agonizing years, I carved my life out of scrap metal and blood believing I was the last piece of Jeffrey Thorne left on this poisoned rock. Every time I looked at my reflection in a shard of broken glass, every time I touched the bodkin knife in my hair, the guilt chewed at my ribs like acid: *Father surrendered her to the dome to save her, and they burned her anyway.*
 
 She isn't dead.
 

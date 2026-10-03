@@ -63,7 +63,7 @@ It was the pulse of the ocean.
 
 A thousand miles to the east, buried in the boiling, hyper-saline depths of the Mare Stygium, the deep-sea Terra-Pylons were awake. 
 
-The news had reached her through the coven’s shortwave dead-drops hours ago: The Forger was dead. Swept into the drainage sluices like a rat in an overflow flume. Commander Malakar was crushed; the grand cistern of Sector 09 was breached; the Directorate was in full, panicked retreat.
+The news had reached her through the coven’s shortwave dead-drops hours ago: The Forger had fallen, stripped of his crown and dragged in chains to the magistrate's cells. Commander Malakar had vanished, swallowed by the dark flumes beneath the cistern; the grand reservoir of Sector 09 was breached; the Directorate was in full, panicked retreat.
 
 To the fools in the undercity, it looked like a victory for the scavengers. They thought the winged commander and his cursorial thief had won freedom.
 

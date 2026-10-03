@@ -5,9 +5,9 @@
 
 ***
 
-The diesel engine rumbles into a low idle, then dies.
+The inductive drive hums into a low idle, then powers down.
 
-A heavy, unnatural stillness settles over the prowler’s armored cabin, broken only by the tick-tick-tick of cooling exhaust manifolds and the distant, lonely wail of the wind against the cliffs.
+A heavy, unnatural stillness settles over the prowler’s armored cabin, broken only by the tick-tick-tick of cooling induction coils and the distant, lonely wail of the wind against the cliffs.
 
 The partition hatch dogs unlatch with a loud metallic clank. 
 

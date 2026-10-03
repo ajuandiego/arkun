@@ -76,29 +76,29 @@ I know that handwriting.
 
 I know the sharp, impatient hook on the integral sign. I know the tiny, rebellious circle he always drew above the delta instead of a triangle. When I was seven years old, sitting on the floor of his clandestine laboratory while he calibrated my phase-stutter bracers, he would write that exact formula on the margins of my sketchbooks.
 
-*He didn't drown.*
+*He didn't die at the salt flats.*
 
 The realization hits my chest with the force of a detonating grenade, shattering ten years of grief, guilt, and bitter abandonment into blinding shards of light.
 
-My father did not perish in the boiling waves of the Mare Stygium. 
+My father did not perish in the raid. He reached the northern cliffs. He broadcast this packet from four hundred miles into the boiling sea. 
 
-He didn't run into the dark to die. He built something. He built a vessel, or a shield, or an engine capable of crossing the impassable boiling sea—and he reached the other side. 
+Whether the signal was an automated dead-hand relay anchored to an ocean buoy before the storms claimed him, or evidence of an impossible attempt to cross the boiling abyss, the truth is etched into this sapphire disc:
 
-He reached the lost continents beyond the storm wall.
+He didn't abandon us. He was still fighting.
 
 "Tsunari?" Vram’s voice is beside me now, warm, steady, his large hand coming to rest firmly on my shoulder. He feels the violent tremors running through my arms. "What is it?"
 
 I lift a trembling hand and point at the projected formula on the screen.
 
-"My father," I whisper, my voice breaking on the syllable, tears of fierce, uncontainable shock welling in my eyes. "He made it, Vram. He made it across the boiling ocean. He's alive."
+"My father," I whisper, my voice breaking on the syllable, tears of fierce, uncontainable shock welling in my eyes. "It's his signature, Vram. He was out in the Mare Stygium. He transmitted this beacon into the storm."
 
-Vram looks from the handwriting on the screen to my face, his silver-flecked eyes widening with awe and instant understanding. 
+Vram looks from the handwriting on the screen to my face, his gold furnace eyes widening with awe and instant understanding. 
 
 Gideon Cross stands motionless, staring at the projected disc with his mouth slightly open, the jeweler's loupe trembling against his cheek.
 
-"Jeffrey Thorne..." the old curator breathes, his voice filled with reverence. "The greatest mind of the pre-collapse era. If he survived the crossing... if there is an intact sanctuary beyond the Stygian Ocean..."
+"Jeffrey Thorne..." the old curator breathes, his voice filled with reverence. "The greatest mind of the pre-collapse era. If this transmission pierced the storm wall... if he found a way into the deep ocean..."
 
-"Then this continent isn't the end of the world," I finish the thought, wiping the tears from my cheeks with the back of my hand, my chin lifting with fierce, unyielding hunger. "There is another shore. And my father is waiting for us."
+"Then he left us a trail," I say, wiping the tears from my cheeks with the back of my hand, my chin lifting with fierce, unyielding resolve. "Whatever he built out there, he left the key."
 
 I look at the disc, then turn my gaze to Vram. 
 

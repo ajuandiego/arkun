@@ -6,7 +6,7 @@
 
 The floor of the crawler drops thirty feet beneath the salt flats before the hydraulic shudder ceases.
 
-Kira cuts the engine. The diesel rumble dies with a heavy wheeze, replaced instantly by the hollow, ringing silence of the subterranean sub-station. Outside our armored hull, the desert wind screams across the surface intake vents like a dying animal, but down here in the maintenance basement, the world smells of petrified motor grease, stagnant limestone water, and cold iron.
+Kira cuts the engine. The heavy turbine rumble dies with a low wheeze, replaced instantly by the hollow, ringing silence of the subterranean sub-station. Outside our armored hull, the desert wind screams across the surface intake vents like a dying animal, but down here in the maintenance basement, the world smells of petrified motor grease, stagnant limestone water, and cold iron.
 
 And it is cold.
 
@@ -24,7 +24,7 @@ His breathing is shallow, ragged, catch-in-the-throat hitches that rattle agains
 
 "Come on," I whisper, sliding my arms under his broad shoulders. "Up. You have to move, Commander. You can't die in the back of a smuggler's truck."
 
-A low, guttural groan tears from his throat. His silver-flecked eyes crack open, unfocused, milky with delirium. He doesn't see me. He sees the sky-fortress of Eden Alpha; he sees the white-tiled corridors of the Directorate surgical bays; he sees the firing squads.
+A low, guttural groan tears from his throat. His gold furnace eyes crack open, unfocused, milky with delirium. He doesn't see me. He sees the sky-fortress of Eden Alpha; he sees the white-tiled corridors of the Directorate surgical bays; he sees the firing squads.
 
 "Negative," he rasps, his dry lips cracking open, bleeding into his jawline. "Hold... hold altitude. Disconnect the umbilical... she's clear..."
 
@@ -34,7 +34,7 @@ Something in the word *safe* pierces the fog of his fever. His jaw tightens. Wit
 
 I haul his good arm over my shoulder, taking his immense weight onto my back. 
 
-Even depleted and broken, he weighs two hundred and sixty pounds of dense, genetically augmented bone and muscle. My knee joints creak, the elastic tendons in my thighs straining as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
+Even depleted and broken, he weighs two hundred and thirty-five pounds of dense, genetically augmented bone and muscle. My knee joints creak, the elastic tendons in my thighs straining as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
 
 In the corner of the crib sits an old iron cot, its canvas mattress stained with thirty years of water leaks and oil drippings. 
 
@@ -126,7 +126,7 @@ A deep, shuddering gasp rips through Vram’s chest. The toxic, chaotic hum in h
 
 His eyes open.
 
-They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his golden slit pupils are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
+They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his vertical slit pupils are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
 
 He looks down at me. 
 
@@ -148,13 +148,11 @@ His hands hook into the hem of my thin undershirt.
 
 "Take it off," he commands softly.
 
-I don't hesitate. I lift my hips, arching my back as he peels the worn fabric over my head and tosses it onto the concrete floor. In one swift, ruthless tug, my leggings follow, sliding down my legs until they are kicked into the dark.
+I don't hesitate. I lift my hips, arching my back as he peels the worn fabric over my head and tosses it onto the concrete floor. In one swift tug, my leggings follow, sliding down my legs until they are kicked into the dark.
 
-My hands find the waistband of his combat trousers, unbuckling the heavy tactical latch and shoving the stiff fabric down his muscular thighs. He kicks them free.
+My hands find the waistband of his combat trousers, unbuckling the heavy tactical latch and shoving the stiff fabric down his muscular thighs until we are both stripped for the warmth our bodies need.
 
-We are naked. Completely, unstoppably bare.
-
-The sight of him above me is breathtaking. Every inch of his massive, bronze frame is sculpted for violence—wide pectoral plates, a washboard abdomen ridged with old shrapnel scars, and between his thick, hair-dusted thighs, his erection stands heavy, thick, and rigid, the dark, swollen head pulsing with fiery, visible veins.
+The sight of him above me is breathtaking. Every inch of his massive, bronze frame is sculpted for violence—wide pectoral plates, a washboard abdomen ridged with old shrapnel scars, radiating heat like a sun-warmed stone. 
 
 His gaze sweeps over me with an intensity that burns hotter than his fever. My skin is pale, smooth, dotted along my hips and ribs with shimmering pewter scales, my small, firm breasts heaving in the warm air, the dark tips hardened to tight points.
 
@@ -162,99 +160,63 @@ His gaze sweeps over me with an intensity that burns hotter than his fever. My s
 
 He lowers his chest onto mine.
 
-The contact is an explosion of sensation. The coarse, burning hair of his chest abrades the sensitive, cool skin of my breasts, flattening my nipples against his hard pectorals. A sharp cry escapes my lips as his mouth claims my throat, his lips and teeth grazing the tender skin beneath my jaw, sucking a dark, fierce bruise into the base of my neck.
+The contact is an explosion of sensation. The coarse, burning hair of his chest abrades the sensitive, cool skin of my breasts, flattening my nipples against his hard pectorals. A sharp cry escapes my lips as his mouth claims my throat, his lips and teeth grazing the tender skin beneath my jaw, tasting of salt, ozone, and cedar resin.
 
 His hands roam with starving impatience. One scarred palm cups the weight of my breast, his thumb rolling over my nipple until I am arching off the mattress, while his other hand slides down my belly, tracing the delicate line of my hip bone. 
 
 His fingers slip lower, parting my thighs.
 
-When his palm cups my center, I gasp, my heels digging into the canvas. I am already drenched—slick, hot, and swollen from the memory of his mouth in the culvert. 
+When his palm cups my center, I gasp, my heels digging into the canvas. I am already drenched—slick, hot, and swollen with the wild, terrifying need that has built between us since the conduit. 
 
-His long fingers slide into my folds, coating themselves in my wetness. He finds my clitoris, his thumb circling the hardened peak with firm, agonizing pressure that makes my hips buck helplessly against his hand.
+His long fingers slide into my folds, coating themselves in my wetness. He finds my clitoris, his thumb circling the hardened peak with firm, rhythmic pressure that makes my hips buck helplessly against his hand.
 
-"Look at you," he growls against my lips, his breath scalding. "Dripping for me in the frost."
+His rigid length presses searing hot against my hip—heavy, thick, a brand of living fire against my flank.
 
-"Vram... please," I plead, my fingers digging into the hard, corded muscle of his upper arms. "Don't hold back this time. Put it in. Please."
+"Vram... please," I plead, my fingers digging into the hard, corded muscle of his upper arms. "Don't hold back. Take it."
 
-His jaw tightens. His golden eyes flare with molten light.
+His jaw tightens. His gold furnace eyes flare with molten light.
 
-He shifts his weight onto one arm, using his free hand to reach down between our bodies. He grips the base of his rigid length, guiding the broad, blunt head against my soaking entrance. 
+He shifts his weight onto one arm, looking down at me—at the dark bruises on my collar, the dust on my ribs, and the broken, freezing concrete of the basement around us. A violent tremor shakes his massive frame as he fights for control.
 
-The heat of his cock against my slick flesh is shocking—a blistering brand of iron testing my tight, wet cleft.
+"Not like this," he rasps, his forehead dropping against mine, his breath scalding my lips. "Not broken in a cellar, running from an execution order. When I take you, Tsune, you won't have to look over your shoulder. You will have all of me—and the open sky."
 
-He pauses, the tip pressing just inside my outer lips. His gaze locks onto mine, searching my face in the amber gloom, giving me the final choice.
+Before I can answer, his mouth crashes back down on mine, fierce, consuming, and devastatingly tender. 
 
-"Tsune," he whispers, his voice trembling with the agony of his restraint. "Tell me to stop. Tell me right now, or you won't walk tomorrow."
+His fingers double their cadence between my thighs, stroking the swollen bud of my center with ruthless, intoxicating precision. 
 
-For an answer, I reach down. 
-
-My fingers wrap around the burning shaft of his cock, guiding him flush against my cleft.
-
-"I don't care about walking," I breathe against his mouth. "I want you inside me. All of you, Vram. Don't you dare hold back."
-
-A guttural, feral groan tears from Vram’s lungs.
-
-He surges forward. 
-
-The initial stretch steals the air from my chest. He is massive—wider, thicker, and hotter than anything my body has ever known. My tight, cool walls stretch to their absolute limit as the flared crown breaches me, sliding inch by blistering inch into my wet depths. 
-
-A sharp, breathless cry leaves my throat, my fingers clawing at the scars on his shoulders as my body adapts to the overwhelming fullness.
-
-"Easy," he groans, his forehead dropping against mine, sweat dripping from his temple onto my clavicle. "Breathe, raptor. Gods, you feel like heaven... so tight, so cool around me..."
-
-"I won't break," I gasp, my heels locking around his lower back to pull him deeper. "Don't stop. Bury it, Vram. Give me all of it."
-
-With a low, savage growl, he drives his hips forward, burying his entire length inside me to the hilt.
-
-The impact of his pelvis slamming flush against mine sends a shockwave through my entire nervous system. I am completely filled—stretched, claimed, possessed by a wall of living fire. The contrast between my cool inner walls and his scorching cock is an unbearable ecstasy, causing my internal muscles to clamp down around him in tight, involuntary spasms.
-
-Vram roars into my neck, his fingers digging into the canvas mattress on either side of my head as my clenching heat nearly shatters his control.
-
-"Gods above," he snarls, his hips beginning to move. "Tsune..."
-
-He establishes a rhythm—slow, deep, and devastating. 
-
-He pulls out until barely the head remains inside, then drives back in with relentless, heavy thrusts that rattle the iron frame of the cot against the concrete floor. Every slide of his burning cock against my slick walls friction-heats my blood to boiling. The squeak of the rusted springs and the wet, rhythmic slap of our pelvises collide with the hollow whistle of the desert wind outside, filling our private cocoon with primal music.
-
-I wrap my calves around his lower back, using my cursorial leg strength to pull him deeper, matching his rhythm with frantic, arching tilts of my hips. 
-
-"More," I beg, my hands gripping his flared wing joints, feeling the powerful tendons flex beneath my palms with every thrust. "Harder, Vram!"
-
-He loses all civilized restraint. 
-
-His hands reach under my hips, lifting my pelvis off the cot to change the angle, driving his cock upward into the deepest, most sensitive recess of my womb. He pounds into me with raw, punishing speed, each thrust stealing a ragged scream from my lungs that he swallows with bruising, open-mouthed kisses.
-
-His obsidian wings beat once, twice, fanning the trapped air into a sweltering gale of cedar and musk, before locking tight around us like a steel cage.
-
-The pressure inside me coils tighter and tighter, an electric wire humming with lethal voltage. His thumb finds my swollen bud between our slamming bodies, stroking in frantic circles with every deep, bottoming thrust.
-
-"Look at me," he commands, his voice a ragged, breathless roar. "Look at me when you break!"
-
-I open my eyes. 
-
-His molten gold gaze is burning into mine, stripped of rank, stripped of armor, stripped of the entire corporate world—only the raw soul of a man pouring himself into me.
+The pressure inside me coils to the breaking point, an electric wire humming with lethal voltage. I wrap my calves around his lower back, using my cursorial strength to pull him flush against me, crying out into his mouth as the rhythm drives me over the precipice.
 
 The peak shatters.
 
-My orgasm explodes through me like a kinetic strike. My inner walls contract in violent, rhythmic, milking pulses that squeeze his cock with ferocious intensity. A keening, breathless wail tears from my throat as white light blinds my vision, my back arching until only my head and heels touch the bed.
+My orgasm explodes through me like a kinetic shockwave. My inner walls contract in violent, rhythmic pulses around his fingers, my voice breaking into a keening, breathless wail that he swallows with bruising kisses, my back arching until only my head and heels touch the canvas.
 
-The sensation of my clamping walls snaps Vram's final control.
+The sight and feel of me coming undone against his hand snaps Vram's final restraint.
 
-With a deep, guttural roar that shakes his massive chest, he buries himself to the root and unloads.
-
-His hips jerk in violent, frantic spasms as he pours a thick, blistering torrent of release deep into the core of my womb. Wave after wave of scalding heat floods my depths, each pulse of his cock triggering a fresh spasm of aftershocks through my pelvis. He collapses against me, his heavy chest heaving, his face buried in the crook of my neck, groaning as his seed fills me completely.
+With a deep, guttural roar that shakes his massive chest, his hips drive forward against the curve of my thigh. His body locks in violent spasms as his own release spills across our bellies in thick, scalding waves. He collapses against me, his heavy chest heaving, his face buried in the crook of my neck, groaning through the aftershocks.
 
 The cot creaks into silence.
 
-Above us, his wings remain flared, an impenetrable fortress of dark feathers shielding our sweat-slicked bodies from the cold world outside.
+Above us, his wings remain flared, an impenetrable fortress of dark feathers shielding our sweat-slicked bodies from the freezing world outside.
 
 Neither of us moves. 
 
-He stays buried deep inside me, his softening length still throbbing gently against my walls as our racing heartbeats gradually slow to a shared, heavy cadence. His hand drifts up to cup my jaw, his thumb brushing a damp strand of hair from my forehead with infinite tenderness.
+He holds me tight against his heart, his hand drifting up to cup my jaw, his thumb brushing a damp strand of hair from my cheek with infinite tenderness.
 
-"You're mine," he whispers against my lips, not as a captor claiming a prize, but as a man surrendering his soul. "In this life, and whatever comes after."
+"You're mine," he whispers against my lips—not as a captor claiming a prize, but as a man surrendering his soul. "In this life, and whatever comes after."
 
-"Yours," I whisper back, curling my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
+My pulse thumps hard against my ribs. 
+
+For ten years, the voice of the undercity has whispered the same survival law: *Attachment is a cage. Surrender is death.* If you let anyone hold you, they will use your neck to keep their own head above water.
+
+I catch his wrist. My grip is firm, my amber horizontal slit pupils holding his golden gaze in the dark.
+
+"Partners," I breathe, my voice steady, sharp, and fierce. "Partners, or nothing. I am no man's cage, Vram."
+
+Vram looks down at me. The harsh lines of his face soften, a slow, reverent smile touching his mouth.
+
+"Partners," he agrees.
+
+"Then I'm yours," I whisper, curling my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
 
 Outside, the Night Freeze howling across the Barrens can freeze the world to ash.
 

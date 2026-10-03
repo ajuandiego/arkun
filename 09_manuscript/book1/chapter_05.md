@@ -7,7 +7,7 @@
 
 The impact drives every drop of air from my lungs in a violent, wheezing gasp.
 
-Two hundred and twenty pounds of transgenic muscle and ballistic armor hits my back like an artillery shell. We crash through the rotted wooden doorframe of the solar substation, the dry, termite-eaten timber exploding into a storm of splinters around our faces. The sheer, overwhelming momentum carries us ten feet across the ruined concrete floor, rolling across a jagged carpet of broken glass, dead copper wire, and pulverized brick.
+Two hundred and thirty-five pounds of transgenic muscle and ballistic armor hits my back like an artillery shell. We crash through the rotted wooden doorframe of the solar substation, the dry, termite-eaten timber exploding into a storm of splinters around our faces. The sheer, overwhelming momentum carries us ten feet across the ruined concrete floor, rolling across a jagged carpet of broken glass, dead copper wire, and pulverized brick.
 
 We hit the far masonry wall with a concussive crunch that sends hairline fractures spiderwebbing through the mortar. 
 

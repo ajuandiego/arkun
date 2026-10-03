@@ -30,7 +30,7 @@ I don't shout. I drop into a low, predatory glide, my boots skimming the water.
 
 The first trident-bearer never sees me coming.
 
-I hit him with the full momentum of two hundred and sixty pounds traveling at twenty miles per hour. My right forearm catches him across the collarbone with the concussive force of a battering ram, the bone shattering beneath my armor plate with a sickening, wet crunch. He flies backward fifteen feet, crashing into the masonry wall with an impact that shakes dust from the ceiling, and slides down into the scum, lifeless.
+I hit him with the full momentum of two hundred and thirty-five pounds traveling at twenty miles per hour. My right forearm catches him across the collarbone with the concussive force of a battering ram, the bone shattering beneath my armor plate with a sickening, wet crunch. He flies backward fifteen feet, crashing into the masonry wall with an impact that shakes dust from the ceiling, and slides down into the scum, lifeless.
 
 The second trident-bearer turns in blind panic, his weapon swinging toward my throat.
 

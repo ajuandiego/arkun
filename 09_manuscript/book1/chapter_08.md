@@ -43,7 +43,7 @@ The Director will see the smooth, unmarked skin of her cervical vertebrae. She w
 
 And once they discover her Null-Resonance? 
 
-Once the lab techs realize her baseline chromosomes possess an organic grounding field capable of neutralizing the Vaelen carrier wave?
+Once the lab techs realize her Mosaic chromosomes possess an organic grounding field capable of neutralizing the Vaelen carrier wave?
 
 They won't interrogate her. 
 
@@ -160,7 +160,7 @@ all external beacons disabled
 
 The automated siren dies. 
 
-Silence fills the cockpit, broken only by the steady, low-frequency hum of the prowler’s diesel-electric hybrid drive.
+Silence fills the cockpit, broken only by the steady, low-frequency hum of the prowler’s high-torque inductive drive.
 
 I grab the heavy, twin-handled steering yokes, disengage the mechanical transmission lock, and haul the prowler hard to the left.
 

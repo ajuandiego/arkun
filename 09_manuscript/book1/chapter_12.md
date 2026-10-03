@@ -82,7 +82,7 @@ A faint, fleeting flicker of amusement touches the corners of her linen mask. "D
 
 I pause, letting the cold air fill my lungs, feeling the ancient, unhealed ache deep inside the bone where the implants join my marrow.
 
-"They told us we were the vanguard of the New Eden," I murmur. "They told us our blood belonged to the sky. And for fifteen years, every time the static in my head made me want to throw myself off the roost, the siphon discharged ten thousand volts into my cervical spine to remind me that Subject AE-701 had no mother, no father, and no soul."
+"They told us we were the vanguard of the New Eden," I murmur. "They told us our blood belonged to the sky. And for twenty-one years, every time the static in my head made me want to throw myself off the roost, the siphon discharged ten thousand volts into my cervical spine to remind me that Subject AE-701 had no mother, no father, and no soul."
 
 Silence settles between us, heavy and unbroken. 
 

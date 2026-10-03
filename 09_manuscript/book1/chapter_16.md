@@ -62,7 +62,7 @@ Below me, pinned against the zinc floor, Tsunari’s eyes are wide, glassy with 
 
 My boots strike the alien's back at terminal velocity.
 
-Three hundred and twenty pounds of transgenic soldier, armor, and kinetic fury crash directly onto the creature’s thoracic spine. The impact shatters the zinc conduit beneath us, collapsing the floor of the duct in a roaring avalanche of sheet metal, severed conduit pipes, and choking alkaline dust into the subterranean mechanical vault ten feet below.
+Two hundred and thirty-five pounds of transgenic soldier, armor, and kinetic fury crash directly onto the creature’s thoracic spine. The impact shatters the zinc conduit beneath us, collapsing the floor of the duct in a roaring avalanche of sheet metal, severed conduit pipes, and choking alkaline dust into the subterranean mechanical vault ten feet below.
 
 We hit the concrete floor of the lower vault in a violent tangle of limbs and shattered armor.
 

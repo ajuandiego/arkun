@@ -9,7 +9,7 @@ The red sand does not yield. It freezes.
 
 By night, the Rust Barrens are not a desert; they are an open-air crypt. Without an upper ozone layer or cloud cover to insulate the ground, the surface temperature plummets seventy degrees the moment twilight bleeds into darkness. The oxidized iron dust, so fine it penetrates the seals of a respirator, crusts underfoot like frozen blood.
 
-I dig the heels of my scavenger boots into the slope of the dune, hauling three hundred and twenty pounds of transgenic soldier, shattered bone, and wet feathers through the freezing powder.
+I dig the heels of my scavenger boots into the slope of the dune, hauling two hundred and thirty-five pounds of transgenic soldier, shattered bone, and wet feathers through the freezing powder.
 
 Vram’s heavy combat boots drag two deep, parallel furrows through the red sand. His head lolls against my left shoulder, his breath coming in ragged, shallow gasps that freeze into clouds of white steam against my neck. His left arm hangs limp and unnatural, the shoulder joint dislocated, while his left wing trails behind us like a broken black sail, its primary quills snapped in half by the tungsten shrapnel.
 

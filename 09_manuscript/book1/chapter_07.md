@@ -1,11 +1,11 @@
 # Chapter 7 // Tsunari
 
 > *"Record expunged. Subject 07-V: Male, age seven. High fast-twitch density; superior ocular tracking. Family unknown. Cause of transfer: Consort Military Draft Mandate 12. No personal belongings permitted."*  
-> — Intake Registry, Gray Ring Child Orphanage Ward C (Year 26 AS)
+> — Intake Registry, Gray Ring Child Orphanage Ward C (Year 19 AS)
 
 ***
 
-The first thing that returns is the smell: diesel exhaust, scorching ozone, hot unpainted steel, and the faint, bitter tang of dried blood.
+The first thing that returns is the smell: scorched insulation, scorching ozone, hot unpainted steel, and the faint, bitter tang of dried blood.
 
 The second thing is the pain.
 
@@ -107,7 +107,7 @@ I expected him to crush my skull. I expected his talons to rip my windpipe open.
 
 Memory surfaces from my father’s cramped journals, written in faded black ink on yellowed pre-collapse paper:
 
-"The Vaelen leash is a synthetic quantum carrier wave," Jeffrey Thorne had written. "It controls the spliced brain through artificial harmonic oscillation. But baseline human genetics—uncorrupted, un-spliced chromosomal structures—possess a natural bio-electromagnetic null-field. To an alien signal, pure human touch is a ground wire. It snuffs the spark."
+"The Vaelen leash is a synthetic quantum carrier wave," Jeffrey Thorne had written. "It controls the spliced brain through artificial harmonic oscillation. But the Mosaic Keystone—the harmonized multi-strain receptor architecture I encoded into her chromosomes—generates a natural bio-electromagnetic null-field. To an alien signal, her touch is a ground wire. It snuffs the spark."
 
 My father wasn't speaking in metaphors. 
 

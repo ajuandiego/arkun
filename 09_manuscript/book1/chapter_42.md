@@ -4,7 +4,7 @@
 
 ***
 
-The storm above Sector 09 is a maelstrom of neon, tracer fire, and burning aviation fuel.
+The storm above Sector 09 is a maelstrom of neon, tracer fire, and exploding battery cells.
 
 I burst through the emergency roof hatch of Ventilation Tower 4, my fourteen-foot wings snapping outward into the vast, open chasm of the industrial upper tier. 
 
@@ -12,7 +12,7 @@ The scene is breathtaking in its apocalyptic fury.
 
 Suspended two hundred feet above the lower sumps is a web of massive steel crane gantries, conveyor catwalks, and colossal ventilation intake turbines churning against the toxic yellow haze of the High Barrens. In the vertical airspace between the gantries, Aeros-Legion 7 is putting on a masterclass in close-quarters dogfighting.
 
-Lieutenant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the rotor hubs of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning kerosene.
+Sergeant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the rotor hubs of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning sulfur-electrolyte.
 
 Beside her, young Toby Vance and Ferrin Calder fly in tight wingtip-to-wingtip formation. 
 

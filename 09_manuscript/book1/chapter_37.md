@@ -62,7 +62,7 @@ His blue eyes, wide and terrified with wonder, stare at the five-fold spectral f
 
 "My God..." the curator whispers, his voice cracking into a ragged rasp. "Jeffrey... what did you do?"
 
-Beside me, Vram steps up to the spectrometer, his silver-flecked eyes transfixed by the golden wave pulsing through my blood. He feels the resonance in his own marrow—a deep, cellular hum that makes the feathers along his neck bristle in instinctive greeting.
+Beside me, Vram steps up to the spectrometer, his gold furnace eyes transfixed by the golden wave pulsing through my blood. He feels the resonance in his own marrow—a deep, cellular hum that makes the feathers along his neck bristle in instinctive greeting.
 
 "What is that?" Vram asks, his voice low and urgent. "Those are five distinct lineages. Cross-strain hybridization is biologically impossible. If you inject two different chimeric strains into the same host, the immune system undergoes massive hemolysis within hours."
 

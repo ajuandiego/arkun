@@ -160,7 +160,7 @@ I don't run.
 
 I drop from the mirror rim, tucking my wings tight against my ribs in a low-altitude bullet glide just three feet above the sand. 
 
-The copper wind screams through the narrow canyon of solar mirrors. My primary flight quills scrape against the rusted steel girders on either side, throwing showers of orange sparks into the dark. My subcutaneous capillaries pulse with liquid solar fire, superheating my muscles, kicking my acceleration into supersonic overdrive. 
+The copper wind screams through the narrow canyon of solar mirrors. My primary flight quills scrape against the rusted steel girders on either side, throwing showers of orange sparks into the dark. My subcutaneous capillaries pulse with liquid solar fire, superheating my muscles, kicking my acceleration into predatory overdrive. 
 
 The air in my wake shimmers with extreme convection. The sand beneath me is scorched black where my thermal slipstream passes over it.
 
@@ -176,7 +176,7 @@ I don't let her touch the floor.
 
 I hit her at full speed.
 
-My right arm wraps around her waist like an iron band. Two hundred and twenty pounds of transgenic mass, backed by the full kinetic inertia of a high-speed glide, slams into her back.
+My right arm wraps around her waist like an iron band. Two hundred and thirty-five pounds of transgenic mass, backed by the full kinetic inertia of a high-speed glide, slams into her back.
 
 The sheer, overwhelming force of the collision lifts her clean off the concrete.
 
