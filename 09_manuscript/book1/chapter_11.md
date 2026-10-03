@@ -25,7 +25,7 @@ He stands motionless beside the dead transmitter, his tall, massive frame silhou
 
 "Ten hours," he corrects, his voice dropping into that low, gravelly timbre that seems to rattle in his chest rather than his throat. "Corvus is thorough. She doesn't trust field commanders who don't bring back corpses on ice. By dawn, she will have biometric auditors combing Conduit 12-B with ultraviolet probes. When they don't find carbonized bone fragments from a ruptured pressurized suit, the hunt orders will go wide."
 
-He turns toward me. His molten gold eyes, with their predatory vertical slit pupils, take in my loose wrists, the relaxed coil of my shoulders, and the distance between my boots and the weapon on the table. 
+He turns toward me. His molten gold eyes take in my loose wrists, the relaxed coil of my shoulders, and the distance between my boots and the weapon on the table. 
 
 A faint, humorless twitch pulls at the corner of his sculpted beard. 
 

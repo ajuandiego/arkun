@@ -126,7 +126,7 @@ A deep, shuddering gasp rips through Vram’s chest. The toxic, chaotic hum in h
 
 His eyes open.
 
-They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his vertical slit pupils are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
+They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his molten gold eyes are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
 
 He looks down at me. 
 

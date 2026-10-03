@@ -64,7 +64,7 @@ His large, scarred hands haul the shoulder buckles down, his knuckles brushing t
 
 "Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper, ozone, and dark cedar against my cheek. "Listen to me."
 
-I look up into his golden, predatory gaze. His vertical slit pupils are dilated, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
+I look up into his molten gold gaze, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
 
 "The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming thrusters above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
 

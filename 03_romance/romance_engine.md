@@ -60,7 +60,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 *   **Subverting the Cliché Climax:** Book 1 resists manufactured melodrama, unearned kisses, or instant trust. Their intimacy is forged across fire, combat triage, and mutual survival.
 *   **The Crucible Choice:** 
     *   When Elena Corvus and the Directorate demand the execution of the "insurgent runner" and offer Vram full reinstatement, Vram refuses. He severs his ties to the military hierarchy to stand shoulder-to-shoulder with Tsunari.
-    *   In Chapter 26, wounded and freezing in the culvert, they seal their emotional alliance: *"Partners, or nothing."*
+    *   In Chapter 21, sheltering in the culvert, their searing physical proximity flares into an intimate near-miss, but Vram stops when she asks him inside, refusing to cross into full intimacy until they stand on equal ground. In Chapter 26, freezing in the bunker basement against the Night Freeze, triage turns into their sovereign compact: *"Partners, or nothing."*
 *   **The Consummation (Chapter 38: The Glass Vault):**
     *   In the quiet alcove beneath the pre-Fall ruins before their assault on the Lazarus Foundry, their agonizing restraint yields to a single, hard-won open-door sexual union.
     *   It is raw, grounded, and deeply reverent—two chimeric outcasts shedding their armor, scars, and defenses, uniting their heat and resonance as sovereign equals.

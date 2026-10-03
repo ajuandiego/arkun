@@ -65,7 +65,7 @@ They have our scent.
 
 "Vram," I whisper, leaning down until my lips brush his ear, shaking his uninjured shoulder. "Wake up. We have company."
 
-His eyelids flutter. His vertical slit pupils contract into narrow, fevered needles as his gaze struggles to find mine in the dark. 
+His eyelids flutter. His golden pupils contract into narrow, fevered needles as his gaze struggles to find mine in the dark. 
 
 "Tsune..." he rasps, his dry lips cracking with the word. "The... the sky..."
 

@@ -31,25 +31,25 @@
 ## 2. Trilogy Heat & Spice Profile Arc
 
 ```
-[ BOOK 1: Stolen Breath ]  -->  🌶️ to 🌶️🌶️🌶️ (Restrained Tension, Culvert Compact & Vault Consummation)
-[ BOOK 2: Crown of Salt ]  -->  🌶️🌶️ to 🌶️🌶️🌶️ (Geothermal Haven Passion & Heartbreak)
+[ BOOK 1: Stolen Breath ]  -->  🌶️ to 🌶️🌶️🌶️ (Restrained Tension, Culvert Near-Miss, Bunker Compact & Vault Consummation)
+[ BOOK 2: Crown of Salt ]  -->  🌶️🌶️ to 🌶️🌶️🌶️ (Geothermal Haven Reunion & Heartbreak)
 [ BOOK 3: Unleashed ]      -->  🌶️🌶️🌶️ to 🌶️🌶️🌶️🌶️ (Touch-Starved Reunion & Sovereign Climax)
 ```
 
-### Book 1: *Stolen Breath* (Restrained Tension, Culvert Compact & Vault Consummation)
+### Book 1: *Stolen Breath* (Restrained Tension, Culvert Near-Miss, Bunker Compact & Vault Consummation)
 *   **Spice Level:** 🌶️ to 🌶️🌶️🌶️ (Sensory Overload, Agonizing Restraint, Triage Compact & Single Open-Door Consummation Peak)
 *   **The Progression:**
     *   *Weaponized Friction (Act I):* Knife edge pressed against breastbone; breath mingling over an interrogation bench; cold hostility masking visceral sensory shock.
     *   *The Inciting Touch (Act I):* The violent shock of silence when her bare palm touches his exposed neural collar, short-circuiting his aggression.
     *   *Bio-Decontamination (Act II):* Stripping down in the narrow emergency pod to scour caustic propellant from skin—raw visual inspection of scars, chimeric feather shafts, and fine reptilian scale textures.
-    *   *The Fever Delirium & Culvert Compact (Act II / III):* Vram in severe lattice seizure; Tsunari holding his skull against her chest to cool his core. In the culvert against the Night Freeze (Chapter 26), they seal their alliance: *"Partners, or nothing."*
+    *   *The Culvert Near-Miss & Bunker Triage Compact (Act II / III):* In the culvert (Chapter 21), high-voltage physical tension erupts, but Vram refuses to take her when she asks him inside, honoring her autonomy. In the bunker basement against the lethal Night Freeze (Chapter 26), raw survival triage gives way to their emotional compact: *"Partners, or nothing."*
     *   *The Open-Door Consummation (Act III, Chapter 38: The Glass Vault):* In the quiet alcove beneath the pre-Fall ruins before the Foundry raid, restraint shatters into a single, intensely reverent, grounded sexual union.
     *   *The Climax Compact:* Defying corporate and alien masters together, shattering the Foundry shoulder to shoulder as sovereign equals.
 
 ### Book 2: *Crown of Salt* (Fierce Passion & Heartbreaking Separation)
-*   **Spice Level:** 🌶️🌶️ to 🌶️🌶️🌶️ (Full Consummation & Deep Vulnerability)
+*   **Spice Level:** 🌶️🌶️ to 🌶️🌶️🌶️ (Deep Vulnerability & Geothermal Haven Reunion)
 *   **Key Beats:**
-    *   *The Geothermal Haven:* In a secluded subterranean sulfur spring beneath the Salt Flats, the simmering restraint of months completely detonates into fierce, ravenous, and deeply emotional physical consummation.
+    *   *The Geothermal Haven:* In a secluded subterranean sulfur spring beneath the Salt Flats, their reunion after his harrowing abduction and rescue erupts into fierce, ravenous, and deeply emotional physical union, cementing the bond forged in the Vault.
     *   *Morning After & Domestic Tenderness:* The ferocious flight commander waking up entirely unguarded, burying his face in the crook of her neck, whispering *"Tsunie"* as a quiet, sacred prayer.
     *   *The Agony of Separation:* The hermetic blast door sealing between them as Vram stays behind to detonate the bio-furnace, tearing their nervous systems apart just after reaching total union.
 

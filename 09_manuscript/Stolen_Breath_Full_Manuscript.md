@@ -2561,7 +2561,7 @@ He stands motionless beside the dead transmitter, his tall, massive frame silhou
 
 "Ten hours," he corrects, his voice dropping into that low, gravelly timbre that seems to rattle in his chest rather than his throat. "Corvus is thorough. She doesn't trust field commanders who don't bring back corpses on ice. By dawn, she will have biometric auditors combing Conduit 12-B with ultraviolet probes. When they don't find carbonized bone fragments from a ruptured pressurized suit, the hunt orders will go wide."
 
-He turns toward me. His molten gold eyes, with their predatory vertical slit pupils, take in my loose wrists, the relaxed coil of my shoulders, and the distance between my boots and the weapon on the table. 
+He turns toward me. His molten gold eyes take in my loose wrists, the relaxed coil of my shoulders, and the distance between my boots and the weapon on the table. 
 
 A faint, humorless twitch pulls at the corner of his sculpted beard. 
 
@@ -3677,7 +3677,7 @@ His large, scarred hands haul the shoulder buckles down, his knuckles brushing t
 
 "Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper, ozone, and dark cedar against my cheek. "Listen to me."
 
-I look up into his golden, predatory gaze. His vertical slit pupils are dilated, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
+I look up into his molten gold gaze, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
 
 "The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming thrusters above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
 
@@ -4604,7 +4604,7 @@ They have our scent.
 
 "Vram," I whisper, leaning down until my lips brush his ear, shaking his uninjured shoulder. "Wake up. We have company."
 
-His eyelids flutter. His vertical slit pupils contract into narrow, fevered needles as his gaze struggles to find mine in the dark. 
+His eyelids flutter. His golden pupils contract into narrow, fevered needles as his gaze struggles to find mine in the dark. 
 
 "Tsune..." he rasps, his dry lips cracking with the word. "The... the sky..."
 
@@ -5003,7 +5003,7 @@ A deep, shuddering gasp rips through Vram’s chest. The toxic, chaotic hum in h
 
 His eyes open.
 
-They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his vertical slit pupils are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
+They are no longer milky with delirium or glazed by lattice shock. In the dim, amber glow of the transformer, his molten gold eyes are razor-sharp, clear, and blazing with a raw, predatory hunger so fierce it steals the breath from my throat.
 
 He looks down at me. 
 
@@ -6624,7 +6624,7 @@ The words hang in the cold air of the lab.
 
 Gideon steps to the archival terminal, pulling up ancient genomic schematics deciphered from Dr. Thorne's original Persepolis notes.
 
-"Twenty years ago," Gideon explains, his words tumbling over one another in frantic excitement, "your father realized the Directorate’s grand sin. The corporate geneticists were taking fragmented prehistoric strains and forcing them into isolated, sterile military castes—turning human beings into one-dimensional weapons who were doomed to burn out from lattice burn and neuro-toxicity."
+"Twenty years ago," Gideon explains, his words tumbling over one another in frantic excitement, "your father realized the Directorate’s grand sin. The corporate geneticists were splicing fragmented prehistoric strains into narrow, volatile military builds—forcing two or three conflicting lineages into unstable soldiers who were doomed to burn out from siphon feedback, neuro-decay, and lattice burn."
 
 He points a trembling finger at the five dancing waves of light.
 

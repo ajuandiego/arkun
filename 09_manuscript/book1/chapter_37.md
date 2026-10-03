@@ -76,7 +76,7 @@ The words hang in the cold air of the lab.
 
 Gideon steps to the archival terminal, pulling up ancient genomic schematics deciphered from Dr. Thorne's original Persepolis notes.
 
-"Twenty years ago," Gideon explains, his words tumbling over one another in frantic excitement, "your father realized the Directorate’s grand sin. The corporate geneticists were taking fragmented prehistoric strains and forcing them into isolated, sterile military castes—turning human beings into one-dimensional weapons who were doomed to burn out from lattice burn and neuro-toxicity."
+"Twenty years ago," Gideon explains, his words tumbling over one another in frantic excitement, "your father realized the Directorate’s grand sin. The corporate geneticists were splicing fragmented prehistoric strains into narrow, volatile military builds—forcing two or three conflicting lineages into unstable soldiers who were doomed to burn out from siphon feedback, neuro-decay, and lattice burn."
 
 He points a trembling finger at the five dancing waves of light.
 
