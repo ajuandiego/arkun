@@ -28,7 +28,7 @@
 *   **Chapter 6 (Dual POV): The Sovereign Reunion (🌶️🌶️🌶️)**
     *   *Setting:* The shattered basalt altar & a secluded geothermal haven.
     *   *Core Action:* Tsunari drops from the ceiling, severing Vram's remaining bonds. United in combat, their combined fire and shadow annihilate the cult leadership: Malakar is crushed, Maeva is driven screaming into the deep abyss.
-    *   *Romance Beat:* In a secluded subterranean hot spring away from the battlefield, the emotional dam breaks. Furious, terrified, and overwhelmed with relief, Tsunari confronts him; Vram sees the blackened brand on her shoulder and breaks down in raw agony and fierce devotion. The slow-burn tension explodes into their first uninhibited, passionate consummation—sealing their souls in complete physical and emotional unity.
+    *   *Romance Beat:* In a secluded subterranean hot spring away from the battlefield, the emotional dam breaks. Furious, terrified, and overwhelmed with relief, Tsunari confronts him; Vram sees the blackened brand on her shoulder and breaks down in raw agony and fierce devotion. Their starved, desperate need erupts into a fierce, passionate reunion consummation—reaffirming the bond forged in the Vault and sealing their souls in unbreakable physical and emotional unity.
 
 ---
 

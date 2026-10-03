@@ -89,13 +89,11 @@ It had been *ignited*.
 
 The Null-frequency—that miraculous, impossible harmony between the winged commander and the scavenger girl—had sent a ripple through the planetary quantum grid. An anomalous bio-magnetic flare that had pierced the ionosphere like a beacon.
 
-And out in the dark, beyond the boiling oceans where human ships had not sailed in forty years, the Shepherds had answered.
+And out in the dark, beyond the boiling oceans where human ships had not sailed in forty years, Maeva knew the Shepherds would hear it.
 
 The true Vaelen Archons. Not the petty, chitinous Inquisitors who traded air tokens to corporate magistrates in Dome Alpha, but the ancient titans who harvested worlds like wheat fields. 
 
-They had felt the spark. 
-
-They were turning their barges toward the western continent.
+Once the heart-blood of the sun-bearer was poured into the salt altar, the call across the sea would be complete. The titans would turn their barges toward the western continent.
 
 Maeva bowed her head until her forehead touched the cold basalt stone, letting the ash and sulfur coat her lips.
 

@@ -53,7 +53,7 @@ cardiac load: 142 bpm
 
 My breath stutters in my throat. 
 
-The white-hot needle behind my eye blunts by a fraction of an inch. The violet light dancing across my vision dims from an blinding glare to a dull, violet fog. 
+The white-hot needle behind my eye blunts by a fraction of an inch. The violet light dancing across my vision dims from a blinding glare to a dull, violet fog. 
 
 *Just being near her cools the current.*
 
