@@ -1,0 +1,46 @@
+---
+description: >-
+  Story-line pass for an Arkun Cycle editorial review. Use with the editorial
+  review rule when judging acts, themes, stakes, and whether the book answers
+  its own question. Not the causality pass.
+alwaysApply: false
+---
+
+# Story line
+
+Category: Story. Shared method, severity, and finding shape live in `.cursor/rules/editorial-review.mdc`.
+
+This pass asks what the book is about and whether the pages deliver that argument. Leave "how did the key change hands" to the plot rule.
+
+## The argument
+
+Book 1, *Stolen Breath*, asks whether Tsunari Thorne and Vram Tyage can turn a hunt into a chosen alliance in time to expose the extinction clock, without corporate pardon or cult worship owning either of them.
+
+Read `pitch.md`, `05_plot/trilogy_overview.md`, and `05_plot/story_beats_dual_track.md`. The external track and the romantic track must tighten together. A battle that does not change the bond, or a bond scene that does not change the survival problem, is a story-line fault.
+
+## Shape
+
+`05_plot/book1_breakdown.md` is the chapter promise. Four parts, 44 chapters, five interludes:
+
+- Part I, chapters 1 to 10: the theft, the hunt, the first touch.
+- Part II, chapters 11 to 22: secret captivity, then defection.
+- Part III, chapters 23 to 34: wasteland, cult, sump.
+- Part IV, chapters 35 to 44: the Glass Vault, the siege, the compact that opens Book 2.
+
+World truth arrives in four rings, in order: scarcity (1 to 10), the vassal empire (11 to 22), wasteland faith (23 to 34), the vault and the decrypted extinction plan (35 to 44). A later ring dumped into an early part is a Story finding if it empties the book's question, and a Spoiler finding if it spends a secret early. Report it once, under Spoiler, and note the story cost in one clause.
+
+Personal stake (Sora alive inside the dome; the father the book still treats as lost) stays braided to the planetary stake (air, the 14-month seal, the Lazarus Key). If one stake vanishes for many chapters, say so.
+
+## Ending
+
+The ending answers Book 1: they choose each other against Corvus and the Forger, and Sector 09's immediate battle turns. It opens *Crown of Salt*. It does not finish the aerosol cure, the Spire rescue, or the journey to the Verdant Cradle. Those are later books. The Gospel of the Slag interlude is the hook, not a second climax.
+
+## What to flag
+
+- A part that repeats the previous part's dramatic turn.
+- A scene that does not change the story question, a relationship, or what the reader understands.
+- A theme stated in dialogue instead of forced by a choice. Themes in `trilogy_overview.md`: autonomy against conditioning, fire and shadow, romance earned through competence, truth against the dome's lie.
+- A pitch promise with no payoff: the stolen key, the touch that silences his fever, the rogue alliance, the Glass Vault.
+- Part titles or act breaks that disagree with the breakdown. Mark that as a divergence and say whether the new shape is clearer.
+
+Do not demand that every chapter summary appear verbatim. Demand the dramatic job of that chapter.

@@ -1,0 +1,37 @@
+---
+description: >-
+  Plot and causality pass for an Arkun Cycle editorial review. Use with the
+  editorial review rule when judging plot holes, motives, means, and chains of
+  cause. Not theme, and not line-by-line continuity.
+alwaysApply: false
+---
+
+# Plot
+
+Category: Plot. Shared method lives in `.cursor/rules/editorial-review.mdc`. Body-state tracking lives in `.cursor/rules/editorial-continuity.mdc`.
+
+For each major turn, name the cause already on the page. If you cannot, it is a hole.
+
+## Chains that must hold
+
+Follow these across the whole file. A break is a finding.
+
+- The Lazarus Key: who copies it, who carries it, who can decrypt it, and what the decryption actually proves when it happens.
+- The air clock: what Tsunari thinks is true in chapter 1, and what later evidence adds. The clock cannot reset without a cause.
+- The hunt: why Vram is sent, why he hides her instead of delivering her, and why his own command does not notice immediately.
+- Redoubt Station 14 through the defection: Corvus, Xaevis, and the Inquisitor inspection must have a reason to look, and Vram's treason must follow from that pressure plus the tether.
+- The wasteland sequence in `05_plot/story_beats_dual_track.md`: crash, feral pack, Kira Brandt, Boran, Caelia, the Forger, Malakar, Madame Chen. Missing steps are fine only when a later chapter still works. Say which later chapter becomes unearned.
+- The vault and the siege: Gideon, the squadron's choice, Caelia's turn, and Malakar's defeat each need a setup you can point to.
+
+## Tests
+
+- Motive: what does this person want in this scene, and did the book already show that want?
+- Knowledge: can they act on a fact they have not learned? A spoken secret is Dialogue or Spoiler. A plan that requires an unlearned fact is Plot.
+- Means: check `01_world/biosystem_and_tech.md` and the proximity table in `03_romance/romance_engine.md`. No human jets or combustion fuel. Wings, claws, EMP, and the tether have limits. Separated, Vram still functions and still hurts. He does not become helpless at ten paces, and he does not fight at full clarity while cut off from her if the page has established collapse.
+- Opposition: Corvus, Xaevis, the Forger, Malakar, and Caelia pursue their own goals. They do not wait offstage until the leads need a fight.
+- Cost: a win that spends nothing (no exposure, no injury, no lost time on the air clock) is a hole if the breakdown treats that win as desperate.
+- Coincidence: one timely arrival can be fate. Two in a row, with no plant, is a finding.
+
+## Leave to other passes
+
+Do not grade theme, prose texture, or whether a kiss arrives early. Send early revelation of a later-book payoff to Spoilers. Send a wound that heals with no scene to Continuity.

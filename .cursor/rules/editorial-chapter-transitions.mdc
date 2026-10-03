@@ -1,0 +1,26 @@
+---
+description: >-
+  Chapter-transition pass for an Arkun Cycle editorial review. Use with the
+  editorial review rule when judging hooks, POV handoffs, epigraphs, interludes,
+  and part breaks.
+alwaysApply: false
+---
+
+# Chapter transitions
+
+Category: Transition. Shared method lives in `.cursor/rules/editorial-review.mdc`.
+
+Read each chapter ending against the next opening. Use `05_plot/book1_breakdown.md` for the intended POV, epigraph type, and interlude slot.
+
+## Handoff
+
+- The last beat poses a question, threat, or decision. The next chapter answers it, worsens it, or changes whose problem it is. A recap opening is a finding.
+- Time, place, wounds, and tether state survive the break. A cold open may skip hours only if the new chapter marks the skip. Unmarked gaps belong to Continuity. This pass owns the missing bridge.
+- Alternating Tsunari and Vram is the default. Follow the breakdown where it authorizes a repeat POV or a dual-POV chapter (late siege chapters). Any other head-hop inside one chapter is a finding. The second head must learn something the first did not show, or the repeat is waste.
+- An interlude is omniscient and sits in the breakdown's slot. The five Book 1 interludes are The Glass Moth, The Sterile Room, The Quota Calculation, The Fatal Siphon, and The Gospel of the Slag. A missing slot, a relocated interlude, or an interlude that restarts the plot instead of widening it is a finding.
+
+## Epigraphs and parts
+
+- Odd chapters: archival artifact. Even chapters: Glass Vault lexicon. The entry should charge the chapter that follows. An epigraph that explains the ending of its own chapter, or uses a term the glossary files to a later ring, is a Transition finding and may also be a Spoiler. Report the spoil under Spoilers.
+- Part breaks match the act turns: theft and touch, fallen sky, feral crucible, Sector 09 siege. A banner that announces a turn the pages have not reached is a finding.
+- Target chapter weight in the breakdown is about 1,600 to 2,200 words. Flag only chapters so short the beat cannot happen, or so long the chapter holds two chapters' jobs. Do not nitpick small variance.

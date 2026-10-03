@@ -1,0 +1,36 @@
+---
+description: >-
+  Dialogue integrity pass for an Arkun Cycle editorial review. Use with the
+  editorial review rule when judging voice, subtext, address, slang, and
+  speeches that leak facts or theme.
+alwaysApply: false
+---
+
+# Dialogue integrity
+
+Category: Dialogue. Shared method lives in `.cursor/rules/editorial-review.mdc`.
+
+Cover the names and judge the talk. If the line could move to another character with no change, it fails.
+
+## Voices
+
+From the dossiers and `02_characters/secondary_characters.md`:
+
+- Tsunari calculates. She does not banter her fear away.
+- Vram is clipped, commanding, and later raw. He does not quip.
+- Rook (Ferrin Calder) jokes, including at Vram. Cassian calculates the exit. Veda is abrasive. Toby is quiet and loyal.
+- Dome speakers sound like people who have never paid a Liter-Hour. Gray Sector speakers sound like people who have. Legion slang (mayfly, and the glossary's other soldier terms) stays with soldiers until a civilian has a reason to know it.
+- Vaelen speech follows `06_style/glossary_and_terminology.md` and `01_world/factions_and_politics.md`: harmonic, bone-deep, not chat.
+
+Address is a continuity of power. "Commander" in public, "Vram" when the relationship has earned it, "Tsunie" only from him and only in private vulnerability. A slip is a finding.
+
+## Integrity
+
+- No speech that exists to brief the reader ("as you know, the Filter Tax..."). Information the listener needs can be spoken. Information both people already live with cannot.
+- Subtext over thesis. They should not announce autonomy, fate, or the romance phase.
+- A question is answered, dodged, or interrupted. Consecutive monologues that never touch are a finding.
+- Lies match the speaker's goal. Track a lie that a later line forgets.
+- Intimate dialogue follows `03_romance/tropes_and_heat_profile.md`: no performed dirty talk. Want sounds like these two bodies, specific and plain.
+- Dialect is light. Do not invent a second slang system beside the glossary.
+
+Quote the line and name who should have been able to say it. A spoken secret the plot still treats as unknown is also a Spoiler. Put the full note in Spoilers and leave a one-line pointer here.

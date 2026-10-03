@@ -1,0 +1,34 @@
+---
+description: >-
+  Continuity pass for an Arkun Cycle editorial review. Use with the editorial
+  review rule when tracking time, injuries, objects, names, and who already
+  knows what.
+alwaysApply: false
+---
+
+# Continuity
+
+Category: Continuity. Shared method lives in `.cursor/rules/editorial-review.mdc`.
+
+Build the ledger while reading, then report only the breaks. The review's closing ledger is the clean version of this pass.
+
+## Ledger
+
+Record, per chapter: elapsed time, place, who is in the room, injuries and treatment, wing and claw state, collar and siphon visible or hidden, fever and last skin contact, carried objects, and new facts learned.
+
+Fixed facts, unless a canon file is quoted to the contrary:
+
+- Year 40 AS is 2072 CE. Tsunari is 26, born Year 14 AS. Vram is 28, born Year 12 AS. Both are Storm-Born.
+- Sky-Born means a living memory of blue sky. Storm-Born means no such memory.
+- Tsunari hides an unported throat, forearm scales, slit pupils, and retracted pedal sickle-claws. Vram's wings are a 14-foot span and fold through the tunic. His siphon ports are cervical and thoracic.
+
+## Breaks
+
+- A wound, burn, shredded primary, or empty filter is gone with no treatment and no time skip.
+- Travel crosses `01_world/geography_and_territories.md` faster than the page admits, or a place from `04_settings/locations_and_sensory.md` changes layout.
+- The Lazarus Key, a weapon, a crawler, or a rebreather changes owner with no handoff.
+- A name, callsign, age, or strain spelling drifts. Tsune is the field name. Tsunie is Vram's private diminutive only.
+- Someone uses a fact, face, or plan the ledger says they have not met yet.
+- Fever ignores the last touch: silence with no contact, or agony during contact, unless the page gives a new cause.
+
+Quote both chapters. One contradiction is a finding. Do not list every clean handoff.
