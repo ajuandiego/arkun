@@ -14,7 +14,7 @@ Run this only when the user asks for an editorial review and gives a manuscript 
 
 The file at that path is the text under review. `09_manuscript/book1/*.md` and `reader/` are not a second draft to reconcile unless the user asks for a version diff. `07_prompts/` is art direction, not plot canon.
 
-Do not edit the manuscript, the canon, or these rules unless the user asks. The review file and `10_reviews/ledger.csv` are the delivery. Write those even when the user does not repeat the instruction.
+Do not edit the manuscript, the canon, or these rules unless the user asks. The review file and `10_reviews/ledger.csv` are the delivery. Write those even when the user does not repeat the instruction. Writing a review does not change the book. Implementing findings is `.cursor/rules/editorial-apply.mdc`, and only when the user asks to apply a review.
 
 ## How to read
 
@@ -90,7 +90,7 @@ Reviews live in `10_reviews/`. `10_reviews/ledger.csv` is the index of reviews a
 Columns:
 
 ```csv
-number,file,date,manuscript,scope,status
+number,file,date,manuscript,scope,status,fixes
 ```
 
 - `number`: integer. The next review is one higher than the highest `number` in the ledger. If the file is empty except for the header, the next number is 1.
@@ -98,7 +98,8 @@ number,file,date,manuscript,scope,status
 - `date`: the day the review is written, `YYYY-MM-DD`.
 - `manuscript`: repo-relative path of the file reviewed.
 - `scope`: `full` when every aspect rule is applied. When the user names aspects, list those ids joined with `|`: `story-line`, `plot`, `continuity`, `characters`, `world-sensory`, `romance`, `chapter-transitions`, `dialogue`, `spoilers`.
-- `status`: `applied` once the review file is written.
+- `status`: `applied` once the review file is written. This means the review exists. It does not mean the manuscript was changed.
+- `fixes`: `open` on a new row. `.cursor/rules/editorial-apply.mdc` moves it to `partial` or `done`.
 
 Write `10_reviews/NNN.md` first. Then append one row. Quote a field that contains a comma. Never reuse a number, never overwrite an applied review, and never renumber old rows. If the folder has a numbered file the ledger lacks, add the missing row from that file before taking a new number. If the ledger lists a file that is not on disk, stop and tell the user.
 

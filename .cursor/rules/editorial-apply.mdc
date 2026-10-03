@@ -1,0 +1,69 @@
+---
+description: >-
+  Apply an Arkun Cycle editorial review to the manuscript. Use when the user
+  asks to apply, implement, or fix the book from a review in 10_reviews, or
+  names a review number to act on. Analyze the findings first, then edit only
+  what the review supports.
+alwaysApply: false
+---
+
+# Apply a review
+
+Use this when the user wants a written review carried into the manuscript. Do not use it to invent a new review. Writing a review stays in `.cursor/rules/editorial-review.mdc`.
+
+## Read before editing
+
+1. Read `10_reviews/ledger.csv`. If the user does not name a number, use the highest `number` whose `fixes` value is `open` or `partial`. If they name one, use that row. If `fixes` is already `done`, say so and stop unless they ask to reopen it.
+2. Read `10_reviews/NNN.md` for that row. The `manuscript` column is the only file you may edit. Do not also edit a sibling `.md` or `.txt` unless the user asks.
+3. Read `10_reviews/NNN_apply.md` if it exists. It is the checklist. Do not re-apply a row marked `done`.
+4. Reopen the canon file named in a finding before changing prose that depends on it. `concept.md` still loses to the numbered canon.
+
+## Analyze
+
+Treat each severity heading in the review as one finding. Number them in file order: `F01`, `F02`, and so on. Skip the verdict, the working-list, and the story-notes unless they contain a heading with a severity.
+
+Sort each finding before any edit:
+
+- `apply`: a manuscript error or a broken ending, with a direction that does not require a new canon fact.
+- `ask`: a canon conflict, a canon gap, or a divergence the review said not to revert by default. Do not choose the winner yourself. Ask in the same turn, and apply nothing in that cluster until the user answers.
+- `skip`: a nit, a stretch the review says was not read word for word, or a passage the review names as already working. Skip these unless the user says to include nits or names that finding.
+- `blocked`: the direction needs a chapter the review did not verify, or two findings give opposite edits to the same sentences. Do not guess. Mark it blocked and leave the prose.
+
+Default batch, unless the user names a smaller set: every `apply` finding rated Blocker or Major. Minors only when they say "apply the minors" or "apply all." Nits only when they say "include nits."
+
+If any finding is `ask`, send those questions first and still apply the `apply` findings that do not touch the same scenes.
+
+## Edit
+
+Follow the finding's direction. Change the smallest span that makes the finding false on a reread. Do not rewrite a chapter to improve the prose around it. Do not add a sex scene, a death, or a reveal the chosen contract does not already allow.
+
+When a canon conflict is settled by the user, apply only that contract. Leave the other contract's file untouched.
+
+After the edits, reread each changed passage against its finding. If the contradiction is still on the page, the finding is not done.
+
+## Record
+
+Create or update `10_reviews/NNN_apply.md`. Do not rewrite `10_reviews/NNN.md`.
+
+```markdown
+# Application NNN
+
+- Review: 10_reviews/NNN.md
+- Manuscript: <path from the ledger>
+- Date: YYYY-MM-DD
+
+| id | severity | decision | where | result |
+|----|----------|----------|-------|--------|
+| F01 | Blocker | done | Chapter 44 | One sentence on what changed. |
+```
+
+`decision` is `done`, `ask`, `skip`, or `blocked`. `done` requires an edit already in the manuscript.
+
+Then update that row's `fixes` cell in `10_reviews/ledger.csv`:
+
+- `partial` if any Blocker or Major is still `ask`, `skip` by the default batch, or `blocked`.
+- `done` only when every Blocker and Major is `done` or an explicit `skip` the user confirmed.
+
+Do not renumber reviews. Do not set `status` back from `applied`.
+
+In chat, name the application file, list what changed by finding id, and list anything still `ask` or `blocked`. Do not paste the review again.
