@@ -4040,7 +4040,7 @@ In the dark cavern, he looks less like an executioner and more like a fallen, bu
 
 He looks down at me. 
 
-His golden slit pupils dilate, drinking in the sight of me in the amber glow.
+His molten gold eyes widen, drinking in the sight of me in the amber glow.
 
 I am bare from the waist up. 
 
@@ -5140,7 +5140,7 @@ My breath turns ragged. A shudder runs through my ribs—a breathless, silent tr
 
 Tsunari shifts.
 
-Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her vertical pupils narrow, expanding in the gloom until the golden rings of her irises glow like twin embers.
+Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her horizontal amber slit pupils are dilated wide in the gloom, her irises catching the faint light like warm embers.
 
 She doesn't flinch. She doesn't pull away.
 

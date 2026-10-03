@@ -53,7 +53,7 @@ In the dark cavern, he looks less like an executioner and more like a fallen, bu
 
 He looks down at me. 
 
-His golden slit pupils dilate, drinking in the sight of me in the amber glow.
+His molten gold eyes widen, drinking in the sight of me in the amber glow.
 
 I am bare from the waist up. 
 

@@ -333,7 +333,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 38 // Vram**
     *   *Lexicon Entry (Cross-Strain Biological Xenophobia):*  
-        > **Cross-Strain Xenophobia** *[pathology]*: The fatal immunological incompatibility between different chimeric strains (e.g., Lindwurm blood induces violent hemolysis in a Simurgh host). Tsunari's Mosaic Keystone architecture is the only known biological substrate that circumvents this barrier.
+        > **Cross-Strain Xenophobia** *[pathology]*: Severe immunological rejection between conflicting chimeric lineages (e.g., Lindwurm tissue rejecting Simurgh blood, or Gryphon neural receptors rejecting Dromaeon biochemistry). The Mosaic Keystone architecture is the only known genome capable of harmonizing all five lineages without rejection or neuro-decay.
     *   *Setting:* The secluded crystal alcove and outer ventilation matrix of The Glass Vault.
     *   *The Grand Romantic & Spicy Climax (🌶️🌶️🌶️🌶️🌶️ Open Door / The Sovereign Sanctuary):* While Gideon is locked in the lab synthesizing the stabilizer, Vram tenderly cleans and bandages Tsunari's shoulder burn. Safe for the first time in an unmonitored sanctuary, the emotional dam breaks. Vram confesses his unyielding devotion (*"There isn't an empire of glass or gold on this earth that could buy your breath from my hands"*). The slow-burn tension explodes into an unhurried, multi-climax consummation on the velvet archival rugs beneath the rainbow prisms: mutual oral sex (Tsunari tasting his heat, Vram worshiping her cool skin), manual foreplay, and deep, vocal, passionate intercourse as his flared wings enclose them in a private cocoon of gold and obsidian. In the high ventilation ducts above, Caelia watches their reverence and overhears radio comms proving The Forger views her as disposable bait; her fanatical illusions crumble into tears as she witnesses genuine, sovereign love.
 
@@ -381,8 +381,8 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 ***
 
 ### THE GOSPEL OF THE SLAG (Hook for Book 2: Crown of Salt)
-*   **POV:** Omniscient / Sister Maeva (First Acolyte of The Enlightened, marching across the Torrid Kiln).
-*   **Core Theme:** Religious fanaticism, the stolen Commander, and the subterranean salt ascension altar.
-*   **Narrative:** Sister Maeva and her surviving zealots transport the chained, fevered Commander Vram Tyage through the blistering heat of the salt flats toward the Sunken Cleft. Believing his Simurgh solar blood makes him the living avatar of the Sunken Sun, they prepare to force him onto their Salt Threshing Altar to crown him in molten silver. Meanwhile, across the desolate dunes, Tsunari follows the scent of ozone and the branded trail, her Spire hooks readied for war. Directly sets up **Book 2: Crown of Salt**.
+*   **POV:** Omniscient / Sister Maeva (First Acolyte of The Enlightened, Sub-Level 7 Basalt Caverns beneath Sector 04).
+*   **Core Theme:** Religious fanaticism, alien catalytic baptism, and the awakening of the Terra-Pylons.
+*   **Narrative:** In the boiling basalt cavern three hundred feet beneath Sector 04, Sister Maeva conducts the sacred Liturgy of the Slag. Dipping her bronze brand into a boiling fissure of raw Vaelen atmospheric catalytic slurry, she sears the bifurcated shepherd’s crook—the alien rune for *The Harvested Cattle*—into the skin of her inner thigh in ecstatic devotion. As the brand smokes, the tectonic bedrock hums with the fourteen-hertz harmonic pulse of the Terra-Pylons awakening across the continent. With Commander Vram Tyage already abducted in chains and transported toward the Sunken Cleft, the ritual seals the dark covenant of the salt zealots, directly setting up **Book 2: Crown of Salt**.
 
 ***
