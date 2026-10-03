@@ -64,7 +64,7 @@ His blue eyes, wide and terrified with wonder, stare at the five-fold spectral f
 
 Beside me, Vram steps up to the spectrometer, his gold furnace eyes transfixed by the golden wave pulsing through my blood. He feels the resonance in his own marrow—a deep, cellular hum that makes the feathers along his neck bristle in instinctive greeting.
 
-"What is that?" Vram asks, his voice low and urgent. "Those are five distinct lineages. Cross-strain hybridization is biologically impossible. If you inject two different chimeric strains into the same host, the immune system undergoes massive hemolysis within hours."
+"What is that?" Vram asks, his voice low and urgent. "Those are all five ancient lineages. The Directorate can barely balance two complementary strains in an operative without tissue rejection or neuro-decay. Unifying all five lineages in one body is biologically impossible—the immune systems should tear each other to pieces."
 
 Gideon slowly lowers his hands, turning to look at me as if I were a sacred relic uncovered from the bedrock of the world.
 

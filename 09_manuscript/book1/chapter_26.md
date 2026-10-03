@@ -200,7 +200,7 @@ Vram looks down at me. The harsh lines of his face soften, a slow, reverent smil
 
 "Partners," he agrees.
 
-"Then I'm yours," I whisper, curling my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
+I curl my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
 
 Outside, the Night Freeze howling across the Barrens can freeze the world to ash.
 

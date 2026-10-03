@@ -566,7 +566,7 @@ Underneath my amber welder goggles, my translucent nictitating membranes flick a
 
 The words ring louder in my skull than the howling squall. 
 
-*Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4.*
+*Thorne, Sora — Junior Synthetics Assistant, Culture Lab 4.*
 
 Ten years. Ten long, brutal years of scouring the undercity, eating sulfur-tainted rat meat, sleeping with a bodkin knife under my cheek, believing my sister’s bones were dissolving in a corporate ash pit. And all this time, she was three hundred feet above my head, walking the pristine, white-tiled corridors of the Green Dome, breathing filtered, perfume-laced air, wearing the lab coat of the butchers who broke our father.
 
@@ -1147,7 +1147,7 @@ He wants to tear away the mask. He wants to see the empty, unscarred skin where 
 
 Panic, cold and absolute, surges through my veins. 
 
-If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Key* is lost, the 14-month countdown will tick down to zero in silence, and Sora will die in Bio-Lab 4 without ever knowing I came for her.
+If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Key* is lost, the 14-month countdown will tick down to zero in silence, and Sora will die in Culture Lab 4 without ever knowing I came for her.
 
 *No.*
 
@@ -2097,7 +2097,7 @@ A tense, electric quiet fills the room.
 
 My thoughts race, colliding against the 14-month countdown burned into my memory. 
 
-Sora is inside Bio-Lab 4. The Consortium is planning an atmospheric purge. I have the Lazarus Key burning against my ribs, and I am locked in an off-grid bunker on an eight-hundred-foot cliff with a six-foot-four transgenic sky-lord who has just severed his corporate leash to keep me as his personal biological shield.
+Sora is inside Culture Lab 4. The Consortium is planning an atmospheric purge. I have the Lazarus Key burning against my ribs, and I am locked in an off-grid bunker on an eight-hundred-foot cliff with a six-foot-four transgenic sky-lord who has just severed his corporate leash to keep me as his personal biological shield.
 
 I look at him—this undefeated war machine, this monster who could crush my ribs with one hand, standing before me like a condemned man begging for an extra breath of air.
 
@@ -2200,7 +2200,7 @@ Her horizontal pupils contract into razor-thin points.
 
 "You know about Sora," she whispers, a deadly edge hardening her tone.
 
-"I saw the personnel log... in the breach telemetry," I breathe, my chest heaving against her knees. "Thorne, Sora. Junior Synthetics Assistant. Bio-Lab 4. I know why you took the Lazarus wafer. I know what you're fighting for."
+"I saw the personnel log... in the breach telemetry," I breathe, my chest heaving against her knees. "Thorne, Sora. Junior Synthetics Assistant. Culture Lab 4. I know why you took the Lazarus wafer. I know what you're fighting for."
 
 I reach up with my right hand, my fingers trembling violently, and lay my open palm flat against the cold stone between her boots.
 
@@ -3782,7 +3782,7 @@ And then, from the freezing storm clouds directly above the gorge, a dark winged
 
 Toby.
 
-Specialist Tobin Vance—nineteen years old, nineteen pounds underweight, flying on an oversized combat harness with quills barely three years matured—dives straight through the tracer fire.
+Specialist Tobin Vance—twenty-one years old, nineteen pounds underweight, flying on an oversized combat harness with delicate cream-and-gold quills—dives straight through the tracer fire.
 
 He doesn't draw his rifle. 
 
@@ -5077,7 +5077,7 @@ Vram looks down at me. The harsh lines of his face soften, a slow, reverent smil
 
 "Partners," he agrees.
 
-"Then I'm yours," I whisper, curling my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
+I curl my arms around his broad, scarred shoulders, burying my face in the crook of his burning neck.
 
 Outside, the Night Freeze howling across the Barrens can freeze the world to ash.
 
@@ -5094,31 +5094,19 @@ Inside the wings, we are home.
 
 ***
 
-The first thing that hits me is the silence.
+The dead channel is what wakes me.
 
-It is not the quiet of a calm morning in the High Barrens. It is not the soft hush of altitude before a dawn sortie. 
+It is not the screaming static of the neural leash. It is the eerie, hollow vacuum of having severed it.
 
-It is a void. A total, suffocating, dead-channel vacuum.
+For ten years, four months, and twelve days, my skull had been inhabited by a choir of machines. The Directorate tactical link did not simply transmit orders; it monitored my blood. Even after Tsunari first grounded the carrier wave in the substation, waking into the total quiet of an off-grid cellar in Sector 09 feels like floating in deep space without a tether. 
 
-For ten years, four months, and twelve days, my skull has been inhabited by a choir of machines. The Directorate tactical neural link did not simply transmit orders; it hummed. It fed a ceaseless, micro-frequency current directly into my temporal lobe—telemetry pings, heart-rate monitors, atmospheric density graphs, wind-shear vectors, and the low, synthetic whisper of the Director's override protocols. Even in the deepest sleep inside the barracks of Eden Alpha, the carrier signal was there, a low electric drone reminding me that my flesh was leased, my breath was scheduled, and my thoughts were monitored.
+No telemetry. No carrier wave. No incoming pings from Aeros-Legion 7.
 
-Now, there is nothing.
-
-No telemetry. No carrier wave. No pinging radar sweep in my peripheral vision.
-
-Just stone. Just darkness.
+Just the drip of condensation. Just the freezing dark.
 
 My eyes snap open.
 
-My chest locks. Every muscle in my torso seizes into stone, the air freezing in my throat like crushed glass. My right hand instinctively claws for the grip of my kinetic carbine, but my fingers encounter only coarse, itchy wool and the warmth of a sleeping body.
-
-A sudden, violent surge of adrenaline dumps into my bloodstream. 
-
-*Ambush.*
-
-My tactical conditioning screams into the silence, sirens wailing against the blank walls of my mind. In the military academies of the glass towers, absolute silence meant only one thing: total sensory isolation in the sensory-wipe tanks before memory recalibration. It meant you had failed a mission, disgraced the unit, or spoken out of line, and the Directorate technicians were preparing to scrub your cortex down to raw gray matter.
-
-*Breathe, you fool. Move. Get your weapon.*
+My chest tightens, tactical instincts scanning the perimeter. We are deep beneath a corporate sector under martial law. Deserters don't get second chances, and rogue commanders don't die in bed. My right hand instinctively reaches for my sidearm, but my fingers encounter only coarse wool and the radiant warmth of a sleeping body.
 
 I try to sit up, but a heavy, anchoring weight holds me pinned to the cot.
 
@@ -5403,7 +5391,7 @@ Her eyes were not human. Her irises were pools of deep, liquid violet, her pupil
 
 Nyx looked at the brass tokens, then at the broad, corded muscle of his shoulders beneath the duster. A slow, dangerous smile pulled at the corners of her dark mouth.
 
-"Follow me, bird-boy."
+"Follow me, soldier."
 
 The private room behind the liquor cages was small—six feet by eight feet, partitioned with sheets of corrugated iron and hung with moth-eaten velvet curtains. A low mattress of grease-stained canvas lay in the corner, but Cassian didn't make it to the mattress.
 
@@ -6624,7 +6612,7 @@ His blue eyes, wide and terrified with wonder, stare at the five-fold spectral f
 
 Beside me, Vram steps up to the spectrometer, his gold furnace eyes transfixed by the golden wave pulsing through my blood. He feels the resonance in his own marrow—a deep, cellular hum that makes the feathers along his neck bristle in instinctive greeting.
 
-"What is that?" Vram asks, his voice low and urgent. "Those are five distinct lineages. Cross-strain hybridization is biologically impossible. If you inject two different chimeric strains into the same host, the immune system undergoes massive hemolysis within hours."
+"What is that?" Vram asks, his voice low and urgent. "Those are all five ancient lineages. The Directorate can barely balance two complementary strains in an operative without tissue rejection or neuro-decay. Unifying all five lineages in one body is biologically impossible—the immune systems should tear each other to pieces."
 
 Gideon slowly lowers his hands, turning to look at me as if I were a sacred relic uncovered from the bedrock of the world.
 
@@ -6678,7 +6666,7 @@ Gideon smiles, a fierce, triumphant grin that crinkles the scars around his eyes
 
 # Chapter 38 // Vram
 
-> **Cross-Strain Xenophobia** *[pathology]*: The fatal immunological incompatibility between different chimeric strains (e.g., Lindwurm blood induces violent hemolysis in a Simurgh host). Tsunari's Mosaic Keystone architecture is the only known biological substrate that circumvents this barrier.
+> **Cross-Strain Xenophobia** *[pathology]*: Severe immunological rejection between conflicting chimeric lineages (e.g., Lindwurm tissue rejecting Simurgh blood, or Gryphon neural receptors rejecting Dromaeon biochemistry). The Mosaic Keystone architecture is the only known genome capable of harmonizing all five lineages without rejection or neuro-decay.
 
 ***
 
@@ -6718,7 +6706,7 @@ Tsunari lets out a long, slow sigh.
 
 "Not a bad thing to have in a sub-zero desert," she murmurs. 
 
-She turns her head slightly, her amber eyes meeting mine over her shoulder. Her pupils are soft, round, the predatory slits relaxed into warmth. 
+She turns her head slightly, her amber eyes meeting mine over her shoulder. Her horizontal slit pupils are dilated wide, softened with warmth. 
 
 "Thank you, Vram."
 
@@ -7091,7 +7079,7 @@ The ceiling of Sector 09 groans like an iron bridge under a freight train.
 
 From the observation catwalk outside The Glass Vault, the seismic sensors on Gideon's console flicker with red spikes. The two-front siege has begun, and the violence is converging on our heads with catastrophic speed.
 
-Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
+Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; she is sanitizing the entire undercity to bury her crimes.
 
 And from below, crawling up from the sulfur-crusted drainage arteries of Sub-Level 12, comes the madness of the **Ember Coven**. 
 
@@ -7580,7 +7568,7 @@ municipal scrubber loop: restored to baseline
 
 All across Sector 09, the deafening roar of battle begins to fade.
 
-Above our heads, the surviving Directorate assault barges and hunter-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
+Above our heads, the surviving Directorate assault barges—repurposed Vaelen heavy hulls under corporate tasking—and automated hunter-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
 
 The mutinous pilots of Aeros-Legion 7—Ferrin, Sergeant Veda, and young Toby Vance—circle overhead in a triumphal victory roll, their wings catching the first golden rays of dawn breaking through the high ventilation grates.
 
@@ -7616,7 +7604,7 @@ And my heart, steady and quiet as stone, beats for him alone.
 
 Dawn breaks over Sector 09 in a wash of pale rose and tarnished copper.
 
-On the roof of the central air scrubber tower, the wind smells of ozone, cooling steel, and something that has not been tasted in this undercity for thirty years: sweet, untainted morning air.
+On the roof of the central air scrubber tower, the wind smells of ozone, cooling steel, and copper dust—thin, sharp, and stripped of the choking sulfur that usually blankets the lower sumps.
 
 Down in the lower corridors, the cleanup has already begun. 
 
@@ -7742,7 +7730,7 @@ time to full biological obsolescence: 14 months // 12 days
 target parameters: 100% human lethality
 ```
 
-"Fourteen months," Ferrin whispers, his voice stripped of all bravado. "Fourteen months until outdoor air kills everything that breathes."
+"An incoming fleet," Ferrin whispers, his voice stripped of all bravado. "They aren't just letting us choke. They're paving the sky for a landing force."
 
 "There is more," Gideon says, turning to me with eyes filled with agonizing sorrow.
 

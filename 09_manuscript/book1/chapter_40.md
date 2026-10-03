@@ -8,7 +8,7 @@ The ceiling of Sector 09 groans like an iron bridge under a freight train.
 
 From the observation catwalk outside The Glass Vault, the seismic sensors on Gideon's console flicker with red spikes. The two-front siege has begun, and the violence is converging on our heads with catastrophic speed.
 
-Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
+Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; she is sanitizing the entire undercity to bury her crimes.
 
 And from below, crawling up from the sulfur-crusted drainage arteries of Sub-Level 12, comes the madness of the **Ember Coven**. 
 

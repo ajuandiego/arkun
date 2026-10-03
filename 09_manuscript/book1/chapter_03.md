@@ -19,7 +19,7 @@ Underneath my amber welder goggles, my translucent nictitating membranes flick a
 
 The words ring louder in my skull than the howling squall. 
 
-*Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4.*
+*Thorne, Sora — Junior Synthetics Assistant, Culture Lab 4.*
 
 Ten years. Ten long, brutal years of scouring the undercity, eating sulfur-tainted rat meat, sleeping with a bodkin knife under my cheek, believing my sister’s bones were dissolving in a corporate ash pit. And all this time, she was three hundred feet above my head, walking the pristine, white-tiled corridors of the Green Dome, breathing filtered, perfume-laced air, wearing the lab coat of the butchers who broke our father.
 

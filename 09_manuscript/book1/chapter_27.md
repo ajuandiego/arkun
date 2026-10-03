@@ -5,31 +5,19 @@
 
 ***
 
-The first thing that hits me is the silence.
+The dead channel is what wakes me.
 
-It is not the quiet of a calm morning in the High Barrens. It is not the soft hush of altitude before a dawn sortie. 
+It is not the screaming static of the neural leash. It is the eerie, hollow vacuum of having severed it.
 
-It is a void. A total, suffocating, dead-channel vacuum.
+For ten years, four months, and twelve days, my skull had been inhabited by a choir of machines. The Directorate tactical link did not simply transmit orders; it monitored my blood. Even after Tsunari first grounded the carrier wave in the substation, waking into the total quiet of an off-grid cellar in Sector 09 feels like floating in deep space without a tether. 
 
-For ten years, four months, and twelve days, my skull has been inhabited by a choir of machines. The Directorate tactical neural link did not simply transmit orders; it hummed. It fed a ceaseless, micro-frequency current directly into my temporal lobe—telemetry pings, heart-rate monitors, atmospheric density graphs, wind-shear vectors, and the low, synthetic whisper of the Director's override protocols. Even in the deepest sleep inside the barracks of Eden Alpha, the carrier signal was there, a low electric drone reminding me that my flesh was leased, my breath was scheduled, and my thoughts were monitored.
+No telemetry. No carrier wave. No incoming pings from Aeros-Legion 7.
 
-Now, there is nothing.
-
-No telemetry. No carrier wave. No pinging radar sweep in my peripheral vision.
-
-Just stone. Just darkness.
+Just the drip of condensation. Just the freezing dark.
 
 My eyes snap open.
 
-My chest locks. Every muscle in my torso seizes into stone, the air freezing in my throat like crushed glass. My right hand instinctively claws for the grip of my kinetic carbine, but my fingers encounter only coarse, itchy wool and the warmth of a sleeping body.
-
-A sudden, violent surge of adrenaline dumps into my bloodstream. 
-
-*Ambush.*
-
-My tactical conditioning screams into the silence, sirens wailing against the blank walls of my mind. In the military academies of the glass towers, absolute silence meant only one thing: total sensory isolation in the sensory-wipe tanks before memory recalibration. It meant you had failed a mission, disgraced the unit, or spoken out of line, and the Directorate technicians were preparing to scrub your cortex down to raw gray matter.
-
-*Breathe, you fool. Move. Get your weapon.*
+My chest tightens, tactical instincts scanning the perimeter. We are deep beneath a corporate sector under martial law. Deserters don't get second chances, and rogue commanders don't die in bed. My right hand instinctively reaches for my sidearm, but my fingers encounter only coarse wool and the radiant warmth of a sleeping body.
 
 I try to sit up, but a heavy, anchoring weight holds me pinned to the cot.
 

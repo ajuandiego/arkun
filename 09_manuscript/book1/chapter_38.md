@@ -1,6 +1,6 @@
 # Chapter 38 // Vram
 
-> **Cross-Strain Xenophobia** *[pathology]*: The fatal immunological incompatibility between different chimeric strains (e.g., Lindwurm blood induces violent hemolysis in a Simurgh host). Tsunari's Mosaic Keystone architecture is the only known biological substrate that circumvents this barrier.
+> **Cross-Strain Xenophobia** *[pathology]*: Severe immunological rejection between conflicting chimeric lineages (e.g., Lindwurm tissue rejecting Simurgh blood, or Gryphon neural receptors rejecting Dromaeon biochemistry). The Mosaic Keystone architecture is the only known genome capable of harmonizing all five lineages without rejection or neuro-decay.
 
 ***
 
@@ -40,7 +40,7 @@ Tsunari lets out a long, slow sigh.
 
 "Not a bad thing to have in a sub-zero desert," she murmurs. 
 
-She turns her head slightly, her amber eyes meeting mine over her shoulder. Her pupils are soft, round, the predatory slits relaxed into warmth. 
+She turns her head slightly, her amber eyes meeting mine over her shoulder. Her horizontal slit pupils are dilated wide, softened with warmth. 
 
 "Thank you, Vram."
 

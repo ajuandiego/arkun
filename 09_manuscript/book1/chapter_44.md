@@ -8,7 +8,7 @@
 
 Dawn breaks over Sector 09 in a wash of pale rose and tarnished copper.
 
-On the roof of the central air scrubber tower, the wind smells of ozone, cooling steel, and something that has not been tasted in this undercity for thirty years: sweet, untainted morning air.
+On the roof of the central air scrubber tower, the wind smells of ozone, cooling steel, and copper dust—thin, sharp, and stripped of the choking sulfur that usually blankets the lower sumps.
 
 Down in the lower corridors, the cleanup has already begun. 
 
@@ -134,7 +134,7 @@ time to full biological obsolescence: 14 months // 12 days
 target parameters: 100% human lethality
 ```
 
-"Fourteen months," Ferrin whispers, his voice stripped of all bravado. "Fourteen months until outdoor air kills everything that breathes."
+"An incoming fleet," Ferrin whispers, his voice stripped of all bravado. "They aren't just letting us choke. They're paving the sky for a landing force."
 
 "There is more," Gideon says, turning to me with eyes filled with agonizing sorrow.
 

@@ -37,7 +37,7 @@ If any finding is `ask`, send those questions first and still apply the `apply` 
 
 Follow the finding's direction. Change the smallest span that makes the finding false on a reread. Do not rewrite a chapter to improve the prose around it. Do not add a sex scene, a death, or a reveal the chosen contract does not already allow.
 
-When a canon conflict is settled by the user, apply only that contract. Leave the other contract's file untouched.
+When a canon conflict is settled by the user, apply that contract. If bible/canon updates are authorized to increase cohesion, update the corresponding series bible files so the manuscript and canon stay in unified alignment.
 
 After the edits, reread each changed passage against its finding. If the contradiction is still on the page, the finding is not done.
 

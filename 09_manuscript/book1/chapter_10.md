@@ -83,7 +83,7 @@ Her horizontal pupils contract into razor-thin points.
 
 "You know about Sora," she whispers, a deadly edge hardening her tone.
 
-"I saw the personnel log... in the breach telemetry," I breathe, my chest heaving against her knees. "Thorne, Sora. Junior Synthetics Assistant. Bio-Lab 4. I know why you took the Lazarus wafer. I know what you're fighting for."
+"I saw the personnel log... in the breach telemetry," I breathe, my chest heaving against her knees. "Thorne, Sora. Junior Synthetics Assistant. Culture Lab 4. I know why you took the Lazarus wafer. I know what you're fighting for."
 
 I reach up with my right hand, my fingers trembling violently, and lay my open palm flat against the cold stone between her boots.
 

@@ -67,7 +67,7 @@ And then, from the freezing storm clouds directly above the gorge, a dark winged
 
 Toby.
 
-Specialist Tobin Vance—nineteen years old, nineteen pounds underweight, flying on an oversized combat harness with quills barely three years matured—dives straight through the tracer fire.
+Specialist Tobin Vance—twenty-one years old, nineteen pounds underweight, flying on an oversized combat harness with delicate cream-and-gold quills—dives straight through the tracer fire.
 
 He doesn't draw his rifle. 
 

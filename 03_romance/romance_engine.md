@@ -48,7 +48,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 ### Phase 3: The Terror of Mental Silence & Sensory Intrusion
 *   **The Psychological Shock of Silence:**
     *   For a soldier who has known nothing but alien white noise and searing neural fever for ten years, silence is horrifying at first. It feels like sensory deprivation, a sniper's crosshairs, or an impending ambush.
-    *   When Vram falls into delirious fever in the ruined bunker, Tsunari holds his skull against her chest to cool the lattice. He awakens in total silence, staring up into her gray-green eyes with unmasked terror and awe: *"What did you do to my head?"*
+    *   When Vram falls into delirious fever in the ruined bunker, Tsunari holds his skull against her chest to cool the lattice. He awakens in total silence, staring up into her amber horizontal slit pupils with unmasked terror and awe: *"What did you do to my head?"*
 *   **The Sensory Intrusions:**
     *   The tension turns physical, involuntary, and agonizingly restrained:
         *   The involuntary bristle of his golden nape feathers whenever she moves within three paces.
@@ -56,15 +56,16 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
         *   The low, deep rumble vibrating in his diaphragm when her cool fingertips check his surgical collar ports.
     *   Neither acknowledges the shift verbally; both fight against it because opening their hearts in Year 40 AS is a death sentence.
 
-### Phase 4: The Unvoiced Blood Compact of Equals (Book 1 Climax)
-*   **Subverting the Cliché Climax:** Book 1 resists the Hollywood urge for a premature kiss or melodramatic love confession in the middle of a warzone.
+### Phase 4: The Equal Compact & The Glass Vault Consummation (Book 1 Peak)
+*   **Subverting the Cliché Climax:** Book 1 resists manufactured melodrama, unearned kisses, or instant trust. Their intimacy is forged across fire, combat triage, and mutual survival.
 *   **The Crucible Choice:** 
-    *   When The Forger offers Vram deification as the messianic "Apex Deliverer" and Elena Corvus offers him a full military pardon if he hands over the "insurgent girl," Vram rejects both. He turns his cannons on both masters to stand shoulder-to-shoulder with Tsunari.
-    *   Tsunari, having uncovered Doc Mercer's devastating alien betrayal, realizes that in a world of manufactured lies, Vram is the only living thing whose loyalty is absolute.
-*   **The Compact:**
-    *   In the quiet, smoke-choked aftermath of the Sector 09 battle, seated back-to-back in the ruins of an atmospheric scrubber, their hands clasp. Bare skin against bare skin.
-    *   It is not a soft embrace—it is an unvoiced, blood-sealed covenant between two monsters who have chosen each other over every god, corporation, and army on Earth. 
-    *   The romantic tension remains at a blistering fever pitch, earned and dangerous, setting up Book 2 for explosive emotional and physical consummation.
+    *   When Elena Corvus and the Directorate demand the execution of the "insurgent runner" and offer Vram full reinstatement, Vram refuses. He severs his ties to the military hierarchy to stand shoulder-to-shoulder with Tsunari.
+    *   In Chapter 26, wounded and freezing in the culvert, they seal their emotional alliance: *"Partners, or nothing."*
+*   **The Consummation (Chapter 38: The Glass Vault):**
+    *   In the quiet alcove beneath the pre-Fall ruins before their assault on the Lazarus Foundry, their agonizing restraint yields to a single, hard-won open-door sexual union.
+    *   It is raw, grounded, and deeply reverent—two chimeric outcasts shedding their armor, scars, and defenses, uniting their heat and resonance as sovereign equals.
+*   **The Climax & Beyond:**
+    *   In the climactic assault, they shatter the Lazarus Foundry together, defying both corporate masters and alien architects. Their physical and emotional union stands sealed, priming Book 2 for the agonizing trials, deepening devotion, and geopolitical consequences of their bond.
 
 ---
 

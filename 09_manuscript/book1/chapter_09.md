@@ -177,7 +177,7 @@ A tense, electric quiet fills the room.
 
 My thoughts race, colliding against the 14-month countdown burned into my memory. 
 
-Sora is inside Bio-Lab 4. The Consortium is planning an atmospheric purge. I have the Lazarus Key burning against my ribs, and I am locked in an off-grid bunker on an eight-hundred-foot cliff with a six-foot-four transgenic sky-lord who has just severed his corporate leash to keep me as his personal biological shield.
+Sora is inside Culture Lab 4. The Consortium is planning an atmospheric purge. I have the Lazarus Key burning against my ribs, and I am locked in an off-grid bunker on an eight-hundred-foot cliff with a six-foot-four transgenic sky-lord who has just severed his corporate leash to keep me as his personal biological shield.
 
 I look at him—this undefeated war machine, this monster who could crush my ribs with one hand, standing before me like a condemned man begging for an extra breath of air.
 

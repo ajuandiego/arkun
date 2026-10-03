@@ -183,7 +183,7 @@ He wants to tear away the mask. He wants to see the empty, unscarred skin where 
 
 Panic, cold and absolute, surges through my veins. 
 
-If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Key* is lost, the 14-month countdown will tick down to zero in silence, and Sora will die in Bio-Lab 4 without ever knowing I came for her.
+If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Key* is lost, the 14-month countdown will tick down to zero in silence, and Sora will die in Culture Lab 4 without ever knowing I came for her.
 
 *No.*
 

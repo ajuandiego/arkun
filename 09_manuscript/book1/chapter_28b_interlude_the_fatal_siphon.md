@@ -33,7 +33,7 @@ Her eyes were not human. Her irises were pools of deep, liquid violet, her pupil
 
 Nyx looked at the brass tokens, then at the broad, corded muscle of his shoulders beneath the duster. A slow, dangerous smile pulled at the corners of her dark mouth.
 
-"Follow me, bird-boy."
+"Follow me, soldier."
 
 The private room behind the liquor cages was small—six feet by eight feet, partitioned with sheets of corrugated iron and hung with moth-eaten velvet curtains. A low mattress of grease-stained canvas lay in the corner, but Cassian didn't make it to the mattress.
 
