@@ -100,7 +100,7 @@ The tunic is strictly sleeveless, cut close to my ribs from weathered slate-drab
 
 Under the amber glare of my scavenged welder goggles, the pebbled dermal scales look like delicate, decorative tattoo work rather than hardened reptilian keratin. Lower down, heavy leather mechanic’s bracers cover my inner wrists, cinched tight with tarnished brass buckles that conceal the sharp, razor-thin scutes running along my ulna.
 
-A sudden, caustic gust of copper-scented wind shrieks through the loose louvers, blowing a spray of abrasive alkaline dust directly into my face. I don't flinch or close my eyes. Beneath my goggles, my translucent inner eyelids flick horizontally across my corneas—a swift, fluid stroke that wipes away the stinging grit and clears my vision in a heartbeat, leaving my focus locked on the ironwork.
+A sharp gust of copper dust whistles through the vent, catching me right in the face. I don't even blink. A second, clear lid sweeps across my eyes—a reflex from the raptor blood under my skin—brushing away the sting before the grit can scratch.
 
 I reach up to the crown of my head and pull the steel bodkin knife from my hair.
 
@@ -271,15 +271,17 @@ The toxic desert air hits me like a furnace blast—110 degrees of dry, copper-t
 
 I vault out onto the narrow maintenance gantry, twenty feet above the sand dunes of the Photovoltaic Graveyard. 
 
-I flex my toes inside my boots. 
+I reach down to the quick-release loops at my harness, drawing my twin Spire hooks into a reverse grip. 
 
-A sharp, voluntary muscle twitch in my left arch triggers the concealed magnetic release in the sole. 
+*Click.* 
 
-*Snick.* 
+Forged from blackened spring steel with curved, razor-honed inner edges, they are the indispensable tools of every Spire scavenger who ever survived scaling a thousand-foot elevator flue—and the deadliest weapons an Undercity rogue could carry.
 
-Through the hidden split-ports in the weathered leather, my four-inch curved nanocarbon sickle-claws punch forward on the inner digits of my feet, locking into place with a subtle metallic ring. 
+I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, the tendons behind my knees compress like heavy spring steel, soaking up the impact before the shock can touch my spine. 
 
-I hit the rusted gantry rail, my pedal claws gouging deep into the iron, absorbing the shock of the drop without making a sound. 
+*“Don’t fight the drop, Tsune,”* my father’s voice whispers from the dark of memory. *“A baseline fights the weight. A predator catches it and throws it back.”*
+
+I don't roll; I don't brake. I let that stored pressure uncoil in a single, violent snap, launching me forward into a silent dead sprint before the dust of my landing has even settled. 
 
 High above me, tearing through the low copper cloud deck, comes a sound that makes every hair on my arms stand straight up.
 
@@ -383,11 +385,11 @@ My second-in-command is thirty-two years old, which in Aeros-Legion makes him an
 
 I glance down at my own wingtips. 
 
-He's right, of course. Ninety-five percent of the aerial cohorts are spliced from the **Gryphon** lineage—sturdy, slate-quilled, disciplined workhorses bred for long-range surveillance and high-altitude endurance. They are the backbone of the sky. 
+He's right, of course. Almost everyone in the legion carries **Gryphon** blood—sturdy, slate-quilled workhorses built for brutal crosswinds and endless patrols. They’re the backbone of the sky. 
 
-The **Simurgh** lineage was Apex Bio’s volatile solar prototype—a high-risk, hyper-thermic experiment that nearly bankrupt the genetics division. There are barely four of us alive in the active wings. We were engineered for explosive kinetic devastation and rapid cellular regeneration: our flight feathers molt and knit overnight, our lacerations smoke and knit closed within minutes, and our hearts carry an automatic cardiac defibrillation pulse that can restart our core if we flatline under severe G-force shock. 
+The **Simurghs** were different. We were the Directorate’s wild, fire-blooded gamble—a freak strain that almost killed everyone in the vats. There are barely four of us left in the active wings. We fly faster, hit harder, and heal almost before the blood can pool. Even if our hearts give out in a crushing dive, our chest jolts itself back to life. 
 
-But that solar fire comes at a catastrophic cost. We burn six thousand calories a day just to keep our organs from consuming themselves, and the hotter the internal furnace burns, the faster the Silver Spine cooks the cerebral cortex. 
+But that fire comes at a brutal price. We have to eat constantly just to keep from burning up from the inside out, and the hotter the furnace runs, the faster the leash in our neck cooks the brain. 
 
 Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
 
@@ -680,11 +682,11 @@ I have approximately four seconds before he clears the dune and looks down.
 
 I crouch behind the broken edge of the parabolic collector. 
 
-A sharp, voluntary twitch in my left arch triggers the concealed magnetic release in the sole of my scavenger boot.
+My hands drop to my utility harness. With a whisper of oiled leather, I slip my Spire hooks from their quick-draw sheaths, flipping them into a tight reverse grip.
 
-*Snick.*
+*Click.*
 
-Through the hidden split-port in the worn leather, the four-inch curved nanocarbon sickle-claw punches forward on the inner digit of my foot, locking into its rigid strike position with a cold, solid click. 
+Hardened, razor-honed carbon steel, curved like a scythe and balanced for tearing through armor seals.
 
 I take three silent strides across the sand, accelerating from zero to thirty miles per hour in the span of ten feet. 
 
@@ -710,19 +712,17 @@ In that half-second of blindness, I am already airborne.
 
 I hit the sloping face of the sand berm, my legs pumping like pistons. I leap—ten feet into the air—twisting my body horizontally to bypass his rifle barrel. 
 
-My left foot lashes out.
+As I clear his shoulder, my left arm whips around his blind side.
 
-The nanocarbon sickle-claw strikes the articulated hydraulic line behind his knee.
+The curved, razor-honed beak of my Spire hook catches the articulated hydraulic line behind his knee.
 
-The carbon blade, sharpened to a single molecular edge, shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
+I rip backward with all the coiled torque of my Dromaeon fast-twitch muscle. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
 
 I land lightly on the crest of the ridge, my boots digging into the loose earth, absorbing the impact without a wobble. 
 
-I flick my foot. A single drop of hydraulic oil sprays from the dark sickle-claw. With another subtle flex of my inner arch, the magnetic latch releases. 
+I flick my left wrist, snapping a dark bead of hydraulic oil from the curved beak of the hook. With a practiced motion, I slide the weapon back into its hip sheath with a clean, satisfying *snick*. 
 
-*Clack.*
-
-The talon retracts flush into the reinforced hollow of my boot sole. To anyone looking at my footprint in the sand, it will look like nothing more than the heavy, clumsy tread of a standard scavenger work boot.
+To anyone inspecting this ground, there are only two bodies and the heavy, normal tread of my scavenger boots in the sand.
 
 Below me, the two scouts groan in the dark. One is gasping for air as his vented suit slowly suffocates him into unconsciousness; the other is pinned beneath his own ruined pneumatic armor, cursing into a dead radio.
 
@@ -814,13 +814,13 @@ And the second one?
 
 I saw the flash of the plasma rifle. I saw the sixty-foot parabolic mirror disintegrate into a blinding geyser of shrapnel. 
 
-Any normal scavenger would have been shredded to ribbons. But she was already mid-leap—a vertical wall-spring off the mirror frame that defied every law of baseline human anatomy, twisting her body in mid-air with the eerie, fluid torque of an acrobat. 
+Any normal scavenger would have been shredded to ribbons. But she was already mid-leap—a vertical wall-spring off the mirror frame that defied every law of baseline human anatomy. 
 
-And then came the kick.
+A baseline soldier’s knees buckle under that kind of concussive force; their ankles roll, their momentum dies. But her body absorbed the impact like wound cable, storing the kinetic punch in those whip-cord thighs and rebounding off the frame at a ninety-degree angle without bleeding off a single knot of speed. 
 
-My enhanced retinas caught the split-second mechanics of it: a minute muscular contraction in her left arch, the faint metallic *snick* of a concealed magnetic latch in the sole of her oversized boot, and the lethal deployment of a four-inch curved carbon sickle-claw from the inner digit of her foot.
+And then the strike.
 
-She sheared a steel-braided hydraulic line with a single, sweeping talon strike. 
+She slipped inside the scout's guard with a blur of speed no baseline could dream of. A blackened, curved steel Spire hook flashed in her hand—reverse-gripped, catching the hydraulic line behind his knee and ripping it open with the brutal, practiced efficiency of a street butcher.
 
 *Dromaeon.* 
 
@@ -922,7 +922,7 @@ The moment her boots hit the sand, she pivots, realizing her initial ambush fail
 
 Now she has only one viable path left: the cracked concrete archway of the ruined solar substation thirty yards away. 
 
-Inside those reinforced walls, the ceiling is barely twelve feet high—too low for my wings to spread, too cramped for aerial maneuvers. Inside, her cursorial agility, her close-quarters blade work, and those lethal pedal sickle-claws give her the tactical advantage.
+Inside those reinforced walls, the ceiling is barely twelve feet high—too low for my wings to spread, too cramped for aerial maneuvers. Inside, her cursorial agility, her close-quarters blade work, and those lethal Spire hooks give her the tactical advantage.
 
 She sprints for the archway. 
 
@@ -1079,13 +1079,7 @@ He strides forward through the floating dust, his molten eyes locked onto me, hi
 
 "Then let's see how you like the sting," I whisper.
 
-Underneath my boots, my toes contract.
-
-A sharp, voluntary spasm in my left arch trips the magnetic release.
-
-*Snick.*
-
-Through the hidden split-port in the worn leather of my scavenger boot, the four-inch curved nanocarbon sickle-claw punches forward on the inner digit of my foot, locking into its rigid strike position with a cold, solid click.
+Underneath my leather harness, my left hand drops to my hip. With a silent flick of my thumb, the second Spire hook snaps free of its spring sheath into a reverse grip.
 
 I feign a stagger to the right, letting my shoulders drop as if my ribs are cracked and my balance is broken. 
 
@@ -1093,17 +1087,17 @@ He takes the bait.
 
 He closes the distance in a single, thunderous stride, his right hand shooting forward to pin my throat against the buckled breaker panel.
 
-I drop flat onto my back.
+I don't try to brace against his mass. You don't fight a falling mountain.
 
-I slide between his wide-planted boots, the cold concrete scraping through my combat trousers, and drive my left heel straight up into the air in a vicious, vertical bicycle-kick.
+I drop flat, catching the kinetic rush of his charge, and let my core compress like a loaded catapult. With a sharp, elastic snap, I slide between his wide-planted boots with Dromaeon burst velocity, the cold dust scraping through my combat trousers, and whip my left arm upward in a vicious, sweeping arc.
 
-The nanocarbon sickle-claw arcs toward his groin, aiming to sever his femoral artery.
+The curved beak of the Spire hook sweeps toward his unarmored inner thigh, aiming to sever his femoral artery.
 
 He reacts with supersonic, transgenic reflexes.
 
-He twists his hips in mid-air, bringing his right knee up to check the strike. The carbon claw doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon on titanium fills the room, throwing a shower of bright blue sparks across the floor.
+He twists his hips in mid-air, bringing his right knee down to check the strike. The hardened hook doesn't bite into flesh; it gouges a deep, screaming furrow across the reinforced titanium shin-guard of his combat boot. The screech of carbon steel on titanium fills the room, throwing a shower of bright blue sparks across the floor.
 
-Before my foot can retract, his hand snaps shut around my ankle.
+Before I can wrench the hook free, his heavy gauntlet snaps shut around my left wrist.
 
 His grip is an iron shackle.
 
@@ -1161,7 +1155,7 @@ If he strips my mask, my identity is gone. If he takes me alive, the *Lazarus Ke
 
 *No.*
 
-I don't try to reach for the dropped bodkin knife. I don't try to kick with the sickle-claw.
+I don't try to reach for the dropped bodkin knife. I don't try to wrench my trapped arm free.
 
 I remember my father's words: *Strike their bridle.*
 
@@ -1277,7 +1271,7 @@ My heavy thighs bracket her lithe, muscular hips, pinning her beneath two hundre
 
 Beneath the leather of my flight trousers, a sudden, illicit jolt of raw heat hits my groin—a sharp, involuntary surge of primal desire that shocks my military discipline to its core. 
 
-*Focus, soldier.* The conditioning screams against the quiet of my skull. *She's an unregistered Gray Sector insurgent with blood on her claws, not a woman in your quarters. She's a thief. A traitor.*
+*Focus, soldier.* The conditioning screams against the quiet of my skull. *She's an unregistered Gray Sector insurgent with blood on her blades, not a woman in your quarters. She's a thief. A traitor.*
 
 Yet looking down into those blazing amber eyes, at the delicate arch of her throat and the bruised softness of her mouth beneath the mask, my pulse hammers with a hunger that terrifies me far more than any execution order.
 
@@ -1701,7 +1695,7 @@ In thirty-eight minutes, the automated navigation system will guide this armored
 
 Director Elena Corvus will be waiting on the receiving dock in her pristine white uniform, surrounded by a dozen heavy Iron Division enforcers with pneumatic suppression nets and neuro-electric staves. 
 
-They will vent cryogenic gas into the cargo bay to put the captive under. They will drag her onto a stainless-steel gurney, strip away her sleeveless tunic and her scavenger boots, and discover the four-inch nanocarbon sickle-claws deployed from her soles. 
+They will vent cryogenic gas into the cargo bay to put the captive under. They will drag her onto a stainless-steel gurney, strip away her sleeveless tunic, and unbuckle the matched pair of blackened Spire hooks holstered at her hips. 
 
 And then Corvus will peel away that linen neck gaiter.
 
@@ -3248,15 +3242,11 @@ I don't scream. I don't plead. In the Gray Ring, fear is just a waste of calorie
 
 I shift my weight onto the balls of my feet, curling my toes inside my scavenger boots.
 
-Under the worn leather of my right sole, my inner arch flexes with a sharp, voluntary spasm. 
-
-The concealed magnetic latch trips with a soft *snick*. 
-
-Through the split-port in my boot leather, the four-inch curved nanocarbon sickle-claw punches forward, locking into its rigid striking position on my inner digit. At the same time, I reverse the grip on my father's five-inch surgical bodkin knife, pressing the cold steel flat against my right forearm.
+My hands drop to my hip rig. In my right hand, I reverse the grip on my father's five-inch surgical bodkin knife, pressing the cold steel flat against my forearm. In my left, I unclip my blackened steel Spire hook, its curved beak balanced for tearing through armor seals.
 
 I know the odds. 
 
-My father’s journals had laid it out in cold, unsparing prose: Vaelen personal armor is woven from hyper-dense crystalline fullerenes bonded at the molecular level. A steel bodkin knife against an Inquisitor's carapace is like throwing a pine needle against a bank vault. Even my nanocarbon sickle-claw, sharpened to a single molecular edge, can only hope to scratch the outer lacquer.
+My father’s journals had laid it out in cold, unsparing prose: Vaelen personal armor is woven from hyper-dense crystalline fullerenes bonded at the molecular level. A steel bodkin knife against an Inquisitor's carapace is like throwing a pine needle against a bank vault. Even the hardened edge of my Spire hook can only hope to scratch the outer lacquer.
 
 The only vulnerability is the acoustic resonator node—the soft, multi-layered bio-membrane situated just beneath the mandibular ridge, where the alien vocal translation matrix connects to its internal nervous cluster.
 
@@ -3286,11 +3276,11 @@ The heavy ballistic fabric doesn't tear; it instantly dissolves into white ash, 
 
 I slide between its wide-planted, tri-segmented legs, the cold zinc floor scraping through the fabric of my trousers.
 
-I twist my hips in mid-slide, driving my right heel upward in a vicious, vertical strike.
+I twist my torso in mid-slide, whipping my left arm upward in a vicious, sweeping arc.
 
-The nanocarbon sickle-claw hooks into the articulation seam behind the alien's left knee.
+The curved beak of my Spire hook punches into the articulation seam behind the alien's left knee.
 
-The carbon blade bites into the dense, rubbery connective tissue beneath the chitin plates. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my boot. 
+I wrench the handle with both hands, leveraging the full coiled torque of my Dromaeon sinew. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
 
 The Inquisitor emits a high-pitched, shrieking harmonic pulse as its left knee collapses. 
 
@@ -4630,11 +4620,7 @@ He nods weakly, his knuckles turning white as his grip tightens around the weapo
 
 I draw my father's five-inch steel bodkin knife from my hair bun with my left hand. 
 
-Under the worn leather of my right scavenger boot, my inner arch flexes with a sharp, voluntary spasm. 
-
-The magnetic latch releases with a soft *snick*. 
-
-The four-inch curved nanocarbon sickle-claw punches forward on my inner digit, locking into its rigid striking position with a cold, solid click.
+With my right, I draw the curved Spire hook from the low sheath at my hip, the blackened steel seating into my palm with a quiet, satisfying ring.
 
 "I’m going to introduce myself," I whisper.
 
@@ -4658,7 +4644,7 @@ I step into the moonlight, lowering my center of gravity, and click back.
 
 # Chapter 24 // Tsunari
 
-> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, retractable pedal sickle-claws, sub-vocal acoustic echolocation, nictitating eye membranes, and cold-blood thermal dampening.
+> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, sub-vocal acoustic echolocation, translucent protective eye membranes, and cold-blood thermal dampening.
 
 ***
 
@@ -4678,11 +4664,13 @@ It tilts its head ninety degrees—a jerky, terrifying avian twitch—and takes 
 
 Its foot strikes the frozen sand with soundless precision. 
 
-On the inner digit of each clawed foot, a five-inch curved nanocarbon sickle-claw—identical to the ones retracted inside my own scavenger boots—swings upward into its elevated carry position, gleaming like black glass under the moon. Along its muscular flanks and rigid balance-tail, fine pebble-scales bristle, shedding a dusting of frozen red iron powder.
+On the inner digit of each clawed foot, a five-inch curved sickle-claw swings upward into its elevated carry position, gleaming like black glass under the moon. Along its muscular flanks and rigid balance-tail, fine pebble-scales bristle, shedding a dusting of frozen red iron powder.
 
-It is measuring me.
+I watch the alpha sink low into the red dust. I see the heavy tendon cords tighten along its hocks, winding tight like industrial winch cables. 
 
-It calculates the distance, the angle of the container door, the weight of the steel bodkin knife in my left hand. 
+I know that tension. I feel the exact same spring coiling behind my own knees. Because I know the load, I know the release.
+
+It calculates the distance, the angle of the container door, the weight of the steel bodkin knife in my left hand and the hooked Spire blade in my right. 
 
 And then it smells Vram.
 
@@ -4756,7 +4744,7 @@ I stand over the pinned alpha, my breath coming in ragged, white plumes against 
 
 My hands are steady, but the mathematics are simple.
 
-I have one bodkin knife. I have two sickle-claws. 
+I have one bodkin knife. I have my twin Spire hooks. 
 
 And out in the starlight, eight wild predators are closing the ring.
 
@@ -5334,7 +5322,7 @@ Leaning against his leg is a six-foot pneumatic demolition hammer, its hardened 
 
 Boran Vael-Korr turns his flinty gaze upon us. 
 
-His eyes sweep over Tsunari first, lingering on her low center of gravity, her sickle-claw boots, and the tense, fluid readiness in her posture. A low, appreciative grunt rumbles in his throat.
+His eyes sweep over Tsunari first, lingering on her low center of gravity, the twin Spire hooks holstered at her hips, and the tense, fluid readiness in her posture. A low, appreciative grunt rumbles in his throat.
 
 "Dromaeon blood," he murmurs. "Fast. Sharp. Good teeth."
 
@@ -5656,17 +5644,15 @@ The speed is monstrous. She does not move like a baseline human; she accelerates
 
 Her left hook-blade sweeps down in an executioner's arc, aimed straight at my collarbone.
 
-I pivot on the ball of my left foot, slipping beneath the strike with millimeter precision. The rebar blade grazes my leather vest, the heat of the metal searing the fabric with the smell of scorched hide. As she overextends, I drive the heel of my boot upward in a brutal, snap-kick counter.
-
-The carbon sickle-claw in my boot toe deploys with an acoustic click, burying itself two inches deep into her right thigh.
+I pivot on the ball of my left foot, slipping beneath the strike with millimeter precision. The rebar blade grazes my leather vest, the heat of the metal searing the fabric with the smell of scorched hide. As she overextends, I counter inside her reach. My left hand whips forward, the curved beak of my Spire hook burying itself two inches deep into her right thigh.
 
 Any normal human would have collapsed in agony, their femoral muscle severed. 
 
 Caelia doesn't even grunt. 
 
-Her nervous system, deadened by the ritual brands and overwhelmed by whatever foul drug courses through her blood, registers zero pain. Instead of retreating, she twists her torso around my trapped leg, laughing through bloody teeth, and brings her right blade down in a vicious backhand strike aimed at my face.
+Her nervous system, deadened by the ritual brands and overwhelmed by whatever foul drug courses through her blood, registers zero pain. Instead of retreating, she twists her torso around the strike, laughing through bloody teeth, and brings her right blade down in a vicious backhand strike aimed at my face.
 
-I yank my leg back, tearing the claw free of her flesh, and throw my arm up to block.
+I wrench the hook free of her flesh and throw my arm up to block.
 
 The heated rebar catches the steel reinforcement plate of my forearm bracer with a shower of orange sparks. The sheer kinetic force behind her strike drives me back three paces, my boots skidding across the slick sulfur slime. The rebar's hooked tip skips off the metal and catches the edge of my jaw, opening a hot, shallow furrow along my lower lip.
 
@@ -6758,7 +6744,7 @@ I stare at the light on the ceiling, my vision blurring with sudden, scalding te
 
 *He didn't curse me.*
 
-For ten years, every time I extended my sickle claws, every time I felt the cold, unfeeling chill of my reptilian blood, I felt the bitter sting of being an afterthought—a broken scrap tossed into the dirt while Sora was kept clean and safe in the towers.
+For ten years, every time I scaled a dead elevator flue with my hooks, every time I felt the cold, unfeeling chill of my reptilian blood, I felt the bitter sting of being an afterthought—a broken scrap tossed into the dirt while Sora was kept clean and safe in the towers.
 
 He hadn't discarded me. 
 
@@ -7235,7 +7221,7 @@ He turns and marches his machinists toward the lower culverts, his heavy boots s
 
 That leaves Tsunari and me on the central threshold.
 
-She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. In her right boot, the carbon sickle-claw snaps out with a crisp, predatory click, then smoothly retracts into its concealed housing. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
+She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. At her hips, she checks the release catches of her twin Spire hooks, the curved black blades seating into their sheaths with a crisp, oiled click. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
 
 She looks at me, her golden slit pupils steady and cool.
 
@@ -7583,15 +7569,15 @@ One pace. Two paces.
 
 I reach the prophet. 
 
-I plant my left foot on the deck and pivot my entire torso, channeling forty pounds of coiled torque into my right leg. The carbon sickle-claw in the toe of my combat boot deploys with a sharp, acoustic click, sweeping upward in a vicious, executioner's roundhouse kick.
+With a blur of movement, my right hand draws my Spire hook from my hip. Channeling forty pounds of coiled torque through my torso and shoulders, I sweep the curved, hardened blade upward in a vicious, executioner's arc.
 
 The phase-stutter collapses with a concussive snap of displaced air.
 
 The world snaps back into full, deafening velocity.
 
-My sickle-claw strikes the iron staff just below the emitter nozzle. The sharpened carbon blade slices through the hollow steel tube like a razor through bamboo, shearing the weapon in two in a blinding shower of sparks and dead current.
+The beak of my Spire hook strikes the iron staff just below the emitter nozzle. The hardened steel shears through the hollow tube like a razor through bamboo, cutting the weapon in two in a blinding shower of sparks and dead current.
 
-The follow-through of my boot catches the side of The Forger’s bronze welding helmet.
+With the same fluid momentum, I drive the heavy pommel of the hook into the side of The Forger’s bronze welding helmet.
 
 The impact tears the heavy metal mask from its mounting bolts, sending it spinning into the abyss below.
 
@@ -7878,7 +7864,7 @@ The world goes dead silent.
 
 The wind howls across the roof, whipping the hem of my coat.
 
-Ten years ago, my father gave me the claws to survive the dirt, and he gave Sora the mind to survive the towers. I promised him I would keep her safe. I spent a decade believing she was fed, sheltered, and happy, while I bled in the sewers.
+Ten years ago, my father gave me the teeth and speed to survive the dirt, and he gave Sora the mind to survive the towers. I promised him I would keep her safe. I spent a decade believing she was fed, sheltered, and happy, while I bled in the sewers.
 
 She isn't safe. She is trapped in an execution chamber with a glass roof.
 
@@ -7900,7 +7886,7 @@ We are no longer two ghosts fleeing across the dunes.
 
 We are a legion.
 
-I reach down to my boot, feeling the carbon sickle-claw snap out with a crisp, predatory click, before sliding back into the leather. 
+I reach down to my harness, feeling the release catch of my Spire hook snap with a crisp, oiled click, before seating it back into its sheath. 
 
 I take Vram’s hand, my fingers lacing through his, and turn our faces toward the northern horizon where the towers of Eden Alpha gleam in the dawn.
 
@@ -7908,11 +7894,59 @@ I take Vram’s hand, my fingers lacing through his, and turn our faces toward t
 
 ***
 
+### Tsunari
+
+I wake to the smell of burned meat.
+
+My head is spinning, heavy and dull, my tongue coated in a thick, metallic bitterness. 
+
+I reach across the blankets, searching for that roaring warmth that kept the cold away all night.
+
+My hand hits frozen canvas.
+
+The space beside me is empty. The wool is ice.
+
+"Vram?"
+
+The dark stone room swallows the whisper whole. 
+
+Then the pain hits.
+
+A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My fingers fly to my collarbone.
+
+Raw. Charred. Blistered and weeping, still hot beneath my fingertips.
+
+I stumble out of the cot, crashing against the iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
+
+Burned deep into the flesh of my shoulder, raw and blackened, is a fresh, weeping brand.
+
+The interlocking chevron. 
+
+My breath catches in my throat.
+
+I spin toward the doorway. The heavy steel door is hanging open, swinging faintly in the draft from the dark hallway outside. 
+
+His boots are gone. His flight harness is gone. 
+
+No sound. No struggle. Nothing.
+
+Just an empty room, a door swinging in the freezing wind, and a fire burning into my bone.
+
+*Vram.*
+
+I press my hand against the burn, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
+
+My fingers find the hilt of my Spire hook on the table, the cold, blackened steel biting into my palm.
+
+"I'm coming," I whisper into the empty dark.
+
+***
+
 ```console
 ============================================================
               END OF BOOK 1: STOLEN BREATH
                THE ARKUN CYCLE CONTINUES IN
-                    BOOK 2: HOLLOW CAGE
+                   BOOK 2: CROWN OF SALT
 ============================================================
 ```
 
