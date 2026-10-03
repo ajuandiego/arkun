@@ -1,7 +1,7 @@
 # The Fatal Siphon // Interlude
 
-> *"To love across the strains is to swallow ground glass. The Consortium gave us wings, claws, and fangs, but they bred our blood to be poison to anyone we touch. They made us weapons so we could never be lovers."*  
-> — Scratched into the plaster, Barracks of the Decimated
+> *"When a commander breaks formation, the carrier frequency does not sleep. It drills into the temporal lobe until you either execute your orders or bleed out through your eyes."*  
+> — Directorate Tactical Protocol, Section 9 (Decimation Directives)
 
 ***
 
@@ -53,13 +53,17 @@ Nyx stepped closer, her violet irises widening as she took in the scorched metal
 
 Nyx didn't argue. 
 
-Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port, and for three heartbeats, the screaming static behind Cassian's eyes blunted into a muffled, thrumming hum.
+Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port.
 
-A ragged, shuddering groan broke from his throat. The relief was intoxicating, an oasis in a desert of white fire. He reached out blindly, gripping her wrists with crushing force to hold her hands against his neck, terrified that if she pulled away, the screaming would split his skull in two.
+Nothing happened.
+
+The screaming static behind Cassian's eyes did not blunt. It surged—a piercing, white-hot drill of quantum feedback that vibrated through the metal casing into her bare skin. Cold reptilian scales could not ground an alien carrier wave; without the proprietary Null-Resonance of the Mosaic Keystone, the touch was merely metal baking against bone.
+
+A furious, agonized cry tore from his throat. Delirious with pain and desperate for relief, he reached out blindly, gripping her wrists with crushing force, slamming her hands harder against his neck as if he could force the static into silence through sheer violence.
 
 And in that sudden, frantic grip, her chimeric biology deployed.
 
-It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—a Gorgon-Lindwurm splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
+It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—an illegal Lindwurm chimeric splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
 
 Along the palms and inner wrists of her scaled hands, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
 
@@ -99,15 +103,9 @@ Nyx fell to her knees beside him, horror twisting her beautiful, mutated face.
 
 Beneath his bronze skin, black, necrotic veins were already spidering outward from his neck across his throat and collarbone. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
 
-He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
+He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal reality of his desertion:
 
-The Consortium had not just built cages of concrete and iron.
-
-They had built the cages inside their very chromosomes. 
-
-Between different strains, unfiltered love was not merely forbidden.
-
-It was an automatic execution.
+You could not run from the Directorate's leash. You could not buy a miracle in an alley. Seeking salvation in the gutter had not quieted the scream—it had only traded the fire in his skull for the poison in his throat.
 
 Cassian’s chest heaved once—a dry, empty rattle of collapsing lungs—and then went still.
 

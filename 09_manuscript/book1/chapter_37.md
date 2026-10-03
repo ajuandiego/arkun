@@ -48,9 +48,9 @@ Five distinct, harmonized wave-crests ripple across the calibration grid:
 At the apex, a vibrant, razor-sharp crimson crest pulses with the unmistakable fast-twitch frequency of Mutation D—the Dromaeon lineage. But anchored directly beneath it, woven together in a seamless, double-helix lattice of impossible geometric perfection, are four dormant harmonic frequencies:
 
 A deep, earthen slate-gray wave: Mutation L, the Lindwurm heavy breacher.  
-A fluid, shimmering azure ribbon: Mutation G, the Gorgon thermal dampener.  
+A sweeping, shimmering azure ribbon: Mutation G, the Gryphon aerial sovereign.  
 A savage, low-frequency violet pulse: Mutation F, the Fenris cursorial stalker.  
-And running through the core of the entire structure like a thread of spun sunlight: a radiant, golden carrier wave that matches the exact, identical harmonic frequency of the Simurgh lineage.
+And running through the core of the entire structure like a thread of spun sunlight: Mutation S, the radiant golden carrier wave of the Simurgh lineage.
 
 The laboratory goes dead, ringing silent.
 

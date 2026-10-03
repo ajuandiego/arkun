@@ -2226,11 +2226,19 @@ status: normalized
 
 The screaming in my head dies.
 
-The red and violet strobes vanish from my retinas. The grinding, drilling pressure behind my temples melts away like morning frost under a desert sun. 
+It is not a gentle easing. It is an amputation.
 
-My forehead drops forward, resting against the worn leather of her utility harness, right between her breasts. 
+The red and violet telemetry strobes vanish from my retinas. The grinding, drilling pressure behind my temples ceases with such violent, concussive suddenness that my chest locks into iron. Panic—raw, tactical, and immediate—surges through my gut. In the legion, total silence means only one thing: sensory-wipe tanks before memory execution. It means you are offline. Disconnected. An asset marked for slaughter.
 
-I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy-four beats per minute, calm, cursorial, unhurried. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
+*Move,* my military conditioning shrieks. *Strike before they wipe the cortex.*
+
+I try to lunge backward, to bring my sidearm up, but my knees buckle under the sheer physical shock of the void. My forehead drops forward, thudding against the worn leather of her utility harness, right between her breasts.
+
+"What did you do?" I gasp, my breath scalding her collar, my trembling fingers clawing at the concrete flags. "What did you do to my head?"
+
+"I grounded you," she breathes, her voice tight, startled by the violent shudder racking two hundred and thirty-five pounds of soldier. "Don't fight it."
+
+I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy-four beats per minute, calm, cursorial, unhurried. Slowly, as the silence stretches without an executioner's blade falling, the terror ebbs into an exhausting, breathtaking relief. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
 
 Memory flashes unbidden in the quiet: eight years ago, during my first medal ceremony in Dome Alpha’s Executive Spire. 
 
@@ -5362,8 +5370,8 @@ With a high-pitched, metallic squeal of steel on rusted steel, the trolley begin
 
 # The Fatal Siphon // Interlude
 
-> *"To love across the strains is to swallow ground glass. The Consortium gave us wings, claws, and fangs, but they bred our blood to be poison to anyone we touch. They made us weapons so we could never be lovers."*  
-> — Scratched into the plaster, Barracks of the Decimated
+> *"When a commander breaks formation, the carrier frequency does not sleep. It drills into the temporal lobe until you either execute your orders or bleed out through your eyes."*  
+> — Directorate Tactical Protocol, Section 9 (Decimation Directives)
 
 ***
 
@@ -5415,13 +5423,17 @@ Nyx stepped closer, her violet irises widening as she took in the scorched metal
 
 Nyx didn't argue. 
 
-Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port, and for three heartbeats, the screaming static behind Cassian's eyes blunted into a muffled, thrumming hum.
+Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port.
 
-A ragged, shuddering groan broke from his throat. The relief was intoxicating, an oasis in a desert of white fire. He reached out blindly, gripping her wrists with crushing force to hold her hands against his neck, terrified that if she pulled away, the screaming would split his skull in two.
+Nothing happened.
+
+The screaming static behind Cassian's eyes did not blunt. It surged—a piercing, white-hot drill of quantum feedback that vibrated through the metal casing into her bare skin. Cold reptilian scales could not ground an alien carrier wave; without the proprietary Null-Resonance of the Mosaic Keystone, the touch was merely metal baking against bone.
+
+A furious, agonized cry tore from his throat. Delirious with pain and desperate for relief, he reached out blindly, gripping her wrists with crushing force, slamming her hands harder against his neck as if he could force the static into silence through sheer violence.
 
 And in that sudden, frantic grip, her chimeric biology deployed.
 
-It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—a Gorgon-Lindwurm splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
+It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—an illegal Lindwurm chimeric splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
 
 Along the palms and inner wrists of her scaled hands, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
 
@@ -5461,15 +5473,9 @@ Nyx fell to her knees beside him, horror twisting her beautiful, mutated face.
 
 Beneath his bronze skin, black, necrotic veins were already spidering outward from his neck across his throat and collarbone. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
 
-He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
+He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal reality of his desertion:
 
-The Consortium had not just built cages of concrete and iron.
-
-They had built the cages inside their very chromosomes. 
-
-Between different strains, unfiltered love was not merely forbidden.
-
-It was an automatic execution.
+You could not run from the Directorate's leash. You could not buy a miracle in an alley. Seeking salvation in the gutter had not quieted the scream—it had only traded the fire in his skull for the poison in his throat.
 
 Cassian’s chest heaved once—a dry, empty rattle of collapsing lungs—and then went still.
 
@@ -6602,9 +6608,9 @@ Five distinct, harmonized wave-crests ripple across the calibration grid:
 At the apex, a vibrant, razor-sharp crimson crest pulses with the unmistakable fast-twitch frequency of Mutation D—the Dromaeon lineage. But anchored directly beneath it, woven together in a seamless, double-helix lattice of impossible geometric perfection, are four dormant harmonic frequencies:
 
 A deep, earthen slate-gray wave: Mutation L, the Lindwurm heavy breacher.  
-A fluid, shimmering azure ribbon: Mutation G, the Gorgon thermal dampener.  
+A sweeping, shimmering azure ribbon: Mutation G, the Gryphon aerial sovereign.  
 A savage, low-frequency violet pulse: Mutation F, the Fenris cursorial stalker.  
-And running through the core of the entire structure like a thread of spun sunlight: a radiant, golden carrier wave that matches the exact, identical harmonic frequency of the Simurgh lineage.
+And running through the core of the entire structure like a thread of spun sunlight: Mutation S, the radiant golden carrier wave of the Simurgh lineage.
 
 The laboratory goes dead, ringing silent.
 
@@ -8038,38 +8044,6 @@ To my early readers and critique partners: thank you for challenging me to sharp
 To the vibrant Romantasy community: thank you for embracing stories where unapologetic romance and high-stakes speculative fiction collide. Readers like you make epic worlds like Arkun possible.
 
 And finally, to you—the reader: thank you for walking the dangerous catwalks of Sector 09 with Tsunari and soaring through the storm with Vram. If this story stirred your pulse, kept you reading past midnight, or made your breath catch, then every late night and rewound line was worth it.
-
-
----
-
-
-## Sneak Peek: Crown of Salt (The Arkun Cycle — Book Two)
-
-*Fourteen months until outdoor air kills everything that breathes. Thirty days until the glass dome of Eden Alpha becomes Sora's tomb. And eighty miles of scorching, caustic salt between the rebels and the cure.*
-
-
-The thermals over the Great Cleave smelled of boiling salt and distant lightning.
-
-From three thousand feet above the southern flats, the world looked like a shattered porcelain plate crusted with dried blood. The high towers of Eden Alpha were behind us now—distant needles of frosted crystal mocking the poisoned wastes below. But the horizon ahead offered no sanctuary.
-
-Beside me, the steady, rhythmic beating of obsidian and gold wings broke through the high-altitude silence. Vram flew close enough that the radiant heat of his Simurgh crest bathed my face in warmth, keeping the sub-zero bite of the troposphere from numbing my skin.
-
-His jaw was tight, his silver-flecked eyes scanning the cloud banks for Consortium hunter-squadrons. Ten years of military conditioning did not die easily; he still read the sky as a kill-box.
-
-Through the flight link, his voice entered my mind—rough, deep, and steady as bedrock.
-
-*Turbulence coming off the salt ridges,* he signaled, his wingtip dipping by a fraction of an inch to shield me from a shearing updraft. *Stay on my flank, Tsune. When we hit the perimeter, we drop like stones.*
-
-I gripped the harness, my carbon claws humming against the reinforced leather.
-
-*They know we're coming, Vram,* I answered through the bond, feeling the electric pulse of his blood resonate with mine. *Corvus has fortified the lower labs.*
-
-A dark, lethal smile curved the Commander's lips against the rushing wind.
-
-*Let him build his walls,* Vram whispered into the sky. *He's never seen us hungry.*
-
-
----
 
 
 ## About the Author: J.D. Alfaro

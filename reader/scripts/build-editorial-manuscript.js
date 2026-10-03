@@ -61,21 +61,7 @@ function compileManuscript() {
   fullContent.push(`To my early readers and critique partners: thank you for challenging me to sharpen the blades, deepen the tension, and never hold back on the heat or the emotional cost. Your honest feedback helped forge Stolen Breath into the fierce, visceral tale it needed to be.`);
   fullContent.push(`To the vibrant Romantasy community: thank you for embracing stories where unapologetic romance and high-stakes speculative fiction collide. Readers like you make epic worlds like Arkun possible.`);
   fullContent.push(`And finally, to you—the reader: thank you for walking the dangerous catwalks of Sector 09 with Tsunari and soaring through the storm with Vram. If this story stirred your pulse, kept you reading past midnight, or made your breath catch, then every late night and rewound line was worth it.\n`);
-  fullContent.push(`---\n`);
 
-  fullContent.push(`## Sneak Peek: Crown of Salt (The Arkun Cycle — Book Two)`);
-  fullContent.push(`*Fourteen months until outdoor air kills everything that breathes. Thirty days until the glass dome of Eden Alpha becomes Sora's tomb. And eighty miles of scorching, caustic salt between the rebels and the cure.*\n`);
-  fullContent.push(`The thermals over the Great Cleave smelled of boiling salt and distant lightning.`);
-  fullContent.push(`From three thousand feet above the southern flats, the world looked like a shattered porcelain plate crusted with dried blood. The high towers of Eden Alpha were behind us now—distant needles of frosted crystal mocking the poisoned wastes below. But the horizon ahead offered no sanctuary.`);
-  fullContent.push(`Beside me, the steady, rhythmic beating of obsidian and gold wings broke through the high-altitude silence. Vram flew close enough that the radiant heat of his Simurgh crest bathed my face in warmth, keeping the sub-zero bite of the troposphere from numbing my skin.`);
-  fullContent.push(`His jaw was tight, his silver-flecked eyes scanning the cloud banks for Consortium hunter-squadrons. Ten years of military conditioning did not die easily; he still read the sky as a kill-box.`);
-  fullContent.push(`Through the flight link, his voice entered my mind—rough, deep, and steady as bedrock.`);
-  fullContent.push(`*Turbulence coming off the salt ridges,* he signaled, his wingtip dipping by a fraction of an inch to shield me from a shearing updraft. *Stay on my flank, Tsune. When we hit the perimeter, we drop like stones.*`);
-  fullContent.push(`I gripped the harness, my carbon claws humming against the reinforced leather.`);
-  fullContent.push(`*They know we're coming, Vram,* I answered through the bond, feeling the electric pulse of his blood resonate with mine. *Corvus has fortified the lower labs.*`);
-  fullContent.push(`A dark, lethal smile curved the Commander's lips against the rushing wind.`);
-  fullContent.push(`*Let him build his walls,* Vram whispered into the sky. *He's never seen us hungry.*\n`);
-  fullContent.push(`---\n`);
 
   fullContent.push(`## About the Author: J.D. Alfaro`);
   fullContent.push(`J.D. Alfaro is a storyteller specializing in dark romantasy, high-stakes speculative fiction, and biopunk adventures. He weaves complex worldbuilding with visceral tension, lethal heroines, morally gray protectors, and scorching, open-door passion.`);

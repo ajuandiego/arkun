@@ -109,11 +109,19 @@ status: normalized
 
 The screaming in my head dies.
 
-The red and violet strobes vanish from my retinas. The grinding, drilling pressure behind my temples melts away like morning frost under a desert sun. 
+It is not a gentle easing. It is an amputation.
 
-My forehead drops forward, resting against the worn leather of her utility harness, right between her breasts. 
+The red and violet telemetry strobes vanish from my retinas. The grinding, drilling pressure behind my temples ceases with such violent, concussive suddenness that my chest locks into iron. Panic—raw, tactical, and immediate—surges through my gut. In the legion, total silence means only one thing: sensory-wipe tanks before memory execution. It means you are offline. Disconnected. An asset marked for slaughter.
 
-I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy-four beats per minute, calm, cursorial, unhurried. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
+*Move,* my military conditioning shrieks. *Strike before they wipe the cortex.*
+
+I try to lunge backward, to bring my sidearm up, but my knees buckle under the sheer physical shock of the void. My forehead drops forward, thudding against the worn leather of her utility harness, right between her breasts.
+
+"What did you do?" I gasp, my breath scalding her collar, my trembling fingers clawing at the concrete flags. "What did you do to my head?"
+
+"I grounded you," she breathes, her voice tight, startled by the violent shudder racking two hundred and thirty-five pounds of soldier. "Don't fight it."
+
+I can hear the steady, rhythmic beat of her heart beneath her ribs—seventy-four beats per minute, calm, cursorial, unhurried. Slowly, as the silence stretches without an executioner's blade falling, the terror ebbs into an exhausting, breathtaking relief. The cool, soothing chill of her hands seeps through my skin, traveling down my spine, quenching the runaway fire in my blood until my Simurgh furnace purrs with a gentle, steady warmth.
 
 Memory flashes unbidden in the quiet: eight years ago, during my first medal ceremony in Dome Alpha’s Executive Spire. 
 

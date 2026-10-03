@@ -918,30 +918,8 @@ function generateTeaserXHTML() {
       <div class="teaser-subtitle">Coming Soon</div>
     </div>
 
-    <div class="teaser-hook">
-      "Fourteen months until outdoor air kills everything that breathes. Thirty days until the glass dome of Eden Alpha becomes Sora's tomb. And eighty miles of scorching, caustic salt between the rebels and the cure."
-    </div>
-
-    <div class="chapter-content">
-      <p class="has-dropcap"><span class="dropcap">T</span>he thermals over the Great Cleave smelled of boiling salt and distant lightning.</p>
-
-      <p>From three thousand feet above the southern flats, the world looked like a shattered porcelain plate crusted with dried blood. The high towers of Eden Alpha were behind us now—distant needles of frosted crystal mocking the poisoned wastes below. But the horizon ahead offered no sanctuary.</p>
-
-      <p>Beside me, the steady, rhythmic beating of obsidian and gold wings broke through the high-altitude silence. Vram flew close enough that the radiant heat of his Simurgh crest bathed my face in warmth, keeping the sub-zero bite of the troposphere from numbing my skin.</p>
-
-      <p>His jaw was tight, his silver-flecked eyes scanning the cloud banks for Consortium hunter-squadrons. Ten years of military conditioning did not die easily; he still read the sky as a kill-box.</p>
-
-      <p>Through the flight link, his voice entered my mind—rough, deep, and steady as bedrock.</p>
-
-      <p><em>Turbulence coming off the salt ridges,</em> he signaled, his wingtip dipping by a fraction of an inch to shield me from a shearing updraft. <em>Stay on my flank, Tsune. When we hit the perimeter, we drop like stones.</em></p>
-
-      <p>I gripped the harness, my carbon claws humming against the reinforced leather.</p>
-
-      <p><em>They know we're coming, Vram,</em> I answered through the bond, feeling the electric pulse of his blood resonate with mine. <em>Corvus has fortified the lower labs.</em></p>
-
-      <p>A dark, lethal smile curved the Commander's lips against the rushing wind.</p>
-
-      <p><em>Let him build his walls,</em> Vram whispered into the sky. <em>He's never seen us hungry.</em></p>
+    <div class="teaser-hook" style="margin-top: 3em; font-size: 1.15em; line-height: 1.8;">
+      "Fourteen months until outdoor air kills everything that breathes. Thirty days until the glass dome of Eden Alpha becomes Sora's tomb. And eighty miles of scorching, caustic salt between the hunter and the captive."
     </div>
 
     <div style="text-align: center; margin-top: 3em; font-family: 'Cinzel', Georgia, serif; letter-spacing: 2px; color: #c49a45; font-size: 0.95em;">
