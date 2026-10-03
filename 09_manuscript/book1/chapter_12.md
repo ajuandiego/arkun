@@ -22,9 +22,9 @@ She turned it off with five fingers.
 
 *Null-Resonance.*
 
-The word feels heavy in my mind, like a live round loaded into a cracked chamber. If Director Corvus knew an un-spliced Gray Sector survivor possessed a bio-electromagnetic null-field capable of grounding a Vaelen quantum carrier wave, she wouldn't just send Aeros-Legion 7. She would scramble the entire Iron Division, burn Sector 09 to slag, and pave the ashes in concrete just to ensure the secret never reached the undercity.
+The word feels heavy in my mind, like a live round loaded into a cracked chamber. If Director Corvus knew a rogue Dromaeon operative carried the dormant Mosaic Keystone genotype—a bio-electromagnetic null-field capable of grounding a Vaelen quantum carrier wave—she wouldn't just send Aeros-Legion 7. She would scramble the entire Iron Division, burn Sector 09 to slag, and pave the ashes in concrete just to ensure the secret never reached the undercity.
 
-Because if the dogs realize the chain can be broken by human touch, the kennel ceases to exist.
+Because if the dogs realize the chain can be broken by her touch, the kennel ceases to exist.
 
 A soft, scraping whisper behind me breaks the wind. 
 

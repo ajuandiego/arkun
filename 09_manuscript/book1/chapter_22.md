@@ -42,7 +42,7 @@ Above the dome, searchlight beams sweep the clouds in frantic, geometric grids.
 
 They know we cleared the culvert.
 
-The low, rhythmic thumping of heavy rotary engines echoes from the canyon behind us—three corporate gunships accompanied by a dozen ground-tracking prowlers scouring the drainage mouth with infrared scanners.
+The low, concussive hum of heavy inductive drives echoes from the canyon behind us—three corporate search barges accompanied by a dozen ground-tracking prowlers scouring the drainage mouth with infrared scanners.
 
 "They have our scent," Tsunari says, her amber slit pupils tracking the dust plumes rising from the gorge. "The ground units will reach the dry lakebed in twenty minutes."
 

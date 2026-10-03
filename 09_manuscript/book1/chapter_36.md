@@ -36,7 +36,7 @@ A strange, electric prickle runs down the back of my neck.
 
 Ten years ago. 
 
-That was the exact month my father—Dr. Jeffrey Thorne—dragged Sora and me through the escape tunnels beneath Sector 04, right before the Directorate execution squads cornered our convoy at the salt flats. 
+That was the exact month my father—Dr. Jeffrey Thorne—dragged Sora and me through the escape tunnels beneath the lower sumps, right before the Directorate execution squad cornered us at the subterranean drainage sluice. 
 
 I remember the rain that night. I remember my father shoving Sora into the arms of the Directorate transport officers to save her from the firing squad, before kissing my forehead and sprinting toward the northern cliffs above the boiling ocean. 
 
@@ -76,7 +76,7 @@ I know that handwriting.
 
 I know the sharp, impatient hook on the integral sign. I know the tiny, rebellious circle he always drew above the delta instead of a triangle. When I was seven years old, sitting on the floor of his clandestine laboratory while he calibrated my phase-stutter bracers, he would write that exact formula on the margins of my sketchbooks.
 
-*He didn't die at the salt flats.*
+*He didn't die in the drainage sluice.*
 
 The realization hits my chest with the force of a detonating grenade, shattering ten years of grief, guilt, and bitter abandonment into blinding shards of light.
 

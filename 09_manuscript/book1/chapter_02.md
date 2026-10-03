@@ -86,7 +86,7 @@ I don't need to look to know who it is. The scent reaches me first: crushed euca
 
 Specialist Tobin Vance steps out of the shadow of the blast doors. 
 
-At nineteen, Toby is the youngest of our rare lineage assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+At twenty-one, Toby Vance is the youngest in Aeros-Legion 7—and Cassian's younger brother. His Gryphon-Simurgh chimeric plumage is still soft around his jawline, a delicate dusting of iridescent cream-and-gold down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—pale gold and cream primaries that twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
 
 "Commander," Toby whispers, his voice barely carrying over the wind. 
 

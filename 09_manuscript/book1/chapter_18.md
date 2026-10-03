@@ -24,9 +24,9 @@ One hundred and forty miles per hour.
 
 Above us, the night erupts into a storm of blue and crimson tracer fire.
 
-The corporate gunships overhead tilt their twin rotors, their heavy rotary cannons raking the canyon walls behind us with thousands of explosive kinetic slugs. Boulders the size of transport trucks shatter into pulverized shrapnel, raining down into the gorge in roaring avalanches of rock and burning cordite.
+The corporate barges overhead pivot their heavy flak batteries, raking the canyon walls behind us with thousands of explosive kinetic slugs. Boulders the size of transport trucks shatter into pulverized shrapnel, raining down into the gorge in roaring avalanches of rock and burning cordite.
 
-High above the gunships, diving through the searchlight beams, come the shadows.
+High above the barges, diving through the searchlight beams, come the shadows.
 
 Aeros-Legion 7.
 
@@ -42,7 +42,7 @@ Ferrin. That glorious, lying bastard.
 
 *"Calder, you're firing at a dead pylon!"* Cassian roars back. *"Lock his thermal signature! He has an un-collared runner tethered to his chest! He cannot roll! Take his primary wing-roots!"*
 
-Behind us, two automated flak drones—small, disc-shaped hunter-killer units launched from the gunship’s ventral bays—dive into the canyon like screaming silver wasps. Their turbine thrusters glow incandescent blue as they accelerate to two hundred knots, closing the gap with terrifying mechanical speed.
+Behind us, two automated flak drones—small, disc-shaped hunter-killer units launched from the lead barge’s ventral bays—dive into the canyon like screaming silver wasps. Their turbine thrusters glow incandescent blue as they accelerate to two hundred knots, closing the gap with terrifying mechanical speed.
 
 Their automated targeting reticles paint the base of my wings with steady, pulsing red lasers.
 

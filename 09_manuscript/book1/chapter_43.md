@@ -138,7 +138,7 @@ municipal scrubber loop: restored to baseline
 
 All across Sector 09, the deafening roar of battle begins to fade.
 
-Above our heads, the surviving Directorate gunships and rotor-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
+Above our heads, the surviving Directorate assault barges and hunter-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
 
 The mutinous pilots of Aeros-Legion 7—Ferrin, Sergeant Veda, and young Toby Vance—circle overhead in a triumphal victory roll, their wings catching the first golden rays of dawn breaking through the high ventilation grates.
 

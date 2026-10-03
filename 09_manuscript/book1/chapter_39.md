@@ -39,19 +39,13 @@ Vram does not raise his pistol. He keeps it pointed at the stone flags. His gaze
 
 Ferrin’s smirk falters, a shadow of genuine pain crossing his scarred features.
 
-"Cassian deserted three days out of the gorge, boss," Ferrin replies, his voice dropping into grim reality. "The Directorate dialed the carrier net to maximum the moment you went dark. Cassian couldn't take the noise. He said following a rogue commander was a suicide pact, threw his comms into the dirt, and peeled off toward the western sumps to drown the static in rotgut."
+"Cassian broke three days out of the gorge, boss," Ferrin replies, his voice dropping into grim reality. "The Directorate dialed the carrier net to maximum the moment you went dark. Cassian couldn't take the noise. When we caught your heat signature heading for the undercity, he drew his sidearm on his own squad. Toby begged him on his knees to come with us, but Cassian told us following a rogue commander was a suicide pact. He threw his comms into the dirt, swore he'd never fly under your banner again, and peeled off toward the western sumps to drown the static in rotgut. We had to fly past him or shoot him down where he stood."
 
 Behind him, young Toby Vance lets out a stifled, shuddering sob, his fingers slipping on the receiver of his rifle.
 
-"My brother chose the dark, Commander," Toby whispers, his voice cracking like dry wood. "He gave up on the sky. But I couldn't let them kill you. And it hurts... gods, it hurts so much. The static... the voice in the channel won't stop screaming."
+"My brother chose the dark, Commander," Toby whispers, his voice cracking like dry wood. "He gave up on the sky. He wouldn't listen. But I couldn't let them execute you. And it hurts... gods, it hurts so much. The static... the voice in the channel won't stop screaming. It says if I don't pull the trigger, my heart will stop."
 
 "Listen to the frequency in your ears, Ferrin," Vram says, taking a step forward. His wings flare slightly—not in aggression, but in an open, welcoming arc. "How loud is the static today? How hot does the back of your neck feel? One hundred and five? One hundred and six?"
-
-Ferrin’s smirk falters.
-
-Behind him, young Toby Vance lets out a stifled, shuddering sob, his fingers slipping on the receiver of his rifle.
-
-"It hurts, Commander," the boy whispers, his voice cracking like dry wood. "It hurts so much. The static... the voice in the channel won't stop screaming. It says... it says if I don't pull the trigger, my heart will stop."
 
 Veda doesn't lower her rifle, but her knuckles are white against the grip.
 

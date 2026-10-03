@@ -393,7 +393,7 @@ I don't need to look to know who it is. The scent reaches me first: crushed euca
 
 Specialist Tobin Vance steps out of the shadow of the blast doors. 
 
-At nineteen, Toby is the youngest of our rare lineage assigned to Aeros-Legion 7. His Simurgh plumage is still soft around his jawline, a delicate dusting of iridescent copper down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—scarcely twelve feet from tip to tip—and they twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+At twenty-one, Toby Vance is the youngest in Aeros-Legion 7—and Cassian's younger brother. His Gryphon-Simurgh chimeric plumage is still soft around his jawline, a delicate dusting of iridescent cream-and-gold down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—pale gold and cream primaries that twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
 
 "Commander," Toby whispers, his voice barely carrying over the wind. 
 
@@ -1478,9 +1478,9 @@ I tilt my head sideways, my amber-chartreuse eyes narrowing as my horizontal sli
 
 The breach sirens at Dome Alpha were red-priority. 
 
-When an operative decrypts a Tier-1 corporate vault, standard Directorate doctrine dictates immediate containment: aerial gunships, lethal neuro-gas canisters dropped over the sector, and an immediate extraction shuttle with an Iron Division suppression squad to transport the prisoner directly to Sub-Level 3.
+When an operative decrypts a Tier-1 corporate vault, standard Directorate doctrine dictates immediate containment: aerial assault barges, lethal neuro-gas canisters dropped over the sector, and an immediate extraction shuttle with an Iron Division suppression squad to transport the prisoner directly to Sub-Level 3.
 
-There are no gunships outside. I can hear only the lonely, howling roar of the wasteland wind against the prowler’s armored hull. 
+There are no barges outside. I can hear only the lonely, howling roar of the wasteland wind against the prowler’s armored hull. 
 
 There are no Iron Division guards in this cabin. 
 
@@ -2779,9 +2779,9 @@ She turned it off with five fingers.
 
 *Null-Resonance.*
 
-The word feels heavy in my mind, like a live round loaded into a cracked chamber. If Director Corvus knew an un-spliced Gray Sector survivor possessed a bio-electromagnetic null-field capable of grounding a Vaelen quantum carrier wave, she wouldn't just send Aeros-Legion 7. She would scramble the entire Iron Division, burn Sector 09 to slag, and pave the ashes in concrete just to ensure the secret never reached the undercity.
+The word feels heavy in my mind, like a live round loaded into a cracked chamber. If Director Corvus knew a rogue Dromaeon operative carried the dormant Mosaic Keystone genotype—a bio-electromagnetic null-field capable of grounding a Vaelen quantum carrier wave—she wouldn't just send Aeros-Legion 7. She would scramble the entire Iron Division, burn Sector 09 to slag, and pave the ashes in concrete just to ensure the secret never reached the undercity.
 
-Because if the dogs realize the chain can be broken by human touch, the kennel ceases to exist.
+Because if the dogs realize the chain can be broken by her touch, the kennel ceases to exist.
 
 A soft, scraping whisper behind me breaks the wind. 
 
@@ -3617,7 +3617,7 @@ The air on the upper landing pad smells of impending execution.
 
 Above the 800-foot rim of the canyon, the toxic twilight has vanished, swallowed whole by the blinding, magnesium glare of high-intensity aerial spotlights. 
 
-Three corporate gunships—armored, twin-rotor tactical transports from Dome Alpha’s Iron Division—hover four hundred feet above the redoubt, their downwash churning the copper dust into a blinding sandstorm that screams against the concrete. Beneath the roar of the turbines comes a sound that freezes the marrow in my ribs: the rhythmic, concussive beat of dozens of feathered wings snapping open in the wind.
+Three corporate atmospheric barges—armored, heavy-lift command platforms from Dome Alpha’s Iron Division—drift four hundred feet above the redoubt, their downwash churning the copper dust into a blinding sandstorm that screams against the concrete. Beneath the roar of the inductive thrusters comes a sound that freezes the marrow in my ribs: the rhythmic, concussive beat of dozens of feathered wings snapping open in the wind.
 
 Aeros-Legion 7 has arrived.
 
@@ -3633,7 +3633,7 @@ Beside me on the landing pad, Vram stands with his back to the canyon abyss.
 
 His left shoulder is drenched in dark crimson blood where the Inquisitor’s bio-lance tore through his deltoid, but his right hand works with calm, terrifying military speed. He pulls his heavy tactical flight rig from the ground, kicking the mangled titanium scraps of the alien skiff into the dark.
 
-"Tsunari," he says, his voice cutting through the shrieking rotor wash with steady, unyielding steel. "Step forward."
+"Tsunari," he says, his voice cutting through the shrieking thruster roar with steady, unyielding steel. "Step forward."
 
 I look at him. Then I look past his shoulder, down into the sheer, eight-hundred-foot vertical drop of the canyon.
 
@@ -3643,7 +3643,7 @@ In the Gray Ring, I have leaped across five-story alleyways; I have rebounded of
 
 Every survival instinct honed over ten years of hunting in the sewers screams at me to turn back, to dive into the drainage culverts, to take my chances with the dark.
 
-"You can't outrun the gunships on foot," Vram says, his golden eyes locking onto mine through the flying dust. "Their thermal optics will spot your heat signature in the culverts before you clear two hundred yards. The only way through the dead perimeter is the sky."
+"You can't outrun the barges on foot," Vram says, his golden eyes locking onto mine through the flying dust. "Their thermal optics will spot your heat signature in the culverts before you clear two hundred yards. The only way through the dead perimeter is the sky."
 
 He opens the heavy chest straps of his flight harness.
 
@@ -3671,17 +3671,17 @@ His large, scarred hands haul the shoulder buckles down, his knuckles brushing t
 
 I look up into his golden, predatory gaze. His vertical slit pupils are dilated, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
 
-"The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming rotors above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
+"The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming thrusters above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
 
 "And if you get hit?" I whisper against his jaw, my lips grazing the rough stubble of his cheek.
 
 "Then I lock my wings and we burn together," he answers without flinching. "Just like I promised."
 
-A sudden, deafening loudspeaker crackles from the lead corporate gunship hovering above the rim:
+A sudden, deafening loudspeaker crackles from the lead command barge hovering above the rim:
 
 *"Commander Tyage! Stand down and release the biological contaminant! You have executed an extraterrestrial overseer under the Heresy of the First Hand! Disengage flight surfaces immediately or your squadron will initiate automated termination fire!"*
 
-Above the gunship, the winged silhouettes of Aeros-Legion bank in tight tactical formation. 
+Above the barge, the winged silhouettes of Aeros-Legion bank in tight tactical formation. 
 
 I see Cassian at the point, his kinetic rifle raised, his flight quills trembling in the crosswinds. I see Ferrin hovering thirty yards to the flank, his power cell cycling with an agitated whine. And lower down, riding the turbulence along the cliff edge, young Toby Vance hovers with his wings flared wide, his eyes wide and horrified behind his gold-mirrored visor as he stares at the bloody alien carcass on the pad.
 
@@ -3731,9 +3731,9 @@ One hundred and forty miles per hour.
 
 Above us, the night erupts into a storm of blue and crimson tracer fire.
 
-The corporate gunships overhead tilt their twin rotors, their heavy rotary cannons raking the canyon walls behind us with thousands of explosive kinetic slugs. Boulders the size of transport trucks shatter into pulverized shrapnel, raining down into the gorge in roaring avalanches of rock and burning cordite.
+The corporate barges overhead pivot their heavy flak batteries, raking the canyon walls behind us with thousands of explosive kinetic slugs. Boulders the size of transport trucks shatter into pulverized shrapnel, raining down into the gorge in roaring avalanches of rock and burning cordite.
 
-High above the gunships, diving through the searchlight beams, come the shadows.
+High above the barges, diving through the searchlight beams, come the shadows.
 
 Aeros-Legion 7.
 
@@ -3749,7 +3749,7 @@ Ferrin. That glorious, lying bastard.
 
 *"Calder, you're firing at a dead pylon!"* Cassian roars back. *"Lock his thermal signature! He has an un-collared runner tethered to his chest! He cannot roll! Take his primary wing-roots!"*
 
-Behind us, two automated flak drones—small, disc-shaped hunter-killer units launched from the gunship’s ventral bays—dive into the canyon like screaming silver wasps. Their turbine thrusters glow incandescent blue as they accelerate to two hundred knots, closing the gap with terrifying mechanical speed.
+Behind us, two automated flak drones—small, disc-shaped hunter-killer units launched from the lead barge’s ventral bays—dive into the canyon like screaming silver wasps. Their turbine thrusters glow incandescent blue as they accelerate to two hundred knots, closing the gap with terrifying mechanical speed.
 
 Their automated targeting reticles paint the base of my wings with steady, pulsing red lasers.
 
@@ -4278,7 +4278,7 @@ Above the dome, searchlight beams sweep the clouds in frantic, geometric grids.
 
 They know we cleared the culvert.
 
-The low, rhythmic thumping of heavy rotary engines echoes from the canyon behind us—three corporate gunships accompanied by a dozen ground-tracking prowlers scouring the drainage mouth with infrared scanners.
+The low, concussive hum of heavy inductive drives echoes from the canyon behind us—three corporate search barges accompanied by a dozen ground-tracking prowlers scouring the drainage mouth with infrared scanners.
 
 "They have our scent," Tsunari says, her amber slit pupils tracking the dust plumes rising from the gorge. "The ground units will reach the dry lakebed in twenty minutes."
 
@@ -5031,13 +5031,7 @@ He lowers his chest onto mine.
 
 The contact is an explosion of sensation. The coarse, burning hair of his chest abrades the sensitive, cool skin of my breasts, flattening my nipples against his hard pectorals. A sharp cry escapes my lips as his mouth claims my throat, his lips and teeth grazing the tender skin beneath my jaw, tasting of salt, ozone, and cedar resin.
 
-His hands roam with starving impatience. One scarred palm cups the weight of my breast, his thumb rolling over my nipple until I am arching off the mattress, while his other hand slides down my belly, tracing the delicate line of my hip bone. 
-
-His fingers slip lower, parting my thighs.
-
-When his palm cups my center, I gasp, my heels digging into the canvas. I am already drenched—slick, hot, and swollen with the wild, terrifying need that has built between us since the conduit. 
-
-His long fingers slide into my folds, coating themselves in my wetness. He finds my clitoris, his thumb circling the hardened peak with firm, rhythmic pressure that makes my hips buck helplessly against his hand.
+His hands roam with starving impatience. One scarred palm cups the weight of my breast, his thumb rolling over my nipple until I am arching off the mattress, while his other hand slides down my belly, tracing the delicate curve of my hip bone. 
 
 His rigid length presses searing hot against my hip—heavy, thick, a brand of living fire against my flank.
 
@@ -5051,21 +5045,11 @@ He shifts his weight onto one arm, looking down at me—at the dark bruises on m
 
 Before I can answer, his mouth crashes back down on mine, fierce, consuming, and devastatingly tender. 
 
-His fingers double their cadence between my thighs, stroking the swollen bud of my center with ruthless, intoxicating precision. 
+It is not an act of taking, but a desperate surrender of breath. He pulls me flush against his burning chest, his massive arms locking around my waist, drawing my cool body into the furnace of his heat until the shivering in his limbs begins to still.
 
-The pressure inside me coils to the breaking point, an electric wire humming with lethal voltage. I wrap my calves around his lower back, using my cursorial strength to pull him flush against me, crying out into his mouth as the rhythm drives me over the precipice.
-
-The peak shatters.
-
-My orgasm explodes through me like a kinetic shockwave. My inner walls contract in violent, rhythmic pulses around his fingers, my voice breaking into a keening, breathless wail that he swallows with bruising kisses, my back arching until only my head and heels touch the canvas.
-
-The sight and feel of me coming undone against his hand snaps Vram's final restraint.
-
-With a deep, guttural roar that shakes his massive chest, his hips drive forward against the curve of my thigh. His body locks in violent spasms as his own release spills across our bellies in thick, scalding waves. He collapses against me, his heavy chest heaving, his face buried in the crook of my neck, groaning through the aftershocks.
+Above us, his wings flare wide, an impenetrable fortress of dark feathers shielding our bare bodies from the freezing world outside.
 
 The cot creaks into silence.
-
-Above us, his wings remain flared, an impenetrable fortress of dark feathers shielding our sweat-slicked bodies from the freezing world outside.
 
 Neither of us moves. 
 
@@ -5417,37 +5401,33 @@ The private room behind the liquor cages was small—six feet by eight feet, par
 
 The moment the iron latch dropped, the silence was broken by the violent rip of his duster hitting the floor.
 
-Cassian slammed her back against the corrugated wall. 
+Cassian stumbled against the corrugated wall, his breath coming in ragged, agonized gasps. 
 
-His hands—hard, calloused, tipped with the darkened nail beds of a predatory avian—cupped her jaw, pulling her mouth to his with savage, desperate hunger. He didn't care about her name. He didn't care about her past. He only cared that her skin was cold, deliciously cold, like a slab of winter granite against his 106-degree fever.
+His hands—hard, calloused, tipped with the darkened nail beds of a predatory avian—shook violently as he tore open the high collar of his flight tunic, exposing the massive pectoral plates of his chest and the twin titanium siphon ports drilled into his cervical spine. The metal housings glowed with faint, cherry-red heat, baking the surrounding flesh.
 
-Nyx let out a low, purring hiss against his lips. 
+"Touch it," he rasped, his forehead dropping against the iron sheets, his teeth clicking together as a fresh spike of feedback hammered through his skull. "Your skin is cold. The bio-techs said reptilian dermal plates can dissipate static. Ground it. Please... just make the noise stop."
 
-Her tongue was hot, flexible, and slightly rough, tasting of menthol and bitter almond. Her hands reached down, unbuckling the brass latch of his flight harness, stripping away the heavy ballistic weave until his chest was bare.
+Nyx stepped closer, her violet irises widening as she took in the scorched metal and the raw, inflamed tissue at the base of his neck.
 
-"Gods," she breathed, her cool fingers trailing across the massive pectoral plates of his chest, lingering at the twin titanium siphon ports drilled into his cervical spine. "You're a furnace."
+"Gods," she breathed, the cool air of her exhalation brushing his temple. "You're burning alive from the inside out."
 
-"Shut up," he growled, his breath ragged, his forehead dropping against her shoulder. "Just make the noise stop. Please."
+"Do it!" Cassian snarled, his voice cracking on a desperate sob.
 
 Nyx didn't argue. 
 
 Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port, and for three heartbeats, the screaming static behind Cassian's eyes blunted into a muffled, thrumming hum.
 
-A ragged, desperate groan broke from his throat. He crushed her against the corrugated wall, his mouth crashing down on hers in a starving, frenzied kiss that tasted of menthol, bitter almond, and raw survival. He stripped away the heavy ballistic weave of his flight harness, needing every inch of her freezing skin against his 106-degree fever.
+A ragged, shuddering groan broke from his throat. The relief was intoxicating, an oasis in a desert of white fire. He reached out blindly, gripping her wrists with crushing force to hold her hands against his neck, terrified that if she pulled away, the screaming would split his skull in two.
 
-Nyx hissed against his lips, her cool thighs wrapping around his hips, pulling him flush against her in the shadows of the alcove. The clash of their bodies—burning Simurgh avian furnace colliding with the cold, reptilian scales of her Gorgon-Lindwurm flesh—was violent, desperate, the frantic collision of two broken weapons seeking oblivion in the dark.
+And in that sudden, frantic grip, her chimeric biology deployed.
 
-Cassian gripped her hips, his head thrown back against the iron sheets, a breathless, guttural cry tearing from his chest as the agonizing tension of two weeks in the desert shattered in a sudden, violent surge of physical release.
+It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—a Gorgon-Lindwurm splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
 
-And in that unguarded moment of biological surrender, her mutation deployed.
+Along the palms and inner wrists of her scaled hands, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
 
-It was not a conscious act of murder. It was an involuntary, predatory reflex wired into her illegal genome—a Gorgon-Lindwurm chimeric splice designed by rogue black-market bio-engineers for assassination through intimacy.
+They punctured Cassian's throat and the thin skin around his carotid artery.
 
-Along the smooth, pale skin of her inner thighs, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
-
-They punctured Cassian's groin.
-
-The penetration was so minute, so masked by the overwhelming euphoria of his orgasm, that he felt only a tiny, pinprick sting against his femoral artery.
+The penetration was so minute, masked by the sheer heat of his cervical port, that he felt only a tiny, pinprick sting against his pulse point.
 
 Then the venom hit his bloodstream.
 
@@ -5459,11 +5439,11 @@ Lindwurm venom does not paralyze; it induces instantaneous, violent cross-strain
 
 Within three seconds of entering his bloodstream, the venom turned Cassian's blood from liquid fire into curdled, congealed sludge. 
 
-His orgasm froze in his throat.
+His breath froze in his throat.
 
-The roaring heat in his veins vanished, replaced instantly by an icy, paralyzing shock that swept from his groin straight into his heart. His chest locked into an iron fist. His lungs seized, unable to draw in a single molecule of air.
+The roaring heat in his veins vanished, replaced instantly by an icy, paralyzing shock that swept from his neck straight into his heart. His chest locked into an iron fist. His lungs seized, unable to draw in a single molecule of air.
 
-"Cassian?" Nyx gasped, her eyes clearing from the haze of her climax, feeling the sudden, terrifying rigidity of his body. "Cassian...?"
+"Cassian?" Nyx gasped, feeling the sudden, terrifying rigidity of his body and the horrific spasm in his arms. "Cassian...?"
 
 Cassian couldn't speak. 
 
@@ -5473,13 +5453,13 @@ His cardiac rhythm flatlined.
 
 His knees buckled. 
 
-He fell forward off her body, his heavy, two-hundred-and-forty-pound frame crashing onto the stained concrete floor with a sickening, hollow thud. His wings sprawled out in the filth, the obsidian quills twitching in weak, dying spasms.
+His hands slipped from her wrists, his heavy, two-hundred-and-forty-pound frame crashing onto the stained concrete floor with a sickening, hollow thud. His wings sprawled out in the filth, the obsidian quills twitching in weak, dying spasms.
 
 Nyx fell to her knees beside him, horror twisting her beautiful, mutated face. 
 
 "No... no, no, no..." she sobbed, clawing at his chest. 
 
-Beneath his bronze skin, black, necrotic veins were already spidering outward from his groin across his lower abdomen. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
+Beneath his bronze skin, black, necrotic veins were already spidering outward from his neck across his throat and collarbone. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
 
 He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
 
@@ -6496,7 +6476,7 @@ A strange, electric prickle runs down the back of my neck.
 
 Ten years ago. 
 
-That was the exact month my father—Dr. Jeffrey Thorne—dragged Sora and me through the escape tunnels beneath Sector 04, right before the Directorate execution squads cornered our convoy at the salt flats. 
+That was the exact month my father—Dr. Jeffrey Thorne—dragged Sora and me through the escape tunnels beneath the lower sumps, right before the Directorate execution squad cornered us at the subterranean drainage sluice. 
 
 I remember the rain that night. I remember my father shoving Sora into the arms of the Directorate transport officers to save her from the firing squad, before kissing my forehead and sprinting toward the northern cliffs above the boiling ocean. 
 
@@ -6536,7 +6516,7 @@ I know that handwriting.
 
 I know the sharp, impatient hook on the integral sign. I know the tiny, rebellious circle he always drew above the delta instead of a triangle. When I was seven years old, sitting on the floor of his clandestine laboratory while he calibrated my phase-stutter bracers, he would write that exact formula on the margins of my sketchbooks.
 
-*He didn't die at the salt flats.*
+*He didn't die in the drainage sluice.*
 
 The realization hits my chest with the force of a detonating grenade, shattering ten years of grief, guilt, and bitter abandonment into blinding shards of light.
 
@@ -6971,19 +6951,13 @@ Vram does not raise his pistol. He keeps it pointed at the stone flags. His gaze
 
 Ferrin’s smirk falters, a shadow of genuine pain crossing his scarred features.
 
-"Cassian deserted three days out of the gorge, boss," Ferrin replies, his voice dropping into grim reality. "The Directorate dialed the carrier net to maximum the moment you went dark. Cassian couldn't take the noise. He said following a rogue commander was a suicide pact, threw his comms into the dirt, and peeled off toward the western sumps to drown the static in rotgut."
+"Cassian broke three days out of the gorge, boss," Ferrin replies, his voice dropping into grim reality. "The Directorate dialed the carrier net to maximum the moment you went dark. Cassian couldn't take the noise. When we caught your heat signature heading for the undercity, he drew his sidearm on his own squad. Toby begged him on his knees to come with us, but Cassian told us following a rogue commander was a suicide pact. He threw his comms into the dirt, swore he'd never fly under your banner again, and peeled off toward the western sumps to drown the static in rotgut. We had to fly past him or shoot him down where he stood."
 
 Behind him, young Toby Vance lets out a stifled, shuddering sob, his fingers slipping on the receiver of his rifle.
 
-"My brother chose the dark, Commander," Toby whispers, his voice cracking like dry wood. "He gave up on the sky. But I couldn't let them kill you. And it hurts... gods, it hurts so much. The static... the voice in the channel won't stop screaming."
+"My brother chose the dark, Commander," Toby whispers, his voice cracking like dry wood. "He gave up on the sky. He wouldn't listen. But I couldn't let them execute you. And it hurts... gods, it hurts so much. The static... the voice in the channel won't stop screaming. It says if I don't pull the trigger, my heart will stop."
 
 "Listen to the frequency in your ears, Ferrin," Vram says, taking a step forward. His wings flare slightly—not in aggression, but in an open, welcoming arc. "How loud is the static today? How hot does the back of your neck feel? One hundred and five? One hundred and six?"
-
-Ferrin’s smirk falters.
-
-Behind him, young Toby Vance lets out a stifled, shuddering sob, his fingers slipping on the receiver of his rifle.
-
-"It hurts, Commander," the boy whispers, his voice cracking like dry wood. "It hurts so much. The static... the voice in the channel won't stop screaming. It says... it says if I don't pull the trigger, my heart will stop."
 
 Veda doesn't lower her rifle, but her knuckles are white against the grip.
 
@@ -7111,7 +7085,7 @@ The ceiling of Sector 09 groans like an iron bridge under a freight train.
 
 From the observation catwalk outside The Glass Vault, the seismic sensors on Gideon's console flicker with red spikes. The two-front siege has begun, and the violence is converging on our heads with catastrophic speed.
 
-Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous rotor-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
+Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
 
 And from below, crawling up from the sulfur-crusted drainage arteries of Sub-Level 12, comes the madness of the **Ember Coven**. 
 
@@ -7119,13 +7093,13 @@ Commander Malakar is leading hundreds of mutagen-soaked shock troops, their bodi
 
 Between the glass towers of the surface and the burning furnace of the deep sumps sit four hundred thousand baseline civilians—and the only room on earth where human history still breathes.
 
-"They're thirty minutes out on both vectors," Ferrin Calder reports, slamming a fresh drum magazine into his assault carbine. His sandy hair is wild, his eyes bright and completely free of the toxic haze that had clouded them for a decade. "Veda and I scouted the primary intake shafts. The Directorate is dropping heavy combat drones through Ventilation Flue 4. If those rotors clear the bottleneck, they'll turn this market into hamburger meat."
+"They're thirty minutes out on both vectors," Ferrin Calder reports, slamming a fresh drum magazine into his assault carbine. His sandy hair is wild, his eyes bright and completely free of the toxic haze that had clouded them for a decade. "Veda and I scouted the primary intake shafts. The Directorate is dropping heavy combat drones through Ventilation Flue 4. If those drones clear the bottleneck, they'll turn this market into hamburger meat."
 
 "Then we don't let them clear the bottleneck," I tell him. 
 
 I turn to the three pilots of Aeros-Legion 7. 
 
-"Ferrin, take Veda and Toby. Ascend through the secondary maintenance conduits and establish an aerial kill-box at Flue 4. Use the tight quarters against them. Their rotor-drones need twenty yards of clearance to maneuver; your wings can pivot on an iron strut. Drop their command relays, pin their infantry in the shafts, and buy us time."
+"Ferrin, take Veda and Toby. Ascend through the secondary maintenance conduits and establish an aerial kill-box at Flue 4. Use the tight quarters against them. Their automated drones need twenty yards of clearance to maneuver; your wings can pivot on an iron strut. Drop their command relays, pin their infantry in the shafts, and buy us time."
 
 Ferrin snaps off a salute, a fierce, reckless grin spreading across his face. 
 
@@ -7358,15 +7332,15 @@ The scene is breathtaking in its apocalyptic fury.
 
 Suspended two hundred feet above the lower sumps is a web of massive steel crane gantries, conveyor catwalks, and colossal ventilation intake turbines churning against the toxic yellow haze of the High Barrens. In the vertical airspace between the gantries, Aeros-Legion 7 is putting on a masterclass in close-quarters dogfighting.
 
-Sergeant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the rotor hubs of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning sulfur-electrolyte.
+Sergeant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the sensor arrays of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning sulfur-electrolyte.
 
 Beside her, young Toby Vance and Ferrin Calder fly in tight wingtip-to-wingtip formation. 
 
-"Watch your altitude, kid!" Ferrin's voice crackles over our local shortwave radio, laced with savage, laughing exhilaration. "Directorate gunship diving from twelve o'clock!"
+"Watch your altitude, kid!" Ferrin's voice crackles over our local shortwave radio, laced with savage, laughing exhilaration. "Directorate assault skiff diving from twelve o'clock!"
 
-Toby doesn't flinch. With the serene, unburdened grace of a bird whose wings have finally been freed, the boy executes an inside snap-roll, his primary feathers slicing through the gunship’s steering cables before Ferrin unloads an entire drum of armor-piercing kinetic slugs into its cockpit. 
+Toby doesn't flinch. With the serene, unburdened grace of a bird whose wings have finally been freed, the boy executes an inside snap-roll, his primary feathers slicing through the skiff’s steering vanes before Ferrin unloads an entire drum of armor-piercing kinetic slugs into its bridge. 
 
-The gunship veers sideways, crashing into an abandoned freight elevator with a concussive roar.
+The skiff veers sideways, crashing into an abandoned freight elevator with a concussive roar.
 
 Down on the middle catwalk, **Boran Vael-Korr** is back-to-back with Ferrin’s ground support team. 
 
@@ -7600,7 +7574,7 @@ municipal scrubber loop: restored to baseline
 
 All across Sector 09, the deafening roar of battle begins to fade.
 
-Above our heads, the surviving Directorate gunships and rotor-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
+Above our heads, the surviving Directorate assault barges and hunter-drones, their infantry routed and their purge protocol broken, fire their thrusters and bank sharply toward the surface, retreating into the clouds like whipped vultures.
 
 The mutinous pilots of Aeros-Legion 7—Ferrin, Sergeant Veda, and young Toby Vance—circle overhead in a triumphal victory roll, their wings catching the first golden rays of dawn breaking through the high ventilation grates.
 
@@ -7838,15 +7812,61 @@ For the first time in ten years, I close my eyes without checking the locks. I l
 
 ***
 
+The strike comes in the dead hollow of the third watch.
+
+It begins not with steel, but with a sound like escaping steam—a soft, venomous hiss venting through the high air duct above our cot. A cloying, sweet stench of sulfur incense and catalytic rift-fog rolls into the room, heavy as mercury.
+
+Before my brain can process the poison, my lungs seize. A leaden, chemically induced paralysis slams through my nervous system, pinning my limbs to the mattress in terrifying sleep paralysis. My cursorial muscles lock; I cannot lift a finger, cannot draw breath to scream.
+
+Beside me, Vram's golden furnace eyes ignite in the dark.
+
+The heavy iron door blows inward with a concussive crunch. Five cloaked figures in ash-smeared robes spill across the threshold, their faces masked in lead rebreathers, chanting the ragged, frantic cadences of the *Liturgy of the Slag*.
+
+*Sister Maeva's zealots.*
+
+Vram surges off the cot with an earth-shattering roar. He doesn't retreat. He doesn't look for his harness. Flaring his fourteen-foot obsidian wings across the width of the stone room, he places his massive body squarely between the intruders and my paralyzed form.
+
+"Touch her," Vram snarls, his voice shaking the stone foundations of the redoubt, "and I'll tear your ribs from your spines."
+
+He slams the lead zealot into the iron locker, crushing bronze armor plates to powder with his bare fists. He catches a second attacker by the throat, snapping an iron cudgel like a dry branch. 
+
+But the cult has not come for a brawl; they have come prepared to slaughter a god.
+
+From the hallway, two zealots fire high-torque pneumatic launchers. Braided copper grounding nets—charged with thousands of volts of high-frequency static—wrap around Vram's extended wings, biting into his feathers and locking directly onto the exposed titanium rims of his cervical siphon ports.
+
+The electrical discharge is catastrophic. 
+
+A blinding blue arc detonates across his flight lattice. Vram screams—a raw, agonized sound that tears the air to shreds—as two hundred and thirty-five pounds of dense muscle and bone are short-circuited and driven to the floor. Even paralyzed by voltage, he thrashes with monstrous fury, his talons gouging trenches into the concrete, his bloody teeth bared as he crawls back toward the cot.
+
+"Tsune—!" he roars through the blinding smoke. "Run—!"
+
+A heavy bronze clamp slams down over his throat, cutting off his voice. Chains of grounding wire cinch tight around his chest and wings, dragging him violently across the threshold into the dark corridor.
+
+I fight with every cell of my body to break the chemical lock on my limbs, my fingernails scraping uselessly against the wool.
+
+A sixth figure steps from the shadow of the door—a priestess draped in blackened vestments, holding a glowing bronze brazier in one hand and a three-pronged iron branding rod in the other.
+
+She leans over the cot, her eyes burning with fanatic zeal behind her lead visor.
+
+"Let the Heretic bear the mark of the Slag-Mother," she whispers, her voice like grinding millstones. "Your god belongs to the Salt."
+
+The red-hot iron descends.
+
+The chevron brand is driven deep into the flesh of my left shoulder.
+
+White-hot, apocalyptic agony explodes through my collarbone, searing down into the marrow of my ribs. The sickening stench of burning meat fills the chamber. I scream through locked teeth, my vision shattering into blinding static, before the pain and the paralytic fog drag me down into total blackness.
+
+***
+
 ### Tsunari
 
-I wake to the smell of burned meat.
+I wake to the smell of my own burned flesh.
 
-My head is spinning, heavy and dull, my tongue coated in a thick, metallic bitterness. 
+My head is spinning, heavy and dull, my tongue coated in the lingering, metallic bitterness of the rift-fog. 
 
-I reach across the blankets, searching for that roaring warmth that kept the cold away.
+I reach across the blankets, praying against hope for the roaring warmth that kept the cold away.
 
-My hand hits frozen canvas.
+My hand hits frozen canvas and sticky, congealing blood.
 
 The space beside me is empty. The wool is ice.
 
@@ -7856,11 +7876,11 @@ The dark stone room swallows the whisper whole.
 
 Then the pain hits.
 
-A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My fingers fly to my collarbone.
+A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My trembling fingers fly to my collarbone.
 
-Raw. Charred. Blistered and weeping, still hot beneath my fingertips.
+Raw. Charred. Blistered and weeping, still radiating heat beneath my fingertips.
 
-I stumble out of the cot, crashing against the iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
+I stumble out of the cot, crashing against the dented iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
 
 Burned deep into the flesh of my shoulder, raw and blackened, is a fresh, weeping brand.
 
@@ -7868,17 +7888,15 @@ The interlocking chevron.
 
 My breath catches in my throat.
 
-I spin toward the doorway. The heavy steel door is hanging open, swinging faintly in the draft from the dark hallway outside. 
+I spin toward the doorway. The heavy steel door hangs crooked on severed hinges. Across the stone floor, scorched trenches, pools of dark blood, and severed strands of copper grounding mesh tell the brutal story of his final stand.
 
-His boots are gone. His flight harness is gone. 
+He didn't abandon the watch. He fought until they broke his lattice.
 
-No sound. No struggle. Nothing.
-
-Just an empty room, a door swinging in the freezing wind, and a fire burning into my bone.
+And now he is gone.
 
 *Vram.*
 
-I press my hand against the burn, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
+I press my hand against the weeping brand, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
 
 My fingers find the hilt of my Spire hook on the table, the cold, blackened steel biting into my palm.
 

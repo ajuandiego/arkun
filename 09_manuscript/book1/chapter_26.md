@@ -162,13 +162,7 @@ He lowers his chest onto mine.
 
 The contact is an explosion of sensation. The coarse, burning hair of his chest abrades the sensitive, cool skin of my breasts, flattening my nipples against his hard pectorals. A sharp cry escapes my lips as his mouth claims my throat, his lips and teeth grazing the tender skin beneath my jaw, tasting of salt, ozone, and cedar resin.
 
-His hands roam with starving impatience. One scarred palm cups the weight of my breast, his thumb rolling over my nipple until I am arching off the mattress, while his other hand slides down my belly, tracing the delicate line of my hip bone. 
-
-His fingers slip lower, parting my thighs.
-
-When his palm cups my center, I gasp, my heels digging into the canvas. I am already drenched—slick, hot, and swollen with the wild, terrifying need that has built between us since the conduit. 
-
-His long fingers slide into my folds, coating themselves in my wetness. He finds my clitoris, his thumb circling the hardened peak with firm, rhythmic pressure that makes my hips buck helplessly against his hand.
+His hands roam with starving impatience. One scarred palm cups the weight of my breast, his thumb rolling over my nipple until I am arching off the mattress, while his other hand slides down my belly, tracing the delicate curve of my hip bone. 
 
 His rigid length presses searing hot against my hip—heavy, thick, a brand of living fire against my flank.
 
@@ -182,21 +176,11 @@ He shifts his weight onto one arm, looking down at me—at the dark bruises on m
 
 Before I can answer, his mouth crashes back down on mine, fierce, consuming, and devastatingly tender. 
 
-His fingers double their cadence between my thighs, stroking the swollen bud of my center with ruthless, intoxicating precision. 
+It is not an act of taking, but a desperate surrender of breath. He pulls me flush against his burning chest, his massive arms locking around my waist, drawing my cool body into the furnace of his heat until the shivering in his limbs begins to still.
 
-The pressure inside me coils to the breaking point, an electric wire humming with lethal voltage. I wrap my calves around his lower back, using my cursorial strength to pull him flush against me, crying out into his mouth as the rhythm drives me over the precipice.
-
-The peak shatters.
-
-My orgasm explodes through me like a kinetic shockwave. My inner walls contract in violent, rhythmic pulses around his fingers, my voice breaking into a keening, breathless wail that he swallows with bruising kisses, my back arching until only my head and heels touch the canvas.
-
-The sight and feel of me coming undone against his hand snaps Vram's final restraint.
-
-With a deep, guttural roar that shakes his massive chest, his hips drive forward against the curve of my thigh. His body locks in violent spasms as his own release spills across our bellies in thick, scalding waves. He collapses against me, his heavy chest heaving, his face buried in the crook of my neck, groaning through the aftershocks.
+Above us, his wings flare wide, an impenetrable fortress of dark feathers shielding our bare bodies from the freezing world outside.
 
 The cot creaks into silence.
-
-Above us, his wings remain flared, an impenetrable fortress of dark feathers shielding our sweat-slicked bodies from the freezing world outside.
 
 Neither of us moves. 
 

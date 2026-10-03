@@ -8,7 +8,7 @@ The ceiling of Sector 09 groans like an iron bridge under a freight train.
 
 From the observation catwalk outside The Glass Vault, the seismic sensors on Gideon's console flicker with red spikes. The two-front siege has begun, and the violence is converging on our heads with catastrophic speed.
 
-Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous rotor-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
+Above us, in the vertical elevator shafts and exhaust flues connecting Sector 09 to the surface, the Directorate has unleashed **Level Crimson Purge Teams**. Heavy drop-pods have punched through the upper transit decks, deploying squads of mechanized breachers in powered exosuits, supported by autonomous hunter-drones armed with high-velocity kinetic miniguns. Director Corvus is not interested in capturing rogue assets anymore; he is sanitizing the entire undercity to bury his crimes.
 
 And from below, crawling up from the sulfur-crusted drainage arteries of Sub-Level 12, comes the madness of the **Ember Coven**. 
 
@@ -16,13 +16,13 @@ Commander Malakar is leading hundreds of mutagen-soaked shock troops, their bodi
 
 Between the glass towers of the surface and the burning furnace of the deep sumps sit four hundred thousand baseline civilians—and the only room on earth where human history still breathes.
 
-"They're thirty minutes out on both vectors," Ferrin Calder reports, slamming a fresh drum magazine into his assault carbine. His sandy hair is wild, his eyes bright and completely free of the toxic haze that had clouded them for a decade. "Veda and I scouted the primary intake shafts. The Directorate is dropping heavy combat drones through Ventilation Flue 4. If those rotors clear the bottleneck, they'll turn this market into hamburger meat."
+"They're thirty minutes out on both vectors," Ferrin Calder reports, slamming a fresh drum magazine into his assault carbine. His sandy hair is wild, his eyes bright and completely free of the toxic haze that had clouded them for a decade. "Veda and I scouted the primary intake shafts. The Directorate is dropping heavy combat drones through Ventilation Flue 4. If those drones clear the bottleneck, they'll turn this market into hamburger meat."
 
 "Then we don't let them clear the bottleneck," I tell him. 
 
 I turn to the three pilots of Aeros-Legion 7. 
 
-"Ferrin, take Veda and Toby. Ascend through the secondary maintenance conduits and establish an aerial kill-box at Flue 4. Use the tight quarters against them. Their rotor-drones need twenty yards of clearance to maneuver; your wings can pivot on an iron strut. Drop their command relays, pin their infantry in the shafts, and buy us time."
+"Ferrin, take Veda and Toby. Ascend through the secondary maintenance conduits and establish an aerial kill-box at Flue 4. Use the tight quarters against them. Their automated drones need twenty yards of clearance to maneuver; your wings can pivot on an iron strut. Drop their command relays, pin their infantry in the shafts, and buy us time."
 
 Ferrin snaps off a salute, a fierce, reckless grin spreading across his face. 
 

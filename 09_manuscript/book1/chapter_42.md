@@ -12,15 +12,15 @@ The scene is breathtaking in its apocalyptic fury.
 
 Suspended two hundred feet above the lower sumps is a web of massive steel crane gantries, conveyor catwalks, and colossal ventilation intake turbines churning against the toxic yellow haze of the High Barrens. In the vertical airspace between the gantries, Aeros-Legion 7 is putting on a masterclass in close-quarters dogfighting.
 
-Sergeant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the rotor hubs of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning sulfur-electrolyte.
+Sergeant Veda banks sharply around a towering coolant tower, her sniper carbine barking three rhythmic double-taps that punch through the sensor arrays of two corporate hunter-drones. The machines spin out of control, exploding against the masonry walls in fiery blooms of burning sulfur-electrolyte.
 
 Beside her, young Toby Vance and Ferrin Calder fly in tight wingtip-to-wingtip formation. 
 
-"Watch your altitude, kid!" Ferrin's voice crackles over our local shortwave radio, laced with savage, laughing exhilaration. "Directorate gunship diving from twelve o'clock!"
+"Watch your altitude, kid!" Ferrin's voice crackles over our local shortwave radio, laced with savage, laughing exhilaration. "Directorate assault skiff diving from twelve o'clock!"
 
-Toby doesn't flinch. With the serene, unburdened grace of a bird whose wings have finally been freed, the boy executes an inside snap-roll, his primary feathers slicing through the gunship’s steering cables before Ferrin unloads an entire drum of armor-piercing kinetic slugs into its cockpit. 
+Toby doesn't flinch. With the serene, unburdened grace of a bird whose wings have finally been freed, the boy executes an inside snap-roll, his primary feathers slicing through the skiff’s steering vanes before Ferrin unloads an entire drum of armor-piercing kinetic slugs into its bridge. 
 
-The gunship veers sideways, crashing into an abandoned freight elevator with a concussive roar.
+The skiff veers sideways, crashing into an abandoned freight elevator with a concussive roar.
 
 Down on the middle catwalk, **Boran Vael-Korr** is back-to-back with Ferrin’s ground support team. 
 

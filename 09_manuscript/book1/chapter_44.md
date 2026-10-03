@@ -210,15 +210,61 @@ For the first time in ten years, I close my eyes without checking the locks. I l
 
 ***
 
+The strike comes in the dead hollow of the third watch.
+
+It begins not with steel, but with a sound like escaping steam—a soft, venomous hiss venting through the high air duct above our cot. A cloying, sweet stench of sulfur incense and catalytic rift-fog rolls into the room, heavy as mercury.
+
+Before my brain can process the poison, my lungs seize. A leaden, chemically induced paralysis slams through my nervous system, pinning my limbs to the mattress in terrifying sleep paralysis. My cursorial muscles lock; I cannot lift a finger, cannot draw breath to scream.
+
+Beside me, Vram's golden furnace eyes ignite in the dark.
+
+The heavy iron door blows inward with a concussive crunch. Five cloaked figures in ash-smeared robes spill across the threshold, their faces masked in lead rebreathers, chanting the ragged, frantic cadences of the *Liturgy of the Slag*.
+
+*Sister Maeva's zealots.*
+
+Vram surges off the cot with an earth-shattering roar. He doesn't retreat. He doesn't look for his harness. Flaring his fourteen-foot obsidian wings across the width of the stone room, he places his massive body squarely between the intruders and my paralyzed form.
+
+"Touch her," Vram snarls, his voice shaking the stone foundations of the redoubt, "and I'll tear your ribs from your spines."
+
+He slams the lead zealot into the iron locker, crushing bronze armor plates to powder with his bare fists. He catches a second attacker by the throat, snapping an iron cudgel like a dry branch. 
+
+But the cult has not come for a brawl; they have come prepared to slaughter a god.
+
+From the hallway, two zealots fire high-torque pneumatic launchers. Braided copper grounding nets—charged with thousands of volts of high-frequency static—wrap around Vram's extended wings, biting into his feathers and locking directly onto the exposed titanium rims of his cervical siphon ports.
+
+The electrical discharge is catastrophic. 
+
+A blinding blue arc detonates across his flight lattice. Vram screams—a raw, agonized sound that tears the air to shreds—as two hundred and thirty-five pounds of dense muscle and bone are short-circuited and driven to the floor. Even paralyzed by voltage, he thrashes with monstrous fury, his talons gouging trenches into the concrete, his bloody teeth bared as he crawls back toward the cot.
+
+"Tsune—!" he roars through the blinding smoke. "Run—!"
+
+A heavy bronze clamp slams down over his throat, cutting off his voice. Chains of grounding wire cinch tight around his chest and wings, dragging him violently across the threshold into the dark corridor.
+
+I fight with every cell of my body to break the chemical lock on my limbs, my fingernails scraping uselessly against the wool.
+
+A sixth figure steps from the shadow of the door—a priestess draped in blackened vestments, holding a glowing bronze brazier in one hand and a three-pronged iron branding rod in the other.
+
+She leans over the cot, her eyes burning with fanatic zeal behind her lead visor.
+
+"Let the Heretic bear the mark of the Slag-Mother," she whispers, her voice like grinding millstones. "Your god belongs to the Salt."
+
+The red-hot iron descends.
+
+The chevron brand is driven deep into the flesh of my left shoulder.
+
+White-hot, apocalyptic agony explodes through my collarbone, searing down into the marrow of my ribs. The sickening stench of burning meat fills the chamber. I scream through locked teeth, my vision shattering into blinding static, before the pain and the paralytic fog drag me down into total blackness.
+
+***
+
 ### Tsunari
 
-I wake to the smell of burned meat.
+I wake to the smell of my own burned flesh.
 
-My head is spinning, heavy and dull, my tongue coated in a thick, metallic bitterness. 
+My head is spinning, heavy and dull, my tongue coated in the lingering, metallic bitterness of the rift-fog. 
 
-I reach across the blankets, searching for that roaring warmth that kept the cold away.
+I reach across the blankets, praying against hope for the roaring warmth that kept the cold away.
 
-My hand hits frozen canvas.
+My hand hits frozen canvas and sticky, congealing blood.
 
 The space beside me is empty. The wool is ice.
 
@@ -228,11 +274,11 @@ The dark stone room swallows the whisper whole.
 
 Then the pain hits.
 
-A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My fingers fly to my collarbone.
+A blinding, white-hot throb tears through my left shoulder. I gasp, curling inward on the cot, my teeth clicking together as my stomach heaves. My trembling fingers fly to my collarbone.
 
-Raw. Charred. Blistered and weeping, still hot beneath my fingertips.
+Raw. Charred. Blistered and weeping, still radiating heat beneath my fingertips.
 
-I stumble out of the cot, crashing against the iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
+I stumble out of the cot, crashing against the dented iron locker as my knees give out. In the cracked shard of glass above the basin, the gray morning light catches my reflection.
 
 Burned deep into the flesh of my shoulder, raw and blackened, is a fresh, weeping brand.
 
@@ -240,17 +286,15 @@ The interlocking chevron.
 
 My breath catches in my throat.
 
-I spin toward the doorway. The heavy steel door is hanging open, swinging faintly in the draft from the dark hallway outside. 
+I spin toward the doorway. The heavy steel door hangs crooked on severed hinges. Across the stone floor, scorched trenches, pools of dark blood, and severed strands of copper grounding mesh tell the brutal story of his final stand.
 
-His boots are gone. His flight harness is gone. 
+He didn't abandon the watch. He fought until they broke his lattice.
 
-No sound. No struggle. Nothing.
-
-Just an empty room, a door swinging in the freezing wind, and a fire burning into my bone.
+And now he is gone.
 
 *Vram.*
 
-I press my hand against the burn, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
+I press my hand against the weeping brand, the agony searing straight down into my ribs, but my pulse doesn't falter. It slows. It hardens into ice.
 
 My fingers find the hilt of my Spire hook on the table, the cold, blackened steel biting into my palm.
 

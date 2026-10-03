@@ -85,9 +85,9 @@ I tilt my head sideways, my amber-chartreuse eyes narrowing as my horizontal sli
 
 The breach sirens at Dome Alpha were red-priority. 
 
-When an operative decrypts a Tier-1 corporate vault, standard Directorate doctrine dictates immediate containment: aerial gunships, lethal neuro-gas canisters dropped over the sector, and an immediate extraction shuttle with an Iron Division suppression squad to transport the prisoner directly to Sub-Level 3.
+When an operative decrypts a Tier-1 corporate vault, standard Directorate doctrine dictates immediate containment: aerial assault barges, lethal neuro-gas canisters dropped over the sector, and an immediate extraction shuttle with an Iron Division suppression squad to transport the prisoner directly to Sub-Level 3.
 
-There are no gunships outside. I can hear only the lonely, howling roar of the wasteland wind against the prowler’s armored hull. 
+There are no barges outside. I can hear only the lonely, howling roar of the wasteland wind against the prowler’s armored hull. 
 
 There are no Iron Division guards in this cabin. 
 

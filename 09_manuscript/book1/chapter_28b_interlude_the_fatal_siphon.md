@@ -39,37 +39,33 @@ The private room behind the liquor cages was small—six feet by eight feet, par
 
 The moment the iron latch dropped, the silence was broken by the violent rip of his duster hitting the floor.
 
-Cassian slammed her back against the corrugated wall. 
+Cassian stumbled against the corrugated wall, his breath coming in ragged, agonized gasps. 
 
-His hands—hard, calloused, tipped with the darkened nail beds of a predatory avian—cupped her jaw, pulling her mouth to his with savage, desperate hunger. He didn't care about her name. He didn't care about her past. He only cared that her skin was cold, deliciously cold, like a slab of winter granite against his 106-degree fever.
+His hands—hard, calloused, tipped with the darkened nail beds of a predatory avian—shook violently as he tore open the high collar of his flight tunic, exposing the massive pectoral plates of his chest and the twin titanium siphon ports drilled into his cervical spine. The metal housings glowed with faint, cherry-red heat, baking the surrounding flesh.
 
-Nyx let out a low, purring hiss against his lips. 
+"Touch it," he rasped, his forehead dropping against the iron sheets, his teeth clicking together as a fresh spike of feedback hammered through his skull. "Your skin is cold. The bio-techs said reptilian dermal plates can dissipate static. Ground it. Please... just make the noise stop."
 
-Her tongue was hot, flexible, and slightly rough, tasting of menthol and bitter almond. Her hands reached down, unbuckling the brass latch of his flight harness, stripping away the heavy ballistic weave until his chest was bare.
+Nyx stepped closer, her violet irises widening as she took in the scorched metal and the raw, inflamed tissue at the base of his neck.
 
-"Gods," she breathed, her cool fingers trailing across the massive pectoral plates of his chest, lingering at the twin titanium siphon ports drilled into his cervical spine. "You're a furnace."
+"Gods," she breathed, the cool air of her exhalation brushing his temple. "You're burning alive from the inside out."
 
-"Shut up," he growled, his breath ragged, his forehead dropping against her shoulder. "Just make the noise stop. Please."
+"Do it!" Cassian snarled, his voice cracking on a desperate sob.
 
 Nyx didn't argue. 
 
 Her cool, scaled hands reached up, sliding beneath his collar to cup the scorching base of his skull. She pressed her palms flat against the titanium rim of his cervical port, and for three heartbeats, the screaming static behind Cassian's eyes blunted into a muffled, thrumming hum.
 
-A ragged, desperate groan broke from his throat. He crushed her against the corrugated wall, his mouth crashing down on hers in a starving, frenzied kiss that tasted of menthol, bitter almond, and raw survival. He stripped away the heavy ballistic weave of his flight harness, needing every inch of her freezing skin against his 106-degree fever.
+A ragged, shuddering groan broke from his throat. The relief was intoxicating, an oasis in a desert of white fire. He reached out blindly, gripping her wrists with crushing force to hold her hands against his neck, terrified that if she pulled away, the screaming would split his skull in two.
 
-Nyx hissed against his lips, her cool thighs wrapping around his hips, pulling him flush against her in the shadows of the alcove. The clash of their bodies—burning Simurgh avian furnace colliding with the cold, reptilian scales of her Gorgon-Lindwurm flesh—was violent, desperate, the frantic collision of two broken weapons seeking oblivion in the dark.
+And in that sudden, frantic grip, her chimeric biology deployed.
 
-Cassian gripped her hips, his head thrown back against the iron sheets, a breathless, guttural cry tearing from his chest as the agonizing tension of two weeks in the desert shattered in a sudden, violent surge of physical release.
+It was not a conscious act of murder. It was an involuntary, predatory defense reflex wired into her illegal genome—a Gorgon-Lindwurm splice designed by rogue black-market bio-engineers to protect their assets from physical restraint.
 
-And in that unguarded moment of biological surrender, her mutation deployed.
+Along the palms and inner wrists of her scaled hands, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
 
-It was not a conscious act of murder. It was an involuntary, predatory reflex wired into her illegal genome—a Gorgon-Lindwurm chimeric splice designed by rogue black-market bio-engineers for assassination through intimacy.
+They punctured Cassian's throat and the thin skin around his carotid artery.
 
-Along the smooth, pale skin of her inner thighs, three dozen microscopic, razor-sharp chitinous venom pores snapped open like tiny hypodermic needles.
-
-They punctured Cassian's groin.
-
-The penetration was so minute, so masked by the overwhelming euphoria of his orgasm, that he felt only a tiny, pinprick sting against his femoral artery.
+The penetration was so minute, masked by the sheer heat of his cervical port, that he felt only a tiny, pinprick sting against his pulse point.
 
 Then the venom hit his bloodstream.
 
@@ -81,11 +77,11 @@ Lindwurm venom does not paralyze; it induces instantaneous, violent cross-strain
 
 Within three seconds of entering his bloodstream, the venom turned Cassian's blood from liquid fire into curdled, congealed sludge. 
 
-His orgasm froze in his throat.
+His breath froze in his throat.
 
-The roaring heat in his veins vanished, replaced instantly by an icy, paralyzing shock that swept from his groin straight into his heart. His chest locked into an iron fist. His lungs seized, unable to draw in a single molecule of air.
+The roaring heat in his veins vanished, replaced instantly by an icy, paralyzing shock that swept from his neck straight into his heart. His chest locked into an iron fist. His lungs seized, unable to draw in a single molecule of air.
 
-"Cassian?" Nyx gasped, her eyes clearing from the haze of her climax, feeling the sudden, terrifying rigidity of his body. "Cassian...?"
+"Cassian?" Nyx gasped, feeling the sudden, terrifying rigidity of his body and the horrific spasm in his arms. "Cassian...?"
 
 Cassian couldn't speak. 
 
@@ -95,13 +91,13 @@ His cardiac rhythm flatlined.
 
 His knees buckled. 
 
-He fell forward off her body, his heavy, two-hundred-and-forty-pound frame crashing onto the stained concrete floor with a sickening, hollow thud. His wings sprawled out in the filth, the obsidian quills twitching in weak, dying spasms.
+His hands slipped from her wrists, his heavy, two-hundred-and-forty-pound frame crashing onto the stained concrete floor with a sickening, hollow thud. His wings sprawled out in the filth, the obsidian quills twitching in weak, dying spasms.
 
 Nyx fell to her knees beside him, horror twisting her beautiful, mutated face. 
 
 "No... no, no, no..." she sobbed, clawing at his chest. 
 
-Beneath his bronze skin, black, necrotic veins were already spidering outward from his groin across his lower abdomen. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
+Beneath his bronze skin, black, necrotic veins were already spidering outward from his neck across his throat and collarbone. His lips were blue, his golden eyes wide, staring at the rusted corrugated ceiling with fixed, unblinking horror.
 
 He lay there in the puddle of his own sweat, gasping against the stone, realizing in his final three seconds of consciousness the brutal, fundamental law of their engineered world:
 
