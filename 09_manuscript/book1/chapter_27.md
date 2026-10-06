@@ -51,7 +51,7 @@ My breath turns ragged. A shudder runs through my ribs—a breathless, silent tr
 
 Tsunari shifts.
 
-Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her horizontal amber slit pupils are dilated wide in the gloom, her irises catching the faint light like warm embers.
+Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her vertical amber slit pupils are dilated wide in the gloom, her irises catching the faint light like warm embers.
 
 She doesn't flinch. She doesn't pull away.
 
@@ -61,7 +61,7 @@ She feels the frantic, thumping rhythm of my chest against her cheek. She lifts 
 
 "The radio..." I choke out, my throat so dry the syllables scrape like sand against my teeth. "The channel is dead."
 
-She blinks slowly, her nictitating membranes flicking across her eyes in a fluid, hypnotic sweep. 
+She blinks slowly, her eye membranes flicking across her eyes in a fluid, hypnotic sweep. 
 
 "There is no radio here, Vram."
 

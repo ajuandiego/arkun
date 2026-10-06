@@ -22,7 +22,7 @@ Every augmented chimeric human exists in two distinct physiological modes:
 
 ### 2. The Enhanced State (Fight-or-Flight / Awakened Combat Mode)
 *   **Purpose:** Maximum kinetic lethality, supersonic speed, structural invulnerability, and instinctive pack survival.
-*   **Visual Manifestation:** Full biological deployment. Claws snap forward; vascular tracks blaze with metabolic heat or bio-electric glow; plumage or dermal stone scutes bristle into aggressive threat displays and thermal radiators; pupils contract to predatory slits or expand with nictitating membranes.
+*   **Visual Manifestation:** Full biological deployment. Claws snap forward; vascular tracks blaze with metabolic heat or bio-electric glow; plumage or dermal stone scutes bristle into aggressive threat displays and thermal radiators; pupils contract to predatory slits, and a clear eye membrane sweeps the eye.
 
 ---
 
@@ -38,7 +38,7 @@ Each prompt in this directory follows a strict comparative format:
 
 ## 3. Directory Codex Files
 
-1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker: Spire hooks, burst sprinting velocity, reptilian pebbled scales, protective second eyelids, acoustic syrinx.
+1.  [01_dromaeon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/01_dromaeon_mutation.md) — The Scythe-Stalker: Spire hooks, burst sprinting velocity, reptilian pebbled scales, protective eye membranes, acoustic syrinx.
 2.  [02_simurgh_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/02_simurgh_mutation.md) — The Solar Sovereign: 106°F capillary furnace, bristling obsidian-gold plumage, pyric talons, cardiac rebirth node.
 3.  [03_gryphon_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/03_gryphon_mutation.md) — The Sky-Lord: 14-foot functional feathered wings, honeycomb hollow bones, tetrachromatic vision, aerial talons.
 4.  [04_fenris_mutation.md](file:///Users/diego/oned/book/07_prompts/05_human_mutations/04_fenris_mutation.md) — The Pack Titan: Jaw bite-torque hypertrophy, sabre canines, olfactory sinus expansion, keratin knuckle strike-plates.

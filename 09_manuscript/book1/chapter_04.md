@@ -120,7 +120,7 @@ A low, raspy rumble vibrates in my chest—half chuckle, half predator’s growl
 
 "Clever girl..." I murmur into the wind.
 
-Her horizontal pupils contract behind the amber glass.
+Her vertical pupils contract behind the amber glass.
 
 She realizes I’ve seen it.
 
@@ -130,7 +130,7 @@ She doesn't hesitate. She doesn't wait for my downstroke.
 
 Not toward the substation. Not toward the open dunes. 
 
-She drives her boots into the sand, uncoiling those terrifying Dromaeon leg springs, and launches herself straight *at* me.
+She drives her boots into the sand and launches herself straight *at* me.
 
 She runs up the sheer sixty-foot curved face of the parabolic mirror, using the momentum of her sprint and the traction of her boots to run three steps vertically up the glass, aiming her bodkin blade directly at my exposed carotid artery.
 

@@ -35,7 +35,7 @@ A draft of hot, dry air washes over my bare neck—an artificial thermal surge t
 
 I don't look over my shoulder. I don't reach for the canteen.
 
-My knees bend. My center of gravity drops four inches toward the wet cobblestones, the elastic tendons in my thighs coiling with thirty pounds of spring tension. My right hand glides smoothly down to the hilt of my steel bodkin knife.
+My knees bend. I drop toward the wet cobblestones. My right hand glides smoothly down to the hilt of my steel bodkin knife.
 
 Above me, on the overhead steam pipe, iron scrapes on iron.
 

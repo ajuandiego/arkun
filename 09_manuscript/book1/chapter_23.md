@@ -17,7 +17,7 @@ Even unconscious, his body burns.
 
 His core temperature has spiked back toward 107 degrees—the Silver Spine in his brainstem misfiring in violent, chaotic short-circuits now that the physical trauma of the crash has overwhelmed his nervous system. Heat radiates off his chest like an open hearth, melting the frost on my bare collarbones, turning the red sand beneath his back into sizzling, blackened slurry.
 
-"Come on," I grumble through clenched teeth, my leg tendons straining with eighty pounds of elastic torque as I haul him over the crest of the dune. "Move your feet, Commander. I didn't pull you out of the sky just to watch you freeze to death in a ditch."
+"Come on," I grumble through clenched teeth, my legs straining as I haul him over the crest of the dune. "Move your feet, Commander. I didn't pull you out of the sky just to watch you freeze to death in a ditch."
 
 A low, delirious rumble catches in his throat—a feral, chimeric sound that vibrates against my collarbone. His good right hand twitches, his calloused fingers weakly searching for the grip of his kinetic sidearm, but his golden eyes remain glassy, unseeing, lost in the violet fog of neuro-decay.
 

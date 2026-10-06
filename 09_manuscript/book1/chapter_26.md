@@ -34,7 +34,7 @@ Something in the word *safe* pierces the fog of his fever. His jaw tightens. Wit
 
 I haul his good arm over my shoulder, taking his immense weight onto my back. 
 
-Even depleted and broken, he weighs two hundred and thirty-five pounds of dense, genetically augmented bone and muscle. My knee joints creak, the elastic tendons in my thighs straining as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
+Even depleted and broken, he weighs two hundred and thirty-five pounds of dense, genetically augmented bone and muscle. My knees creak and my legs strain as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
 
 In the corner of the crib sits an old iron cot, its canvas mattress stained with thirty years of water leaks and oil drippings. 
 
@@ -192,7 +192,7 @@ My pulse thumps hard against my ribs.
 
 For ten years, the voice of the undercity has whispered the same survival law: *Attachment is a cage. Surrender is death.* If you let anyone hold you, they will use your neck to keep their own head above water.
 
-I catch his wrist. My grip is firm, my amber horizontal slit pupils holding his golden gaze in the dark.
+I catch his wrist. My grip is firm, my amber vertical slit pupils holding his golden gaze in the dark.
 
 "Partners," I breathe, my voice steady, sharp, and fierce. "Partners, or nothing. I am no man's cage, Vram."
 

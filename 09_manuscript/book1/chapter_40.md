@@ -48,7 +48,7 @@ That leaves Tsunari and me on the central threshold.
 
 She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. At her hips, she checks the release catches of her twin Spire hooks, the curved black blades seating into their sheaths with a crisp, oiled click. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
 
-She looks at me, her amber horizontal slit pupils steady and cool.
+She looks at me, her amber vertical slit pupils steady and cool.
 
 "And us?" she asks.
 

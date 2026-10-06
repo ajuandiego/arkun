@@ -34,7 +34,7 @@ I look at him. Then I look past his shoulder, down into the sheer, eight-hundred
 
 At the bottom of the gorge, jagged basalt spires and razor-sharp titanium debris from pre-collapse bridges rise from the darkness like rows of shark’s teeth. A drop from this height means terminal velocity in four seconds. It means painting the rocks before the brain can register the impact.
 
-In the Gray Ring, I have leaped across five-story alleyways; I have rebounded off shattered parabolic mirrors with sixty pounds of spring torque in my legs. But unassisted flight? Entrusting my life completely to another creature's spine?
+In the Gray Ring, I have leaped across five-story alleyways. I have rebounded off shattered parabolic mirrors. But unassisted flight? Entrusting my life completely to another creature's spine?
 
 Every survival instinct honed over ten years of hunting in the sewers screams at me to turn back, to dive into the drainage culverts, to take my chances with the dark.
 

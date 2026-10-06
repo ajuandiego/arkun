@@ -88,9 +88,9 @@ The entire trilogy is focused upon a single, massive, elevated continental refug
 
 ### 4.1 Eden Dome Alpha (The Gilded Citadel)
 *   **Location:** Anchored in a high Alpine mountain basin protected by massive natural granite ridges.
-*   **Scale:** About 180 square miles under the shield, about fifteen miles across. A hexagonal kinetic force-dome over that basin. From the Ring you can see the far side of it. It is a city-bowl, not a horizon of glass.
-*   **Population:** About **8 million** people under the shield. About 400,000 of them live in the garden towers: oligarchs, Apex scientists, Chrysalis households. The rest are covenant workers, academies, clinics, and the families of the Iron Division. The chimeric garrison is not in this number. They live in the Aerie and the wall forts.
-*   **What the bowl looks like:** A tower city with canals, monorails, and terrace gardens, packed close enough to fill the glass and still leave garden ground. Gold light on the panes. Not an empty palace. Not a solid hive.
+*   **Scale:** About 22 square miles under the shield, about five miles across. No larger than Manhattan. A hexagonal kinetic force-dome over that basin. From the wall, the far glass is in sight. It reads as one citadel.
+*   **Population:** About **1.5 million** people under the shield. About 150,000 of them live in Sectors 1 through 3: the Directorate, the garden towers, physicians, engineers, and senior scientists. The chimeric garrison is not in this number. They live in the Aerie and the wall forts.
+*   **What the bowl looks like:** A packed tower city, the density of Manhattan, with canals, monorails, and a few garden grounds. Gold light on the panes. Sector 6 feeds the bowl from stacked greenhouses, not from open fields. The floor is too small for countryside.
 *   **The Elite Life:** Corporate oligarchs, high-ranking Apex Bio scientists, and privileged citizens live in the upper terraces, with artificial sunlight, clean water, and synthesized botanical gardens.
 
 #### The nine sectors
@@ -106,11 +106,11 @@ Bulkhead Wall Alpha is the line between Sector 8 and Sector 09. The count stops 
 *   **Sector 8:** The lower class and the menial jobs, in the band against the inner face of the wall. Half of this class lives here and maintains the shield, the gates, the mirrors, and the conduits from inside. The other half lives in Sector 09 and does that work on the outside face, on a gate pass. A pass is taxed labor. It is citizenship for no one. That outside crew is a shift, and it is a small part of the Ring.
 *   **Sector 09:** The first ring outside the dome. The Gray Ring.
 
-Sectors 1 through 3 are the garden-tower stratum, about 400,000. Sectors 4 through 8 are the rest of the 8 million under the glass. The chimeric garrison stays outside both numbers, in the High Aerie and the wall forts on the bulkhead.
+Sectors 1 through 3 hold about 150,000. Sectors 4 and 5, industry and commerce, hold about 400,000. Sector 6, the greenhouse crews, holds about 50,000. Sector 7, the middle of the city, holds about 700,000. Sector 8, against the inner wall, holds about 200,000. The same class has about 200,000 more on the outside face, in Sector 09, on gate passes. That crew is a shift. It is a small part of the Ring. The chimeric garrison stays outside all of these numbers.
 
 ### 4.2 Sector 09: The Gray Ring (The Human Crucible)
 *   **Location:** The first ring outside Bulkhead Wall Alpha. The ruined metropolitan fringe encircling the wall.
-*   **Population:** Approximately **45 million baseline humans** living in multi-tiered underground transit hubs, repurposed pre-collapse structures, and salvage enclaves. The ruin spreads much wider than the bowl, so the crowd outside is larger than the crowd under the glass. That is this capital only. The planetary split is still about 70 percent inside domes. The Directorate does not have a true count of the unregistered alleys.
+*   **Population:** About **6 million** baseline humans in the ruined fringe. The crowd outside is about four times the crowd under the glass. The ruin runs several miles past the wall, so from the glass you cannot see the end of it. The planetary 70 percent inside domes is every other dome added together. The Directorate does not have a true count of the unregistered alleys.
 *   **The Air:** Breathable for a lifetime. The dome's climate field spills past the wall. Strongest on the streets under the bulkhead, thinner and harder downwind. Faces are bare. People buy guild cartridges to sleep cleaner and push the Choke back, at about a day's wages a night. Skipping a night is a poorer morning, not a death. The durations, the price, and the pylon rule are in `01_world/world_and_history.md`.
 *   **Key Landmarks:**
     1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09.
@@ -120,7 +120,7 @@ Sectors 1 through 3 are the garden-tower stratum, about 400,000. Sectors 4 throu
     5.  **The Rust Bazaar (The Iron Market):** A sprawling night market under a collapsed highway interchange, open after the silt settles, where distilled water, scrap metal, guild filter cartridges, and stolen bio-pastes are bartered. A cartridge is a health purchase. The crowd is bare-faced.
 
 ### 4.3 The Rust Barrens & Terra-Pylon Seven
-*   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Silica dunes, rusted container depots, and dead highway skeletons. About **80,000** people live out here, in cuts and buried stations, spread so thin the dunes look empty. A caravan is an event. This is the hardest air, worse again in the shadow of Terra-Pylon Seven, and a traveler does not choke on arrival. Days bring a cough. Months of living here unfiltered bring the early rattle. A breather or a cabin filter is a comfort and a way to arrive less wrecked.
+*   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Silica dunes, rusted container depots, and dead highway skeletons. About **25,000** people live out here, in cuts and buried stations, spread so thin the dunes look empty. A caravan is an event. This is the hardest air, worse again in the shadow of Terra-Pylon Seven, and a traveler does not choke on arrival. Days bring a cough. Months of living here unfiltered bring the early rattle. A breather or a cabin filter is a comfort and a way to arrive less wrecked.
 *   **Feral Dromaeon Grounds:** Packs of wild-born, reptilian Dromaeons prowl the concrete canyons at dusk.
 *   **Terra-Pylon Seven:** A 2,000-foot-tall biomechanical tower sunk deep into northern bedrock, pulsing violet light as it discharges alien sulfur-nitrogen aerosols into the jet stream.
 

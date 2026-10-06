@@ -48,7 +48,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 ### Phase 3: The Terror of Mental Silence & Sensory Intrusion
 *   **The Psychological Shock of Silence:**
     *   For a soldier who has known nothing but alien white noise and searing neural fever for ten years, silence is horrifying at first. It feels like sensory deprivation, a sniper's crosshairs, or an impending ambush.
-    *   When Vram falls into delirious fever in the ruined bunker, Tsunari holds his skull against her chest to cool the lattice. He awakens in total silence, staring up into her amber horizontal slit pupils with unmasked terror and awe: *"What did you do to my head?"*
+    *   When Vram falls into delirious fever in the ruined bunker, Tsunari holds his skull against her chest to cool the lattice. He awakens in total silence, staring up into her amber vertical slit pupils with unmasked terror and awe: *"What did you do to my head?"*
 *   **The Sensory Intrusions:**
     *   The tension turns physical, involuntary, and agonizingly restrained:
         *   The involuntary bristle of his golden nape feathers whenever she moves within three paces.

@@ -41,7 +41,7 @@ Its mandibular plates click in the dark, translating its sensory scan into a fla
 
 The creature raises its right forearm. 
 
-From the articulated chitin cuff extends a five-foot crystalline bio-lance. The weapon hums with a sickening, high-frequency oscillation that vibrates directly against my skull, making my horizontal slit pupils strobe with static. The air around the spear-tip ripples with intense gravitational distortion—a localized disruption field capable of dissolving organic cell membranes into slurry in under a second.
+From the articulated chitin cuff extends a five-foot crystalline bio-lance. The weapon hums with a sickening, high-frequency oscillation that vibrates directly against my skull, making my vertical slit pupils strobe with static. The air around the spear-tip ripples with intense gravitational distortion—a localized disruption field capable of dissolving organic cell membranes into slurry in under a second.
 
 I don't scream. I don't plead. In the Gray Ring, fear is just a waste of calories.
 
@@ -71,7 +71,7 @@ The creature tilts its head, its ultraviolet pits pulsing faster. *"Illogical."*
 
 I spring.
 
-My leg tendons unload with eighty pounds of hyper-elastic torque. In the cramped two-foot space of the duct, I don't try to stand—I launch myself horizontally along the floor like a spear, diving beneath the tip of the crystalline lance.
+In the cramped two-foot space of the duct, I don't try to stand. I launch myself along the floor like a spear, diving beneath the tip of the crystalline lance.
 
 The Inquisitor thrusts downward with blinding speed.
 
@@ -85,7 +85,7 @@ I twist my torso in mid-slide, whipping my left arm upward in a vicious, sweepin
 
 The curved beak of my Spire hook punches into the articulation seam behind the alien's left knee.
 
-I wrench the handle with both hands, leveraging the full coiled torque of my Dromaeon sinew. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
+I wrench the handle with both hands. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
 
 The Inquisitor emits a high-pitched, shrieking harmonic pulse as its left knee collapses. 
 

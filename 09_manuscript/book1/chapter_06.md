@@ -64,7 +64,7 @@ I am paralyzed by the sheer, suffocating ecstasy of being free from pain.
 
 My molten-gold eyes lock onto hers in the gloom.
 
-Beneath the linen wrap of her neck gaiter, her chest heaves against mine. Without her amber welder goggles, her gaze is naked, terrifying, and utterly captivating. Her eyes are almond-shaped, bearing the elegant epicanthic fold of ancient East-Asian heritage, holding an intense amber-chartreuse fire. In the center of each iris, a horizontal reptilian slit pupil contracts and expands with every ragged breath.
+Beneath the linen wrap of her neck gaiter, her chest heaves against mine. Without her amber welder goggles, her gaze is naked, terrifying, and utterly captivating. Her eyes are almond-shaped, bearing the elegant epicanthic fold of ancient East-Asian heritage, holding an intense amber-chartreuse fire. In the center of each iris, a vertical reptilian slit pupil contracts and expands with every ragged breath.
 
 She looks at me not with fear, but with raw, calculating shock. 
 
@@ -100,9 +100,9 @@ The sound of my voice shatters the spell.
 
 The shock in her amber eyes hardens into cold, survivalist steel. She doesn't know why I collapsed; she only knows the beast on top of her has let go of the reins.
 
-She moves with the explosive, whip-crack torque of a Dromaeon raptor.
+She moves.
 
-Her knees drive upward into my lower abdomen. The sudden, violent kinetic lever dislodges my deadened center of gravity. As I roll sideways onto the concrete, her right boot plants firmly against my armored ribcage, driving me back with fifty pounds of elastic spring force.
+Her knees drive upward into my lower abdomen. I roll sideways onto the concrete. Her right boot plants firmly against my armored ribcage and drives me back.
 
 She slips out from beneath me like water through clenched fingers.
 
@@ -148,7 +148,7 @@ She twists in mid-air, but the sudden lateral force catches her off balance.
 
 She crashes hard against the concrete doorframe. Her head strikes the iron reinforced lintel with a sickening, hollow thud.
 
-The bodkin knife slips from her hair, clattering into the sand. Her amber eyes roll back, the horizontal slit pupils fluttering closed, and her body goes completely limp.
+The bodkin knife slips from her hair, clattering into the sand. Her amber eyes roll back, the vertical slit pupils fluttering closed, and her body goes completely limp.
 
 She falls into my arms.
 

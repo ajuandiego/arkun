@@ -58,6 +58,12 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
     4.  **The Iron Division** is the baseline force. Constables inside the dome, cordons and canal patrols outside it. Plasma lances, not wings. They hold the wall, the gates, and a sweep. They do not walk every alley. Their families live in the dome as ordinary citizens, and they go home to those apartments at the end of a shift.
     5.  A constable cannot arrest a legionnaire. The Directorate can. A chimera in the bazaar is an event, not a beat.
 *   **Barracks life, shared:** Chimeras are property with ranks. They live in forts and in the Aerie, not in civic apartments. The pack is the household the lattice left them. Sex happens inside the unit, between adults of either sex, and the company fears that loyalty more than it fears the Ring. Conception is uncommon under the metabolic load and the lattice. A pregnancy grounds the soldier, and the Directorate does not let the soldier keep the child. They do not date citizens. Dome crowds stare. Ring parents move their children indoors.
+*   **The Alpha garrison (Year 40).** These numbers are this wall, not the planetary caste of about 600,000. The circuit is about seventeen miles. A patrol is a few wings. A full launch over a five-mile bowl is weather. The parapet is manned in posts, with turrets between them.
+    *   *Aeros-Legion 7:* about 250 flyers, roosted on the High Aerie.
+    *   *Dromaeon stalkers:* about 300, in the lower forts.
+    *   *Lindwurm bastions:* about 120, on the gate yards. They are the heavy bodies. The count stays low because one of them fills a breach.
+    *   *Fenris cohorts:* about 350.
+    *   *Iron Division:* about 8,000, families included in the 1.5 million under the shield. About 2,000 of the 8,000 are the wall and the gates, across shifts, so several hundred are on the circuit at once. They hold the gates and a sweep. They do not walk the Ring's alleys.
 *   **The day, by force:**
     *   *Aeros-Legion 7:* The High Aerie. Dawn launch, patrol, the cold of altitude, then preening and a mess of pyro-gel. Evenings are banter, repair of harnesses, quartz carving, and sleep in reach of the pack. Wings make ordinary chairs a joke. Off-duty heat is managed, not hidden.
     *   *Dromaeon Stalkers:* Lower forts in the wall, Vanguard's. They train at night, sleep through the silt hour, and practice the click-code in concrete galleries. Their day is a hunt roster. They eat more meat than the flight crews and less gel.

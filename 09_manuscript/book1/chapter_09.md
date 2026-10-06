@@ -71,7 +71,7 @@ Vram reaches up and flips a manual breaker switch.
 
 A row of overhead fluorescent light tubes flickers to life with a buzzing hum, casting a harsh, yellow-white glare over the room.
 
-I blink against the sudden light, my nictitating membranes sweeping across my irises, my horizontal slit pupils contracting to razor-thin needles.
+I blink against the sudden light, my membranes sweeping across my eyes, my vertical slit pupils contracting to razor-thin needles.
 
 I scan the bunker.
 
@@ -89,7 +89,7 @@ Memory stirs—an old lesson from my father in the Lower Sumps: "Look at these a
 
 In the corner of the bunker, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
 
-In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace—narrow, perhaps two feet wide, but easily navigable for someone with my wiry, elastic frame.
+In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace, narrow, perhaps two feet wide, but wide enough for me.
 
 No cameras. 
 
@@ -145,7 +145,7 @@ He raises his trembling right hand, pointing a single, rigid finger at the side 
 
 He leans down, bringing his face inches from mine. 
 
-His breath is scorching, smelling of copper and bitter clove. The heat radiating from his chest is suffocating, but I refuse to step back. I hold my ground, my chained hands flat against my ribs, my horizontal pupils boring into his molten gold.
+His breath is scorching, smelling of copper and bitter clove. The heat radiating from his chest is suffocating, but I refuse to step back. I hold my ground, my chained hands flat against my ribs, my vertical pupils boring into his molten gold.
 
 "For ten years," he whispers, his voice breaking, trembling with an agony so profound it hollows out my chest, "I have listened to an alien carrier wave scream inside my skull. Every hour. Every minute. Every second. It never stops. It never sleeps. It tells me who to shoot, who to burn, where to fly."
 

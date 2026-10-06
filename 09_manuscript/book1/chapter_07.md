@@ -81,7 +81,7 @@ His right hand, however, is pressed flat against the back of his neck, his knuck
 
 *He’s burning from the inside out.*
 
-I tilt my head sideways, my amber-chartreuse eyes narrowing as my horizontal slit pupils contract in the red gloom. My analytical spatial mind, the Dromaeon calculation engine that parses survival odds in fractions of a second, starts putting the pieces together.
+I tilt my head sideways, my amber-chartreuse eyes narrowing as my vertical slit pupils contract in the red gloom. My analytical spatial mind, the Dromaeon calculation engine that parses survival odds in fractions of a second, starts putting the pieces together.
 
 The breach sirens at Dome Alpha were red-priority. 
 
@@ -143,7 +143,7 @@ His voice is rough, cracked, sounding as though he has swallowed a handful of cr
 
 "Takes more than an iron doorframe to crack a Dromaeon skull," I say evenly. My voice is steady, flat, stripped of all panic. 
 
-I lean back against the vibrating wall, letting the chains between my wrists drape across my lap. I don't pull against them. I don't beg. I meet his burning, fevered gaze head-on, letting him see my horizontal slit pupils wide and unblinking behind the linen wrap of my gaiter.
+I lean back against the vibrating wall, letting the chains between my wrists drape across my lap. I don't pull against them. I don't beg. I meet his burning, fevered gaze head-on, letting him see my vertical slit pupils wide and unblinking behind the linen wrap of my gaiter.
 
 "Nice ride," I add, glancing around the bare, red-lit steel compartment. "A bit drafty for corporate first-class. Where are the white coats, Commander? Where’s the extraction shuttle? I was promised a full-anesthesia autopsy by dawn."
 

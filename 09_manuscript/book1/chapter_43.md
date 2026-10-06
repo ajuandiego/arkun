@@ -9,7 +9,7 @@
 
 I drop from the grease-slick crane cable like a hunting raptor falling from a dead pine.
 
-My boots hit the steel diamond-plating of the control platform four feet behind The Forger. The impact makes no sound; my knees absorb the kinetic shock with the coiled, silent elasticity of my Dromaeon tendons.
+My boots hit the steel diamond-plating of the control platform four feet behind The Forger. The impact makes no sound. My knees take it.
 
 The masked prophet hears the displaced air.
 
@@ -35,7 +35,7 @@ One pace. Two paces.
 
 I reach the prophet. 
 
-With a blur of movement, my right hand draws my Spire hook from my hip. Channeling forty pounds of coiled torque through my torso and shoulders, I sweep the curved, hardened blade upward in a vicious, executioner's arc.
+With a blur of movement, my right hand draws my Spire hook from my hip. I sweep the curved, hardened blade upward in a vicious, executioner's arc.
 
 The phase-stutter collapses with a concussive snap of displaced air.
 

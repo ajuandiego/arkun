@@ -34,7 +34,7 @@ Tsunari steps onto the stone ledge, stopping three paces to my left.
 
 She has pulled her sleeveless combat tunic back into place, cinching the worn leather straps of her utility harness across her chest. Her high linen neck gaiter is drawn tight over her jaw, concealing her smooth throat, but she has left her amber welder goggles pushed up into the dark, coiled mass of her hair. 
 
-Her eyes—wide, almond-shaped, with their lethal horizontal slit pupils—sweep the horizon.
+Her eyes—wide, almond-shaped, with their lethal vertical slit pupils—sweep the horizon.
 
 Out here, twilight does not fall; it detonates.
 

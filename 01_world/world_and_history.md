@@ -207,10 +207,10 @@ From a pre-collapse peak of 8 billion, the global human population has stabilize
 └── <0.05% (~600,000)   ──  THE CHIMERIC MILITARY CASTE (Consortium State-Owned Weapons)
 ```
 
-*   **The 70% Dome Population (Preserved Normality):** The Green Domes are not tiny executive bubbles; they are sprawling regional megastructures enclosing hundreds of square miles. The vast majority of surviving humans live here with recognizable civil routines: schools, transit networks, cafes, sports leagues, and domestic apartment life.
+*   **The 70% Dome Population (Preserved Normality):** The Green Domes are walled cities, not tiny executive bubbles. They differ in size. Eden Dome Alpha, the flagship in these books, is no larger than Manhattan. People inside a dome live with recognizable civil routines: schools, transit networks, cafes, sports leagues, and domestic apartment life.
 *   **The 30% Gray Sector Population:** Those living outside the barrier shields are not the entire human race, but an excluded third: refugees who couldn't afford citizenship buy-ins, families stripped of corporate charters through debt default, and stubborn frontier communities who refuse alien-corporate dominion.
 *   **The Chimeric Military Caste (< 0.05%):** Hyper-specialized bio-weapons distributed among the Consortium's elite divisions. They are feared by both Dome citizens and Gray Sector survivors alike.
-*   **Eden Alpha is not this table.** The 980 million is every Green Dome. Alpha's own bowl is about 8 million people under about 180 square miles of glass: Sectors 1 through 8, counted from the center out. Sector 09, the first ring on that wall, is about 45 million. The barrens south of it hold about 80,000, scattered. Nothing beyond the redoubt is counted by anyone human. The bands are in `01_world/geography_and_territories.md`. The garrison on that wall is in `01_world/factions_and_politics.md`.
+*   **Eden Alpha is not this table.** The 980 million is every Green Dome. Alpha's own bowl is about 1.5 million people under about 22 square miles of glass, no larger than Manhattan: Sectors 1 through 8, counted from the center out. Sector 09, the first ring on that wall, is about 6 million. The barrens south of it hold about 25,000, scattered. Nothing beyond the redoubt is counted by anyone human. The bands are in `01_world/geography_and_territories.md`. The garrison on that wall is in `01_world/factions_and_politics.md`.
 
 ---
 

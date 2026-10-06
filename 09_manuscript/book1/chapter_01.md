@@ -218,7 +218,7 @@ I don't look back.
 
 I jam the steel bodkin knife back into the high coil of my warrior bun, driving the metal deep through the woven hair until the cold steel seats firmly against my skull. 
 
-My leg springs coil with explosive, transgenic torque. 
+My legs coil.
 
 I kick the rusted exhaust louvers open with a screech of bent iron. 
 
@@ -232,7 +232,7 @@ I reach down to the quick-release loops at my harness, drawing my twin Spire hoo
 
 Forged from blackened spring steel with curved, razor-honed inner edges, they are the indispensable tools of every Spire scavenger who ever survived scaling a thousand-foot elevator flue—and the deadliest weapons an Undercity rogue could carry.
 
-I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, the tendons behind my knees compress like heavy spring steel, soaking up the impact before the shock can touch my spine. 
+I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, my knees take the hit, and the shock never reaches my spine. 
 
 *“Don’t fight the drop, Tsune,”* my father’s voice whispers from the dark of memory. *“A baseline fights the weight. A predator catches it and throws it back.”*
 
@@ -252,7 +252,7 @@ Diving vertically from the toxic clouds, his 14-foot feathered wings tucked tigh
 
 *Aeros-Legion.* The Commander himself.
 
-My horizontal slit pupils contract into razor-sharp needles behind my lenses. 
+My vertical slit pupils contract into razor-sharp needles behind my lenses. 
 
 Ten minutes ago, I was a scavenger running for a handful of scrap circuits. 
 

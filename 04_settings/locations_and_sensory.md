@@ -2,7 +2,7 @@
 
 ## 1. Eden Dome Alpha (The Gilded Cage)
 
-The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Vaelen diplomatic emissaries. About 8 million people under a shield roughly fifteen miles across. From outside, a bright tower city and terrace gardens in a glass bowl, set in a much wider dark Ring. The count and the garrison are in `01_world/geography_and_territories.md`.
+The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Vaelen diplomatic emissaries. About 1.5 million people under a shield about five miles across, no larger than Manhattan. From outside, a packed tower city in one glass bowl, with a few garden grounds, set in a wider dark Ring. The count and the garrison are in `01_world/geography_and_territories.md`.
 
 *   **Visual Atmosphere:**
     *   Vast, vaulted atmospheric shields made of hexagonal photovoltaic glass that bathe the city in perpetual, flattering golden sunlight.
@@ -17,7 +17,7 @@ The capital biome of the Consortium of Eden, housing the high corporate aristocr
 
 ## 2. Sector 09: The Gray Ring (The Lee)
 
-Sector 09, the first ring outside Bulkhead Wall Alpha. About 45 million people live here, inside the dome's spill.
+Sector 09, the first ring outside Bulkhead Wall Alpha. About 6 million people live here, inside the dome's spill.
 
 *   **Visual Atmosphere:**
     *   Stacked shipping containers, corrugated zinc, jury-rigged cable, and neon over open alleys.

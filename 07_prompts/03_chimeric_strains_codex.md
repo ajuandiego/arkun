@@ -17,7 +17,7 @@ CRITICAL SUBJECT: The Dromaeon is completely reptilian and non-feathered—featu
 The central drawing is a full-body lateral study of a prehistoric scythe-stalker beast in a menacing, calculating stalker pose. The beast features a sleek, muscular reptilian body with finely textured pebbled scales, a row of low, sharp keratinized dorsal scutes running along the spine, a long stiffened muscular counterbalancing tail, and powerful cursorial legs built for explosive sprinting. The inner toe of each foot brandishes a colossal, four-inch curved killer sickle-claw held raised high off the ground in lethal striking readiness.
 
 Surrounding technical callout sketches include:
-1. Detailed skull and jaw dissection illustrating backward-curving serrated predator teeth, powerful jaw hinge tendons, exposed gums, and stereoscopic forward-facing reptilian eyes with horizontal slit pupils and a nictitating membrane.
+1. Detailed skull and jaw dissection illustrating backward-curving serrated predator teeth, powerful jaw hinge tendons, exposed gums, and stereoscopic forward-facing reptilian eyes with vertical slit pupils and a clear eye membrane.
 2. An enlarged skeletal and muscular articulation of the foot, showing the spring-loaded tendon pulley mechanism of the lethal pedal sickle-claw.
 3. Dermal texture study showing fine pebbled reptilian scales, flexible leathery flank skin, and reinforced hexagonal keratin scutes along the shins.
 

@@ -168,7 +168,7 @@ This was a ghost.
 
 "She?" Cassian asks, stepping to my side, his eyes scanning the storm-swept dunes below.
 
-"Look at the stride length on the perimeter gantry," I say, pointing toward the red-highlighted sector on the HUD. "Light frame. Cursorial leg-spring mechanics. Low center of gravity. She’s fast. Faster than baseline."
+"Look at the stride length on the perimeter gantry," I say, pointing toward the red-highlighted sector on the HUD. "Light frame. Low center of gravity. She’s fast. Faster than baseline."
 
 "Chimeric?" Ferrin asks, his irreverence vanishing, replaced by genuine shock. "An unsanctioned chimera in the Gray Sector? How did an unregistered splice survive without a siphon collar blowing their heart out?"
 

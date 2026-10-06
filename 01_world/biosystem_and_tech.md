@@ -10,7 +10,7 @@ To avoid confusing specific lineages with general augmentation, the planetary bi
 2.  **Mutation L (Lindwurm Strain):** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
 3.  **Mutation S (Simurgh Strain):** Metabolic-regenerative solar avian vectors; source of 106°F internal thermal furnace, accelerated telomerase enzymes, glowing capillaries, and *Cytokinetic Weaving* (healing).
 4.  **Mutation F (Fenris Strain):** High-torque terrestrial canid predators; source of acoustic hunting syrinx, thick predatory coat/quills, enhanced olfaction, and seismic impact resistance.
-5.  **Mutation D (Dromaeon Strain):** Spliced from deep-fossil archeo-genetic genomes. Bipedal terrestrial pack hunters featuring hyper-calculating predictive stalker intelligence, sub-vocal acoustic echolocation, translucent protective eye membranes, and 50+ mph burst sprinting.
+5.  **Mutation D (Dromaeon Strain):** Spliced from deep-fossil archeo-genetic genomes. Bipedal terrestrial pack hunters featuring hyper-calculating predictive stalker intelligence, sub-vocal acoustic echolocation, clear eye membranes, and 50+ mph burst sprinting.
 
 ### Anatomical & Physiological Profiles of the Five Mutation Strains
 
@@ -25,8 +25,8 @@ To avoid confusing specific lineages with general augmentation, the planetary bi
 #### 2. Mutation D: The Dromaeon Strain — *The Scythe-Stalker (Tsunari's Lineage)*
 *   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
 *   **Dermis & Covering:** Pure reptilian, completely non-feathered: fine, flexible pebbled scales along forearms and calves; smooth, reinforced obsidian-tinted keratin scutes along the shins, ankles, and lower spine.
-*   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with horizontal slit pupils; dual eyelids with a translucent nictitating membrane that shields against dust storms and blinding muzzle flashes.
-*   **Natural Predatory Attributes:** In wild specimens, five-inch curved biological sickle-talons on the inner digits. In augmented human subjects, the strain manifests as hyper-elastic tendon torque, explosive leaping ability, and rapid-twitch acceleration—frequently paired with handheld curved **Spire hooks** that mirror the predatory hooking arc of the ancient beast.
+*   **Sensory Array:** Lateral-tracking amber or chartreuse eyes with vertical slit pupils, like a raptor. Clear eye membranes under the ordinary lids sweep dust and muzzle flash. On the page she calls them membranes.
+*   **Natural Predatory Attributes:** In wild specimens, five-inch curved biological sickle-talons on the inner digits. In augmented human subjects, the strain shows up as stronger legs, explosive leaps, and a fast start, frequently paired with handheld curved **Spire hooks** that mirror the predatory hooking arc of the ancient beast.
 *   **Metabolic & Acoustic:** Sub-vocal throat resonating chamber capable of producing high-frequency hunting clicks and chirps; rapid-cycle adrenaline spikes.
 
 #### 3. Mutation L: The Lindwurm Strain — *The Earth-Bulwark*
@@ -134,10 +134,10 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 *   **Static Lightning Aura:** A localized bio-electric defense field that shocks anyone attempting to grapple the soldier and shorts out electronic restraints.
 
 ### 2. The Dromaeon Strain (The Scythe-Stalker)
-*   **Hyper-Kinetic Tendon Torque (The Bio-Catapult):** Hyper-dense tendon cords compress under impact, absorbing massive gravitational falls and instantly redirecting vertical energy into explosive horizontal acceleration, acrobatic wall-spring rebounds, and whip-like kinetic strikes.
+*   **Stronger legs:** More leg muscle than a baseline human. Landings, jumps, and wall rebounds come from that muscle. On the page, explain it once, in plain speech. After that, write the action. Do not write tendons, transgenic spring, elastic torque, or a pound-count of the jump.
 *   **Quantic Chrono-Dilation (The Temporal Stutter):** Harnesses quantum phase-shear for a **2 to 3-second burst of 500% accelerated movement**. To observers, the user teleports across the room or slips through crossfire like a ghost.
 *   **Pheromonal Pack-Link (Shared Sensorium):** Establishes an encrypted, sub-vocal mental network with squadmates. Members share spatial awareness, peripheral sightlines, and target vectors with zero lag.
-*   **Scythe-Step (Kinetic Adhesion):** Combines explosive tendon torque with hooked climbing tools to scale sheer vertical conduits, elevator shafts, or cling to high girders in wait for prey.
+*   **Scythe-Step (Kinetic Adhesion):** Combines that leg power with hooked climbing tools to scale sheer vertical conduits, elevator shafts, or cling to high girders in wait for prey.
 *   **Cold-Blood Stalking:** Allows the user to drop body temperature and heart rate to near-zero, rendering them completely invisible to thermal scopes and motion detectors.
 
 ### 3. The Lindwurm Strain (The Earth-Bulwark)
@@ -173,16 +173,16 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 #### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
 *   **The Problem Dr. Jeffrey Thorne Solved:** Single-strain chimeras suffer from biological xenophobia—a Lindwurm’s tissue rejects a Simurgh’s blood, and a Gryphon cannot tolerate a Dromaeon’s neuro-chemistry. Furthermore, all corporate strains are crippled by the Vaelen's Synapse Lattice collar.
 *   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not just splice her with a single lineage. He engineered her as the **Mosaic Keystone**:
-    *   *Expressed Body (100% Mutation D: Dromaeon):* Her physical form is purely that of the Scythe-Stalker (explosive burst sprinting speed, athletic agility, reptilian shin scutes, horizontal slit irises, sub-vocal acoustic hunting syrinx).
+    *   *Expressed Body (100% Mutation D: Dromaeon):* Her physical form is purely that of the Scythe-Stalker (explosive burst sprinting speed, athletic agility, reptilian shin scutes, vertical slit irises, sub-vocal acoustic hunting syrinx).
     *   *Dormant Regulatory Matrix (The Keystone):* Her non-coding regulatory DNA contains dormant receptor loci of the other four ancient lineages (**Gryphon, Lindwurm, Simurgh, Fenris**).
     *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
 
 #### 7.3 Concealment Protocols for Un-Collared Mutants
-In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Tsunari survives through four strict physical concealment practices:
-1.  **Concealed Climbing Rig & Spire Hooks:** Wears twin blackened-steel Spire hooks sheathed close against her hips; tools originally engineered for vertical scavenger ascents in Spire ruins, wielded in reverse grip as lethal close-quarter weapons.
-2.  **Mechanic Bracers & Ballistic Leggings:** Cover the fine pebbled reptilian scales along her inner forearms and shins.
-3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her horizontal predatory slit pupils and nictitating membrane as light-sensitive work gear.
-4.  **High Collar & Sleeveless Design:** Wears high, stiff-collared tunics or wrapped linen neck gaiters that cover the throat and wrap the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon and its two links**, while keeping the garment **strictly sleeveless** to leave her toned shoulders and arms completely free for explosive climbing, vaulting, and close-quarters hand-to-hand combat.
+In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `08_media/tsunari_8.jpg`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
+1.  **Spire hooks:** A matched pair of curved, blackened spring-steel hooks in sheaths at the hips, blades hanging along the thigh. Climbing tools, and weapons in a reverse grip.
+2.  **Bracers, gloves, and trousers:** Forearm bracers and fingerless gloves are kit. Fitted trousers cover the shin scutes. The pebbled scales on the outer shoulders and upper arms stay visible.
+3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her vertical slit pupils and eye membranes as light-sensitive work gear.
+4.  **High collar:** The sleeveless tunic's stand collar wraps the throat and the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon and its two links**. The face stays bare. Shoulders and arms stay free. A linen wrap is storm cloth, not the daily collar.
 
 ---
 

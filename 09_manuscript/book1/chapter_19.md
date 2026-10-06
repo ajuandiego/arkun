@@ -7,13 +7,13 @@
 
 Nothing in the undercity prepares a human being for the sky.
 
-In the drainage conduits and maintenance shafts of Sector 09, speed is measured in paces, in the elastic flex of tendons rebounding off iron gratings, in the breathless dash between shadow and searchlight. It is bounded by ceilings of rust and floors of cracked slag.
+In the drainage conduits and maintenance shafts of Sector 09, speed is measured in paces, in a rebound off an iron grating, in the breathless dash between shadow and searchlight. It is bounded by ceilings of rust and floors of cracked slag.
 
 Out here, there is no ceiling. There is only an infinite, terrifying abyss of wind and light.
 
 We climb through the canyon gorge at one hundred and sixty miles per hour. 
 
-The wind against my face is not an atmosphere; it is a physical entity, a concussive wall of freezing air that tears at the linen wraps of my gaiter, threatening to rip the breath directly from my throat. My nictitating membranes snap across my eyes in a constant, reflexive blur, sweeping away the needle-sharp crystals of copper dust and freezing moisture that whip past our ears.
+The wind against my face is not an atmosphere; it is a physical entity, a concussive wall of freezing air that tears at the linen wraps of my gaiter, threatening to rip the breath directly from my throat. My membranes snap across my eyes in a constant, reflexive blur, sweeping away the needle-sharp crystals of copper dust and freezing moisture that whip past our ears.
 
 I am clamped to Vram's chest, my arms locked around his burning neck, my legs woven through the tactical leg loops of his flight harness. 
 

@@ -259,7 +259,7 @@ I don't look back.
 
 I jam the steel bodkin knife back into the high coil of my warrior bun, driving the metal deep through the woven hair until the cold steel seats firmly against my skull. 
 
-My leg springs coil with explosive, transgenic torque. 
+My legs coil.
 
 I kick the rusted exhaust louvers open with a screech of bent iron. 
 
@@ -273,7 +273,7 @@ I reach down to the quick-release loops at my harness, drawing my twin Spire hoo
 
 Forged from blackened spring steel with curved, razor-honed inner edges, they are the indispensable tools of every Spire scavenger who ever survived scaling a thousand-foot elevator flue—and the deadliest weapons an Undercity rogue could carry.
 
-I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, the tendons behind my knees compress like heavy spring steel, soaking up the impact before the shock can touch my spine. 
+I drop, catching the rusted flange of a lower girder with the crook of my Spire hook to shave off the dead weight of the fall. The moment my boots strike the catwalk, my knees take the hit, and the shock never reaches my spine. 
 
 *“Don’t fight the drop, Tsune,”* my father’s voice whispers from the dark of memory. *“A baseline fights the weight. A predator catches it and throws it back.”*
 
@@ -293,7 +293,7 @@ Diving vertically from the toxic clouds, his 14-foot feathered wings tucked tigh
 
 *Aeros-Legion.* The Commander himself.
 
-My horizontal slit pupils contract into razor-sharp needles behind my lenses. 
+My vertical slit pupils contract into razor-sharp needles behind my lenses. 
 
 Ten minutes ago, I was a scavenger running for a handful of scrap circuits. 
 
@@ -475,7 +475,7 @@ This was a ghost.
 
 "She?" Cassian asks, stepping to my side, his eyes scanning the storm-swept dunes below.
 
-"Look at the stride length on the perimeter gantry," I say, pointing toward the red-highlighted sector on the HUD. "Light frame. Cursorial leg-spring mechanics. Low center of gravity. She’s fast. Faster than baseline."
+"Look at the stride length on the perimeter gantry," I say, pointing toward the red-highlighted sector on the HUD. "Light frame. Low center of gravity. She’s fast. Faster than baseline."
 
 "Chimeric?" Ferrin asks, his irreverence vanishing, replaced by genuine shock. "An unsanctioned chimera in the Gray Sector? How did an unregistered splice survive without a siphon collar blowing their heart out?"
 
@@ -560,7 +560,7 @@ I hit the sand in a low, sliding crouch. The acid dust boils around my boots, st
 
 A gust of wind catches me sideways, carrying a fistful of pulverized iron sand directly into my face.
 
-Underneath my amber welder goggles, my translucent nictitating membranes flick across my eyeballs—a silent, reflexive horizontal wipe that sweeps the abrasive grit from my corneas without requiring me to blink. My pupils, contracted into razor-thin horizontal slits, adjust instantly to the blinding glare of the perimeter floodlights sweeping through the dust behind me.
+Underneath my amber welder goggles, my eye membranes flick across my eyes. A clear film under the lids takes the grit, so I do not have to blink. My pupils, contracted into razor-thin vertical slits, adjust instantly to the blinding glare of the perimeter floodlights sweeping through the dust behind me.
 
 *Sora is alive.*
 
@@ -574,11 +574,11 @@ And that countdown: *14 MONTHS, 12 DAYS UNTIL ATMOSPHERIC PURGE.*
 
 Inside the reinforced pocket of my leather chest harness, the stolen crystal data wafer burns against my ribs like a live coal.
 
-I sprint across the crest of the first dune, my elongated foot tendons working like hyper-elastic coiled springs. With every stride, my legs drive three times deeper and push four times harder than any baseline human’s could. I don’t run with the heavy, heel-striking plod of the scavengers; my center of gravity stays low, fluid, gliding over the shifting powder. 
+I sprint across the crest of the first dune. I stay low, and I glide over the shifting powder. I do not land on my heels. 
 
 Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking slag-tallow stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
 
-"You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you."
+"You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into the stitched ankle until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. Your legs are stronger than that. Land on your toes. Let the muscle take the shock, and the desert will never catch you."
 
 He was right. 
 
@@ -656,7 +656,7 @@ I don’t give him the chance.
 
 I explode from the shadow of the pylon. 
 
-My leg springs unload with sixty pounds of elastic force, driving me straight up into the air. I plant my right boot against the vertical face of the shattered parabolic mirror, rebound off the cracked glass with an acrobatic pivot, and drop directly onto his pressurized shoulder housing.
+I jump. I plant my right boot against the vertical face of the shattered parabolic mirror, rebound off the cracked glass with an acrobatic pivot, and drop directly onto his pressurized shoulder housing.
 
 My weight drives his already compromised balance into the sand. 
 
@@ -712,7 +712,7 @@ As I clear his shoulder, my left arm whips around his blind side.
 
 The curved, razor-honed beak of my Spire hook catches the articulated hydraulic line behind his knee.
 
-I rip backward with all the coiled torque of my Dromaeon fast-twitch muscle. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
+I rip backward. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
 
 I land lightly on the crest of the ridge, my boots digging into the loose earth, absorbing the impact without a wobble. 
 
@@ -738,7 +738,7 @@ The loose sand around my boots doesn't drift. It flattens.
 
 The temperature in the trench, already a brutal hundred degrees, spikes suddenly, violently. A wave of dry, searing heat rolls over my bare shoulders and neck—106 degrees of biological furnace fire, smelling of bitter sandalwood, scorched feathers, and superheated titanium.
 
-My horizontal pupils contract into needle points.
+My vertical pupils contract into needle points.
 
 I slowly raise my amber goggles.
 
@@ -888,7 +888,7 @@ A low, raspy rumble vibrates in my chest—half chuckle, half predator’s growl
 
 "Clever girl..." I murmur into the wind.
 
-Her horizontal pupils contract behind the amber glass.
+Her vertical pupils contract behind the amber glass.
 
 She realizes I’ve seen it.
 
@@ -898,7 +898,7 @@ She doesn't hesitate. She doesn't wait for my downstroke.
 
 Not toward the substation. Not toward the open dunes. 
 
-She drives her boots into the sand, uncoiling those terrifying Dromaeon leg springs, and launches herself straight *at* me.
+She drives her boots into the sand and launches herself straight *at* me.
 
 She runs up the sheer sixty-foot curved face of the parabolic mirror, using the momentum of her sprint and the traction of her boots to run three steps vertically up the glass, aiming her bodkin blade directly at my exposed carotid artery.
 
@@ -1007,7 +1007,7 @@ Before I can recover my guard, his wing sweeps outward with a terrifying hydraul
 
 I hit the concrete on my hands and knees, sliding through a drift of acid-bleached sand and shattered porcelain insulators. 
 
-My amber welder goggles are knocked askew, dangling uselessly by their leather strap against my jaw. I rip them off with my left hand and fling them into the darkness, letting my horizontal slit pupils expand to drink in the gloom of the ruined substation.
+My amber welder goggles are knocked askew, dangling uselessly by their leather strap against my jaw. I rip them off with my left hand and fling them into the darkness, letting my vertical slit pupils expand to drink in the gloom of the ruined substation.
 
 Memory flashes unbidden in the dark—an old anatomical sketch my father had unrolled across our workshop table in the Lower Sumps when I was twelve. Yellowed vellum covered in dense medical Latin and schematics of the human spinal column fused with raptor genetics.
 
@@ -1053,7 +1053,7 @@ The metal crashes around him in a heap of scrap, blocking his path for two preci
 
 In that window, I spring. 
 
-I leap onto the fallen transformer casing, vaulting into the air with thirty pounds of elastic torque. My hand catches a low-hanging steel conduit pipe running along the ceiling. I swing forward, tucking my knees to my chest, and launch myself horizontally off the pipe, aiming a two-footed dropkick straight at his armored chest.
+I leap onto the fallen transformer casing and vault for the pipe. My hand catches a low-hanging steel conduit pipe running along the ceiling. I swing forward, tucking my knees to my chest, and launch myself horizontally off the pipe, aiming a two-footed dropkick straight at his armored chest.
 
 He steps through the dust, lowering his shoulder. 
 
@@ -1085,7 +1085,7 @@ He closes the distance in a single, thunderous stride, his right hand shooting f
 
 I don't try to brace against his mass. You don't fight a falling mountain.
 
-I drop flat, catching the kinetic rush of his charge, and let my core compress like a loaded catapult. With a sharp, elastic snap, I slide between his wide-planted boots with Dromaeon burst velocity, the cold dust scraping through my combat trousers, and whip my left arm upward in a vicious, sweeping arc.
+I drop flat under his charge and slide between his wide-planted boots. The cold dust scrapes through my combat trousers, and I whip my left arm upward in a vicious, sweeping arc.
 
 The curved beak of the Spire hook sweeps toward his unarmored inner thigh, aiming to sever his femoral artery.
 
@@ -1157,7 +1157,7 @@ I remember my father's words: *Strike their bridle.*
 
 I stop fighting the grip on my wrists. 
 
-With all the remaining elastic torque in my core, I arch my back, driving my chest upward against his torso. 
+I arch my back and drive my chest up against his torso. 
 
 The sudden shift in leverage forces his center of balance forward an inch. 
 
@@ -1241,7 +1241,7 @@ I am paralyzed by the sheer, suffocating ecstasy of being free from pain.
 
 My molten-gold eyes lock onto hers in the gloom.
 
-Beneath the linen wrap of her neck gaiter, her chest heaves against mine. Without her amber welder goggles, her gaze is naked, terrifying, and utterly captivating. Her eyes are almond-shaped, bearing the elegant epicanthic fold of ancient East-Asian heritage, holding an intense amber-chartreuse fire. In the center of each iris, a horizontal reptilian slit pupil contracts and expands with every ragged breath.
+Beneath the linen wrap of her neck gaiter, her chest heaves against mine. Without her amber welder goggles, her gaze is naked, terrifying, and utterly captivating. Her eyes are almond-shaped, bearing the elegant epicanthic fold of ancient East-Asian heritage, holding an intense amber-chartreuse fire. In the center of each iris, a vertical reptilian slit pupil contracts and expands with every ragged breath.
 
 She looks at me not with fear, but with raw, calculating shock. 
 
@@ -1277,9 +1277,9 @@ The sound of my voice shatters the spell.
 
 The shock in her amber eyes hardens into cold, survivalist steel. She doesn't know why I collapsed; she only knows the beast on top of her has let go of the reins.
 
-She moves with the explosive, whip-crack torque of a Dromaeon raptor.
+She moves.
 
-Her knees drive upward into my lower abdomen. The sudden, violent kinetic lever dislodges my deadened center of gravity. As I roll sideways onto the concrete, her right boot plants firmly against my armored ribcage, driving me back with fifty pounds of elastic spring force.
+Her knees drive upward into my lower abdomen. I roll sideways onto the concrete. Her right boot plants firmly against my armored ribcage and drives me back.
 
 She slips out from beneath me like water through clenched fingers.
 
@@ -1325,7 +1325,7 @@ She twists in mid-air, but the sudden lateral force catches her off balance.
 
 She crashes hard against the concrete doorframe. Her head strikes the iron reinforced lintel with a sickening, hollow thud.
 
-The bodkin knife slips from her hair, clattering into the sand. Her amber eyes roll back, the horizontal slit pupils fluttering closed, and her body goes completely limp.
+The bodkin knife slips from her hair, clattering into the sand. Her amber eyes roll back, the vertical slit pupils fluttering closed, and her body goes completely limp.
 
 She falls into my arms.
 
@@ -1474,7 +1474,7 @@ His right hand, however, is pressed flat against the back of his neck, his knuck
 
 *He’s burning from the inside out.*
 
-I tilt my head sideways, my amber-chartreuse eyes narrowing as my horizontal slit pupils contract in the red gloom. My analytical spatial mind, the Dromaeon calculation engine that parses survival odds in fractions of a second, starts putting the pieces together.
+I tilt my head sideways, my amber-chartreuse eyes narrowing as my vertical slit pupils contract in the red gloom. My analytical spatial mind, the Dromaeon calculation engine that parses survival odds in fractions of a second, starts putting the pieces together.
 
 The breach sirens at Dome Alpha were red-priority. 
 
@@ -1536,7 +1536,7 @@ His voice is rough, cracked, sounding as though he has swallowed a handful of cr
 
 "Takes more than an iron doorframe to crack a Dromaeon skull," I say evenly. My voice is steady, flat, stripped of all panic. 
 
-I lean back against the vibrating wall, letting the chains between my wrists drape across my lap. I don't pull against them. I don't beg. I meet his burning, fevered gaze head-on, letting him see my horizontal slit pupils wide and unblinking behind the linen wrap of my gaiter.
+I lean back against the vibrating wall, letting the chains between my wrists drape across my lap. I don't pull against them. I don't beg. I meet his burning, fevered gaze head-on, letting him see my vertical slit pupils wide and unblinking behind the linen wrap of my gaiter.
 
 "Nice ride," I add, glancing around the bare, red-lit steel compartment. "A bit drafty for corporate first-class. Where are the white coats, Commander? Where’s the extraction shuttle? I was promised a full-anesthesia autopsy by dawn."
 
@@ -1991,7 +1991,7 @@ Vram reaches up and flips a manual breaker switch.
 
 A row of overhead fluorescent light tubes flickers to life with a buzzing hum, casting a harsh, yellow-white glare over the room.
 
-I blink against the sudden light, my nictitating membranes sweeping across my irises, my horizontal slit pupils contracting to razor-thin needles.
+I blink against the sudden light, my membranes sweeping across my eyes, my vertical slit pupils contracting to razor-thin needles.
 
 I scan the bunker.
 
@@ -2009,7 +2009,7 @@ Memory stirs—an old lesson from my father in the Lower Sumps: "Look at these a
 
 In the corner of the bunker, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
 
-In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace—narrow, perhaps two feet wide, but easily navigable for someone with my wiry, elastic frame.
+In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace, narrow, perhaps two feet wide, but wide enough for me.
 
 No cameras. 
 
@@ -2065,7 +2065,7 @@ He raises his trembling right hand, pointing a single, rigid finger at the side 
 
 He leans down, bringing his face inches from mine. 
 
-His breath is scorching, smelling of copper and bitter clove. The heat radiating from his chest is suffocating, but I refuse to step back. I hold my ground, my chained hands flat against my ribs, my horizontal pupils boring into his molten gold.
+His breath is scorching, smelling of copper and bitter clove. The heat radiating from his chest is suffocating, but I refuse to step back. I hold my ground, my chained hands flat against my ribs, my vertical pupils boring into his molten gold.
 
 "For ten years," he whispers, his voice breaking, trembling with an agony so profound it hollows out my chest, "I have listened to an alien carrier wave scream inside my skull. Every hour. Every minute. Every second. It never stops. It never sleeps. It tells me who to shoot, who to burn, where to fly."
 
@@ -2139,7 +2139,7 @@ I can smell my own blood. A thin, dark trickle drips from my left nostril, spatt
 
 Six paces away, sitting on the edge of the narrow military cot, Tsunari watches me.
 
-Her chained wrists rest quietly on her knees. Her dark raven hair is still pinned by that slender steel bodkin knife. Her amber-chartreuse eyes, with their predatory horizontal slit pupils, follow every ragged breath that tears through my chest. 
+Her chained wrists rest quietly on her knees. Her dark raven hair is still pinned by that slender steel bodkin knife. Her amber-chartreuse eyes, with their predatory vertical slit pupils, follow every ragged breath that tears through my chest. 
 
 She isn't mocking me now. She isn't taunting. 
 
@@ -2196,7 +2196,7 @@ Tsunari doesn't move immediately. Her amber eyes trace the trembling line of my 
 
 "Because if I die," I rasp, my molten eyes locking onto hers, "this blast door is sealed with a biometric dead-bolt slaved to my pulse. If my heart stops, the emergency interlocks trigger. You will starve in this concrete tomb long before you ever find your sister."
 
-Her horizontal pupils contract into razor-thin points.
+Her vertical pupils contract into razor-thin points.
 
 "You know about Sora," she whispers, a deadly edge hardening her tone.
 
@@ -2329,7 +2329,7 @@ I turn my head and look at Tsunari.
 
 She has stood up from the cot. 
 
-She stands straight, her chained hands resting over the pocket where the stolen Lazarus wafer sits against her heart. She isn't pleading. She isn't crying. Her horizontal slit pupils are locked onto mine, fierce, unyielding, and utterly fearless.
+She stands straight, her chained hands resting over the pocket where the stolen Lazarus wafer sits against her heart. She isn't pleading. She isn't crying. Her vertical slit pupils are locked onto mine, fierce, unyielding, and utterly fearless.
 
 She is ready to fight me to the death. Right here. In this thirty-foot room.
 
@@ -2799,7 +2799,7 @@ Tsunari steps onto the stone ledge, stopping three paces to my left.
 
 She has pulled her sleeveless combat tunic back into place, cinching the worn leather straps of her utility harness across her chest. Her high linen neck gaiter is drawn tight over her jaw, concealing her smooth throat, but she has left her amber welder goggles pushed up into the dark, coiled mass of her hair. 
 
-Her eyes—wide, almond-shaped, with their lethal horizontal slit pupils—sweep the horizon.
+Her eyes—wide, almond-shaped, with their lethal vertical slit pupils—sweep the horizon.
 
 Out here, twilight does not fall; it detonates.
 
@@ -2936,7 +2936,7 @@ The ventilation shaft of Redoubt 14 is two feet wide, caked with thirty years of
 
 To a baseline human, squeezing between these narrow zinc ribs would be a claustrophobic nightmare. To my Dromaeon physiology, the crawlspace is an artery. 
 
-My clavicles fold inward with elastic, cartilage compliance; my hips narrow as I shift onto my stomach, gliding through the gloom like an eel through marsh grass. Behind me, three feet down the horizontal shaft, the heavy cast-iron intake grate clicks shut with a muffled, mechanical latch.
+My shoulders fold in and my hips narrow as I shift onto my stomach, gliding through the gloom like an eel through marsh grass. Behind me, three feet down the horizontal shaft, the heavy cast-iron intake grate clicks shut with a muffled, mechanical latch.
 
 Vram’s voice filters through the iron slats, barely louder than the hum of the air scrubber:
 
@@ -3001,7 +3001,7 @@ My breath catches in my throat.
 
 *Culture Lab 4.*
 
-I lean closer, my horizontal slit pupils contracting to sharpen the micro-script scrolling across the phosphor screen. 
+I lean closer, my vertical slit pupils contracting to sharpen the micro-script scrolling across the phosphor screen. 
 
 The transmission isn't an automated system diagnostic. It is an internal medical memorandum—an urgent biometric anomaly report generated barely three hours ago, flagged with the highest level of administrative priority.
 
@@ -3240,7 +3240,7 @@ Its mandibular plates click in the dark, translating its sensory scan into a fla
 
 The creature raises its right forearm. 
 
-From the articulated chitin cuff extends a five-foot crystalline bio-lance. The weapon hums with a sickening, high-frequency oscillation that vibrates directly against my skull, making my horizontal slit pupils strobe with static. The air around the spear-tip ripples with intense gravitational distortion—a localized disruption field capable of dissolving organic cell membranes into slurry in under a second.
+From the articulated chitin cuff extends a five-foot crystalline bio-lance. The weapon hums with a sickening, high-frequency oscillation that vibrates directly against my skull, making my vertical slit pupils strobe with static. The air around the spear-tip ripples with intense gravitational distortion—a localized disruption field capable of dissolving organic cell membranes into slurry in under a second.
 
 I don't scream. I don't plead. In the Gray Ring, fear is just a waste of calories.
 
@@ -3270,7 +3270,7 @@ The creature tilts its head, its ultraviolet pits pulsing faster. *"Illogical."*
 
 I spring.
 
-My leg tendons unload with eighty pounds of hyper-elastic torque. In the cramped two-foot space of the duct, I don't try to stand—I launch myself horizontally along the floor like a spear, diving beneath the tip of the crystalline lance.
+In the cramped two-foot space of the duct, I don't try to stand. I launch myself along the floor like a spear, diving beneath the tip of the crystalline lance.
 
 The Inquisitor thrusts downward with blinding speed.
 
@@ -3284,7 +3284,7 @@ I twist my torso in mid-slide, whipping my left arm upward in a vicious, sweepin
 
 The curved beak of my Spire hook punches into the articulation seam behind the alien's left knee.
 
-I wrench the handle with both hands, leveraging the full coiled torque of my Dromaeon sinew. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
+I wrench the handle with both hands. The hook bites into the dense, rubbery connective tissue beneath the chitin plates, ripping the joint apart. A spray of thick, black bio-fluid—cold as liquid nitrogen, smelling of ammonia and dead brine—gushes across my hands and chest. 
 
 The Inquisitor emits a high-pitched, shrieking harmonic pulse as its left knee collapses. 
 
@@ -3647,7 +3647,7 @@ I look at him. Then I look past his shoulder, down into the sheer, eight-hundred
 
 At the bottom of the gorge, jagged basalt spires and razor-sharp titanium debris from pre-collapse bridges rise from the darkness like rows of shark’s teeth. A drop from this height means terminal velocity in four seconds. It means painting the rocks before the brain can register the impact.
 
-In the Gray Ring, I have leaped across five-story alleyways; I have rebounded off shattered parabolic mirrors with sixty pounds of spring torque in my legs. But unassisted flight? Entrusting my life completely to another creature's spine?
+In the Gray Ring, I have leaped across five-story alleyways. I have rebounded off shattered parabolic mirrors. But unassisted flight? Entrusting my life completely to another creature's spine?
 
 Every survival instinct honed over ten years of hunting in the sewers screams at me to turn back, to dive into the drainage culverts, to take my chances with the dark.
 
@@ -3821,13 +3821,13 @@ I pull my wings back, angle my primaries into the rising thermals, and bank towa
 
 Nothing in the undercity prepares a human being for the sky.
 
-In the drainage conduits and maintenance shafts of Sector 09, speed is measured in paces, in the elastic flex of tendons rebounding off iron gratings, in the breathless dash between shadow and searchlight. It is bounded by ceilings of rust and floors of cracked slag.
+In the drainage conduits and maintenance shafts of Sector 09, speed is measured in paces, in a rebound off an iron grating, in the breathless dash between shadow and searchlight. It is bounded by ceilings of rust and floors of cracked slag.
 
 Out here, there is no ceiling. There is only an infinite, terrifying abyss of wind and light.
 
 We climb through the canyon gorge at one hundred and sixty miles per hour. 
 
-The wind against my face is not an atmosphere; it is a physical entity, a concussive wall of freezing air that tears at the linen wraps of my gaiter, threatening to rip the breath directly from my throat. My nictitating membranes snap across my eyes in a constant, reflexive blur, sweeping away the needle-sharp crystals of copper dust and freezing moisture that whip past our ears.
+The wind against my face is not an atmosphere; it is a physical entity, a concussive wall of freezing air that tears at the linen wraps of my gaiter, threatening to rip the breath directly from my throat. My membranes snap across my eyes in a constant, reflexive blur, sweeping away the needle-sharp crystals of copper dust and freezing moisture that whip past our ears.
 
 I am clamped to Vram's chest, my arms locked around his burning neck, my legs woven through the tactical leg loops of his flight harness. 
 
@@ -4556,7 +4556,7 @@ Even unconscious, his body burns.
 
 His core temperature has spiked back toward 107 degrees—the Silver Spine in his brainstem misfiring in violent, chaotic short-circuits now that the physical trauma of the crash has overwhelmed his nervous system. Heat radiates off his chest like an open hearth, melting the frost on my bare collarbones, turning the red sand beneath his back into sizzling, blackened slurry.
 
-"Come on," I grumble through clenched teeth, my leg tendons straining with eighty pounds of elastic torque as I haul him over the crest of the dune. "Move your feet, Commander. I didn't pull you out of the sky just to watch you freeze to death in a ditch."
+"Come on," I grumble through clenched teeth, my legs straining as I haul him over the crest of the dune. "Move your feet, Commander. I didn't pull you out of the sky just to watch you freeze to death in a ditch."
 
 A low, delirious rumble catches in his throat—a feral, chimeric sound that vibrates against my collarbone. His good right hand twitches, his calloused fingers weakly searching for the grip of his kinetic sidearm, but his golden eyes remain glassy, unseeing, lost in the violet fog of neuro-decay.
 
@@ -4648,7 +4648,7 @@ I step into the moonlight, lowering my center of gravity, and click back.
 
 # Chapter 24 // Tsunari
 
-> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, sub-vocal acoustic echolocation, translucent protective eye membranes, and cold-blood thermal dampening.
+> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by stronger legs, sub-vocal acoustic echolocation, clear eye membranes, and cold-blood thermal dampening.
 
 ***
 
@@ -4656,7 +4656,7 @@ The wild Dromaeon does not roar.
 
 It crouches. 
 
-Its elongated, bird-like skull dips low against the frozen sand, its golden night-shine eyes narrowing as its horizontal slit pupils lock onto mine. Across the fifteen feet of starlit salt pan between us, its nostrils flare, sampling the air, tasting the scent of bitter citrus solvent, old vulcanized rubber tape, and untainted human blood.
+Its elongated, bird-like skull dips low against the frozen sand, its golden night-shine eyes narrowing as its vertical slit pupils lock onto mine. Across the fifteen feet of starlit salt pan between us, its nostrils flare, sampling the air, tasting the scent of bitter citrus solvent, old vulcanized rubber tape, and untainted human blood.
 
 Then it hears my click.
 
@@ -4692,7 +4692,7 @@ It does not charge like a beast; it accelerates with the blinding, explosive vel
 
 I don't retreat. 
 
-I drop into a low, predatory counter-stance, coiling forty pounds of elastic torque into my quadriceps.
+I drop into a low, predatory counter-stance. My legs load under me.
 
 *Quantic Phase-Stutter.*
 
@@ -4911,7 +4911,7 @@ Something in the word *safe* pierces the fog of his fever. His jaw tightens. Wit
 
 I haul his good arm over my shoulder, taking his immense weight onto my back. 
 
-Even depleted and broken, he weighs two hundred and thirty-five pounds of dense, genetically augmented bone and muscle. My knee joints creak, the elastic tendons in my thighs straining as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
+Even depleted and broken, he weighs two hundred and thirty-five pounds of dense, genetically augmented bone and muscle. My knees creak and my legs strain as I drag him down the crawler's tailgate and across the cracked concrete floor toward the maintenance crib. Every step sends a fresh wave of dry heat pouring off his skin, suffocating in the enclosed air.
 
 In the corner of the crib sits an old iron cot, its canvas mattress stained with thirty years of water leaks and oil drippings. 
 
@@ -5069,7 +5069,7 @@ My pulse thumps hard against my ribs.
 
 For ten years, the voice of the undercity has whispered the same survival law: *Attachment is a cage. Surrender is death.* If you let anyone hold you, they will use your neck to keep their own head above water.
 
-I catch his wrist. My grip is firm, my amber horizontal slit pupils holding his golden gaze in the dark.
+I catch his wrist. My grip is firm, my amber vertical slit pupils holding his golden gaze in the dark.
 
 "Partners," I breathe, my voice steady, sharp, and fierce. "Partners, or nothing. I am no man's cage, Vram."
 
@@ -5140,7 +5140,7 @@ My breath turns ragged. A shudder runs through my ribs—a breathless, silent tr
 
 Tsunari shifts.
 
-Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her horizontal amber slit pupils are dilated wide in the gloom, her irises catching the faint light like warm embers.
+Her eyelashes flutter, and then her eyes open—not with the sluggish disorientation of a normal waking human, but with the instant, razor-sharp focus of an apex hunter. Her vertical amber slit pupils are dilated wide in the gloom, her irises catching the faint light like warm embers.
 
 She doesn't flinch. She doesn't pull away.
 
@@ -5150,7 +5150,7 @@ She feels the frantic, thumping rhythm of my chest against her cheek. She lifts 
 
 "The radio..." I choke out, my throat so dry the syllables scrape like sand against my teeth. "The channel is dead."
 
-She blinks slowly, her nictitating membranes flicking across her eyes in a fluid, hypnotic sweep. 
+She blinks slowly, her eye membranes flicking across her eyes in a fluid, hypnotic sweep. 
 
 "There is no radio here, Vram."
 
@@ -5510,7 +5510,7 @@ A draft of hot, dry air washes over my bare neck—an artificial thermal surge t
 
 I don't look over my shoulder. I don't reach for the canteen.
 
-My knees bend. My center of gravity drops four inches toward the wet cobblestones, the elastic tendons in my thighs coiling with thirty pounds of spring tension. My right hand glides smoothly down to the hilt of my steel bodkin knife.
+My knees bend. I drop toward the wet cobblestones. My right hand glides smoothly down to the hilt of my steel bodkin knife.
 
 Above me, on the overhead steam pipe, iron scrapes on iron.
 
@@ -6706,7 +6706,7 @@ Tsunari lets out a long, slow sigh.
 
 "Not a bad thing to have in a sub-zero desert," she murmurs. 
 
-She turns her head slightly, her amber eyes meeting mine over her shoulder. Her horizontal slit pupils are dilated wide, softened with warmth. 
+She turns her head slightly, her amber eyes meeting mine over her shoulder. Her vertical slit pupils are dilated wide, softened with warmth. 
 
 "Thank you, Vram."
 
@@ -6766,7 +6766,7 @@ The sensation is sheer, blinding madness. Her mouth is cool, soft, slick with sa
 
 "Tsune... gods..." A ragged, guttural groan tears from my throat. My wings shudder, snapping half-open, the crimson feathers trembling against the stone. 
 
-She looks up at me through dark lashes, her amber horizontal slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
+She looks up at me through dark lashes, her amber vertical slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
 
 She bobs her head in a steady, devastating cadence, her small hand pumping the shaft where her mouth can't reach, milking every drop of pre-cum onto her tongue. The friction of her cool throat against my scorching iron pushes me to the razor edge of oblivion.
 
@@ -7119,7 +7119,7 @@ That leaves Tsunari and me on the central threshold.
 
 She stands beside me, tightening the straps of her combat vest, checking the edge of her steel bodkin knife. At her hips, she checks the release catches of her twin Spire hooks, the curved black blades seating into their sheaths with a crisp, oiled click. Around her neck hangs the small carved quartz talon-beast Toby gave her, resting right over her collarbone.
 
-She looks at me, her amber horizontal slit pupils steady and cool.
+She looks at me, her amber vertical slit pupils steady and cool.
 
 "And us?" she asks.
 
@@ -7439,7 +7439,7 @@ Tsunari has arrived.
 
 I drop from the grease-slick crane cable like a hunting raptor falling from a dead pine.
 
-My boots hit the steel diamond-plating of the control platform four feet behind The Forger. The impact makes no sound; my knees absorb the kinetic shock with the coiled, silent elasticity of my Dromaeon tendons.
+My boots hit the steel diamond-plating of the control platform four feet behind The Forger. The impact makes no sound. My knees take it.
 
 The masked prophet hears the displaced air.
 
@@ -7465,7 +7465,7 @@ One pace. Two paces.
 
 I reach the prophet. 
 
-With a blur of movement, my right hand draws my Spire hook from my hip. Channeling forty pounds of coiled torque through my torso and shoulders, I sweep the curved, hardened blade upward in a vicious, executioner's arc.
+With a blur of movement, my right hand draws my Spire hook from my hip. I sweep the curved, hardened blade upward in a vicious, executioner's arc.
 
 The phase-stutter collapses with a concussive snap of displaced air.
 
@@ -7648,7 +7648,7 @@ My hip presses against hers. The contact is effortless, natural, as if the space
 
 She doesn't pull away. 
 
-She turns her head, her amber horizontal slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
+She turns her head, her amber vertical slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
 
 "You look like you've been through a meat grinder, Commander," she says softly, though there is no mockery in her voice—only an ocean of quiet, unvarnished warmth.
 

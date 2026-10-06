@@ -13,7 +13,7 @@ I hit the sand in a low, sliding crouch. The acid dust boils around my boots, st
 
 A gust of wind catches me sideways, carrying a fistful of pulverized iron sand directly into my face.
 
-Underneath my amber welder goggles, my translucent nictitating membranes flick across my eyeballs—a silent, reflexive horizontal wipe that sweeps the abrasive grit from my corneas without requiring me to blink. My pupils, contracted into razor-thin horizontal slits, adjust instantly to the blinding glare of the perimeter floodlights sweeping through the dust behind me.
+Underneath my amber welder goggles, my eye membranes flick across my eyes. A clear film under the lids takes the grit, so I do not have to blink. My pupils, contracted into razor-thin vertical slits, adjust instantly to the blinding glare of the perimeter floodlights sweeping through the dust behind me.
 
 *Sora is alive.*
 
@@ -27,11 +27,11 @@ And that countdown: *14 MONTHS, 12 DAYS UNTIL ATMOSPHERIC PURGE.*
 
 Inside the reinforced pocket of my leather chest harness, the stolen crystal data wafer burns against my ribs like a live coal.
 
-I sprint across the crest of the first dune, my elongated foot tendons working like hyper-elastic coiled springs. With every stride, my legs drive three times deeper and push four times harder than any baseline human’s could. I don’t run with the heavy, heel-striking plod of the scavengers; my center of gravity stays low, fluid, gliding over the shifting powder. 
+I sprint across the crest of the first dune. I stay low, and I glide over the shifting powder. I do not land on my heels. 
 
 Memory flashes across my mind—a sharp, vivid image of Doc Mercer hunched over a smoking slag-tallow stove in his subterranean clinic seven years ago, stitching my torn left ankle with bio-glue after I botched a jump off an ore conveyor. 
 
-"You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into my Achilles tendon until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. You’re a Dromaeon. Your metatarsals are built like bowstrings. Land on your toes, let the spring take the shock, and the desert will never catch you."
+"You run like a human, Tsune," the old rogue surgeon had growled, his scarred fingers digging into the stitched ankle until I hissed through my teeth. "Humans land on their heels like sacks of wet flour. Your legs are stronger than that. Land on your toes. Let the muscle take the shock, and the desert will never catch you."
 
 He was right. 
 
@@ -109,7 +109,7 @@ I don’t give him the chance.
 
 I explode from the shadow of the pylon. 
 
-My leg springs unload with sixty pounds of elastic force, driving me straight up into the air. I plant my right boot against the vertical face of the shattered parabolic mirror, rebound off the cracked glass with an acrobatic pivot, and drop directly onto his pressurized shoulder housing.
+I jump. I plant my right boot against the vertical face of the shattered parabolic mirror, rebound off the cracked glass with an acrobatic pivot, and drop directly onto his pressurized shoulder housing.
 
 My weight drives his already compromised balance into the sand. 
 
@@ -165,7 +165,7 @@ As I clear his shoulder, my left arm whips around his blind side.
 
 The curved, razor-honed beak of my Spire hook catches the articulated hydraulic line behind his knee.
 
-I rip backward with all the coiled torque of my Dromaeon fast-twitch muscle. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
+I rip backward. The hardened blade shears through the reinforced steel-braided fluid hose like butter. Red hydraulic fluid geysers across the sand with a violent hiss under two thousand pounds of pressure. The scout’s left leg collapses beneath him, the mechanical limb dead and limp. He screams as he topples down the face of the dune, his heavy rifle flying from his grip and burying itself in the sand.
 
 I land lightly on the crest of the ridge, my boots digging into the loose earth, absorbing the impact without a wobble. 
 
@@ -191,7 +191,7 @@ The loose sand around my boots doesn't drift. It flattens.
 
 The temperature in the trench, already a brutal hundred degrees, spikes suddenly, violently. A wave of dry, searing heat rolls over my bare shoulders and neck—106 degrees of biological furnace fire, smelling of bitter sandalwood, scorched feathers, and superheated titanium.
 
-My horizontal pupils contract into needle points.
+My vertical pupils contract into needle points.
 
 I slowly raise my amber goggles.
 

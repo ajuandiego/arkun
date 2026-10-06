@@ -43,7 +43,7 @@ Before I can recover my guard, his wing sweeps outward with a terrifying hydraul
 
 I hit the concrete on my hands and knees, sliding through a drift of acid-bleached sand and shattered porcelain insulators. 
 
-My amber welder goggles are knocked askew, dangling uselessly by their leather strap against my jaw. I rip them off with my left hand and fling them into the darkness, letting my horizontal slit pupils expand to drink in the gloom of the ruined substation.
+My amber welder goggles are knocked askew, dangling uselessly by their leather strap against my jaw. I rip them off with my left hand and fling them into the darkness, letting my vertical slit pupils expand to drink in the gloom of the ruined substation.
 
 Memory flashes unbidden in the dark—an old anatomical sketch my father had unrolled across our workshop table in the Lower Sumps when I was twelve. Yellowed vellum covered in dense medical Latin and schematics of the human spinal column fused with raptor genetics.
 
@@ -89,7 +89,7 @@ The metal crashes around him in a heap of scrap, blocking his path for two preci
 
 In that window, I spring. 
 
-I leap onto the fallen transformer casing, vaulting into the air with thirty pounds of elastic torque. My hand catches a low-hanging steel conduit pipe running along the ceiling. I swing forward, tucking my knees to my chest, and launch myself horizontally off the pipe, aiming a two-footed dropkick straight at his armored chest.
+I leap onto the fallen transformer casing and vault for the pipe. My hand catches a low-hanging steel conduit pipe running along the ceiling. I swing forward, tucking my knees to my chest, and launch myself horizontally off the pipe, aiming a two-footed dropkick straight at his armored chest.
 
 He steps through the dust, lowering his shoulder. 
 
@@ -121,7 +121,7 @@ He closes the distance in a single, thunderous stride, his right hand shooting f
 
 I don't try to brace against his mass. You don't fight a falling mountain.
 
-I drop flat, catching the kinetic rush of his charge, and let my core compress like a loaded catapult. With a sharp, elastic snap, I slide between his wide-planted boots with Dromaeon burst velocity, the cold dust scraping through my combat trousers, and whip my left arm upward in a vicious, sweeping arc.
+I drop flat under his charge and slide between his wide-planted boots. The cold dust scrapes through my combat trousers, and I whip my left arm upward in a vicious, sweeping arc.
 
 The curved beak of the Spire hook sweeps toward his unarmored inner thigh, aiming to sever his femoral artery.
 
@@ -193,7 +193,7 @@ I remember my father's words: *Strike their bridle.*
 
 I stop fighting the grip on my wrists. 
 
-With all the remaining elastic torque in my core, I arch my back, driving my chest upward against his torso. 
+I arch my back and drive my chest up against his torso. 
 
 The sudden shift in leverage forces his center of balance forward an inch. 
 

@@ -40,7 +40,7 @@ Tsunari lets out a long, slow sigh.
 
 "Not a bad thing to have in a sub-zero desert," she murmurs. 
 
-She turns her head slightly, her amber eyes meeting mine over her shoulder. Her horizontal slit pupils are dilated wide, softened with warmth. 
+She turns her head slightly, her amber eyes meeting mine over her shoulder. Her vertical slit pupils are dilated wide, softened with warmth. 
 
 "Thank you, Vram."
 
@@ -100,7 +100,7 @@ The sensation is sheer, blinding madness. Her mouth is cool, soft, slick with sa
 
 "Tsune... gods..." A ragged, guttural groan tears from my throat. My wings shudder, snapping half-open, the crimson feathers trembling against the stone. 
 
-She looks up at me through dark lashes, her amber horizontal slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
+She looks up at me through dark lashes, her amber vertical slit pupils glowing with primal mischief and absolute devotion. She takes more of me, her throat relaxing, taking my entire thickness until the tip of my cock taps the back of her throat, her lips sealing tight around my base. 
 
 She bobs her head in a steady, devastating cadence, her small hand pumping the shaft where her mouth can't reach, milking every drop of pre-cum onto her tongue. The friction of her cool throat against my scorching iron pushes me to the razor edge of oblivion.
 

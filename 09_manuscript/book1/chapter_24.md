@@ -1,6 +1,6 @@
 # Chapter 24 // Tsunari
 
-> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, sub-vocal acoustic echolocation, translucent protective eye membranes, and cold-blood thermal dampening.
+> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by stronger legs, sub-vocal acoustic echolocation, clear eye membranes, and cold-blood thermal dampening.
 
 ***
 
@@ -8,7 +8,7 @@ The wild Dromaeon does not roar.
 
 It crouches. 
 
-Its elongated, bird-like skull dips low against the frozen sand, its golden night-shine eyes narrowing as its horizontal slit pupils lock onto mine. Across the fifteen feet of starlit salt pan between us, its nostrils flare, sampling the air, tasting the scent of bitter citrus solvent, old vulcanized rubber tape, and untainted human blood.
+Its elongated, bird-like skull dips low against the frozen sand, its golden night-shine eyes narrowing as its vertical slit pupils lock onto mine. Across the fifteen feet of starlit salt pan between us, its nostrils flare, sampling the air, tasting the scent of bitter citrus solvent, old vulcanized rubber tape, and untainted human blood.
 
 Then it hears my click.
 
@@ -44,7 +44,7 @@ It does not charge like a beast; it accelerates with the blinding, explosive vel
 
 I don't retreat. 
 
-I drop into a low, predatory counter-stance, coiling forty pounds of elastic torque into my quadriceps.
+I drop into a low, predatory counter-stance. My legs load under me.
 
 *Quantic Phase-Stutter.*
 

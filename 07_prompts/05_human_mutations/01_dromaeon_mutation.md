@@ -16,21 +16,21 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 
 1. THE RESTING STATE (Passive / Civilian Mode):
 - The female and male figures stand in calm, upright Vitruvian postures inside fine drafting proportion squares.
-- Their builds are lean, wiry, and athletic with hyper-elastic tendon lines along their calves and shoulders.
+- Their builds are lean, wiry, and athletic, with stronger leg muscle along the calves and shoulders.
 - In resting mode, their mutations are sleek and subtle: smooth skin with microscopic, almost invisible pebbled scale texture along the forearms; smooth obsidian-tinted scutes lying flush along the shins.
 - Their bare feet appear human-proportioned, lean and athletic with high arches and hyper-dense plantar fascia built for high-speed sprinting.
 - Their eyes are calm, with delicate amber-chartreuse watercolor irises and relaxed pupils.
 
 2. THE ENHANCED STATE (Fight-or-Flight / Awakened Combat Mode):
 - The female and male figures are depicted in dynamic, explosive, low-crouching predator combat stances.
-- THE STALKER ARSENAL: The figures wield paired curved blackened-steel Spire hooks in tight reverse grips, their sickle-curved blades extending like lethal talons from their fists; spring-loaded tendon tension lines drawn in red chalk highlight the 50+ mph burst velocity in their thighs.
-- THE OCULAR SHIFT: Their pupils have snapped into razor-sharp horizontal predator slits; a translucent protective second eyelid is shown half-closed across the eye to shield against blinding debris.
+- THE STALKER ARSENAL: The figures wield paired curved blackened-steel Spire hooks in tight reverse grips, their sickle-curved blades extending like lethal talons from their fists; stronger thigh muscle is drawn in red chalk to mark the 50+ mph burst.
+- THE OCULAR SHIFT: Their pupils have snapped into razor-sharp vertical predator slits; a clear eye membrane is shown half-closed across the eye to shield against blinding debris.
 - DERMAL REPTILIAN ARMOR: The fine pebbled scales across their forearms and calves darken and tighten; the obsidian keratin scutes along the shins, ankles, and nape raise slightly into interlocking protective armor plates.
 - ACOUSTIC SYRINX: Detailed throat cross-section callout showing acoustic resonance chambers vibrating with rapid, high-frequency hunting clicks.
 
 Surrounding technical callouts:
 - Inset A: Hook and bodkin weapon schematics contrasting their vertical climbing utility against their close-quarters armor-piercing strike angles.
-- Inset B: Eye anatomical study showing the horizontal slit dilation and nictitating membrane.
+- Inset B: Eye anatomical study showing the vertical slit dilation and a clear eye membrane.
 - Inset C: Caliper ratio brackets measuring explosive vertical leaping torque and 50+ mph sprint velocity.
 
 Drawn with precise graphite pencil, iron-gall sepia ink cross-hatching, and subtle translucent watercolor washes of desert olive, pale amber, and slate ocher. Framed by manual drafting compass circles, balance plumb-lines, and dense Latin medical cursive marginalia ('Homo Dromaeos — Status Dormiens et Status Bellator'). Aged parchment with light water stains and worn deckled edges. Masterful Renaissance medical manuscript.

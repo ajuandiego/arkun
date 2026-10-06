@@ -22,7 +22,7 @@ I can smell my own blood. A thin, dark trickle drips from my left nostril, spatt
 
 Six paces away, sitting on the edge of the narrow military cot, Tsunari watches me.
 
-Her chained wrists rest quietly on her knees. Her dark raven hair is still pinned by that slender steel bodkin knife. Her amber-chartreuse eyes, with their predatory horizontal slit pupils, follow every ragged breath that tears through my chest. 
+Her chained wrists rest quietly on her knees. Her dark raven hair is still pinned by that slender steel bodkin knife. Her amber-chartreuse eyes, with their predatory vertical slit pupils, follow every ragged breath that tears through my chest. 
 
 She isn't mocking me now. She isn't taunting. 
 
@@ -79,7 +79,7 @@ Tsunari doesn't move immediately. Her amber eyes trace the trembling line of my 
 
 "Because if I die," I rasp, my molten eyes locking onto hers, "this blast door is sealed with a biometric dead-bolt slaved to my pulse. If my heart stops, the emergency interlocks trigger. You will starve in this concrete tomb long before you ever find your sister."
 
-Her horizontal pupils contract into razor-thin points.
+Her vertical pupils contract into razor-thin points.
 
 "You know about Sora," she whispers, a deadly edge hardening her tone.
 
@@ -212,7 +212,7 @@ I turn my head and look at Tsunari.
 
 She has stood up from the cot. 
 
-She stands straight, her chained hands resting over the pocket where the stolen Lazarus wafer sits against her heart. She isn't pleading. She isn't crying. Her horizontal slit pupils are locked onto mine, fierce, unyielding, and utterly fearless.
+She stands straight, her chained hands resting over the pocket where the stolen Lazarus wafer sits against her heart. She isn't pleading. She isn't crying. Her vertical slit pupils are locked onto mine, fierce, unyielding, and utterly fearless.
 
 She is ready to fight me to the death. Right here. In this thirty-foot room.
 

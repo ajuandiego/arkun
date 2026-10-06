@@ -52,7 +52,7 @@ My hip presses against hers. The contact is effortless, natural, as if the space
 
 She doesn't pull away. 
 
-She turns her head, her amber horizontal slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
+She turns her head, her amber vertical slit pupils softening as she looks at the silver scars along my jaw, then down at my hands resting on my knees.
 
 "You look like you've been through a meat grinder, Commander," she says softly, though there is no mockery in her voice—only an ocean of quiet, unvarnished warmth.
 

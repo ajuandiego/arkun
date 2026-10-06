@@ -9,7 +9,7 @@ The ventilation shaft of Redoubt 14 is two feet wide, caked with thirty years of
 
 To a baseline human, squeezing between these narrow zinc ribs would be a claustrophobic nightmare. To my Dromaeon physiology, the crawlspace is an artery. 
 
-My clavicles fold inward with elastic, cartilage compliance; my hips narrow as I shift onto my stomach, gliding through the gloom like an eel through marsh grass. Behind me, three feet down the horizontal shaft, the heavy cast-iron intake grate clicks shut with a muffled, mechanical latch.
+My shoulders fold in and my hips narrow as I shift onto my stomach, gliding through the gloom like an eel through marsh grass. Behind me, three feet down the horizontal shaft, the heavy cast-iron intake grate clicks shut with a muffled, mechanical latch.
 
 Vram’s voice filters through the iron slats, barely louder than the hum of the air scrubber:
 
@@ -74,7 +74,7 @@ My breath catches in my throat.
 
 *Culture Lab 4.*
 
-I lean closer, my horizontal slit pupils contracting to sharpen the micro-script scrolling across the phosphor screen. 
+I lean closer, my vertical slit pupils contracting to sharpen the micro-script scrolling across the phosphor screen. 
 
 The transmission isn't an automated system diagnostic. It is an internal medical memorandum—an urgent biometric anomaly report generated barely three hours ago, flagged with the highest level of administrative priority.
 
