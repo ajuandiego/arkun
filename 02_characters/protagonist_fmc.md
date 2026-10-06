@@ -52,7 +52,7 @@ Nine years in the Ring. She is not a lone scavenger and she does not keep a gang
 
 ## 5. Skills, Abilities & Quirks
 *   **Neural & Genetic Decryption:** A prodigy at reverse-engineering hybrid alien-terrestrial bioware and DNA encryption.
-*   **Asymmetric Close-Quarters Combat:** Master of her signature Hook and Bodkin style. The blade stays seated and pairs with the curved Spire hooks. She also carries poisoned flechettes. Unseating the blade is for a terminal, not for a grapple.
+*   **Asymmetric Close-Quarters Combat:** Master of her signature Hook and Bodkin style. The blade and the pointed pommel stay seated, and the knife pairs with the curved Spire hooks. She also carries poisoned flechettes. Taking the Bodkin apart is for a terminal, not for a grapple.
 *   **Habitual Quirks:**
     *   Emits faint, rapid sub-vocal throat clicks when concentrating or calculating odds.
     *   Tilts her head sideways with focused, predatory intensity when analyzing a person's micro-expressions.

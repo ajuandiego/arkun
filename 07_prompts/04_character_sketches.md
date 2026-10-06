@@ -12,7 +12,7 @@
 Keep this exact character sheet. Same woman, same face, same hair, same tunic, same leggings, same harness, same shoulder patterns, same eyes, same poses, same background. Change only these three things:
 
 1. Boots: replace the sneakers with black lace-up military combat boots, above the ankle, on every figure.
-2. Bodkin: replace the spike in her bun with her bodkin. A five-inch blade of surgical carbon steel on a slim grip, worn horizontally through the braided bun so it holds the hair. Grip and pommel on one side, seated blade and point on the other.
+2. Bodkin: replace the spike in her bun with her bodkin. Seated, it is one dark piece worn horizontally through the braided bun: a five-inch blade on one side, a slim grip, and a faceted pointed pommel on the other. The tech stays hidden.
 3. Hooks: in each full-body view she holds one curved Spire hook in one hand. The matching hook is clipped in a sheath at her other hip.
 ```
 

@@ -259,7 +259,7 @@ The baseline 95% survive through extreme ingenuity, salvaging and adapting obsol
 *   **Storm Filters & Expedition Breathers:** Hand-packed cartridges of crushed zeolite, activated charcoal, and alkaline sponge, for a glass wind, a night pool, a spore lane, or a barrens crossing. They are not what a Ring street requires at noon. Guild shelters and stills are the machines that actually run the city.
 *   **Atmospheric Condensation Stills:** Copper refrigeration coils scavenged from old air conditioning units, deployed at dawn to extract drinking water from atmospheric temperature drops.
 *   **Salvaged Micro-Grids:** Repaired pre-collapse solar panels, small rooftop wind turbines, and jury-rigged lithium-iron battery banks powering underground bunkers.
-*   **The "Sneakernet" (Physical Data Runners):** Because all radio and digital broadcasts are monitored by Spire sensor grids, the resistance relies on couriers (like Ren) carrying encrypted optical drives by hand. A service tang seated in a courier port copies onto a carried optical slate through a short lead. The tool does not broadcast. The Bodkin is that tool.
+*   **The "Sneakernet" (Physical Data Runners):** Because all radio and digital broadcasts are monitored by Spire sensor grids, the resistance relies on couriers (like Ren) carrying encrypted optical drives by hand. The Bodkin's blade-end contacts seat in a courier port. The pommel-end contacts take a short lead to a carried optical slate. The tool does not broadcast.
 *   **Sub-Tropospheric Shortwave Radio:** Low-frequency analog radios bounced off heavy sulfur cloud layers to communicate between distant Gray Sectors without triggering orbital electronic sweeps.
 
 ### 9.3 Completely Lost Technologies (The Fallen 21st Century)
