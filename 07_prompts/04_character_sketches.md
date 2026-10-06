@@ -9,24 +9,42 @@
 
 ### Prompt
 ```text
-A masterwork Renaissance sketchbook character study and anatomical field plate in the style of Leonardo da Vinci's figure drawings, depicting Dr. Tsunari Thorne on aged, tea-stained vellum parchment.
+Full-body character model sheet in modern western comic book art style, bold ink lineart, crosshatching and halftone dot shading, crisp dynamic colors.
 
-CRITICAL SUBJECT & ANATOMY: Tsunari is a strikingly beautiful 26-year-old woman with noticeable East-Asian heritage in her eyes and facial bone structure; she has completely normal rounded human ears (ABSOLUTELY NO pointy elf ears); bare ungloved hands with natural, regular human fingernails (NO gloves, NO claws on fingers); normal dark leather tactical boots with NO claws or talons on feet; she wears a fitted, high-collared strictly sleeveless tactical combat top of weathered slate-drab (a stiff upright high collar fully enclosing her throat to conceal her neck, but strictly sleeveless leaving her toned athletic shoulders and arms completely bare; NO sleeves, NO jacket, NO coat); her long dark raven hair is held up in a high braided warrior bun pinned with a small, sharp concealed bodkin knife (used for lock-picking and defense); on her upper arms is a subtle, smooth reptilian scale pattern that looks like an intricate dark geometric texture rather than rough lizard skin.
+Character Design & Body Proportions:
+An athletic young adult woman in her early 20s with distinct East Asian facial features, strong jawline, and determined expression. Human realistic proportions, distinctly athletic, agile, and powerful without looking like an exaggerated bodybuilder: moderate athletic shoulders, defined natural waist, relatively wide hips, well-developed glutes, and notably thick, powerful muscular thighs and calves. Torso is compact and natural.
 
-The page features two complementary studies of Tsunari:
-1. A full-body Vitruvian-style athletic study showing her lean, graceful, and explosive predatory build in a dynamic crouching stalker stance. She is dressed for the sweltering heat in a fitted, high-collared strictly sleeveless tactical combat top (stiff upright collar masking her neck, completely bare athletic shoulders and toned arms) tucked into dark, tailored combat trousers with reinforced knee pads, and calf-high split-sole dark leather tactical boots (normal boots, completely free of claws or talons). Across her torso she wears a sleek, non-invasive leather chest band harness with slim diagnostic vial loops and small utility pouches. Her twin curved blackened-steel Spire hooks are holstered in low-profile quick-draw sheaths at her hips. Her bare arms are smooth and toned, showing the subtle, dark reptilian scale texture on her upper shoulders and biceps. Her hands are completely bare with regular human nails.
-2. A breathtaking close-up profile portrait highlighting her elegant, captivating beauty: high cheekbones, sculpted jawline, and alluring almond-shaped eyes with East-Asian epicanthic folds, possessing sharp, predatory amber-chartreuse irises with subtle slit pupils. Normal, natural rounded human ears. The high, tailored collar of her sleeveless tunic rises snugly along her neck. Her long dark hair is swept up into a high, disciplined braided warrior bun with loose, gentle tendrils framing her temples. Thrust horizontally through her hair bun is a slender, sharp 5-inch steel bodkin knife with a tapered hilt, serving as both hair pin, rapid-defense dagger, and lock-picker.
+Facial Details & Eyes:
+Subtly reptilian yet natural eyes: warm amber irises with sharp, vertical slit pupils (reptile/cat-like pupils) set within an anatomically believable human eye structure.
 
-Surrounding technical drafting callouts:
-- A detailed inset sketch of the small hair-bun knife, showing its reinforced tip for picking electronic locks and razor-sharp edge.
-- An inset diagram of her twin curved Spire hooks and minimalist chest harness.
-- Manual drafting guidelines: compass circles measuring stride angles, plumb-lines through her center of gravity, caliper ratio brackets, and elegant Renaissance cursive annotations in sepia ink ('Subject: Dr. Tsunari Thorne — Dromaeon Null-Genotype — Resting Anatomy').
+Hairstyle:
+Long, sleek black hair styled in a high top bun with an intricate braid woven around it, soft loose bangs framing her face. Elegantly tucked through the bun is a small, minimalist steel dagger used strictly as a hair accessory and hairpin.
 
-Drawn with fine graphite pencil shading and iron-gall sepia ink cross-hatching on antique parchment with soft foxing, tea stains, and deckled edges. Romantic, elegant, lethal, historically authentic Da Vinci codex aesthetic with zero modern 3D CGI gloss.
+Outfit:
+
+A sleeveless, tailored high-collar dark athletic tunic made of durable tactical matte fabric. The stiff mandarin-style collar stands completely upright, extending up to her chin and completely concealing the back of her neck and nape.
+
+The front torso of the tunic features horizontal tactical straps/fasteners across the sternum.
+
+The lower skirt/tails of the tunic are split at the sides and front, cut relatively short and narrow so her legs and hips remain fully visible.
+
+Underneath, she wears matching tight dark athletic compression leggings that accentuate the muscular definition of her legs.
+
+Low-profile black cross-training sneakers and fingerless tactical gloves with wrist wraps.
+
+Skin Patterns:
+Discreet, elegant reptilian scale tattoo-like patterns etched smoothly across both shoulders and upper deltoids, appearing flat and organic against the skin like permanent body art, not 3D biological scales.
+
+Equipment:
+In each hand, she holds a compact, tactical climbing hook inspired by modern ice-climbing tools, crafted from dark gunmetal and carbon fiber. The curved pick subtly echoes the sleek silhouette of a velociraptor claw while maintaining the look of an engineered, ergonomic human tool.
+
+Composition & Layout:
+Multiple full-figure perspective angles in a clean concept art sheet: primary three-quarter front standing view showing head to toe, alongside smaller inset angles showing side profile, back view, and a close-up on the amber slit-pupil eyes. Neutral industrial gym background with climbing elements. Completely clean presentation, no text, no captions, no typography, no labels, no title cards, no letters.
 ```
 
-*   **Aspect Ratio:** `16:9` (Wide landscape codex plate) or `3:4` / `2:3` (Portrait)
-*   **Recommended Negatives:** `pointy ears, elf ears, pointed ears, elven, fantasy elf, claws, sickle-claw, curved beast claws, talons, monster feet, claw feet, bird feet, gloves, fingerless gloves, gauntlets, claws on fingers, beast nails, monster hands, jacket, coat, duster, trench coat, heavy armor, ugly, harsh face, scowling, masculine jaw, wrinkled, rough lizard skin, scaly hide, bumpy lesions, feathers, wings, modern anime, digital 3D CGI video game render, airbrushed plastic`
+*   **Aspect Ratio:** `16:9` (Wide landscape model sheet)
+*   **Output:** `08_media/tsunari_2.jpg`
+*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, 3D biological scales, rough lizard skin, bodybuilder, exaggerated muscles, elf ears, pointy ears, feathers, wings, anime, photorealistic, blurry`
 
 
 ---
