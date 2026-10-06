@@ -1,0 +1,65 @@
+---
+description: >-
+  Redundancy and plain-language pass for an Arkun Cycle editorial review. Use
+  with the editorial review rule when judging repeated intensifiers, stock
+  descriptions, and lab words used for simple things.
+alwaysApply: false
+---
+
+# Redundancy
+
+Category: Redundancy. Shared method lives in `.cursor/rules/editorial-review.mdc`.
+
+Eight full reviews missed this because an echo was filed as a nit, and the apply step skips nits. A repeated word across the book is one finding. It is not a nit.
+
+## Count before you judge
+
+Search the manuscript. Do not sample. A full review that skips the count has not finished this category.
+
+Known intensifiers: kinetic, transgenic, pneumatic, sheer. Search these every time. Also search any other word that is doing the same job (a label pasted on muscle, metal, or motion).
+
+Known stock descriptions: sleeveless, fourteen-foot, 14-foot, six feet four, 6'4", six-foot-four. Search these every time. Also search any height, wingspan, costume line, or signature sentence that returns without a new fact.
+
+Record, per word or phrase: the count, the number of chapters, and two or three of the worst lines.
+
+## What counts
+
+- An intensifier in more than 8 chapters, or more than 15 times in the book, is one Major finding.
+- A stock description in more than 6 chapters, with no new physical fact, is one Major finding.
+- The same intensifier three times in one chapter, and nowhere else, is one Minor finding.
+- One finding per pattern. Do not write a finding per sentence.
+
+A glossary name is not redundancy. The Choke, the lee, the leash, the siphon, and the strain names stay. Replacing a glossary name with a fresh synonym is its own finding.
+
+A measure stays when it does work. Fourteen feet when the room cannot hold the wings. Sleeveless when the nape wrap is the point of the scene. Six foot four when someone is using his size. The next sentence does not owe the number again.
+
+## Direction
+
+The fix is a cut. Delete the word where the noun already carries the meaning. Do not trade kinetic for explosive, dynamic, or any other intensifier. Pneumatic stays only when a machine is actually driven by air. Sheer almost never stays.
+
+Quote the count and the worst lines. Name no canon file unless a glossary name was wrongly replaced. Say which repeats to cut and which single uses to keep.
+
+## Plain words
+
+A test reader does not have the bible. If the sentence still means the same thing after a plain word, the lab word is a finding. This is the same category. It is not a nit.
+
+Search every time for: kinetic, transgenic, pneumatic, synaptic, bio-electric, neuro-, cyber-, quantic, epigenetic. Also flag any other lab word pasted on a body, a door, a hit, or a feeling.
+
+- Muscle, not transgenic muscle. A strike, not a kinetic strike. A hatch, not a pneumatic hatch, unless the machine is actually driven by air and the air matters.
+- The glossary names stay, and only for the thing they name: the Choke, the lee, the leash, the siphon, the strain names. Do not stack two of them in a sentence that is trying to say something simple.
+- The first time a glossary name appears in a scene, the reader should already feel the object. Cold metal at the nape, then the siphon. Not the term alone.
+- One Major finding for the book's habit of lab words, with the worst lines. Do not write a finding per word unless that word is also a repetition pattern above.
+
+The fix is the plain word. Do not invent a new technical term to replace the old one.
+
+## Negation, then the real sentence
+
+A sentence that only denies a wrong idea, followed by the sentence that says what the thing is, is a tic. Search every time for `It is not`, `This is not`, `It was not`, `is not a`, and `not merely`.
+
+The book already does it as a habit: "The Grand Cistern is not a sanctuary. It is an industrial slaughterhouse." "The thought is not military. It is not disciplined. It is primal." "It is not a gentle easing. It is an amputation." More than eight of these pairs in the book is one Major finding. Quote three. Do not write a finding per pair.
+
+Keep the second sentence. Cut the denial. "The Grand Cistern is an industrial slaughterhouse turned into a temple." "The thought is primal, selfish, and desperate."
+
+A negation stays when it is the information. "She does not answer" is an action. "It is not a prayer" can stand if the next line does not announce what it really is. The tic is the pair: refuse a label, then deliver the label.
+
+Do not replace the pair with a longer contrast. Say the thing.

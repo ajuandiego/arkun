@@ -2,12 +2,15 @@
 
 ## 1. Narrative Voice & Atmospheric Philosophy
 
-The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral, gritty biopunk** and **intensely emotional, sensory-driven romance**. It avoids antiseptic, clinical sci-fi prose in favor of tactile, kinetic descriptions where emotions manifest physically in the body.
+The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral, gritty biopunk** and **intensely emotional, sensory-driven romance**. It avoids antiseptic, clinical sci-fi prose. Emotion lands in the body: heat, claw, breath, scent. Do not reach for an intensifier to force that.
 
 ### Core Stylistic Pillars
 1.  **High Sensory Contrast:** The sterile, suffocating perfection of the Green Domes contrasts sharply with the copper, bone-dry grit of the Gray Sectors and the feverish, predatory heat of the Griffin soldiers.
 2.  **Visceral Romance:** Romantic attraction is not polite or demure; it is an electric current, a physical survival imperative, a collision of steel, claws, blood, and racing heartbeats.
-3.  **Kinetic Action:** Combat is rapid, brutal, and intimate. Fights take place inches apart, where breath and blade mingle.
+3.  **Close Action:** Combat is rapid, brutal, and intimate. Fights take place inches apart, where breath and blade mingle. Do not label the motion. Show the strike.
+4.  **Plain Speech:** A reader without the bible should follow the sentence. Use a glossary name for the thing it names, and a plain word for everything else. Muscle, not transgenic muscle. A strike, not a kinetic strike. Feel the object before you name it.
+5.  **The Page Moves:** Description sits inside talk, a thought, a sound, or a change. Two people in a room do not stay mute while the prose tours the body and the gear. A silent stretch has to be a thought or a sound, not a catalog.
+6.  **Say the Thing:** Do not introduce a fact by denying a wrong idea and then announcing the right one. Cut the denial. Keep the sentence that says what it is.
 
 ---
 

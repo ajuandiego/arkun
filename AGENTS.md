@@ -32,6 +32,9 @@ Read `06_style/tone_and_sensory_palette.md` and `06_style/glossary_and_terminolo
   * Once Vram breaks conditioning, his loyalty does not go lukewarm.
   * Put world explanation inside survival or intimacy. Do not pause for a lecture.
   * Speak the glossary names (*the Choke*, *the lee*, *the leash*). Do not coin a synonym for a term that already exists.
+  * Use a plain word when a plain word will do. A lab term for a simple thing is a miss: muscle, not transgenic muscle. A strike, not a kinetic strike.
+  * Keep the page moving. Put description inside talk, a thought, a sound, or a change. Two people in a scene should speak. A quiet stretch is a thought or a sound, not a catalog of the room.
+  * Say the thing. Do not open with a denial and then the real sentence ("It is not X. It is Y."). Cut the denial.
   * **Avoid AI clichés:** No "a testament to," "delve into," "unlocking a world of," or thesaurus melodrama. Keep the sentence punchy and physical.
 
 Five strains stay distinct: Gryphon, Lindwurm, Simurgh, Fenris, Dromaeon. Abilities do not migrate. Arkun is the break of conditioning into a personal ability, not a generic power-up.
@@ -91,5 +94,5 @@ When drafting or editing:
 3. **Incremental drafting.** Draft scene by scene or beat by beat. Do not write an entire chapter in one unrefined block.
 4. **Smallest edit.** When fixing a review or a note, change the smallest span that makes the problem false on a reread. Do not polish the prose around it.
 5. **Spoilers.** Book 1 may aim at later payoffs. It must not complete the aerosol cure, the Spire rescue, Jeffrey Thorne's survival as a finished reveal, or the journey to the Verdant Cradle.
-6. **Reviews.** Writing a review follows `.cursor/rules/editorial-review.mdc` and the category rules beside it (story line, plot, characters, romance, dialogue, continuity, world and sensory, spoilers, chapter transitions). Applying a review follows `.cursor/rules/editorial-apply.mdc`: the ledger names the only manuscript file, and canon conflicts get asked before they are rewritten.
+6. **Reviews.** Writing a review follows `.cursor/rules/editorial-review.mdc` and the category rules beside it (story line, plot, characters, romance, dialogue, continuity, world and sensory, redundancy, spoilers, chapter transitions). Applying a review follows `.cursor/rules/editorial-apply.mdc`: the ledger names the only manuscript file, and canon conflicts get asked before they are rewritten. A book-wide repeated word, or a lab word used for a simple thing, is a Redundancy finding, not a nit.
 7. **Canon updates.** If the user authorizes a bible change, update the matching file under `01_world/` through `06_style/` or `05_plot/` so the manuscript and the canon stay aligned.

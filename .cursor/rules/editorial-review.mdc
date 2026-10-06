@@ -47,6 +47,7 @@ If the user names one aspect, apply only this method plus that rule.
 - `.cursor/rules/editorial-continuity.mdc`
 - `.cursor/rules/editorial-characters.mdc`
 - `.cursor/rules/editorial-world-sensory.mdc`
+- `.cursor/rules/editorial-redundancy.mdc`
 - `.cursor/rules/editorial-romance.mdc`
 - `.cursor/rules/editorial-chapter-transitions.mdc`
 - `.cursor/rules/editorial-dialogue.mdc`
@@ -68,7 +69,7 @@ Severity:
 - Blocker: a later chapter, the ending, or a series promise cannot stand until this changes.
 - Major: a reader tracking character, romance, or world rules will feel the break.
 - Minor: a local fix that does not reshape the book.
-- Nit: diction, echo, or a non-load-bearing glossary slip.
+- Nit: a single diction slip, or a non-load-bearing glossary slip. A repeated intensifier or a stock description across chapters is not a nit. That is Redundancy.
 
 Every finding uses this shape:
 
@@ -97,7 +98,7 @@ number,file,date,manuscript,scope,status,fixes
 - `file`: three-digit name, `001.md`, `002.md`, matching `number`.
 - `date`: the day the review is written, `YYYY-MM-DD`.
 - `manuscript`: repo-relative path of the file reviewed.
-- `scope`: `full` when every aspect rule is applied. When the user names aspects, list those ids joined with `|`: `story-line`, `plot`, `continuity`, `characters`, `world-sensory`, `romance`, `chapter-transitions`, `dialogue`, `spoilers`.
+- `scope`: `full` when every aspect rule is applied. When the user names aspects, list those ids joined with `|`: `story-line`, `plot`, `continuity`, `characters`, `world-sensory`, `redundancy`, `romance`, `chapter-transitions`, `dialogue`, `spoilers`.
 - `status`: `applied` once the review file is written. This means the review exists. It does not mean the manuscript was changed.
 - `fixes`: `open` on a new row. `.cursor/rules/editorial-apply.mdc` moves it to `partial` or `done`.
 

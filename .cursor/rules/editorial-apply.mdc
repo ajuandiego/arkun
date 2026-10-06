@@ -26,10 +26,10 @@ Sort each finding before any edit:
 
 - `apply`: a manuscript error or a broken ending, with a direction that does not require a new canon fact.
 - `ask`: a canon conflict, a canon gap, or a divergence the review said not to revert by default. Do not choose the winner yourself. Ask in the same turn, and apply nothing in that cluster until the user answers.
-- `skip`: a nit, a stretch the review says was not read word for word, or a passage the review names as already working. Skip these unless the user says to include nits or names that finding.
+- `skip`: a nit, a stretch the review says was not read word for word, or a passage the review names as already working. Skip these unless the user says to include nits or names that finding. A Redundancy finding is never a nit. Do not skip it for being about wording.
 - `blocked`: the direction needs a chapter the review did not verify, or two findings give opposite edits to the same sentences. Do not guess. Mark it blocked and leave the prose.
 
-Default batch, unless the user names a smaller set: every `apply` finding rated Blocker or Major. Minors only when they say "apply the minors" or "apply all." Nits only when they say "include nits."
+Default batch, unless the user names a smaller set: every `apply` finding rated Blocker or Major, including Redundancy findings rated Major. Minors only when they say "apply the minors" or "apply all." Nits only when they say "include nits."
 
 If any finding is `ask`, send those questions first and still apply the `apply` findings that do not touch the same scenes.
 

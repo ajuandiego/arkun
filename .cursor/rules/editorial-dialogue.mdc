@@ -1,8 +1,9 @@
 ---
 description: >-
   Dialogue integrity pass for an Arkun Cycle editorial review. Use with the
-  editorial review rule when judging voice, subtext, address, slang, and
-  speeches that leak facts or theme.
+  editorial review rule when judging voice, subtext, address, slang, speeches
+  that leak facts or theme, and stretches of description with no talk, thought,
+  or change.
 alwaysApply: false
 ---
 
@@ -34,3 +35,14 @@ Address is a continuity of power. "Commander" in public, "Vram" when the relatio
 - Dialect is light. Do not invent a second slang system beside the glossary.
 
 Quote the line and name who should have been able to say it. A spoken secret the plot still treats as unknown is also a Spoiler. Put the full note in Spoilers and leave a one-line pointer here.
+
+## The page has to move
+
+Description that only inventories a body, a room, or a weapon stalls the reading. A stretch needs a spoken line, a thought, a sound, or a change in what someone does.
+
+- Two people in a scene who do not speak for more than a few paragraphs, while the prose only describes one of them, is a Major finding. They can be careful. They cannot be mute while the narrator tours the room.
+- A person alone can go quiet. Thought or a sound has to carry it. A catalog of gear with no thought is the same finding.
+- One paragraph that sets a place is fine. Three paragraphs of the same set, with nothing said and nothing changed, is a finding.
+- Do not fix it with a speech that briefs the reader. The line has to be something one of them would actually say, or a thought the point-of-view character would actually have. A sound or a small action counts when talk would be false.
+
+Quote the stretch. Say whether the break should be talk, a thought, or an action. Do not draft the new lines.
