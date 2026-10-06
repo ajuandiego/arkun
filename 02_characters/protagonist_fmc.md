@@ -30,6 +30,9 @@
 ### The Ghost (The Backstory Trauma)
 When Tsunari was 17 (in Year 31 AS), her father, Dr. Jeffrey Thorne—an elite geneticist working on the archeo-genetic excavations who secretly collaborated with the undercity Scribes—discovered that the Consortium planned to cull un-spliced humans. Before corporate purge teams raided their workshop, Dr. Thorne secretly inoculated Tsunari with an uncorrupted, ancient **Mosaic Keystone genome** (active Dromaeon embryo fused with dormant regulatory markers of all five strains). To protect his daughters, Jeffrey drew the corporate strike team into the deep wastes in an amphibious crawler and plunged into the Stygian Ocean (where he survived to reach the Verdant Cradle). Tsunari escaped into Sector 09, guided and monitored by her father’s colleague, "Doc" Mercer (who secretly nurtured her as a prime evolutionary specimen).
 
+### Before Chapter 1
+Nine years in the Ring. She is not a lone scavenger and she does not keep a gang. Mercer is the clinic and the mentor. Ren is the runner she trusts. A few mechanics know Tsune and do not know her throat. She eats at the market and sleeps near the clinic. Wild Dromaeons are animals, not a crew. Scrap-gangs are a hazard on the canals. The Enlightened are worse if they ever see the scales.
+
 ### The Lie She Believes
 > *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
 

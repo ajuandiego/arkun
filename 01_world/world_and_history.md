@@ -248,15 +248,35 @@ The Green Domes are not post-apocalyptic ruins; they are functional, high-densit
     *   *Security in Exchange for Sovereignty:* In exchange for clean air and security, citizens sign binding employment covenants with the Consortium megacorporations (Apex, Vanguard, Aethelgard).
     *   *Biometric Compliance:* Subtle monitoring tracks citizen productivity, health indices, and reproductive permits. As long as a citizen maintains their employment quota and avoids political subversion, they live an undisturbed, predictable life.
     *   *The Elite Stratum (The Top 5%):* Reside in luxurious terraced garden towers, possessing private Chrysalis longevity treatments, imported luxury goods, and diplomatic ties to Vaelen liaisons.
+*   **A life inside:**
+    *   *Childhood:* Academy from the first years. Sport is organized: canal swimming, court games, mag-rail sprints. Children are citizens. The tithe does not reach them.
+    *   *Teenagers:* Tracks split toward a covenant and an apprenticeship. Courting happens in plazas, cafes, and on the late trains. Sex is private and ordinary. A reproductive permit is required before a birth. It is not required before sex.
+    *   *Households:* Two working adults, an apartment, grandparents often in the same tower because ordinary medicine keeps people old. Evenings are plaza music, a league match, or a library spool. Dinner is cultured food, with the occasional tart fruit or egg that came through the gate and costs more than it should.
+    *   *The old:* Lighter quotas, clinics, and time. Sky-Born elders still describe rain. The young treat them as a living archive. Chrysalis youth is the top 5%. A middle-class elder ages in a clean room.
+    *   *Crime:* Theft, assault, stolen cultures, a gray market in cheap longevity for people who will never see a garden tower, bribes on a birth permit. Aethelgard constables handle it. Political assembly is punished harder than burglary. The sentence that matters is expulsion to the Ring, or a debt deep enough to touch a child.
+
+#### The Gate
+The dome can feed itself. It cannot rebuild its own skin. One sovereign sits on both sides of the wall: the Consortium. Two daily lives meet at the gates.
+*   **What the dome buys:** Refined copper, silica, zeolite, salvage chips, and registered shift labor on the outside of the shield (mirrors, conduits, the gate yards). Crews pass in for a shift and go home. The wage is scrip, good for medicine, tools, glass, certified cartridges, and cultured protein. Scrip is not citizenship.
+*   **What the Ring buys:** Medicine, tools, glass, seed culture for the algae tanks, spare parts, and that cultured protein as a luxury on a stall.
+*   **Who may cross:** A registered worker carries a gate pass and a labor number. The Consortium taxes the number. In the worst cases the same roll feeds a tithe list. People without a pass, including Tsunari, live in the Ring anyway. The Directorate does not have a true count of the alleys. The Vault's ledgers are better.
+*   **Why the wall is not stormed every season:** It is a hundred meters of shield, turrets, and a sky held by wings. A registered household has work, a stove, and a meal. Getting through the gate without a pass does not produce a life inside. Biometrics would name an unregistered body within the hour. The people angry enough to try are the unregistered and the families who have already lost a child, and they do not agree with each other.
 
 #### Outside in the Gray Sectors: The Frontier & The Fringe (~30% of Humanity)
 The Gray Sectors are gritty, hazardous, and crowded, but they are living communities, not dead wastelands:
-*   **The Population:** Debt-refugees, undocumented laborers, black-market traders, independent mechanics, and political defectors who either fell through the corporate cracks or refused to sign away their autonomy.
+*   **The Population:** Registered gate workers, debt-refugees, traders, mechanics, growers, and people who refused a covenant. Unregistered does not mean absent. It means no pass.
 *   **The Urban Landscape:** Sprawling across the half-ruined outskirts of pre-collapse metropolises outside the Dome bulkheads, inside the lee. Faces are bare. The air tastes of hot copper and wet rust. During the afternoon silt hour people pull cloth over the mouth and wear goggles. Subterranean sectors (subway malls, converted stations, basements) are bustling, and they are also where a night pool can settle, so sleep happens up, off the lowest floors.
-*   **The Barter Economy:**
-    *   A frontier economy. Scavengers trade salvaged microchips, vehicle parts, and copper wire for distilled water, guild filter cartridges, and bio-pastes. A cartridge is a health good. A household that skips it still wakes up.
-    *   *Bustling Night Markets (The Rust Bazaars):* Open-air street markets after the silt has settled, lit by neon strips and sodium lanterns. Food stalls sizzle with roasted insect skewers and spiced Silt-Mash flatbreads. Folk musicians play modified acoustic instruments. No one is renting the air they stand in.
-*   **Community & Guilds:** Neighborhoods are governed by Madame Chen's guild (stills, storm shelters, and the civilian net), merchant syndicates, and mutual-aid clinics (like Doc Mercer's). Life is rough and physically demanding, but the Dustborn possess fierce pride, community loyalty, and an un-surveilled freedom that Dome citizens envy.
+*   **Work:** Still hands, gardeners, mechanics, conduit runners, cartridge packers, medics, musicians, caravan crews, and the shift crews who service the outside of the shield. Chen's guild is the licensed broker at the gate. Smugglers move whatever the gate taxes too hard.
+*   **The Market:**
+    *   Households trade copper, chips, produce, and labor for distilled water, guild cartridges, medicine, and tools. A cartridge is a health good. A household that skips it still wakes up.
+    *   *The Rust Bazaars:* Open-air markets after the silt has settled, lit by neon strips and sodium lanterns. Stalls sell food. Musicians play. No one is renting the air they stand in.
+*   **Community & Guilds:** Neighborhoods are governed by Madame Chen's guild (stills, storm shelters, the market charter, and a night watch), merchant syndicates, and mutual-aid clinics (like Doc Mercer's). She is the civic order. She is not a head of state. The watch keeps scrap-gangs out of the bazaar. It does not fight the Iron Division. Life is rough and physically demanding, and it is a life people mean to keep.
+*   **A life outside:**
+    *   *Childhood, before eight:* The tithe window. Sweeps take children from orphan wards, from defaulted shelter debts, and from households with no pass. A registered block is not emptied on an ordinary week. Games are alley games: kick-stone, quartz marbles, a race to get under cover when the silt rises.
+    *   *After eight:* The vat window has closed. Teenagers apprentice to a stall, a still, a garden, or a mechanic. Courting starts at the market and moves to a roof once the silt drops, because rooms are shared and privacy is borrowed. Sex is ordinary. There is no birth permit. A partnership can last a season or become the people who share a stove.
+    *   *Households:* Blood, plus whoever cooks. Supper is mash, eggs, greens, and whatever the stall had. Elders run the stall and watch the small children during a shift. Sky-Born elders are the ones who remember rain, and the household keeps them.
+    *   *Sport and evening:* Wrestling, foot races on the wall road, dice, music, a story while the chicory boils. Nobody maintains a grass league.
+    *   *The old:* People reach old age here. The Choke, when it comes, comes late. An elder with a rattle still has a chair at the stove. Families do not put them out because a cartridge was skipped.
 
 ---
 

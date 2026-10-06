@@ -20,13 +20,15 @@
 *   **Mayfly:** Military slang used by augmented flight pilots to describe baseline, un-augmented humans, referencing their fragile, short lifespans.
 *   **Rustborn (The Dustborn):** Anyone born or living outside the atmospheric domes in the ruined sectors.
 *   **Scrubber:** A guild machine: a dawn still, a shelter fan, or the works that fill certified cartridges. Not a meter that decides who breathes until morning.
+*   **Gate Pass:** The labor number that lets a registered Ring worker through the shield for a shift. It is taxed. It is not citizenship. People without one still live in the Ring.
+*   **Iron Division:** The Consortium's baseline gate force. Constables inside the dome, cordons and canal patrols outside. They police citizens and hold the wall. They do not command chimeras.
 
 ---
 
 ## 2. Biopunk & Aeros-Legion Terminology
 
 *   **Transgenic / Gene-Spliced Soldier:** Humans engineered by splicing human embryonic DNA with one or more of the five ancient mutation strains.
-*   **Aeros-Legion 7:** The official military flight division of the Consortium, utilizing Mutation G and Mutation S soldiers for high-altitude biological air superiority.
+*   **Aeros-Legion 7:** The Consortium's flight division at Dome Alpha, under Commander Vram Tyage. Mixed crews, Mutation G and Mutation S, for high-altitude biological air superiority. Women hold commands in the legion. Vram does not command the Iron Division or the ground strains.
 *   **Lattice Burn (Neuro-Decay):** The chronic, excruciating inflammatory breakdown caused by long-term rejection of the Vaelen Synapse Lattice.
 *   **The Siphon:** The twin titanium-rimmed neural ports grafted onto the cervical and thoracic vertebrae of soldiers, feeding high-altitude telemetry and enforcing sensory conditioning.
 *   **The High Aerie:** The cantilevered titanium-and-stone military flight roost suspended from Dome Alpha's northern bulkhead, where Aeros-Legion 7 stages autonomous biological flight operations.

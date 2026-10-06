@@ -278,11 +278,14 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
 *   **"Nectar-Cells" (Engineered Fruits):** Translucent, seedless hybrid fruits (citrus-pomegranate variants) engineered to deliver hyper-concentrated vitamins, electrolytes, and pure water without producing any organic waste or seeds.
 *   **Sensory Atmosphere:** Decadent, overly sweet, perfumed to mask the faint metallic ozone tang of recirculated dome atmosphere.
 
-#### 2. Outside in the Gray Sectors (The Dustborn Survival Diet)
-*   **Silt-Mash (Manna-Algae):** Dense, rubbery green nutrient cakes pressed from sulfur-tolerant *Spirulina-X* cultivated in subterranean condensation tanks. Tastes like salty pond water and copper, but provides the carbohydrates and amino acids needed to endure 14-hour manual labor shifts.
-*   **Ash-Bread & Grub Flour:** Coarse, dry flatbread baked over scrap-metal embers using flour ground from dried subterranean bracket fungi and roasted high-protein chitin-beetles.
-*   **Iron-Chicory (Copper-Tea):** A bitter, dark, steaming infusion brewed from the deep taproots of sulfur-resistant desert scrub. It contains natural chelating agents that bind airborne heavy metals in the bloodstream, helping humans excrete toxic particulates. Drinking it around a communal stove is the primary social ritual of Gray Sector enclaves.
-*   **Distilled Dew:** Water collected drop-by-drop before dawn; measured in thimble-sized sips and never wasted.
+#### 2. Outside in the Gray Sectors (The Lee Market Diet)
+People in the Ring cook. Silt-mash is the cheap staple, the way bread is, not the only thing on the table.
+*   **Silt-Mash (Manna-Algae):** Dense, rubbery green cakes pressed from sulfur-tolerant *Spirulina-X* grown in condensation tanks. Salty, faintly of copper. It fills a workday. A supper is mash plus whatever else the household has.
+*   **Lee Gardens:** Sulfur-tolerant greens, chicory, and a short millet that still sets seed on the streets under the wall, where the air is best. Small tart fruit from those gardens reaches the night stalls. Fungi are a crop, grown in sheds, not a famine scrape.
+*   **Eggs, Fowl, and Cricket Sheds:** Sulfur-fowl and raised crickets are ordinary livestock. Skewers, eggs, and ash-bread made with grub flour are market food. Beetles ground into flour are the cheap end of that trade, not a desperate last meal.
+*   **Iron-Chicory (Copper-Tea):** A bitter infusion from sulfur-resistant scrub. It helps the body shed airborne metal. A pot on the stove is how a household ends the day.
+*   **Water:** Dawn stills fill household jugs. Water is measured. A dry week is serious. It is not a life spent on one thimble.
+*   **Through the gate:** Cultured dome protein and glass-grown fruit show up as luxuries. They cost more than a local meal. They are not what keeps the Ring alive.
 
 #### 3. Chimeric Military Rations (The Hyper-Thermic Furnace Fuel)
 *   **Pyro-Gel (Core-Paste / "The Nectar"):** Because chimeric soldiers run an internal body temperature of 104°F and burn **8,000 to 10,000 calories a day** in active combat, standard human food is useless mass. They consume pressurized aluminum tubes of concentrated glucose-lipid emulsion enriched with synthetic electrolytes and synthetic hemoglobin analogues.
