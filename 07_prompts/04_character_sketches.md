@@ -9,42 +9,17 @@
 
 ### Prompt
 ```text
-Full-body character model sheet in modern western comic book art style, bold ink lineart, crosshatching and halftone dot shading, crisp dynamic colors.
+Keep this exact character sheet. Same woman, same face, same hair, same tunic, same leggings, same harness, same shoulder patterns, same eyes, same poses, same background. Change only these three things:
 
-Character Design & Body Proportions:
-An athletic young adult woman in her early 20s with distinct East Asian facial features, strong jawline, and determined expression. Human realistic proportions, distinctly athletic, agile, and powerful without looking like an exaggerated bodybuilder: moderate athletic shoulders, defined natural waist, relatively wide hips, well-developed glutes, and notably thick, powerful muscular thighs and calves. Torso is compact and natural.
-
-Facial Details & Eyes:
-Subtly reptilian yet natural eyes: warm amber irises with sharp, vertical slit pupils (reptile/cat-like pupils) set within an anatomically believable human eye structure.
-
-Hairstyle:
-Long, sleek black hair styled in a high top bun with an intricate braid woven around it, soft loose bangs framing her face. Elegantly tucked through the bun is a small, minimalist steel dagger used strictly as a hair accessory and hairpin.
-
-Outfit:
-
-A sleeveless, tailored high-collar dark athletic tunic made of durable tactical matte fabric. The stiff mandarin-style collar stands completely upright, extending up to her chin and completely concealing the back of her neck and nape.
-
-The front torso of the tunic features horizontal tactical straps/fasteners across the sternum.
-
-The lower skirt/tails of the tunic are split at the sides and front, cut relatively short and narrow so her legs and hips remain fully visible.
-
-Underneath, she wears matching tight dark athletic compression leggings that accentuate the muscular definition of her legs.
-
-Low-profile black cross-training sneakers and fingerless tactical gloves with wrist wraps.
-
-Skin Patterns:
-Discreet, elegant reptilian scale tattoo-like patterns etched smoothly across both shoulders and upper deltoids, appearing flat and organic against the skin like permanent body art, not 3D biological scales.
-
-Equipment:
-In each hand, she holds a compact, tactical climbing hook inspired by modern ice-climbing tools, crafted from dark gunmetal and carbon fiber. The curved pick subtly echoes the sleek silhouette of a velociraptor claw while maintaining the look of an engineered, ergonomic human tool.
-
-Composition & Layout:
-Multiple full-figure perspective angles in a clean concept art sheet: primary three-quarter front standing view showing head to toe, alongside smaller inset angles showing side profile, back view, and a close-up on the amber slit-pupil eyes. Neutral industrial gym background with climbing elements. Completely clean presentation, no text, no captions, no typography, no labels, no title cards, no letters.
+1. Boots: replace the sneakers with black lace-up military combat boots, above the ankle, on every figure.
+2. Bodkin: replace the spike in her bun with her bodkin. A five-inch blade of surgical carbon steel on a slim grip, worn horizontally through the braided bun so it holds the hair. Grip and pommel on one side, seated blade and point on the other.
+3. Hooks: in each full-body view she holds one curved Spire hook in one hand. The matching hook is clipped in a sheath at her other hip.
 ```
 
 *   **Aspect Ratio:** `16:9` (Wide landscape model sheet)
-*   **Output:** `08_media/tsunari_2.jpg`
-*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, 3D biological scales, rough lizard skin, bodybuilder, exaggerated muscles, elf ears, pointy ears, feathers, wings, anime, photorealistic, blurry`
+*   **Reference:** `08_media/tsunari_3.jpg`
+*   **Output:** `08_media/tsunari_4.jpg`
+*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, round pupils, human round pupils, sneakers, trainers, running shoes, athletic shoes, tennis shoes, low-top shoes, 3D biological scales, monster feet, claws on feet, rough lizard skin, bodybuilder, exaggerated muscles, elf ears, pointy ears, feathers, wings, anime, photorealistic, blurry`
 
 
 ---
@@ -53,25 +28,33 @@ Multiple full-figure perspective angles in a clean concept art sheet: primary th
 
 ### Prompt
 ```text
-A masterwork Renaissance romantic portrait and character study on aged, tea-stained vellum parchment, depicting Commander Vram Tyage, a dangerously handsome and youthful 28-year-old male flight commander in his absolute physical prime.
+Full-body character model sheet in modern western comic book art style, bold ink lineart, crosshatching and halftone dot shading, crisp dynamic colors.
 
-CRITICAL SUBJECT & ANATOMY: Vram is a strikingly attractive, youthful 28-year-old man with smooth, unlined skin, sharp sculpted cheekbones, and energetic vitality; he has thick dark raven hair tied up into a disciplined, masculine warrior man-bun (topknot) at the crown of his head with tapered sides and loose masculine strands framing his temples; he wears a crisply groomed, short-to-medium thick dark beard stylishly sculpted along his jawline (crisp, neat, NOT bushy, NOT scruffy); defined masculine eyebrows over intense molten-gold eyes glowing with a soft predatory ember; he wears a fitted sleeveless dark military flight uniform (ABSOLUTELY NO jacket, NO coat); his exposed athletic shoulders, neck, and arms are sculpted and smooth, with sleek iridescent obsidian-and-copper feather shafts lying flat along his collarbones and nape; rising between his shoulder blades are his colossal feathered wings (14-foot wingspan) folded tightly and majestically against his back, contouring along his spine down past his calves with razor-edged obsidian and copper-gold quills framing his silhouette; he looks genuinely 28 years old—youthful, athletic, and devastatingly handsome, with NO wrinkles, NO age lines, and NO gray hair.
+Character Design & Body Proportions:
+Commander Vram Tyage, a 28-year-old soldier in his physical prime. A light facial resemblance to Maxi Iglesias, but harder: a stern, commanding expression, not gentle. Handsome Mediterranean features, strong brow, straight nose, sharp cheekbones, smooth unlined skin. Towering, about 6'4", heavily built: thick neck, broad chest, dense arms and shoulders, a soldier's muscle, powerful without looking like a cartoon bodybuilder.
 
-The page features two refined graphite and sepia ink studies:
-1. A magnetic close-up portrait of a strikingly handsome 28-year-old man with taut, youthful skin, sculpted aristocratic cheekbones, defined dark brows, and a crisp, stylishly trimmed dark beard along his jawline. His intense gaze features molten-gold incandescent eyes glowing with a soft, predatory ember, tinted with a delicate watercolor wash of gold. His thick dark hair is pulled back into an elegant warrior man-bun at the crown of his head, leaving the nape of his neck exposed. His sleeveless collar is unbuttoned at the throat, revealing the tops of his shoulders and nape where sleek, iridescent obsidian and copper plumage lies flat against smooth skin, beside two small titanium-rimmed neural siphon ports at his cervical vertebrae.
-2. A full standing three-quarter figure study showing his towering 6'4" broad-shouldered, powerful athletic build, fully clothed in a fitted sleeveless high-altitude flight uniform: a tailored charcoal-black sleeveless flight tunic with burnished copper piping and Aeros-Legion rank insignia, exposing his sculpted, smooth bare muscular shoulders and arms. His dark hair is neatly secured in the high man-bun. Rising from between his shoulder blades and folded tightly, elegantly along his spine down past his calves are his massive feathered wings, with primary obsidian flight quills shimmering with subtle copper-gold edges. He wears articulated dark combat breeches, a wide officer's utility belt with a sidearm holster at his hip, and polished knee-high calfskin flight boots with reinforced steel toes, standing with poised, lethal command authority.
+Facial Details & Eyes:
+Molten-gold irises with a soft predatory ember, set in a believable human eye. Defined masculine eyebrows. A crisp, short-to-medium beard, neatly sculpted along the jaw, the same clear brown as his hair. Not bushy, not scruffy, not clean-shaven.
 
-Surrounding technical callouts:
-- An elegant inset detail showing the nape of the neck beneath the man-bun, illustrating the cervical siphon ports and sleek iridescent copper-black plumage.
-- An anatomical inset study of the neat beard contour and brow geometry measured with Renaissance calipers.
-- A faint background ghost-silhouette illustrating the full 14-foot wingspan unfurled in flight with glide-ratio compass brackets.
-- Manual drafting compass circles, proportion guidelines, and neat handwritten cursive military notes in sepia ink ('Commander Vram Tyage — Age: 28 — Aeros-Legion 7 — Mutation S (Simurgh) / Mutation G (Wings) — Rest State').
+Hairstyle:
+Thick, textured, slightly curly hair in a clear warm brown, the color of the reference photo: medium chestnut with lighter caramel strands, not black, not raven. Worn in a disciplined warrior man-bun at the crown, tapered sides, a few loose strands framing the temples.
 
-Drawn with fine graphite pencil shading and brown sepia ink cross-hatching in the classical Renaissance portraiture tradition. Aged parchment with soft tea stains and clean deckled edges. Masculine, rugged, youthful, aristocratic, lethal, and historically authentic.
+Outfit:
+The upper uniform is a black flight harness, not a decorated tunic. Matte black straps over the chest and shoulders, cut open for the wings and for the port between them. No gold, no copper trim, no gold piping, no gold boots. Black combat breeches. Black knee-high flight boots. A black belt. Bare arms. No bracers and no decorative bracelets. One interface bracelet only: a slim dark metal cuff on one forearm.
+
+Mutation marks and the leash:
+Feathers are black. Gold and red show only as iridescence on those black feathers, not as bronze or brown plumage. The wings fold down his back.
+The Silver Spine is not a rod. It is a pale silver thread under the skin, like wire under wax, visible where it meets the ports.
+The siphons are two coin-sized knurled titanium rings, flush with the skin. One sits at the base of the skull, where the neck meets the spine. The other sits on the upper back between the wing roots. The pale thread runs under the skin between them.
+
+Composition & Layout:
+Multiple full-figure angles in a clean concept art sheet: primary three-quarter front standing view, head to toe; a side profile; a back view that shows the folded wings and the man-bun; and a close-up of the face and molten-gold eyes. Neutral industrial hangar background. Completely clean presentation, no text, no captions, no typography, no labels, no title cards, no letters.
 ```
 
-*   **Aspect Ratio:** `16:9` (Wide landscape codex plate) or `3:4` / `2:3` (Portrait)
-*   **Recommended Negatives:** `old, elderly, mature, 40s, 50s, wrinkles, wrinkled skin, crow's feet, forehead lines, laugh lines, jowls, weathered skin, gray hair, bushy beard, long beard, untamed beard, santa beard, lumberjack beard, receding hairline, balding, jacket, coat, greatcoat, trench coat, sleeves, long sleeves, clean-shaven, bare chin, baby face, no beard, thin eyebrows, flayed muscle, anatomy cadaver, werewolf, ape, gorilla, monster face, grotesque, cartoon, anime, 3D CGI video game render, airbrushed plastic`
+*   **Aspect Ratio:** `16:9` (Wide landscape model sheet)
+*   **Hair reference:** clear warm brown, as in the attached portrait
+*   **Output:** `08_media/vram_3.jpg`
+*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, black hair, raven hair, gray hair, old, elderly, wrinkles, gentle smile, soft expression, bushy beard, long beard, clean-shaven, gold suit, gold trim, gold boots, gold bracers, bracelets, jacket, coat, sleeves, bronze wings, brown wings, anime, photorealistic, blurry`
 
 ---
 
