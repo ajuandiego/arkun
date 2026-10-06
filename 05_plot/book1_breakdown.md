@@ -28,11 +28,11 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > *"Audio Entry 114. They transferred me to Culture Lab 4 today! The air in the residential quad smells like sweet jasmine and honeysuckle this morning. Director Corvus promised our new aerosol trial will help the people outside breathe clean again. I wish Father and Tsune were here to see this. I know they're looking down from somewhere clean."*
     *   *Setting:* The perimeter maintenance duct of Eden Dome Alpha.
     *   *Core Action:* Tsunari unseats the Bodkin, seats the service tang in an Apex Bio courier terminal, and copies the encrypted raw root file of the *Lazarus Key* onto the optical slate at her chest. She uncovers the schedule the state media will not say: in 14 months the Consortium will collapse Sector 09's lee, push barrens-air over the Ring, and seal the dome.
-    *   *Tactical Concealment & Field Gear:* Establishes Tsunari's signature visual silhouette and strict concealment discipline: operating in a **high-collared, strictly sleeveless** tactical combat tunic of weathered slate-drab. The stiff, upright collar and wrapped linen neck gaiter fully mask her throat—**concealing the smooth, unblemished skin and the lethal absence of the nape siphon and its two links** (in Sector 09, any chimera caught without corporate siphon collars is marked for instant vivisection). Her bare shoulders and toned athletic arms remain unrestricted for climbing. Scavenged amber-tinted welder optics disguise her predatory horizontal slit pupils, leather mechanic's bracers lower on her forearms conceal fine reptilian scales. The Bodkin sits in the bun with the blade seated. The chest harness holds diagnostic ampoules, mechanical lockpicks, and the optical slate. The hip sheaths hold a matched pair of curved, blackened spring-steel Spire hooks, essential vertical scavenger tools, wielded in reverse grip with lethal martial grace.
+    *   *Tactical Concealment & Field Gear:* The silhouette is `08_media/tsunari_8.jpg`. Slim waist, thicker thighs and calves. A sleeveless charcoal tunic with a high stand collar and an asymmetrical hem, long in front and back, short at the hips, worn over fitted dark trousers and lace-up combat boots. The collar hides the unported nape. The face stays bare. Pebbled scales show on the outer shoulders and upper arms. The black webbing harness carries the optical slate in a chest pouch and the ampoules and lockpicks in a hip pouch. The Spire hooks hang from sheaths at the hips. The Bodkin sits in the bun with the blade seated. Amber welder optics disguise the vertical slit pupils when she needs them.
     *   *Personal Stake (The Gilded Mirror):* While extracting the payload, Tsunari catches a brief flash of an active internal personnel directory: *Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4*. Tsunari freezes—her younger sister, separated from her ten years ago and presumed dead, is alive inside the dome, working for the very corporate regime that poisoned their world.
     *   *Hook:* Breach alarms blare; high above, an aerial shadow with a 14-foot wingspan dives through the searchlights.
     *   *Worldbuilding & Past Lore Delivery:*
-        *   *The Air She Is Standing In:* Introduces the Gray Ring in the lee. Bare face, copper on the tongue, the silt ticking up, cloth if the hour turns. The linen gaiter hides her throat. It is not a breather. The wall is the other fact in the scene.
+        *   *The Air She Is Standing In:* Introduces the Gray Ring in the lee. Bare face, copper on the tongue, the silt ticking up, cloth if the hour turns. The high collar hides her throat and her nape. It is not a breather. The wall is the other fact in the scene.
         *   *The Wall:* The sheer, oppressive 100-meter titanium bulkhead separating the pristine interior of Eden Dome Alpha from the squalor of Sector 09.
         *   *The Storm (40 Years Ago):* The generational disaster that turned the skies copper. The air stayed breathable. The blue did not come back.
 
@@ -53,7 +53,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Core Action:* Tsunari flees through a howling acid dust storm, setting micro-EMP tripwires among the shattered solar collectors. She disables two pursuing scouts with agile wall-rebound leaps and shadow stalking.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Pre-Collapse Ruins:* The graveyard of pre-Storm green technology—miles of shattered, black photovoltaic mirrors rising from sand dunes, showing that humanity once tried and failed to save its own climate before the aliens arrived.
-        *   *Chimeric Physiology in Combat:* Tsunari’s Dromaeon enhancements (lateral tracking vision, nictitating membranes shielding her eyes from sand, explosive leg-spring mechanics).
+        *   *Chimeric Physiology in Combat:* Tsunari’s Dromaeon enhancements (lateral tracking vision, eye membranes shielding her eyes from sand, stronger legs).
 
 *   **Chapter 4 // Vram**
     *   *Lexicon Entry (The Siphon & The Silver Spine):*  
@@ -61,6 +61,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Setting:* The perimeter of the solar mirror banks.
     *   *Core Action:* Tracking the thief through the swirling dust from above, Vram calculates her escape vector. Cornering her behind a shattered mirror bank, he realizes she deliberately anticipated his flanking trajectory—murmuring with dark, lethal admiration: *"Clever girl..."*—before tucking his wings into a steep terminal dive to tackle her into the sand.
     *   *Dynamic:* The initial kinetic collision of two apex biotypes—solar aerial kinetic force meeting low-center-of-gravity cursorial speed.
+    *   *Review (sector bands):* The Great Purge memory still puts the training barracks, and the Dromaeon crèches dragged into the street, in Sector 04. Sector 4 is industry inside the shield. Review the page and place the barracks where a collared fledgling would have stood.
 
 *   **Chapter 5 // Tsunari**
     *   *Epigraph (Scrawled in grease-pencil on the bulkhead of Sector 09 Perimeter Gate 4):*  
@@ -89,7 +90,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > **The Lee** *[meteorology]*: The spill of a dome's climate field past the bulkhead. The easiest outdoor air. Strongest against the wall, harder downwind. People live their whole lives in it. A guild cartridge, about a day's wages for a filtered night, buys easier sleep and more years. It does not buy tomorrow morning.
     *   *Setting:* The driver's cabin of the prowler nearing the perimeter canyon.
     *   *Core Action:* Vram makes a fateful command decision: he overrides the vehicle's automated navigation beacon, rerouting transport away from the corporate detention block to an isolated desert watchpost: Redoubt Station 14.
-    *   *Unwanted Attraction & Restraint:* In the cramped cabin, Vram catches himself tracking the graceful line of her bare, athletic shoulders (freed by her sleeveless combat tunic) and the subtle hexagonal scales dusting her collarbone. When her lower lip parts in defiance, his pulse spikes for reasons that have nothing to do with telemetry, forcing his knuckles white on the steering wheel. *If I reach for her, she'll slit my throat. And I'd deserve it.*
+    *   *Unwanted Attraction & Restraint:* In the cramped cabin, Vram catches himself tracking the graceful line of her bare, athletic shoulders (freed by her sleeveless combat tunic) and the pebbled scales on her outer shoulder. When her lower lip parts in defiance, his pulse spikes for reasons that have nothing to do with telemetry, forcing his knuckles white on the steering wheel. *If I reach for her, she'll slit my throat. And I'd deserve it.*
 
 *   **Chapter 9 // Tsunari**
     *   *Epigraph (Executive Memorandum, Apex GeneSys Directorate — Classification: Obsidian-Zero):*  
@@ -108,7 +109,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 ***
 
 ### THE GLASS MOTH (Interlude I — Between Part I & Part II)
-*   **POV:** Omniscient Narrator (Observing Miri, a 9-year-old baseline girl in a downwind shantytown outside Sector 04, where the lee runs thin).
+*   **POV:** Omniscient Narrator (Observing Miri, a 9-year-old baseline girl in a downwind shantytown of Sector 09, where the lee runs thin).
 *   **Core Theme:** The enduring resilience of human innocence; finding joy in a decaying world without exposition.
 *   **Narrative:** Miri scavenges through the copper slag heaps for pre-collapse trinkets. She captures a rare, bioluminescent glass-winged desert moth inside an old glass fuse tube. Returning to her family's rusted corrugated shack, she shares a clean thimble of condensed morning dew with her coughing grandmother, watching the green moth glow in the dark. It establishes the visceral, fragile human life living in the dirt that the corporate towers consider disposable statistics.
 
@@ -132,6 +133,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Setting:* The watchpost balcony at twilight.
     *   *Core Action:* As dusk turns the toxic sky into bruised violet and molten brass, Vram’s fragmented childhood memories surface—remembering the day he was dragged from a Gray Sector dormitory, stripped of his name, and re-designated *Subject AE-701*.
     *   *Dynamic & Forbidden Longing:* A rare moment of quiet vulnerability between them across the stone threshold. Watching Tsunari lean against the parapet, her profile bathed in violet light, Vram is struck by a fierce, involuntary ache to cross the distance and pull her close. But his training and ideology paralyze him: she is an insurgent who despises his uniform, and to reveal his desire would risk her contempt or a blade in his throat. He keeps his distance, knuckles white against the railing.
+    *   *Review (sector bands):* The spoken memory still says "Sector 04 child dormitory," then calls it the Gray Ring. Sector 4 is industry inside the shield. The dormitory is a Ring orphan ward. Review the line and name Sector 09.
 
 *   **Chapter 13 // Tsunari**
     *   *Epigraph (Consortium Internal Dispatch — Security Clearance Beta):*  
@@ -231,7 +233,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 24 // Tsunari**
     *   *Lexicon Entry (Mutation D: The Dromaeon Lineage):*  
-        > **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by dense fast-twitch musculature, sub-vocal acoustic echolocation, translucent protective eye membranes, and cold-blood thermal dampening.
+        > **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by stronger legs, sub-vocal acoustic echolocation, clear eye membranes, and cold-blood thermal dampening.
     *   *Setting:* The interior of the shipping container.
     *   *Core Action:* The alpha stalker enters. Tsunari matches its throat clicks, assumes a low predatory counter-stance, and triggers her **Quantic Phase-Stutter**—accelerating her temporal vector to ghost-step past the beast's razor jaw, driving her bodkin knife into its shoulder joint.
 
@@ -366,6 +368,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
         > *"When the sky catches fire, the birds will fight for the dirt."*
     *   *Setting:* The crane gantry and drainage spillways.
     *   *Core Action:* Vram unleashes his Pyric Crucible aura, superheating and melting Malakar’s pneumatic rail-flail to molten slag. Tsunari flanks The Forger, shattering her ritual iron staff. Defeated, Malakar is swept into the raging drainage flumes by a ruptured flood of runoff, his fate left unknown in the uncharted deep sumps.
+    *   *Review (sector bands):* The smile beat still says "the ruins of Sector 04." Sector 4 is industry inside the dome. Review the line against the shared past it points at, and name the band that past belongs to.
 
 *   **Chapter 44 // Dual POV**
     *   *Lexicon Entry (The Great Cleave & Mare Stygium):*  
@@ -381,8 +384,9 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 ***
 
 ### THE GOSPEL OF THE SLAG (Hook for Book 2: Crown of Salt)
-*   **POV:** Omniscient / Sister Maeva (First Acolyte of The Enlightened, Sub-Level 7 Basalt Caverns beneath Sector 04).
+*   **POV:** Omniscient / Sister Maeva (First Acolyte of The Enlightened, Sub-Level 7 Basalt Caverns beneath Sector 09).
 *   **Core Theme:** Religious fanaticism, alien catalytic baptism, and the awakening of the Terra-Pylons.
-*   **Narrative:** In the boiling basalt cavern three hundred feet beneath Sector 04, Sister Maeva conducts the sacred Liturgy of the Slag. Dipping her bronze brand into a boiling fissure of raw Vaelen atmospheric catalytic slurry, she sears the bifurcated shepherd’s crook—the alien rune for *The Harvested Cattle*—into the skin of her inner thigh in ecstatic devotion. As the brand smokes, the tectonic bedrock hums with the fourteen-hertz harmonic pulse of the Terra-Pylons awakening across the continent. With Commander Vram Tyage already abducted in chains and transported across the salt flats toward the Cathedral of Salt in the Torrid Kiln, the ritual seals the dark covenant of the salt zealots, directly setting up **Book 2: Crown of Salt**.
+*   **Review (sector bands):** The outline places the liturgy beneath Sector 09. The interlude prose still says "beneath the shattered foundations of Sector 04." Review `chapter_44b_interlude_the_gospel_of_the_slag.md` and match it to Sector 09.
+*   **Narrative:** In the boiling basalt cavern three hundred feet beneath Sector 09, Sister Maeva conducts the sacred Liturgy of the Slag. Dipping her bronze brand into a boiling fissure of raw Vaelen atmospheric catalytic slurry, she sears the bifurcated shepherd’s crook—the alien rune for *The Harvested Cattle*—into the skin of her inner thigh in ecstatic devotion. As the brand smokes, the tectonic bedrock hums with the fourteen-hertz harmonic pulse of the Terra-Pylons awakening across the continent. With Commander Vram Tyage already abducted in chains and transported across the salt flats toward the Cathedral of Salt in the Torrid Kiln, the ritual seals the dark covenant of the salt zealots, directly setting up **Book 2: Crown of Salt**.
 
 ***
