@@ -14,7 +14,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ## Act I: The Collision (Chapters 1–10)
 
 ### External Sci-Fi Plot (A-Track)
-*   **Opening Status Quo:** Tsunari infiltrates an Apex GeneSys data-courier terminal on the perimeter of Eden Dome Alpha. She successfully steals the encrypted core (*The Lazarus Key*) containing proof of the Vaelen atmospheric extinction plan.
+*   **Opening Status Quo:** Tsunari infiltrates an Apex GeneSys data-courier terminal on the perimeter of Eden Dome Alpha. She unseats the Bodkin, seats the service tang, and copies the encrypted core (*The Lazarus Key*) onto the optical slate. The file is the proof of the Vaelen atmospheric extinction plan.
 *   **The Hunt Begins:** Consortium alerts trigger the deployment of Aeros-Legion 7. Commander Vram Tyage leads the aerial interception.
 *   **The Climax of Act I:** Cornered in the ruins of a collapsed solar farm, Tsunari fights fiercely, detonating an EMP charge that downs Vram’s ground squad and forces a brutal hand-to-hand duel between them.
 
