@@ -24,7 +24,8 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
     *   *Claws:* The velvet-soft click of nanocarbon talons retracting against knuckles.
 
 ### 2. Scent & Chemistry
-*   *The Gray Sectors:* Burnt copper dust, stale ozone from storm clouds, sulfur, acidic water, and the rubbery bite of old respirator seals.
+*   *The Gray Ring:* Hot copper, wet rust, chicory, cooked silt-mash, sweat. Sulfur when the wind turns off the wall.
+*   *The Rust Barrens:* Baked silica and hot iron by day. Cold metal and rotten egg in a hollow after dark. A sweet smell is a spore lane, and it means leave.
 *   *The Sump Catacombs & Tempered Altars:* Stagnant runoff water, damp limestone, caustic lime wash, singed flesh and red-hot wrought iron from branding braziers, and tallow candles rendered from scavenged fat.
 *   *Domestic Faith Shrines:* Worn paper and dried ink from century-old pocket bibles and qurans, crushed desert sage burned in rusted tin lids, and olive-wood prayer beads polished smooth by thirty years of desperate fingers.
 *   *Eden Dome Alpha:* Synthetic gardenias, hyper-filtered recycled air that leaves the back of the mouth dry, and the faint chemical undertone of cellular preservatives.
@@ -34,7 +35,7 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 ### 3. Sound & Frequency
 *   **The Involuntary Rumble:** When soothed, Vram's diaphragm produces a deep, low-frequency chimeric rumble (an avian-feline resonance) that can be felt through the ribcage rather than heard.
 *   **The Misfire:** The shrill, piercing electronic whine of the Synapse Lattice that rings in Vram's ears whenever his conditioning is tested.
-*   **Atmospheric Sounds:** The dry whistle of glass winds howling through broken rebar; the steady, rhythmic *click-hiss* of a respirator valve during exhalation.
+*   **Atmospheric Sounds:** Silt ticking on zinc; the hum of hollow pylons before a glass wind; market noise after the dust drops. A breather valve belongs to a storm or a crossing, not to every sentence set in the Ring.
 
 ### 4. Sight & Color Palette
 *   **Color Palette:**
@@ -69,9 +70,9 @@ While our worldbuilding and biological bibles are grounded in rigorous internal 
     *   *Avoid academic clinical jargon:* Don't write *"Her somatosensory cortex registered a hyper-mitotic thermal cascade."*
     *   *Write visceral feeling:* Write *"His blood burned through his veins like liquid copper, hot enough to scorch her skin through her gloves."*
 2.  **No Pausing for Infodumps:**
-    *   Explanations of gene-craft, respirators, or flight aerodynamics must occur **in the heat of survival or intimacy**—whispered during fever triage, argued over a malfunctioning cartridge, or felt in the physical clash of claws and blades.
+    *   Explanations of the lee, a glass wind, or flight must occur **in the heat of survival or intimacy**: felt on the tongue, argued over a still at dawn, or carried in the clash of claws and blades.
 3.  **Simplicity Over Complexity:**
-    *   Characters speak in punchy, immediate human terms: *The Choke*, *Liter-Hours*, *The Leash*, *The Amber Haze*, *Stalkers*, *Sky-Lords*.
+    *   Characters speak in punchy, immediate human terms: *The Choke*, *The Lee*, *The Leash*, *The Amber Haze*, *Stalkers*, *Sky-Lords*.
     *   The complex science serves as an invisible scaffolding under the story; the reader experiences the emotional velocity and high-stakes romance first.
 
 ---
@@ -81,13 +82,13 @@ While our worldbuilding and biological bibles are grounded in rigorous internal 
 To prevent "grimdark fatigue," the narrative must balance visceral grit with genuine, breathtaking beauty. However, **we strictly avoid cheesy tropes** (no pristine red roses growing through rusted engine blocks, no butterflies landing on rifle barrels). Beauty in this world must be **born directly from the science, the atmosphere, and human defiance**:
 
 ### 1. Environmental & Atmospheric Sublime
-*   **The Copper-Violet Prism (Sunsets in the Haze):** The dense sulfur, nitrogen aerosols, and metallic particulate in the Amber Haze refract low sunlight into incandescent palettes that never existed Before the Storm—bruised magenta, molten brass, liquid amber, and deep obsidian-indigo. A sunset so magnificent it stops your breath, beautiful *because* it is toxic.
+*   **The Copper-Violet Prism (Sunsets in the Haze):** Sulfur, nitrogen aerosols, and metallic dust bend the low sun into colors the old sky never held: bruised magenta, molten brass, liquid amber, deep indigo. The beauty is the bent light.
 *   **Petrified Lightning (Fulgurites in the Dunes):** When high-voltage electromagnetic squalls strike the silica-rich sands of the Rust Barrens, the extreme thermal discharge instantly fuses the sand into hollow, branching glass tubes. At dawn, the red dunes sprout delicate, natural crystal sculptures rising from the dust like blown-glass trees.
 *   **Bioluminescent Sump Constellations:** Eighty feet underground in the flooded aqueducts, genetically drifting algae and mineral-eating lichen coat the vaulted concrete ceilings, glowing in soft mint-cyan and phosphorus gold. When characters wade through the dark conduits, the still black water reflects the ceiling like a subterranean night sky full of stars.
 
 ### 2. Cultural & Human Dignity in the Margins
 In a world where corporate masters treat people like disposable livestock, **preserving beauty and warmth is an act of rebellion**:
-*   **The Hearth of the Scrubber:** In the rusted container tenements of Sector 09, families pool their daily **Liter-Hour** tokens at night to run a single communal air scrubber. The warm exhaust draft smells faintly of toasted chicory root, steamed starch cakes, and warm cedar shavings. Children sit directly in the clean airflow to do their homework while elders share quiet memories of rain. It is a warm, sacred sanctuary carved out of the rust.
+*   **The Hearth Against the Freeze:** In the container tenements of Sector 09, families pack into one room when the Night Freeze drops. A stove, toasted chicory, steamed starch cakes, and cedar shavings. Children sit in the warm draft. Elders talk about rain they saw, or rain they only know from stories. The room is a shelter from the cold, not a machine they rent in order to breathe.
 *   **Scavenger Craftsmanship (Toby’s Quartz Whittling):** Survivors do not have plastic consumer junk, so they make meaningful art by hand. Specialist Toby Vance uses scrap fragments of discarded optical quartz to patiently carve miniature, translucent birds and beasts that catch the light. When he gives one to Tsunari, it isn't cheap sentimentality—it is a drafted boy giving away a piece of his preserved soul.
 *   **Sacred Scarcity (The Half-Cup of Tea):** In Madame Chen's Iron Market, true beauty is tactile hospitality. Brewing wild desert sage over a camp stove fashioned from a spent artillery casing and splitting a single cup of clean, scrubbed water carries more visceral honor, tenderness, and romance than a thousand grand speeches.
 
@@ -115,7 +116,7 @@ To maintain literary immersion and consistent cross-format presentation (Amazon 
 
 ### 1. Inner Thoughts vs. Spoken Dialogue
 *   **Inner Thoughts (Direct Internal Monologue):** Rendered in **pure italics only**, strictly **without quotation marks**.
-    *   *Correct:* `*Not me,* I think, my teeth grinding against the rubber mouthpiece.`
+    *   *Correct:* `*Not me,* I think, cloth already up over my mouth as the silt ticks against the grating.`
     *   *Incorrect:* `"Not me," I think...` or `*"Not me,"* I think...`
 *   **Spoken Dialogue (Current & Remembered/Flashbacks):** Enclosed in **double quotation marks (`"..."`)** in standard roman font.
     *   Applies to all vocalized speech—whether spoken in-person, whispered, shouted, heard over comms, or **remembered in a flashback**.
@@ -130,7 +131,7 @@ To maintain literary immersion and consistent cross-format presentation (Amazon 
     *   *Write:* `Sirens tear through the toxic smog—three concussive wails that vibrate the concrete conduit around my ribs and shudder through my teeth.`
     *   *Instead of:* `*CRACK.*`
     *   *Write:* `The titanium port at the base of my skull discharges with an ear-splitting snap, shooting a violent pulse of electrical static directly into my brainstem.`
-*   **Subtle Mechanical Cues:** When a distinct acoustic trigger or mechanical release is vital to a micro-action beat, weave it into the sentence in lowercase italics (e.g., *a muted click-hiss*, *a metallic snap*, *the low hum of the air scrubber*).
+*   **Subtle Mechanical Cues:** When a distinct acoustic trigger or mechanical release is vital to a micro-action beat, weave it into the sentence in lowercase italics (e.g., *a muted click-hiss*, *a metallic snap*, *silt ticking on zinc*).
 
 ### 3. Console Telemetry & Neural Data
 *   **Authentic Lowercase Terminal Syntax:** All console readouts, HUD data, and system outputs in the markdown source files must be written in **lowercase** (or standard sentence-case), never screaming all-caps.

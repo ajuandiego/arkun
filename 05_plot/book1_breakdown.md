@@ -14,7 +14,7 @@
 
 Worldbuilding and historical backstory are revealed through **four concentric rings of progressive discovery**—grounded strictly in what the characters touch, breathe, pay for, and bleed from:
 
-1. **Ring 1: The Scarcity & The Cage (Chapters 1–10):** The sensory horror of daily survival outside the wall; the "Filter Tax" on air; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; the silent terror of floating alien Vaelen Harvester Barges.
+1. **Ring 1: The Scarcity & The Cage (Chapters 1–10):** Daily life in the lee outside the wall: copper on the tongue, the silt hour, water taken at dawn, the Night Freeze; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; the silent terror of floating alien Vaelen Harvester Barges.
 2. **Ring 2: The Vassal Empire & The Bio-Machine (Chapters 11–22):** The corporate-alien hierarchy (Apex GeneSys, Consortium oligarchs, Vaelen Inquisitors); why soldiers have biological wings instead of aircraft (zero fuel, self-healing flesh); the trauma of the Gray Sector child drafts; the lethal consequences of treason.
 3. **Ring 3: The Wasteland & Apocalyptic Faith (Chapters 23–34):** The shattered pre-collapse ruins of the Rust Barrens; feral chimeric ecology (wild Dromaeon packs); fractured historic religions and the meteoric rise of **The Enlightened** cult under **The Forger**; the secret of the Crucible Mutagen.
 4. **Ring 4: The Vault of Truth & The Planetary Countdown (Chapters 35–44):** Uncorrupted pre-collapse archives in The Glass Vault; the proof that chimeric strains are prehistoric lineages; the discovery of the Mosaic Keystone; the full decryption of the *Lazarus Key* revealing the Vaelen 14-month atmospheric terraforming extinction plan.
@@ -27,14 +27,14 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Epigraph (Personal Audio Log — Sora Thorne, Junior Synthetics Tech, Eden Dome Alpha):*  
         > *"Audio Entry 114. They transferred me to Culture Lab 4 today! The air in the residential quad smells like sweet jasmine and honeysuckle this morning. Director Corvus promised our new aerosol trial will help the people outside breathe clean again. I wish Father and Tsune were here to see this. I know they're looking down from somewhere clean."*
     *   *Setting:* The perimeter maintenance duct of Eden Dome Alpha.
-    *   *Core Action:* Tsunari hacks an Apex Bio courier terminal, copying the encrypted raw root file of the *Lazarus Key*. She uncovers alarming surface telemetry: global oxygen reserves are decaying twice as fast as state media admits, and the dome filtration system is scheduled to seal permanently in 14 months, cutting off Sector 09 entirely.
+    *   *Core Action:* Tsunari hacks an Apex Bio courier terminal, copying the encrypted raw root file of the *Lazarus Key*. She uncovers the schedule the state media will not say: in 14 months the Consortium will collapse Sector 09's lee, push barrens-air over the Ring, and seal the dome.
     *   *Tactical Concealment & Field Gear:* Establishes Tsunari's signature visual silhouette and strict concealment discipline: operating in a **high-collared, strictly sleeveless** tactical combat tunic of weathered slate-drab. The stiff, upright collar and wrapped linen neck gaiter fully mask her throat—**concealing the smooth, unblemished skin and the lethal absence of titanium cervical siphon ports** (in Sector 09, any chimera caught without corporate siphon collars is marked for instant vivisection). Her bare shoulders and toned athletic arms remain unrestricted for climbing. Scavenged amber-tinted welder optics disguise her predatory horizontal slit pupils, leather mechanic's bracers lower on her forearms conceal fine reptilian scales, and her utility harness holds a matched pair of curved, blackened spring-steel Spire hooks—essential vertical scavenger tools, wielded in reverse grip with lethal martial grace.
     *   *Personal Stake (The Gilded Mirror):* While extracting the payload, Tsunari catches a brief flash of an active internal personnel directory: *Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4*. Tsunari freezes—her younger sister, separated from her ten years ago and presumed dead, is alive inside the dome, working for the very corporate regime that poisoned their world.
     *   *Hook:* Breach alarms blare; high above, an aerial shadow with a 14-foot wingspan dives through the searchlights.
     *   *Worldbuilding & Past Lore Delivery:*
-        *   *The Sensory Cost of Air:* Introduces the Gray Sector's reality—the rhythmic rubbery *clack-hiss* of Tsunari’s cracked rebreather, the bitter metallic taste of alkaline smog, and the "Filter Tax" paid in daily **Liter-Hours** tokens.
+        *   *The Air She Is Standing In:* Introduces the Gray Ring in the lee. Bare face, copper on the tongue, the silt ticking up, cloth if the hour turns. The linen gaiter hides her throat. It is not a breather. The wall is the other fact in the scene.
         *   *The Wall:* The sheer, oppressive 100-meter titanium bulkhead separating the pristine interior of Eden Dome Alpha from the squalor of Sector 09.
-        *   *The Storm (40 Years Ago):* The generational disaster that permanently turned the skies copper and toxic.
+        *   *The Storm (40 Years Ago):* The generational disaster that turned the skies copper. The air stayed breathable. The blue did not come back.
 
 *   **Chapter 2 // Vram**
     *   *Lexicon Entry (The High Aerie):*  
@@ -85,8 +85,8 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Dynamic:* Tsunari observes his breathing and subtle tremors, quickly deducing that his mental sanity is tethered to her physical proximity, and begins weaponizing his biological dependency as tactical leverage.
 
 *   **Chapter 8 // Vram**
-    *   *Lexicon Entry (Liter-Hour):*  
-        > **Liter-Hour** *[noun, currency]*: The universal survival currency of the Gray Sectors. Represents one hour of certified breathable air filtered through a mechanical scrubber cartridge. Issued as brass tithe-tokens by corporate monopolies.
+    *   *Lexicon Entry (The Lee):*  
+        > **The Lee** *[meteorology]*: The spill of a dome's climate field past the bulkhead. The easiest outdoor air. Strongest against the wall, harder downwind. People live their whole lives in it. A guild cartridge, about a day's wages for a filtered night, buys easier sleep and more years. It does not buy tomorrow morning.
     *   *Setting:* The driver's cabin of the prowler nearing the perimeter canyon.
     *   *Core Action:* Vram makes a fateful command decision: he overrides the vehicle's automated navigation beacon, rerouting transport away from the corporate detention block to an isolated desert watchpost: Redoubt Station 14.
     *   *Unwanted Attraction & Restraint:* In the cramped cabin, Vram catches himself tracking the graceful line of her bare, athletic shoulders (freed by her sleeveless combat tunic) and the subtle hexagonal scales dusting her collarbone. When her lower lip parts in defiance, his pulse spikes for reasons that have nothing to do with telemetry, forcing his knuckles white on the steering wheel. *If I reach for her, she'll slit my throat. And I'd deserve it.*
@@ -108,7 +108,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 ***
 
 ### THE GLASS MOTH (Interlude I — Between Part I & Part II)
-*   **POV:** Omniscient Narrator (Observing Miri, a 9-year-old baseline girl living in the rusted shantytown outside Sector 04's perimeter wall).
+*   **POV:** Omniscient Narrator (Observing Miri, a 9-year-old baseline girl in a downwind shantytown outside Sector 04, where the lee runs thin).
 *   **Core Theme:** The enduring resilience of human innocence; finding joy in a decaying world without exposition.
 *   **Narrative:** Miri scavenges through the copper slag heaps for pre-collapse trinkets. She captures a rare, bioluminescent glass-winged desert moth inside an old glass fuse tube. Returning to her family's rusted corrugated shack, she shares a clean thimble of condensed morning dew with her coughing grandmother, watching the green moth glow in the dark. It establishes the visceral, fragile human life living in the dirt that the corporate towers consider disposable statistics.
 
@@ -128,7 +128,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 12 // Vram**
     *   *Lexicon Entry (The Storm-Born vs. The Sky-Born):*  
-        > **The Storm-Born** *[demographic]*: The generation born in Year 0 AS or later who possess no living memory of open blue skies or natural rain, knowing only the copper twilight of the Amber Haze and the hum of respirators. Contrasted with **The Sky-Born (Old-Worlders)**, who remember the pre-collapse biosphere.
+        > **The Storm-Born** *[demographic]*: The generation born in Year 0 AS or later who possess no living memory of open blue skies or natural rain, knowing only the copper twilight of the Amber Haze. Contrasted with **The Sky-Born (Old-Worlders)**, who remember the pre-collapse biosphere.
     *   *Setting:* The watchpost balcony at twilight.
     *   *Core Action:* As dusk turns the toxic sky into bruised violet and molten brass, Vram’s fragmented childhood memories surface—remembering the day he was dragged from a Gray Sector dormitory, stripped of his name, and re-designated *Subject AE-701*.
     *   *Dynamic & Forbidden Longing:* A rare moment of quiet vulnerability between them across the stone threshold. Watching Tsunari lean against the parapet, her profile bathed in violet light, Vram is struck by a fierce, involuntary ache to cross the distance and pull her close. But his training and ideology paralyze him: she is an insurgent who despises his uniform, and to reveal his desire would risk her contempt or a blade in his throat. He keeps his distance, knuckles white against the railing.
@@ -206,7 +206,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 22 // Vram**
     *   *Lexicon Entry (The Rust Barrens & Acid Sinks):*  
-        > **The Rust Barrens** *[geography]*: The vast, uninhabitable desert spanning hundreds of miles between dome cities. Characterized by oxidized red iron dust, dried toxic lakebeds, and sub-zero night temperatures that drop 70 degrees in minutes.
+        > **The Rust Barrens** *[geography]*: The harsh country beyond a dome's lee. Livable if the hours are kept: oxidized red dust, dried lakebeds, furnace noons, and a Night Freeze that falls toward -10°F. The open dune is a crossing. Low ground after dark holds a sulfur pool. Spore lanes and glass winds are local, and they are avoided.
     *   *Setting:* The upper airspace descending into the deep Rust Barrens.
     *   *Core Action:* Taking flight once more to escape ground trackers, high-altitude anti-air shrapnel shreds Vram's left flight primaries and dislocates his shoulder. With his wing failing and fever flaring to 108°F, Vram locks his wings into a desperate glide, using his broad body to shield Tsunari as they crash-land through a blinding dust squall into the sand dunes.
 
@@ -215,7 +215,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 ### THE QUOTA CALCULATION (Interlude III — Between Part II & Part III)
 *   **POV:** Omniscient Narrator (Observing High Chancellor Julian Ward, Directorate Resource Allocation Council, Eden Dome Alpha).
 *   **Core Theme:** The bureaucratic cruelty of the elite; sacrificing thousands to preserve family luxury.
-*   **Narrative:** Over an exquisite dinner of real hydroponic beef, fresh strawberries, and imported wine with his pregnant wife and seven-year-old daughter in their sun-drenched penthouse, Chancellor Ward reviews the quarterly atmospheric balance sheet. The numbers are unforgiving: Eden Alpha's secondary domes require a 40% increase in scrubbed oxygen to keep the ornamental botanical gardens and private athletic courts lush. Ward calmly signs an administrative dispatch rerouting 40% of the clean air filter shipments away from Sector 09's lower sumps, fully aware that four thousand baseline children will choke on sulfur grit and develop terminal fibrosis within ninety days. He wipes his mouth with a linen napkin, kisses his daughter’s forehead, and justifies the atrocity with chilling ease: *"My blood survives. The rest is arithmetic."*
+*   **Narrative:** Over an exquisite dinner of real hydroponic beef, fresh strawberries, and imported wine with his pregnant wife and seven-year-old daughter in their sun-drenched penthouse, Chancellor Ward reviews the quarterly climate balance. The inner gardens and athletic courts want a wider field. He signs to pull the lee back from Sector 09's downwind wards. Four thousand people lose the spill. Their streets take the silt all afternoon, and their cellars pool after dark. He knows the Choke will start in those blocks. He wipes his mouth with a linen napkin, kisses his daughter’s forehead, and justifies the atrocity with chilling ease: *"My blood survives. The rest is arithmetic."*
 
 ***
 
@@ -296,9 +296,9 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 33 // Tsunari**
     *   *Epigraph (Charter of the Air Scrubber Guild — Ratified by the Baseline Elders, Sector 09, Year 15 AS):*  
-        > *"A breath taken is a debt owed. No man drinks clean water while his neighbor chokes on rust. The Gilded inside the glass sell tomorrow for today; down here, we trade our blood to keep the filters turning."*
+        > *"The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself. The Gilded sell tomorrow for today; down here, we keep the hours together."*
     *   *Setting:* The Iron Market in the deep sumps.
-    *   *Core Action:* Guided by courier Ren, Tsunari and Vram negotiate with **Madame Vrena Chen**, Chairwoman of the Air Scrubber Guild, for oxygen cylinders and centrifuge filters. Vram faces her wrath over his past corporate sweeps with solemn humility, winning her respect and logistical backing.
+    *   *Core Action:* Guided by courier Ren, Tsunari and Vram negotiate with **Madame Vrena Chen**, Chairwoman of the Air Scrubber Guild, for still rights, shelter access, and centrifuge parts for the guild's water works. Vram faces her wrath over his past corporate sweeps with solemn humility, winning her respect and logistical backing.
 
 *   **Chapter 34 // Vram**
     *   *Lexicon Entry (The Ember Coven):*  
@@ -371,10 +371,10 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
     *   *Lexicon Entry (The Great Cleave & Mare Stygium):*  
         > **Mare Stygium (The Stygian Oceans)** *[geography]*: The boiling, ionized seas created during the Great Cleave of Year 0 AS. Wracked by perpetual electromagnetic squalls, hyper-saline currents, and caustic storms, they have remained completely impassable to human navigation for forty years.
     *   *Setting:* The smoke-choked rooftop of the Vault’s upper air-scrubber under artificial starlight.
-    *   *The Resolution:* Consortium forces retreat; the cult scatters. Tsunari stabilizes Caelia's injuries, saving her life. Madame Chen secures a permanent pipeline of scrubbed oxygen for the Vault. Kira Brandt loads encrypted data drives of the stabilizer into her sand-crawler to spark the continent-wide rebellion.
+    *   *The Resolution:* Consortium forces retreat; the cult scatters. Tsunari stabilizes Caelia's injuries, saving her life. Madame Chen keeps the Vault's stills and storm shelters fed. Kira Brandt loads encrypted data drives of the stabilizer into her sand-crawler to spark the continent-wide rebellion.
     *   *The Romance Climax (The Sovereign Compact):* Sitting on the sheared girder at dawn, Vram and Tsunari clasp scarred palms in a sovereign blood covenant of equals, sealed with a passionate dawn kiss and their shared devotion.
     *   *The True Lazarus Decryption & The Sister's Clock:* Using Gideon's optical decoders and combining Tsunari's Null-frequency with Vram's military cipher, they finally decrypt the deep alien root layer of the *Lazarus Key*:
-        1.  *The Alien Plan:* The atmospheric decay is active alien terraforming. The Vaelen are deliberately pumping nitrogen-ammonia gas through the Terra-Pylons to wipe out human biology for an alien colonization fleet. Humanity has **14 months** before outdoor air is 100% fatal.
+        1.  *The Alien Plan:* The atmospheric program is active alien terraforming. Within **14 months** the Vaelen will collapse the lee over Sector 09, push barrens-air across the Ring, and seal the domes for the colonial migration. A city of this size cannot live on barrens rules. That is the liquidation. The open country beyond the cities remains the harsh band, livable only if the hours are kept.
         2.  *The Personal Stake:* The decryption reveals the scheduled liquidation order for Eden Dome Alpha's lower biological staff once the terraforming finishes—meaning **Sora Thorne** is marked for execution inside the very dome she believes is paradise.
     *   *The Agonizing Cliffhanger:* That night in the bunker, they rest together under the protection of their sovereign compact. But before dawn, surviving cultists of *The Enlightened* pump sweet rift vapors into the air vents. They drug the room, abduct Vram in chains to drag him across the burning salt flats as their destined "Apex Deliverer", and brand Tsunari's left shoulder with their burning chevron. Tsunari awakens alone to cold sheets, a smoking wound on her flesh, and her Spire hook in hand—vowing to tear the continent apart to find him.
 

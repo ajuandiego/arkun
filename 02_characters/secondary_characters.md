@@ -80,7 +80,7 @@ The soldiers under Vram’s command form a feral, fiercely loyal family bound by
 
 ### Ren (The Courier)
 *   **Role:** An orphaned teenage data-runner who idolizes Tsunari.
-*   **Narrative Function:** Highlights the genuine human stakes of the Gray Sectors. Ren is in the early stages of the "Choke." His fading health puts a ticking clock on Tsunari’s mission to deploy the atmospheric cure.
+*   **Narrative Function:** Highlights the genuine human stakes of the Gray Sectors. Ren is in the early rattle of the Choke, from years downwind without filtered sleep. The clock is years of worsening breath, not weeks, and it is still the reason the cure matters to her.
 
 ---
 

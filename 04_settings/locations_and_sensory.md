@@ -15,22 +15,39 @@ The capital biome of the Consortium of Eden, housing the high corporate aristocr
 
 ---
 
-## 2. Sector 09: The Gray Slums (The Rust Barrens)
+## 2. Sector 09: The Gray Ring (The Lee)
 
-The sprawling expanse of collapsed 21st-century urban ruins outside the dome walls, where baseline humans fight for survival.
+The ruined metropolitan fringe outside Bulkhead Wall Alpha, where about 45 million people live inside the dome's spill.
 
 *   **Visual Atmosphere:**
-    *   Skeletal remnants of ancient concrete skyscrapers half-swallowed by dunes of toxic red silica sand.
-    *   A chaotic maze of corrugated sheet metal shacks, jury-rigged power cables siphoning static electricity from the Amber Haze, and flickering neon signs advertising recycled water and illicit filter cartridges.
-    *   Dusk brings a violent violet sky as the alien atmospheric seeders pulse from orbit.
+    *   Stacked shipping containers, corrugated zinc, jury-rigged cable, and neon over open alleys.
+    *   The wall fills one horizon: a hundred meters of seamless metal, with the dome's light leaking above it.
+    *   Dusk brings the violet pulse as the seeders fire. The bazaar opens once the silt drops.
 *   **Sensory Profile:**
-    *   *Scent:* Acrid sulfur, burnt plastic, wet rust, and the hot copper taste of airborne dust caught on the back of the throat.
-    *   *Sound:* The whistling howl of glass winds slicing through rusted steel frames; the coughs of workers suffering from the Choke; the heavy, rhythmic thud of Consortium patrol drones overhead.
-    *   *The Feral Dread (The Scythe-Stalker Threat):* Packs of wild, bio-synthetic **Dromaeons** (pure reptilian pack-stalker chimeras with leathery pebbled scales and zero plumage) prowl the concrete ruins at dusk. The terrifying, rhythmic *tap-tap-click* of their sickle claws on corrugated metal flooring and their chilling sub-vocal acoustic hunting clicks signal an impending pack ambush.
+    *   *Scent:* Hot copper, wet rust, chicory, cooked silt-mash, sweat. Sulfur only when the wind turns off the wall.
+    *   *Sound:* Silt ticking on zinc, market talk, drone rotors, a stove in a packed room after dark. A breather valve is not the street's rhythm.
+    *   *Air and hour:* Bare faces. The afternoon silt hour puts cloth and goggles on, then takes them off. Night is a hard frost. People pack indoors because of the cold. Sleep stays off the lowest floors, where a night pool can settle.
+    *   *The Choke:* Heard in slag crews and in the downwind blocks, a slow rattle in people who have spent years in the worst air. It is not the voice of every doorway.
 
 ---
 
-## 3. The High Aerie: Aeros-Legion 7 Base
+## 3. The Rust Barrens (The Open)
+
+The harsh country beyond the lee. Silica dunes, dead highways, container depots, and the roads toward Terra-Pylon Seven.
+
+*   **Visual Atmosphere:**
+    *   Red silica, skeletal overpasses, and glass trees in the sand after a static storm.
+    *   The same copper sky, with no dome-light on the horizon once the Ring is behind you.
+*   **Sensory Profile:**
+    *   *Scent by day:* Baked silica and hot iron. Nothing green.
+    *   *Scent after dark, in a hollow:* Cold metal and rotten egg. That hollow is a night pool. Do not sleep in it.
+    *   *Sound:* Wind in empty rebar. Before a glass wind, the old pylons hum.
+    *   *Air and hour:* Noon is a furnace. Night is the freeze that kills an unsheltered sleeper. Breathing is the hardest on the continent, and a crossing of days ends in a cough, not the Choke. A cartridge or a cabin filter is how a crew arrives less wrecked. A sweet smell is a spore lane: leave it.
+    *   *The Feral Dread (The Scythe-Stalker Threat):* Packs of wild **Dromaeons** prowl the concrete ruins at dusk. The *tap-tap-click* of sickle claws on corrugated metal, and their sub-vocal hunting clicks, signal a pack.
+
+---
+
+## 4. The High Aerie: Aeros-Legion 7 Base
 
 An airborne staging fortress and launch roost suspended from the structural trusses of Dome Alpha's northern atmospheric bulkhead, thousands of feet above the earth.
 
@@ -41,10 +58,11 @@ An airborne staging fortress and launch roost suspended from the structural trus
 *   **Sensory Profile:**
     *   *Scent:* Scorched ozone from high-altitude thermals, feather preening oil, cold titanium, and the bitter, freezing bite of thin sub-zero air.
     *   *Sound:* The thunderous whip and crack of 14-foot feathered wings catching updrafts; the whistle of gale-force winds through suspension rigging; the harsh, clipped military bark of flight commanders.
+    *   *Why it is cold:* Altitude. The Ring under the wall is not this temperature. Breathing rigs on the roost are for thin air, not for a city that cannot breathe.
 
 ---
 
-## 4. The Glass Vault (The Bio-Curator Archive)
+## 5. The Glass Vault (The Bio-Curator Archive)
 
 Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vaults of a pre-collapse university and municipal records facility. The headquarters and sanctuary of **Elder Gideon Cross**.
 
@@ -54,25 +72,25 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
     *   Towering floor-to-ceiling brass and dark steel shelving holding thousands of vacuum-sealed archival folios, antique pre-collapse paper books, and glowing racks of laser-etched quartz glass spools.
     *   Frost-shrouded cryo-dewars along the walls, hissing faint plumes of vapor as they preserve liquid-nitrogen-cooled bacterial DNA codices.
 *   **Sensory Profile:**
-    *   *Scent:* Old paper, beeswax, dried lavender, silver etching acid, cold granite bedrock, and genuinely clean, scrubbed air—the purest, most fragrant air in all of Sector 09.
-    *   *Sound:* The delicate, rhythmic clicking of brass clockwork drives turning optical quartz readers; the gentle rustle of vellum; the deep, muffled hum of subterranean bedrock insulating against howling surface dust storms.
-    *   *Sanctuary Function:* A serene, scholarly haven completely removed from the paranoia of the Domes and the brutality of the ruins. Here, Vram can retract his claws and lower his guard without sensory static, while Tsunari works without a respirator.
+    *   *Scent:* Old paper, beeswax, dried lavender, silver etching acid, cold granite, and air with no metal film on the tongue. Cleaner than the lee, and nothing like the dome's perfume.
+    *   *Sound:* The delicate, rhythmic clicking of brass clockwork drives turning optical quartz readers; the gentle rustle of vellum; the deep, muffled hum of bedrock against surface wind.
+    *   *Sanctuary Function:* A scholarly haven removed from the dome's surveillance and from the barrens' freeze. Vram can retract his claws here. Tsunari works bare-faced, as she does in the Ring, and the shock is how little the air tastes of copper.
 
 ---
 
-## 5. Key Forced-Proximity Havens
+## 6. Key Forced-Proximity Havens
 
 ### The Buried Shipping Container (The Freight Depot Wreckage)
 *   Downed in a desolate sand dune during their crash-glide escape into the Rust Barrens.
 *   The interior of a rusted, half-buried shipping container is cramped, sealed against a raging acid dust storm and prowling feral Dromaeons.
-*   The space smells of oxidized steel, blood, and Vram's scorched feathers. The night temperature plunges below zero; the only source of warmth is Vram's 106°F chimeric body heat. They are trapped shoulder-to-shoulder, listening to the corrosive sand and Dromaeon sickle-claws scrape against the corrugated walls.
+*   The space smells of oxidized steel, blood, and Vram's scorched feathers. This is barrens night: the temperature plunges below zero, and the only reliable warmth is Vram's 106°F body heat. They are sealed against a glass wind and against Dromaeon claws on the corrugated wall.
 
 ### The Subterranean Metro Bunker (The Catacombs)
 *   A pre-collapse subway station buried eighty feet beneath the desert bedrock.
 *   Flickering emergency sodium lights cast long, dramatic shadows across cracked ceramic tiles and rusted train tracks.
-*   Water drips into dark puddles. It is cold, damp, and isolated from Consortium scanners—the first place where they can strip off their armor, breathe without respirators, and confront the raw truth of what they are becoming to each other.
+*   Water drips into dark puddles. It is cold, damp, and hidden from Consortium scanners. This is a buried station, so the floor can hold a night pool: they sleep on the ledge, not in the lowest sump. It is the first place they can strip armor and talk without the wind.
 
 ### The Foot of Terra-Pylon Seven
 *   A monumental biomechanical monolith towering miles into the stratosphere, anchoring the alien terraforming grid.
 *   Surrounded by a surreal forest of bioluminescent phosphor tendrils and purple spore orchids.
-*   The air here tastes sweet and narcotic; reality feels dreamlike and dangerous.
+*   The air here tastes sweet and narcotic. That sweetness is a spore lane: local, wrong, and a reason to leave. One crossing burns the throat and clears. Camping in it is how the slow rattle starts early. A filter makes the crossing easier. It is not what keeps a walker alive for the hour.

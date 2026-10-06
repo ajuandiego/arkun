@@ -12,7 +12,7 @@ In Year 40 AS (forty years After the Storm), Earth belongs to an alien empire th
 
 ### Book 1: *Stolen Breath*
 *   **The Hook:** A hunted hacker with sickle-claw reflexes. A winged soldier with a burning fever. One touch that changes the fate of Earth.
-*   **The Pitch:** Outside the sealed Green Domes, Sector 09's toxic Gray Ring is a powder keg. When Tsunari hacks the courier terminal and steals the *Lazarus Key*, Commander Vram Tyage is sent to eliminate her. But in the ruins of a collapsed solar farm, her touch accidentally grounds his neuro-lattice fever, bringing him peace for the first time in his life. Forced into a volatile rogue alliance after crashing into the feral Rust Barrens, the two lethal combatants must survive wild transgenic packs, defect from an empire, and defend the ancient secrets of The Glass Vault before the Consortium collapses the frontier into dust.
+*   **The Pitch:** Outside the sealed Green Domes, Sector 09's Gray Ring lives in the lee of the wall, and it is a powder keg. When Tsunari hacks the courier terminal and steals the *Lazarus Key*, Commander Vram Tyage is sent to eliminate her. But in the ruins of a collapsed solar farm, her touch accidentally grounds his neuro-lattice fever, bringing him peace for the first time in his life. Forced into a volatile rogue alliance after crashing into the feral Rust Barrens, the two lethal combatants must survive wild transgenic packs, defect from an empire, and defend the ancient secrets of The Glass Vault before the Consortium collapses the lee and turns the frontier into open country.
 
 ### Book 2: *Crown of Salt*
 *   **The Hook:** To save a dying planet, they must cross the burning wastelands. But the deepest enemy wears the face of the family they trust.

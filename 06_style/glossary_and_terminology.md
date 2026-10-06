@@ -5,14 +5,21 @@
 *   **The Great Storm:** The 140-day planetary atmospheric tempest in Year 0 (2032 CE) triggered when the Vaelen Spires first deployed terra-pylons, clashing with Earth's jet stream and initiating the current era.
 *   **BS / AS (Before Storm / After Storm):** The post-collapse calendar system replacing the Gregorian calendar. The novel takes place in **Year 40 AS** (2072 CE).
 *   **The Sky-Born (Old-Worlders):** Anyone born before Year 0 (over 40 years old) who possesses living childhood memories of natural rain, unshielded sunshine, and blue skies (e.g., Doc Mercer, Gideon Cross, Madame Chen, Elena Corvus).
-*   **The Storm-Born:** The generation born in Year 0 AS or later (40 years old or younger)—including **Tsunari (26)** and **Vram (28)**—who have never seen an open blue sky and know only the copper twilight of the Amber Haze and the hum of air scrubbers.
-*   **Amber Haze:** The particulate-laden, sulfur-and-dust polluted atmosphere covering the unprotected regions of Earth.
-*   **The Choke (Glass Lung):** The degenerative respiratory and cellular asphyxiation syndrome caused by breathing the alien-phased atmosphere without filters.
+*   **The Storm-Born:** The generation born in Year 0 AS or later (40 years old or younger), including **Tsunari (26)** and **Vram (28)**, who have never seen an open blue sky and know only the copper twilight of the Amber Haze.
+*   **Amber Haze:** The copper, sulfur-dust sky over unprotected ground. Breathable. Kinder in a dome's lee, harsher in the barrens, and rougher in low ground after dark. Year 40 oxygen runs about 20.9% in a dome, 19.8% to 20.4% under the wall, 17.5% to 18.5% in the open barrens, and 16.5% to 17.5% in a pylon's shadow. The slow Choke is silica and sulfur, not hypoxia. The full table is in `01_world/world_and_history.md`.
+*   **The Choke (Glass Lung):** A slow disease in three stages: a reversible cough, then the rattle, then glass lung years later. In the lee it belongs to late life, or to middle age downwind. In the barrens it takes months of living there before the rattle, and years before glass lung. A missed filter does not start it today. Distance from a dome makes the air harder. It does not make the disease sudden.
+*   **The Lee:** The spill of a dome's climate field past the bulkhead. The easiest outdoor air. Strongest against the wall, harder downwind. The Gray Ring is a city because people can live a whole life in it.
+*   **Silt Hour:** The daily afternoon tide of metallic dust in the lee. Cloth and goggles come out for comfort. Then it passes.
+*   **Glass Wind:** A rare, directional storm. Hollow pylons hum before it arrives. It pits skin, etches glass, and leaves a cough for days. It does not start glass lung. An acid squall is the wet form of the same event.
+*   **Night Freeze:** The collapse of surface temperature after dark, from about 115°F at the height of the day toward -10°F in the open, because the upper air no longer holds the day's heat. Survivable indoors in the Ring. Fatal to an unsheltered sleeper in the barrens. This is cold, not the Choke.
+*   **Night Pool:** Heavy, sulfurous air that sinks into cellars, sump floors, and dune hollows after dark. One night: a sore chest by morning. Months of those nights, without filtered rest, move the slow curve forward.
+*   **The Violet Pulse:** Dusk, when the orbital seeders fire. The sky's color shifts. Animals go quiet. It is a clock, not a breathing event.
+*   **Guild Cartridge:** A certified filter sold by Madame Chen. One person's filtered sleep for one night costs about a day's wages. A month paid ahead is about a week's wages. A family room is two or three days' wages a night. People buy it for easier sleep and a longer life. Black-market cartridges cost about half and last about half.
+*   **Breather:** A face cover and cartridge for a long stay in the open, a glass wind, or a night in a hollow. Comfort and fewer years lost. Not daily clothes in the Ring, and not the difference between living and dying today. A linen gaiter that hides an unported throat is concealment, not a breather. Tsunari does not need one.
 *   **The Gilded (Edenites):** Derogatory Gray Sector term for the human corporate elite living inside the Green Domes.
-*   **Liter-Hour:** The standard survival currency in the Gray Sectors; represents one hour’s worth of breathable air filtered through a certified scrubber cartridge.
 *   **Mayfly:** Military slang used by augmented flight pilots to describe baseline, un-augmented humans, referencing their fragile, short lifespans.
 *   **Rustborn (The Dustborn):** Anyone born or living outside the atmospheric domes in the ruined sectors.
-*   **Scrubber:** A personal portable respirator or domestic air purification device.
+*   **Scrubber:** A guild machine: a dawn still, a shelter fan, or the works that fill certified cartridges. Not a meter that decides who breathes until morning.
 
 ---
 
@@ -79,7 +86,7 @@ All gene-spliced soldiers and augmented wasteland survivors are classified under
 *   **Corporal Ferrin "Rook" Calder:** Callsign **"Rook"**. Sarcastic, quick-witted skirmisher and close-quarters vanguard of Aeros-Legion 7 (75% Gryphon + 25% Fenris). Uses irreverent humor as armor against the Synapse Lattice; lethal with twin trench daggers.
 *   **Specialist Tobin "Toby" Vance:** Callsign **"Kestrel"**. Youngest scout of Aeros-Legion 7 and Cassian's younger brother (80% Gryphon + 20% Simurgh). Gentle, chivalrous soul who whittles miniature figurines from scrap optical quartz; fiercely protective of his squad and "Doc" Tsunari.
 *   **Boran "The Bastion" Vael-Korr:** Former Sergeant of the 4th Heavy Breachers (100% Lindwurm Strain). 6'8" stone-armored cynic with a deep baritone; guards subterranean rail spurs and trades constant combat banter with the "fragile sky-birds."
-*   **Madame Vrena Chen:** 100% baseline human matriarch of the Sector 09 Air Scrubber Guild and Iron Market. Wears an ornate double-canister brass respirator; controls oxygen distribution and mobilizes civilian defense networks.
+*   **Madame Vrena Chen:** 100% baseline human matriarch of the Sector 09 Air Scrubber Guild and Iron Market. Sells certified filter cartridges (about a day's wages for one filtered night), keeps the stills, the Night Freeze shelters, and the civilian defense net. The brass double-canister mask is the best cartridge in the Ring and the sign of her office. Skipping her counter is a harder life, not a death sentence.
 *   **Kira Brandt:** Leader of the "Overground Railroad" (85% Fenris pack tracker). Expert wasteland smuggler piloting modified sand-crawlers across the Rust Barrens; tracks scent wakes through toxic dust storms.
 *   **Sora Thorne:** Tsunari’s estranged younger sister (age 20). Junior Bio-Synthetics Assistant at Apex Bio inside Eden Dome Alpha; lives in privileged ignorance of the impending alien terraforming harvest.
 *   **Elder Gideon Cross:** Chief Bio-Curator of Sector 09; keeper of The Glass Vault and mentor figure.

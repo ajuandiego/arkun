@@ -207,7 +207,7 @@ To monitor human compliance inside the Green Domes and anticipate rebellions in 
 ### The Subtle Biological Tells (Clues for Observant Characters/Readers)
 Because Tsunari is an elite field geneticist, she can eventually piece together the physical clues:
 *   **The Violet Oxidation:** When exposed to extreme UV light or the acidic sulfur of the Amber Haze, their blood oxidizes with a faint, iridescent violet sheen before coagulating.
-*   **Respirator Mimicry:** They wear respirators and change filter cartridges to blend into Gray Sector crowds, but they never actually contract *The Choke*. Their lung tissue secretly houses microscopic alien nitrogen-scrubbers.
+*   **Respirator Mimicry:** In an ordinary Ring street their bare faces blend. They put on cloth, goggles, or a breather when the silt rises, a glass wind hits, or a crossing enters the open band, because that is what the crowd does. They never contract *The Choke*. Their lung tissue secretly houses microscopic alien nitrogen-scrubbers.
 *   **Pupillary Fracture:** Under sudden extreme adrenaline surges or temporal dilation, their pupils momentarily contract into concentric geometric rings rather than smooth circles.
 
 ---
@@ -227,7 +227,7 @@ While Simulacra walk among humans disguised in terrestrial skin, the true Vaelen
     *   *Harmonic Psionics:* Direct interface with *The Spire-Consensus*. A Vaelen Archon can project acoustic shockwaves capable of freezing a human's motor cortex or inducing fatal cerebral hemorrhages.
     *   *Genetic Senescence (The Dying God):* Individual Vaelen possess near-immortal telomeres, but their species is evolutionary dead: millions of years of digital synchronization and cloning have permanently erased genetic recombination and meiosis. Their clones succumb to rapid malignant cellular collapse. **They are farming Earth because human DNA is the only known biological substrate with the chaotic epigenetic drive capable of reversing their extinction.**
 *   **The Stranglehold of Alien Control:**
-    1.  *Atmospheric Poisoning:* The Terra-Pylons continuously inject the high-nitrogen, sulfurous *Amber Haze* to make outdoor air fatal without corporate/alien scrubbers.
+    1.  *Atmospheric Pressure:* The Terra-Pylons pump the Vaelen blend (high nitrogen, sulfur, methane trace) and hold the gradient. Dome air is clean. The lee is the easiest outdoor air and a place to live a whole life. The barrens and a pylon's shadow are harder, and the Choke there is still a matter of months and years. Filtered cartridges are a health purchase, about a day's wages a night. The endgame on the 14-month clock is to erase the lee and seal the domes.
     2.  *The Chrysalis Bribe:* Megacorporation directors (Apex, Vanguard, Aethelgard) are given longevity treatments that freeze their physical age at 30, compelling the human elite to enforce the alien harvest.
     3.  *The Synapse Leash:* Chimeric soldiers are bound by titanium spinal ports; the Vaelen hold the master frequency to induce paralyzing migraines or instant cardiac flatlines.
     4.  *Orbital Supremacy:* Spires enforce a complete space and aviation blockade, vaporizing any human projectile or aircraft.
@@ -250,7 +250,7 @@ These technologies are monopolized by the Consortium and the Vaelen Spire:
 ### 9.2 Degraded & Preserved Technologies (The Dustborn Survival Tech)
 The baseline 95% survive through extreme ingenuity, salvaging and adapting obsolete early-21st-century tech:
 
-*   **DIY Zeolite Scrubbers & Respirators:** Hand-packed filter cartridges combining crushed natural zeolite, activated charcoal, and alkaline sponges to strip sulfur and silica from the Amber Haze.
+*   **Storm Filters & Expedition Breathers:** Hand-packed cartridges of crushed zeolite, activated charcoal, and alkaline sponge, for a glass wind, a night pool, a spore lane, or a barrens crossing. They are not what a Ring street requires at noon. Guild shelters and stills are the machines that actually run the city.
 *   **Atmospheric Condensation Stills:** Copper refrigeration coils scavenged from old air conditioning units, deployed at dawn to extract drinking water from atmospheric temperature drops.
 *   **Salvaged Micro-Grids:** Repaired pre-collapse solar panels, small rooftop wind turbines, and jury-rigged lithium-iron battery banks powering underground bunkers.
 *   **The "Sneakernet" (Physical Data Runners):** Because all radio and digital broadcasts are monitored by Spire sensor grids, the resistance relies on couriers (like Ren) carrying encrypted optical drives by hand.
@@ -308,13 +308,13 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
 
 1.  **The Obsidian Strangler (Basalt Crotalid / Wire-Viper) — [Fauna]**
     *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Lindwurm genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.
-    *   *Hunting Method:* Coils silently in the ceilings of collapsed subway tunnels and elevator shafts. It drops silently onto prey, wrapping with hydraulic crushing torque (exceeding 2,000 psi) to snap spines and crush respirator facepieces within seconds.
+    *   *Hunting Method:* Coils silently in the ceilings of collapsed subway tunnels and elevator shafts. It drops onto prey, wrapping with hydraulic crushing torque (exceeding 2,000 psi) to snap spines and crush a jaw, a cloth, or a storm mask within seconds.
     *   *The Toxin:* Injects a flesh-dissolving, acidic neurotoxin that liquefies lungs and synthetic seals.
     *   *Plot Dynamic:* Creates terrifying close-quarters subterranean suspense; Vram’s avian tetrachromatic vision can detect its micro-thermal heat coils seconds before it drops, forcing intense split-second cooperative combat.
 
 2.  **The Glass-Bramble (Lung-Needle Spore-Bush) — [Flora]**
     *   *Appearance & Biology:* Low-creeping, barbed thickets that coat the rubble fields between domes. The stems are hollow silica crystals containing microscopic, razor-sharp needle spores.
-    *   *The Hazard:* When stepped on or disturbed by high winds, the brambles fracture with a high-pitched snap, detonating a cloud of microscopic silicon needles. Inhaling them causes instantaneous pulmonary laceration and accelerates *The Choke*.
+    *   *The Hazard:* When stepped on or disturbed by high winds, the brambles fracture with a high-pitched snap, detonating a cloud of microscopic silicon needles. The needles lacerate the lung. That wound is immediate. The Choke, if the scars hurry it, still arrives on the slow clock, not in the same hour.
     *   *Plot Dynamic:* Stepping on them shreds footwear and gear. Tsunari uses their brittle trigger mechanism to craft improvised acoustic and antipersonnel tripwires around their wilderness hideouts.
 
 #### C. The Useful (Survival Tools & Tactical Exploits)
@@ -322,7 +322,7 @@ In a world severed from global trade and choked by alien terraforming aerosols, 
 1.  **The Sieve-Beetle (Zeolite Scarab) — [Fauna]**
     *   *Appearance & Biology:* Heavy, fist-sized beetles with iridescent matte-black carapaces that thrive in subterranean sulfur drainage channels. They feed directly on toxic heavy metals, sulfur crusts, and airborne silica dust.
     *   *The Secret Utility:* Their digestive tract bio-synthesizes clean, activated zeolite and calcium carbonate, depositing dense, crystalline nodules along their dorsal shells before molting.
-    *   *Plot Dynamic:* Dustborn scavenge molted Sieve-Beetle shells and grind them with a mortar and pestle to hand-pack fresh respirator cartridges. Finding a living colony of Sieve-Beetles is the equivalent of striking an underground goldmine for a Gray Sector enclave.
+    *   *Plot Dynamic:* Dustborn scavenge molted Sieve-Beetle shells and grind them into cheaper filter packing. A colony saves a household money on Chen's counter. It is not a supply of breath they would die without.
 
 2.  **The Siphon-Reed (Dew-Weaver / Silver-Spike) — [Flora]**
     *   *Appearance & Biology:* Tall, ribbed hollow reeds that grow in flooded industrial basements and acidic runoff canals.

@@ -18,8 +18,8 @@
       ▼                                                      ▼
  ░░░░░░░░░░░░░░░░░░░░░░░ [ SECTOR 09: THE GRAY RING ] ░░░░░░░░░░░░░░░░░░░░░
  │ • 45 Million Dustborn Humans        • Subterranean Subway Bunkers       │
- │ • Amber Haze & Silt-Mash Economy    • The Null-Circuit Lab (Tsunari)    │
- │ • Scrubber Guilds & Liter-Hours     • "Doc" Mercer's Clinic (Simulacrum)│
+ │ • Lee-air & Silt-Mash Economy       • The Null-Circuit Lab (Tsunari)    │
+ │ • Guild stills & the Night Freeze   • "Doc" Mercer's Clinic (Simulacrum)│
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                    │
                                    ▼
@@ -94,15 +94,16 @@ The entire trilogy is focused upon a single, massive, elevated continental refug
 ### 4.2 Sector 09: The Gray Ring (The Human Crucible)
 *   **Location:** The expansive ruined metropolitan fringe encircling Bulkhead Wall Alpha.
 *   **Population:** Approximately **45 million baseline humans** living in multi-tiered underground transit hubs, repurposed pre-collapse structures, and salvage enclaves.
+*   **The Air:** Breathable for a lifetime. The dome's climate field spills past the wall. Strongest on the streets under the bulkhead, thinner and harder downwind. Faces are bare. People buy guild cartridges to sleep cleaner and push the Choke back, at about a day's wages a night. Skipping a night is a poorer morning, not a death. The durations, the price, and the pylon rule are in `01_world/world_and_history.md`.
 *   **Key Landmarks:**
     1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09.
     2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. Flight roost and military base of **Aeros-Legion 7**.
     3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange where Tsunari Thorne operates her reverse-engineering lab.
     4.  **"Doc" Mercer’s Triage Clinic:** An abandoned subway mezzanine triage station; secretly the observation terrarium maintained by Mercer (*Weaver-Unit 09*).
-    5.  **The Rust Bazaar (The Iron Market):** A sprawling night market under a collapsed highway interchange where oxygen *Liter-Hours*, scrap metal, and stolen bio-pastes are bartered.
+    5.  **The Rust Bazaar (The Iron Market):** A sprawling night market under a collapsed highway interchange, open after the silt settles, where distilled water, scrap metal, guild filter cartridges, and stolen bio-pastes are bartered. A cartridge is a health purchase. The crowd is bare-faced.
 
 ### 4.3 The Rust Barrens & Terra-Pylon Seven
-*   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Toxic silica dunes, rusted container depots, and dead highway skeletons.
+*   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Silica dunes, rusted container depots, and dead highway skeletons. This is the hardest air, worse again in the shadow of Terra-Pylon Seven, and a traveler does not choke on arrival. Days bring a cough. Months of living here unfiltered bring the early rattle. A breather or a cabin filter is a comfort and a way to arrive less wrecked. People live in cuts and buried stations.
 *   **Feral Dromaeon Grounds:** Packs of wild-born, reptilian Dromaeons prowl the concrete canyons at dusk.
 *   **Terra-Pylon Seven:** A 2,000-foot-tall biomechanical tower sunk deep into northern bedrock, pulsing violet light as it discharges alien sulfur-nitrogen aerosols into the jet stream.
 
