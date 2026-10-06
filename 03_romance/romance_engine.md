@@ -8,7 +8,7 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
     *   **Vram (The Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
     *   **Tsunari (The Dromaeon Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, twin Spire hooks, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
-    *   When Tsunari touches Vram, her cool, reptilian predator physiology and electromagnetic dead-zone act as an instantaneous heat-sink and ground wire. The screaming white noise and searing fever in his skull drop to absolute, blissful silence.
+    *   When Tsunari touches Vram, two different things happen at once. Her Mosaic Keystone shunts the Carrier, and the scream in the mesh goes silent. Her cooler Dromaeon body takes the furnace heat. The cold is not the ground. A cold chimera without the Keystone leaves the port screaming. The full rule is in `01_world/biosystem_and_tech.md`, sections 2 and 4.
     *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.
 
 ---
@@ -74,7 +74,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 | Operational Proximity | Effect on Abilities & Biometrics | Tactical & Psychological Dynamic |
 | :--- | :--- | :--- |
 | **Direct Contact (Skin-to-Skin)** | Optimal equilibrium. Grounding of quantum temporal strain; instant relief from lattice burn; rapid cellular stabilization. | Intense sensory awareness, complete cognitive clarity, zero energy waste. A high-voltage current of mutual vulnerability. |
-| **Close Tactical Range (1 – 15m)** | Steady ambient dampening active; high operational coordination; abilities can be pushed with minimal feedback. | Seamless combat synergy, mutual blind-spot coverage, unspoken communication through predator body language. |
+| **Close Tactical Range (inside about 15m)** | The ache dulls. It does not go silent. Only the strain return is absorbed. Voice and the position fix stay up. A strain command can still arrive until skin contact. A spoken order always can. | Seamless combat synergy, mutual blind-spot coverage. He can lie on the tactical link while she is in the room. The strain board looks quiet. His dot does not vanish. |
 | **Separated / Solo Operations** | Baseline functioning. Vram endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---

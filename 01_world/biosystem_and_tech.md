@@ -54,17 +54,22 @@ To avoid confusing specific lineages with general augmentation, the planetary bi
 
 ## 2. The Leash: The Vaelen Synapse Lattice
 
-*   **Anatomy:** A luminescent, semi-biological circuit grafted onto the brainstem and woven down the spinal column (*The Silver Spine*).
-*   **Functions:**
-    *   *Empathy Damping:* Chemically silences mirror neurons, fear, remorse, and romantic attraction.
-    *   *Adrenaline Surge:* Triggers controlled combat euphoria on command.
-    *   *Remote Execution:* If a unit defects or hesitates, the lattice initiates cerebral seizure, boiling the brain's cerebrospinal fluid within 10 seconds.
-*   **The Glitch (Neuro-Decay):**
-    *   The alien architecture was not engineered to tolerate baseline human hormonal spikes or repressed traumatic memory.
-    *   After 8–10 years of combat service, the lattice begins to generate horrific phantom pain, sensory feedback loops, and cellular breakdown.
-    *   Without regular recalibration doses (which the Vaelen ration strictly), the soldier goes mad in violent agony.
+Soldiers call the whole control system the Leash. The Vaelen name for the same system is the Synapse Lattice. This section is the rule for the ports, the carrier, and a ground. A later line that lets any human hand quiet a siphon loses to this one.
 
----
+*   **The three pieces:**
+    *   *The Silver Spine:* The mesh. A silver-white filament net grown through the brainstem and down the cord. It is not a rod on the back. In daylight it shows only as a pale thread under the skin where it meets a port, like wire under wax. When the carrier is hot, that thread dulls to a nickel color and the flesh over it tightens.
+    *   *The Siphons:* The antennas. Two sockets. One sits at the junction of skull and spine. One sits on the thoracic spine, between the wing roots on a flyer and on the upper back on everyone else. Each is a coin-sized ring of knurled titanium, flush with the skin, ridges sharp enough to catch a fingernail. Idle, the metal is cold. When the carrier flares, the rim scalds, the ring of skin goes purple, and the port smells of ozone. A collar that hides the throat is hiding the cervical socket, or the absence of one.
+    *   *The Carrier:* The strain broadcast. Spire Prime radiates it, tuned to that soldier's strain. Gain, the diagnostic, the obey impulse, and the kill ride this wave and no other. There is no battery in the neck. The soldier's metabolism supplies the local current, which is why a Simurgh furnace cooks the port faster. Pulling the rim out does not free the soldier. The mesh still rings until this wave is grounded or the mesh is dead.
+*   **The tactical link:** The other tuning in the same port. Voice, the position fix, wind, and target marks. A jaw-key in the field, or a shortwave microphone in a prowler and a bunker. The Directorate hears this link. It does not hear a conversation held with the link shut. It does not see through the eyes, and it does not read a thought. The Keystone does not match this tuning, so proximity does not sink it. He can hold her and lie to Cassian. He can stand in the same room and tell Corvus the asset is dead.
+*   **What can be forced:**
+    *   *The diagnostic:* An hourly sting through the mesh. Soldiers describe a needle behind the eye. It is a check, not a punishment.
+    *   *The obey impulse:* A micro-shock and a conditioned order. It pushes. It does not puppet the limbs. The soldier still flies their own body.
+    *   *The gain:* The Directorate can raise the carrier on a cohort it owns. Pain climbs. Lattice Burn accelerates. This is the scream Cassian's squad suffers when Vram leaves the formation.
+    *   *The kill:* Archon Xaevis alone. The master carrier stops the heart. Flatline, not a cooked skull. A corporate director cannot fire it.
+*   **Tracking:** The position fix is data. It stays up when she is near. Inside the Ring and the Aerie it is good. Pylon static and the open barrens dirty it. They still get a last position from the fix itself. What drops, inside about fifteen meters, is only the strain return: lattice gain and the harmonic the Vaelen receptors are built to read. The dot remains. The voice remains. A quiet strain line beside a live fix is the gap they do not yet know how to name. He can blame an EMP. Past fifteen meters the strain return climbs again. Skin contact is the further step, and it still only shorts the strain wave. A spoken order on the tactical link is not a strain command. Wings, eyes, and the Iron Division can hunt a body the fix already shows. A prowler's beacon is a third machine, in the vehicle. Silencing it does not ground the soldier. Grounding the soldier does not kill the beacon or the tactical link.
+*   **Legion kit that rides the leash:** The flight harness, cut for the thoracic port and the wings. The tactical link. Ice-salve for a hot rim. High-altitude breathing rigs, which are for thin air at the Aerie and are not the leash. Pyro-gel, which feeds the furnace that also heats the mesh. There is no second tracker bead. The data fix in the siphon is the body tracker. The strain wave is not.
+*   **Lattice Burn:** The mesh was insulated from the human nervous system on purpose, so the carrier would return to the Spire and not into the soldier. The waste of that insulation cooks the brain. After years of service the burn becomes chronic: fever, tremor, migraine, and a death that arrives around the early thirties if nothing shunts the carrier. Recalibration doses, rationed by the Vaelen, turn the gain down. They do not remove the mesh. The damper is meant to blunt fear and hesitation. It does not delete attachment. Attachment that survives the damper is the mutiny the company fears.
+*   **What a ground is:** The strain carrier is a circuit. It must return to the Spire. Tsunari's Mosaic Keystone is the missing return path for that wave only. Skin contact closes it through her. The strain wave dumps into her body and dies in the soldier's mesh. The scream stops. The port cools toward skin temperature. The fever that belonged to the leash drops. Voice and the position fix do not. The mesh is still there. When the contact breaks, the Spire path wins again and the burn returns. Grounding is not removal. The cure that lets a mesh hold a null without her hand is a later synthesis from her blood. It is not what a touch does.
 
 ## 3. Autonomous Biological Flight: Aeros-Legion 7 & The Winged Caste
 
@@ -75,7 +80,7 @@ Because human aviation is completely extinct due to global resource collapse (no
     *   Hollow, titanium-honeycombed bone matrices that withstand 12G flight maneuvers while retaining lightweight buoyancy.
     *   Iridescent, barometric-sensitive feathers that adjust pitch and drag autonomously to catch high-altitude thermal updrafts.
 *   **Neural Telemetry & Siphon Ports:**
-    *   Two circular titanium-rimmed siphon ports drilled into the soldier's vertebrae feed high-altitude wind vectors, thermal gradients, and combat targets directly into the brain.
+    *   The two siphon ports carry both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave.
 *   **The Alien Sky Monopoly:**
     *   The only mechanical flying craft on Earth belong exclusively to the **alien Vaelen**: soundless, floating crystalline **Harvester Barges** and atmospheric obelisks that glide through the stratosphere via anti-gravity field propulsion, completely beyond the reach of human engineering.
 
@@ -83,14 +88,14 @@ Because human aviation is completely extinct due to global resource collapse (no
 
 ## 4. The Biological Resonance Factor (Synergy over Leash)
 
-*   **The Genetic Anomaly:** Born in the radioactive and chemical fallout of the initial collapse, Tsunari’s genome developed an ultra-rare mutated enzyme / cellular frequency (*The Null-Resonator*).
-*   **The Effect on the Lattice:**
-    *   Her unique bio-electric field naturally neutralizes the alien lattice's agonizing feedback loops, dropping fever and preventing neuro-spasms.
-    *   Her blood, when synthesized into an aerosol or serum, can permanently dissolve the alien synaptic grip without killing the soldier.
-*   **Mutual Advantage (Not a Physical Leash):**
-    *   They do *not* drop dead if separated by 20 meters. Both are fully capable independent survivors.
-    *   Instead, their connection is a **high-reward biological catalyst**: when in proximity or touching, his neuro-pain vanishes, his physical abilities operate without thermal burnout, and her dampening field is supercharged by his bio-electric output.
-    *   Their alliance is an active, rational choice based on mutual survival and unbeatable tactical synergy.
+Null-Resonance is not a fallout accident and not a property of human skin. Jeffrey Thorne built it into the Mosaic Keystone when he inoculated Tsunari at seventeen. If any bare hand could quiet a siphon, the legion would already be free, and the premise of the book would be a known street trick.
+
+*   **Why it exists:** A corporate lattice is tuned to one strain and insulated from the body so the carrier returns to the Spire. Thorne gave his daughter the expressed body of a Dromaeon and, in the non-coding DNA, dormant receptor loci for the other four strains. Those receptors recognize every corporate mesh as kin. He gave her no collar. Her nervous system is the return path the mesh was denied: a null. A ground.
+*   **What contact does:** Skin closes the strain circuit only. That wave shunts into her and collapses in the soldier. Silence, a cooling port, the leash-fever dropping. A strain command coming down dies with it: diagnostic, obey, gain, and the kill. A spoken order does not. The quench is strongest with a hand on either siphon, because that metal is the antenna. A palm on the shoulder still closes it. The mesh remains in the spine. The tactical link stays live, which is why he can key it with his jaw while her skin is on his.
+*   **What nearness does:** Inside about fifteen meters, the Keystone swallows the strain return and nothing else. Lattice gain never reaches the Vaelen receptors. Position, voice, and a shortwave report do. He still feels the ordinary ache, because the Spire's strain broadcast is stronger than his return and some of it still arrives. A raised gain or an obey impulse can still bite until skin shorts the port. The kill can still be fired from orbit until that same contact. Fifteen meters is the working range for a scene. It is not a painted circle, and it is not silence. Silence is skin. Past that distance the strain return climbs again. Separation does not kill her or the soldier. Both remain able to fight alone. The chronic burn simply comes back.
+*   **What does not ground a lattice:** Another chimera is a second antenna. Baseline skin is insulation. Medics, lovers, and alley remedies have been tried. Cold scales and a human palm fail the same way. The Fatal Siphon is that proof: without the Keystone, metal stays hot and the carrier stays loud.
+*   **Any strain, one woman:** Because the dormant loci match all five meshes, her hand grounds a Simurgh, a Gryphon, a Lindwurm, a Fenris, or a Dromaeon. It does not have to be Vram. He is the soldier the book follows.
+*   **The Tether is the choice after the ground:** Held willingly, his output feeds her speed and her sink keeps his furnace from cooking the mesh. The glossary names that synergy the Biological Tether. It is not a chain. It does not replace the leash hardware. It is the reason a grounded soldier becomes more than a quiet weapon, and it is still a decision both of them make.
 
 ---
 
@@ -159,17 +164,16 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
 
 ### 7. The Pure Human Baseline & The Mosaic Keystone Genotype
 
-#### 7.1 The Pure Human Baseline (The Null-Lineage)
-*   **The Null-Resonance (Universal Ground Wire):** Pure, un-spliced human bio-electricity acts as a biological dead-zone for alien frequencies, quieting the chronic agony of the Synapse Lattice and stabilizing chimeric burnouts.
-*   **Bio-Electromagnetic EMP Pulse:** Under extreme focus, projects an active bio-pulse that scrambles nearby electronic optics, fries drones, and blinds alien sensor nets.
-*   **Mnemonic Immunity:** Because the brain has no synthetic alien neural nodes, pure humans are naturally resistant to memory manipulation and telepathic intrusion.
+#### 7.1 The Pure Human Baseline
+*   **No lattice, no ground:** A baseline human has no Silver Spine, so the carrier has nothing in them to grip. They are resistant to lattice memory-tricks aimed at a mesh they do not have. Their touch does not quiet a soldier. A palm on a siphon is skin on hot metal.
+*   **Why the old line was wrong:** Calling ordinary human bio-electricity a Null-Resonance made every medic a key. The null is the Keystone. It is one genome.
 
 #### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
 *   **The Problem Dr. Jeffrey Thorne Solved:** Single-strain chimeras suffer from biological xenophobia—a Lindwurm’s tissue rejects a Simurgh’s blood, and a Gryphon cannot tolerate a Dromaeon’s neuro-chemistry. Furthermore, all corporate strains are crippled by the Vaelen's Synapse Lattice collar.
 *   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not just splice her with a single lineage. He engineered her as the **Mosaic Keystone**:
     *   *Expressed Body (100% Mutation D: Dromaeon):* Her physical form is purely that of the Scythe-Stalker (explosive burst sprinting speed, athletic agility, reptilian shin scutes, horizontal slit irises, sub-vocal acoustic hunting syrinx).
     *   *Dormant Regulatory Matrix (The Keystone):* Her non-coding regulatory DNA contains dormant receptor loci of the other four ancient lineages (**Gryphon, Lindwurm, Simurgh, Fenris**).
-    *   *The Universal Rosetta Stone:* Because she carries the harmonized genetic receptors of all five strains without an alien neural collar, her **Null-Resonance** acts as a universal adapter. Her touch can ground Vram’s Simurgh solar fever, soothe Boran’s Lindwurm armor, and heal leashed soldiers across any strain without biological rejection.
+    *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
 
 #### 7.3 Concealment Protocols for Un-Collared Mutants
 In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Tsunari survives through four strict physical concealment practices:
@@ -229,7 +233,7 @@ While Simulacra walk among humans disguised in terrestrial skin, the true Vaelen
 *   **The Stranglehold of Alien Control:**
     1.  *Atmospheric Pressure:* The Terra-Pylons pump the Vaelen blend (high nitrogen, sulfur, methane trace) and hold the gradient. Dome air is clean. The lee is the easiest outdoor air and a place to live a whole life. The barrens and a pylon's shadow are harder, and the Choke there is still a matter of months and years. Filtered cartridges are a health purchase, about a day's wages a night. The endgame on the 14-month clock is to erase the lee and seal the domes.
     2.  *The Chrysalis Bribe:* Megacorporation directors (Apex, Vanguard, Aethelgard) are given longevity treatments that freeze their physical age at 30, compelling the human elite to enforce the alien harvest.
-    3.  *The Synapse Leash:* Chimeric soldiers are bound by titanium spinal ports; the Vaelen hold the master frequency to induce paralyzing migraines or instant cardiac flatlines.
+    3.  *The Synapse Leash:* Chimeric soldiers are bound by the siphon ports and the Silver Spine. The Directorate can raise the pain. Archon Xaevis can stop the heart. The rule is in section 2.
     4.  *Orbital Supremacy:* Spires enforce a complete space and aviation blockade, vaporizing any human projectile or aircraft.
 
 ---
@@ -299,7 +303,7 @@ People in the Ring cook. Silt-mash is the cheap staple, the way bread is, not th
 
 1.  **The Ghost-Lily (Silica-Lotus / Mnemonic Orchid) — [Flora]**
     *   *Appearance & Biology:* A nocturnal, translucent white succulent that sprouts exclusively from shattered plate glass and cracked concrete atop abandoned skyscrapers. Its crystalline, paper-thin petals absorb ambient lunar light and bioluminesce with a soft, pulsing azure-white glow.
-    *   *Sensory & Mnemonic Effect:* The flower releases a micro-aerosol that acts as a natural neuro-calmative. When inhaled by chimeric soldiers, it temporarily silences the static buzz of the Synapse Lattice and stimulates dormant limbic pathways.
+    *   *Sensory & Mnemonic Effect:* The flower releases a micro-aerosol that acts as a natural neuro-calmative. Inhaled, it dulls the noise the soldier hears and can stir a buried memory. It is a drug. The Carrier stays up, the port stays hot, and the fix still reports. It is not a ground.
     *   *Plot Dynamic:* Tsunari harvests its sap to brew fever-reducing salves for Vram; encountering a field of Ghost-Lilies during a sub-zero night provides a breathless, luminous haven where Vram’s erased childhood memories surface.
 
 2.  **The Zephyr-Moth (Gilded Whisperer) — [Fauna]**
