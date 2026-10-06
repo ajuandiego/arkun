@@ -32,7 +32,7 @@ The page features a side-by-side comparative Vitruvian anatomical layout display
 Surrounding technical callouts:
 - Inset A: Feather follicle cross-section contrasting flat resting alignment vs. flared thermal-dissipation angle.
 - Inset B: Micro-vascular study showing the high-density capillary network carrying superheated oxygenated fluid.
-- Inset C: Cervical spine detail illustrating the flush titanium-rimmed neural siphon ports integrated into vertebrae.
+- Inset C: Nape detail. One round metal socket centered where the head meets the back, with two short links running down the upper back. When hot, the flesh on both sides of the socket is swollen.
 
 Drawn with masterly graphite pencil, iron-gall sepia ink cross-hatching, and luminous watercolor glazes of molten gold, copper, and fiery crimson. Framed by manual drafting compass circles, heat-dissipation radii scales, and handwritten Latin medical cursive ('Homo Simurgh Solaris — Status Dormiens et Status Ignis'). Aged parchment with natural deckled edges and foxing. Historically authentic masterwork.
 ```

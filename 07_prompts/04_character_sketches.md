@@ -28,33 +28,29 @@ Keep this exact character sheet. Same woman, same face, same hair, same tunic, s
 
 ### Prompt
 ```text
-Full-body character model sheet in modern western comic book art style, bold ink lineart, crosshatching and halftone dot shading, crisp dynamic colors.
+Full-body character model sheet in modern western comic book art style, bold ink lineart, crosshatching and halftone dot shading, crisp colors. Neutral industrial hangar. No text, no captions, no labels, no letters.
 
-Character Design & Body Proportions:
-Commander Vram Tyage, a 28-year-old soldier in his physical prime. A light facial resemblance to Maxi Iglesias, but harder: a stern, commanding expression, not gentle. Handsome Mediterranean features, strong brow, straight nose, sharp cheekbones, smooth unlined skin. Towering, about 6'4", heavily built: thick neck, broad chest, dense arms and shoulders, a soldier's muscle, powerful without looking like a cartoon bodybuilder.
+Commander Vram Tyage, 28, in his prime. A light resemblance to Maxi Iglesias, harder: stern and commanding, not gentle, not a scowl. Handsome Mediterranean face, strong brow, straight nose, sharp cheekbones, smooth unlined skin. Molten-gold irises in a believable human eye. A short beard, close along the jaw, the same warm brown as his hair. Not a full beard, not bushy, not clean-shaven. Thick textured hair, medium chestnut with caramel strands, not black. A disciplined man-bun at the crown, tapered sides, a few loose strands at the temples.
 
-Facial Details & Eyes:
-Molten-gold irises with a soft predatory ember, set in a believable human eye. Defined masculine eyebrows. A crisp, short-to-medium beard, neatly sculpted along the jaw, the same clear brown as his hair. Not bushy, not scruffy, not clean-shaven.
+About 6'4", thick neck, broad chest, dense arms and shoulders. A soldier's muscle. Not a shirtless bodybuilder.
 
-Hairstyle:
-Thick, textured, slightly curly hair in a clear warm brown, the color of the reference photo: medium chestnut with lighter caramel strands, not black, not raven. Worn in a disciplined warrior man-bun at the crown, tapered sides, a few loose strands framing the temples.
+Outfit: a plain sleeveless black flight tunic, matte, no gold, no copper trim, no piping, no insignia. The chest is covered. The back is open from the neck to the wing roots so the wings and the nape leash can pass through. Black combat breeches. Black knee-high flight boots. A plain black belt. Bare arms. No bracers, no bracelets, no gloves.
 
-Outfit:
-The upper uniform is a black flight harness, not a decorated tunic. Matte black straps over the chest and shoulders, cut open for the wings and for the port between them. No gold, no copper trim, no gold piping, no gold boots. Black combat breeches. Black knee-high flight boots. A black belt. Bare arms. No bracers and no decorative bracelets. One interface bracelet only: a slim dark metal cuff on one forearm.
+No firearm. No pistol, no holster, no rifle, no sheath, no knife. His weapons are the wings and the hands. Empty belt.
 
-Mutation marks and the leash:
-Feathers are black. Gold and red show only as iridescence on those black feathers, not as bronze or brown plumage. The wings fold down his back.
-The Silver Spine is not a rod. It is a pale silver thread under the skin, like wire under wax, visible where it meets the ports.
-The siphons are two coin-sized knurled titanium rings, flush with the skin. One sits at the base of the skull, where the neck meets the spine. The other sits on the upper back between the wing roots. The pale thread runs under the skin between them.
+Wings, on every full-body view: FOLDED. They hang down his back like a black cloak of overlapping feathers, tips near the calves. They are not spread. They are not half-open. From the front, only a narrow black feathered edge shows past each shoulder.
 
-Composition & Layout:
-Multiple full-figure angles in a clean concept art sheet: primary three-quarter front standing view, head to toe; a side profile; a back view that shows the folded wings and the man-bun; and a close-up of the face and molten-gold eyes. Neutral industrial hangar background. Completely clean presentation, no text, no captions, no typography, no labels, no title cards, no letters.
+Feathers, not metal plates and not bronze plumage. Each quill has a shaft, a vane, and barbs. The vanes are black. Gold and red appear only as a thin iridescent sheen along the shafts of the long primaries. The shorter feathers near the body are plain black, with no red inner wing and no gold vanes. One small unlabeled study beside the figures shows a single primary close up: a black feather, with a thin gold and red glint on the shaft only.
+
+The leash, idle, copied from the hardware plate: one round iris socket in a dark bolted seat, centered where the head meets the back. Below it, a short two-link metal assembly, two side links joining a small lower plate. It sits on the bare nape, above the folded wings. Not swollen. No red skin. No second port. No rod. No pale thread. No chain.
+
+Sheet layout, left to right: three-quarter front, head to toe, wings folded; side profile, wings folded; back view, wings folded as the black cloak, the iris socket and the two links visible on the nape; face close-up with the molten-gold eyes; the single primary feather beside them, no label.
 ```
 
 *   **Aspect Ratio:** `16:9` (Wide landscape model sheet)
-*   **Hair reference:** clear warm brown, as in the attached portrait
-*   **Output:** `08_media/vram_3.jpg`
-*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, black hair, raven hair, gray hair, old, elderly, wrinkles, gentle smile, soft expression, bushy beard, long beard, clean-shaven, gold suit, gold trim, gold boots, gold bracers, bracelets, jacket, coat, sleeves, bronze wings, brown wings, anime, photorealistic, blurry`
+*   **Leash reference:** `08_media/the_leash.jpg` (idle side, not the swollen side)
+*   **Output:** `08_media/vram_5.jpg`
+*   **Recommended Negatives:** `text, captions, typography, labels, title cards, letters, watermark, gun, pistol, holster, sidearm, firearm, rifle, knife, sword, black hair, raven hair, gray hair, old, elderly, wrinkles, gentle smile, scowl, bushy beard, full beard, long beard, clean-shaven, gold suit, gold trim, gold piping, gold boots, bracers, bracelets, jacket, coat, sleeves, shirtless, bare chest, spread wings, open wings, half-spread wings, bronze wings, brown wings, red wings, gold wings, metal rod, cybernetic spine, anime, photorealistic, blurry`
 
 ---
 

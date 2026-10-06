@@ -20,7 +20,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ### Internal Romance Arc (B-Track)
 *   **First Impression (Hostility & Arrogance):** She sees an inhuman, vat-grown butcher; he sees an insolent, expendable rebel thief.
-*   **The Inciting Touch:** During their violent grapple, Tsunari drives a ceramic vibro-blade toward his throat; Vram catches her wrist. In the struggle, her bare palm collides with his exposed neural siphon port.
+*   **The Inciting Touch:** During their violent grapple, Tsunari drives a ceramic vibro-blade toward his throat; Vram catches her wrist. In the struggle, her bare palm finds the siphon at his nape.
 *   **The Humiliating Shockwave:** The screaming white-hot agony inside his skull vanishes into absolute, stunning silence. For five seconds, Vram forgets how to breathe, collapsing to his knees. Instead of delivering her to execution, he conceals her from his own squad and bundles her into his personal armored transport.
 *   **The Friction of Shame:** Vram is enraged and humiliated that an elite commander’s stability depends on a captive; Tsunari instantly recognizes his chronic fever as a loaded weapon she can hold to his head.
 

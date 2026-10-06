@@ -44,3 +44,4 @@ When submitting these prompts to Gemini (or Imagen 3):
 *   [03_chimeric_strains_codex.md](file:///Users/diego/oned/book/07_prompts/03_chimeric_strains_codex.md) — Bestiary plates of the 5 primordial beasts (original prehistoric and mythical lineages).
 *   [04_character_sketches.md](file:///Users/diego/oned/book/07_prompts/04_character_sketches.md) — Vitruvian & field sketches of Tsunari Thorne, Vram Tyage, Gideon Cross, Ren, The Vaelen Simulacrum autopsy, The Forger, Caelia (The Promised Bride), and Commander Malakar (Ember-Prime).
 *   [05_human_mutations/](file:///Users/diego/oned/book/07_prompts/05_human_mutations/README.md) — Detailed human mutation codex for all 5 strains, depicting **male and female bodies** in both **Resting State** and **Enhanced (Fight-or-Flight) State**.
+*   [06_tech.md](06_tech.md): Tech plates. The leash, as it sits on any chimera.

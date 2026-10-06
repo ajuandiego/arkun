@@ -37,7 +37,7 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The Four Main Chimeric Divisions:**
-    1.  **Aeros-Legion 7 (Gryphon Strain — Commander Vram Tyage):** The aristocratic lords of the skies. Engineered with massive 14-foot biological wings, hollow titanium-reinforced bone matrices, and high-altitude thermal physiology, they dive from the High Aerie to enforce absolute air superiority without requiring aircraft or fuel. Key roster:
+    1.  **Aeros-Legion 7 (mixed Gryphon and Simurgh flight — Commander Vram Tyage):** The sky cohort at Dome Alpha. The Gryphon share supplies the 14-foot wings, the hollow titanium bone, and the dive. Most of those wings are slate. Vram's are black, with gold and red iridescence, because he is mostly Simurgh. They dive from the High Aerie and hold the air without aircraft or fuel. Key roster:
         *   *Commander Vram Tyage (Aeros-Actual):* Spliced Simurgh/Gryphon flight commander.
         *   *Lt. Cassian Vance (Talon-Two):* Cynical tactical second-in-command.
         *   *Sgt. Veda Frost (Screech):* Harpy/Dromaeon close-quarters shock vanguard.

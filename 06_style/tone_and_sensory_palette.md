@@ -17,7 +17,7 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 *   **The Heat Contrast:** Vram’s chimeric core temperature runs at 104°F; when Tsunari touches him, he feels like a forge. In contrast, the alien tech is unnervingly freezing to the touch.
 *   **Tactile Elements:**
     *   *Feather shafts:* Smooth, iridescent, razor-edged quill bases along his spine that soften when stroked gently.
-    *   *The Siphon ports:* Cold, knurled titanium sockets grafted into warm, living cervical vertebrae.
+    *   *The Siphon:* One round metal socket centered where the head meets the back, with two short links running down the upper back. Cold when idle. When the carrier is hot, the flesh on both sides of the socket swells.
     *   *Hair & Man Bun:* The tactile friction of Tsunari’s cool, calloused fingers sliding through his tapered undercut to untie his warrior man-bun during fever triage, letting thick dark hair spill across his broad shoulders.
     *   *Beard Texture:* The crisp, trimmed prickle of his sculpted angular beard pressing against her palm or the crook of her neck, contrasting with his radiant 106°F skin.
     *   *Skin:* Calloused, grease-stained human fingers against taut, scarred military muscle.
@@ -94,7 +94,7 @@ In a world where corporate masters treat people like disposable livestock, **pre
 
 ### 3. Biological & Sensual Resonance (Fire and Cool Stone)
 The characters are lethal weapons, but in the quiet of survival, their biology creates stunning sensory intimacy:
-*   **The Hearth in the Bone:** When Vram rests in the dark, his 106°F internal Simurgh furnace causes the micro-capillaries beneath his skin to pulse with a faint, steady golden ember-glow, while the primary shafts of his obsidian wings shimmer with copper iridescence in the firelight. To a freezing wasteland survivor, his body is an irresistible, radiant hearth.
+*   **The Hearth in the Bone:** When Vram rests in the dark, his 106°F internal Simurgh furnace causes the micro-capillaries beneath his skin to pulse with a faint, steady golden ember-glow. His wings are black. Gold and red iridescence shows on the primary shafts in the firelight. A surge can lift that shine until the wing reads as gold, and it cools back to black. To a freezing wasteland survivor, his body is a radiant hearth.
 *   **The Hammered Pewter of the Shadow:** Tsunari’s fine reptilian scales are not coarse lizard hide; they have the smooth, delicate geometric sheen of hammered pewter or fine dark silk moiré. Her movements are an eerie, silent fluid grace—moving through shadows like ink diffusing in water.
 *   **The Tactile Oasis:** When Tsunari’s cool, calloused hand rests against Vram’s burning, scarred neck to quench his lattice tremors, the sensation is an oasis for both: she cools his fire; he warms her chill.
 
