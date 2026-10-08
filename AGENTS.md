@@ -46,7 +46,7 @@ Reference these paths when generating or editing. Do not invent `/outline/`, `/l
 * `canon/pitch.md`: series logline and the three book pitches.
 * `canon/concept.md`: early premise. Use only when the other canon files are silent.
 * `canon/world/`: calendar, air, society, geography, the Cradle, politics, factions, and the living systems under `life/`.
-* `canon/characters/`: Tsunari, Vram, the squad, Mercer, allies, the cult's hunters, and the Thorne family. Xaevis, Lyraen, Corvus, and Gideon live with their factions.
+* `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
 * `canon/plot/`: trilogy shape, the dual track, and the three book breakdowns. Book 1 is `canon/plot/book1/`, four part files, 44 chapters, five interludes.

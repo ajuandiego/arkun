@@ -11,10 +11,4 @@
     *   The three conglomerates constantly run clandestine black-ops against each other in the Gray Sectors to steal raw genetic blueprints and sabotage rival bio-vats.
     *   *The Looming Obsolescence Dread:* As the 14-month extinction clock accelerates, human executives are beginning to realize that the Vaelen view them as disposable farm managers. Rumors that high-ranking corporate directors have been replaced by alien Simulacra fuel internal terror.
 
----
-
-
-### Director Elena Corvus (Apex GeneSys)
-*   **Role:** Chief Executive of Human Optimization inside Eden Dome Alpha.
-*   **Personality:** Ruthless corporate oligarch who underwent three Chrysalis treatments; appears thirty years old despite being eighty.
-*   **Relationship to Vram:** Considers Vram her masterwork. She speaks to him with terrifying maternal patronization ("My beautiful weapon"). The realization that Vram is defying her for a dirty Gray-Sector rebel infuriates her vanity.
+Director Elena Corvus is in `../../characters/corvus.md`.
