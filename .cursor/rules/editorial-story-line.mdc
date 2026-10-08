@@ -16,11 +16,11 @@ This pass asks what the book is about and whether the pages deliver that argumen
 
 Book 1, *Stolen Breath*, asks whether Tsunari Thorne and Vram Tyage can turn a hunt into a chosen alliance in time to expose the extinction clock, without corporate pardon or cult worship owning either of them.
 
-Read `pitch.md`, `05_plot/trilogy_overview.md`, and `05_plot/story_beats_dual_track.md`. The external track and the romantic track must tighten together. A battle that does not change the bond, or a bond scene that does not change the survival problem, is a story-line fault.
+Read `canon/pitch.md`, `canon/plot/trilogy_overview.md`, and `canon/plot/story_beats_dual_track.md`. The external track and the romantic track must tighten together. A battle that does not change the bond, or a bond scene that does not change the survival problem, is a story-line fault.
 
 ## Shape
 
-`05_plot/book1_breakdown.md` is the chapter promise. Four parts, 44 chapters, five interludes:
+`canon/plot/book1/README.md` is the chapter promise. Four parts, 44 chapters, five interludes:
 
 - Part I, chapters 1 to 10: the theft, the hunt, the first touch.
 - Part II, chapters 11 to 22: secret captivity, then defection.

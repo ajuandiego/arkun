@@ -16,8 +16,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "reader" / "public" / "assets"
-OUT_PDF = ROOT / "11_kdp" / "Stolen_Breath_Cover_6x9.pdf"
-OUT_PNG = ROOT / "11_kdp" / "Stolen_Breath_Cover_6x9.png"
+OUT_PDF = ROOT / "kdp" / "Stolen_Breath_Cover_6x9.pdf"
+OUT_PNG = ROOT / "kdp" / "Stolen_Breath_Cover_6x9.png"
 
 DPI = 300
 TRIM_W = 6.0

@@ -14,7 +14,7 @@ A plant is allowed. A payoff spent early is not. Compare the reveal to the ring 
 
 ## Inside Book 1
 
-`05_plot/book1_breakdown.md` releases the world in rings:
+`canon/plot/book1/README.md` releases the world in rings:
 
 - Chapters 1 to 10: scarcity, the wall, the hunt, the touch. Not the full political map.
 - Chapters 11 to 22: corporate and Vaelen hierarchy, why wings replaced aircraft, the cost of treason.
@@ -27,7 +27,7 @@ Malakar's fate after the flumes stays unknown. Do not let an epilogue confirm hi
 
 ## Later books
 
-From `05_plot/book2_breakdown.md`, `05_plot/book3_breakdown.md`, and `pitch.md`, Book 1 may aim at these and must not complete them:
+From `canon/plot/book2_breakdown.md`, `canon/plot/book3_breakdown.md`, and `canon/pitch.md`, Book 1 may aim at these and must not complete them:
 
 - Book 2, *Crown of Salt*: global aerosol synthesis, Simulacra inside the resistance, the mentor betrayal, Vram taken to Spire Prime. Full sexual consummation belongs to Book 2 in the romance files and to the vault in `book1_breakdown.md`. If the manuscript does one of those, do not call it a spoiler until you have noted that conflict. Call it a spoiler only when a Book 2 event after that contract is shown early (the spring, the separation, the Spire abduction).
 - Book 3, *Unleashed*: the armada, the Spire rescue, the kill-switch and solar rebirth, reversal of the terra-pylons, and arrival at the Verdant Cradle.

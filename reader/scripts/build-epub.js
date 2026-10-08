@@ -22,7 +22,7 @@ marked.use({
 });
 
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, '09_manuscript', 'book1');
+const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
 const OUTPUT_DIR = path.join(__dirname, '..', 'books', 'book1');
 const COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'cover.jpg');
 const BACK_COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'back_cover.jpg');

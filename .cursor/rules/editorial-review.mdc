@@ -3,7 +3,7 @@ description: >-
   Editorial review of a Stolen Breath / Arkun Cycle manuscript. Use when the
   user asks for an editorial, developmental, continuity, accuracy, character,
   or plot-hole review and gives a path to the book file. Read that file in
-  full, judge it against the repo canon, and write the review to 10_reviews
+  full, judge it against the repo canon, and write the review to reviews
   using ledger.csv for the next number.
 alwaysApply: false
 ---
@@ -12,27 +12,27 @@ alwaysApply: false
 
 Run this only when the user asks for an editorial review and gives a manuscript path. If they do not give a path, ask for one. Do not pick a file yourself, and do not start from memory of a previous read.
 
-The file at that path is the text under review. `09_manuscript/book1/*.md` and `reader/` are not a second draft to reconcile unless the user asks for a version diff. `07_prompts/` is art direction, not plot canon.
+The file at that path is the text under review. `manuscript/book1/*.md` and `reader/` are not a second draft to reconcile unless the user asks for a version diff. `assets/prompts/` is art direction, not plot canon.
 
-Do not edit the manuscript, the canon, or these rules unless the user asks. The review file and `10_reviews/ledger.csv` are the delivery. Write those even when the user does not repeat the instruction. Writing a review does not change the book. Implementing findings is `.cursor/rules/editorial-apply.mdc`, and only when the user asks to apply a review.
+Do not edit the manuscript, the canon, or these rules unless the user asks. The review file and `reviews/ledger.csv` are the delivery. Write those even when the user does not repeat the instruction. Writing a review does not change the book. Implementing findings is `.cursor/rules/editorial-apply.mdc`, and only when the user asks to apply a review.
 
 ## How to read
 
 1. Read the manuscript from start to finish, in order, in chunks if it is long. A full book is required when the path is the full book. Do not sample act breaks and call that a review.
-2. While reading, keep private story notes: day/hour, place, who is present, injuries, fever and tether state, objects (Lazarus Key, weapons, transport, filters), who knows which secret, romance phase, and promises not yet paid off. Those notes are not `10_reviews/ledger.csv`.
+2. While reading, keep private story notes: day/hour, place, who is present, injuries, fever and tether state, objects (Lazarus Key, weapons, transport, filters), who knows which secret, romance phase, and promises not yet paid off. Those notes are not `reviews/ledger.csv`.
 3. Read the canon below before you write findings. Reopen a canon file when a scene touches that system. Quote the manuscript and name the canon file in every finding.
 
 Canon to load:
 
-- `05_plot/book1_breakdown.md` and `05_plot/story_beats_dual_track.md`: chapter job, POV, setting, epigraph rule, act turns.
-- `05_plot/trilogy_overview.md`, `05_plot/book2_breakdown.md`, `05_plot/book3_breakdown.md`: facts Book 1 may plant but must not spend. Book 2 is *Crown of Salt*. Book 3 is *Unleashed*.
-- `02_characters/protagonist_fmc.md`, `02_characters/love_interest_mmc.md`, `02_characters/secondary_characters.md`: bodies, ages, names, wants, lies, voices.
-- `03_romance/romance_engine.md` and `03_romance/tropes_and_heat_profile.md`: phase order and heat contract.
-- `01_world/world_and_history.md`, `01_world/biosystem_and_tech.md`, `01_world/factions_and_politics.md`, `01_world/geography_and_territories.md`: history, five strains, politics, travel.
-- `04_settings/locations_and_sensory.md` and `06_style/tone_and_sensory_palette.md`: place and prose.
-- `06_style/glossary_and_terminology.md`: names of things. Wrong terms are findings.
-- `pitch.md`: the promise on the cover. A book that drops the Lazarus Key, the tether, or the 14-month seal has broken the pitch.
-- `concept.md` is an early sketch (unnamed leads, a single Griffin Unit). It loses to the numbered files. Do not flag the five-strain system because `concept.md` still says Griffin.
+- `canon/plot/book1/README.md` and `canon/plot/story_beats_dual_track.md`: chapter job, POV, setting, epigraph rule, act turns.
+- `canon/plot/trilogy_overview.md`, `canon/plot/book2_breakdown.md`, `canon/plot/book3_breakdown.md`: facts Book 1 may plant but must not spend. Book 2 is *Crown of Salt*. Book 3 is *Unleashed*.
+- `canon/characters/tsunari.md`, `canon/characters/vram.md`, `canon/characters/README.md`: bodies, ages, names, wants, lies, voices.
+- `canon/romance/romance_engine.md` and `canon/romance/tropes_and_heat_profile.md`: phase order and heat contract.
+- `canon/world/README.md`, `canon/world/life/README.md`, `canon/world/factions/README.md`, `canon/world/geography.md`: history, five strains, politics, travel.
+- `canon/places/locations_and_sensory.md`, `canon/style/voice.md`, and `canon/style/sensory.md`: place and prose.
+- `canon/style/glossary.md`: names of things. Wrong terms are findings.
+- `canon/pitch.md`: the promise on the cover. A book that drops the Lazarus Key, the tether, or the 14-month seal has broken the pitch.
+- `canon/concept.md` is an early sketch (unnamed leads, a single Griffin Unit). It loses to the other files in `canon/`. Do not flag the five-strain system because `canon/concept.md` still says Griffin.
 
 If two canon files disagree, report a canon conflict with both filenames. Do not silently pick one and mark the manuscript wrong.
 
@@ -86,7 +86,7 @@ Name the path you reviewed, the chapter count you actually read, and any stretch
 
 ## Where to deliver
 
-Reviews live in `10_reviews/`. `10_reviews/ledger.csv` is the index of reviews already applied. Read it before assigning a number. Do not trust a guess from the chat history.
+Reviews live in `reviews/`. `reviews/ledger.csv` is the index of reviews already applied. Read it before assigning a number. Do not trust a guess from the chat history.
 
 Columns:
 
@@ -102,7 +102,7 @@ number,file,date,manuscript,scope,status,fixes
 - `status`: `applied` once the review file is written. This means the review exists. It does not mean the manuscript was changed.
 - `fixes`: `open` on a new row. `.cursor/rules/editorial-apply.mdc` moves it to `partial` or `done`.
 
-Write `10_reviews/NNN.md` first. Then append one row. Quote a field that contains a comma. Never reuse a number, never overwrite an applied review, and never renumber old rows. If the folder has a numbered file the ledger lacks, add the missing row from that file before taking a new number. If the ledger lists a file that is not on disk, stop and tell the user.
+Write `reviews/NNN.md` first. Then append one row. Quote a field that contains a comma. Never reuse a number, never overwrite an applied review, and never renumber old rows. If the folder has a numbered file the ledger lacks, add the missing row from that file before taking a new number. If the ledger lists a file that is not on disk, stop and tell the user.
 
 The review file opens with the same facts as its row: number, date, manuscript path, scope, chapters read. The rest is the review.
 

@@ -14,7 +14,7 @@ Two questions: does this match the bible, and can the reader feel this place.
 
 ## World rules
 
-Load `01_world/world_and_history.md`, `01_world/biosystem_and_tech.md`, `01_world/factions_and_politics.md`, `01_world/geography_and_territories.md`, `04_settings/locations_and_sensory.md`, and `06_style/glossary_and_terminology.md`.
+Load `canon/world/README.md`, `canon/world/life/README.md`, `canon/world/factions/README.md`, `canon/world/geography.md`, `canon/places/locations_and_sensory.md`, and `canon/style/glossary.md`.
 
 - Five strains stay distinct: G Gryphon, L Lindwurm, S Simurgh, F Fenris, D Dromaeon. Abilities do not migrate.
 - Arkun is the break of conditioning into a personal ability, not a generic power-up word.
@@ -24,11 +24,11 @@ Load `01_world/world_and_history.md`, `01_world/biosystem_and_tech.md`, `01_worl
 - History matches the calendar. The Storm is Year 0. Mythic beasts are ancient Vaelen constructs, revealed on the breakdown's schedule, not as a lecture in chapter 2.
 - A coined term that duplicates a glossary entry is a finding. Quote the glossary name.
 
-`concept.md` does not win against these files.
+`canon/concept.md` does not win against these files.
 
 ## Sensory
 
-Load `06_style/tone_and_sensory_palette.md`. Prose is grit, heat, and metal, not lab-report sci-fi and not abstract awe.
+Load `canon/style/sensory.md` and `canon/style/voice.md`. Prose is grit, heat, and metal, not lab-report sci-fi and not abstract awe.
 
 - Dome, Gray Ring, Rust Barrens, sump, and Glass Vault need different smell, sound, light, and air. If two places share the same paragraph of atmosphere, flag the later one.
 - Vram reads as furnace, ozone, feather, and hot metal. Tsunari reads as dust, sage, and cool predator. A signature repeated with no new fact is Redundancy, not a nit here. Dropping it in a scene that is about touch is a major miss.

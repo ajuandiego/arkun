@@ -10,19 +10,19 @@ alwaysApply: false
 
 Category: Character. Shared method lives in `.cursor/rules/editorial-review.mdc`. Spoken voice in detail is `.cursor/rules/editorial-dialogue.mdc`.
 
-Read `02_characters/protagonist_fmc.md`, `02_characters/love_interest_mmc.md`, and the whole of `02_characters/secondary_characters.md` before judging. The cast list in any rule is not complete.
+Read `canon/characters/tsunari.md`, `canon/characters/vram.md`, and the whole of `canon/characters/README.md` before judging. The cast list in any rule is not complete.
 
 ## Leads
 
 Tsunari's lie: attachment is a trap; speed and striking first are the only truth. She wants unbound survival and the air keys. She needs a partnership that does not make her property. Her ghost is Year 31 AS, her father, the Mosaic inoculation, Sora, and Doc Mercer. She is a calculating stalker, not a waif and not a quip machine.
 
-Vram's body was built for obedience. Early on, peace feels like humiliation, not tenderness. He becomes a man who can refuse two masters. He is not a soft hero in Part I. Track the change at the act breaks in `05_plot/story_beats_dual_track.md`. A kindness with no scene that earned it is a finding.
+Vram's body was built for obedience. Early on, peace feels like humiliation, not tenderness. He becomes a man who can refuse two masters. He is not a soft hero in Part I. Track the change at the act breaks in `canon/plot/story_beats_dual_track.md`. A kindness with no scene that earned it is a finding.
 
 Judge a choice against the dossier. If the page is doing a new character beat on purpose, mark a divergence and say what the old lie would have done instead.
 
 ## Embodiment
 
-Appearance, scent, and strain markers come from the dossiers and `01_world/biosystem_and_tech.md`. Flag a body that changes (eyes, height, wings, claws, beard, hair, clothing contract) and a ability used by the wrong strain. Tsunari is Mutation D. Vram is Mutation S with Mutation G wings.
+Appearance, scent, and strain markers come from the dossiers and `canon/world/life/README.md`. Flag a body that changes (eyes, height, wings, claws, beard, hair, clothing contract) and a ability used by the wrong strain. Tsunari is Mutation D. Vram is Mutation S with Mutation G wings.
 
 ## Secondaries
 

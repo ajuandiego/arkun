@@ -11,8 +11,8 @@ const { execSync } = require('child_process');
 const { marked } = require('marked');
 
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, '09_manuscript', 'book1');
-const OUTPUT_DIR_MANUSCRIPT = path.join(ROOT_DIR, '09_manuscript');
+const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
+const OUTPUT_DIR_MANUSCRIPT = path.join(ROOT_DIR, 'manuscript');
 const OUTPUT_DIR_READER = path.join(ROOT_DIR, 'reader', 'books', 'book1');
 const COVER_PATH = path.join(ROOT_DIR, 'reader', 'public', 'assets', 'cover_kdp_highres.jpg');
 const BACK_COVER_PATH = path.join(ROOT_DIR, 'reader', 'public', 'assets', 'back_cover_kdp_highres.jpg');

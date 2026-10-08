@@ -1,7 +1,7 @@
 ---
 description: >-
   Apply an Arkun Cycle editorial review to the manuscript. Use when the user
-  asks to apply, implement, or fix the book from a review in 10_reviews, or
+  asks to apply, implement, or fix the book from a review in reviews, or
   names a review number to act on. Analyze the findings first, then edit only
   what the review supports.
 alwaysApply: false
@@ -13,10 +13,10 @@ Use this when the user wants a written review carried into the manuscript. Do no
 
 ## Read before editing
 
-1. Read `10_reviews/ledger.csv`. If the user does not name a number, use the highest `number` whose `fixes` value is `open` or `partial`. If they name one, use that row. If `fixes` is already `done`, say so and stop unless they ask to reopen it.
-2. Read `10_reviews/NNN.md` for that row. The `manuscript` column is the only file you may edit. Do not also edit a sibling `.md` or `.txt` unless the user asks.
-3. Read `10_reviews/NNN_apply.md` if it exists. It is the checklist. Do not re-apply a row marked `done`.
-4. Reopen the canon file named in a finding before changing prose that depends on it. `concept.md` still loses to the numbered canon.
+1. Read `reviews/ledger.csv`. If the user does not name a number, use the highest `number` whose `fixes` value is `open` or `partial`. If they name one, use that row. If `fixes` is already `done`, say so and stop unless they ask to reopen it.
+2. Read `reviews/NNN.md` for that row. The `manuscript` column is the only file you may edit. Do not also edit a sibling `.md` or `.txt` unless the user asks.
+3. Read `reviews/NNN_apply.md` if it exists. It is the checklist. Do not re-apply a row marked `done`.
+4. Reopen the canon file named in a finding before changing prose that depends on it. `canon/concept.md` still loses to the other files in `canon/`.
 
 ## Analyze
 
@@ -43,12 +43,12 @@ After the edits, reread each changed passage against its finding. If the contrad
 
 ## Record
 
-Create or update `10_reviews/NNN_apply.md`. Do not rewrite `10_reviews/NNN.md`.
+Create or update `reviews/NNN_apply.md`. Do not rewrite `reviews/NNN.md`.
 
 ```markdown
 # Application NNN
 
-- Review: 10_reviews/NNN.md
+- Review: reviews/NNN.md
 - Manuscript: <path from the ledger>
 - Date: YYYY-MM-DD
 
@@ -59,7 +59,7 @@ Create or update `10_reviews/NNN_apply.md`. Do not rewrite `10_reviews/NNN.md`.
 
 `decision` is `done`, `ask`, `skip`, or `blocked`. `done` requires an edit already in the manuscript.
 
-Then update that row's `fixes` cell in `10_reviews/ledger.csv`:
+Then update that row's `fixes` cell in `reviews/ledger.csv`:
 
 - `partial` if any Blocker or Major is still `ask`, `skip` by the default batch, or `blocked`.
 - `done` only when every Blocker and Major is `done` or an explicit `skip` the user confirmed.

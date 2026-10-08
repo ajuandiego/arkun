@@ -4,7 +4,7 @@
 **Active book:** Book 1, *Stolen Breath*  
 **Series:** *Stolen Breath*, *Crown of Salt*, *Unleashed*
 
-Numbered canon wins when files disagree. `concept.md` is an early blueprint and loses to `01_world/` through `06_style/` and `05_plot/`. `pitch.md` is the public series pitch. The prose on the page is `09_manuscript/book1/`.
+`canon/` wins when files disagree. `canon/concept.md` is an early blueprint and loses to the other files in that folder. `canon/pitch.md` is the public series pitch. The prose on the page is `manuscript/book1/`. Each `canon` folder has a README that names the file to open. A README does not restate the lore.
 
 ## 1. Core Premise & Logline
 
@@ -22,7 +22,7 @@ Numbered canon wins when files disagree. `concept.md` is an early blueprint and 
 
 ## 3. Style & Prose Guide
 
-Read `06_style/tone_and_sensory_palette.md` and `06_style/glossary_and_terminology.md` before drafting or line-editing.
+Read `canon/style/voice.md`, `canon/style/sensory.md`, and `canon/style/glossary.md` before drafting or line-editing.
 
 * **Point of view:** Alternating first person, one lead per chapter. Chapter headers name the POV (`Chapter N // Tsunari` or `Chapter N // Vram`). Tsunari thinks in hazard, telemetry, and leverage. Vram thinks in sight lines, heat, and her micro-movements. Tsune is the field name. Tsunie is Vram's private diminutive only.
 * **Tense:** Present.
@@ -41,42 +41,28 @@ Five strains stay distinct: Gryphon, Lindwurm, Simurgh, Fenris, Dromaeon. Abilit
 
 ## 4. Directory & File Structure
 
-Reference these paths when generating or editing. Do not invent `/outline/`, `/characters/`, `/lore/`, or `/chapters/`.
+Reference these paths when generating or editing. Do not invent `/outline/`, `/lore/`, or `/chapters/`. The bible is `canon/`. Open the folder README, then the file it names.
 
-* `pitch.md`: series logline and the three book pitches.
-* `concept.md`: early premise. Use only when the numbered files are silent. If they conflict, follow the numbered file.
-* `01_world/`: history, biosystem and tech, factions, geography.
-  * `world_and_history.md`
-  * `biosystem_and_tech.md`
-  * `factions_and_politics.md`
-  * `geography_and_territories.md`
-* `02_characters/`: psychology, wounds, voice, relationships.
-  * `protagonist_fmc.md` (Tsunari Thorne)
-  * `love_interest_mmc.md` (Vram Tyage)
-  * `secondary_characters.md`
-* `03_romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
-  * `romance_engine.md`
-  * `tropes_and_heat_profile.md`
-* `04_settings/locations_and_sensory.md`: place layout and what a location smells, sounds, and feels like.
-* `05_plot/`: outline, act shape, and chapter promises.
-  * `trilogy_overview.md`
-  * `story_beats_dual_track.md` (external track and romantic track must tighten together)
-  * `book1_breakdown.md` (Book 1 chapter promise: four parts, 44 chapters, five interludes)
-  * `book2_breakdown.md`
-  * `book3_breakdown.md`
-* `06_style/`: voice, sensory palette, and terminology.
-* `07_prompts/`: image-generation prompts and the codex art direction. Not prose canon.
-* `08_media/`: reference images (characters, strains, places). Not prose canon.
-* `09_manuscript/`: active drafts. Edit chapter files, not the compiled export, unless asked.
+* `canon/pitch.md`: series logline and the three book pitches.
+* `canon/concept.md`: early premise. Use only when the other canon files are silent.
+* `canon/world/`: calendar, air, society, geography, the Cradle, politics, factions, and the living systems under `life/`.
+* `canon/characters/`: Tsunari, Vram, the squad, Mercer, allies, the cult's hunters, and the Thorne family. Xaevis, Lyraen, Corvus, and Gideon live with their factions.
+* `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
+* `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
+* `canon/plot/`: trilogy shape, the dual track, and the three book breakdowns. Book 1 is `canon/plot/book1/`, four part files, 44 chapters, five interludes.
+* `canon/style/`: voice, sensory palette, format, and the glossary.
+* `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
+* `assets/media/`: reference images (characters, strains, places). Not prose canon.
+* `manuscript/`: active drafts. Edit chapter files, not the compiled export, unless asked.
   * `book1/chapter_NN.md` and interludes such as `chapter_10b_interlude_the_glass_moth.md`
   * `dedication.md`
   * `Stolen_Breath_Full_Manuscript.md` and `.txt` are builds. `reader/scripts/` regenerates them.
-* `10_reviews/`: editorial reviews, `ledger.csv`, and `NNN_apply.md` checklists.
-* `11_kdp/`: Kindle metadata (description, keywords, categories, biography, back-cover copy). Do not spoil the ending, the brand, or the abduction in store copy.
+* `reviews/`: editorial reviews, `ledger.csv`, and `NNN_apply.md` checklists.
+* `kdp/`: Kindle metadata (description, keywords, categories, biography, back-cover copy). Do not spoil the ending, the brand, or the abduction in store copy.
 * `reader/`: local reader and build scripts (`build-epub.js`, `build-pdf.js`, `build-editorial-manuscript.js`). EPUB source under `reader/books/book1/epub_source/` is generated from the manuscript.
 * `.cursor/rules/`: editorial passes. Load the matching rule when reviewing or applying a review.
 
-Book 1 shape in `05_plot/book1_breakdown.md`:
+Book 1 shape in `canon/plot/book1/`:
 
 * Part I, chapters 1 to 10: the theft, the hunt, the first touch. Scarcity.
 * Part II, chapters 11 to 22: secret captivity, then defection. The vassal empire.
@@ -89,10 +75,10 @@ A later ring dumped into an early part is a spoiler.
 
 When drafting or editing:
 
-1. **Context check.** Before prose, read the POV character sheet, `03_romance/romance_engine.md` if the scene touches the bond, the chapter's job in `05_plot/book1_breakdown.md`, and the location entry in `04_settings/locations_and_sensory.md`.
+1. **Context check.** Before prose, read the POV character sheet, `canon/romance/romance_engine.md` if the scene touches the bond, the chapter's job in `canon/plot/book1/`, and the location entry in `canon/places/locations_and_sensory.md`.
 2. **Continuity first.** Match established lore, travel time, injuries, objects, names, and who already knows what. Fever follows the last skin contact unless the page gives a new cause. Fixed ages unless a canon file says otherwise: Year 40 AS is 2072 CE; Tsunari is 26; Vram is 28; both are Storm-Born.
 3. **Incremental drafting.** Draft scene by scene or beat by beat. Do not write an entire chapter in one unrefined block.
 4. **Smallest edit.** When fixing a review or a note, change the smallest span that makes the problem false on a reread. Do not polish the prose around it.
 5. **Spoilers.** Book 1 may aim at later payoffs. It must not complete the aerosol cure, the Spire rescue, Jeffrey Thorne's survival as a finished reveal, or the journey to the Verdant Cradle.
 6. **Reviews.** Writing a review follows `.cursor/rules/editorial-review.mdc` and the category rules beside it (story line, plot, characters, romance, dialogue, continuity, world and sensory, redundancy, spoilers, chapter transitions). Applying a review follows `.cursor/rules/editorial-apply.mdc`: the ledger names the only manuscript file, and canon conflicts get asked before they are rewritten. A book-wide repeated word, or a lab word used for a simple thing, is a Redundancy finding, not a nit.
-7. **Canon updates.** If the user authorizes a bible change, update the matching file under `01_world/` through `06_style/` or `05_plot/` so the manuscript and the canon stay aligned.
+7. **Canon updates.** If the user authorizes a bible change, update the matching file under `canon/` so the manuscript and the canon stay aligned. A fact has one home. Point to it. Do not copy it into a second file.

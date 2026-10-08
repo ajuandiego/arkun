@@ -27,7 +27,7 @@ Fixed facts, unless a canon file is quoted to the contrary:
 ## Breaks
 
 - A wound, burn, shredded primary, or empty filter is gone with no treatment and no time skip.
-- Travel crosses `01_world/geography_and_territories.md` faster than the page admits, or a place from `04_settings/locations_and_sensory.md` changes layout.
+- Travel crosses `canon/world/geography.md` faster than the page admits, or a place from `canon/places/locations_and_sensory.md` changes layout.
 - The Lazarus Key, a weapon, a crawler, or a rebreather changes owner with no handoff.
 - A name, callsign, age, or strain spelling drifts. Tsune is the field name. Tsunie is Vram's private diminutive only.
 - Someone uses a fact, face, or plan the ledger says they have not met yet.

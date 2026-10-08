@@ -8,8 +8,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, '09_manuscript', 'book1');
-const OUTPUT_DIR = path.join(ROOT_DIR, '09_manuscript');
+const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
+const OUTPUT_DIR = path.join(ROOT_DIR, 'manuscript');
 
 function compileManuscript() {
   console.log('Compiling single-file editorial manuscript...');

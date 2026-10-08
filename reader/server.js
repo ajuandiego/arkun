@@ -21,7 +21,7 @@ const app = express();
 const PORT = parseInt(process.env.PORT, 10) || 7429;
 
 const ROOT_DIR = path.resolve(__dirname, '..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, '09_manuscript');
+const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript');
 
 // Serve vendor files (e.g. page-flip)
 app.use('/vendor/page-flip.browser.js', (req, res) => {

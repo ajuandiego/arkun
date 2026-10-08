@@ -10,7 +10,7 @@ alwaysApply: false
 
 Category: Transition. Shared method lives in `.cursor/rules/editorial-review.mdc`.
 
-Read each chapter ending against the next opening. Use `05_plot/book1_breakdown.md` for the intended POV, epigraph type, and interlude slot.
+Read each chapter ending against the next opening. Use `canon/plot/book1/README.md` for the intended POV, epigraph type, and interlude slot.
 
 ## Handoff
 
