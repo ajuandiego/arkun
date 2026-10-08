@@ -49,11 +49,11 @@ The harsh country beyond the lee. Silica dunes, dead highways, container depots,
 
 ## 4. The High Aerie: Aeros-Legion 7 Base
 
-An airborne staging fortress and launch roost suspended from the structural trusses of Dome Alpha's northern atmospheric bulkhead, thousands of feet above the earth.
+An airborne staging roost on the crown of Eden Dome Alpha. A slim mast rises from Sector 1. The roost sits on that mast, 3,000 feet above the Sector 09 street, and is no wider than 300 feet.
 
 *   **Visual Atmosphere:**
-    *   Sweeping titanium and carved stone cantilever perches projecting out over open, dizzying vertical drops into the cloud sea.
-    *   Stepped open-air launch balconies, arched windbreak colonnades, and heavy braided iron suspension cables anchored directly into the geodesic dome ribbing.
+    *   A compact titanium-and-stone flight roost, no wider than 300 feet, open to the drop off the crown.
+    *   Launch ledges and windbreak colonnades on that cap. The mast, not a cable to the north wall, holds it.
     *   The private staging quarters of the Griffin legion: stark, minimalist, illuminated by pale cyan status monitors, equipped with wing-preening benches, weapon racks, and high-altitude breathing-rig harnesses.
 *   **Sensory Profile:**
     *   *Scent:* Scorched ozone from high-altitude thermals, feather preening oil, cold titanium, and the bitter, freezing bite of thin sub-zero air.

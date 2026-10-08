@@ -38,8 +38,8 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 *   **Chapter 2 // Vram**
     *   *Lexicon Entry (The High Aerie):*  
-        > **The High Aerie** *[noun]*: The cantilevered titanium-and-granite flight roost anchored 3,000 feet above Sector 09 upon Dome Alpha's northern bulkhead. Built without guardrails or mechanical elevators; accessible exclusively to winged chimeric personnel capable of unpowered thermal descent.
-    *   *Setting:* The high cantilever launch ledge of The High Aerie, 3,000 feet above Sector 09.
+        > **The High Aerie** *[noun]*: The flight roost of Aeros-Legion 7. A slim mast rises from Sector 1 to the crown. The roost sits on that mast, 3,000 feet above the Sector 09 street, and is no wider than 300 feet. No railings. No mechanical elevator. Winged descent only.
+    *   *Setting:* The launch ledge of The High Aerie, on the center mast, 3,000 feet above Sector 09.
     *   *Core Action:* Vram suffers a blinding Synapse Lattice migraine from his neural siphon ports. Receiving the red-priority data-breach alert, he steps to the precipice and launches on his own 14-foot feathered wings, riding freezing high-altitude thermals into a vertical dive to hunt the infiltrator.
     *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); and gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty.
     *   *Worldbuilding & Past Lore Delivery:*

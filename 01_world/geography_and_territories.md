@@ -4,20 +4,18 @@
                      [ ORBITAL CITADEL: SPIRE PRIME ] (Archon Xaevis)
                                    | (Quantum Sky-Tether)
                                    v
+                     [ THE HIGH AERIE ]  on the center mast, 3,000 ft, 300 ft wide
+                                   |
  ════════════════════════ [ EDEN DOME ALPHA ] ════════════════════════
- │     Consortium Capital • Apex Bio • 150 sq mi of Gilded Spring    │
+ │   Consortium Capital • Apex Bio • 22 sq mi, five miles across   │
  ═════════════════════════════════════════════════════════════════════
-          │                                              │
-   [ THE HIGH AERIE ]                             [ THE HIGH AERIE ]
-   (Aeros-Legion HQ)                              (Chimeric Flight Roosts)
- ─────────────────────────────────────────────────────────────────────
       ▲                                                      ▲
  [ BULKHEAD WALL ALPHA ]                                [ BULKHEAD WALL ALPHA ]
  (100m Kinetic Shield Wall)                             (Pulse Turrets & Sentry Grid)
  ─────────────────────────────────────────────────────────────────────
       ▼                                                      ▼
  ░░░░░░░░░░░░░░░░░░░░░░░ [ SECTOR 09: THE GRAY RING ] ░░░░░░░░░░░░░░░░░░░░░
- │ • 45 Million Dustborn Humans        • Subterranean Subway Bunkers       │
+ │ • 6 Million in the Gray Ring        • Subterranean Subway Bunkers       │
  │ • Lee-air & Silt-Mash Economy       • The Null-Circuit Lab (Tsunari)    │
  │ • Guild stills & the Night Freeze   • "Doc" Mercer's Clinic (Simulacrum)│
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -84,11 +82,12 @@ Mankind lives in fractured, isolated ignorance:
 
 ## 4. The Active Theater: The Boreal Redoubt (The Primary Landmass)
 
-The entire trilogy is focused upon a single, massive, elevated continental refuge: **The Boreal Redoubt** (encompassing the mountainous Eurasian-Alpine plateau and northern continental highlands):
+The entire trilogy is focused upon a single, massive, elevated continental refuge: **The Boreal Redoubt** (a high mountain basin):
 
 ### 4.1 Eden Dome Alpha (The Gilded Citadel)
-*   **Location:** Anchored in a high Alpine mountain basin protected by massive natural granite ridges.
-*   **Scale:** About 22 square miles under the shield, about five miles across. No larger than Manhattan. A hexagonal kinetic force-dome over that basin. From the wall, the far glass is in sight. It reads as one citadel.
+*   **Location:** A high mountain basin. Granite ridges close the east. A second range closes the west. Dried salt flats lie west of the ring. South, the country opens onto a dry lakebed and the deserts beyond. Every distance below is a straight line from the center of the dome.
+*   **Ground, from the center:** The dome is 5 miles across. North glass, east glass, south gate, and west glass are each 2.5 miles out, on that side. The Photovoltaic Graveyard is 3 miles south. The sumps are 4 miles south. The Sunken Terminal is 4 miles east. Mercer's clinic is 4 miles southeast. The Rust Bazaar is 5 miles southeast. The Grand Cistern is 5.5 miles south. The Glass Vault is 6.5 miles south, still inside the ring. Sector 09 ends 7.5 miles out, on every side. The Dead Perimeter is the next band, about 1.2 miles wide. Terra-Pylon Seven is 12 miles south. Redoubt Station 14 is 22.5 miles north. The maintenance bunker is 40 miles south. The Line 9 junction is 43 miles south.
+*   **Scale:** About 22 square miles under the shield, about five miles across. No larger than Manhattan. A hexagonal kinetic force-dome over that basin. The crown is 3,000 feet above the Sector 09 street. A slim mast rises from Sector 1 to that crown. From the wall, the far glass is in sight. It reads as one citadel. The approved section is `08_media/dome_5.jpg`.
 *   **Population:** About **1.5 million** people under the shield. About 150,000 of them live in Sectors 1 through 3: the Directorate, the garden towers, physicians, engineers, and senior scientists. The chimeric garrison is not in this number. They live in the Aerie and the wall forts.
 *   **What the bowl looks like:** A packed tower city, the density of Manhattan, with canals, monorails, and a few garden grounds. Gold light on the panes. Sector 6 feeds the bowl from stacked greenhouses, not from open fields. The floor is too small for countryside.
 *   **The Elite Life:** Corporate oligarchs, high-ranking Apex Bio scientists, and privileged citizens live in the upper terraces, with artificial sunlight, clean water, and synthesized botanical gardens.
@@ -98,7 +97,7 @@ Alpha is counted in concentric bands, from the center outward. The same count is
 
 Bulkhead Wall Alpha is the line between Sector 8 and Sector 09. The count stops at 09. Past the Ring, the country is the Rust Barrens.
 
-*   **Sector 1:** The center. Aristocratic leadership: the Directorate, the garden towers, Chrysalis households.
+*   **Sector 1:** The center. A park rings the mast. Around that park stand the Directorate, the garden towers, and the Chrysalis households.
 *   **Sectors 2 and 3:** The high-value covenant. Physicians, engineers, physicists, senior Apex scientists, and their families. Apex Bio's laboratories sit here.
 *   **Sectors 4 and 5:** Industry and commerce inside the shield. Markets, production floors, and services. The Rust Bazaar stays outside, in Sector 09.
 *   **Sector 6:** The food band. Greenhouses and livestock. The ornamental terraces stay in Sector 1. Sector 6 is the ground the dome feeds itself from.
@@ -114,7 +113,7 @@ Sectors 1 through 3 hold about 150,000. Sectors 4 and 5, industry and commerce, 
 *   **The Air:** Breathable for a lifetime. The dome's climate field spills past the wall. Strongest on the streets under the bulkhead, thinner and harder downwind. Faces are bare. People buy guild cartridges to sleep cleaner and push the Choke back, at about a day's wages a night. Skipping a night is a poorer morning, not a death. The durations, the price, and the pylon rule are in `01_world/world_and_history.md`.
 *   **Key Landmarks:**
     1.  **Bulkhead Wall Alpha (The Divide):** A 100-meter-tall barrier of kinetic-dampened steel-reinforced concrete separating Dome Alpha from Sector 09.
-    2.  **The High Aerie:** Suspended thousands of feet above the earth from the structural ribs of Dome Alpha's northern bulkhead. Flight roost and military base of **Aeros-Legion 7**.
+    2.  **The High Aerie:** The flight roost of **Aeros-Legion 7**, on top of the dome. A slim mast rises from Sector 1 to the crown. The roost sits on that mast at 3,000 feet and is no wider than 300 feet. It is not hung on the north wall.
     3.  **The Sunken Terminal (Null-Circuit Headquarters):** A buried, three-level subterranean railway interchange where Tsunari Thorne operates her reverse-engineering lab.
     4.  **"Doc" Mercer’s Triage Clinic:** An abandoned subway mezzanine triage station; secretly the observation terrarium maintained by Mercer (*Weaver-Unit 09*).
     5.  **The Rust Bazaar (The Iron Market):** A sprawling night market under a collapsed highway interchange, open after the silt settles, where distilled water, scrap metal, guild filter cartridges, and stolen bio-pastes are bartered. A cartridge is a health purchase. The crowd is bare-faced.
