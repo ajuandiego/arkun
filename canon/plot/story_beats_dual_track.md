@@ -36,7 +36,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ### Internal Romance Arc (B-Track)
 *   **Weaponized Proximity & Physical Triage:** The Biological Tether makes separation physical torture for him. Tsunari wields her presence to extract tactical codes, but watching his 106°F fever spike into violent tremors when she pulls away chips away at her cold detachment.
 *   **Decontamination Vulnerability (🌶️ to 🌶️🌶️):** Saturated in caustic chemical defoliant from perimeter cannons during their flight, they must strip their burning combat gear in a pitch-black drainage sluice under a freezing runoff pipe. Water streams over scars, golden feathers, and lean reptilian musculature. An electric, suffocating physical tension fills the narrow space.
-*   **The Anatomy of a Weapon:** Tsunari tends to his chimeric burn wounds, seeing the metallic feather shafts along his spine and the horrific alien ports drilled into his vertebrae. She realizes he is not a willing monster, but an enslaved lab asset whose body is being consumed from within.
+*   **The Anatomy of a Weapon:** Tsunari tends to his chimeric burn wounds, seeing the black quills grown from the wing bones and the socket drilled into his nape. She realizes he is not a willing monster, but an enslaved lab asset whose body is being consumed from within.
 
 ---
 

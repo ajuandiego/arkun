@@ -7,8 +7,8 @@
 
 The same hardware sits on every corporate chimera. Strain changes the body around it. It does not change the socket.
 
-*   **Idle:** one round socket, centered where the head meets the back. Two short metal links leave its lower edge and run down the upper back. The flesh on either side of the socket lies flat.
-*   **Hot:** the carrier is up. The flesh on the left and right sides of the socket is only slightly puffed. The neck stays a normal neck. The links stay metal. They do not swell.
+*   **Idle:** one round iris in a dark seat about three inches by three, centered where the head meets the back. Two link plates, each about two inches by two, follow the spine down one under the other. The flesh on either side of the socket lies flat.
+*   **Hot:** the carrier is up. The flesh on the left and right sides of the socket is only slightly puffed. The neck stays a normal neck. The links stay metal. They do not swell. The locked plate is `assets/media/the_leash_2.jpg`.
 
 ### Prompt
 ```text
@@ -18,9 +18,9 @@ Two views of the same generic adult, seen from behind, hair cropped short so the
 
 The leash, identical in both views:
 
-1. One round dark-metal socket centered where the head meets the back. A circular port in a small dark seat. One socket only.
+1. One dark metal seat about three inches by three, centered where the head meets the back. A round iris port in the middle of that seat. One socket only.
 
-2. Exactly two short flat metal links, side by side, leaving the bottom of that socket and ending a hand's length down the upper back. Count them: a left link and a right link. Not a chain. Not one cable. Not a rod down the spine. Not jewelry.
+2. Exactly two flat link plates, one under the other, leaving the bottom of that seat and following the spine down. Each plate is about two inches by two. Count them: an upper link and a lower link. Not side by side. Not a chain. Not one cable. Not a rod down the spine. Not jewelry.
 
 Left view, idle: skin on both sides of the socket is flat and normal.
 
@@ -30,5 +30,6 @@ Forbidden: wings, feathers, a third figure, a chain, one single cable, a spine r
 ```
 
 *   **Aspect Ratio:** `16:9`
-*   **Output:** `assets/media/tech_leash_02.jpg`
+*   **Reference:** `assets/media/the_leash_2.jpg`
+*   **Output:** `assets/media/the_leash_2.jpg`
 *   **Recommended Negatives:** `text, captions, typography, labels, letters, numbers, watermark, wings, feathers, chain, single cable, spine rod, second port, collar, gun, goiter, huge swelling, deformed neck, anime, photorealistic, blurry`

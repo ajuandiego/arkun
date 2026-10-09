@@ -6,7 +6,7 @@
     *   *Epigraph (Field Warning, Dustborn Chem-Scavenger Guild — Sector 09 South):*  
         > *"The defoliant burns slow. It eats through linen in ten seconds, leather in thirty, and flesh until it hits marrow. Water cannot save you if your clothes remain. Strip the rot, or let the grave have you whole."*
     *   *Setting:* The fortified living quarters of Redoubt Station 14.
-    *   *Core Action:* Tsunari observes Vram stripping off his flight harness to clean and treat his wing roots and the siphon. She sees the flesh swollen on both sides of the socket, and the burnished quills growing directly from living bone.
+    *   *Core Action:* Tsunari observes Vram stripping off his flight harness to clean and treat his wing roots and the siphon. She sees the flesh swollen on both sides of the socket, and the black quills growing directly from living bone.
     *   *Sensory & Forbidden Attraction:* Stripped to the waist in the dim bunker, Vram's bronze back is corded with massive muscle and scar tissue. Tsunari feels an illicit shock of heat in her belly watching the play of light across his pectoral plates and flared wing joints. She despises herself for noticing how beautiful his broad, lethal body is, forcing her gaze away as her throat tightens.
     *   *Emotional Beat:* The realization that Vram is not an arrogant monster, but a mutilated, enslaved lab subject whose body is cannibalizing itself to serve the regime.
 

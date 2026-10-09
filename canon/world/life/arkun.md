@@ -77,9 +77,9 @@ A single strain does not possess just one ability—it holds an **Arkun Tree**. 
     *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
 
 #### 7.3 Concealment Protocols for Un-Collared Mutants
-In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `assets/media/tsunari_8.jpg`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
-1.  **Spire hooks:** A matched pair of curved, blackened spring-steel hooks in sheaths at the hips, blades hanging along the thigh. Climbing tools, and weapons in a reverse grip.
-2.  **Bracers, gloves, and trousers:** Forearm bracers and fingerless gloves are kit. Fitted trousers cover the shin scutes. The pebbled scales on the outer shoulders and upper arms stay visible.
+In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `assets/media/tsunari_10.jpg`. The clothes are in `../../characters/tsunari.md`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
+1.  **Spire hooks:** The weapon is in `../../style/glossary.md`. On her they hang at the hips, crescent along the outer thigh, and she fights them in a reverse grip.
+2.  **Bracers, gloves, and leggings:** Forearm bracers and fingerless gloves are kit. Dark leggings cover the shin scutes. The pebbled scales on the outer shoulders and upper arms stay visible.
 3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her vertical slit pupils and eye membranes as light-sensitive work gear.
 4.  **High collar:** The sleeveless tunic's stand collar wraps the throat and the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon and its two links**. The face stays bare. Shoulders and arms stay free. A linen wrap is storm cloth, not the daily collar.
 
