@@ -1,7 +1,7 @@
 # Ecology
 
 ### The Alien Flora: The Spore Invasion
-*   Where Vaelen terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
+*   Where Karyom terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
     *   **Phosphor Tendrils:** Bioluminescent vine networks that siphon moisture from dead soil and emit sweet, narcotic neurotoxins.
     *   **Spore Orchids:** Massive carnivorous floral growths that thrive on sulfur and decay, releasing local clouds of purple sporocarps. A cloud burns the throat on contact. It is a patch of ground to walk around, not the air of the barrens.
     *   **Glass Reeds:** Silicon-based vegetation that chokes rivers and crystallizes standing water into toxic gelatin.
@@ -51,7 +51,7 @@ People in the Ring cook. Silt-mash is the cheap staple, the way bread is, not th
 #### B. The Dangerous (Predatory Threats & Environmental Terrors)
 
 1.  **The Obsidian Strangler (Basalt Crotalid / Wire-Viper) — [Fauna]**
-    *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Lindwurm genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.
+    *   *Appearance & Biology:* A 12-to-15-foot-long, legless subterranean ambush predator descended from ancient Ceraton genetic offshoots. Its skin consists of dull, segmented slate-black scales that look identical to rusted industrial rebar or high-voltage conduit cables.
     *   *Hunting Method:* Coils silently in the ceilings of collapsed subway tunnels and elevator shafts. It drops onto prey, wrapping with hydraulic crushing torque (exceeding 2,000 psi) to snap spines and crush a jaw, a cloth, or a storm mask within seconds.
     *   *The Toxin:* Injects a flesh-dissolving, acidic neurotoxin that liquefies lungs and synthetic seals.
     *   *Plot Dynamic:* Creates terrifying close-quarters subterranean suspense; Vram’s avian tetrachromatic vision can detect its micro-thermal heat coils seconds before it drops, forcing intense split-second cooperative combat.

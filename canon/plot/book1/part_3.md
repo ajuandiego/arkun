@@ -4,21 +4,21 @@
 
 *   **Chapter 23 // Tsunari**
     *   *Epigraph (Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal — Excavation Layer IV, Year 29 AS):*  
-        > *"The Dromaeon does not roar. It measures. It calculates the footfall, the heartbeat, the breath between panic and surrender. Do not run from the scythe-toe. If you flee, you are prey; if you stand, you are a rival."*
+        > *"The Raptor does not roar. It measures. It calculates the footfall, the heartbeat, the breath between panic and surrender. Do not run from the scythe-toe. If you flee, you are prey; if you stand, you are a rival."*
     *   *Setting:* An abandoned pre-collapse freight transit depot half-buried in the dunes.
-    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container just as the howling desert wind carries the unmistakable hunting clicks of a wild **Dromaeon pack**.
+    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container just as the howling desert wind carries the unmistakable hunting clicks of a wild **Raptor pack**.
 
 *   **Chapter 24 // Tsunari**
-    *   *Lexicon Entry (Mutation D: The Dromaeon Lineage):*  
-        > **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by stronger legs, sub-vocal acoustic echolocation, clear eye membranes, and cold-blood thermal dampening.
+    *   *Lexicon Entry (Raptor, Dromaeo-X Chrome):*
+        > **Raptor** *[archeo-genetics]*: No common name. Terrestrial hunter. Stronger legs, sub-vocal clicks, clear eye membranes, and a cool resting temperature. Origin: 79% dromaeosaurus and other reptiles.
     *   *Setting:* The interior of the shipping container.
     *   *Core Action:* The alpha stalker enters. Tsunari matches its throat clicks, assumes a low predatory counter-stance, and triggers her **Quantic Phase-Stutter**—accelerating her temporal vector to ghost-step past the beast's razor jaw, driving her bodkin knife into its shoulder joint.
 
 *   **Chapter 25 // Vram**
-    *   *Epigraph (Overground Railroad Smuggler Slate — Fenris Network):*  
+    *   *Epigraph (Overground Railroad Smuggler Slate — Lycan Network):*  
         > *"The desert belongs to the beasts by day and the cold by night. If you hear an engine, stay down. If you hear a click, don't breathe. If you see yellow headlights, show your palm."*
     *   *Setting:* The loading dock of the freight depot.
-    *   *Core Action:* Awakened by the scent of Tsunari’s blood, Vram explodes in solar fire, crushing the alpha's skull with a single concussive blow. As the remaining pack encircles them, **Kira Brandt** roars in on a modified sand-crawler, scattering the beasts with phosphor flare-slugs and hauling them into an underground maintenance bunker.
+    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram vents the wing engine and crushes the alpha's skull with a single blow. As the remaining pack encircles them, **Kira Brandt** roars in on a modified sand-crawler, scattering the beasts with phosphor flare-slugs and hauling them into an underground maintenance bunker.
 
 *   **Chapter 26 // Tsunari**
     *   *Lexicon Entry (The Night Freeze & Thermal Swings):*  
@@ -33,17 +33,17 @@
     *   *Core Action:* Waking up in dead-channel stillness with Tsunari asleep against his chest. Instead of relief, Vram experiences the visceral dread of an off-grid rogue operative: to a soldier conditioned by ten years of deafening static and telemetry uplinks, being completely blind to his army deep in occupied territory is terrifying.
 
 *   **Chapter 28 // Vram**
-    *   *Lexicon Entry (Mutation L: Lithodermic Sintering):*  
-        > **Mutation L (Lindwurm Strain)** *[archeo-genetics]*: Subterranean heavy-breacher biotype. Characterized by hexagonal interlocking stone-scutes (*lithodermic plating*) across the dermis, extreme bone density, immunity to toxic gases, and localized seismic shock generation.
+    *   *Lexicon Entry (Ceraton, Pachyd-D Link):*
+        > **Ceraton** *[archeo-genetics]*: Common names Rhino and Tank. Dermal plates, dense bone, a short charge. Origin: 70% rhino and other mammals. The plates are not venom, and they are not a gas lung.
     *   *Setting:* The sealed tunnel bulkhead of the pre-collapse heavy-rail line.
-    *   *Core Action:* Kira guides them to the sealed bulkhead guarded by **Boran "The Bastion" Vael-Korr**—a 6'8" stone-scute breacher. Boran mocks the "fancy fallen sky-bird with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, unlocking the hand-cranked rail trolley to smuggle them into Sector 09.
+    *   *Core Action:* Kira guides them to the sealed bulkhead guarded by **Boran "The Bastion" Vael-Korr**, a 6'8" Rhino. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, unlocking the hand-cranked rail trolley to smuggle them into Sector 09.
 
 ***
 
 ### THE FATAL SIPHON (Interlude IV — Between Chapter 28 & Chapter 29)
 *   **POV:** Omniscient Narrator (Observing Lieutenant Cassian, 28, Wing 3 Aeros-Legion Pilot, Sector 09 Upper Garrison).
 *   **Core Theme:** The tragic reality of the Synapse Siphon and the fatal consequences of unauthorized back-alley grounding; establishing the singular role of the Mosaic Keystone.
-*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts to Sector 09 seeking illegal relief. He pays Nyx, a dancer with an illicit Lindwurm splice, to ground the static in a back room. But cold scales cannot ground an alien carrier wave without Null-Resonance; the siphon surges with agonizing feedback. In the violent struggle, razor-sharp venom pores in Nyx's palms puncture his throat, pumping lethal Lindwurm venom into his bloodstream. Cassian dies in convulsions on the floor from siphon overload and venom toxicity—leaving Toby and Aeros-Legion 7 unaware of his fate, and demonstrating that without the true Mosaic Keystone, any attempt to break the siphon is lethal.
+*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts to Sector 09 seeking illegal relief. He pays Nyx, a dancer with an illicit Galvan splice, to ground the static in a back room. A wet hide cannot ground an alien carrier wave without Null-Resonance. The siphon surges. In the struggle, the glands in Nyx's palms open against his throat and pump a Galvan secretion into his blood. Cassian dies in convulsions on the floor from siphon overload and that toxin. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, an alley remedy is lethal.
 
 ***
 
@@ -68,7 +68,7 @@
 
 *   **Chapter 32 // Tsunari**
     *   *Lexicon Entry (The Crucible Mutagen / Ember Serum):*  
-        > **Crucible Mutagen** *[catalytic agent]*: An unstable biological mutagen synthesized by The Forger from subterranean Vaelen seeding fissures. Grants tripled physical strength, anaerobic stamina, and tactical hyper-cognition at the cost of permanent fever and mental compliance.
+        > **Crucible Mutagen** *[catalytic agent]*: An unstable biological mutagen synthesized by The Forger from subterranean Karyom seeding fissures. Grants tripled physical strength, anaerobic stamina, and tactical hyper-cognition at the cost of permanent fever and mental compliance.
     *   *Setting:* The iron catwalks of the Grand Cistern.
     *   *Core Action:* Malakar roars and attacks with his pneumatic rail-flail. As the duel rocks the catwalks, Tsunari detonates an acoustic EMP charge, collapsing an iron sluice gate and allowing them to escape into the dark aqueducts.
     *   *The Near-Kiss:* Cornered in a narrow drainage conduit, pressed chest-to-chest in the dark, breathing each other's air in breathless, high-voltage restraint.

@@ -2,10 +2,10 @@
 
 ## 11. The Crucible Mutagen & The Ember Enhancement (The Sump Alchemy)
 
-In contrast to the Consortium’s sterile genetic cloning and the Vaelen’s nanite Synapse Lattice, **The Forger** developed an illicit, black-market bio-enhancement agent: **The Crucible Mutagen** (colloquially called *The Sump Elixir* or *Ember Serum*).
+In contrast to the Consortium’s sterile genetic cloning and the Karyom’s nanite Synapse Lattice, **The Forger** developed an illicit, black-market bio-enhancement agent: **The Crucible Mutagen** (colloquially called *The Sump Elixir* or *Ember Serum*).
 
 ### 1. Origin & Plot Mystery
-*   *The Archeo-Fissure:* Sourced from an ancient, unrefined Vaelen catalytic deposit discovered deep within tectonic fault-lines eighty feet beneath Sector 09's lowest drainage sumps—predating modern corporate gene-editing by millennia.
+*   *The Archeo-Fissure:* Sourced from an ancient, unrefined Karyom catalytic deposit discovered deep within tectonic fault-lines eighty feet beneath Sector 09's lowest drainage sumps—predating modern corporate gene-editing by millennia.
 *   *The Alchemical Synthesis:* The Forger refined this toxic primordial sludge using salvaged petrochemical distillation units and sulfuric acid washes, creating an unstable, intensely potent mutational cocktail that bypasses corporate patent locks.
 
 ### 2. The Fivefold Enhancement Vectors

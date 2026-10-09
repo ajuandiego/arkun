@@ -11,9 +11,9 @@
 ## 1. Executive Trilogy Vision & Themes
 
 *   **Theme 1: Autonomy vs. Conditioning & Fanaticism:** The struggle of engineered weapons (Vram, chimeric soldiers) and hunted survivors (Tsunari, Gray Sector) to reclaim their minds, identities, and bodies—refusing both corporate enslavement (Apex Bio) and apocalyptic cult deification (The Enlightened / The Forger).
-*   **Theme 2: The Fire & Shadow Polarity:** An intimate biopunk symbiosis. Vram’s 106°F Simurgh furnace brings warmth, pyric shielding, and raw kinetic power; Tsunari’s cool Dromaeon physiology and Null-Resonance provide lethal agility and the soothing biological cure that saves his sanity.
+*   **Theme 2: The Fire & Shadow Polarity:** An intimate biopunk symbiosis. Vram’s 106°F Avian furnace brings warmth, pyric shielding, and raw kinetic power; Tsunari’s cool Raptor physiology and Null-Resonance provide lethal agility and the soothing biological cure that saves his sanity.
 *   **Theme 3: The Subversion of Romance Clichés:** The bond progresses from biological shame, humiliation, and hostage leverage to earned predator competence parity, the psychological terror of mental silence, and an unvoiced blood compact of equals.
-*   **Theme 4: The Reconstruction of Truth & The Promised Land:** Moving from the localized lies of Sector 09 to the global conspiracy of the alien *Simulacra*, shattering the Vaelen's existential blackmail through the discovery of **The Verdant Cradle** (the hidden, un-poisoned green oasis continent across the Stygian Oceans), culminating in the Great Oceanic Migration.
+*   **Theme 4: The Reconstruction of Truth & The Promised Land:** Moving from the localized lies of Sector 09 to the global conspiracy of the alien *Simulacra*, shattering the Karyom's existential blackmail through the discovery of **The Verdant Cradle** (the hidden, un-poisoned green oasis continent across the Stygian Oceans), culminating in the Great Oceanic Migration.
 
 ```mermaid
 graph TD
@@ -50,18 +50,18 @@ graph TD
 *   **Ending State:** Sector 09 secures a temporary sanctuary, and Vram and Tsunari forge an unbroken bond of love. But in the predawn quiet, surviving zealots of *The Enlightened* pump paralyzing rift-gas into their bunker: **they abduct Vram to crown him as their messiah across the salt desert, leaving Tsunari's shoulder branded with their burning ritual chevron.**
 ### Book 2: *Crown of Salt*
 *   **Core Setting:** The Torrid Kiln, radioactive Salt Flats, Southern badlands, and subterranean rebel networks.
-*   **Primary Conflict:** Tsunari mounts a relentless pursuit across the blistering salt flats to storm the cult's subterranean Cathedral of Salt and liberate Vram. Reunited in a passionate, feral consummation, they expand the rebellion across the cleaved continent while synthesizing an aerosolized cure. Paranoia rises as corporate leaders and resistance commanders act with inhuman cruelty—revealing the horrifying presence of **Vaelen Simulacra** (extraterrestrial organisms wearing cloned human flesh).resence of **Vaelen Simulacra** (extraterrestrial organisms wearing cloned human flesh).
+*   **Primary Conflict:** Tsunari mounts a relentless pursuit across the blistering salt flats to storm the cult's subterranean Cathedral of Salt and liberate Vram. Reunited in a passionate, feral consummation, they expand the rebellion across the cleaved continent while synthesizing an aerosolized cure. Paranoia rises as corporate leaders and resistance commanders act with inhuman cruelty—revealing the horrifying presence of **Karyom Simulacra** (extraterrestrial organisms wearing cloned human flesh).resence of **Karyom Simulacra** (extraterrestrial organisms wearing cloned human flesh).
 *   **The Father's Discovery:** Deep in the southern badlands at Arbiter Lyraen's mountain observatory, Tsunari fully decodes the Ghost Beacon disc: her father, Dr. Jeffrey Thorne, did not die in the wastes ten years ago. He navigated the impassable Stygian Ocean and discovered **The Verdant Cradle**—a living, un-poisoned green continent preserved behind a ring of volcanic calderas.
 *   **Key Antagonist:** Weaver-Unit 09 (Doc Mercer unmasked) & the Consortium Director Board.
-*   **Key Ally:** Arbiter Lyraen (dissident leader of the Vaelen Preserver movement).
+*   **Key Ally:** Arbiter Lyraen (dissident leader of the Karyom Preserver movement).
 *   **Climactic Battle & Dark Night:** The Betrayal at the Rebel Headquarters. Mercer unmasks himself as a Simulacrum. Vram holds off an entire battalion alone so Tsunari and young Ren can escape with the synthesized cure and her father's navigational coordinates. Vram is hauled into the sky in titanium chains, bound for orbital Spire Prime.
 *   **Ending State:** Complete emotional devastation and the ultimate test of devotion. Tsunari vows to rally humanity, liberate Vram, and guide mankind across the dead sea to the promised land.
 
 ### Book 3: *Unleashed*
 *   **Core Setting:** High-altitude atmospheric warfare, Spire Prime (alien orbital flagship), Spire Meridian, and the planetary Terra-Pylon core.
 *   **Primary Conflict:** Launching a planetary uprising. Tsunari inoculates hundreds of chimeric soldiers with the aerosol cure, creating a combined armada of freed soldiers and Gray Sector survivors. They storm the orbital Spire to rescue Vram and destroy the terraforming grid.
-*   **The Existential Blackmail:** Archon Xaevis taunts that destroying the Vaelen means the extinction of mankind—outside the domes, Earth's soil is barren silica and the oceans are boiling poison. Tsunari shatters his leverage by revealing that she holds her father's navigational corridor to the Verdant Cradle.
-*   **Climactic Battle:** The Throne Chamber of Spire Prime. Xaevis activates Vram’s neural kill-switch; Vram flatlines, triggering his Simurgh cardiac auto-defibrillation (*The Rebirth*) as Tsunari pierces his siphon port with the master antidote. Vram rises in uninhibited solar fire, defeating Xaevis.
+*   **The Existential Blackmail:** Archon Xaevis taunts that destroying the Karyom means the extinction of mankind—outside the domes, Earth's soil is barren silica and the oceans are boiling poison. Tsunari shatters his leverage by revealing that she holds her father's navigational corridor to the Verdant Cradle.
+*   **Climactic Battle:** The Throne Chamber of Spire Prime. Xaevis activates Vram's neural kill-switch. Vram flatlines. The Raven cardiac shock fires once as Tsunari pierces his siphon port with the master antidote. He rises spent and burning, and he beats Xaevis.
 *   **Ending State:** The Terra-Pylons are reversed, neutralizing forty years of toxic Amber Haze and calming the electromagnetic squalls across the Stygian Oceans. Blue skies and natural rain return. Tsunari and Vram broadcast the coordinates of the Verdant Cradle to every surviving enclave on Earth. The trilogy closes with **The Great Migration**: a united fleet of humans and chimeric legions setting sail across the calm blue sea toward a free, flourishing new continent.
 
 ---
@@ -87,7 +87,7 @@ graph TD
 ### Commander Vram Tyage ("Vram" / "Pyre-Zero")
 *   **Book 1:** A leashed corporate executioner living in blinding neuro-pain. Discovers through Tsunari’s touch that he is a human being with a soul. Rejects The Forger's false messianic throne and Elena Corvus's leash, choosing autonomous partnership beside Tsunari.
 *   **Book 2:** A protective, deeply devoted partner whose feral protectiveness is pushed to the limit. Sacrifices his own freedom so she can live.
-*   **Book 3:** Endures torture in the orbital spires without breaking. Undergoes the mythic solar rebirth, destroying his alien leash and stepping into his destiny as a free leader.
+*   **Book 3:** Endures torture in the orbital spires without breaking. The cardiac shock restarts him once the leash is cut. He comes out of that room free, and spent.
 
 ### Aeros-Legion 7 (Cassian, Veda, Ferrin Calder, Toby Vance) & Allies (Boran, Madame Chen, Kira)
 *   **Book 1:** Suspicious, conditioned soldiers following orders out of fear. Joined by undercity allies (Boran, Madame Chen, Kira Brandt), they choose Vram and defect after experiencing neural clarity from Tsunari's prototype stabilizer.

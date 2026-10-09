@@ -23,7 +23,7 @@
     *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); and gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
-        *   *The Vaelen Sky Shadows:* The only flying machines are alien—massive, silent **Vaelen Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
+        *   *The Karyom Sky Shadows:* The only flying machines are alien—massive, silent **Karyom Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
 
 *   **Chapter 3 // Tsunari**
     *   *Epigraph (Fragment from an Uncatalogued Scythian Steppe Papyrus — ca. 480 BCE, Bio-Curator Archive Plate 12):*  
@@ -32,7 +32,7 @@
     *   *Core Action:* Tsunari flees through a howling acid dust storm, setting micro-EMP tripwires among the shattered solar collectors. She disables two pursuing scouts with agile wall-rebound leaps and shadow stalking.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Pre-Collapse Ruins:* The graveyard of pre-Storm green technology—miles of shattered, black photovoltaic mirrors rising from sand dunes, showing that humanity once tried and failed to save its own climate before the aliens arrived.
-        *   *Chimeric Physiology in Combat:* Tsunari’s Dromaeon enhancements (lateral tracking vision, eye membranes shielding her eyes from sand, stronger legs).
+        *   *Chimeric Physiology in Combat:* Tsunari’s Raptor enhancements (lateral tracking vision, eye membranes shielding her eyes from sand, stronger legs).
 
 *   **Chapter 4 // Vram**
     *   *Lexicon Entry (The Siphon & The Silver Spine):*  
@@ -40,7 +40,7 @@
     *   *Setting:* The perimeter of the solar mirror banks.
     *   *Core Action:* Tracking the thief through the swirling dust from above, Vram calculates her escape vector. Cornering her behind a shattered mirror bank, he realizes she deliberately anticipated his flanking trajectory—murmuring with dark, lethal admiration: *"Clever girl..."*—before tucking his wings into a steep terminal dive to tackle her into the sand.
     *   *Dynamic:* The initial kinetic collision of two apex biotypes—solar aerial kinetic force meeting low-center-of-gravity cursorial speed.
-    *   *Review (sector bands):* The Great Purge memory still puts the training barracks, and the Dromaeon crèches dragged into the street, in Sector 04. Sector 4 is industry inside the shield. Review the page and place the barracks where a collared fledgling would have stood.
+    *   *Review (sector bands):* The Great Purge memory still puts the training barracks, and the Raptor crèches dragged into the street, in Sector 04. Sector 4 is industry inside the shield. Review the page and place the barracks where a collared fledgling would have stood.
 
 *   **Chapter 5 // Tsunari**
     *   *Epigraph (Scrawled in grease-pencil on the bulkhead of Sector 09 Perimeter Gate 4):*  
@@ -51,7 +51,7 @@
 
 *   **Chapter 6 // Vram**
     *   *Lexicon Entry (Null-Resonance):*  
-        > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Vaelen quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
+        > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Karyom quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
     *   *Setting:* The floor of the shattered substation.
     *   *Core Action:* During their desperate grapple, Tsunari's bare hand locks onto Vram's open collar and finds the siphon at his nape.
     *   *The Sensation & Forbidden Lust:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees. But as his hands pin her wrists in the sand, he feels the lithe, muscular curve of her waist between his thighs and the wild sage on her throat. An involuntary, primal surge of arousal shocks his discipline. *Focus, soldier. She's an illegal insurgent with blood on her boots, not a woman in your quarters.*
@@ -80,7 +80,7 @@
 
 *   **Chapter 10 // Vram**
     *   *Lexicon Entry (Lattice Burn / Neuro-Decay):*  
-        > **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Vaelen Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
+        > **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Karyom Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
     *   *Setting:* The tactical command desk of Redoubt Station 14.
     *   *Core Action:* Isolation interrogation. Vram measures his biometrics: standing six feet away from Tsunari causes his fever to spike past 108°F with violent lattice tremors; touching her skin immediately stabilizes his pulse.
     *   *Climax of Part I:* Director Elena Corvus radios an encrypted order demanding the captive’s immediate execution. Vram lies to his corporate master for the first time in his life, claiming the prisoner died during the sandstorm.

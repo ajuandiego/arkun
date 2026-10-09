@@ -5,4 +5,4 @@
 *   **Motive:** Does not hate humanity any more than a farmer hates wheat before the harvest. He views baseline humans as obsolete biomass and considers the Griffin chimeric soldiers as domestic dogs that can be euthanized the instant they bite the hand that feeds them.
 *   **Threat Level:** Holds the master kill-switch to the Synapse Lattice in his ceremonial bio-staff.
 
-The species account, and what he intends for the planet, is in `../world/factions/vaelen.md`.
+The species account, and what he intends for the planet, is in `../world/factions/karyom.md`.

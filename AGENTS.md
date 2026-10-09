@@ -9,7 +9,7 @@
 ## 1. Core Premise & Logline
 
 * **Genre:** Adult biopunk romantasy / high-stakes sci-fi. 18+.
-* **Logline:** In Year 40 AS, an alien empire is phasing out human air. Rogue Dromaeon-spliced bio-hacker Dr. Tsunari Thorne steals the proof of humanity's extinction. The regime sends Commander Vram Tyage, a Simurgh-spliced soldier whose body runs a lethal solar fever. One accidental touch silences that fever. To keep her alive he must defect, and burn the sky the empire sold.
+* **Logline:** In Year 40 AS, an alien empire is phasing out human air. Rogue Raptor-spliced bio-hacker Dr. Tsunari Thorne steals the proof of humanity's extinction. The regime sends Commander Vram Tyage, an Avian soldier, common name Raven, whose wing engine runs a lethal fever. One accidental touch silences that fever. To keep her alive he must defect, and burn the sky the empire sold.
 * **Book 1 question:** Can Tsunari and Vram turn a hunt into a chosen alliance in time to expose the extinction clock, without corporate pardon or cult worship owning either of them.
 * **Target audience & tone:** Adult, character-driven, visceral. Gritty biopunk set against sensory romance. High-stakes survival braided to an enemies-to-lovers bond. The language stays grounded: water, air, ammunition, shelter, and keeping each other breathing.
 
@@ -37,7 +37,7 @@ Read `canon/style/voice.md`, `canon/style/sensory.md`, and `canon/style/glossary
   * Say the thing. Do not open with a denial and then the real sentence ("It is not X. It is Y."). Cut the denial.
   * **Avoid AI clichés:** No "a testament to," "delve into," "unlocking a world of," or thesaurus melodrama. Keep the sentence punchy and physical.
 
-Five strains stay distinct: Gryphon, Lindwurm, Simurgh, Fenris, Dromaeon. Abilities do not migrate. Arkun is the break of conditioning into a personal ability, not a generic power-up.
+Five classes stay distinct: Avian, Lycan, Ceraton, Galvan, Raptor. Abilities do not migrate. Arkun is the break of conditioning into a personal ability, not a generic power-up.
 
 ## 4. Directory & File Structure
 

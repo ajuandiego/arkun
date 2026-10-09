@@ -1,12 +1,12 @@
 # The Cradle
 
-## 5. The Vaelen's Secret: The Verdant Cradle (The Hidden Oasis)
+## 5. The Karyom's Secret: The Verdant Cradle (The Hidden Oasis)
 
 The ultimate geopolitical secret of planet Earth, known to Archon Xaevis but completely hidden from the human Consortium:
 
 *   **Geographic Sanctuary:** Located across the Stygian Ocean within an isolated continental pocket, completely enclosed by colossal ringed volcanic calderas. 
-*   **Atmospheric Miracle:** Natural magnetic anomalies and towering geothermal ridges deflect the Vaelen's atmospheric seeding. Inside the caldera rim, the air is **100% natural, sweet, and rich with oxygen**. Pure fresh-water rivers flow, ancient pre-collapse forests flourish, and original Earth animal species thrive untouched by mutation.
-*   **The Vaelen's True Purpose:** The Verdant Cradle was the Vaelen's private **Antiquity Genetic Nursery** (dating back to 4,000 BCE). Archon Xaevis never intended to share Earth with the human Consortium; his plan was to wipe out humanity with the Terra-Pylons, then settle the Vaelen species permanently inside the Verdant Cradle.
+*   **Atmospheric Miracle:** Natural magnetic anomalies and towering geothermal ridges deflect the Karyom's atmospheric seeding. Inside the caldera rim, the air is **100% natural, sweet, and rich with oxygen**. Pure fresh-water rivers flow, ancient pre-collapse forests flourish, and original Earth animal species thrive untouched by mutation.
+*   **The Karyom's True Purpose:** The Verdant Cradle was the Karyom's private **Antiquity Genetic Nursery** (dating back to 4,000 BCE). Archon Xaevis never intended to share Earth with the human Consortium; his plan was to wipe out humanity with the Terra-Pylons, then settle the Karyom species permanently inside the Verdant Cradle.
 
 ---
 
@@ -17,11 +17,11 @@ The discovery that shatters Archon Xaevis’s existential blackmail:
 *   **The Father's Fate:** Ten years ago, when Apex Bio raided their workshop, Dr. Jeffrey Thorne (Tsunari and Sora's father) was not executed. He fled into the wastes in a heavily retrofitted, pressurized amphibious sand-crawler. Everyone believed he was swallowed by the Stygian Ocean.
 *   **The Crossing:** Through genius navigational mathematics, Jeffrey discovered a narrow, shifting corridor through the electromagnetic squalls—a "null-trench" where ocean currents remain calm—and made landfall on the shores of the Verdant Cradle.
 *   **The Ghost Beacon:** Before his power cells failed, Thorne encoded his survival log, soil and air analyses, and the exact coordinates of the ocean corridor onto an optical quartz disc and launched a shortwave emergency transmitter.
-*   **The Vault Revelation:** In Book 1, this disc sits in Senior Archivist Gideon Cole’s deep vault, dismissed as a ghost signal. In Book 2, Tsunari recognizes her father's unique cipher. In Book 3, this proof shatters the Vaelen's lie that Earth is dead outside the domes.
+*   **The Vault Revelation:** In Book 1, this disc sits in Senior Archivist Gideon Cole’s deep vault, dismissed as a ghost signal. In Book 2, Tsunari recognizes her father's unique cipher. In Book 3, this proof shatters the Karyom's lie that Earth is dead outside the domes.
 
 ---
 
-## 7. The Three Vaelen Spires: Orbital Mooring & Control
+## 7. The Three Karyom Spires: Orbital Mooring & Control
 
 The extraterrestrial overseers enforce planetary subjugation from low orbit:
 

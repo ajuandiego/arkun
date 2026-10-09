@@ -64,7 +64,7 @@ In a world where corporate masters treat people like disposable livestock, **pre
 
 ### 3. Biological & Sensual Resonance (Fire and Cool Stone)
 The characters are lethal weapons, but in the quiet of survival, their biology creates stunning sensory intimacy:
-*   **The Hearth in the Bone:** When Vram rests in the dark, his 106°F internal Simurgh furnace causes the micro-capillaries beneath his skin to pulse with a faint, steady golden ember-glow. His wings are black. Gold and red iridescence shows on the primary shafts in the firelight. A surge can lift that shine until the wing reads as gold, and it cools back to black. To a freezing wasteland survivor, his body is a radiant hearth.
+*   **The Hearth in the Bone:** When Vram rests in the dark, his 106°F internal Avian furnace causes the micro-capillaries beneath his skin to pulse with a faint, steady golden ember-glow. His wings are black. Gold and red iridescence shows on the primary shafts in the firelight. A surge can lift that shine until the wing reads as gold, and it cools back to black. To a freezing wasteland survivor, his body is a radiant hearth.
 *   **The Hammered Pewter of the Shadow:** Tsunari’s fine reptilian scales are not coarse lizard hide; they have the smooth, delicate geometric sheen of hammered pewter or fine dark silk moiré. Her movements are an eerie, silent fluid grace—moving through shadows like ink diffusing in water.
 *   **The Tactile Oasis:** When Tsunari’s cool, calloused hand rests against Vram’s burning, scarred neck to quench his lattice tremors, the sensation is an oasis for both: she cools his fire; he warms her chill.
 

@@ -2,7 +2,7 @@
 
 ## 1. World Setting & Premise
 *   **Year:** Year 40 AS (2072 CE). The planet endures a post-apocalyptic collapse driven by catastrophic climate breakdown and alien atmospheric terraforming. The only habitable sanctuaries are the "Green Domes," controlled by global corporate-states and elitist technocracies.
-*   **The Extraterrestrial Factor:** An alien race (the *Vaelen*) arrived four decades ago (in 2032 CE), offering terraforming technology and life-extension advances in exchange for Earth's genetic and mineral resources. However, they allied exclusively with the economic elite, forging a superior ruling caste.
+*   **The Extraterrestrial Factor:** An alien race (the *Karyom*) arrived four decades ago (in 2032 CE), offering terraforming technology and life-extension advances in exchange for Earth's genetic and mineral resources. However, they allied exclusively with the economic elite, forging a superior ruling caste.
 *   **The Global Conflict:** Baseline/traditional humans (struggling in desolate "Gray Sectors") face systematic demographic cleansing as the aliens terraform Earth to suit their own biological requirements rather than human needs.
 
 ## 2. Mythological / Fantasy Element Reinterpreted (Biopunk)

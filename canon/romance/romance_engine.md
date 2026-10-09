@@ -5,11 +5,11 @@
 In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
 *   **The Polar Dynamics (Fire & Shadow):**
-    *   **Vram (The Simurgh Sovereign):** A towering, hyper-thermic solar furnace running at 104°F–106°F. His body burns with uncontainable cellular regeneration and pyric radiance, but his alien Synapse Lattice constantly threatens to cook his brain from the inside out (*Lattice Burn*).
-    *   **Tsunari (The Dromaeon Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, twin Spire hooks, and a rare *Null-Resonance* grounding frequency.
+    *   **Vram (Avian, common name Raven):** Resting line 104°F to 106°F, the bird set-point a Raven's wing requires. Lattice waste, which every collared soldier carries, has no margin in that body and is what drives the seizure. The cause is in `canon/world/life/strains.md`. Tsunari's Keystone shunts the carrier. Her cooler Raptor body takes the set-point that remains.
+    *   **Tsunari (The Raptor Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, twin Spire hooks, and a rare *Null-Resonance* grounding frequency.
 *   **The Thermodynamic & Neural Equilibrium:**
-    *   When Tsunari touches Vram, two different things happen at once. Her Mosaic Keystone shunts the Carrier, and the scream in the mesh goes silent. Her cooler Dromaeon body takes the furnace heat. The cold is not the ground. A cold chimera without the Keystone leaves the port screaming. The full rule is in `canon/world/life/leash.md`.
-    *   To him, holding her is the difference between incinerating in liquid flame and breathing pure, cool mountain air. To her, his massive 106°F solar body heat is an invincible furnace that keeps her alive in sub-zero wasteland storms and fuels her temporal phase-stutters.
+    *   When Tsunari touches Vram, two different things happen at once. Her Mosaic Keystone shunts the Carrier, and the scream in the mesh goes silent. Her cooler Raptor body takes the furnace heat. The cold is not the ground. A cold chimera without the Keystone leaves the port screaming. The full rule is in `canon/world/life/leash.md`.
+    *   To him, holding her is the difference between a seizure and a clear head. To her, his 106°F body is the furnace that keeps her alive in a wasteland night and feeds her phase-stutter.
 
 ---
 
@@ -41,7 +41,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 ### Phase 2: Predator Competence Parity (The Real Spark)
 *   **The Catalyst:** In an unforgiving biopunk wasteland, sweet words and manufactured banter feel hollow. The true emotional turning point occurs in active combat.
 *   **The Mutual Recognition:**
-    *   Vram watches Tsunari calculate temporal angles at hyper-speed, executing a lethal sickle-claw counter-ambush against a feral alpha Dromaeon without a shred of panic. She isn't an un-augmented victim who needs rescuing; she is a cold, lethal shadow hunter.
+    *   Vram watches Tsunari calculate temporal angles at hyper-speed, executing a lethal sickle-claw counter-ambush against a feral alpha Raptor without a shred of panic. She isn't an un-augmented victim who needs rescuing; she is a cold, lethal shadow hunter.
     *   Tsunari watches Vram unleash his pyric shields and aerial vectors, not with reckless brutality, but with surgical military discipline, sacrificing his own armor to absorb an explosive blast meant for a civilian convoy.
     *   **The Biological Realization:** For transgenic pack predators, the deepest aphrodisiac is **flawless competence**. They recognize each other as evolutionary equals—the only two beings capable of operating at the exact same lethal frequency.
 
@@ -83,6 +83,6 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 
 *   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
 *   **The Complementary Survival Unit:**
-    *   **The Male Biotype (Simurgh Solar-Augmented):** Delivers overwhelming solar kinetic power, auto-defibrillating cardiac resilience, heavy pyric barrier shielding, and life-saving 106°F thermal furnace heat in freezing waste storms.
-    *   **The Female Biotype (Dromaeon Stalker-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
+    *   **The Male Biotype (Avian, Raven):** The wing dump, one cardiac shock, and 106°F of body heat in a freezing waste storm.
+    *   **The Female Biotype (Raptor Stalker-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
 *   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which culminates in the hard-won Glass Vault consummation and deepens into fierce, protective devotion across the trials of Book 2.

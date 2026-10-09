@@ -2,7 +2,7 @@
 
 ## 1. Eden Dome Alpha (The Gilded Cage)
 
-The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Vaelen diplomatic emissaries. About 1.5 million people under a shield about five miles across, no larger than Manhattan. From outside, a packed tower city in one glass bowl, with a few garden grounds, set in a wider dark Ring. The count and the garrison are in `canon/world/geography.md`.
+The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Karyom diplomatic emissaries. About 1.5 million people under a shield about five miles across, no larger than Manhattan. From outside, a packed tower city in one glass bowl, with a few garden grounds, set in a wider dark Ring. The count and the garrison are in `canon/world/geography.md`.
 
 *   **Visual Atmosphere:**
     *   Vast, vaulted atmospheric shields made of hexagonal photovoltaic glass that bathe the city in perpetual, flattering golden sunlight.
@@ -43,7 +43,7 @@ The harsh country beyond the lee. Silica dunes, dead highways, container depots,
     *   *Scent after dark, in a hollow:* Cold metal and rotten egg. That hollow is a night pool. Do not sleep in it.
     *   *Sound:* Wind in empty rebar. Before a glass wind, the old pylons hum.
     *   *Air and hour:* Noon is a furnace. Night is the freeze that kills an unsheltered sleeper. Breathing is the hardest on the continent, and a crossing of days ends in a cough, not the Choke. A cartridge or a cabin filter is how a crew arrives less wrecked. A sweet smell is a spore lane: leave it.
-    *   *The Feral Dread (The Scythe-Stalker Threat):* Packs of wild **Dromaeons** prowl the concrete ruins at dusk. The *tap-tap-click* of sickle claws on corrugated metal, and their sub-vocal hunting clicks, signal a pack.
+    *   *The Feral Dread (The Scythe-Stalker Threat):* Packs of wild **Raptors** prowl the concrete ruins at dusk. The *tap-tap-click* of sickle claws on corrugated metal, and their sub-vocal hunting clicks, signal a pack.
 
 ---
 
@@ -82,8 +82,8 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 
 ### The Buried Shipping Container (The Freight Depot Wreckage)
 *   Downed in a desolate sand dune during their crash-glide escape into the Rust Barrens.
-*   The interior of a rusted, half-buried shipping container is cramped, sealed against a raging acid dust storm and prowling feral Dromaeons.
-*   The space smells of oxidized steel, blood, and Vram's scorched feathers. This is barrens night: the temperature plunges below zero, and the only reliable warmth is Vram's 106°F body heat. They are sealed against a glass wind and against Dromaeon claws on the corrugated wall.
+*   The interior of a rusted, half-buried shipping container is cramped, sealed against a raging acid dust storm and prowling feral Raptors.
+*   The space smells of oxidized steel, blood, and Vram's scorched feathers. This is barrens night: the temperature plunges below zero, and the only reliable warmth is Vram's 106°F body heat. They are sealed against a glass wind and against Raptor claws on the corrugated wall.
 
 ### The Subterranean Metro Bunker (The Catacombs)
 *   A pre-collapse subway station buried eighty feet beneath the desert bedrock.

@@ -14,7 +14,7 @@
 ### 3. Forced Proximity Traps (High-Sensory Survival Pressure)
 *   **The Tandem Roc Cockpit:** Strapped inches apart in a pressurized bio-cockpit while dodging anti-air railgun flak, their breathing syncs under multi-G turns.
 *   **The Emergency Bio-Decontamination Pod:** A cramped, one-meter airlock during an acidic spore fallout; clothing drenched in caustic propellant must be stripped to prevent fatal dermal necrosis.
-*   **Thermal Shelter in the Subterranean Sump:** Freezing nights in the subterranean ruins of the Rust Barrens where his hyper-thermic Simurgh solar body heat (104°F–106°F) is the single thermodynamic barrier keeping her from hypothermic death.
+*   **Thermal Shelter in the Subterranean Sump:** Freezing nights in the subterranean ruins of the Rust Barrens where his Raven body heat (104°F–106°F) is the barrier keeping her from hypothermic death.
 
 ### 4. "Who Did This To You?" (The Primal Protector Shift)
 *   When a rival scavenger militia, Tempered cultist, or Consortium security unit corners Tsunari and leaves a bloody gash across her cheek or bruises her wrists:
@@ -23,8 +23,8 @@
 
 ### 5. Biological Quirks & Primal Sensory Hooks
 *   **The Diaphragm Rumble (Involuntary Avian Resonance):** When Tsunari’s cool, calloused fingertips trace the sensitive surgical ports along his neck, his diaphragm emits a deep, low-frequency resonance that rattles her palm bones—a chimeric reflex he is completely powerless to suppress.
-*   **Thermal Scent-Marking & Sheathing:** Solar avian territorial instinct drives him to drape his heavy officer's greatcoat over her shoulders or draw her against his solar-furnace chest, obliterating her biological scent with ozone and burnt amber to blind alien bio-trackers.
-*   **Dromaeon Acoustic Grounding:** When Vram's sensory inputs overload from combat telemetry, Tsunari tilts her head and clicks softly at a rhythmic micro-acoustic pitch, physically grounding his nervous system.
+*   **Thermal Scent-Marking & Sheathing:** He drapes his heavy officer's greatcoat over her shoulders or draws her against his chest. Ozone and heated metal cover her scent.
+*   **Raptor Acoustic Grounding:** When Vram's sensory inputs overload from combat telemetry, Tsunari tilts her head and clicks softly at a rhythmic micro-acoustic pitch, physically grounding his nervous system.
 
 ---
 

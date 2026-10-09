@@ -4,9 +4,9 @@
 
 ### "Doc" Aaron Mercer (The Mentor & Secret Infiltrator — CANON PLOT TWIST)
 *   **Public Persona:** A weary, coughing combat medic in his late 50s. Worked alongside Tsunari’s father before the Green Domes closed. Acted as Tsunari’s surrogate father, mentor, and the tactical anchor of the Null-Circuit rebel cell.
-*   **The Secret Reality:** **A Deep-Cover Vaelen Simulacrum (Codename: *Weaver-Unit 09*).** 
+*   **The Secret Reality:** **A Deep-Cover Karyom Simulacrum (Codename: *Weaver-Unit 09*).** 
     *   Mercer was planted decades ago to observe human cellular adaptation under extreme atmospheric radiation and stress.
-    *   He intentionally guided Tsunari into bio-engineering and genetic reverse-engineering because her *Null-Resonance* mutation was the exact genetic prize the Vaelen Spire needed. The entire resistance cell was a controlled petri dish.
+    *   He intentionally guided Tsunari into bio-engineering and genetic reverse-engineering because her *Null-Resonance* mutation was the exact genetic prize the Karyom Spire needed. The entire resistance cell was a controlled petri dish.
 *   **The Foreshadowing & Clues:**
     *   *The Mechanical Lung Cover:* His rattling, wheezing artificial lungs were an elaborate surgical cover to explain the clicking sounds of his alien respiratory filters and why he never coughed up true human blood from the Choke.
     *   *Respirator Filter Deception:* He carries battered filter cartridges, but Tsunari notices in retrospect that his filters never showed the typical sulfur discoloration of someone breathing surface air.
@@ -16,7 +16,7 @@
 
 ## 6. The Infiltrator Plot Twist: Canon Reveal & Narrative Payoff
 
-*   **Canon Choice:** **"Doc" Aaron Mercer is the Vaelen Simulacrum.**
+*   **Canon Choice:** **"Doc" Aaron Mercer is the Karyom Simulacrum.**
 *   **The Narrative Payoff:**
     *   *Act II-B (The Safe Haven Illusion):* When Tsunari brings Vram to the bunker, Mercer pretends to be enraged that she brought an augmented soldier, testing Vram's loyalty and assessing his genetic state.
     *   *Act III-A (The Reveal):* During the air raid on the bunker, Tsunari discovers Mercer standing calmly amid the fire, unaffected by the smoke. His artificial lung ceases its mechanical hiss, his pupils fracture into alien concentric rings, and he tells her with cold affection: *"You did everything I engineered you to do, Tsunari."*

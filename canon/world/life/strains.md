@@ -1,70 +1,106 @@
 # Strains
 
-The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs; they are **gene-spliced transgenics** engineered through advanced **Gene-Craft**, embryonic viral splicing, and organogenesis—reconstructed directly from **ancient Vaelen archeo-genetic templates** discovered in pre-collapse subterranean cradles.
+The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs. They are **gene-spliced chimeras**, built by Gene-Craft from **Karyom templates** recovered in the pre-collapse cradles. Why the Karyom kept these lines is in `../factions/karyom.md`.
 
-### The Five Ancient Lineages & Mutation Designations
+A chimera is a person made by that graft. The word is the procedure. It is not a sixth class, and it is not the bond between Tsunari and Vram.
 
-To avoid confusing specific lineages with general augmentation, the planetary biosystem categorizes all gene-spliced mutations into **five distinct letters**:
+## The five classes
 
-1.  **Mutation G (Gryphon Strain):** Avian-panthera aerial hunters; basis for high-altitude biological flight, 14-foot wings, titanium-honeycomb bones, and retractable nanocarbon hand talons.
-2.  **Mutation L (Lindwurm Strain):** Heavy mineralized reptilian excavators; basis for *Lithodermic Sintering* (rock-like armor) and bio-toxin resistance.
-3.  **Mutation S (Simurgh Strain):** Metabolic-regenerative solar avian vectors; source of 106°F internal thermal furnace, accelerated telomerase enzymes, glowing capillaries, and *Cytokinetic Weaving* (healing).
-4.  **Mutation F (Fenris Strain):** High-torque terrestrial canid predators; source of acoustic hunting syrinx, thick predatory coat/quills, enhanced olfaction, and seismic impact resistance.
-5.  **Mutation D (Dromaeon Strain):** Spliced from deep-fossil archeo-genetic genomes. Bipedal terrestrial pack hunters featuring hyper-calculating predictive stalker intelligence, sub-vocal acoustic echolocation, clear eye membranes, and 50+ mph burst sprinting.
+Each class has a lab mutagen, a common name where soldiers and the street use one, and an origin mix. The origin is the template. A person's chart can still mix two classes. The dominant class sets the body. The second class lends a sense, a hide, or a chemical trick. Abilities do not migrate. The Arkun trees are in `arkun.md`.
 
-### Anatomical & Physiological Profiles of the Five Mutation Strains
-
-#### 1. Mutation G: The Gryphon Strain — *The Sky-Lords (Standard Aeros-Legion)*
-*   **Build & Skeleton:** Towering, lean, broad-shouldered. Honeycombed, ultra-light titanium-calcium bone matrices modeled on high-altitude avian anatomy, capable of withstanding terminal-velocity impacts and 12-G aerial turns.
-*   **Muscular Density:** Synthetic myofibrils producing 600% the kinetic torque of an olympic athlete while maintaining lean, aerodynamic predator silhouettes.
-*   **Dermis & Plumage:** Hardening micro-scales along forearms, shoulders, and spine. Iridescent, razor-thin black plumage along the nape and shoulder blades that bristles in response to adrenaline or territorial aggression.
-*   **Sensory Array:** Tetrachromatic vision (ultraviolet, infrared, thermal signatures, and electric wiring fields); micro-acoustic sensors in inner ear canals that filter human breathing patterns through gale-force winds.
-*   **Natural Weaponry:** Retractable nanocarbon talons sheathed beneath the fingernails, extending voluntarily to slice through alloy bulkheads.
-*   **Metabolic Signature:** Hyper-thermic furnace (runs at 104°F / 40°C); burns calories at terrifying rates, requiring hyper-concentrated nutrient paste.
-
-#### 2. Mutation D: The Dromaeon Strain — *The Scythe-Stalker (Tsunari's Lineage)*
-*   **Build & Skeleton:** Wiry, low-center-of-gravity bipedal posture with hyper-flexible pelvic and knee joints engineered for 50+ mph burst sprinting, vertical leaping, and wall-rebound maneuvers.
-*   **Dermis & Covering:** Pure reptilian, completely non-feathered: fine, flexible pebbled scales along forearms and calves; smooth, reinforced obsidian-tinted keratin scutes along the shins, ankles, and lower spine.
-*   **Sensory Array:** Lateral-tracking amber eyes with vertical slit pupils, like a raptor. Tsunari's iris is the amber on `assets/media/tsunari_10.jpg`. Clear eye membranes under the ordinary lids sweep dust and muzzle flash. On the page she calls them membranes.
-*   **Natural Predatory Attributes:** In wild specimens, five-inch curved biological sickle-talons on the inner digits. In augmented human subjects, the strain shows up as stronger legs, explosive leaps, and a fast start, frequently paired with handheld curved **Spire hooks** that mirror the predatory hooking arc of the ancient beast.
-*   **Metabolic & Acoustic:** Sub-vocal throat resonating chamber capable of producing high-frequency hunting clicks and chirps; rapid-cycle adrenaline spikes.
-
-#### 3. Mutation L: The Lindwurm Strain — *The Earth-Bulwark*
-*   **Build & Skeleton:** Massive, heavy, brute-force mass; dense solid-core bone structures sacrificing supersonic agility for sheer structural invulnerability and crushing torque.
-*   **Dermis & Covering:** Interlocking hexagonal mineralized scales (slate, dark obsidian, or burnished bronze) that can chemically polarize and cross-link into living stone armor.
-*   **Sensory Array:** Slit reptilian pupils; forward-facing thermal pit organs above the nostrils that register infrared heat signatures in pitch-black subterranean ruins.
-*   **Natural Weaponry:** Heavy serrated forearm spurs; sub-dermal venom glands along the jaw producing paralytic neurotoxins and tissue-dissolving enzymes.
-*   **Metabolic Signature:** Cold, reptilian-efficient resting metabolism (resting body temp approx. 95°F / 35°C); requires external heat basking or chemical thermal packs when dormant.
-
-#### 4. Mutation S: The Simurgh Strain — *The Solar Sovereign (Vram's Lineage)*
-*   **Build & Skeleton:** Towering, hyper-vascularized musculature with hollow titanium-matrix bones and ultra-elastic tendon attachments.
-*   **Dermis & Covering:** Smooth alabaster skin webbed with subcutaneous capillary tracks that glow liquid gold-crimson under emotional or combat arousal; iridescent obsidian-and-copper feather shafts along the collarbones, nape, and spine.
-*   **Sensory Array:** Wide, molten-gold avian pupils tracking bio-electric currents, thermal gradients, and aerial flight vectors.
-*   **Natural Weaponry:** Retractable pyric nanocarbon talons that superheat upon contact; cardiac auto-defibrillation that automatically restarts his heart after fatal flatlining.
-*   **Metabolic Signature:** Constant radiant solar fever (104°F–106°F); hyper-accelerated cellular mitosis that smokes and knits mortal wounds closed within minutes.
-
-#### 5. Mutation F: The Fenris Strain — *The Terrestrial Vanguard*
-*   **Build & Skeleton:** Heavy-set, muscular quadruped/biped hybrid build; thick neck and reinforced cervical vertebrae built to absorb vehicular collisions and artillery shockwaves.
-*   **Dermis & Covering:** Coarse, bristling fur and shock-absorbent calloused pads on knuckles and palms; defensive dermal quills along shoulders that flare when threatened.
-*   **Sensory Array:** Hyper-developed olfactory bulb (can scent human adrenaline, sweat, and blood miles away through dust storms); reflective *tapetum lucidum* eyes that shine silver-green in low light.
-*   **Natural Weaponry:** Non-sheathed serrated carbon bone-claws; massive jaw torque capable of crushing metal armor plates and severing reinforced alloy cables.
-*   **Metabolic Signature:** High-endurance predator metabolism; thermoregulates via rapid respiration and thick subcutaneous insulation.
+1. **Avian.** Mutagen: **Avian-H Vector.** Common names: **Ravens**, **Kites.** Origin: 60% raven, the rest other birds. The wing.
+2. **Lycan.** Mutagen: **Lupine-A String.** Common name: **Wolves.** Origin: 80% wolf, the rest other mammals. The nose and the pack.
+3. **Ceraton.** Mutagen: **Pachyd-D Link.** Common names: **Rhinos**, **Tanks.** Origin: 70% rhino, the rest other mammals. The door.
+4. **Galvan.** Mutagen: **Voltax-34 Effect.** Common names: **Sparks**, **Blinders.** Origin: 75% electric eel, the rest amphibian. The wet shock.
+5. **Raptor.** Mutagen: **Dromaeo-X Chrome.** No common name. Origin: 79% dromaeosaurus, the rest other reptiles. The stalker. Tsunari's line.
 
 ---
 
-## 3. Autonomous Biological Flight: Aeros-Legion 7 & The Winged Caste
+## Anatomical profiles
 
-Because human aviation is completely extinct due to global resource collapse (no aviation fuel, no refineries, and no avionic semiconductor supply chains), the Consortium engineered biological flight directly into the Gryphon and Simurgh chimeric soldiers:
+### 1. Avian — Ravens and Kites
 
-*   **Anatomy & Flight Mechanics:**
-    *   Massive, 14-foot feathered wings anchored to reinforced scapular implants along the upper thoracic spine, driven by hyper-dense avian pectoral muscles. The Gryphon share builds the frame: span, hollow titanium-honeycomb bone, barometric pitch, and the 12G tolerance. On a Simurgh soldier the same feather is dyed by the furnace.
-    *   **The quill:** A feather. Shaft, vane, and barb. The shaft is carbon bone wrapped in transgenic keratin. The vane is that keratin, black, stiff, and edged enough to cut a line or take a strike. A broken shaft bleeds. The first set takes years to mature. A lost Simurgh primary regrows in about two days. A Gryphon primary takes weeks.
-    *   **The look, resting:** Black vanes. Gold and red iridescence on the shafts and the primaries only. Coverts, the short feathers over the wing bones, stay black. The bone of the wing arm wears the same matte black protective gear as his chest. Scar marks the root, between the shoulder blades. The two links of the siphon run into that same gap. Folded, the pair is a black cloak through the slits in the shirt. His clothes and the locked sheet are in `../../characters/vram.md`.
-    *   **The look, hot:** A hard beat or a pyric surge lifts the gold and the red until the open wing reads as gold. It cools back to black. Ordinary Gryphon wings in the legion are slate and do not do this.
-    *   **The nape crest:** A separate short plume at the nape. It lies flat and rises gold when he spikes. It is not part of the wing. It parts around the siphon. It does not cover the socket.
-*   **Neural Telemetry & Siphon Ports:**
-    *   The one nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. The two links are the path down into the spine. They are not a second antenna.
-*   **The Alien Sky Monopoly:**
-    *   The only mechanical flying craft on Earth belong exclusively to the **alien Vaelen**: soundless, floating crystalline **Harvester Barges** and atmospheric obelisks that glide through the stratosphere via anti-gravity field propulsion, completely beyond the reach of human engineering.
+One graft. Hollow bone, a built wing, hand talons, a predator's eye, and a metabolism that outruns a human. The common name is the cut.
+
+*   **Ravens** are the command cut. Broad wing, black vane, the hottest burn. Vram Tyage is a Raven.
+*   **Kites** are the patrol and scout cut. Lighter bone, a faster stoop or a hover, plumage that stays slate, cream, or rust. They do not live at a Raven's temperature. Toby Vance is a Kite. His callsign, Kestrel, is his name in the squad, not a third class.
+
+**Build.** Towering on a Raven, leaner on a Kite. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
+
+**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, it passes through the slits in the shirt. A Raven's pair reads as a black cloak. The bone of the wing arm wears the same matte plate as the chest. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Kite primary takes weeks.
+
+**The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. On a Raven the vane is black. Heat or a hard beat lifts a bronze and oil-slick sheen on the shafts and the primaries. It cools back to black. Kite wings do not do this. The short crest at a Raven's nape is not part of the wing. It lies flat, and it rises when he spikes. It parts around the siphon.
+
+**Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyom.md`.
+
+A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Kite still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
+
+The claws are carbon seated in that tissue, so a closed hand is hot. A cut on a Raven closes faster than a cut on a Kite, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
+
+**Senses.** Tetrachromatic vision: ultraviolet, thermal, and the glint of a wire. The inner ear filters a breath out of a gale.
+
+**Fuel.** The burn eats calories. A Raven on a long patrol eats like a fire.
+
+### 2. Lycan — Wolves
+
+**Build.** Heavy through the neck and shoulder, built to take a hit and keep going. Endurance first, then the jaw.
+
+**Hide.** A coarse coat, calloused pads, a human face that still reads as a person. No quills. The wolf is the donor, not a second animal stapled on.
+
+**Senses.** A nose that can pick adrenaline, sweat, and blood out of a dust storm. A tapetum that shines in low light. Hearing ahead of a baseline human.
+
+**Weapons.** A jaw with real torque. Nails that are thick and do not sheathe like a cat's. The coat is not armor.
+
+**Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
+
+Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyom locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyom.md`.
+
+### 3. Ceraton — Rhinos and Tanks
+
+**Build.** Mass. Dense bone. A short charge, then he is spent. 6'8" is a soldier's height, not a new species.
+
+**Hide.** Dermal plates over the shoulders, chest, back, and thighs, folded and tubercled the way an Indian rhino's hide is. Under impact the plates lock: collagen and keratin cross-link, and a round has to chew through them. A keratin boss sits on the forearm or the brow. It is a ram. It is not a horn on the face. Soldiers who live in the plates are called Tanks. The animal name is Rhino.
+
+**Senses.** Poor eyes, excellent smell and hearing. Impact and footfall reach him through the bone.
+
+**Heat.** Mammalian. He eats almost as hard as a Raven, and he does not bask like a reptile.
+
+**What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyom treatment, not rhino blood. See `../factions/karyom.md`.
+
+Boran Vael-Korr is a Rhino.
+
+### 4. Galvan — Sparks and Blinders
+
+**Build.** A human frame with the eel's smooth, scaleless hide and a lateral line along the ribs that reads current. The amphibian share keeps a gland layer in the skin.
+
+**The shock.** Modified muscle stacked in the forearms. It leaves through the palms. A Spark uses that discharge as a weapon. A Blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
+
+**Air.** They gulp, and they tolerate standing water and a sulfur seep better than the other four. The skin has to stay wet. In the dry barrens the breath and the shock both fail if the hide dries.
+
+**The secretion.** The amphibian share can load the palmar glands with a toxin. A scratch is a medical event. It is not a Ceraton weapon, and it does not ground a siphon.
+
+**Heat.** Cooler than an Avian, warmer than a Raptor at rest. They are not a heat sink for a Raven.
+
+### 5. Raptor — no common name
+
+The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname for the class.
+
+**Build.** Wiry, low, with the hip and knee for a 50 mph burst, a vertical leap, and a wall rebound. Stronger legs than a baseline human. Landings and jumps come from that muscle. On the page, explain it once, in plain speech. After that, write the action.
+
+**Hide.** Dry reptile, not a feather. Fine pebbled scales on the forearms and calves. Reinforced keratin scutes on the shins, ankles, and lower spine.
+
+**Eyes.** Lateral-tracking eyes, vertical slit pupils. Tsunari's iris is the amber on `assets/media/tsunari_10.jpg`. Clear membranes under the ordinary lids sweep dust and glare. On the page she calls them membranes. Do not say nictitating membrane, second eyelid, or third eyelid.
+
+**Weapons.** Wild specimens carry a curved sickle claw on the inner digit. In a human subject the line shows up as the legs, the leap, and a fast start, often paired with handheld hooks that copy that arc. Tsunari's hooks are in `../../style/glossary.md`.
+
+**Sound and heat.** A sub-vocal chamber for hunting clicks. She can drop toward a cool resting temperature and fall off a thermal scope. She is the cool body against a Raven's burn. The cool is not the ground. The ground is the Keystone, in `leash.md`.
 
 ---
+
+## Flight
+
+Human aviation is gone. No fuel, no refineries, no avionics chain. The Consortium put the wing into the Avian class only. Raptors do not fly. Lycans, Ceratons, and Galvans do not fly.
+
+The only mechanical flying craft on Earth belong to the Karyom: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyom.md`.
+
+**The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. The two links run down between the wing roots. They are not a second antenna. The hardware rule is `leash.md`.

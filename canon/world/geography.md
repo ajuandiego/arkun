@@ -23,7 +23,7 @@
                                    ▼
  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ [ THE RUST BARRENS ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
  │ • Thousands of miles of radioactive red silica dunes and dead ruins │
- │ • Feral Dromaeon (Scythe-Stalker) pack hunting grounds              │
+ │ • Feral Raptor (Scythe-Stalker) pack hunting grounds              │
  │ • Terra-Pylon Seven (Venting nitrogen-sulfur aerosol clouds)        │
  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
                                    │
@@ -37,7 +37,7 @@
                    (Secret Crossing Corridor)
                                    ▼
  🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿 [ THE VERDANT CRADLE ] 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
- │ • The Hidden Oasis • Ancient Vaelen Genetic Reserve               │
+ │ • The Hidden Oasis • Ancient Karyom Genetic Reserve               │
  │ • Pristine un-poisoned green continent • Shielded by volcanic rim  │
  │ • Discovered by the Lost Traveler (Dr. Jeffrey Thorne)            │
  │ • THE DESTINATION OF THE GREAT MIGRATION AT THE CLIMAX OF BOOK 3  │
@@ -48,7 +48,7 @@
 
 ## 1. The Broken Globe: The Great Cleave
 
-By Year 40 AS (2072 CE), the familiar 21st-century world map is dead. The combination of early climate cataclysm (**The Scorching**, 2028–2031) and forty years of violent tectonic and atmospheric pounding by Vaelen Terra-Pylons fundamentally cleaved Earth's crust:
+By Year 40 AS (2072 CE), the familiar 21st-century world map is dead. The combination of early climate cataclysm (**The Scorching**, 2028–2031) and forty years of violent tectonic and atmospheric pounding by Karyom Terra-Pylons fundamentally cleaved Earth's crust:
 
 ### 1.1 Cataclysmic Continental Shifts
 *   **The Pan-Oceanic Breach (No Central America):** The Central American land bridge collapsed under tectonic fracturing and massive marine thermal expansion. The Pacific and Atlantic Oceans converged into a raging, 300-mile-wide equatorial strait of boiling currents and perpetual hurricane systems.
@@ -62,7 +62,7 @@ By Year 40 AS (2072 CE), the familiar 21st-century world map is dead. The combin
 
 The oceans still exist, but maritime travel is considered an absolute death sentence:
 
-*   **Electromagnetic Squalls & Magnetic Scrambling:** The continuous energy discharge from planetary Terra-Pylons and orbital Vaelen Spires creates intense atmospheric ionization. Over open water, compasses spin erratically, electronics fry from inductive surges, and radio communications are choked by deafening static.
+*   **Electromagnetic Squalls & Magnetic Scrambling:** The continuous energy discharge from planetary Terra-Pylons and orbital Karyom Spires creates intense atmospheric ionization. Over open water, compasses spin erratically, electronics fry from inductive surges, and radio communications are choked by deafening static.
 *   **Supercell Vortices & Boiling Currents:** Caustic sulfur rain and superheated hydrothermal vents generate sudden, unpredictable squalls capable of tearing ocean vessels to kindling.
 *   **The Law of the Lost:** *"Many have sailed into the gray squalls to escape the domes; none have ever returned."* 
 *   **Spin-Off Engine:** The impassable oceans provide rich narrative runway for future books—exploring rumors of armored carrier battle-groups that survived the storm, deep-sea research facilities, and oceanic chimeras adapted to the boiling currents.
@@ -76,7 +76,7 @@ Mankind lives in fractured, isolated ignorance:
 *   **The Ground Reality (Total Isolation):** With civilian satellites destroyed, oceanic cables snapped, and civilian aircraft impossible due to fuel starvation, human enclaves are separated by thousands of miles of lethal wasteland. 
 *   **Corporate Propaganda:** In **Eden Dome Alpha**, Director Elena Corvus and Apex Bio broadcast relentless state propaganda claiming Dome Alpha is *"The Sovereign Bastion — Humanity's Final City."* Citizens are told that all other human life across the globe has already perished.
 *   **Unconfirmed Whispers:** Undercity scavengers and Gray Sector traders whisper wild rumors of sister domes or rebel redoubts in the far mountains or frozen plateaus, but with no long-range comms, no one can prove they exist or whether they fell to alien purges decades ago.
-*   **The Vaelen Monopoly on the Truth:** **Only the Vaelen** possess the true, real-time satellite projection of Earth from their orbital Spires. They know the exact population count of every surviving dome, the locations of every failed human experiment, and the planet's darkest geological secrets.
+*   **The Karyom Monopoly on the Truth:** **Only the Karyom** possess the true, real-time satellite projection of Earth from their orbital Spires. They know the exact population count of every surviving dome, the locations of every failed human experiment, and the planet's darkest geological secrets.
 
 ---
 
@@ -120,7 +120,7 @@ Sectors 1 through 3 hold about 150,000. Sectors 4 and 5, industry and commerce, 
 
 ### 4.3 The Rust Barrens & Terra-Pylon Seven
 *   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Silica dunes, rusted container depots, and dead highway skeletons. About **25,000** people live out here, in cuts and buried stations, spread so thin the dunes look empty. A caravan is an event. This is the hardest air, worse again in the shadow of Terra-Pylon Seven, and a traveler does not choke on arrival. Days bring a cough. Months of living here unfiltered bring the early rattle. A breather or a cabin filter is a comfort and a way to arrive less wrecked.
-*   **Feral Dromaeon Grounds:** Packs of wild-born, reptilian Dromaeons prowl the concrete canyons at dusk.
+*   **Feral Raptor Grounds:** Packs of wild-born, reptilian Raptors prowl the concrete canyons at dusk.
 *   **Terra-Pylon Seven:** A 2,000-foot-tall biomechanical tower sunk deep into northern bedrock, pulsing violet light as it discharges alien sulfur-nitrogen aerosols into the jet stream.
 
 ---
