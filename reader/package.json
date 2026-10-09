@@ -7,7 +7,9 @@
     "start": "node server.js",
     "build:epub": "node scripts/build-epub.js",
     "build:pdf": "node scripts/build-pdf.js",
-    "build:editorial": "node scripts/build-editorial-manuscript.js"
+    "build:editorial": "node scripts/build-editorial-manuscript.js",
+    "words": "node scripts/word-frequency.js",
+    "words:watch": "node scripts/word-frequency.js --watch"
   },
   "keywords": [],
   "author": "",
