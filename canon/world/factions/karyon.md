@@ -176,9 +176,10 @@ Killing every Karyon is not the rescue. Replacing the oxygen sky with their brea
 A Karyon body is a human frame. The tells are the blood, the lung, and the eye. Base Karyon have no strain powers. Wings, plates, the wolf's nose, the wet shock, and the Raptor's speed are grafts.
 
 *   **Stature:** A tall human range. The appendix's 7.5 to 8.5 foot, six-fingered figure loses to this section.
-*   **Skin:** Cool, poreless, pale slate or porcelain, with little or no hair. The blood under it is mercury-indigo and oxidizes to violet in untreated terrestrial air. That violet is the blood tell.
+*   **Skin:** Cool, poreless, pale porcelain. Bare scalp. Human ears, nose, and mouth. The blood under the skin is mercury-indigo and oxidizes to violet in untreated terrestrial air. That violet is the blood tell. Lyraen's veins are hers, in `../../characters/lyraen.md`.
 *   **Lung:** An ungrafted lung cannot take ordinary nitrogen-oxygen air. The requirement is in section 3. A simulacrum's Earth-shaped body can live in the lee. Mercer's cover is in `../../characters/mercer.md`.
-*   **Eye:** One tell. The iris can fracture into concentric rings under shock. The rest of the face can pass at a glance. The mirrored, lidless, earless mask in the appendix loses.
+*   **Eye:** At rest the iris is human and pale, and the face can pass at a glance. Under shock the iris fractures into concentric rings, and a fine crack can reach the outer corner. The locked plates are `assets/media/xaevis.jpg` and `assets/media/lyraen.jpg`. The mirrored, lidless, earless mask in the appendix loses.
+*   **Spire cloth:** When they are themselves, a dark close-fitting suit with a high collar, pale lines in the cloth, and a small mark on the chest. The lines belong to the garment. Empty hands. There is no species weapon. A simulacrum dresses for the life he is living. Xaevis's staff is in `../../characters/xaevis.md`.
 *   **Voice:** They speak. A harmonic rides under the words. Aboard the Spire, the consensus is a shared neural web, and open dissent on that web is execution. That web is how they police their own. It is not how a Karyon gives an order in a room.
 *   **Hands:** Five digits. Gene-craft is skill and instruments.
 
