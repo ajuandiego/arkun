@@ -1,6 +1,6 @@
 # Strains
 
-The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs. They are **gene-spliced chimeras**, built by Gene-Craft from **Karyom templates** recovered in the pre-collapse cradles. Why the Karyom kept these lines is in `../factions/karyom.md`.
+The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs. They are **gene-spliced chimeras**, built by Gene-Craft from **Karyon templates** recovered in the pre-collapse cradles. Why the Karyon kept these lines is in `../factions/karyon.md`.
 
 A chimera is a person made by that graft. The word is the procedure. It is not a sixth class, and it is not the bond between Tsunari and Vram.
 
@@ -31,7 +31,7 @@ One graft. Hollow bone, a built wing, hand talons, a predator's eye, and a metab
 
 **The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. On a Raven the vane is black. Heat or a hard beat lifts a bronze and oil-slick sheen on the shafts and the primaries. It cools back to black. Kite wings do not do this. The short crest at a Raven's nape is not part of the wing. It lies flat, and it rises when he spikes. It parts around the siphon.
 
-**Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyom.md`.
+**Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyon.md`.
 
 A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Kite still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
 
@@ -53,7 +53,7 @@ The claws are carbon seated in that tissue, so a closed hand is hot. A cut on a 
 
 **Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
 
-Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyom locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyom.md`.
+Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
 
 ### 3. Ceraton — Rhinos and Tanks
 
@@ -65,7 +65,7 @@ Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyom lock
 
 **Heat.** Mammalian. He eats almost as hard as a Raven, and he does not bask like a reptile.
 
-**What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyom treatment, not rhino blood. See `../factions/karyom.md`.
+**What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyon treatment, not rhino blood. See `../factions/karyon.md`.
 
 Boran Vael-Korr is a Rhino.
 
@@ -101,6 +101,6 @@ The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname
 
 Human aviation is gone. No fuel, no refineries, no avionics chain. The Consortium put the wing into the Avian class only. Raptors do not fly. Lycans, Ceratons, and Galvans do not fly.
 
-The only mechanical flying craft on Earth belong to the Karyom: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyom.md`.
+The only mechanical flying craft on Earth belong to the Karyon: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyon.md`.
 
 **The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. The two links run down between the wing roots. They are not a second antenna. The hardware rule is `leash.md`.

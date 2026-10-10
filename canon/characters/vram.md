@@ -5,7 +5,7 @@
 > **Field Moniker:** **"Vram"** (used by his inner circle, squadron, and Tsunari)
 
 ## 1. Character Identity & Overview
-*   **Role:** Supreme Commander of Aeros-Legion 7; Chief Military Instrument of the Consortium and Karyom Ascendancy.
+*   **Role:** Supreme Commander of Aeros-Legion 7; Chief Military Instrument of the Consortium and Karyon Ascendancy.
 *   **Age:** 28 (Born Year 12 AS; Storm-Born).
 *   **Faction:** Aeros-Legion (Consortium enforcer / Secretly rogue).
 *   **Archetype:** The Lethal Monster / Touch-Starved Weapon Awoken by Love / Solar Sovereign.
@@ -81,4 +81,4 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 *   **The Naming Progression (From Target to Soul):** Starts by addressing her coldly as *"The Null-Anomaly"* or *"Thorne."* As their combat partnership solidifies, it shortens to the crisp, respectful field moniker *"Tsune."* Only in private, unguarded moments—when his fever breaks against her cool skin or when terror for her safety shatters his composure—does his voice drop into the raspy, tender diminutive: *"Tsunie."*
 *   **"Who Did This To You?":** Cold fury that terrifies even his own squad. If anyone from the Consortium or the resistance dares lay a violent hand on her, his military discipline evaporates, replaced by feral avian retribution.
 *   **The Knife-to-Throat Intimacy:** Early interactions feature high physical tension where she has a scalpel or vibro-blade pressed against his throat while his claws rest millimeters from her carotid artery—neither moving, breathing in each other's air.
-*   **Possessive Devotion ("Burn the World for Her"):** He starts out claiming he is holding her captive because she is his "cure." Over time, the pretense vanishes: he will gladly watch the Green Domes collapse and the Karyom burn before he lets anyone take her from him.
+*   **Possessive Devotion ("Burn the World for Her"):** He starts out claiming he is holding her captive because she is his "cure." Over time, the pretense vanishes: he will gladly watch the Green Domes collapse and the Karyon burn before he lets anyone take her from him.

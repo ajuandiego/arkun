@@ -8,6 +8,6 @@ History, air, the map, and who holds power. Bodies and the leash live under `lif
 * `geography.md`: the bowl, the sectors, the distances, and the barrens.
 * `cradle.md`: the Cradle, the ghost beacon, the Spires, and the migration. Later books.
 * `politics.md`: who may order whom, and the alignment of the war.
-* `mysteries.md`: open questions from the older notes. The Karyom motive in that file loses to `factions/karyom.md`.
+* `mysteries.md`: open questions from the older notes. The Karyon motive in that file loses to `factions/karyon.md`.
 * `factions/`: each power, one file.
 * `life/`: strains, the leash, Arkun, tools, food, and the crucible serum.

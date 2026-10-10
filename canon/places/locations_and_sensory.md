@@ -2,7 +2,7 @@
 
 ## 1. Eden Dome Alpha (The Gilded Cage)
 
-The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Karyom diplomatic emissaries. About 1.5 million people under a shield about five miles across, no larger than Manhattan. From outside, a packed tower city in one glass bowl, with a few garden grounds, set in a wider dark Ring. The count and the garrison are in `canon/world/geography.md`.
+The capital biome of the Consortium of Eden, housing the high corporate aristocracy and Karyon diplomatic emissaries. About 1.5 million people under a shield about five miles across, no larger than Manhattan. From outside, a packed tower city in one glass bowl, with a few garden grounds, set in a wider dark Ring. The count and the garrison are in `canon/world/geography.md`.
 
 *   **Visual Atmosphere:**
     *   Vast, vaulted atmospheric shields made of hexagonal photovoltaic glass that bathe the city in perpetual, flattering golden sunlight.

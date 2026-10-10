@@ -1,6 +1,6 @@
 # Life
 
-The bodies and the machines. The Karyom reason for the work is `../factions/karyom.md`.
+The bodies and the machines. The Karyon reason for the work is `../factions/karyon.md`.
 
 * `strains.md`: the five classes. How an Avian flies, and why a Raven stays hot, is in that file.
 * `leash.md`: the socket, the carrier, the kill, and what a ground does.

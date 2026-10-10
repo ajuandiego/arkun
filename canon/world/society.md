@@ -37,7 +37,7 @@ Chimeric soldiers are neither vat-grown clones nor volunteers. Because cloned ti
 #### 2. The Screening Batteries & Qualification Tests
 Candidates are subjected to a brutal 3-stage triage protocol:
 1.  **The Synaptic Elasticity Battery:** Measures the brainstem’s electrical conductivity and neuroplasticity using micro-pulsed shocks. **80% of candidates fail here**, suffering immediate neuro-convulsions; failures are culled or reassigned as biomass substrate.
-2.  **Archeo-Genomic Histocompatibility Screen:** Analyzes whether the child’s leukocyte and mitochondrial DNA can bond with ancient Karyom beast retroviruses (Avian, Ceraton, Raptor) without triggering fatal anaphylactic shock or malignant cellular dissolution.
+2.  **Archeo-Genomic Histocompatibility Screen:** Analyzes whether the child’s leukocyte and mitochondrial DNA can bond with ancient Karyon beast retroviruses (Avian, Ceraton, Raptor) without triggering fatal anaphylactic shock or malignant cellular dissolution.
 3.  **The Hypoxia & Sensory Focus Crucible:** Children are sealed in declining-pressure atmospheric chambers while bombarded with disorienting sensory spikes. Only candidates whose heart rates *decelerate* into cold predatory focus rather than panic are selected for implantation.
 
 #### 3. Transformation & The 70% Attrition Rate
@@ -59,7 +59,7 @@ The Green Domes are not post-apocalyptic ruins; they are functional, high-densit
 *   **The Corporate Social Contract:**
     *   *Security in Exchange for Sovereignty:* In exchange for clean air and security, citizens sign binding employment covenants with the Consortium megacorporations (Apex, Vanguard, Aethelgard).
     *   *Biometric Compliance:* Subtle monitoring tracks citizen productivity, health indices, and reproductive permits. As long as a citizen maintains their employment quota and avoids political subversion, they live an undisturbed, predictable life.
-    *   *The Elite Stratum (The Top 5%):* Reside in luxurious terraced garden towers, possessing private Chrysalis longevity treatments, imported luxury goods, and diplomatic ties to Karyom liaisons.
+    *   *The Elite Stratum (The Top 5%):* Reside in luxurious terraced garden towers, possessing private Chrysalis longevity treatments, imported luxury goods, and diplomatic ties to Karyon liaisons.
 *   **A life inside:**
     *   *Childhood:* Academy from the first years. Sport is organized: canal swimming, court games, mag-rail sprints. Children are citizens. The tithe does not reach them.
     *   *Teenagers:* Tracks split toward a covenant and an apprenticeship. Courting happens in plazas, cafes, and on the late trains. Sex is private and ordinary. A reproductive permit is required before a birth. It is not required before sex.

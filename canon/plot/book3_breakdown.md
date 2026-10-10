@@ -35,10 +35,10 @@
 
 *   **Chapter 7 (Tsunari): Sub-Orbital Ascent**
     *   *Setting:* Low Earth orbit.
-    *   *Core Action:* Breaching the upper atmosphere under heavy fire from automated Karyom satellite arrays. Cassian and Veda execute evasive maneuvers, punching a corridor through the defensive grid.
+    *   *Core Action:* Breaching the upper atmosphere under heavy fire from automated Karyon satellite arrays. Cassian and Veda execute evasive maneuvers, punching a corridor through the defensive grid.
 *   **Chapter 8 (Vram): The Spectacle of Ruin**
     *   *Setting:* The Grand Amphitheater of Spire Prime.
-    *   *Core Action:* Archon Xaevis displays the chained Vram before the Karyom High Council and Consortium oligarchs, announcing that the final atmospheric conversion protocol will commence within hours.
+    *   *Core Action:* Archon Xaevis displays the chained Vram before the Karyon High Council and Consortium oligarchs, announcing that the final atmospheric conversion protocol will commence within hours.
 *   **Chapter 9 (Tsunari): The Hull Walk**
     *   *Setting:* The exterior crystalline surface of Spire Prime.
     *   *Core Action:* A zero-gravity spacewalk across the city-ship’s exterior. Tsunari uses her high-tensile Spire hooks to anchor onto the biomechanical hull, bypassing the energy shields during a thermal cycle.

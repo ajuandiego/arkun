@@ -2,7 +2,7 @@
 
 One file per power. `../politics.md` is who may command whom.
 
-* `karyom.md`: why they are here, the two visits, the graft, the simulacrum, and how the world is kept. The appendix is the older motive and loses to the sections above it. Xaevis and Lyraen are in `../../characters/`.
+* `karyon.md`: why they are here, the two visits, the graft, the simulacrum, and how the world is kept. The appendix is the older motive and loses to the sections above it. Xaevis and Lyraen are in `../../characters/`.
 * `consortium.md`: the three companies. Director Corvus is in `../../characters/corvus.md`.
 * `legion.md`: the wall garrison, the four strains on duty, and a day in each fort. The named squad is in `../../characters/`.
 * `resistance.md`: the Ring after Mercer, Chen's guild, and Kira's road.

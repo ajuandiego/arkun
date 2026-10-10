@@ -2,7 +2,7 @@
 
 ## 5. The Arkun System: Chimeric Genetics & The True Character
 
-In this universe, special abilities are called **Arkuns** (from ancient Karyom-human linguistic roots meaning *"Awakened Resonance"*). 
+In this universe, special abilities are called **Arkuns** (from ancient Karyon-human linguistic roots meaning *"Awakened Resonance"*). 
 
 An Arkun is never arbitrary or generic; it is determined by a strict biological and psychological equation:
 
@@ -15,7 +15,7 @@ Chimeric soldiers and mutated Gray Sector survivors rarely inherit 100% of a sin
 *   The secondary strains provide latent chemical, dermal, or sensory traits.
 
 ### 2. The "True Character" (The Psychological Epigenetic Trigger)
-The Karyom Synapse Lattice does not function in an emotional vacuum. It is a quantum wetware circuit that **amplifies the individual’s deepest core truth, primal trauma, or survival drive**.
+The Karyon Synapse Lattice does not function in an emotional vacuum. It is a quantum wetware circuit that **amplifies the individual’s deepest core truth, primal trauma, or survival drive**.
 *   A soldier whose true character is **relentless territorial protection** will manifest a defensive, barrier-oriented Arkun.
 *   A soldier whose true character is **uncompromising predatory vengeance** will channel those exact same genetic markers into explosive offensive kinetic force.
 *   *You cannot choose your Arkun:* It emerges from what you are willing to bleed and die for.
@@ -63,7 +63,7 @@ A single class does not possess just one ability. It holds an **Arkun Tree**. Th
 *   **Why the old line was wrong:** Calling ordinary human bio-electricity a Null-Resonance made every medic a key. The null is the Keystone. It is one genome.
 
 #### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
-*   **The Problem Dr. Jeffrey Thorne Solved:** Single-class chimeras reject each other. A Ceraton's tissue rejects an Avian's blood. A Galvan secretion breaks an Avian vein. A Lycan mesh does not sit quietly in a Raptor's chemistry. Every corporate class is also collared by the Karyom lattice.
+*   **The Problem Dr. Jeffrey Thorne Solved:** Single-class chimeras reject each other. A Ceraton's tissue rejects an Avian's blood. A Galvan secretion breaks an Avian vein. A Lycan mesh does not sit quietly in a Raptor's chemistry. Every corporate class is also collared by the Karyon lattice.
 *   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not splice her with a single lineage. He engineered her as the **Mosaic Keystone**:
     *   *Expressed Body (100% Raptor, Dromaeo-X Chrome):* Stronger legs than a baseline human, sub-vocal clicks, clear eye membranes, reptilian shin scutes, vertical slit irises, and a cool resting temperature.
     *   *Dormant Regulatory Matrix (The Keystone):* Non-coding receptor loci for the other four classes (**Avian, Lycan, Ceraton, Galvan**).

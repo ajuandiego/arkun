@@ -26,14 +26,14 @@
     *   *Personal Stake:* Tsunari realizes Sora is the junior tech analyzing Vram's neural anomalies from inside the dome, unknowingly drawing the corporate net around her own sister.
 
 *   **Chapter 14 // Vram**
-    *   *Lexicon Entry (Karyom Harvester Barge & Spire-Consensus):*  
-        > **Karyom Harvester Barge** *[extraterrestrial]*: A massive, soundless anti-gravity atmospheric vessel constructed of black bio-crystalline obsidian. Operates without exhaust or moving parts, continuously siphoning nitrogen-ammonia currents for planetary terraforming.
+    *   *Lexicon Entry (Karyon Harvester Barge & Spire-Consensus):*  
+        > **Karyon Harvester Barge** *[extraterrestrial]*: A massive, soundless anti-gravity atmospheric vessel constructed of black bio-crystalline obsidian. Operates without exhaust or moving parts, continuously siphoning nitrogen-ammonia currents for planetary terraforming.
     *   *Setting:* The canyon landing pad of Redoubt Station 14.
-    *   *Core Action:* An alien inspection skiff arrives unannounced. Tall, chitinous Karyom Inquisitors step onto the concrete, demanding an unannounced biometric audit of Vram's telemetry anomalies.
+    *   *Core Action:* An alien inspection skiff arrives unannounced. Tall, chitinous Karyon Inquisitors step onto the concrete, demanding an unannounced biometric audit of Vram's telemetry anomalies.
     *   *Stakes:* Separated from Tsunari, violent lattice tremors wrack Vram's body as he endures the humiliating physical inspection.
 
 *   **Chapter 15 // Tsunari**
-    *   *Epigraph (Emergency Broadcast Protocol, Karyom Spire-Consensus — Acoustic Phonetic Transcription, Year 0 AS):*  
+    *   *Epigraph (Emergency Broadcast Protocol, Karyon Spire-Consensus — Acoustic Phonetic Transcription, Year 0 AS):*  
         > *"Substrate is transient. The cattle do not judge the shears, nor does the clay question the kiln. Any hand raised against the Shepherds shall be severed to the shoulder."*
     *   *Setting:* The air intake conduit directly below the landing pad.
     *   *Core Action:* A junior Inquisitor tracks an unfamiliar biological pheromone into the maintenance vents. The alien drops into the shaft, raising a crystalline bio-lance to vaporize Tsunari on the spot.
@@ -41,7 +41,7 @@
 
 *   **Chapter 16 // Vram**
     *   *Lexicon Entry (High Treason under Alien Law):*  
-        > **The Heresy of the First Hand** *[statute]*: Under the Eden-Karyom Accord, harming or terminating an extraterrestrial overseer carries an automated sentence of Decimation: the instant execution of the perpetrator's entire squadron via spinal kill-switch.
+        > **The Heresy of the First Hand** *[statute]*: Under the Eden-Karyon Accord, harming or terminating an extraterrestrial overseer carries an automated sentence of Decimation: the instant execution of the perpetrator's entire squadron via spinal kill-switch.
     *   *Setting:* The lower mechanical vault.
     *   *Core Action:* Hearing Tsunari's muffled gasp through the floor grates, Vram snaps his conditioning. He drops through the ceiling, tackling the Inquisitor and driving his nanocarbon talons through its ocular cluster, crushing its cranial casing into obsidian shards.
     *   *The Turning Point:* High treason. Vram has murdered an alien overlord to keep Tsunari alive; his old life is permanently extinguished.

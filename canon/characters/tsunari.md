@@ -38,7 +38,7 @@ Nine years in the Ring. She is not a lone scavenger and she does not keep a gang
 > *"Attachment is a trap. The only truth in this world is kinetic speed, calculating distance, and striking before they cage you."*
 
 ### The Internal Want vs. Need
-*   **What She Wants:** Absolute independence and survival: to decode the Karyom atmospheric keys, liberate the Gray Sectors from corporate control, and remain unbound by any master.
+*   **What She Wants:** Absolute independence and survival: to decode the Karyon atmospheric keys, liberate the Gray Sectors from corporate control, and remain unbound by any master.
 *   **What She Needs:** To realize that her calculating predator instincts do not require isolation; that partnering with a radiant, protective counterweight (Vram) transforms her from a hunted rogue into a formidable, sovereign leader.
 
 ---
@@ -74,7 +74,7 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
     *   *The Sovereign Stalker / The Uncaged Ghost.* An absolute refusal to be collared, modified by corporate masters, or herded like prey. Her soul is wild, independent, and fiercely protective of her freedom.
 *   **Signature Arkun: Quantic Phase-Stutter (Chrono-Dilation & Ghost-Step)**
     *   *Manifestation:* For a burst of **2 to 3 seconds**, Tsunari accelerates her localized temporal vector by **500%**. To observers, she teleports or turns into a blur of shadows, slipping through crossfire, vaulting through closing security blast doors, or striking an enemy commander from behind before their synapses can register her movement.
-    *   *The Null-Resonance Veil:* Because of her human grounding frequency, her phase-stutter cannot be locked onto by automated sentry turrets or Karyom psionic tracking grids.
+    *   *The Null-Resonance Veil:* Because of her human grounding frequency, her phase-stutter cannot be locked onto by automated sentry turrets or Karyon psionic tracking grids.
 
 ---
 
@@ -86,4 +86,4 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 ---
 
 ## 8. The Revelation of the Keystone (Book 1 Arc)
-For ten years, Tsunari believed her father gave her a desperate, dirty street-splice just so she wouldn't starve in the ruins. In **Chapter 18–20 inside The Glass Vault**, when she runs her blood through Gideon Cross’s ancient quartz spectrometer to synthesize the localized neural stabilizer, the laser refracts into **five distinct harmonic wave-crests**. Gideon stares in awed revelation: Dr. Jeffrey Thorne didn't just give her claws to survive—he harmonized all five lineages to make her the living Rosetta Stone, the only being on Earth capable of breaking the Karyom's leash and setting every soldier free.
+For ten years, Tsunari believed her father gave her a desperate, dirty street-splice just so she wouldn't starve in the ruins. In **Chapter 18–20 inside The Glass Vault**, when she runs her blood through Gideon Cross’s ancient quartz spectrometer to synthesize the localized neural stabilizer, the laser refracts into **five distinct harmonic wave-crests**. Gideon stares in awed revelation: Dr. Jeffrey Thorne didn't just give her claws to survive—he harmonized all five lineages to make her the living Rosetta Stone, the only being on Earth capable of breaking the Karyon's leash and setting every soldier free.

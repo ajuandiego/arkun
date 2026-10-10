@@ -68,7 +68,7 @@
 
 *   **Chapter 32 // Tsunari**
     *   *Lexicon Entry (The Crucible Mutagen / Ember Serum):*  
-        > **Crucible Mutagen** *[catalytic agent]*: An unstable biological mutagen synthesized by The Forger from subterranean Karyom seeding fissures. Grants tripled physical strength, anaerobic stamina, and tactical hyper-cognition at the cost of permanent fever and mental compliance.
+        > **Crucible Mutagen** *[catalytic agent]*: An unstable biological mutagen synthesized by The Forger from subterranean Karyon seeding fissures. Grants tripled physical strength, anaerobic stamina, and tactical hyper-cognition at the cost of permanent fever and mental compliance.
     *   *Setting:* The iron catwalks of the Grand Cistern.
     *   *Core Action:* Malakar roars and attacks with his pneumatic rail-flail. As the duel rocks the catwalks, Tsunari detonates an acoustic EMP charge, collapsing an iron sluice gate and allowing them to escape into the dark aqueducts.
     *   *The Near-Kiss:* Cornered in a narrow drainage conduit, pressed chest-to-chest in the dark, breathing each other's air in breathless, high-voltage restraint.

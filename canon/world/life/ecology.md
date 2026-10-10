@@ -1,7 +1,7 @@
 # Ecology
 
 ### The Alien Flora: The Spore Invasion
-*   Where Karyom terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
+*   Where Karyon terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
     *   **Phosphor Tendrils:** Bioluminescent vine networks that siphon moisture from dead soil and emit sweet, narcotic neurotoxins.
     *   **Spore Orchids:** Massive carnivorous floral growths that thrive on sulfur and decay, releasing local clouds of purple sporocarps. A cloud burns the throat on contact. It is a patch of ground to walk around, not the air of the barrens.
     *   **Glass Reeds:** Silicon-based vegetation that chokes rivers and crystallizes standing water into toxic gelatin.

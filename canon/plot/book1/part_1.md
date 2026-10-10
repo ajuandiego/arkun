@@ -23,7 +23,7 @@
     *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); and gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
-        *   *The Karyom Sky Shadows:* The only flying machines are alien—massive, silent **Karyom Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
+        *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent **Karyon Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
 
 *   **Chapter 3 // Tsunari**
     *   *Epigraph (Fragment from an Uncatalogued Scythian Steppe Papyrus — ca. 480 BCE, Bio-Curator Archive Plate 12):*  
@@ -51,7 +51,7 @@
 
 *   **Chapter 6 // Vram**
     *   *Lexicon Entry (Null-Resonance):*  
-        > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Karyom quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
+        > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Karyon quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
     *   *Setting:* The floor of the shattered substation.
     *   *Core Action:* During their desperate grapple, Tsunari's bare hand locks onto Vram's open collar and finds the siphon at his nape.
     *   *The Sensation & Forbidden Lust:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees. But as his hands pin her wrists in the sand, he feels the lithe, muscular curve of her waist between his thighs and the wild sage on her throat. An involuntary, primal surge of arousal shocks his discipline. *Focus, soldier. She's an illegal insurgent with blood on her boots, not a woman in your quarters.*
@@ -80,7 +80,7 @@
 
 *   **Chapter 10 // Vram**
     *   *Lexicon Entry (Lattice Burn / Neuro-Decay):*  
-        > **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Karyom Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
+        > **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Karyon Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
     *   *Setting:* The tactical command desk of Redoubt Station 14.
     *   *Core Action:* Isolation interrogation. Vram measures his biometrics: standing six feet away from Tsunari causes his fever to spike past 108°F with violent lattice tremors; touching her skin immediately stabilizes his pulse.
     *   *Climax of Part I:* Director Elena Corvus radios an encrypted order demanding the captive’s immediate execution. Vram lies to his corporate master for the first time in his life, claiming the prisoner died during the sandstorm.

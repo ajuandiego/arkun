@@ -42,8 +42,8 @@
     *   *Core Action:* A blinding copper-dust storm blinds sensors. Vram engages an elite flight of unmanned Consortium hunter-killer drones, pushing his thermal engines to their limits to protect the convoy below.
 *   **Chapter 9 (Tsunari): The Meeting with the Star-Born & The Cradle Decrypted**
     *   *Setting:* An ancient, half-buried astronomical observatory.
-    *   *Core Action:* Face-to-face rendezvous with **Arbiter Lyraen**. The tall, bioluminescent Karyom reveals the internal civil war of their species: Archon Xaevis plans a complete atmospheric harvest by Year 41 AS. Lyraen hands over the *Star-Chrysalis Enzyme*.
-    *   *The Father's Beacon Decrypted:* Tsunari places the *Ghost Beacon 09-Omega* into Lyraen’s optical astrolabe. Lyraen’s eyes widen in awe: the transmission did not originate from a dying ghost ship, but from **The Verdant Cradle**—a pristine, un-poisoned green continent preserved behind a ring of volcanic calderas across the Stygian Ocean, known only to Karyom Antiquity records. Her father, Dr. Jeffrey Thorne, survived the crossing, proving humanity’s future lies beyond the dead seas.
+    *   *Core Action:* Face-to-face rendezvous with **Arbiter Lyraen**. The tall, bioluminescent Karyon reveals the internal civil war of their species: Archon Xaevis plans a complete atmospheric harvest by Year 41 AS. Lyraen hands over the *Star-Chrysalis Enzyme*.
+    *   *The Father's Beacon Decrypted:* Tsunari places the *Ghost Beacon 09-Omega* into Lyraen’s optical astrolabe. Lyraen’s eyes widen in awe: the transmission did not originate from a dying ghost ship, but from **The Verdant Cradle**—a pristine, un-poisoned green continent preserved behind a ring of volcanic calderas across the Stygian Ocean, known only to Karyon Antiquity records. Her father, Dr. Jeffrey Thorne, survived the crossing, proving humanity’s future lies beyond the dead seas.
 *   **Chapter 10 (Vram): The Alien Accord**
     *   *Setting:* The observatory deck.
     *   *Core Action:* Vram confronts Lyraen about the bio-ports in his spine. Lyraen reveals that the chimeric lines were never meant to be enslaved weapons, but symbiotic bridges between human and extraterrestrial biology.
@@ -60,7 +60,7 @@
 
 *   **Chapter 13 (Tsunari): The Global Formula**
     *   *Setting:* Mercer’s subterranean bio-lab.
-    *   *Core Action:* Combining her Null-blood, Vram’s stabilized neural fluid, and the Star-Chrysalis enzyme. Tsunari successfully synthesizes the prototype **Planetary Aerosol Antidote**—capable of breaking the Karyom lattice in anyone who inhales it.
+    *   *Core Action:* Combining her Null-blood, Vram’s stabilized neural fluid, and the Star-Chrysalis enzyme. Tsunari successfully synthesizes the prototype **Planetary Aerosol Antidote**—capable of breaking the Karyon lattice in anyone who inhales it.
 *   **Chapter 14 (Vram): The Scent of Treachery**
     *   *Setting:* The bunker perimeter.
     *   *Core Action:* Vram’s instincts trigger alarm. He discovers that the bunker’s long-range communication arrays have been transmitting encrypted quantum pings directly to orbital Spire Prime.
@@ -72,7 +72,7 @@
     *   *Core Action:* Consortium stealth gunships and alien bio-craft land on the salt flats outside—not opening fire, but welcomed by Mercer’s sentries. Vram rushes to warn Tsunari.
 *   **Chapter 17 (Tsunari): Unmasked**
     *   *Setting:* The bio-lab lockdown.
-    *   *Core Action:* Mercer seals the blast doors. His human posture dissolves, his pupils split into concentric rings, and his voice shifts into chilling polyphonic harmony. He reveals himself as **Weaver-Unit 09**—an alien Simulacrum who groomed Tsunari for years so her genius would solve the genetic decay problem the Karyom could not fix themselves.
+    *   *Core Action:* Mercer seals the blast doors. His human posture dissolves, his pupils split into concentric rings, and his voice shifts into chilling polyphonic harmony. He reveals himself as **Weaver-Unit 09**—an alien Simulacrum who groomed Tsunari for years so her genius would solve the genetic decay problem the Karyon could not fix themselves.
 *   **Chapter 18 (Vram): Breaking the Glass**
     *   *Setting:* The laboratory breach.
     *   *Core Action:* Vram tears through the reinforced blast door with superheated claws. A savage, bone-crushing battle between Vram and the alien Simulacrum. Vram burns Mercer’s biomechanical core, but the facility is already surrounded.
@@ -83,7 +83,7 @@
 
 *   **Chapter 19 (Tsunari): The Collapse of the Sanctuary**
     *   *Setting:* The subterranean tunnels.
-    *   *Core Action:* Consortium enforcers and Karyom bio-drones flood the base with paralyzing neuro-gas. Tsunari, Vram, Ren, and Aeros-Legion 7 fight their way toward the emergency extraction shaft.
+    *   *Core Action:* Consortium enforcers and Karyon bio-drones flood the base with paralyzing neuro-gas. Tsunari, Vram, Ren, and Aeros-Legion 7 fight their way toward the emergency extraction shaft.
 *   **Chapter 20 (Vram): The Choke Point**
     *   *Setting:* The subterranean blast corridor.
     *   *Core Action:* Heavy blast shields are failing; an entire mechanized battalion blocks the surface. Realizing they will all be captured and the cure lost, Vram makes his decision. He shoves Tsunari behind the secondary security gate.
