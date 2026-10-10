@@ -1,22 +1,26 @@
 # The Karyon
 
-Working account of the species, the experiments, and the occupation. Air numbers are in `../air.md`. Strain bodies are in `../life/strains.md`. The lattice is in `../life/leash.md`. Mercer's face, blood, and betrayal are in `../../characters/mercer.md`. The appendix is the older motive. Where they disagree, this account wins.
+Working account of the species, the experiments, and the occupation. Air numbers are in `../air.md`. Strain bodies are in `../life/strains.md`. The lattice is in `../life/leash.md`. Mercer's face, blood, and betrayal are in `../../characters/mercer.md`. The appendix is the older motive and the older body. Where they disagree, this account wins.
 
-The sentence: they improve themselves by collecting traits, and Earth is the only place a borrowed trait stays in the blood.
+The sentence: their own genome has drifted, the old sequence is buried in the raptor record, and Earth is the only place a match holds.
 
 ## 1. What they are
 
-The Karyon are travelers and geneticists. They cross worlds to decode genomes. A success becomes a sequence they can fold into their own kind. They did not build a civilization of energy weapons, mass-destruction arms, or war doctrine. Their power is patience, a catalog, and the willingness to wait until a population invites them in.
+The Karyon are travelers and geneticists. They cross worlds to recover a sequence their living genome has lost, and to fold a recovered trait back into their own kind. They did not build a civilization of energy weapons, mass-destruction arms, or war doctrine. Their power is patience, a catalog, and the willingness to wait until a population invites them in.
 
-A Karyon life is very long. A dead one is not replaced by a birth culture the books need to explain. What they cannot do on any other world is make a revision of themselves hold in the next generation. That limit is the whole motive.
+A Karyon life is very long. A dead one is not replaced by a birth culture the books need to explain. What they cannot do on any other world is make a revision hold, in the body that received it or in the next generation. That limit is the whole motive.
 
-They will abandon a trial before they will fight a village to save it. When locals destroy a specimen, the project closes. The sequence is already copied. They do not need the village to love the work.
+They will abandon a trial before they will fight a village to save it. When locals destroy a specimen, the project closes. The sequence is already copied. They do not need the village to love the work. The exception is the bench itself. If the living world that keeps a match is about to be erased, they will intervene.
+
+The retired motive stays retired. They are not a sterile clone-species hunting human emotion, epigenetic chaos, or a cure for meiosis. The loss is a sequence. Baseline humans carry a later, degraded copy of a seed they planted. That copy is not the purer sample, and it does not make a person a Karyon.
 
 ## 2. The bench
 
-On every other world they have worked, a borrowed gene fires and the grandchildren are ordinary again. On Earth the instruction remains in the line. The same is true when the revised body is one of their own. Earth is not a favorite zoo. It is the only bench where a change sticks. That is why the planet is worth owning.
+Off the planet, a successful match degrades. The body fails, and the life is short. On Earth the match holds for as long as the subject is not killed, and the instruction can remain in the line. The same is true when the revised body is one of their own. Artificial environments do not give the same result.
 
-Compatibility of local species was the first explanation, and it was incomplete. Earth's creatures take foreign sequences more readily than most. The deeper fact is the world itself. The asteroid had already shown them that this biosphere can lose every favorite body and still start life over. That staying-power is the prize. A catalog of sequences is only as useful as a world that will keep them.
+Earth is not a favorite zoo. It is the only bench where a change sticks. That is why the planet is worth owning.
+
+The asteroid had already shown them that this biosphere can lose every favorite body and still start life over. That staying-power is the prize. A catalog of sequences is only as useful as a world that will keep them.
 
 Owning the bench too tightly destroys it. A sky rewritten until the biosphere dies spends the prize. A frozen embryo in a vat is a closed project. A sequence stays alive only inside a living world.
 
@@ -24,7 +28,9 @@ Owning the bench too tightly destroys it. A sky rewritten until the biosphere di
 
 A human needs oxygen. A Karyon lung cannot take Earth's ordinary nitrogen-oxygen mix. That air is caustic to their pulmonary tissue. They need a dense, high-nitrogen, sulfurous blend with a methane trace, the way a human needs oxygen.
 
-The Great Storm of 2032 is the first laying-down of that blend. The Terra-Pylons are the breath after the storm, a little more every year. Dome shields keep oxygen for the human half of the work, because the graft still needs living people. The spill past the wall is the lee. The open country takes the plume raw.
+They can also force the transformation of matter and produce oxygen in any amount they choose. That technology is real. The air inside a dome is a real gift. An ungrafted lung still cannot live in it.
+
+The Great Storm of 2032 does two kinds of work. They set it off because the seed was about to erase the bench. The same machines laid down the first of their blend. The Terra-Pylons are the breath after the storm, a little more every year. Dome shields keep oxygen for the human half of the work, because the graft still needs living people, and because oxygen is the gift they can truthfully offer. The spill past the wall is the lee. The open country takes the plume raw. What they tell the boards is the oxygen. What they do not say is that the open sky is being spent.
 
 The haze on the page stays a trace humans can suffer through. Sulfur dioxide is measured in parts per million. It is not a sulfur sea, and it is not instant death. Sector 09 lives in that overlap. The full bands, the Choke, and the 14-month target remain in `../air.md`.
 
@@ -32,32 +38,44 @@ Two airs, one planet. Oxygen for the biosphere and the human lines. The sulfur b
 
 ## 4. The first visit
 
-In the late age of dinosaurs, no humans were here. A scientific party explored, observed, and chose an ordinary hunter: the velociraptor. Small, common, already quick. They wanted the animal with room to improve.
+In the late age of dinosaurs, no humans were here, and no ape body was available. A scientific party explored, observed, and chose an ordinary hunter: the velociraptor. Small, common, already quick.
 
-They planted their modifications and watched. Of every creature they had worked, this was the favorite subject. Intelligence, agility, speed, reasoning, and survival advanced further here than on their other benches.
+The first seed was a purer sample of their old genome than the genome they carry now. It took. The animals gained intelligence and social skill beyond the hunter they had been. Of every creature they had worked, this was the promising subject.
 
-The asteroid ended the observation. Bodies became fossils. Brains were gone. A study cannot be finished with no living animal left to open. They buried a record of the work in the rock and left, with no expectation of a second chance. That record is the antiquity vault later dug up by human geneticists. The modern Raptor strain is the recovery of this subject, not a new invention.
+The asteroid was a surprise. They came back to a dead experiment. Bodies became fossils. Brains were gone. A study cannot be finished with no living animal left to open. They buried a record of the work in the rock and left, with no expectation of a second chance. That record is the antiquity vault later dug up by human geneticists. The living sample was lost. The sequence was not. The modern Raptor strain is the recovery of this subject.
 
-## 5. The second visit
+## 5. The renewal
 
-Millions of years later they reopened the file out of curiosity. The scorched world had started over. Humans were running it. From about 4000 BCE to about 500 BCE they ran a second program across whatever would take a graft: long projects and small ones, animal lines and human lines.
+Much later they returned and found the biosphere green again. New mammals, new species, the globe alive. The apes were the option the first visit did not have. That body plan already resembled their own genome.
 
-Some trials held for a while. People destroyed the human specimens out of fear or jealousy, and those projects were closed. The reliable animal results are the four lines below, plus the recovered raptor. The mission then left. They will not garrison a village to protect a specimen, and a species that stays visible through recorded history erases the return. Myth, temple carving, and folklore are what remained.
+They planted a newer seed. Over time it produced Homo sapiens. They watched, learned, and kept notes. Baseline humans still carry that later seed, and it has degraded.
+
+They stayed interested in the other species. A natural animal of this biosphere might still improve the genome they had lost.
+
+## 6. The abductions
+
+For many years they took human subjects off the world. The subjects were not returned. Successes and failures were catalogued. A successful match lived a short time, then degraded.
+
+The lupine trials were the exception they planted back. Earth's atmosphere let those individuals live, and the match held until baseline humans hunted and killed them. That plant-back is the first chimera, the golden project of a match that stays. The procedure is in the chimeric graft, below. The raptor remains the stored original. The wolf is the first graft that survived on the ground.
+
+Avian, Ceraton, and Galvan are the same kind of later match. Each one locked a single facet of the old sequence, and each one held only while the subject breathed this air. None of them is the whole. Every attempt to wake the complete archive in one body has failed, in their labs and in the human program they oversee.
+
+## 7. The ground program
+
+From about 4000 BCE to about 500 BCE they worked on the ground across whatever would take a graft: long projects and small ones, animal lines and human lines. Some trials held for a while. People destroyed the human specimens out of fear or jealousy, and those projects were closed. Myth, temple carving, and folklore are what remained. They will not garrison a village to protect a specimen, and a species that stays visible through recorded history erases the return.
 
 The occupation plan was already formed when they left. They had learned that the grafts hold because of Earth itself. They had the simulacrum. What they did not have yet was a way in that avoided a war. The long absence is that wait, kept by the split inside their own kind. Preservers shelved an occupation. A later Harvester authority reopened the file.
 
-2032 is not a casual second look. It is the new method: hide the work inside a crisis, because growing a better human in public had failed.
+## 8. Human lines they closed
 
-## 6. Human lines they closed
-
-These came after the chimeric graft. The method is in the next section. Each line produced strong specimens. Each line was destroyed by the people around it. The sequences were kept. The bloodlines were not.
+These used the chimeric graft, one chosen sequence at a time. The graft is defined below. Each line produced strong specimens. Each line was destroyed by the people around it. The sequences were kept. The bloodlines were not.
 
 *   **Cold giants.** Large, cold-resistant humans, built with strains from glacial life on other worlds, for ice and high country.
 *   **The heavy builders.** Bigger, hairier people with stronger limbs, for hunting and for raising stone.
 *   **The second plane.** Minds that could experience time and space on another plane. They frightened anyone who heard them speak.
 *   **The healers.** Cellular restructuration, strong enough that some individuals could close another person's wound. The bloodline was destroyed. The sequence was kept and not put in a soldier again. A cut on a Raven closes faster than a cut on a Kite because his set-point turns the tissue over faster. That is the wing. It is not this closed line.
 
-## 7. Animal lines they closed
+## 9. Animal lines they closed
 
 The five classes in `../life/strains.md` were not the only animal fronts.
 
@@ -66,17 +84,17 @@ The five classes in `../life/strains.md` were not the only animal fronts.
 *   **The mount.** Wings on a horse an unmodified human could ride. The wings took. The weight did not. Most never left the ground for more than a stride. The few that flew broke their own shoulders by the third season. An Avian is light enough, and hot enough, to use its own wings. The flyers are spliced people.
 *   **The widened mind.** Tried in a desert cat after humans had killed the people who carried a similar trial. The animal stopped hunting. It would lie beside water and starve with food in reach, because wanting had loosened. They did not put that sequence in a body again. A Raven's mind still hunts.
 
-## 8. The five strains
+## 10. The five strains
 
-Bodies, mutagens, and common names are in `../life/strains.md`. The history under them is this.
+Bodies, mutagens, and common names are in `../life/strains.md`. Each class holds one facet of the ancestral sequence their living genome no longer carries whole. The animal is the template that kept that facet. The history under them is this.
 
-*   **Raptor.** The velociraptor project, recovered. Dromaeo-X Chrome is the modern mutagen. No common name. Every modern splice of this line, including Tsunari, is the attempt to get the favorite subject back. She is not special because a Karyon ancestor sits in her blood. She matters because her father inoculated her with the uncorrupted archive of that subject.
-*   **Avian.** The flight graft. Avian-H Vector. The template is 60% raven and other birds. Common names: Ravens and Kites. Vram is a Raven. His heat is the bird set-point the wing requires. The body is in `../life/strains.md`.
-*   **Lycan.** The first chimeric graft, described in the next section. Lupine-A String. The template is 80% wolf and other mammals. Common name: Wolves.
-*   **Ceraton.** The plate. Pachyd-D Link. The template is 70% rhino and other mammals. Common names: Rhinos and Tanks. Armor and mass. The Chrysalis is not this blood.
-*   **Galvan.** The wet shock. Voltax-34 Effect. The template is 75% electric eel and some amphibians. Common names: Sparks and Blinders. A palmar discharge, a sensor whiteout, and a hide that has to stay wet.
+*   **Raptor.** The velociraptor project, recovered. Dromaeo-X Chrome is the modern mutagen. No common name. The archive is the purer sample, and it will not wake whole. Every other modern splice of this line is another failed attempt to bring that sample back. Tsunari holds because her father combined this archive with the other four facets and the combination stayed. The later ape-seed in ordinary human blood is the degraded copy. His inoculation is in `../../characters/tsunari.md`.
+*   **Avian.** The flight facet. Avian-H Vector. The template is 60% raven and other birds. Common names: Ravens and Kites. Vram is a Raven. His heat is the bird set-point the wing requires. The body is in `../life/strains.md`.
+*   **Lycan.** The first chimera, and the stability facet. Lupine-A String. The template is 80% wolf and other mammals. Common name: Wolves. The plant-back is in the abductions, above. The lock itself is in the next section.
+*   **Ceraton.** The plate facet. Pachyd-D Link. The template is 70% rhino and other mammals. Common names: Rhinos and Tanks. Armor and mass. The Chrysalis is not this blood.
+*   **Galvan.** The shock facet. Voltax-34 Effect. The template is 75% electric eel and some amphibians. Common names: Sparks and Blinders. A palmar discharge, a sensor whiteout, and a hide that has to stay wet.
 
-## 9. The chimeric graft
+## 11. The chimeric graft
 
 Lycan is the first time they locked a foreign gene to a human gene and had it stay. They proved the animal side first, in the wolf: endurance, a pack, a nose, hard to kill. Then they locked that line to a human. It took.
 
@@ -84,9 +102,9 @@ That procedure is the chimeric graft. Every spliced person in the books is calle
 
 The graft is a lab procedure. It is not the bond between Tsunari and Vram. Their bond stays heat, nerve, and choice, as written in `../../romance/romance_engine.md`. Do not call the procedure a chimeric bond.
 
-Later human lines in section 6 were built with this method, one chosen sequence at a time, rather than by drowning a body in a whole foreign genome. The corporate strains are the same method with a handler bolted on. See the lattice below.
+Later human lines in section 8 were built with this method, one chosen sequence at a time, rather than by drowning a body in a whole foreign genome. The corporate strains are the same method with a handler bolted on. See the lattice below.
 
-## 10. The simulacrum
+## 12. The simulacrum
 
 They turned the graft on themselves. A Karyon pattern, carried in a body this world will keep. Animal lines were useful. A self that can live here is the result they were running the planet to get.
 
@@ -94,13 +112,21 @@ That result is the simulacrum. One working body changed the file from a field st
 
 A simulacrum is the in-between. Karyon enough to be one of them. Earth-shaped enough to keep a life in the oxygen world. The ungrafted still need the sulfur blend, which is why the pylons exist. The simulacrum does not require the ground to become that blend. Mercer lived for decades in the lee.
 
-**"Doc" Aaron Mercer (Weaver-Unit 09)** is that result deployed as a long trial. The public face, the violet blood, the cartridges that never take a sulfur stain, and the betrayal stay as written in `../../characters/mercer.md`. The new meaning sits underneath. The mentor is the thesis: a Karyon self living a human-scale life. His assignment can still be the raptor archive, Tsunari, and the cell as a controlled dish. The body and the spy are the same object.
+**"Doc" Aaron Mercer (Weaver-Unit 09)** is that result deployed as a long trial. The public face, the violet blood, the cartridges that never take a sulfur stain, and the betrayal stay as written in `../../characters/mercer.md`. The mentor is the thesis: a Karyon self living a human-scale life. His assignment is the anomaly on the ground: the raptor archive, the girl, and the cell as a controlled dish. He steered her life and her work. He did not write the formula. He reports the Silence. He does not know she is the full combination. At the bunker he delivers her to Xaevis. The body and the spy are the same object.
 
-Xaevis reads the simulacrum as a finished replacement. Once their own kind can wear an Earth body, baseline humans are surplus: freeze a gene bank, finish the sulfur sky, move in. Lyraen reads it as proof of coexistence. The success lived a life down here. The sky did not have to be replaced.
+Xaevis reads the simulacrum as a finished replacement. Once their own kind can wear an Earth body, and once the old sequence can be taken back, baseline humans are surplus: freeze a gene bank, finish the sulfur sky, move in. Lyraen reads it as proof of coexistence. The success lived a life down here. The sky did not have to be replaced.
 
-## 11. The occupation
+## 13. The brink and the occupation
 
-They do not take a planet by bombardment. They injure the sky, then arrive with the shelter and a measured gift of the long-life sequence. Panic makes the invitation. The invitation hands them the bench. The Eden Pact is that bargain: domes, clean air, the Chrysalis, in exchange for sovereignty. The Chrysalis is a metered dose of Karyon longevity chemistry. It is a treatment. It does not enter the germline, which is why the borrowed years collapse when the payments stop. A true graft would have stuck in the blood.
+After the world wars they noticed a behavior they do not have coded. Humans will destroy themselves. The Karyon cannot stop an asteroid. They will not accept their only bench erasing itself, because that bench is the only hope of recovering the sequence.
+
+The verge is the Thermal Threshold, 2028 to 2031, on the calendar in `../calendar.md`. The resource war inside those years is the last interval they allow for non-intervention. Humans kept fighting, through the catastrophe and through each other. The Karyon then stepped in as a convenient hand, not as creators.
+
+They offered the atmospheric solution. The oxygen is real, as section 3 says. They caused the Storm, they know what it does, and they can produce as much oxygen as they choose. Humans need the oxygen, a sky they can live under, and a biosphere that can feed them. They will pay almost anything.
+
+The price is one permission. Let the Karyon continue the genetic program on Earth, freely and without restriction. A vat still does not give the same result. The same results are shown to the boards as a military weapon and a soldier race that does not fail. Power hunger takes the lure.
+
+They do not take a planet by bombardment. They injure the sky, then arrive with the shelter. Panic makes the invitation. The invitation hands them the bench. The Eden Pact is that bargain: domes, clean air, the Chrysalis, and the soldier program, in exchange for sovereignty and the unrestricted bench. The Chrysalis is a metered dose of Karyon longevity chemistry. It is a treatment. It does not enter the germline, which is why the borrowed years collapse when the payments stop. A true graft would have stuck in the blood.
 
 The Synapse Lattice is not a weapon program. It is a handler on the graft. The Spire holds the lock that the chimeric method had placed between a foreign gene and a human gene. The diagnostic, the obey impulse, the gain, and the kill are husbandry: how a keeper checks a line, pushes it, hurts it, and ends it. Archon Xaevis alone fires the kill. The full socket, carrier, and ground stay in `../life/leash.md`.
 
@@ -108,27 +134,34 @@ Anything that tries to leave the closed sky is unmade, because a subject that es
 
 The 14-month clock remains a theft of the lee: drag Sector 09's air down into the open-country band and spike the sulfur with it. Under this account, that theft is Xaevis ending the overlap and discarding the surplus population outside the sample domes. It is not the first breath of a dead world. Full conversion, the version that extinguishes life outside the domes, is the later move, the one Lyraen is trying to stop before Year 41 AS.
 
-## 12. The schism
+## 14. The schism
 
-Both sides want the bench. They disagree about what the simulacrum proved.
+Both sides want the bench, and both want the old sequence back. They disagree about what a recovery allows.
 
-*   **Archon Xaevis and the Harvesters.** Biological ownership. The simulacrum means humans are a temporary medium. Accelerate the pylons to a full sulfur conversion, eliminate baseline humanity, and reduce the surviving pool to frozen embryonic stock in the Spire vats. Emotions, attachment, and individuality are noise in a culture he prunes like a growth.
+*   **Archon Xaevis and the Harvesters.** Biological ownership. The simulacrum means humans are a temporary medium. Once the old sequence can be taken from a body that held it, accelerate the pylons to a full sulfur conversion, eliminate baseline humanity, and reduce the surviving pool to frozen embryonic stock in the Spire vats. Emotions, attachment, and individuality are noise in a culture he prunes like a growth.
 *   **Arbiter Lyraen and the Preservers.** The living world is the condition. She was among the researchers on the antiquity trials. She knows a project dies when it is over-controlled, and she knows a vat is not a generation. Destroy the biosphere, or the living human half of the graft, and the sequences stop staying. Her stake is the bench, which includes her own species' future revisions. She is saving the lab as well as the people. That self-interest is the reason she can be trusted to act, and the reason Tsunari and Vram do not trust her completely.
 
-The retired motive is gone. They are not a sterile clone-species hunting human emotion, epigenetic chaos, or a cure for meiosis. Lyraen does not need humanity as an evolutionary twin who will teach her kind to feel. She needs this world left alive.
-
-She cannot say so inside the Spire. Open dissent is synaptic execution through the consensus. She needs people who are off that web.
+She needs this world left alive. She cannot say so inside the Spire. Open dissent is synaptic execution through the consensus. She needs people who are off that web.
 
 What she already did, and what stays:
 
 *   She is a high geneticist of the Spire and one of the architects of the modern lattice.
-*   She left a decay glitch and an encrypted backdoor in that lattice, aimed at the day a human carrying the recovered raptor archive could ground it. Tsunari is that practical hope, not a prophecy.
-*   She feeds access, medical blueprints, and orbital telemetry to off-grid operatives because she cannot touch the pylons herself.
-*   In the later books she hands over the Star-Chrysalis enzyme. Its job under this account: let the trait remain in the body after the handler drops. Wings, the Raven's heat, the Raptor line, the plate, and the wolf's nose stay. The obey impulse, the gain, and the kill do not. An antidote that stripped a chimera back to baseline would be a second theft.
+*   She has been trying to build a ground of her own since that lattice. Her half is technical. The mesh is insulated so the carrier returns to the Spire. She left a decay glitch and an encrypted backdoor so that, on the day a living return path existed, the wave would have somewhere else to die. She never grew that living half. The whole archive degrades in her tests, as it degrades in the program she believes the Spire still oversees.
+*   Jeffrey Thorne is the one who makes a body hold. He calls the formula the Keystone Archetype. The architecture on the page is the Mosaic Keystone: the Raptor expressed, the other four facets dormant, no collar. The inoculation is in `../../characters/tsunari.md`. The ground is in `../life/leash.md`.
+*   The Silence is how she knows the missing half is alive. The strain return drops. The position fix stays. Book 1 is that recognition. She does not yet have a confirmed five-facet diagnosis, and the Spire does not either. Suspicion is the whole of what they trust. She keeps feeding access, medical blueprints, and orbital telemetry, because she cannot touch the pylons herself, and she keeps the enzyme ready.
+*   In a later book she hands over the Star-Chrysalis enzyme. Its job: let the trait remain in the body after the handler drops. Wings, the Raven's heat, the Raptor line, the plate, and the wolf's nose stay. The obey impulse, the gain, and the kill do not. An antidote that stripped a chimera back to baseline would be a second theft. The aerosol that joins her enzyme to Tsunari's blood and Vram's stabilized fluid is also a later book. Book 1 does not complete either.
+
+Who knows, in Book 1:
+
+*   Jeffrey knows the formula. He is gone from the page. His survival is not a finished reveal in this book.
+*   The reader can learn the five waves in the Vault.
+*   Mercer knows an anomaly is in his dish. He does not know the formula.
+*   Lyraen knows a ground is forming, and that her half of the release is ready.
+*   The Spire has the Silence and a suspicion. It does not have a confirmation.
 
 The line she can say: a sequence stays alive only inside a living world. Xaevis is about to burn the only one, and call it arriving.
 
-## 13. How the world is kept
+## 15. How the world is kept
 
 Three moves, in the order the later books already follow. Book 1 does not complete them.
 
@@ -140,27 +173,20 @@ Killing every Karyon is not the rescue. Replacing the oxygen sky with their brea
 
 ## Anatomy
 
-### The Karyon: Anatomical Profile & Biological Nature
+A Karyon body is a human frame. The tells are the blood, the lung, and the eye. Base Karyon have no strain powers. Wings, plates, the wolf's nose, the wet shock, and the Raptor's speed are grafts.
 
-The Karyon are not monstrous beasts or frail gray beings; they are **chillingly elegant, hyper-evolved, and post-biological demigods** who view humanity with the detached calculation of agricultural scientists.
+*   **Stature:** A tall human range. The appendix's 7.5 to 8.5 foot, six-fingered figure loses to this section.
+*   **Skin:** Cool, poreless, pale slate or porcelain, with little or no hair. The blood under it is mercury-indigo and oxidizes to violet in untreated terrestrial air. That violet is the blood tell.
+*   **Lung:** An ungrafted lung cannot take ordinary nitrogen-oxygen air. The requirement is in section 3. A simulacrum's Earth-shaped body can live in the lee. Mercer's cover is in `../../characters/mercer.md`.
+*   **Eye:** One tell. The iris can fracture into concentric rings under shock. The rest of the face can pass at a glance. The mirrored, lidless, earless mask in the appendix loses.
+*   **Voice:** They speak. A harmonic rides under the words. Aboard the Spire, the consensus is a shared neural web, and open dissent on that web is execution. That web is how they police their own. It is not how a Karyon gives an order in a room.
+*   **Hands:** Five digits. Gene-craft is skill and instruments.
 
-*   **Physical Appearance & Stature:**
-    *   **Height & Build:** Towering between **7.5 and 8.5 feet tall**, with an elongated, slender silhouette and an unnervingly weightless, fluid gait. Sub-surface bio-magnetic fields in their garments allow them to glide effortlessly without jarring physical footfalls.
-    *   **Skin & Flesh:** Translucent, cool porcelain or fine slate-chitin skin, completely smooth and hairless. Just beneath the dermis runs an intricate, glowing circulatory network of **liquid mercury and deep-indigo hemolymph** that oxidizes into a vivid violet when exposed to untreated terrestrial air.
-    *   **Cranial Structure:** A high, swept-back, elongated cranium housing hyper-dense neural wetware. No eyebrows, no body hair.
-    *   **Facial Features:** Sculpted, marble-like planes. They have **no external ears** (internal harmonic tympanums along the jawbone register micro-vibrations) and **no human nostrils**—only delicate, vertical filtration slits along the throat and neck that flex when testing ambient atmospheric chemistry.
-    *   **The Eyes:** Massive, almond-shaped eyes with completely **mirrored obsidian sclera** (no white). Inside, multi-layered concentric rings of pale silver, violet, or liquid mercury rotate slowly. Their eyes never dilate or blink like mammalian eyes; instead, an inner crystalline membrane refracts light across the ultraviolet, thermal, and electromagnetic spectrums.
-    *   **The Voice:** A narrow, lipless mouth that barely parts. They communicate through **tele-harmonic acoustic resonance** that bypasses air displacement and vibrates the bones and auditory nerves directly inside the listener’s skull, sounding like layered glass chimes, distant cello strings, and deep white noise.
-    *   **Hands:** Six elongated, multi-jointed slender digits on each hand, designed for molecular micromanipulation of genetic sequences and holographic interfaces.
-    *   **Attire & Regalia:** Floor-length mantles and tailored tunics woven from **flowing black bio-crystalline nanoweave** (obsidian glass that moves like liquid silk), incorporating integrated floating anti-gravity rings, neural siphon docks, and harmonic tuning staves.
-
-*   **Biological Capabilities & The Fatal Flaw (*Genetic Senescence*):**
-    *   **Harmonic Psionics:** Tied into a planetary quantum biological web (*The Spire-Consensus*). An Archon can emit targeted infrasonic frequencies capable of inducing cerebral hemorrhages, motor-cortex paralysis, or sudden cardiac arrhythmia in unshielded biological targets.
-    *   **Organogenesis & Retroviral Mastery:** Capable of synthesizing targeted aerosols, neuro-suppressors, or cellular mutagens within minutes.
-    *   **Cellular Immortality vs. Sterility:** While individual Karyon can live for thousands of years without telomere degradation, their germline genome suffers from **Genetic Senescence**—a fatal loss of meiosis and recombination caused by millions of years of cloning and neural synchronization. They cannot reproduce naturally, and their clones collapse from cellular rot. **They require the chaotic epigenetic drive and emotional neurochemistry of living human hosts to incubate their species' survival.**
-    *   **Atmospheric Requirements:** Earth’s natural nitrogen-oxygen atmosphere is caustic to their deep pulmonary tissue. They require a dense, high-nitrogen, sulfurous, and methane-tinged blend—which is why their Terra-Pylons deliberately pump out the **Amber Haze**.
+The consensus can kill one of their own. It does not hand them the five strains. The soldier kill is the lattice, and it stays in `../life/leash.md`.
 
 ## How a simulacrum passes
+
+Section 12 and the Anatomy win where this passage disagrees. The blood tell is violet. A simulacrum does not bleed ordinary red.
 
 ## 8. Infiltration Biology: The Karyon "Simulacra" (Alien Spies Among Humans)
 
@@ -168,7 +194,7 @@ To monitor human compliance inside the Green Domes and anticipate rebellions in 
 
 ### The Biological Disguise (How They Pass as Human)
 *   **Epigenetic Human Sheath:** A Simulacrum is not a crude robot or an alien in a silicone mask. It is a biological organism gestated by grafting an embryonic Karyon neural architecture into a 100% human cellular and vascular matrix.
-*   **True Biology:** They possess human muscle, human bone, real heartbeats, and normal body heat. They eat, sleep, bleed red, and can even feel human emotions, making them completely undetectable by standard biometric scanners.
+*   **True Biology:** They possess human muscle, human bone, real heartbeats, and normal body heat. They eat and sleep. The blood still oxidizes violet, which is why a slide under UV is a tell. Standard biometric scanners miss them. The eye fracture and the clean filter cartridges do not.
 *   **Two Infiltration Modes:**
     1.  *The Active Agent:* An operative fully aware of their Karyon identity, acting as a deep-cover saboteur, politician, or rebel squad leader.
     2.  *The Sleeper Hybrid:* An individual who was raised with genuine human memories and believes they are 100% human, until a high-frequency harmonic broadcast from a Spire triggers their dormant Karyon command lattice (*The Awakening Protocol*).
@@ -189,7 +215,7 @@ Xaevis is in `../../characters/xaevis.md`. Lyraen is in `../../characters/lyraen
 
 ## Appendix: previous account
 
-These passages are the older motive. The sections above win where they disagree.
+These passages are the older motive, the older body, and the older bestiary. The sections above win where they disagree. Genetic senescence, the need for human emotion, and the eight-foot body lose to section 1 and the Anatomy.
 
 ## 0. The Ancient Epochs: Prior Contact & The Reality of Mythical Beasts
 
@@ -197,7 +223,7 @@ Modern human history recorded the arrival of the Karyon in 2032 as "First Contac
 
 ### The Antiquity Presence (ca. 4,000 BCE – 500 BCE: "The Age of Chimeras")
 *   Millennia before modern industrialization, a scientific vanguard of Karyon maintained orbital outposts and subterranean research cradles across ancient Persia, Mesopotamia, the Mediterranean, and East Asia.
-*   **The retired bestiary:** An older draft treated folklore monsters as the five strains. That list loses to sections 7 and 8, and to `../life/strains.md`. The Karyon grafted animals that already solved a problem. Humans told monster stories after the scientists left. The five templates are Avian, Lycan, Ceraton, Galvan, and Raptor.
+*   **The retired bestiary:** An older draft treated folklore monsters as the five strains. That list loses to the animal lines, the five strains, and `../life/strains.md`. The Karyon grafted animals that already solved a problem. Humans told monster stories after the scientists left. The five templates are Avian, Lycan, Ceraton, Galvan, and Raptor.
 *   **The Great Withdrawal (ca. 500 BCE):** A violent internal schism among the ancient Karyon forced their departure from Earth. Deprived of the Karyon’s catalytic atmospheric frequency, the ancient strains suffered metabolic collapse and gradually died out. Humanity preserved their existence through oral myth, temple carvings, and folklore.
 *   **The 2032 Reality:** When the Karyon returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The winged military legions engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Karyon archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Raptors* also roam the unshielded wasteland, making the Rust Barrens a lethal predator hunting ground.
 

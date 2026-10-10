@@ -64,7 +64,7 @@ A single class does not possess just one ability. It holds an **Arkun Tree**. Th
 
 #### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
 *   **The Problem Dr. Jeffrey Thorne Solved:** Single-class chimeras reject each other. A Ceraton's tissue rejects an Avian's blood. A Galvan secretion breaks an Avian vein. A Lycan mesh does not sit quietly in a Raptor's chemistry. Every corporate class is also collared by the Karyon lattice.
-*   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not splice her with a single lineage. He engineered her as the **Mosaic Keystone**:
+*   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not splice her with a single lineage. He engineered her as the **Mosaic Keystone**. He called the formula the Keystone Archetype. The five loci are the five facets of the old Karyon sequence. That history is in `../factions/karyon.md`. The ground is in `leash.md`.
     *   *Expressed Body (100% Raptor, Dromaeo-X Chrome):* Stronger legs than a baseline human, sub-vocal clicks, clear eye membranes, reptilian shin scutes, vertical slit irises, and a cool resting temperature.
     *   *Dormant Regulatory Matrix (The Keystone):* Non-coding receptor loci for the other four classes (**Avian, Lycan, Ceraton, Galvan**).
     *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.

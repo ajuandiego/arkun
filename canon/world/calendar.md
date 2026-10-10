@@ -20,12 +20,13 @@ With the collapse of the nation-states and the descent of the Karyon Spires, the
 *   Global temperatures crossed the irreversible +2.8°C tipping point.
 *   The planetary water table collapsed across equatorial belts; agricultural systems failed simultaneously across North America, Eurasia, and Africa.
 *   Megacities devolved into rationing zones governed by private security conglomerates.
+*   The resource war over water, rations, and the last arable belts is the crisis inside these years. The Karyon have watched human self-destruction since the world wars. This war is the last interval they allow before they intervene. The private cause of the Storm is in `factions/karyon.md`.
 
 #### Year 0 (2032 CE): The Great Storm & The Great Cleave
 *   Three colossal, non-inertial biomechanical vessels—*The Spires*—entered low orbit and moored over the oceans.
 *   The Great Storm raged for five months as the Karyon deployed planetary terra-pylons, clashing with Earth’s jet stream.
 *   **The Great Cleave:** Massive thermal oceanic expansion and tectonic fracturing shattered global geography. Central America was torn open into the Pan-Oceanic Breach, the Red Sea rift expanded to sever Africa completely, coastal plains were drowned by over 40 meters, and open waters turned into the impassable, boiling **Stygian Oceans** wracked by electromagnetic squalls.
-*   The Karyon established contact with the boards of directors of Earth's surviving corporate syndicates, offering climate shields, clean fusion, and cellular longevity (*The Chrysalis*) in exchange for sovereign extraction rights.
+*   The Karyon established contact with the boards of directors of Earth's surviving corporate syndicates, arriving as a rescue. They offered climate shields, oxygen they can produce at will, clean fusion, and cellular longevity (*The Chrysalis*) in exchange for sovereignty and an unrestricted genetic program on Earth. The soldier strains are how that program is sold. The bargain is in `factions/karyon.md`.
 
 #### 3 AS (2035 CE): The Eden Pact
 *   Nation-states were officially dissolved; the world was divided into corporate sectors.
@@ -46,8 +47,8 @@ With the collapse of the nation-states and the descent of the Karyon Spires, the
 *   Escaped laboratory chimeras establish breeding packs across the Rust Barrens, forming a dangerous wild ecology.
 
 #### 31 AS (2063 CE): The Thorne Raid, Null Inoculation & The Father's Exile
-*   Dr. Jeffrey Thorne discovers Consortium telemetry confirming the scheduled planetary extinction harvest and the Karyon's secret antiquity reserve.
-*   When corporate security raids his laboratory, Dr. Thorne inoculates 17-year-old Tsunari with an uncorrupted **Raptor archeo-genetic embryo** and Amber Haze antibody culture, while 10-year-old Sora is captured and indoctrinated into Eden Dome Alpha.
+*   Dr. Jeffrey Thorne, working the overseen genetic program and the secret antiquity reserve, isolates the old sequence and names his formula the Keystone Archetype. The Karyon do not know he has it. He also reads Consortium telemetry confirming the scheduled planetary extinction harvest.
+*   Tsunari, 17, is already failing in the Amber Haze. When corporate security raids the laboratory, he inoculates her with the Mosaic Keystone (the Raptor archive expressed, the other four facets dormant) and an Amber Haze antibody culture. The match holds. Sora, 10, is captured and indoctrinated into Eden Dome Alpha. The inoculation is in `../characters/tsunari.md`.
 *   To protect his daughters, Dr. Thorne lures the purge team into the deep wastes in an amphibious crawler and plunges into the boiling Stygian Ocean. Presumed dead, he in fact survives the crossing and reaches **The Verdant Cradle**, leaving behind an encrypted ghost beacon in the deep archives.
 *   Tsunari flees into Sector 09, taken in by Doc Aaron Mercer and the subterranean Null-Circuit resistance.
 
