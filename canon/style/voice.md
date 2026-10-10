@@ -17,7 +17,7 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 
 ## 3. Prose Rules for Romantasy Beats
 
-*   **Rule 1: Keep It Embodied.** Avoid abstract emotional statements like *"He felt angry and attracted to her."* Instead: *"His claws twitched beneath his skin, the nanocarbon straining against his knuckles, while his gaze pinned her to the rusted bulkhead with the lethal patience of a hawk picking its angle of dive."*
+*   **Rule 1: Keep It Embodied.** Avoid abstract emotional statements like *"He felt angry and attracted to her."* Instead: *"The heat climbed his forearm, and his gaze pinned her to the rusted bulkhead with the lethal patience of a hawk picking its angle of dive."*
 *   **Rule 2: The Heroine Stays Dangerous.** Tsunari is never a passive prize or a frightened victim. Even when pinned or outnumbered, her mind is calculating vulnerabilities, measuring his fever, and looking for leverage.
 *   **Rule 3: The Hero’s Devotion is Absolute.** When Vram breaks his conditioning, he does not waver or play lukewarm games. He is a primal warrior whose loyalty, once claimed, will gladly raze an empire to protect her.
 

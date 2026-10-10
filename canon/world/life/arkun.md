@@ -27,9 +27,12 @@ The Karyon Synapse Lattice does not function in an emotional vacuum. It is a qua
 A single class does not possess just one ability. It holds an **Arkun Tree**. The chart and the true character decide which branch wakes. Electricity belongs to Galvan. Heat and the wing belong to Avian. They do not trade.
 
 ### 1. Avian (Ravens and Kites)
+
+Fury or a hard adrenaline spike is what wakes the tree. For as long as that state holds, black veins stand out along the neck, across the chest, and around the eyes. When the state breaks, the veins go. The skin underneath is the same skin.
+
 *   **Optic Overclock:** The optic nerve holds a moving target, a thermal gradient, and a wire at a distance a baseline eye loses.
 *   **Inertial Feathering:** Barometric friction along the feather shafts. A fall becomes a turn. The body takes the G.
-*   **Wing Dump (Ravens):** The soldier vents the wing engine in one burst. Incoming rounds meet that heat. The claws conduct it. After the dump he is empty and cold. Kites do not carry this at a Raven's scale.
+*   **Wing Dump (Ravens):** The soldier vents the wing engine in one burst. Incoming rounds meet that heat. After the dump he is empty and cold. Kites do not carry this at a Raven's scale.
 *   **Cardiac shock (Ravens):** One command-grade failsafe. If the heart stops, it fires once. Then he is spent.
 
 ### 2. Raptor
@@ -74,7 +77,7 @@ In Sector 09, unsanctioned chimeras without corporate collars are hunted for viv
 1.  **Spire hooks:** The weapon is in `../../style/glossary.md`. On her they hang at the hips, crescent along the outer thigh, and she fights them in a reverse grip.
 2.  **Bracers, gloves, and leggings:** Forearm bracers and fingerless gloves are kit. Dark leggings cover the shin scutes. The pebbled scales on the outer shoulders and upper arms stay visible.
 3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her vertical slit pupils and eye membranes as light-sensitive work gear.
-4.  **High collar:** The sleeveless tunic's stand collar wraps the throat and the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon and its two links**. The face stays bare. Shoulders and arms stay free. A linen wrap is storm cloth, not the daily collar.
+4.  **High collar:** The sleeveless tunic's stand collar wraps the throat and the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon**. The face stays bare. Shoulders and arms stay free. A linen wrap is storm cloth, not the daily collar.
 
 ---
 
@@ -85,7 +88,7 @@ When a soldier possesses a mixed Strain Chart, their dominant character trait ca
 | Strain Chart | True Character / Core Drive | Resulting Hybrid Arkun | Tactical Manifestation |
 | :--- | :--- | :--- | :--- |
 | **Mosaic Keystone [Tsunari]**<br/>(Raptor Expressed + 4 Dormant Lineages) | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
-| **Avian, Raven [Vram]** | *The Indomitable Hearth* | **The Pyric Crucible** | Vents the wing engine in one heat dump. Incoming rounds meet it. The claws conduct it. One cardiac shock if the heart stops, and then he is empty. |
+| **Avian, Raven [Vram]** | *The Indomitable Hearth* | **The Pyric Crucible** | Vents the wing engine in one heat dump. Incoming rounds meet it. One cardiac shock if the heart stops, and then he is empty. |
 | **Ceraton (70%) + Avian (30%)** | *The Unyielding Protector* | **Hot Plate** | The plates lock, and the Avian share dumps heat through them. Anyone who grapples the hide gets burned. The soldier is spent after the dump. |
 | **Raptor (50%) + Galvan (50%)** | *The Infiltrator* | **Dead Sensor** | A cold stalk plus a short Blinder. The room loses its scopes. Nobody loses a memory. |
 

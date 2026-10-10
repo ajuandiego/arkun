@@ -74,7 +74,7 @@ Buried eighty feet beneath the ruins of Sector 09, inside the subterranean vault
 *   **Sensory Profile:**
     *   *Scent:* Old paper, beeswax, dried lavender, silver etching acid, cold granite, and air with no metal film on the tongue. Cleaner than the lee, and nothing like the dome's perfume.
     *   *Sound:* The delicate, rhythmic clicking of brass clockwork drives turning optical quartz readers; the gentle rustle of vellum; the deep, muffled hum of bedrock against surface wind.
-    *   *Sanctuary Function:* A scholarly haven removed from the dome's surveillance and from the barrens' freeze. Vram can retract his claws here. Tsunari works bare-faced, as she does in the Ring, and the shock is how little the air tastes of copper.
+    *   *Sanctuary Function:* A scholarly haven removed from the dome's surveillance and from the barrens' freeze. Vram can fold the wings here. Tsunari works bare-faced, as she does in the Ring, and the shock is how little the air tastes of copper.
 
 ---
 

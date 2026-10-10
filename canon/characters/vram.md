@@ -15,13 +15,13 @@
 ## 2. Appearance & Sensory Markers
 *   **Build & Stature:** Towering (6'4" / 193 cm), built like a lethal bird of prey—broad-shouldered, narrow-waisted, packed with hyper-dense transgenic muscle that moves with eerie, silent grace.
 *   **Facial Features, Hair & Eyes:** Severe, sculpted aristocratic planes with youthful, smooth unlined skin in his physical prime (age 28); defined masculine brows and sharp cheekbones; a crisply groomed short beard, the same brown as his hair, sculpted along his jawline (human grooming choice); molten-gold incandescent eyes glowing with a soft predatory ember; thick textured brown hair pulled back into a disciplined warrior man-bun (topknot) at the crown, with tapered sides and loose masculine strands framing his temples.
-*   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a sleeveless black shirt under a fitted matte chest plate, bare arms, black military cargo pants, a nylon belt, and black military boots. He carries no firearm. The wings, the pyric talons, and the furnace are the weapons. The locked sheet is `assets/media/vram_11.jpg`.
+*   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a sleeveless black shirt under a fitted matte chest plate, bare arms, black military cargo pants, a nylon belt, and black military boots. He carries no firearm. The wings and the heat are the weapons. The locked sheet is `assets/media/vram_11.jpg`.
 *   **Biological Mutation Traits (Avian, Avian-H Vector, common name Raven):**
     *   **14-Foot Biological Wings:** A 14-foot span, anchored in the thoracic muscle between the shoulder blades. The bone of each wing arm wears the same matte black protective gear as his chest. Scar rings the follicles where the feathers leave the flesh. A broken shaft bleeds. At rest the wings fold tight through the slits in the shirt and read as a black cloak down his back.
-    *   **The feathers:** Shaft, vane, and barb, grown in transgenic keratin. Black, stiff, and edged. Heat or a hard beat lifts a bronze and oil-slick sheen on the shafts and the primaries. It cools back to black. Kite wings in the legion do not do this. The crest on his nape is a separate small plume. It is not the wing. It rises when he spikes.
+    *   **The feathers:** Shaft, vane, and barb, grown in transgenic keratin. Black, stiff, and edged. Heat or a hard beat lifts a blue-violet sheen on the shafts and the primaries. It cools back to black. Kite wings in the legion do not do this. The nape is hair and the siphon. There is no crest.
     *   **Heat flush:** Under high arousal, rage, or exertion, the capillaries under the skin flush with the burn. Copper and bronze. The same heat, not a second class.
-    *   **Talons:** Nanocarbon claws recessed beneath his fingernails. They conduct his heat. They do not ignite.
-    *   **The Siphon:** One round iris in a dark seat about three inches by three, centered where the head meets the back. Two link plates follow the spine down between the wing roots, one under the other, each about two inches by two. Idle, the sides lie flat. When the carrier is hot, the flesh on both sides of the socket swells. The rule is `../world/life/leash.md`. The plate is `assets/media/the_leash_2.jpg`.
+    *   **The hands:** Human hands. No talons, retracted or otherwise.
+    *   **The Siphon:** One round iris in a dark metal seat, centered where the head meets the back, with a short metal tab under it. Idle, the skin lies flat. When the carrier is hot, the skin around the socket reddens and the metal stays metal. The rule is `../world/life/leash.md`. The plate is `assets/media/the_leash_2.jpg`. The locked body sheet is `assets/media/vram_11.jpg`.
 *   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, bitter clove, and overwhelming, radiant body heat.
 
 ---
@@ -49,7 +49,7 @@ Taken from a Gray Sector orphanage at age seven (in Year 19 AS) by Consortium ge
 ---
 
 ## 5. Combat Profile & Lethal Capabilities
-*   **Supersonic Aerial Combatant:** Undefeated aerial predator; on wing, he executes lethal high-speed aerodynamic stoops and kinetic talon strikes; on foot, his strikes carry the force of a hydraulic ram infused with burning thermal energy.
+*   **Supersonic Aerial Combatant:** Undefeated aerial predator. On the wing he stoops. On foot the blow is his mass and the heat in the arm. The hands stay hands.
 *   **Vulnerability (Thermal Burnout & Seizure Spikes):**
     *   His resting line has no margin under Lattice Burn. Without a ground, the waste every collared soldier carries pushes him past 108°F. The mesh misfires. The rule is in `../world/life/strains.md`.
 
@@ -64,8 +64,8 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
     *   **Avian, Avian-H Vector, common name Raven.** Set-point, knit, and the one cardiac shock are the class rules in `../world/life/strains.md`.
 *   **True Character / Core Psychological Drive:**
     *   *The Indomitable Hearth / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a fierce, unyielding drive to be a sanctuary rather than a weapon of ruin—a warrior who would burn himself to cinders to keep his partner safe.
-*   **Signature Arkun: The Pyric Crucible (Solar Radiance & Kinetic Convection)**
-    *   *Manifestation:* Vram overclocks his core heat into a radiant 300°F kinetic aura. Incoming projectile rounds melt or deflect off his thermal slipstream; his claw strikes unleash explosive kinetic heat waves that incinerate armored drones.
+*   **Signature Arkun: The Pyric Crucible (the wing dump)**
+    *   *Manifestation:* The wing dump. He vents the wing engine in one burst. Incoming rounds meet that heat. Then he is empty. The hands stay hands. While the Arkun is up, black veins stand out at his neck, his chest, and around his eyes. The rule is in `../world/life/arkun.md`.
     *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Tsunari, her cool Raptor body takes the wing heat and her Keystone shunts the carrier. The current drops, and so does the seizure line. His output feeds her phase-stutter.
 
 ---
@@ -80,5 +80,5 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 ### Key Tropes Unleashed
 *   **The Naming Progression (From Target to Soul):** Starts by addressing her coldly as *"The Null-Anomaly"* or *"Thorne."* As their combat partnership solidifies, it shortens to the crisp, respectful field moniker *"Tsune."* Only in private, unguarded moments—when his fever breaks against her cool skin or when terror for her safety shatters his composure—does his voice drop into the raspy, tender diminutive: *"Tsunie."*
 *   **"Who Did This To You?":** Cold fury that terrifies even his own squad. If anyone from the Consortium or the resistance dares lay a violent hand on her, his military discipline evaporates, replaced by feral avian retribution.
-*   **The Knife-to-Throat Intimacy:** Early interactions feature high physical tension where she has a scalpel or vibro-blade pressed against his throat while his claws rest millimeters from her carotid artery—neither moving, breathing in each other's air.
+*   **The Knife-to-Throat Intimacy:** Early interactions feature high physical tension where she has a scalpel or vibro-blade pressed against his throat while his hand is at her neck, neither of them moving, breathing in each other's air.
 *   **Possessive Devotion ("Burn the World for Her"):** He starts out claiming he is holding her captive because she is his "cure." Over time, the pretense vanishes: he will gladly watch the Green Domes collapse and the Karyon burn before he lets anyone take her from him.

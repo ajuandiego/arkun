@@ -20,7 +20,7 @@ Each class has a lab mutagen, a common name where soldiers and the street use on
 
 ### 1. Avian — Ravens and Kites
 
-One graft. Hollow bone, a built wing, hand talons, a predator's eye, and a metabolism that outruns a human. The common name is the cut.
+One graft. Hollow bone, a built wing, a predator's eye, and a metabolism that outruns a human. The common name is the cut. The hands are hands.
 
 *   **Ravens** are the command cut. Broad wing, black vane, the hottest burn. Vram Tyage is a Raven.
 *   **Kites** are the patrol and scout cut. Lighter bone, a faster stoop or a hover, plumage that stays slate, cream, or rust. They do not live at a Raven's temperature. Toby Vance is a Kite. His callsign, Kestrel, is his name in the squad, not a third class.
@@ -29,13 +29,13 @@ One graft. Hollow bone, a built wing, hand talons, a predator's eye, and a metab
 
 **The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, it passes through the slits in the shirt. A Raven's pair reads as a black cloak. The bone of the wing arm wears the same matte plate as the chest. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Kite primary takes weeks.
 
-**The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. On a Raven the vane is black. Heat or a hard beat lifts a bronze and oil-slick sheen on the shafts and the primaries. It cools back to black. Kite wings do not do this. The short crest at a Raven's nape is not part of the wing. It lies flat, and it rises when he spikes. It parts around the siphon.
+**The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. On a Raven the vane is black. Heat or a hard beat lifts a blue-violet sheen on the shafts and the primaries, the way a raven's feather takes the light. It cools back to black. Kite wings do not do this. There is no crest. The nape is hair, skin, and the siphon.
 
 **Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyon.md`.
 
 A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Kite still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
 
-The claws are carbon seated in that tissue, so a closed hand is hot. A cut on a Raven closes faster than a cut on a Kite, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
+A closed hand is hot because the tissue is at that set-point. A cut on a Raven closes faster than a cut on a Kite, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
 
 **Senses.** Tetrachromatic vision: ultraviolet, thermal, and the glint of a wire. The inner ear filters a breath out of a gale.
 
@@ -43,17 +43,17 @@ The claws are carbon seated in that tissue, so a closed hand is hot. A cut on a 
 
 ### 2. Lycan — Wolves
 
-**Build.** Heavy through the neck and shoulder, built to take a hit and keep going. Endurance first, then the jaw.
+**Build.** Endurance first, then the jaw. Strong through the shoulder, built to take a hit and keep going. A woman stays a woman. A man stays a man.
 
-**Hide.** A coarse coat, calloused pads, a human face that still reads as a person. No quills. The wolf is the donor, not a second animal stapled on.
+**Hide.** A human face, human ears, and human hands. The pupils are round. Hair on the head continues as thick fur over the shoulders, the upper arms, and the upper back. It is the person's own hair, not a garment, and it is very furry there. The forearms stay mostly skin. Hair color and fur color vary. No muzzle, no quills. The wolf is the donor, not a second animal stapled on. The locked sheets are `assets/media/kira_3.jpg` and `assets/media/hound.jpg`.
 
 **Senses.** A nose that can pick adrenaline, sweat, and blood out of a dust storm. A tapetum that shines in low light. Hearing ahead of a baseline human.
 
-**Weapons.** A jaw with real torque. Nails that are thick and do not sheathe like a cat's. The coat is not armor.
+**Weapons.** A jaw with real torque. The nails are human fingernails. The skin is not armor.
 
 **Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
 
-Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
+Kira Brandt is a Wolf with no corporate pedigree. On her the hair and the fur are tawny. The male sheet is `assets/media/hound.jpg`, and on him they are dark. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
 
 ### 3. Ceraton — Rhinos and Tanks
 
@@ -103,4 +103,4 @@ Human aviation is gone. No fuel, no refineries, no avionics chain. The Consortiu
 
 The only mechanical flying craft on Earth belong to the Karyon: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyon.md`.
 
-**The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. The two links run down between the wing roots. They are not a second antenna. The hardware rule is `leash.md`.
+**The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. A short tab sits under the socket. It is not a second antenna. The hardware rule is `leash.md`.

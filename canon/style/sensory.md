@@ -6,11 +6,11 @@
 *   **The Heat Contrast:** Vram’s chimeric core temperature runs at 104°F; when Tsunari touches him, he feels like a forge. In contrast, the alien tech is unnervingly freezing to the touch.
 *   **Tactile Elements:**
     *   *Feather shafts:* Smooth, iridescent, razor-edged quill bases along his spine that soften when stroked gently.
-    *   *The Siphon:* One round metal socket centered where the head meets the back, with two short links running down the upper back. Cold when idle. When the carrier is hot, the flesh on both sides of the socket swells.
+    *   *The Siphon:* One round metal socket centered where the head meets the back, with a short tab under it. Cold when idle. When the carrier is hot, the skin around the socket reddens and the metal stays metal.
     *   *Hair & Man Bun:* The tactile friction of Tsunari’s cool, calloused fingers sliding through his tapered undercut to untie his warrior man-bun during fever triage, letting thick dark hair spill across his broad shoulders.
     *   *Beard Texture:* The crisp, trimmed prickle of his sculpted angular beard pressing against her palm or the crook of her neck, contrasting with his radiant 106°F skin.
     *   *Skin:* Calloused, grease-stained human fingers against taut, scarred military muscle.
-    *   *Claws:* The velvet-soft click of nanocarbon talons retracting against knuckles.
+    *   *Hands:* Human hands. Warm from the set-point. No talons.
 
 ### 2. Scent & Chemistry
 *   *The Gray Ring:* Hot copper, wet rust, chicory, cooked silt-mash, sweat. Sulfur when the wind turns off the wall.
