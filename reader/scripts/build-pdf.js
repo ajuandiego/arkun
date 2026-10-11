@@ -10,8 +10,9 @@ const path = require('path');
 const { execSync } = require('child_process');
 const { marked } = require('marked');
 
+const { listChapters, contentPath } = require('../book1-chapters');
+
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
 const OUTPUT_DIR_MANUSCRIPT = path.join(ROOT_DIR, 'manuscript');
 const OUTPUT_DIR_READER = path.join(ROOT_DIR, 'reader', 'books', 'book1');
 const COVER_PATH = path.join(ROOT_DIR, 'reader', 'public', 'assets', 'cover_kdp_highres.jpg');
@@ -745,9 +746,7 @@ async function compilePDF() {
   console.log('⚡ THE ARKUN CYCLE — PDF COMPILER');
   console.log('========================================================');
 
-  const files = fs.readdirSync(MANUSCRIPT_DIR)
-    .filter(f => f.endsWith('.md'))
-    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  const files = listChapters(ROOT_DIR).map((name) => `${name}.md`);
 
   console.log(`📖 Processing ${files.length} sections for PDF generation...`);
 
@@ -756,7 +755,7 @@ async function compilePDF() {
   const chapters = files.map((file, i) => {
     const isInterlude = file.includes('interlude');
     if (!isInterlude) chapterCounter++;
-    const raw = fs.readFileSync(path.join(MANUSCRIPT_DIR, file), 'utf8');
+    const raw = fs.readFileSync(contentPath(ROOT_DIR, file), 'utf8');
     const parsed = parseChapter(raw, file, i + 1, chapterCounter);
     totalWords += parsed.wordCount;
     return parsed;

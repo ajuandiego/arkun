@@ -20,6 +20,8 @@ const app = express();
 // Default to non-typical port 7429 to avoid collision with standard 3000/8080/5173/etc
 const PORT = parseInt(process.env.PORT, 10) || 7429;
 
+const { listChapters, contentPath } = require('./book1-chapters');
+
 const ROOT_DIR = path.resolve(__dirname, '..');
 const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript');
 
@@ -172,11 +174,12 @@ app.get('/api/books', (req, res) => {
       .filter(e => e.isDirectory())
       .map(e => {
         const bookInfo = getBookInfo(e.name);
-        const bookPath = path.join(MANUSCRIPT_DIR, e.name);
-        const chapterFiles = fs.readdirSync(bookPath).filter(f => f.endsWith('.md'));
+        const chapterCount = e.name === 'book1'
+          ? listChapters(ROOT_DIR).length
+          : fs.readdirSync(path.join(MANUSCRIPT_DIR, e.name)).filter(f => f.endsWith('.md')).length;
         return {
           ...bookInfo,
-          chapterCount: chapterFiles.length
+          chapterCount
         };
       });
     res.json(books);
@@ -186,12 +189,18 @@ app.get('/api/books', (req, res) => {
 });
 
 // Helper to get ordered manuscript files (natural alphabetical sort with chapter_XXb_addendum_XX)
-function getOrderedManuscriptFiles(bookDir) {
+function getOrderedManuscriptFiles(bookDir, bookId) {
+  if (bookId === 'book1') {
+    return listChapters(ROOT_DIR).map((name) => `${name}.md`);
+  }
   if (!fs.existsSync(bookDir)) return [];
   const files = fs.readdirSync(bookDir).filter(f => f.endsWith('.md'));
-  
-  // Natural sort cleanly puts chapter_10b_addendum_01 between chapter_10 and chapter_11
   return files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+}
+
+function resolveChapterPath(bookId, filename) {
+  if (bookId === 'book1') return contentPath(ROOT_DIR, filename);
+  return path.join(MANUSCRIPT_DIR, bookId, path.basename(filename));
 }
 
 // API: List chapters for a book
@@ -204,10 +213,10 @@ app.get('/api/books/:bookId/chapters', (req, res) => {
   }
 
   try {
-    const files = getOrderedManuscriptFiles(bookDir);
+    const files = getOrderedManuscriptFiles(bookDir, bookId);
 
     const chapters = files.map((filename, index) => {
-      const fullPath = path.join(bookDir, filename);
+      const fullPath = resolveChapterPath(bookId, filename);
       const content = fs.readFileSync(fullPath, 'utf8');
       const meta = parseChapterMetadata(content, filename);
       return {
@@ -229,7 +238,7 @@ app.get('/api/books/:bookId/chapters', (req, res) => {
 app.get('/api/books/:bookId/chapter/:filename', (req, res) => {
   const { bookId, filename } = req.params;
   const safeFilename = path.basename(filename);
-  const chapterPath = path.join(MANUSCRIPT_DIR, bookId, safeFilename);
+  const chapterPath = resolveChapterPath(bookId, safeFilename);
 
   if (!fs.existsSync(chapterPath)) {
     return res.status(404).json({ error: `Chapter '${safeFilename}' not found.` });
@@ -260,11 +269,11 @@ app.get('/api/books/:bookId/full', (req, res) => {
   }
 
   try {
-    const files = getOrderedManuscriptFiles(bookDir);
+    const files = getOrderedManuscriptFiles(bookDir, bookId);
 
     let totalWords = 0;
     const chapters = files.map((filename, index) => {
-      const fullPath = path.join(bookDir, filename);
+      const fullPath = resolveChapterPath(bookId, filename);
       const rawMarkdown = fs.readFileSync(fullPath, 'utf8');
       const meta = parseChapterMetadata(rawMarkdown, filename);
       totalWords += meta.wordCount;

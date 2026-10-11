@@ -1,6 +1,6 @@
 # Repetition
 
-Counts from the Book 1 manuscript, `manuscript/book1/`. Plurals are included where the word has one (`talons`, `tendons`, `synthetics`). Re-run the watchlist with `node reader/scripts/word-frequency.js --watch`.
+Counts from the Book 1 chapters, `story/stolen_breath/chapters/*/manuscript.md`. Plurals are included where the word has one (`talons`, `tendons`, `synthetics`). Re-run the watchlist with `node reader/scripts/word-frequency.js --watch`.
 
 ## Watchlist
 

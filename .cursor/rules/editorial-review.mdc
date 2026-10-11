@@ -12,7 +12,7 @@ alwaysApply: false
 
 Run this only when the user asks for an editorial review and gives a manuscript path. If they do not give a path, ask for one. Do not pick a file yourself, and do not start from memory of a previous read.
 
-The file at that path is the text under review. `manuscript/book1/*.md` and `reader/` are not a second draft to reconcile unless the user asks for a version diff. `assets/prompts/` is art direction, not plot canon.
+The file at that path is the text under review. A chapter's prose is `story/stolen_breath/chapters/<chapter>/manuscript.md`. `reader/` is not a second draft to reconcile unless the user asks for a version diff. `assets/prompts/` is art direction, not plot canon.
 
 Do not edit the manuscript, the canon, or these rules unless the user asks. The review file and `reviews/ledger.csv` are the delivery. Write those even when the user does not repeat the instruction. Writing a review does not change the book. Implementing findings is `.cursor/rules/editorial-apply.mdc`, and only when the user asks to apply a review.
 

@@ -14,8 +14,9 @@
 const fs = require('fs');
 const path = require('path');
 
+const { listChapters, contentPath } = require('../book1-chapters');
+
 const ROOT = path.resolve(__dirname, '../..');
-const MANUSCRIPT = path.join(ROOT, 'manuscript', 'book1');
 
 const STOP = new Set(`
 a an the and or but if as at by for from in into of on onto to with without within
@@ -52,13 +53,10 @@ const WATCH = [
 const APEX_NAME = /\bapex\s+(?:genesys|bio|corporate|executives?|emergency|biosys)\b/i;
 
 function chapters() {
-  return fs.readdirSync(MANUSCRIPT)
-    .filter((name) => name.endsWith('.md'))
-    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
-    .map((name) => ({
-      name: name.replace(/\.md$/, ''),
-      text: fs.readFileSync(path.join(MANUSCRIPT, name), 'utf8'),
-    }));
+  return listChapters(ROOT).map((name) => ({
+    name,
+    text: fs.readFileSync(contentPath(ROOT, name), 'utf8'),
+  }));
 }
 
 function args(argv) {

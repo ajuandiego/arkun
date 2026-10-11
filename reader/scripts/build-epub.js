@@ -21,8 +21,10 @@ marked.use({
   renderer: terminalRenderer
 });
 
+const { listChapters, contentPath } = require('../book1-chapters');
+
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
+const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'story', 'stolen_breath', 'chapters');
 const OUTPUT_DIR = path.join(__dirname, '..', 'books', 'book1');
 const COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'cover.jpg');
 const BACK_COVER_PATH = path.join(__dirname, '..', 'public', 'assets', 'back_cover.jpg');
@@ -1138,10 +1140,7 @@ async function buildEPUB() {
     throw new Error(`Manuscript directory not found at: ${MANUSCRIPT_DIR}`);
   }
 
-  // Natural sort cleanly places chapter_10b_addendum_01 between chapter_10 and chapter_11
-  const files = fs.readdirSync(MANUSCRIPT_DIR)
-    .filter(f => f.endsWith('.md'))
-    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  const files = listChapters(ROOT_DIR).map((name) => `${name}.md`);
 
   console.log(`📖 Found ${files.length} sections (${files.filter(f => !f.includes('interlude')).length} chapters + ${files.filter(f => f.includes('interlude')).length} interludes) in ${MANUSCRIPT_DIR}`);
 
@@ -1150,7 +1149,7 @@ async function buildEPUB() {
   const chapters = files.map((file, i) => {
     const isInterlude = file.includes('interlude');
     if (!isInterlude) chapterCounter++;
-    const raw = fs.readFileSync(path.join(MANUSCRIPT_DIR, file), 'utf8');
+    const raw = fs.readFileSync(contentPath(ROOT_DIR, file), 'utf8');
     const parsed = parseChapter(raw, file, i + 1, chapterCounter);
     totalWords += parsed.wordCount;
     return parsed;

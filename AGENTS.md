@@ -4,7 +4,7 @@
 **Active book:** Book 1, *Stolen Breath*  
 **Series:** *Stolen Breath*, *Crown of Salt*, *Unleashed*
 
-`canon/` wins when files disagree. `canon/concept.md` is an early blueprint and loses to the other files in that folder. `canon/pitch.md` is the public series pitch. The prose on the page is `manuscript/book1/`. Each `canon` folder has a README that names the file to open. A README does not restate the lore.
+`canon/` wins when files disagree. `canon/concept.md` is an early blueprint and loses to the other files in that folder. `canon/pitch.md` is the public series pitch. The prose on the page is `manuscript.md` in that chapter's folder under `story/stolen_breath/chapters/`. Each `canon` folder has a README that names the file to open. A README does not restate the lore.
 
 ## 1. Core Premise & Logline
 
@@ -49,12 +49,11 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 * `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
-* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 52 chapters and five interludes. Each of those folders has `summary.md`, `rules.md`, and `manuscript.md`.
+* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 52 chapters and five interludes. Each of those folders has `summary.md`, `rules.md`, and `manuscript.md`. The prose is `manuscript.md`.
 * `canon/style/`: voice, sensory palette, format, and the glossary.
 * `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
 * `assets/media/`: reference images (characters, strains, places). Not prose canon.
-* `manuscript/`: active drafts. Edit chapter files, not the compiled export, unless asked.
-  * `book1/chapter_NN.md` and interludes such as `chapter_14b_interlude_the_glass_moth.md`
+* `manuscript/`: compiled exports and the dedication. The chapter prose is `story/stolen_breath/chapters/<chapter>/manuscript.md`. Edit that file, not the compiled export, unless asked.
   * `dedication.md`
   * `Stolen_Breath_Full_Manuscript.md` and `.txt` are builds. `reader/scripts/` regenerates them.
 * `reviews/`: editorial reviews, `ledger.csv`, and `NNN_apply.md` checklists.

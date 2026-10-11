@@ -7,16 +7,15 @@
 const fs = require('fs');
 const path = require('path');
 
+const { listChapters, contentPath } = require('../book1-chapters');
+
 const ROOT_DIR = path.resolve(__dirname, '../..');
-const MANUSCRIPT_DIR = path.join(ROOT_DIR, 'manuscript', 'book1');
 const OUTPUT_DIR = path.join(ROOT_DIR, 'manuscript');
 
 function compileManuscript() {
   console.log('Compiling single-file editorial manuscript...');
 
-  const files = fs.readdirSync(MANUSCRIPT_DIR)
-    .filter(f => f.endsWith('.md'))
-    .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  const files = listChapters(ROOT_DIR).map((name) => `${name}.md`);
 
   let fullContent = [];
 
@@ -46,7 +45,7 @@ function compileManuscript() {
   // 4. Chapters & Interludes
   let totalWords = 0;
   files.forEach(file => {
-    const raw = fs.readFileSync(path.join(MANUSCRIPT_DIR, file), 'utf8');
+    const raw = fs.readFileSync(contentPath(ROOT_DIR, file), 'utf8');
     const wordCount = raw.trim().split(/\s+/).filter(Boolean).length;
     totalWords += wordCount;
 
