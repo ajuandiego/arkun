@@ -28,7 +28,7 @@
 *   **Chapter 14 // Vram**
     *   *Lexicon Entry (Directorate Retrieval):*  
         > **Directorate Retrieval** *[security]*: When the Spire wants a body and will not walk in to take it, the Directorate sends a collared detail. At Redoubt Station 14 the detail is one Wolf and two Rhinos, Aethelgard cohorts under a government order. The Wolf finds. The Rhinos are the door. Class bodies only. The rule for the species that stayed on the ship is in `canon/world/factions/karyon.md`.
-    *   *Setting:* The canyon landing pad of Redoubt Station 14. A harvester hangs on the horizon and does not land. What lands is a government prowler.
+    *   *Setting:* The landing pad of Redoubt Station 14, on the south edge of the ring. A harvester hangs on the horizon and does not land. What lands is a government prowler.
     *   *Core Action:* One Wolf and two Rhinos step onto the concrete in Directorate kit, sockets fitted, no black veins. They want the telemetry audit and a search of the post. The Wolf smells a second body in the ducts and says so. Vram meets them with the wing, the heat, the hands, and the eye. He is still trying to talk the inspection through.
     *   *Stakes:* Separated from Tsunari, the leash climbs while he stands in front of soldiers who can actually take a room.
 
@@ -58,7 +58,7 @@
 *   **Chapter 17 // Tsunari**
     *   *Epigraph (Aeros-Legion Cadence — Chanted during high-altitude tether drills, unrecorded in official manuals):*  
         > *"Feather to feather, bone to bone / None of the Aerie falls alone. / Break the wind and ride the squall / If one must dive, we catch the fall."*
-    *   *Setting:* The cliff's edge atop the 800-foot canyon.
+    *   *Setting:* The south lip of the ring. The dead band is the open ground in front of the post.
     *   *Core Action:* Consortium perimeter forces and Aeros-Legion 7 converge on the bunker. Vram locks Tsunari securely against his chest with his flight harness, warning her to hold tight and close her eyes as searchlights pin them against the concrete.
     *   *The Tandem Lock & Agonizing Restraint:* Vram straps Tsunari flush against his chest, her thighs wrapped around his hips, her arms wound around his neck, her breasts pressed against his chest armor. Every shift of the harness sends an electric, suffocating wave of heat through them. In mid-air, Vram has to fight an overwhelming, rock-hard physical reaction to her clinging thighs, while Tsunari clings to his burning shoulders, terrified by how safe she feels in his arms.
     *   *Dynamic:* The threshold of total surrender—Tsunari must trust her life completely to a winged soldier she fought to the death three days ago.
@@ -66,34 +66,34 @@
 *   **Chapter 18 // Vram**
     *   *Lexicon Entry (Vector-Blink & Aerial Maneuvering):*  
         > **Vector-Blink** *[tactical]*: A supersonic aerial kinetic maneuver executed by Avian-strain pilots, utilizing hollow titanium bones and reflex slipstream tucks to alter velocity by 180 degrees without mechanical inertia.
-    *   *Setting:* The screaming airspace above the canyon gorge.
-    *   *Core Action:* Vram leaps into the howling canyon winds! A terrifying aerial chase erupts through the jagged rock spires as his former squadron pursues on wing.
+    *   *Setting:* The air over the Dead Perimeter, a few miles of chemical band and lakebed rim.
+    *   *Core Action:* Vram leaves the lip with her locked to his chest. His squadron pursues on the wing. The chase is that band, not a distant gorge.
     *   *Squad Betrayal & Brotherhood:* Lieutenant Cassian hesitates; **Ferrin Calder** deliberately fires wide, shouting excuses over comms (*"Targeting optics full of dust!"*); and young **Toby Vance** executes a slipstream dive to body-block automated flak drones locking onto Vram's wing roots.
 
 *   **Chapter 19 // Tsunari**
     *   *Epigraph (Unsent letter found in the pocket of a downed scout uniform, Rust Barrens perimeter):*  
         > *"The red dust gets everywhere, Lena. Into the seals, into your teeth, into your lungs. When the sun goes down, the cold bites harder than the dogs. If you ever leave the dome, don't look up. The sky out here isn't empty—it's waiting."*
-    *   *Setting:* High altitude banking above the cloud bank.
-    *   *Core Action:* Tsunari experiences unassisted biological flight for the first time—the sheer kinetic violence of 180-mph wind, the blinding speed, clinging to Vram’s burning, muscular shoulders as anti-air flak detonates around them like black flowers.
+    *   *Setting:* The same short flight, low over the band.
+    *   *Core Action:* Tsunari is in the air for the first time, locked to his chest, with flak opening in the chemical haze. The yard on the lakebed is already in sight. The wind is violent. The distance is a few miles.
     *   *Emotional Beat:* The boundary between terror and awe dissolves; she witnesses the majestic, terrifying truth of what he was built to do.
 
 *   **Chapter 20 // Vram**
     *   *Lexicon Entry (The Dead Perimeter):*  
         > **The Dead Perimeter** *[geography]*: A two-kilometer chemical dead-zone encircling the Green Domes, continuously drenched in phosphor defoliants and acidic sterilizing wash to prevent biological egress.
-    *   *Setting:* The outer boundary of the canyon gorge.
-    *   *Core Action:* Automated defense turrets unleash a barrage of phosphor defoliant canisters. Shrapnel tears through Vram's wing quills, while caustic yellow chemical fog drenches both of them as they crash-dive into a flooded stormwater culvert.
+    *   *Setting:* The Dead Perimeter, the band just outside Sector 09.
+    *   *Core Action:* The band's turrets hose them with phosphor defoliant. Shrapnel tears the wing. The chemical fog takes them both down into the storm drain under the freight yard on the lakebed. That yard is about 10 miles south of the dome's center. The map is in `canon/world/geography.md`.
 
 *   **Chapter 21 // Tsunari**
     *   *Epigraph (Field Triage Notice, Dustborn Chem-Scavenger Guild):*  
         > *"Water alone will not wash phosphor. You must scrape the skin with lead-paste, strip the garments, and breathe through charcoal. He who pauses out of modesty will be buried in ash."*
-    *   *Setting:* A flooded subterranean stormwater culvert and dry maintenance ledge at the base of the gorge.
+    *   *Setting:* The storm drain under the freight yard, and the dry ledge above the wash. Same ruin they fell into.
     *   *Sensory & Spicy Climax (🌶️🌶️🌶️🌶️ Open Door / The Wing-Root Awakening):* After stripping their burning, acid-soaked garments in the freezing culvert, Tsunari tends Vram's burns and begins preening the toxic alkali dust and scorched feathers from his dorsal flight roots. In Avian biology, the wing roots anchor directly into the sympathetic thoracic nerve cluster—an intensely sensitive, involuntary erogenous center. The sensory overload breaks Vram’s military discipline. Driven by raw dopamine, the adrenaline crash, and the intoxicating contrast of her cool scent, he pins her against the stone wall. Dropping to his knees, his hands and mouth worship her: explicit oral sex (cunnilingus) and manual stimulation that brings Tsunari to a shuddering, vocal orgasm against the rock. He pulls back before intercourse, terrified his 106°F heat will burn her, leaving them both breathless, aching, and physically addicted to each other's touch.
 
 *   **Chapter 22 // Vram**
     *   *Lexicon Entry (The Rust Barrens & Acid Sinks):*  
         > **The Rust Barrens** *[geography]*: The harsh country beyond a dome's lee. Livable if the hours are kept: oxidized red dust, dried lakebeds, furnace noons, and a Night Freeze that falls toward -10°F. The open dune is a crossing. Low ground after dark holds a sulfur pool. Spore lanes and glass winds are local, and they are avoided.
-    *   *Setting:* The upper airspace descending into the deep Rust Barrens.
-    *   *Core Action:* Taking flight once more to escape ground trackers, high-altitude anti-air shrapnel shreds Vram's left flight primaries and dislocates his shoulder. With his wing failing and fever flaring to 108°F, Vram locks his wings into a desperate glide, using his broad body to shield Tsunari as they crash-land through a blinding dust squall into the sand dunes.
+    *   *Setting:* The containers of the same freight yard.
+    *   *Core Action:* He tries to lift them off the yard. The shredded wing will not hold, the shoulder goes, and the fever climbs past 108°F. He drops them back among the containers, his body between her and the sand. There is no second country. Kira's basement and Boran's rail door are under this yard.
 
 ***
 

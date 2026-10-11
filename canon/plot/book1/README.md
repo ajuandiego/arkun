@@ -6,7 +6,7 @@
 > **Structure:** 44 Chapters + 5 Worldbuilding Interludes | 4 Parts | **Format:** Alternating Dual POV — **Tsunari** & **Vram** (with 5 Omniscient Interludes)  
 > **Chapter Header Architecture:** Intercalated Epigraphs alternating between **Archival Quotes & Artifacts** (Odd Chapters) and **The Glass Vault Lexicon / Dictionary Entries** (Even Chapters)  
 > **Core Romance Arc:** Biological Resentment $\rightarrow$ Sensory Addiction $\rightarrow$ Primal Survival Consummation $\rightarrow$ Sovereign Devotion (*Fourth Wing* Level Heat: 🌶️🌶️🌶️🌶️ Open Door, Multi-Sensory, Explicit)  
-> **Settings:** Eden Dome Alpha Perimeter, Sector 09 Gray Ring, Redoubt Station 14 & Canyon, The Rust Barrens, Subterranean Transit Depots, The Sump Catacombs, and The Glass Vault
+> **Settings:** The south gate and the photovoltaic graveyard, Redoubt Station 14 on the south edge of the ring, one freight yard past the Dead Perimeter, the south sumps, and The Glass Vault. Distances are in `canon/world/geography.md`.
 
 ---
 

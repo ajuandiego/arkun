@@ -19,10 +19,11 @@ Every pre-collapse religious tradition made desperate, profound theological effo
 ### 2. The New Extremist Cult: "The Enlightened" (The Faith of the Forged)
 Where traditional religions offer quiet spiritual endurance, **The Enlightened** offer intoxicating, militant vengeance. Predominating in the lowest, most desperate tiers of the Gray Sectors and the outer Rust Barrens, they have become a formidable social and paramilitary power.
 
-*   **The Doctrine of the Cosmic Forge:**
-    1.  The Great Storm was not an alien invasion; it was a deliberate cosmic forge sent to melt away the soft, decadent Old World.
-    2.  The Green Domes are the blasphemous refuge of the "Unforged"—corporate oligarchs and alien false gods cowering behind glass shields.
-    3.  The cosmos has promised an **"Apex Deliverer"** (The Forged One)—a messianic warrior born of mortal blood, tempered in the celestial fire of the sky, who will break the glass domes and lead the frontier masses to inherit the earth in a holy purge.
+*   **The Doctrine of the Cosmic Forge:** The picture began in her fever, told in `../../characters/forger.md`. A winged shadow crossed the sky, and the light came after the wing. She has preached it for fifteen years.
+    1.  The Great Storm was not an alien invasion. It was the forge that melted the soft Old World, and the fever showed her what the forge was making.
+    2.  The Green Domes are where the unforged hide behind glass, oligarchs and false gods both.
+    3.  The shadow is one man, the Apex Deliverer. Winged, because that is what crossed the sky. Burning, because the light followed him. Born down here, because a vat-thing belongs to the dome. He breaks the glass.
+    4.  The light is not his reward. It comes after him, for everyone who stayed in the dust. One sign, then the sky for the rest. A sermon that saved only one stolen child would not have kept a cistern. The Cold Serpent is the clause she added later: anything that cools him puts the light out, and it has to be struck.
 *   **Primal Traditions & Social Control:**
     *   *The Brands of Tempering:* Severe ritual scarification; converts are branded with red-hot scrap iron across their forearms and napes to prove loyalty and desensitize nerve endings to physical pain.
     *   *Control of the Sump Guilds:* The Enlightened control the lowest subterranean drainage conduits and industrial water reclamation sumps beneath Sector 09, levying heavy tithes of food, scrap, and medicine in exchange for "consecrated" scrubbed water.

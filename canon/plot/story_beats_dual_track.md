@@ -14,7 +14,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ## Act I: The Collision (Chapters 1–10)
 
 ### External Sci-Fi Plot (A-Track)
-*   **Opening Status Quo:** The south-gate crawler is dumping a Spire packet, and the window closes when it leaves. Tsunari taps the conduit with Ren in her ear. She cuts the link when the raven crosses the lights and sends him to Drew. The header names the file the Lazarus Key. She can read the schedule skin. The root stays sealed until the Vault. Drew and Ren come after her. She turns them around at the canyon, and again at the depot, and they carry the schedule skin home while lying to Mercer. Drew is in `canon/characters/drew.md`. The definition of the file is in `canon/style/glossary.md`.
+*   **Opening Status Quo:** The south-gate crawler is dumping a Spire packet, and the window closes when it leaves. Tsunari taps the conduit with Ren in her ear. She cuts the link when the raven crosses the lights and sends him to Drew. The header names the file the Lazarus Key. She can read the schedule skin. The root stays sealed until the Vault. Drew and Ren come after her. She turns them around on the south road, and again at the freight yard, and they carry the schedule skin home while lying to Mercer. Drew is in `canon/characters/drew.md`. The definition of the file is in `canon/style/glossary.md`.
 *   **The Hunt Begins:** Consortium alerts trigger the deployment of Aeros-Legion 7. Commander Vram Tyage leads the aerial interception.
 *   **The Climax of Act I:** Cornered in the ruins of a collapsed solar farm, Tsunari fights fiercely, detonating an EMP charge that downs Vram’s ground squad and forces a brutal hand-to-hand duel between them.
 
@@ -29,7 +29,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ## Act II-A: The Crucible (Chapters 11–22)
 
 ### External Sci-Fi Plot (A-Track)
-*   **The Interrogation & The Secret:** Vram brings her to isolated Redoubt Station 14 rather than Consortium headquarters. He demands she explain what her biology did to his neural lattice.
+*   **The Interrogation & The Secret:** Vram brings her to Redoubt Station 14, the south watchpost on the ring's edge, a few miles past the graveyard, rather than into the city or the detention block. He demands she explain what her biology did to his neural lattice. The distances are in `canon/world/geography.md`.
 *   **The Shared Threat:** Director Corvus and Archon Xaevis notice Vram's telemetry glitching. The Spire stays on the ship. The Directorate sends a retrieval detail: one Wolf and two Rhinos.
 *   **The Severing / High Treason:** The Wolf tracks Tsunari into the ducts. The Rhinos take the door. The fight is class against class: his wing, heat, hands, and eye; her legs, hooks, and knife; their nose, jaw, horn, hide, and charge. No black veins, no wing dump, no phase-stutter. He puts the detail down, straps her to his chest, and leaves the pad on the wing. The dump wakes later, in the Sector 09 duel.
 
@@ -43,7 +43,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 ## Act II-B: The Feral Frontier & Sump Prophet (Chapters 23–34)
 
 ### External Sci-Fi Plot (A-Track)
-*   **The Downed Flight & The Wasteland Rescue:** Clipped by high-altitude anti-air shrapnel, his flight primaries shredded, Vram locks his wings into a desperate glide, using his body to shield Tsunari as they crash-land through a blinding dust storm into the dunes beside an abandoned freight transit depot.
+*   **The Downed Flight & The Wasteland Rescue:** One flight, south off the ring and across the Dead Perimeter. The band's turrets shred the wing and drop them into the freight yard on the lakebed. He cannot lift again. The containers, Kira's basement, and Boran's rail door are that yard. The rail runs a few miles back to the south sumps.
 *   **The depot pack:** Feral dogs stalk the burning wreckage. With Vram semi-conscious, Tsunari holds the lead dog off the container until Vram kills it with his hands and the weight of the wing. No dump. **Kira Brandt** is there because the depot is her cache. She scatters the pack, then charges for the ride: a copy of the schedule skin, the heat-mask she already sells, and a debt that opens **Boran Vael-Korr**'s rail. The bargain is in `canon/characters/kira.md`. The animal is in `canon/world/life/ecology.md`.
 *   **The Tempered Ambush & The Jealous Shadow:** Approaching Sector 09's drainage tunnels, they are ambushed by **Caelia (Ember-Seven)** and her Coven scouts. Spliced with the Crucible Mutagen, Caelia attacks with venomous hatred to execute the "Cold Serpent." Vram intervenes in mid-recovery, his 106°F furnace blazing; Caelia falls to her knees calling him her "Promised King," but Vram coldly rebuffs her, fueling her obsessive jealousy.
 *   **The Grand Cistern & Malakar's Challenge:** Brought before **The Forger** in the subterranean sump temple, flanked by **Commander Malakar (Ember-Prime)** and the Ember Coven. The Forger offers Vram an army and presents Caelia as his queen—demanding the public sacrifice of Tsunari. Vram violently rejects both (*"She is not my bride, and I am no one's god"*). Malakar engages Vram with his pneumatic rail-flail in an earth-shaking duel before Tsunari triggers an EMP blast allowing their escape.

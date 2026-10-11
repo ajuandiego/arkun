@@ -69,16 +69,16 @@
 *   **Chapter 8 // Vram**
     *   *Lexicon Entry (The Lee):*  
         > **The Lee** *[meteorology]*: The spill of a dome's climate field past the bulkhead. The easiest outdoor air. Strongest against the wall, harder downwind. People live their whole lives in it. A guild cartridge, about a day's wages for a filtered night, buys easier sleep and more years. It does not buy tomorrow morning.
-    *   *Setting:* The driver's cabin of the prowler nearing the perimeter canyon.
-    *   *Core Action:* Vram makes a fateful command decision: he overrides the vehicle's automated navigation beacon, rerouting transport away from the corporate detention block to an isolated desert watchpost: Redoubt Station 14.
+    *   *Setting:* The driver's cabin of the prowler on the south ring road, a few miles past the graveyard.
+    *   *Core Action:* Vram overrides the navigation beacon and takes her to Redoubt Station 14, the Directorate watchpost on the south edge of the ring, about 7 miles from the dome's center. The graveyard is behind them. The vault is still under the ring, and he is not ready to walk her into the city. Distances are in `canon/world/geography.md`.
     *   *Unwanted Attraction & Restraint:* In the cramped cabin, Vram catches himself tracking the graceful line of her bare, athletic shoulders (freed by her sleeveless combat tunic) and the pebbled scales on her outer shoulder. When her lower lip parts in defiance, his pulse spikes for reasons that have nothing to do with telemetry, forcing his knuckles white on the steering wheel. *If I reach for her, she'll slit my throat. And I'd deserve it.*
 
 *   **Chapter 9 // Tsunari**
     *   *Epigraph (Executive Memorandum, Apex GeneSys Directorate — Classification: Obsidian-Zero):*  
         > *"To grant a weapon empathy is to prime its self-destruct. The moment an Aeros Commander values a single human life above the mission parameters, decommission the cohort immediately."*
-    *   *Setting:* Redoubt Station 14 (an ancient pre-collapse concrete bunker perched atop a jagged 800-foot canyon).
+    *   *Setting:* Redoubt Station 14, a concrete watchpost on the south edge of Sector 09. Shortwave only. The dead band is the next mile south.
     *   *Core Action:* Vram marches Tsunari inside the fortified watchpost. Tsunari immediately scans the room for exits, structural failure points, and improvised weapons, while noticing the bunker's isolation: no comm-lines to the city, only shortwave surveillance relays.
-    *   *Drew on the shortwave:* Drew and Ren have not stayed at the clinic. They followed the prowler line as far as the canyon road. Drew's voice comes up on the relay, Ren behind her. Tsunari tells them to turn around, says nothing about the man in the room, and pulls the relay. Vram hears the name Drew. He does not get the clinic.
+    *   *Drew on the shortwave:* Drew and Ren have not stayed at the clinic. They followed the prowler down the south road. Drew's voice comes up on the relay, Ren behind her. Tsunari tells them to turn around, says nothing about the man in the room, and pulls the relay. Vram hears the name Drew. He does not get the clinic.
     *   *Sensory & Forbidden Attraction:* When Vram unbuckles his flight harness to treat his wing roots, exposing his broad bronze back, sculpted spinal muscles, and the carved ridges of his torso, Tsunari forces her eyes to the floor, her throat parched. *Don't look. Don't acknowledge that he's built like an ancient war god. He's holding you prisoner.*
 
 *   **Chapter 10 // Vram**

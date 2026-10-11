@@ -5,9 +5,9 @@
 *   **Chapter 23 // Tsunari**
     *   *Epigraph (Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal — Excavation Layer IV, Year 29 AS):*  
         > *"The Raptor does not roar. It measures. It counts the footfall, the heartbeat, the breath between panic and surrender. If you flee, you are prey. If you stand, you are the problem it has to solve."*
-    *   *Setting:* An abandoned pre-collapse freight transit depot half-buried in the dunes.
-    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container as a pack of feral dogs goes quiet across the depot.
-    *   *Drew and Ren:* They did not stay turned around. Drew read the prowler tread at the mirrors and followed it into the dunes. They reach the depot lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`.
+    *   *Setting:* The freight yard on the lakebed, the ruin they fell into. Containers, Kira's basement, and the rail door are one site.
+    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander into a rusted shipping container as a pack of feral dogs goes quiet across the yard.
+    *   *Drew and Ren:* They did not stay turned around. The south road is a few miles. They reach the yard lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`.
 
 *   **Chapter 24 // Tsunari**
     *   *Lexicon Entry (Raptor, Dromaeo-X Chrome):*
@@ -30,14 +30,14 @@
 *   **Chapter 27 // Vram**
     *   *Epigraph (Navigation Slate, Pre-Collapse Trans-Continental Rail Authority — Dated October 2031, one month Before Storm):*  
         > *"Line 9 Sub-Solum remains operational for military cargo only. All passenger access suspended. If surface conditions deteriorate past Stage 5, the blast doors will seal automatically from the central hub. God help whoever is caught between stations."*
-    *   *Setting:* The maintenance bunker at dawn.
+    *   *Setting:* The basement of the same freight yard, at dawn.
     *   *Core Action:* Waking up in dead-channel stillness with Tsunari asleep against his chest. Instead of relief, Vram experiences the visceral dread of an off-grid rogue operative: to a soldier conditioned by ten years of deafening static and telemetry uplinks, being completely blind to his army deep in occupied territory is terrifying.
 
 *   **Chapter 28 // Vram**
     *   *Lexicon Entry (Ceraton, Pachyd-D Link):*
         > **Ceraton** *[archeo-genetics]*: Common names Rhino and Tank. Grey cracked hide on the neck, the shoulders, the arms, and the upper back, and a horn on the brow. Dense bone, a short charge. Origin: 70% rhino and other mammals. The hide is not venom, and it is not a gas lung.
-    *   *Setting:* The sealed tunnel bulkhead of the pre-collapse heavy-rail line.
-    *   *Core Action:* Kira guides them to the sealed bulkhead guarded by **Boran "The Bastion" Vael-Korr**, a 6'8" Rhino. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, unlocking the hand-cranked rail trolley to smuggle them into Sector 09.
+    *   *Setting:* The rail door in that same basement.
+    *   *Core Action:* Kira spends the debt and brings them to **Boran "The Bastion" Vael-Korr**, a 6'8" Rhino on his own door. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, and he unlocks the hand-cranked trolley. The rail runs a few miles back under the ring and lets out in the south sumps. The vault is the room past that water. The cult holds the water.
 
 ***
 
@@ -52,7 +52,7 @@
     *   *Epigraph (The Book of the Crucible — Liturgical Canticle of The Enlightened, Chapter III):*  
         > *"Out of the iron heavens shall come the Fire-Giver, his wings dripping with molten gold. But beware the daughter of the dust, the serpent of ice whose touch steals the flame. Strike the serpent, that the furnace may burn unquenched."*
     *   *Setting:* The sulfur-crusted drainage aqueducts beneath Sector 09.
-    *   *Core Action:* While foraging for clean water in the aqueducts, Tsunari is ambushed by a strike team of the **Ember Coven** led by **Caelia (Ember-Seven)**. Enhanced by the Crucible Mutagen, Caelia attacks with fanatical fury, screaming that the "Cold Serpent" must die so their messiah can burn.
+    *   *Core Action:* They are off the rail and walking the south sumps toward the vault. The water is in those tunnels. A strike team of the **Ember Coven**, led by **Caelia (Ember-Seven)**, takes Tsunari there. Enhanced by the Crucible Mutagen, Caelia attacks with fanatical fury, screaming that the "Cold Serpent" must die so their messiah can burn.
 
 *   **Chapter 30 // Vram**
     *   *Lexicon Entry (The Sub-Solum & Sump Veins):*  
@@ -77,13 +77,13 @@
 *   **Chapter 33 // Tsunari**
     *   *Epigraph (Charter of the Air Scrubber Guild — Ratified by the Baseline Elders, Sector 09, Year 15 AS):*  
         > *"The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself. The Gilded sell tomorrow for today; down here, we keep the hours together."*
-    *   *Setting:* The Iron Market in the deep sumps.
+    *   *Setting:* The Iron Market, the bazaar at the edge of the same south water. A walk from the cistern, not a new city.
     *   *Core Action:* Guided by courier Ren, Tsunari and Vram negotiate with **Madame Vrena Chen**, Chairwoman of the Air Scrubber Guild, for still rights, shelter access, and centrifuge parts for the guild's water works. Vram faces her wrath over his past corporate sweeps with solemn humility, winning her respect and logistical backing.
 
 *   **Chapter 34 // Vram**
     *   *Lexicon Entry (The Ember Coven):*  
         > **The Ember Coven** *[faction]*: The seven elite praetorian enforcers of The Forger, comprised of the only living survivors of the Crucible Mutagen. Bound by ritual brandings that cauterize peripheral pain receptors.
-    *   *Setting:* An abandoned biological distillation annex in the lower sumps.
-    *   *Core Action:* Discovering The Forger’s clandestine laboratory, Vram and Tsunari recover optical recordings showing Commander Malakar's agonizing transformation under the Crucible Mutagen, realizing the cult is creating an army of suicidal biological shock troops.
+    *   *Setting:* The distillation room off the Grand Cistern, the temple they just fled.
+    *   *Core Action:* The cult's laboratory is that back room. Vram and Tsunari recover optical recordings of Commander Malakar's transformation under the Crucible Mutagen. The cult is building a handful of suicidal shock troops, and the proof was in the building they were dragged through.
 
 ---

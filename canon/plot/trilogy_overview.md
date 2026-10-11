@@ -40,7 +40,7 @@ graph TD
 ## 2. Book-by-Book Overview
 
 ### Book 1: *Stolen Breath*
-*   **Core Setting:** Eden Dome Alpha perimeter, Sector 09 Gray Ring, Redoubt Station 14, Rust Barrens, Sump Drainage Networks, and The Glass Vault.
+*   **Core Setting:** The south side of Eden Dome Alpha. The gate, the graveyard, Redoubt Station 14, one freight yard past the dead band, the south sumps, and the Glass Vault. The salt flats are west, and they are the exit.
 *   **Primary Conflict:** Vram hunts Tsunari as a corporate executioner; an accidental touch during combat shuts off his agonizing lattice fever. To understand the cure, he defies orders, abducts her, and is pursued into the Rust Barrens. In the sump underbelly, **The Forger** (High Priestess of **The Enlightened**) proclaims Vram the prophesied "Apex Deliverer" and offers him an army to burn the Dome if he sacrifices Tsunari ("The Cold Serpent").
 *   **Key Antagonists & Secondary Arcs:** 
     *   *Corporate & Alien Oppression:* Director Elena Corvus (Apex Bio). The Karyon stay on the ships and work the lattice. The fists on the ground are collared cohorts.
