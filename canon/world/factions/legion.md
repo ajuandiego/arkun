@@ -11,6 +11,7 @@ The augmented soldiers are not uniform automatons; they form a dangerous, volati
         *   *Sgt. Veda Frost (Screech):* Galvan (Blinder) and Raptor. Close-quarters shock.
         *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent skirmisher. Avian (Hawk) with a Lycan secondary.
         *   *Spc. Tobin "Toby" Vance (Kestrel):* Avian, common name Hawk. The callsign is his, not a third class.
+        *   *Spc. Amari (Swift):* Avian, common name Hawk. Blonde. On the launch ledge with the others. Her file is `../../characters/amari.md`.
     2.  **The Raptors:** Lightweight hunter-killers. Dromaeo-X Chrome. No common name. Built for a 50 mph burst, clicks, and close ambush. Vanguard's.
     3.  **The Ceraton bastions:** Rhinos and Tanks. Pachyd-D Link. Plated heavy infantry for a breach. Aethelgard's. Exemplified by **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
     4.  **The Lycan cohorts:** Wolves. Lupine-A String. Nose, endurance, and a jaw. Aethelgard's urban fist.

@@ -5,6 +5,7 @@
     *   Rescued from a corporate labor camp by The Forger at age fourteen, starved and traumatized. Spliced with the Crucible Mutagen and subjected to ritual tempering.
     *   The Forger systematically conditioned her with a personal prophecy: *"When the celestial flame falls from heaven, you alone will stand at the Deliverer's right hand to conquer the domes."*
     *   Young, isolated, and starved for affection, Caelia conflated this religious destiny with **romantic salvation**, believing the prophesied warrior would love her, protect her, and give her life meaning.
+    *   Ceremony includes the cup, a thin rift distillate that is not the Crucible Mutagen. It hallucinates. The Forger tells her what the vision meant. The reading is in `../world/factions/enlightened.md`.
 *   **The Antagonistic Phase (Why Readers Hate Her Initially):**
     *   When Vram crashes in the wastes, she is overcome with fanatical infatuation. She sees him as her preordained king.
     *   She looks upon Tsunari with venomous, obsessive jealousy, viewing her as a filthy Gray Sector interloper who is "polluting" her messiah.

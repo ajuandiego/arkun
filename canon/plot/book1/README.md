@@ -3,7 +3,7 @@
 **Author:** J.D. Alfaro  
 > **Series:** The Arkun Cycle (Book 1 of 3)  
 > **Target Length:** ~80,000 – 85,000 Words (~320 Printed Pages) | **Target Chapter Length:** 1,600 – 2,200 Words  
-> **Structure:** 44 Chapters + 5 Worldbuilding Interludes | 4 Parts | **Format:** Alternating Dual POV — **Tsunari** & **Vram** (with 5 Omniscient Interludes)  
+> **Structure:** 44 numbered chapters of Tsunari and Vram, plus 8 chapters in other voices, plus 5 interludes | 4 Parts | **Format:** Alternating **Tsunari** and **Vram**, with other speakers where the part files place them (a Karyon ambassador, Jeffrey, Drew, Cassian, Sora, Corvus, Ren, Caelia)  
 > **Chapter Header Architecture:** Intercalated Epigraphs alternating between **Archival Quotes & Artifacts** (Odd Chapters) and **The Glass Vault Lexicon / Dictionary Entries** (Even Chapters)  
 > **Core Romance Arc:** Biological Resentment $\rightarrow$ Sensory Addiction $\rightarrow$ Primal Survival Consummation $\rightarrow$ Sovereign Devotion (*Fourth Wing* Level Heat: 🌶️🌶️🌶️🌶️ Open Door, Multi-Sensory, Explicit)  
 > **Settings:** The south gate and the photovoltaic graveyard, Redoubt Station 14 on the south edge of the ring, one freight yard past the Dead Perimeter, the south sumps, and The Glass Vault. Distances are in `canon/world/geography.md`.

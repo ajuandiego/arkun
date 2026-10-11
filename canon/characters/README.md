@@ -4,11 +4,11 @@ One file per person. Open the point-of-view file before a chapter, and a second 
 
 * `tsunari.md`
 * `vram.md`
-* `cassian.md`, `veda.md`, `rook.md`, `toby.md`: Aeros-Legion 7. The soldiers under Vram are a family bound by the leash. When he defects, their loyalties split. The unit is `../world/factions/legion.md`.
+* `cassian.md`, `veda.md`, `rook.md`, `toby.md`, `amari.md`: Aeros-Legion 7. The soldiers under Vram are a family bound by the leash. When he defects, their loyalties split. The unit is `../world/factions/legion.md`.
 * `mercer.md`
 * `ren.md`
 * `drew.md`: baseline mechanic. Grew up with Tsunari at Mercer's. No graft.
-* `tj.md`: the desk. Baseline. Never leaves his bunker under Sector 09.
+* `tj.md`: the desk. Baseline, 14. Never leaves his bunker under Sector 09.
 * `boran.md`
 * `chen.md`
 * `kira.md`

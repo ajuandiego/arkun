@@ -10,6 +10,7 @@
 *   **The Contrast & Thematic Mirror:**
     *   Sora represents the tragic reality of life inside the Gilded Dome: privileged, sheltered, wearing pristine white linen, drinking uncontaminated water, yet living in a velvet cage, utterly blind to the impending alien harvest.
     *   She genuinely believes Apex Bio is working day and night to synthesize an atmospheric cure to save the planet.
+    *   The chapter after the telemetry audit is one of her workdays: the jasmine quad, the tram, Culture Lab 4, a harsh queue under real dome light. She flags Vram's spike because it is her job. She still thinks her sister died of the Choke.
 *   **Foreshadowing & Plot Drops in Book 1:**
     *   *Chapter 1:* Tsunari spots Sora's name and personnel ID (*Thorne, Sora: Bio-Lab 4*) on an active employee roster while hacking the courier terminal, delivering an electrifying shock: her little sister is alive and serving their mortal enemies.
     *   *Chapter 8:* Vram receives a corporate audit dispatch bearing the sub-signature of "Tech-Specialist S. Thorne," revealing that Sora is unknowingly processing the data algorithms tracking her own sister across the wasteland.

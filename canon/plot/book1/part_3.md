@@ -2,6 +2,12 @@
 
 ### PART III: THE FERAL CRUCIBLE & THE SUMP PROPHET (Chapters 23–34)
 
+*   **Chapter // Ren** (comes just before Chapter 23)
+    *   *POV:* Ren, first person, present. His file is `canon/characters/ren.md`.
+    *   *Why he goes again:* The first time, Drew turned the cart around because Tsune said so. Ren spent the night hearing the cut link. T.J. still has the bearing and still will not leave the bunker. Ren tells Drew he is going with or without the cart. She takes the cart.
+    *   *The road the second time:* He counts the crawler the way he counted it on the night of the tap, because counting is what he can do while his chest rattles. The lee thins. The mirrors are behind them. The dead band is a mile of air he should not be breathing, and he breathes it anyway. Drew makes him take the cartridge. He hates that she is right.
+    *   *The lip:* They reach the freight yard as the dogs go quiet. He wants to climb down. Tsune puts a page in Drew's hand and sends them back. He goes, because she is looking at him the way she looks at a window that is about to close, and he will not be the reason it closes. He does not see the drain under the yard. He does not see the man past the containers.
+
 *   **Chapter 23 // Tsunari**
     *   *Epigraph (Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal — Excavation Layer IV, Year 29 AS):*  
         > *"The Raptor does not roar. It measures. It counts the footfall, the heartbeat, the breath between panic and surrender. If you flee, you are prey. If you stand, you are the problem it has to solve."*
@@ -47,6 +53,12 @@
 *   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts. The Directorate does not lower the gain. The carrier sits at the top of what the mesh can carry. The burn takes him. No second strain touches him. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, that ceiling is fatal.
 
 ***
+
+*   **Chapter // Caelia** (follows the Fatal Siphon and comes before Chapter 29)
+    *   *POV:* Caelia, first person, present. Her file is `canon/characters/caelia.md`. The name is Caelia.
+    *   *The room:* A cistern ceremony the night before she takes the aqueduct. Brands, the Forger's flat voice, Malakar watching who drinks. The cup is not the Crucible Mutagen. The mutagen is the body. The cup is a thin rift distillate, and the doctrine for it is in `canon/world/factions/enlightened.md`.
+    *   *What the cup does:* The cistern tilts. Light moves. A voice seems to speak to the drinker alone. Caelia sees a winged fire and a place at his right hand, and she wakes certain the vision was hers. The Forger is the one who says what it meant. That reading is the hold: affection, prophecy, and the threat of the furnace if she fails the part she was given.
+    *   *What she believes:* She is the promised bride. The cool woman on the road is the thing that puts the light out. She is not faking the jealousy or the faith. The chapter ends with her already walking toward the water where she will take them.
 
 *   **Chapter 29 // Tsunari**
     *   *Epigraph (The Book of the Crucible — Liturgical Canticle of The Enlightened, Chapter III):*  

@@ -28,6 +28,7 @@ Where traditional religions offer quiet spiritual endurance, **The Enlightened**
     *   *The Brands of Tempering:* Severe ritual scarification; converts are branded with red-hot scrap iron across their forearms and napes to prove loyalty and desensitize nerve endings to physical pain.
     *   *Control of the Sump Guilds:* The Enlightened control the lowest subterranean drainage conduits and industrial water reclamation sumps beneath Sector 09, levying heavy tithes of food, scrap, and medicine in exchange for "consecrated" scrubbed water.
     *   *The Weaponization of Despair:* The cult preys on parents whose children were stolen in corporate tithe sweeps, convincing them that their agonizing grief is sacred fuel to burn the world.
+    *   *The cup:* A thin distillate of the rift vapor, drunk at ceremony. It is not the Crucible Mutagen. The mutagen changes the body. The cup tips the room, moves the light, and makes a voice seem to speak to one drinker. They wake calling it a personal vision. The Forger keeps the reading. The interpretation is the leash.
 *   **The Leader: "The Forger":**
     *   An emotionless, enigmatic woman who never raises her voice, speaking in a flat, hypnotic monotone.
     *   Wears floor-length industrial robes woven from silica fibers, stained with machine oil and soot, her arms patterned with pale keloid brand scars.

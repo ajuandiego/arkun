@@ -30,7 +30,7 @@ Romantasy requires the external action plot and the internal romantic progressio
 
 ### External Sci-Fi Plot (A-Track)
 *   **The Interrogation & The Secret:** Vram brings her to Redoubt Station 14, the south watchpost on the ring's edge, a few miles past the graveyard, rather than into the city or the detention block. He demands she explain what her biology did to his neural lattice. The distances are in `canon/world/geography.md`.
-*   **The Shared Threat:** Director Corvus and Archon Xaevis notice Vram's telemetry glitching. The Spire stays on the ship. The Directorate sends a retrieval detail: one Wolf and two Rhinos.
+*   **The Shared Threat:** Director Corvus and Archon Xaevis notice Vram's telemetry glitching. The Spire stays on the ship. The Directorate sends a retrieval detail: one Wolf and two Rhinos. One of the Rhinos is a woman.
 *   **The Severing / High Treason:** The Wolf tracks Tsunari into the ducts. The Rhinos take the door. The fight is class against class: his wing, heat, hands, and eye; her legs, hooks, and knife; their nose, jaw, horn, hide, and charge. No black veins, no wing dump, no phase-stutter. He puts the detail down, straps her to his chest, and leaves the pad on the wing. The dump wakes later, in the Sector 09 duel.
 
 ### Internal Romance Arc (B-Track)

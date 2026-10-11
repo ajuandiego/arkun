@@ -49,7 +49,7 @@ Reference these paths when generating or editing. Do not invent `/outline/`, `/l
 * `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
-* `canon/plot/`: trilogy shape, the dual track, and the three book breakdowns. Book 1 is `canon/plot/book1/`, four part files, 44 chapters, five interludes.
+* `canon/plot/`: trilogy shape, the dual track, and the three book breakdowns. Book 1 is `canon/plot/book1/`, four part files, 44 numbered chapters of Tsunari and Vram, eight chapters in other voices, five interludes.
 * `canon/style/`: voice, sensory palette, format, and the glossary.
 * `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
 * `assets/media/`: reference images (characters, strains, places). Not prose canon.

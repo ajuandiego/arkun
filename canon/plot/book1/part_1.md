@@ -22,10 +22,17 @@
         > **The High Aerie** *[noun]*: The flight roost of Aeros-Legion 7. A slim mast rises from Sector 1 to the crown. The roost sits on that mast, 3,000 feet above the Sector 09 street, and is no wider than 300 feet. No railings. No mechanical elevator. Winged descent only.
     *   *Setting:* The launch ledge of The High Aerie, on the center mast, 3,000 feet above Sector 09.
     *   *Core Action:* Vram suffers a blinding Synapse Lattice migraine from the siphon at his nape. Receiving the red-priority data-breach alert, he steps to the precipice and launches on his own 14-foot feathered wings, riding freezing high-altitude thermals into a vertical dive to hunt the infiltrator.
-    *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); and gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty.
+    *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty; and **Specialist Amari (Swift)**, a blonde Hawk on the same ledge, who gives him the wind on the south face and does not soften it. Her file is `canon/characters/amari.md`.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
         *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent **Karyon Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
+
+*   **Chapter // The Offer** (follows Chapter 2. A chapter, not an interlude. The numbered Tsunari and Vram chapters keep their numbers.)
+    *   *POV:* A Karyon ambassador, first person, present. Before the domes exist. The year is the end of the old sky.
+    *   *Setting:* A board table in a city that still has streets. The humans breathe the room. He does not. He sits inside a sealed sleeve of his own blend, and the glass of it fogs when he speaks. No strain. No plate. No weapon on the table. The mind is the tool, as in `canon/world/factions/karyon.md`.
+    *   *What he sells:* Oxygen that stays oxygen. Shelter from a sky that is already turning. An end to the shooting. Longevity for the ministers who sign. He is patient, and he lets them feel clever for asking the price.
+    *   *What the reader hears and he does not say:* The open country is the thing being spent. The permission under the signature is the soldier program, not the air. The relief he is offering is a pressure his own machines are going to make worse. He enjoys the shape of the omission. He does not name the clock, the five facets, or the Cradle. The foul play is the sentence he leaves out.
+    *   *What he thinks of them:* Tired, proud, and already bargaining for which of their cities gets the first glass. He does not hate them. He does not need to.
 
 *   **Chapter 3 // Tsunari**
     *   *Epigraph (Fragment from an Uncatalogued Scythian Steppe Papyrus — ca. 480 BCE, Bio-Curator Archive Plate 12):*  
@@ -59,6 +66,13 @@
     *   *The Sensation & Forbidden Lust:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees. But as his hands pin her wrists in the sand, he feels the lithe, muscular curve of her waist between his thighs and the wild sage on her throat. An involuntary, primal surge of arousal shocks his discipline. *Focus, soldier. She's an illegal insurgent with blood on her boots, not a woman in your quarters.*
     *   *Psychological Beat:* The mesh goes quiet under her hand and she has no name for that. The cool of her skin is the body her father named. The silence is not. A sentence he made her repeat comes up and does not finish it. She is as frightened as he is. Vram is humiliated and terrified that an un-collared woman in the dust just shut his leash off.
 
+*   **Chapter // Jeffrey** (follows Chapter 6)
+    *   *POV:* Dr. Jeffrey Thorne, first person, present. Nine years earlier. His file is `canon/characters/jeffrey.md`. She is seventeen. Sora is ten.
+    *   *The room:* The lab under the workshop, the night the raid is already in the street. Five dishes on the bench. He counts them. He names one. Tsunari is coughing the haze into her sleeve. Sora is asleep behind the inner door, and he will not open that door for this.
+    *   *The fight:* A dish can be taken. A page can be read. The illness will not wait for a willing stranger. He can tell himself the culture is the mercy that keeps his daughter breathing. He also knows he is using her as the only place the rest of the finding can live. He does the work hating the reason, and he does not stop. What he hides has no name on this page. The reader does not learn the nature of the change.
+    *   *What he gives her:* The Raptor, because she will have to live in the body and hide it. The culture, because that one he can call medicine. The bench sentence, until she can say it cold. Mercer will finish the education. Mercer will not get the notes.
+    *   *What he is afraid of:* If the work fails, he has made a patient of his child for a blank result. If it holds, the people coming up the stair will not kill her. They will keep her. He leaves in the crawler to pull the strike team after him. The chapter ends on that choice. It does not show the far shore.
+
 *   **Chapter 7 // Tsunari**
     *   *Epigraph (Intake Registry, Gray Ring Child Orphanage Ward C — Year 26 AS):*  
         > *"Record expunged. Subject 07-V: Male, age seven. High fast-twitch density; superior ocular tracking. Family unknown. Cause of transfer: Consort Military Draft Mandate 12. No personal belongings permitted."*
@@ -81,12 +95,24 @@
     *   *Drew on the shortwave:* T.J. stayed down and called the bearing. The prowler turned south. Drew and Ren followed that road. Drew's voice comes up on the relay, Ren behind her. Tsunari tells them to turn around, says nothing about the man in the room, and pulls the relay. Vram hears the name Drew. He does not get the clinic, and he does not get the bunker.
     *   *Sensory & Forbidden Attraction:* When Vram unbuckles his flight harness to treat his wing roots, exposing his broad bronze back, sculpted spinal muscles, and the carved ridges of his torso, Tsunari forces her eyes to the floor, her throat parched. *Don't look. Don't acknowledge that he's built like an ancient war god. He's holding you prisoner.*
 
+*   **Chapter // Drew** (follows Chapter 9)
+    *   *POV:* Drew, first person, present. Her file is `canon/characters/drew.md`.
+    *   *The road:* She leaves the clinic with a kit and a shortwave, and T.J. is in her ear the whole way. He is 14. He has the bearing and the silt, and he will not come up, and she stops asking him to. Ren is beside her because he would not stay in the hole. The south road is the lee thinning, then the mirrors, then a watchpost she can see and cannot enter.
+    *   *The turn:* Tsune's voice comes up and tells them to go home. Drew hears a second person in the room and does not get a name. She turns the cart around because Tsune asked, and she hates the mile she is walking back. She does not tell Mercer where the road ended. She tells him they lost the signal at the mirrors.
+    *   *What she is counting:* The slate, the leads, the Bodkin tang she keeps working even when the woman who uses them is not in the shop. She knows the bare nape. She does not say it on an open relay.
+
 *   **Chapter 10 // Vram**
     *   *Lexicon Entry (Lattice Burn / Neuro-Decay):*  
         > **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Karyon Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
     *   *Setting:* The tactical command desk of Redoubt Station 14.
     *   *Core Action:* Isolation interrogation. Vram measures his biometrics: standing six feet away from Tsunari causes his fever to spike past 108°F with violent lattice tremors; touching her skin immediately stabilizes his pulse.
     *   *Climax of Part I:* Director Elena Corvus radios an encrypted order demanding the captive’s immediate execution. Vram lies to his corporate master for the first time in his life, claiming the prisoner died during the sandstorm.
+
+*   **Chapter // Cassian** (follows Chapter 10)
+    *   *POV:* Cassian, first person, present. His file is `canon/characters/cassian.md`.
+    *   *What he is told:* The runner died in the sand. The commander is holding the south post until the weather clears. Nobody in the room knows the report is a lie, including him.
+    *   *The room:* Corvus wants the body, or a confirmation that does not wobble. Cassian gives her the clean version and hears himself doing it. Amari is on the ledge when he comes back up. She says the south wind did not read like a death. Rook makes the joke that keeps the mess from going quiet. Toby asks if Vram's neck was bad before the launch, and Cassian says it was the usual burn.
+    *   *What he thinks Vram is doing:* Burning through a hunt that went strange, then sitting on a post because the lattice is loud and the commander does not trust a city desk with a corpse he cannot show. Cassian is afraid of the siphon and he is loyal to the wing. He files the unease under weather. He does not desert in this chapter. He does not learn what the hand can do.
 
 ***
 

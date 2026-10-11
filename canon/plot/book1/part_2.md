@@ -25,11 +25,17 @@
     *   *Core Action:* Vram detects an unannounced corporate approach on tactical radar and hides Tsunari inside the bunker's ventilation shafts. While crawling through the duct, Tsunari taps into the bunker's data relay and sees the telemetry audit bearing her sister's digital signature: *Analyst: Tech-Specialist S. Thorne*.
     *   *Personal Stake:* Tsunari realizes Sora is the junior tech analyzing Vram's neural anomalies from inside the dome, unknowingly drawing the corporate net around her own sister.
 
+*   **Chapter // Sora** (follows Chapter 13)
+    *   *POV:* Sora, first person, present. Her file is `canon/characters/sora.md`.
+    *   *The day:* She leaves a residential quad that smells like jasmine, rides a bright tram through Sector 2, and badges into Culture Lab 4 before the shift bell. White coat. Real water in the canteen. The light inside the shield is the color the holos promise. The work is a twelve-hour queue, a supervisor who counts minutes, and hands that crack from the wash between benches.
+    *   *What she believes:* The aerosol trial on her bench is mercy for the people outside the glass. She files Commander Vram's telemetry because it is the next packet, and she flags the spike because that is the job. She was told her sister died of the Choke years ago. This chapter does not correct her.
+    *   *The tone:* The dome is vivid and the job is harsh. She is tired and she is not standing on a ledge. The sterile-room interlude is a different person and stays where it is.
+
 *   **Chapter 14 // Vram**
     *   *Lexicon Entry (Directorate Retrieval):*  
-        > **Directorate Retrieval** *[security]*: When the Spire wants a body and will not walk in to take it, the Directorate sends a collared detail. At Redoubt Station 14 the detail is one Wolf and two Rhinos, Aethelgard cohorts under a government order. The Wolf finds. The Rhinos are the door. Class bodies only. The rule for the species that stayed on the ship is in `canon/world/factions/karyon.md`.
+        > **Directorate Retrieval** *[security]*: When the Spire wants a body and will not walk in to take it, the Directorate sends a collared detail. At Redoubt Station 14 the detail is one Wolf and two Rhinos, Aethelgard cohorts under a government order. One of the two Rhinos is a woman. The Wolf finds. The Rhinos are the door. Class bodies only. The rule for the species that stayed on the ship is in `canon/world/factions/karyon.md`.
     *   *Setting:* The landing pad of Redoubt Station 14, on the south edge of the ring. A harvester hangs on the horizon and does not land. What lands is a government prowler.
-    *   *Core Action:* One Wolf and two Rhinos step onto the concrete in Directorate kit, sockets fitted, no black veins. They want the telemetry audit and a search of the post. The Wolf smells a second body in the ducts and says so. Vram meets them with the wing, the heat, the hands, and the eye. He is still trying to talk the inspection through.
+    *   *Core Action:* One Wolf and two Rhinos step onto the concrete in Directorate kit, sockets fitted, no black veins. One of the Rhinos is a woman. She is the one who will charge the vault. The other wedges the grate. They want the telemetry audit and a search of the post. The Wolf smells a second body in the ducts and says so. Vram meets them with the wing, the heat, the hands, and the eye. He is still trying to talk the inspection through.
     *   *Stakes:* Separated from Tsunari, the leash climbs while he stands in front of soldiers who can actually take a room.
 
 *   **Chapter 15 // Tsunari**
@@ -43,8 +49,14 @@
     *   *Lexicon Entry (Desertion under the Accord):*  
         > **Desertion** *[statute]*: A collared soldier who draws blood on a Directorate retrieval detail is marked deserted the same hour. The gain on the cohort he left can be raised before the prowler is cold. The kill stays Xaevis's. The lattice is in `canon/world/life/leash.md`.
     *   *Setting:* The lower mechanical vault.
-    *   *Core Action:* He hears her in the shaft and drops through the ceiling on the wing. The second Rhino charges. Vram leaves the floor, takes the man with his hands, and puts the heat of the grip and the vane into the opening the plate does not cover. No black veins. No wing dump. He does not know that door yet. Between her legs in the duct and his wing in the vertical, the detail goes down.
+    *   *Core Action:* He hears her in the shaft and drops through the ceiling on the wing. The Rhino who charges is the woman. Vram leaves the floor, takes her with his hands, and puts the heat of the grip and the vane into the opening the plate does not cover. The horn and the hide are the class. The eyes and the unplated chest are the opening. No black veins. No wing dump. He does not know that door yet. Between Tsunari in the duct and his wing in the vertical, the detail goes down.
     *   *The Turning Point:* High treason. The soldiers on the floor wore his government's kit. The life that gave him the wing is over.
+
+*   **Chapter // Corvus** (follows Chapter 16)
+    *   *POV:* Director Elena Corvus, first person, present. Her file is `canon/characters/corvus.md`.
+    *   *The call:* A Karyon voice, not a body in the room, tells her the return on one of her soldiers dropped and came back, and the woman beside him is the anomaly. Priority zero. Capture her alive. They need to understand what happened. They do not give Corvus a finished diagnosis, and she does not get the five facets or the name of the key.
+    *   *What she does with it:* She wants the weapon she built, and she wants the woman who made him disobey. Alive, because a corpse cannot be read, and because losing him to the sand was a story she already disliked. She will spend the cohort to get both.
+    *   *The person in the room:* The Chrysalis keeps her face at thirty. She is eighty, and she knows the hour the last treatment bought. Under the order she is tired, vain, and angry that the Spire speaks to her as staff in her own lab. None of that makes her kind. It makes the order hers.
 
 ***
 
