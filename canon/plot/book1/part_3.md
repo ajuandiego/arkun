@@ -7,7 +7,7 @@
         > *"The Raptor does not roar. It measures. It counts the footfall, the heartbeat, the breath between panic and surrender. If you flee, you are prey. If you stand, you are the problem it has to solve."*
     *   *Setting:* The freight yard on the lakebed, the ruin they fell into. Containers, Kira's basement, and the rail door are one site.
     *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander into a rusted shipping container as a pack of feral dogs goes quiet across the yard.
-    *   *Drew and Ren:* They did not stay turned around. The south road is a few miles. They reach the yard lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`.
+    *   *Drew and Ren:* They did not stay turned around. T.J. called the bearing from the bunker and stayed there. The south road is a few miles. They reach the yard lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`. T.J. is in `canon/characters/tj.md`.
 
 *   **Chapter 24 // Tsunari**
     *   *Lexicon Entry (Raptor, Dromaeo-X Chrome):*

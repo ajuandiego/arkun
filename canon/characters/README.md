@@ -8,6 +8,7 @@ One file per person. Open the point-of-view file before a chapter, and a second 
 * `mercer.md`
 * `ren.md`
 * `drew.md`: baseline mechanic. Grew up with Tsunari at Mercer's. No graft.
+* `tj.md`: the desk. Baseline. Never leaves his bunker under Sector 09.
 * `boran.md`
 * `chen.md`
 * `kira.md`
