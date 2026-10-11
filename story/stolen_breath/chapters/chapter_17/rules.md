@@ -9,4 +9,12 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 - Do not finish the aerosol cure, the Spire rescue, Jeffrey's survival as a finished reveal, or the road to the Verdant Cradle.
 - A later ring does not belong in an earlier part. The rings are at the top of `../../breakdown.md`.
 
+## This pass
+
+Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
+
+- She reads the audit on the slate. The signature is the blow. She does not explain Sora's faith back to the shaft.
+- The crawl is her body in a narrow space. No lesson that sets a Raptor against a baseline human, and the old class name stays off the page.
+- A span for the squad overhead, once, if the lights need it. His own span is already known.
+
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

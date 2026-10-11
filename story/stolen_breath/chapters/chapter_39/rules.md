@@ -13,4 +13,12 @@ From this beat:
 
 - Vram spits back: *"She is not my bride, and I am no one's god."*
 
+## This pass
+
+Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
+
+- The refusal is the sentence he spits back. She is not his bride, and he is no one's god.
+- Pneumatic belongs to Malakar's weapon, once. The cistern does not wear the word.
+- If the Forger's chest is bare, it is once. No wingspan.
+
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

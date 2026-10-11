@@ -14,4 +14,12 @@ From this beat:
 - Core Theme:** The gain at the top of what a mesh can carry, and what that does to a legionnaire who has no Mosaic Keystone.
 - Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts. The Directorate does not lower the gain. The carrier sits at the top of what the mesh can carry. The burn takes him. No second strain touches him. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, that ceiling is fatal.
 
+## This pass
+
+Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
+
+- The gain stays up and the leash kills him. No second strain touches him, and no venom.
+- Toby and the squad are not in the room. They do not learn he is dead.
+- His wings can be seen once. The death is not an anatomy chapter.
+
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

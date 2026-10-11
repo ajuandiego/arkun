@@ -13,4 +13,13 @@ From this beat:
 
 - The mesh goes quiet under her hand and she has no name for that. The cool of her skin is the body her father named. The silence is not. A sentence he made her repeat comes up and does not finish it. She is as frightened as he is. Vram is humiliated and terrified that an un-collared woman in the dust just shut his leash off.
 
+## This pass
+
+Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
+
+- The mesh goes quiet. Neither of them has a name for it. Keystone stays off the page.
+- The cool of her skin is the Raptor body her father named. The silence is a separate fact.
+- His hands can lock once. The phrase white knuckles does not get a second sentence.
+- No height, no weight, no wingspan.
+
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

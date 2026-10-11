@@ -15,4 +15,11 @@ From this beat:
 - The open country is the thing being spent. The permission under the signature is the soldier program, not the air. The relief he is offering is a pressure his own machines are going to make worse. He enjoys the shape of the omission. He does not name the clock, the five facets, or the Cradle. The foul play is the sentence he leaves out.
 - Tired, proud, and already bargaining for which of their cities gets the first glass. He does not hate them. He does not need to.
 
+## This pass
+
+Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
+
+- He sells air, a roof, and an end to the shooting. The clock, the five facets, the Cradle, and the soldier program stay out of his mouth.
+- No strain, no plate, no weapon on the table. The sentence he skips is the chapter.
+
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.
