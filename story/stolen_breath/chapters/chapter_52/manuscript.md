@@ -1,6 +1,6 @@
 # Chapter 52 // Dual POV
 
-> **Mare Stygium (The Stygian Oceans)** *[geography]*: The boiling, ionized seas created during the Great Cleave of Year 0 AS. Wracked by perpetual electromagnetic squalls, hyper-saline currents, and caustic storms, they have remained completely impassable to human navigation for forty years.
+> **The salt flats.** West of the ring. The cult's road. People taken that way do not walk home.
 
 ***
 

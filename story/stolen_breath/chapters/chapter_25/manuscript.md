@@ -1,7 +1,6 @@
 # Chapter 25 // Tsunari
 
-> *"The red dust gets everywhere, Lena. Into the seals, into your teeth, into your lungs. When the sun goes down, the cold bites harder than the dogs. If you ever leave the dome, don't look up. The sky out here isn't empty—it's waiting."*  
-> — Unsent letter found in the pocket of a downed scout uniform (Rust Barrens Perimeter, Sector 09 South)
+> *The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up. The sky out here is waiting.*
 
 ***
 

@@ -1,6 +1,6 @@
 # Chapter 10 // Vram
 
-> **Liter-Hour** *[noun, currency]*: The universal survival currency of the Gray Sectors. Represents one hour of certified breathable air filtered through a mechanical scrubber cartridge. Issued as brass tithe-tokens by corporate monopolies.
+> **Redoubt Station 14.** A concrete watchpost on the south edge of the ring. Shortwave only. The city cannot hear what happens inside.
 
 ***
 

@@ -1,9 +1,5 @@
 # Chapter 31 // Tsunari
 
-> **Mutation D (Dromaeon Strain)** *[archeo-genetics]*: Terrestrial cursorial predator biotype. Characterized by stronger legs, sub-vocal acoustic echolocation, clear eye membranes, and cold-blood thermal dampening.
-
-***
-
 The wild Dromaeon does not roar. 
 
 It crouches. 

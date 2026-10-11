@@ -1,7 +1,6 @@
 # Chapter 17 // Tsunari
 
-> *"From: Tech-Specialist S. Thorne | To: Directorate Oversight | Subject: Neural Telemetry Audit AE-701. Commander Vram’s cervical siphon shows severe bio-frequency spikes. Suggest immediate field recall before the subject suffers permanent synaptic blowout."*  
-> — Consortium Internal Dispatch (Security Clearance Beta, Archive Relay 09)
+> **Culture Lab 4.** The clean rooms inside the dome where the company does its living work. The people at those benches are told the work is a kindness.
 
 ***
 

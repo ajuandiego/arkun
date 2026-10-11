@@ -1,7 +1,6 @@
 # Chapter 11 // Tsunari
 
-> *"To grant a weapon empathy is to prime its self-destruct. The moment an Aeros Commander values a single human life above the mission parameters, decommission the cohort immediately."*  
-> — Executive Memorandum, Apex GeneSys Directorate (Classification: Obsidian-Zero)
+> **Shortwave.** A voice that can cross a few miles of bad air and cannot reach the dome. Anyone with a set can hear it.
 
 ***
 

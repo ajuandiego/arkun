@@ -1,6 +1,6 @@
 # Chapter 42 // Vram
 
-> **The Ember Coven** *[faction]*: The seven elite praetorian enforcers of The Forger, comprised of the only living survivors of the Crucible Mutagen. Bound by ritual brandings that cauterize peripheral pain receptors.
+> **The dose.** What they drink at the altar only tips the mind. What they put in a vein in the back room is what makes an Ember. Few live through it.
 
 ***
 

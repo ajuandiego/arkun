@@ -1,9 +1,5 @@
 # Chapter 33 // Tsunari
 
-> **The Night Freeze** *[meteorology]*: Post-collapse atmospheric phenomena wherein surface temperatures plummet from 115°F during the day to -10°F at night due to the absence of upper atmospheric ozone and cloud insulation.
-
-***
-
 The floor of the crawler drops thirty feet beneath the salt flats before the hydraulic shudder ceases.
 
 Kira cuts the engine. The heavy turbine rumble dies with a low wheeze, replaced instantly by the hollow, ringing silence of the subterranean sub-station. Outside our armored hull, the desert wind screams across the surface intake vents like a dying animal, but down here in the maintenance basement, the world smells of petrified motor grease, stagnant limestone water, and cold iron.

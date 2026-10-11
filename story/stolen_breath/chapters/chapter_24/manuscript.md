@@ -1,6 +1,6 @@
 # Chapter 24 // Vram
 
-> **Vector-Blink** *[tactical]*: A supersonic aerial kinetic maneuver executed by Gryphon-strain pilots, utilizing hollow titanium bones and reflex slipstream tucks to alter velocity by 180 degrees without mechanical inertia.
+> *You do not fire on your own wing.*
 
 ***
 

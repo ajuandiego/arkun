@@ -1,7 +1,6 @@
 # The Quota Calculation // Interlude
 
-> *"A massacre with bayonets is messy and leaves blood on the cobbles. A massacre with decimal points is called administrative efficiency, and the clerks receive quarterly bonuses."*  
-> — Underground pamphlet, The Sump Union (Circa Year 38 AS)
+> *A killing with a bayonet stains the street. A killing with a decimal point is called a balance, and the man who signs it goes home to his daughter.*
 
 ***
 

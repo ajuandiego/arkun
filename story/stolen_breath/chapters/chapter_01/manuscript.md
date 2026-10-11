@@ -1,7 +1,6 @@
 # Chapter 1 // Tsunari
 
-> *Audio Entry 114. Personal Log — Sora Thorne, Junior Synthetics Tech, Eden Dome Alpha.*  
-> *"They transferred me to Culture Lab 4 today! The air in the residential quad smells like sweet jasmine and honeysuckle this morning. Director Corvus promised our new aerosol trial will help the people outside breathe clean again. I wish Father and Tsune were here to see this. I know they're looking down from somewhere clean."*
+> **The south-gate crawler.** When it sits at the wall, it pours a Spire packet into the city pipe. The pipe is only full while the crawler sits.
 
 ***
 

@@ -1,6 +1,6 @@
 # Chapter 40 // Tsunari
 
-> **Crucible Mutagen** *[catalytic agent]*: An unstable biological mutagen synthesized by The Forger from subterranean Vaelen seeding fissures. Grants tripled physical strength, anaerobic stamina, and tactical hyper-cognition at the cost of permanent fever and mental compliance.
+> **A rail-flail.** Iron on a spring, built to break a body that can fly. It needs room. A falling gate does not give it room.
 
 ***
 

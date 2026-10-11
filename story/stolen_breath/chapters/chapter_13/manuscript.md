@@ -1,6 +1,6 @@
 # Chapter 13 // Vram
 
-> **Lattice Burn** *[pathology]*: The progressive, fatal inflammatory breakdown of human brain tissue caused by long-term rejection of the Vaelen Synapse Lattice. Symptoms include fever exceeding 106°F, motor tremors, violent migraines, and eventual cerebral blowout by age 32.
+> *The moment a commander values one life over the order, retire him. Retire the wing with him.*
 
 ***
 

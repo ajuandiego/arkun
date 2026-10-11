@@ -1,10 +1,5 @@
 # The Sterile Room // Interlude
 
-> *"We built paradise out of three-inch polycarbonate and called ourselves gods. But gods have souls, and all we have are scrubbed air ducts and empty rooms."*  
-> — Dr. Alistair Vance, Personal Log (De-indexed, Tier 01 Archive)
-
-***
-
 The chime of the private pneumatic lift was a soft, electronic whisper—three ascending harmonic tones engineered by cognitive acoustic consultants to soothe the nervous systems of Tier 01 residents.
 
 Dr. Alistair Vance stepped out onto the polished white Carrara marble of his penthouse foyer. 

@@ -1,7 +1,6 @@
 # Chapter 39 // Vram
 
-> *"Iron that fears the hammer remains slag. Flesh that fears the fire remains mortal. Bow your neck to the anvil, or be swept into the slag-heap of the unmade."*  
-> — Etched with an iron chisel into the granite altar of the Grand Cistern
+> *Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal. Bow your neck to the anvil, or be swept out with the waste.*
 
 ***
 

@@ -1,6 +1,6 @@
 # Chapter 28 // Vram
 
-> **The Rust Barrens** *[geography]*: The vast, uninhabitable desert spanning hundreds of miles between dome cities. Characterized by oxidized red iron dust, dried toxic lakebeds, and sub-zero night temperatures that drop 70 degrees in minutes.
+> **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
 
 ***
 

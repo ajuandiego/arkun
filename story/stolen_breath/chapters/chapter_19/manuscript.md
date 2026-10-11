@@ -1,6 +1,6 @@
 # Chapter 19 // Vram
 
-> **Vaelen Harvester Barge** *[extraterrestrial]*: A massive, soundless anti-gravity atmospheric vessel constructed of black bio-crystalline obsidian. Operates without exhaust or moving parts, continuously siphoning nitrogen-ammonia currents for planetary terraforming.
+> **A retrieval.** Collared soldiers, sent when the Spire wants a body and will not come down to take it. This one is a Wolf and two Rhinos. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
 
 ***
 

@@ -1,6 +1,6 @@
 # Chapter 48 // Vram
 
-> **Arkun** *[phenomenon]*: The unique meta-ability unlocked when an augmented soldier's genetic strain fuses with their core psychological truth. Represents human individuality violently shattering alien genetic conditioning: $\text{Strain Chart} + \text{True Character} = \text{Arkun}$.
+> **Two doors.** The dome is coming down the sluices. The cult is coming up from the sump. The Vault is the room between.
 
 ***
 

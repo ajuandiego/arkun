@@ -1,6 +1,6 @@
 # Chapter 5 // Vram
 
-> **The Siphon** *[bio-mech]*: Dual knurled titanium sockets surgically drilled into the cervical and thoracic vertebrae of state-drafted soldiers. Feeds real-time flight telemetry while enforcing compliance through micro-frequency sensory dampeners linked to the **Silver Spine**—an alien cyber-neural lattice that induces paralyzing pain upon insubordination.
+> *Recover the runner. The file is worth more than the body.*
 
 ***
 

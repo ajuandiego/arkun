@@ -1,7 +1,6 @@
 # Chapter 34 // Vram
 
-> *"Line 9 Sub-Solum remains operational for military cargo only. All passenger access suspended. If surface conditions deteriorate past Stage 5, the blast doors will seal automatically from the central hub. God help whoever is caught between stations."*  
-> — Navigation Slate, Pre-Collapse Trans-Continental Rail Authority (Dated October 2031, one month Before Storm)
+> **Off the mesh.** The leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
 
 ***
 

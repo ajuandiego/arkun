@@ -1,10 +1,9 @@
 # Chapter 23 // Tsunari
 
-> *"Feather to feather, bone to bone  
-> None of the Aerie falls alone.  
-> Break the wind and ride the squall  
-> If one must dive, we catch the fall."*  
-> — Aeros-Legion Cadence (Chanted during high-altitude tether drills, unrecorded in official manuals)
+> *Feather to feather, bone to bone*
+> *None of the Aerie falls alone.*
+> *Break the wind and ride the squall*
+> *If one must dive, we catch the fall.*
 
 ***
 

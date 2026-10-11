@@ -1,7 +1,6 @@
 # Chapter 45 // Tsunari
 
-> *"Five were the beasts that walked the first garden: the talon of the wind, the scale of the deep rock, the feather of the sun, the jaw of the pack, and the blade of the shadow. And in the center stood the keystone, in whose blood the five became peace."*  
-> — Archeological Codex Plate 89 (Excavated from Persepolis Deep Stratum, deciphered by Dr. Jeffrey Thorne)
+> *Five dishes on the bench. He counted them. He named one.*
 
 ***
 

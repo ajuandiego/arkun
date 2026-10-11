@@ -1,7 +1,6 @@
 # The Fatal Siphon // Interlude
 
-> *"When a commander breaks formation, the carrier frequency does not sleep. It drills into the temporal lobe until you either execute your orders or bleed out through your eyes."*  
-> — Directorate Tactical Protocol, Section 9 (Decimation Directives)
+> **The gain.** How hard they drive the leash. When a commander leaves, they can turn it up on the wing he left, and they do not have to turn it down.
 
 ***
 

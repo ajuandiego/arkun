@@ -1,6 +1,6 @@
 # Chapter 16 // Vram
 
-> **The Storm-Born** *[demographic]*: The generation born in Year 0 AS or later who possess no living memory of open blue skies or natural rain, knowing only the copper twilight of the Amber Haze and the hum of respirators. Contrasted with **The Sky-Born (Old-Worlders)**, who remember the pre-collapse biosphere.
+> *You had a name. You will answer to the number.*
 
 ***
 

@@ -1,7 +1,6 @@
 # The Gospel of the Slag // Interlude
 
-> *"The flesh is not a temple. It is the crucible. He who fears the hammer will forever remain raw ore, unfit for the master's table."*  
-> — Liturgy of the Slag, Verse IX (Fragment recovered from Sub-Level 7)
+> *The flesh is not a temple. It is the furnace. Whoever fears the hammer stays raw ore.*
 
 ***
 

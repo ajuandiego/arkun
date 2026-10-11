@@ -1,6 +1,6 @@
 # Chapter 44 // Tsunari
 
-> **Bio-Curator** *[order]*: Politically neutral scholars and geneticists dedicated to preserving uncorrupted pre-collapse human history. They record data onto **Optical Quartz Discs**—indestructible sapphire-glass discs micro-etched with lasers, readable only via manual light prisms.
+> *Thorne, Jeffrey. Listed lost. No body returned.*
 
 ***
 

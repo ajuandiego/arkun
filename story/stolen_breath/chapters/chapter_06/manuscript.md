@@ -1,7 +1,6 @@
 # Chapter 6 // Tsunari
 
-> *"They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing."*  
-> — Scrawled in grease-pencil on the bulkhead of Sector 09 Perimeter Gate 4
+> *They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing.*
 
 ***
 

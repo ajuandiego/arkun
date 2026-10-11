@@ -1,7 +1,6 @@
 # Chapter 15 // Tsunari
 
-> *"The defoliant burns slow. It eats through linen in ten seconds, leather in thirty, and flesh until it hits marrow. Water cannot save you if your clothes remain. Strip the rot, or let the grave have you whole."*  
-> — Field Warning, Dustborn Chem-Scavenger Guild (Sector 09 South)
+> **A wing root.** The place the wing grows out of the back. The socket sits above it. What she is about to see is bone, metal, and a body that was built, not born that way.
 
 ***
 

@@ -1,9 +1,5 @@
 # Chapter 46 // Vram
 
-> **Cross-Strain Xenophobia** *[pathology]*: Severe immunological rejection between conflicting chimeric lineages (e.g., Lindwurm tissue rejecting Simurgh blood, or Gryphon neural receptors rejecting Dromaeon biochemistry). The Mosaic Keystone architecture is the only known genome capable of harmonizing all five lineages without rejection or neuro-decay.
-
-***
-
 In the quiet alcove behind the Great Hall of Quartz, the air is still and cool.
 
 Gideon is locked in the cryogenic laboratory, his distillation flasks humming as the first batches of the stabilized neutralizer begin to condense into sterile glass ampoules. That leaves Tsunari and me alone among the rows of glowing crystal pillars, seated on a low wooden bench beneath an archway of polished amber glass.

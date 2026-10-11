@@ -1,6 +1,6 @@
 # Chapter 50 // Vram
 
-> **The Pyric Crucible** *[Arkun]*: Commander Vram Tyage's signature Arkun, unlocked by his core drive as *The Indomitable Hearth*. Overclocks metabolic heat into a 300°F kinetic solar aura that melts incoming ordinance, unleashes concussive shockwaves, and auto-defibrillates his cardiac rhythm from flatline.
+> **The gantry.** The crane spine above the Vault. Two men can meet on it. Only one of them needs the ground to win.
 
 ***
 

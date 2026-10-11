@@ -1,7 +1,6 @@
 # Chapter 30 // Tsunari
 
-> *"The Dromaeon does not roar. It measures. It calculates the footfall, the heartbeat, the breath between panic and surrender. Do not run from the scythe-toe. If you flee, you are prey; if you stand, you are a rival."*  
-> — Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal (Excavation Layer IV, Year 29 AS)
+> **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
 
 ***
 

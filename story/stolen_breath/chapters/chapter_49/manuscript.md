@@ -1,7 +1,6 @@
 # Chapter 49 // Tsunari
 
-> *"Purge clearance granted: Level Crimson. Deploy pneumatic breachers to the lower sluices; initiate aerosol sweep of the scrubber banks. Collateral baseline civilian loss acceptable within 85% parameters. Recover the rogue assets dead or alive."*  
-> — Emergency Dispatch, Directorate Tactical Command (Sector 09 Purge Order)
+> *Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is acceptable. Bring the runners back dead or alive.*
 
 ***
 

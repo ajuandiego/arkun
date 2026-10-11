@@ -1,6 +1,6 @@
 # Chapter 21 // Vram
 
-> **The Heresy of the First Hand** *[statute]*: Under the Eden-Vaelen Accord, harming or terminating an extraterrestrial overseer carries an automated sentence of Decimation: the instant execution of the perpetrator's entire squadron via spinal kill-switch.
+> **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
 ***
 

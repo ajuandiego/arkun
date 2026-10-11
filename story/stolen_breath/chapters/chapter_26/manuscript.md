@@ -1,6 +1,6 @@
 # Chapter 26 // Vram
 
-> **The Dead Perimeter** *[geography]*: A two-kilometer chemical dead-zone encircling the Green Domes, continuously drenched in phosphor defoliants and acidic sterilizing wash to prevent biological egress.
+> **The dead band.** A poisoned strip at the edge of the ring, hosed so nothing grows out. Past it, one ruin: the freight yard. Containers, a drain, a basement.
 
 ***
 

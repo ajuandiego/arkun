@@ -1,7 +1,6 @@
 # Chapter 27 // Tsunari
 
-> *"Water alone will not wash phosphor. You must scrape the skin with lead-paste, strip the garments, and breathe through charcoal. He who pauses out of modesty will be buried in ash."*  
-> — Field Triage Notice, Dustborn Chem-Scavenger Guild (Sector 09 South)
+> *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
 
 ***
 

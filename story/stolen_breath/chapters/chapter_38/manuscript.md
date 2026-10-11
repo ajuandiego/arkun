@@ -1,6 +1,6 @@
 # Chapter 38 // Vram
 
-> **The Sub-Solum** *[urbanology]*: The labyrinthine subterranean municipal storm aqueducts, sewers, and transit tubes beneath Sector 09. Operating outside corporate control, it houses over 400,000 baseline survivors and cult enclaves.
+> *The fire will know you. He will take your hand.*
 
 ***
 

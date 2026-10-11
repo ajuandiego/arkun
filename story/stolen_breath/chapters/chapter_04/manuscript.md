@@ -1,7 +1,6 @@
 # Chapter 4 // Tsunari
 
-> *"...the lion of the wind and the serpent of the grass knew no war in the elder days, for in the root of the first seed, their veins sang the same song. Only when the sky-men carved their tongues did they turn to tearing one another's throats."*  
-> — Fragment from an Uncatalogued Scythian Steppe Papyrus (ca. 480 BCE, Bio-Curator Archive Plate 12)
+> *If you answer on an open set, you paint the house you are protecting.*
 
 ***
 

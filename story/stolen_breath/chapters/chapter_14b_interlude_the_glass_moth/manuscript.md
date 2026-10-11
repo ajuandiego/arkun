@@ -1,10 +1,5 @@
 # The Glass Moth // Interlude
 
-> *"The sky did not fall all at once. It peeled like sunburned skin, one layer at a time, until the only blue left was in the dreams of dying grandmothers."*  
-> — Scrawled on a copper conduit, Outer Slag Sprawl
-
-***
-
 The sun over the northern salt flats did not set so much as it curdled.
 
 Through the permanent copper haze that hung twenty feet above the rusted corrugated roofs of the Outer Shallows, the twilight arrived as a bruised, jaundiced amber. It was the color of old iodine pooled in a dented tin basin.

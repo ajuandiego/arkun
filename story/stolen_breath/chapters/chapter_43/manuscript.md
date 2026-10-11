@@ -1,7 +1,6 @@
 # Chapter 43 // Vram
 
-> *"What is written in light cannot be erased by fire. What is buried in stone shall outlive the empires of glass. Enter with clean hands, for you walk among the memories of the dead."*  
-> — Inscription above the bronze portal of The Glass Vault, Sector 09
+> **A curator.** Someone who keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
 
 ***
 

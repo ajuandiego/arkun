@@ -1,7 +1,6 @@
 # Chapter 41 // Tsunari
 
-> *"A breath taken is a debt owed. No man drinks clean water while his neighbor chokes on rust. The Gilded inside the glass sell tomorrow for today; down here, we trade our blood to keep the filters turning."*  
-> — Charter of the Air Scrubber Guild (Ratified by the Baseline Elders, Sector 09, Year 15 AS)
+> *The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself.*
 
 ***
 

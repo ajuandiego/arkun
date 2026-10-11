@@ -1,7 +1,6 @@
 # Chapter 20 // Tsunari
 
-> *"Substrate is transient. The cattle do not judge the shears, nor does the clay question the kiln. Any hand raised against the Shepherds shall be severed to the shoulder."*  
-> — Emergency Broadcast Protocol, Vaelen Spire-Consensus (Acoustic Phonetic Transcription, Year 0 AS)
+> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare.
 
 ***
 

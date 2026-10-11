@@ -1,6 +1,6 @@
 # Chapter 2 // Vram
 
-> **The High Aerie** *[noun]*: The cantilevered titanium-and-granite flight roost anchored 3,000 feet above Sector 09 upon Dome Alpha's northern bulkhead. Built without guardrails or mechanical elevators; accessible exclusively to winged chimeric personnel capable of unpowered thermal descent.
+> **The leash.** The socket at the back of the neck, and the signal the Spire sends through it. Hesitate, and it hurts. Leave it on for years, and it starts to cook the man.
 
 ***
 

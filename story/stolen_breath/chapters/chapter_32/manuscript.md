@@ -1,7 +1,6 @@
 # Chapter 32 // Vram
 
-> *"The desert belongs to the beasts by day and the cold by night. If you hear an engine, stay down. If you hear a click, don't breathe. If you see yellow headlights, show your palm."*  
-> — Overground Railroad Smuggler Slate (Fenris Network, Sector 09 Perimeter Cache)
+> **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
 
 ***
 

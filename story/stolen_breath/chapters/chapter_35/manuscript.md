@@ -1,6 +1,6 @@
 # Chapter 35 // Vram
 
-> **Mutation L (Lindwurm Strain)** *[archeo-genetics]*: Subterranean heavy-breacher biotype. Characterized by hexagonal interlocking stone-scutes (*lithodermic plating*) across the dermis, extreme bone density, immunity to toxic gases, and localized seismic shock generation.
+> **The rail under the yard.** A few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
 
 ***
 

@@ -1,7 +1,6 @@
 # Chapter 51 // Dual POV
 
-> *"When the sky catches fire, the birds will fight for the dirt."*  
-> — Common graffiti scrawled across the rusted tenements of Sector 09
+> *When the sky catches fire, the birds will fight for the dirt.*
 
 ***
 

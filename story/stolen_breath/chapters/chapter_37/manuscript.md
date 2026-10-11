@@ -1,7 +1,6 @@
 # Chapter 37 // Tsunari
 
-> *"Out of the iron heavens shall come the Fire-Giver, his wings dripping with molten gold. But beware the daughter of the dust, the serpent of ice whose touch steals the flame. Strike the serpent, that the furnace may burn unquenched."*  
-> — The Book of the Crucible (Liturgical Canticle of The Enlightened, Chapter III)
+> **An Ember.** One of the few who survived what the cult puts in a vein. Strong past sense, hot, and sure. The pain at the edges of the body has been burned almost away.
 
 ***
 

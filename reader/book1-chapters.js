@@ -5,6 +5,15 @@ function chaptersDir(root) {
   return path.join(root, 'story', 'stolen_breath', 'chapters');
 }
 
+function hasScene(text) {
+  return text.split(/\r?\n/).some((line) => {
+    const s = line.trim();
+    if (!s || s === '***' || s === '---') return false;
+    if (s.startsWith('#') || s.startsWith('>')) return false;
+    return true;
+  });
+}
+
 function listChapters(root) {
   const dir = chaptersDir(root);
   if (!fs.existsSync(dir)) return [];
@@ -13,7 +22,7 @@ function listChapters(root) {
       if (!entry.isDirectory()) return false;
       const file = path.join(dir, entry.name, 'manuscript.md');
       if (!fs.existsSync(file)) return false;
-      return fs.readFileSync(file, 'utf8').trim().startsWith('#');
+      return hasScene(fs.readFileSync(file, 'utf8'));
     })
     .map((entry) => entry.name)
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));

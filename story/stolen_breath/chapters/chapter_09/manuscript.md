@@ -1,7 +1,6 @@
 # Chapter 9 // Tsunari
 
-> *"Record expunged. Subject 07-V: Male, age seven. High fast-twitch density; superior ocular tracking. Family unknown. Cause of transfer: Consort Military Draft Mandate 12. No personal belongings permitted."*  
-> — Intake Registry, Gray Ring Child Orphanage Ward C (Year 19 AS)
+> *Record closed. Boy, seven years old. Fast hands, good eyes. Family unknown. Taken for the draft. No belongings returned.*
 
 ***
 

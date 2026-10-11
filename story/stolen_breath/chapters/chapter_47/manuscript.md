@@ -1,7 +1,6 @@
 # Chapter 47 // Tsunari
 
-> *"All units report immediate telemetry sync. Synapse Lattice signal integrity at 98%. Maintain formation. Remember: the noise in your skull is the voice of your country. To silence the signal is treason."*  
-> — Restricted Siphon Protocol, Aeros-Legion Command Frequency (Automated Broadcast)
+> *All units, sync. The noise in your skull is the voice of your country. To quiet it is treason.*
 
 ***
 
