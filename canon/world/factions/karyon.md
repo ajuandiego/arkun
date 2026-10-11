@@ -8,6 +8,8 @@ The sentence: their own genome has drifted, the old sequence is buried in the ra
 
 The Karyon are travelers and geneticists. They cross worlds to recover a sequence their living genome has lost, and to fold a recovered trait back into their own kind. They did not build a civilization of energy weapons, mass-destruction arms, or war doctrine. Their power is patience, a catalog, and the willingness to wait until a population invites them in.
 
+A Karyon does not take a room. The body has no strain, no plate, and no wing, and the species carries no sidearm. What they have is the lattice and the intelligence to aim it. The lattice is the mind on a collared soldier: the diagnostic, the obey impulse, the gain, and the kill. Among themselves, the consensus is that same mind, and open dissent on it is execution. A door that has to be broken is broken by a cohort the Directorate still owns. They stay on the ship. Xaevis's staff is his alone, and it fires the kill. It is not a weapon he takes into a brawl. The Redoubt retrieval is in `../../plot/book1/part_2.md`.
+
 A Karyon life is very long. A dead one is not replaced by a birth culture the books need to explain. What they cannot do on any other world is make a revision hold, in the body that received it or in the next generation. That limit is the whole motive.
 
 They will abandon a trial before they will fight a village to save it. When locals destroy a specimen, the project closes. The sequence is already copied. They do not need the village to love the work. The exception is the bench itself. If the living world that keeps a match is about to be erased, they will intervene.
@@ -148,12 +150,13 @@ What she already did, and what stays:
 *   She is a high geneticist of the Spire and one of the architects of the modern lattice.
 *   She has been trying to build a ground of her own since that lattice. Her half is technical. The mesh is insulated so the carrier returns to the Spire. She left a decay glitch and an encrypted backdoor so that, on the day a living return path existed, the wave would have somewhere else to die. She never grew that living half. The whole archive degrades in her tests, as it degrades in the program she believes the Spire still oversees.
 *   Jeffrey Thorne is the one who makes a body hold. He calls the formula the Keystone Archetype. The architecture on the page is the Mosaic Keystone: the Raptor expressed, the other four facets dormant, no collar. The inoculation is in `../../characters/tsunari.md`. The ground is in `../life/leash.md`.
-*   The Silence is how she knows the missing half is alive. The strain return drops. The position fix stays. Book 1 is that recognition. She does not yet have a confirmed five-facet diagnosis, and the Spire does not either. Suspicion is the whole of what they trust. She keeps feeding access, medical blueprints, and orbital telemetry, because she cannot touch the pylons herself, and she keeps the enzyme ready.
+*   The Silence is how she knows the missing half is alive. On the soldier Tsunari is grounding, the strain return drops. The position fix stays. A soldier she is not aiming at is unchanged. Book 1 is that recognition. She does not yet have a confirmed five-facet diagnosis, and the Spire does not either. Suspicion is the whole of what they trust. She keeps feeding access, medical blueprints, and orbital telemetry, because she cannot touch the pylons herself, and she keeps the enzyme ready.
 *   In a later book she hands over the Star-Chrysalis enzyme. Its job: let the trait remain in the body after the handler drops. Wings, the Raven's heat, the Raptor line, the plate, and the wolf's nose stay. The obey impulse, the gain, and the kill do not. An antidote that stripped a chimera back to baseline would be a second theft. The aerosol that joins her enzyme to Tsunari's blood and Vram's stabilized fluid is also a later book. Book 1 does not complete either.
 
 Who knows, in Book 1:
 
 *   Jeffrey knows the formula. He is gone from the page. His survival is not a finished reveal in this book.
+*   Tsunari knows the Raptor body he named. She does not know the formula. What he left in her memory is in `../../characters/tsunari.md`.
 *   The reader can learn the five waves in the Vault.
 *   Mercer knows an anomaly is in his dish. He does not know the formula.
 *   Lyraen knows a ground is forming, and that her half of the release is ready.

@@ -7,6 +7,7 @@ One file per person. Open the point-of-view file before a chapter, and a second 
 * `cassian.md`, `veda.md`, `rook.md`, `toby.md`: Aeros-Legion 7. The soldiers under Vram are a family bound by the leash. When he defects, their loyalties split. The unit is `../world/factions/legion.md`.
 * `mercer.md`
 * `ren.md`
+* `drew.md`: baseline mechanic. Grew up with Tsunari at Mercer's. No graft.
 * `boran.md`
 * `chen.md`
 * `kira.md`

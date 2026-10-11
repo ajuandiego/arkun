@@ -6,6 +6,7 @@
     *   Ten years ago, Jeffrey discovered that Apex Bio was secretly colluding with the Karyon to harvest baseline humans while deliberately keeping the Gray Sector in manufactured asphyxiation.
     *   Before he could publish his findings, corporate security raided his subterranean laboratory. To save his daughters, he drew the strike team away, fleeing into the southern Rust Barrens in a heavily retrofitted, pressurized amphibious sand-crawler.
     *   Chased to the edge of the boiling, electromagnetic Stygian Ocean, he plunged into the squalls. Apex Bio marked him as "terminated by oceanic attrition."
+*   **What he told her:** The Raptor body, and nothing of what she was worth. The sentences he left in her memory are in `tsunari.md`.
 *   **The Miracle & The Legacy:**
     *   Using antique celestial dead-reckoning and mathematical anomaly modeling, Jeffrey discovered a shifting "null-trench" through the electric currents and survived the crossing, washing ashore in the pristine, green sanctuary of the Verdant Cradle.
     *   Before his crawler's power died, he etched his telemetry data, atmospheric readings, and a personal message to his daughters onto an optical quartz disc and launched an automated high-frequency buoy.

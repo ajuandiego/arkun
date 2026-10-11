@@ -11,7 +11,7 @@
 ## 1. Executive Trilogy Vision & Themes
 
 *   **Theme 1: Autonomy vs. Conditioning & Fanaticism:** The struggle of engineered weapons (Vram, chimeric soldiers) and hunted survivors (Tsunari, Gray Sector) to reclaim their minds, identities, and bodies—refusing both corporate enslavement (Apex Bio) and apocalyptic cult deification (The Enlightened / The Forger).
-*   **Theme 2: The Fire & Shadow Polarity:** An intimate biopunk symbiosis. Vram’s 106°F Avian furnace brings warmth, pyric shielding, and raw kinetic power; Tsunari’s cool Raptor physiology and Null-Resonance provide lethal agility and the soothing biological cure that saves his sanity.
+*   **Theme 2: The Fire & Shadow Polarity:** An intimate biopunk symbiosis. Vram's Avian furnace brings warmth and the wing. Tsunari's cool Raptor body takes that heat on contact. Her Null-Resonance, aimed, quiets one leash. The cool and the quiet are two events.
 *   **Theme 3: The Subversion of Romance Clichés:** The bond progresses from biological shame, humiliation, and hostage leverage to earned predator competence parity, the psychological terror of mental silence, and an unvoiced blood compact of equals.
 *   **Theme 4: The Reconstruction of Truth & The Promised Land:** Moving from the localized lies of Sector 09 to the global conspiracy of the alien *Simulacra*, shattering the Karyon's existential blackmail through the discovery of **The Verdant Cradle** (the hidden, un-poisoned green oasis continent across the Stygian Oceans), culminating in the Great Oceanic Migration.
 
@@ -43,7 +43,7 @@ graph TD
 *   **Core Setting:** Eden Dome Alpha perimeter, Sector 09 Gray Ring, Redoubt Station 14, Rust Barrens, Sump Drainage Networks, and The Glass Vault.
 *   **Primary Conflict:** Vram hunts Tsunari as a corporate executioner; an accidental touch during combat shuts off his agonizing lattice fever. To understand the cure, he defies orders, abducts her, and is pursued into the Rust Barrens. In the sump underbelly, **The Forger** (High Priestess of **The Enlightened**) proclaims Vram the prophesied "Apex Deliverer" and offers him an army to burn the Dome if he sacrifices Tsunari ("The Cold Serpent").
 *   **Key Antagonists & Secondary Arcs:** 
-    *   *Corporate & Alien Oppression:* Director Elena Corvus (Apex Bio) & Archon Xaevis’s field Inquisitors.
+    *   *Corporate & Alien Oppression:* Director Elena Corvus (Apex Bio). The Karyon stay on the ships and work the lattice. The fists on the ground are collared cohorts.
     *   *Religious Demagogues & Enforcers:* The Forger and Commander Malakar (Ember-Prime, wielding his pneumatic rail-flail in an epic duel before vanishing into the deep sumps).
     *   *The Tragic Rival / Redemptive Ally:* Caelia (Ember-Seven / "The Promised Bride")—initially an obsessive, jealous cultist groomed to marry the Deliverer who hates Tsunari, but who ultimately defects and sacrifices everything to save them for simple, imperfect human love.
 *   **Climactic Battle:** The Three-Way Siege of Sector 09. Consortium automated drone platforms and wall artillery drop incendiary sweeps from above while Malakar and the Ember Coven breach from the sumps beneath. Vram, Aeros-Legion 7, Tsunari, and Gideon's Bio-Curators fight in the middle, breaking both corporate and cult traps.

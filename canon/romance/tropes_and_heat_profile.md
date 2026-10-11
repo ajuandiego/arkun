@@ -73,7 +73,7 @@
     *   **Natural Variety:** Realistic positional changes are natural; focus remains on physical contact, warmth, and breathing.
 *   **Chimeric Mutation Multiplier:** The altered genetics of both leads naturally heighten physical and sensory intensity without artificial gimmicks:
     *   *Vram’s 106°F furnace body heat* makes his skin feverish, radiating raw thermal comfort and intoxicating warmth.
-    *   *Tsunari’s Null-Resonance and reptilian sensory awareness* amplify her tactile sensitivity to the vibration of his diaphragm rumble and rapid pulse.
+    *   *Tsunari's Raptor senses* make the vibration of his diaphragm and the speed of his pulse easy to read. The cool of her skin is that body. The quiet in his mesh is the ground, and only while she aims it at him.
 *   **Narrative Function Above All:**
     *   Sex is never the sole end-goal of a scene; it must be **carefully dosed and serve an explicit narrative or psychological purpose**.
     *   Conversations, sudden emotional realizations, unmasking of secrets, and raw confessions spoken during or immediately after the act must drive the plot forward.

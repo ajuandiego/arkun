@@ -70,7 +70,7 @@ Fury or a hard adrenaline spike is what wakes the tree. For as long as that stat
 *   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not splice her with a single lineage. He engineered her as the **Mosaic Keystone**. He called the formula the Keystone Archetype. The five loci are the five facets of the old Karyon sequence. That history is in `../factions/karyon.md`. The ground is in `leash.md`.
     *   *Expressed Body (100% Raptor, Dromaeo-X Chrome):* Stronger legs than a baseline human, sub-vocal clicks, clear eye membranes, scales on the shoulders, the upper arms, the upper back, and a scatter on the neck and the jaw, vertical slit irises, and a cool resting temperature. The body is in `strains.md`.
     *   *Dormant Regulatory Matrix (The Keystone):* Non-coding receptor loci for the other four classes (**Avian, Lycan, Ceraton, Galvan**).
-    *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
+    *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. She directs it at one soldier. Skin closes that circuit, and that mesh loses the carrier into her. A collared squad around her feels nothing. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
 
 #### 7.3 Concealment Protocols for Un-Collared Mutants
 In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `assets/media/character_tsunari.jpg`. The clothes are in `../../characters/tsunari.md`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
@@ -87,7 +87,7 @@ When a soldier possesses a mixed Strain Chart, their dominant character trait ca
 
 | Strain Chart | True Character / Core Drive | Resulting Hybrid Arkun | Tactical Manifestation |
 | :--- | :--- | :--- | :--- |
-| **Mosaic Keystone [Tsunari]**<br/>(Raptor Expressed + 4 Dormant Lineages) | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 second 500% temporal acceleration; slips through crossfire and security laser nets as a shadow blur; undetectable by alien sensors. |
+| **Mosaic Keystone [Tsunari]**<br/>(Raptor Expressed + 4 Dormant Lineages) | *The Sovereign Stalker* | **Quantic Phase-Stutter (Ghost-Step)** | 2–3 seconds of accelerated movement. She blurs through a gap. Eyes still see her. The ground is a separate act, aimed at one soldier, in `leash.md`. |
 | **Avian, Raven [Vram]** | *The Indomitable Hearth* | **The Pyric Crucible** | Vents the wing engine in one heat dump. Incoming rounds meet it. One cardiac shock if the heart stops, and then he is empty. |
 | **Ceraton (70%) + Avian (30%)** | *The Unyielding Protector* | **Hot Plate** | The plates lock, and the Avian share dumps heat through them. Anyone who grapples the hide gets burned. The soldier is spent after the dump. |
 | **Raptor (50%) + Galvan (50%)** | *The Infiltrator* | **Dead Sensor** | A cold stalk plus a short Blinder. The room loses its scopes. Nobody loses a memory. |

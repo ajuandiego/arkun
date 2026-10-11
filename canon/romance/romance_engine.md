@@ -6,9 +6,9 @@ In traditional Romantasy, the bond is often mystical (fated mates, soul tether, 
 
 *   **The Polar Dynamics (Fire & Shadow):**
     *   **Vram (Avian, common name Raven):** Resting line 104°F to 106°F, the bird set-point a Raven's wing requires. Lattice waste, which every collared soldier carries, has no margin in that body and is what drives the seizure. The cause is in `canon/world/life/strains.md`. Tsunari's Keystone shunts the carrier. Her cooler Raptor body takes the set-point that remains.
-    *   **Tsunari (The Raptor Scythe-Stalker):** A lean, hyper-agile shadow predator with cold-blood stalking traits, twin Spire hooks, and a rare *Null-Resonance* grounding frequency.
+    *   **Tsunari (Raptor):** Cool resting skin, stronger legs, the hooks, and the knife. Her father taught her that body. The Null-Resonance is a separate act. She does not know it until the first touch. What he withheld is in `canon/characters/tsunari.md`.
 *   **The Thermodynamic & Neural Equilibrium:**
-    *   When Tsunari touches Vram, two different things happen at once. Her Mosaic Keystone shunts the Carrier, and the scream in the mesh goes silent. Her cooler Raptor body takes the furnace heat. The cold is not the ground. A cold chimera without the Keystone leaves the port screaming. The full rule is in `canon/world/life/leash.md`.
+    *   Skin contact and the ground are two events. Her cooler Raptor body takes the furnace heat whenever they touch. The scream in the mesh stops only when she closes the circuit on him. The first time, in the grapple, she does not know she closed it. A cold chimera without the Keystone leaves the port screaming. The full rule is in `canon/world/life/leash.md`.
     *   To him, holding her is the difference between a seizure and a clear head. To her, his 106°F body is the furnace that keeps her alive in a wasteland night and feeds her phase-stutter.
 
 ---
@@ -30,6 +30,19 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 [ Phase 4: The Unvoiced Blood Compact of Equals ]
 ```
 
+### Why she loves him
+His side is simple. He tastes a quiet head for the first time in his service, and he will not give that quiet back. The woman comes after the gift. He learns to want the carrier.
+
+Her side is slower, and it is particular to him.
+
+Sorrow is the correction. She did not know the leash was a childhood and a standing torture. A sky-lord was, in her account, a man who had agreed to the wing. The draft and the scream revise that. She can be sorry for Subject AE-701 and for Toby in the same hour. Sorrow covers the squad. Love has to pick one man.
+
+Need of his wing is the hostage math. He knows her face, the theft, and, after the grapple, the quiet. A soldier who can report her is safer kept in reach. That is why she stays close in the first days. It is also why she touches him on a schedule. Every hand on his socket is a trade.
+
+She starts loving him at the moment the trade is his to cash and he tears it up. Corvus orders the captive dead. He lies. Later he can still buy his rank back with her, and he does not. In the culvert he stops when the touch would still be payment. He would rather burn than take the hand she has not given. She has spent the years since she was seventeen sure that anyone who knew her nape would own it. He knows. The cage stays open. That is the man, and the gift is no longer the reason.
+
+What she wants after that is the fighter. He works at her speed, and he spends the heat on someone who cannot pay him. She can keep the knife and still stand in his blind spot. *Partners, or nothing* is the sentence she has for it. The compact is the love, said in the only grammar she trusts.
+
 ### Phase 1: Biological Resentment & Hostage Leverage (Shame vs. Calculation)
 *   **Vram's Perspective (Humiliation & Rage):** 
     *   When Tsunari's skin brushes his neural port, the screaming lattice static cuts out instantly. His initial reaction is **not** tender attraction—it is fury and profound humiliation.
@@ -41,7 +54,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 ### Phase 2: Predator Competence Parity (The Real Spark)
 *   **The Catalyst:** In an unforgiving biopunk wasteland, sweet words and manufactured banter feel hollow. The true emotional turning point occurs in active combat.
 *   **The Mutual Recognition:**
-    *   Vram watches Tsunari calculate temporal angles at hyper-speed, executing a lethal sickle-claw counter-ambush against a feral alpha Raptor without a shred of panic. She isn't an un-augmented victim who needs rescuing; she is a cold, lethal shadow hunter.
+    *   Vram watches Tsunari calculate the angles at speed and put the bodkin into the lead dog without a shred of panic. She is a hunter. She does not need rescuing.
     *   Tsunari watches Vram unleash his pyric shields and aerial vectors, not with reckless brutality, but with surgical military discipline, sacrificing his own armor to absorb an explosive blast meant for a civilian convoy.
     *   **The Biological Realization:** For transgenic pack predators, the deepest aphrodisiac is **flawless competence**. They recognize each other as evolutionary equals—the only two beings capable of operating at the exact same lethal frequency.
 
@@ -73,8 +86,8 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 
 | Operational Proximity | Effect on Abilities & Biometrics | Tactical & Psychological Dynamic |
 | :--- | :--- | :--- |
-| **Direct Contact (Skin-to-Skin)** | Optimal equilibrium. Grounding of quantum temporal strain; instant relief from lattice burn; rapid cellular stabilization. | Intense sensory awareness, complete cognitive clarity, zero energy waste. A high-voltage current of mutual vulnerability. |
-| **Close Tactical Range (inside about 15m)** | The ache dulls. It does not go silent. Only the strain return is absorbed. Voice and the position fix stay up. A strain command can still arrive until skin contact. A spoken order always can. | Seamless combat synergy, mutual blind-spot coverage. He can lie on the tactical link while she is in the room. The strain board looks quiet. His dot does not vanish. |
+| **Direct Contact (Skin-to-Skin)** | His furnace heat moves into her cool Raptor skin on any touch. The mesh goes quiet only when she aims the ground at him and the skin closes it. | She can feel the heat she was taught. The silence is the part she is still learning. He can lie on the tactical link with her hand on him. |
+| **Close, and she is not aiming** | Nothing in the mesh. Nearness has no radius. His ache stays. Voice and the position fix stay. | They can still fight as a pair. A soldier she is not aiming at feels nothing. He can lie on the tactical link while she is in the room. |
 | **Separated / Solo Operations** | Baseline functioning. Vram endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---
@@ -84,5 +97,5 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 *   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
 *   **The Complementary Survival Unit:**
     *   **The Male Biotype (Avian, Raven):** The wing dump, one cardiac shock, and 106°F of body heat in a freezing waste storm.
-    *   **The Female Biotype (Raptor Stalker-Augmented / Resonant):** Delivers explosive temporal micro-speed (Quantic Phase-Stutter), lethal sickle-claw close combat, calculating geometric problem-solving, biochemical decryption, and the vital Null-Resonance grounding that keeps his burning core from incinerating.
+    *   **The Female Biotype (Raptor, and the ground):** The phase-stutter, the hooks, the knife, and a cool body. The Null-Resonance is the aimed shunt. It does not cool him. The cool does not quiet the mesh. The rule is in `canon/world/life/leash.md`.
 *   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which culminates in the hard-won Glass Vault consummation and deepens into fierce, protective devotion across the trials of Book 2.

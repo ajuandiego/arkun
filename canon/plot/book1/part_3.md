@@ -7,6 +7,7 @@
         > *"The Raptor does not roar. It measures. It counts the footfall, the heartbeat, the breath between panic and surrender. If you flee, you are prey. If you stand, you are the problem it has to solve."*
     *   *Setting:* An abandoned pre-collapse freight transit depot half-buried in the dunes.
     *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container as a pack of feral dogs goes quiet across the depot.
+    *   *Drew and Ren:* They did not stay turned around. Drew read the prowler tread at the mirrors and followed it into the dunes. They reach the depot lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`.
 
 *   **Chapter 24 // Tsunari**
     *   *Lexicon Entry (Raptor, Dromaeo-X Chrome):*
@@ -18,7 +19,7 @@
     *   *Epigraph (Overground Railroad Smuggler Slate — Lycan Network):*  
         > *"The desert belongs to the beasts by day and the cold by night. If you hear an engine, stay down. If the barking stops, get high. If you see yellow headlights, show your palm."*
     *   *Setting:* The loading dock of the freight depot.
-    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram vents the wing engine and kills the lead dog with a single blow. As the rest of the pack closes, **Kira Brandt** roars in on a modified sand-crawler, scattering them with phosphor flare-slugs and hauling the pair into an underground maintenance bunker.
+    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the Raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
 
 *   **Chapter 26 // Tsunari**
     *   *Lexicon Entry (The Night Freeze & Thermal Swings):*  

@@ -65,7 +65,7 @@ $$\text{Strain Chart (Genetics)} + \text{True Character (Epigenetics)} = \text{A
 *   **True Character / Core Psychological Drive:**
     *   *The Indomitable Hearth / Autonomous Shield.* Beneath the cold, erased exterior of Subject AE-701 lies a fierce, unyielding drive to be a sanctuary rather than a weapon of ruin—a warrior who would burn himself to cinders to keep his partner safe.
 *   **Signature Arkun: The Pyric Crucible (the wing dump)**
-    *   *Manifestation:* The wing dump. He vents the wing engine in one burst. Incoming rounds meet that heat. Then he is empty. The hands stay hands. While the Arkun is up, black veins stand out at his neck, his chest, and around his eyes. The rule is in `../world/life/arkun.md`.
+    *   *Manifestation:* The wing dump. He vents the wing engine in one burst. Incoming rounds meet that heat. Then he is empty. The hands stay hands. While the Arkun is up, black veins stand out at his neck, his chest, and around his eyes. He does not have this at the Redoubt. That fight is the class: wing, heat, hands, and the eye. The veins and the dump wake in the Sector 09 duel. The rule is in `../world/life/arkun.md`.
     *   *Tether Synergy Amplification (Fire & Shadow):* When in direct skin-to-skin contact with Tsunari, her cool Raptor body takes the wing heat and her Keystone shunts the carrier. The current drops, and so does the seizure line. His output feeds her phase-stutter.
 
 ---

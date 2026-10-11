@@ -26,25 +26,25 @@
     *   *Personal Stake:* Tsunari realizes Sora is the junior tech analyzing Vram's neural anomalies from inside the dome, unknowingly drawing the corporate net around her own sister.
 
 *   **Chapter 14 // Vram**
-    *   *Lexicon Entry (Karyon Harvester Barge & Spire-Consensus):*  
-        > **Karyon Harvester Barge** *[extraterrestrial]*: A massive, soundless anti-gravity atmospheric vessel constructed of black bio-crystalline obsidian. Operates without exhaust or moving parts, continuously siphoning nitrogen-ammonia currents for planetary terraforming.
-    *   *Setting:* The canyon landing pad of Redoubt Station 14.
-    *   *Core Action:* An alien inspection skiff arrives unannounced. Karyon auditors in Spire cloth step onto the concrete, human-framed, pale, bare-scalped, demanding a biometric audit of Vram's telemetry.
-    *   *Stakes:* Separated from Tsunari, violent lattice tremors wrack Vram's body as he endures the humiliating physical inspection.
+    *   *Lexicon Entry (Directorate Retrieval):*  
+        > **Directorate Retrieval** *[security]*: When the Spire wants a body and will not walk in to take it, the Directorate sends a collared detail. At Redoubt Station 14 the detail is one Wolf and two Rhinos, Aethelgard cohorts under a government order. The Wolf finds. The Rhinos are the door. Class bodies only. The rule for the species that stayed on the ship is in `canon/world/factions/karyon.md`.
+    *   *Setting:* The canyon landing pad of Redoubt Station 14. A harvester hangs on the horizon and does not land. What lands is a government prowler.
+    *   *Core Action:* One Wolf and two Rhinos step onto the concrete in Directorate kit, sockets fitted, no black veins. They want the telemetry audit and a search of the post. The Wolf smells a second body in the ducts and says so. Vram meets them with the wing, the heat, the hands, and the eye. He is still trying to talk the inspection through.
+    *   *Stakes:* Separated from Tsunari, the leash climbs while he stands in front of soldiers who can actually take a room.
 
 *   **Chapter 15 // Tsunari**
     *   *Epigraph (Emergency Broadcast Protocol, Karyon Spire-Consensus — Acoustic Phonetic Transcription, Year 0 AS):*  
         > *"Substrate is transient. The cattle do not judge the shears, nor does the clay question the kiln. Any hand raised against the Shepherds shall be severed to the shoulder."*
     *   *Setting:* The air intake conduit directly below the landing pad.
-    *   *Core Action:* A junior auditor tracks an unfamiliar scent into the maintenance vents. He drops into the shaft to take her.
-    *   *Tension:* Tsunari readies her bodkin knife. His frame is a person's frame, and the knife can find it.
+    *   *Core Action:* The Wolf follows her scent into the shaft. Nose, hearing, endurance, the jaw. She answers with the Raptor body: the leap, the membranes in the grit, the hooks, the bodkin. A Rhino charge starts on the grate and wedges. The hide locks where she hits plate. The unplated chest and the eyes are the opening. No phase-stutter. She does not aim the ground.
+    *   *Tension:* Three class bodies in a duct built for one. She is faster in the shaft. They are heavier in the doorway.
 
 *   **Chapter 16 // Vram**
-    *   *Lexicon Entry (High Treason under Alien Law):*  
-        > **The Heresy of the First Hand** *[statute]*: Under the Eden-Karyon Accord, harming or terminating an extraterrestrial overseer carries an automated sentence of Decimation: the instant execution of the perpetrator's entire squadron via spinal kill-switch.
+    *   *Lexicon Entry (Desertion under the Accord):*  
+        > **Desertion** *[statute]*: A collared soldier who draws blood on a Directorate retrieval detail is marked deserted the same hour. The gain on the cohort he left can be raised before the prowler is cold. The kill stays Xaevis's. The lattice is in `canon/world/life/leash.md`.
     *   *Setting:* The lower mechanical vault.
-    *   *Core Action:* Hearing Tsunari's muffled gasp through the floor grates, Vram snaps his conditioning. He drops through the ceiling, takes the auditor by the head with his hands, and breaks the neck against the grate.
-    *   *The Turning Point:* High treason. Vram has murdered an alien overlord to keep Tsunari alive; his old life is permanently extinguished.
+    *   *Core Action:* He hears her in the shaft and drops through the ceiling on the wing. The second Rhino charges. Vram leaves the floor, takes the man with his hands, and puts the heat of the grip and the vane into the opening the plate does not cover. No black veins. No wing dump. He does not know that door yet. Between her legs in the duct and his wing in the vertical, the detail goes down.
+    *   *The Turning Point:* High treason. The soldiers on the floor wore his government's kit. The life that gave him the wing is over.
 
 ***
 
