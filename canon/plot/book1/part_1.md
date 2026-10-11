@@ -19,7 +19,7 @@
     *   *Lexicon Entry (The High Aerie):*  
         > **The High Aerie** *[noun]*: The flight roost of Aeros-Legion 7. A slim mast rises from Sector 1 to the crown. The roost sits on that mast, 3,000 feet above the Sector 09 street, and is no wider than 300 feet. No railings. No mechanical elevator. Winged descent only.
     *   *Setting:* The launch ledge of The High Aerie, on the center mast, 3,000 feet above Sector 09.
-    *   *Core Action:* Vram suffers a blinding Synapse Lattice migraine from his neural siphon ports. Receiving the red-priority data-breach alert, he steps to the precipice and launches on his own 14-foot feathered wings, riding freezing high-altitude thermals into a vertical dive to hunt the infiltrator.
+    *   *Core Action:* Vram suffers a blinding Synapse Lattice migraine from the siphon at his nape. Receiving the red-priority data-breach alert, he steps to the precipice and launches on his own 14-foot feathered wings, riding freezing high-altitude thermals into a vertical dive to hunt the infiltrator.
     *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); and gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
@@ -36,7 +36,7 @@
 
 *   **Chapter 4 // Vram**
     *   *Lexicon Entry (The Siphon & The Silver Spine):*  
-        > **The Siphon** *[bio-mech]*: One round metal socket centered where the head meets the back, with two short links running down the upper back into the Silver Spine. The carrier rides that socket. When it flares, the flesh on both sides of the socket swells.
+        > **The Siphon** *[bio-mech]*: One round metal socket centered where the head meets the back, with a short tab under it. The carrier rides that socket. When it flares, the skin around the socket reddens and the metal stays metal.
     *   *Setting:* The perimeter of the solar mirror banks.
     *   *Core Action:* Tracking the thief through the swirling dust from above, Vram calculates her escape vector. Cornering her behind a shattered mirror bank, he realizes she deliberately anticipated his flanking trajectory—murmuring with dark, lethal admiration: *"Clever girl..."*—before tucking his wings into a steep terminal dive to tackle her into the sand.
     *   *Dynamic:* The initial kinetic collision of two apex biotypes—solar aerial kinetic force meeting low-center-of-gravity cursorial speed.
@@ -47,11 +47,11 @@
         > *"They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing."*
     *   *Setting:* The dust-choked ruins of a solar power substation.
     *   *Core Action:* Vicious hand-to-hand grapple. Tsunari strikes with her surgical bodkin and sweeps her curved Spire hook in a lethal grapple; Vram checks her strike with his titanium shin-guard and traps her wrists with terrifying military precision.
-    *   *Tension & Unwanted Attraction:* Pinned beneath his massive frame on the sand, Tsunari feels the furnace-hot wall of his chest and thighs trapping her hips. She despises him as a corporate executioner, but her traitorous body jolts at the intoxicating scent of cedar and ozone in his feathers, and the lethal beauty of his scarred jaw inches from hers. *Pull your knife, you fool. Don't look at his mouth.*
+    *   *Tension & Unwanted Attraction:* Pinned beneath his massive frame on the sand, Tsunari feels the furnace-hot wall of his chest and thighs trapping her hips. She despises him as a corporate executioner, but her traitorous body jolts at the intoxicating scent of ozone and heated metal in his feathers, and the lethal beauty of his scarred jaw inches from hers. *Pull your knife, you fool. Don't look at his mouth.*
 
 *   **Chapter 6 // Vram**
     *   *Lexicon Entry (Null-Resonance):*  
-        > **Null-Resonance** *[genetics]*: An anomalous bio-electromagnetic frequency found in baseline human DNA that acts as an organic grounding field against Karyon quantum-synthetic signals. Physical contact with an active conductor instantly quenches synthetic neural static.
+        > **Null-Resonance** *[genetics]*: The return path in Tsunari's Mosaic Keystone. Skin on a collared soldier shunts the strain carrier and the mesh goes quiet. A baseline hand cannot do it. The rule is in `canon/world/life/leash.md`.
     *   *Setting:* The floor of the shattered substation.
     *   *Core Action:* During their desperate grapple, Tsunari's bare hand locks onto Vram's open collar and finds the siphon at his nape.
     *   *The Sensation & Forbidden Lust:* The screaming alien static in Vram's brain instantly flatlines into dead silence. Overwhelmed by tranquil peace for the first time in ten years, he collapses to his knees. But as his hands pin her wrists in the sand, he feels the lithe, muscular curve of her waist between his thighs and the wild sage on her throat. An involuntary, primal surge of arousal shocks his discipline. *Focus, soldier. She's an illegal insurgent with blood on her boots, not a woman in your quarters.*
