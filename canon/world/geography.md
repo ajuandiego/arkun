@@ -23,7 +23,7 @@
                                    ▼
  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ [ THE RUST BARRENS ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
  │ • Thousands of miles of radioactive red silica dunes and dead ruins │
- │ • Feral Raptor (Scythe-Stalker) pack hunting grounds              │
+ │ • Feral dog packs in the container depots                        │
  │ • Terra-Pylon Seven (Venting nitrogen-sulfur aerosol clouds)        │
  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
                                    │
@@ -120,7 +120,7 @@ Sectors 1 through 3 hold about 150,000. Sectors 4 and 5, industry and commerce, 
 
 ### 4.3 The Rust Barrens & Terra-Pylon Seven
 *   **The Wasteland:** Stretches hundreds of leagues south toward the scorching badlands. Silica dunes, rusted container depots, and dead highway skeletons. About **25,000** people live out here, in cuts and buried stations, spread so thin the dunes look empty. A caravan is an event. This is the hardest air, worse again in the shadow of Terra-Pylon Seven, and a traveler does not choke on arrival. Days bring a cough. Months of living here unfiltered bring the early rattle. A breather or a cabin filter is a comfort and a way to arrive less wrecked.
-*   **Feral Raptor Grounds:** Packs of wild-born, reptilian Raptors prowl the concrete canyons at dusk.
+*   **Dog ground:** Packs of feral dogs den in the concrete canyons and the container depots. The animal is in `canon/world/life/ecology.md`.
 *   **Terra-Pylon Seven:** A 2,000-foot-tall biomechanical tower sunk deep into northern bedrock, pulsing violet light as it discharges alien sulfur-nitrogen aerosols into the jet stream.
 
 ---

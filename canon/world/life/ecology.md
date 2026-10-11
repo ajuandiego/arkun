@@ -8,6 +8,14 @@
 
 ---
 
+## Pre-storm wildlife
+
+Before the Storm, the open country still held the ordinary animals of a dry continent: deer, coyotes, cattle gone loose, and the dogs that already lived on people. The Storm and the sulfur years took the grazers first. A herd needs grass and a long drink, and both failed. What lasted can den, scavenge, and eat a carcass, a spore root, or a spilled ration.
+
+The Ring keeps sulfur-fowl and crickets as livestock. That diet is in the food section below. The barrens have no wild Raptor. The Raptor is a human graft. The animal that took the concrete canyons and the container depots is the feral dog.
+
+**Feral dogs.** A pack. Depot guards and strays, breeding in the cans since the Storm. Short coats, a bark, then silence when they have the scent. They den in culverts and half-buried containers. They know a human smell, and they wait. A big lead male is the one that comes in first. They do not click. A Raptor's throat cannot speak them. They are dogs, camp scavengers. The Wolf graft is a person. A bleeding body on the ground is food. The freight-depot attack in Book 1 is this pack.
+
 ## 10. The Living Ecosystem: Food Systems, Flora & Fauna (Year 40 AS / 2072 CE)
 
 In a world severed from global trade and choked by alien terraforming aerosols, food and ecology have violently adapted. The flora and fauna of 2072 provide concrete survival hurdles, tactical tools, and romantic sensory anchors.

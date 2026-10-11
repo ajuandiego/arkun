@@ -18,7 +18,7 @@
     *   *Core Action:* Vram wakes bound in heavy bronze-alloy clamps and conductive grounding wire. Sister Maeva kneels before him, chanting the *Liturgy of the Slag*, treating him as their prophesied living god. She attempts to force-feed him catalytic rift fluid to trigger an uncontrolled wing dump. Vram bites his tongue to bloody awareness, fighting off the incense fog, vowing to reduce the cult to ash if they harmed Tsunari.
 *   **Chapter 3 (Tsunari): Into the Kiln**
     *   *Setting:* The northern rim of the Torrid Kiln.
-    *   *Core Action:* High-speed tracking. Guided by sulfur residue and heavy tread tracks, Tsunari leads her rogue squad through caustic geysers and fields of silica-lotus. When an ambush of feral Raptor pack-hunters attacks, Tsunari utilizes sub-vocal acoustic clicks and dominant predatory instinct to assert alpha command, turning the wild beasts into perimeter scouts.
+    *   *Core Action:* High-speed tracking. Guided by sulfur residue and heavy tread tracks, Tsunari leads her rogue squad through caustic geysers and fields of silica-lotus. A pack of feral dogs rushes the column. They are animals. She does not call them. The squad shoots through and keeps moving.
 *   **Chapter 4 (Vram): The Cathedral of Salt**
     *   *Setting:* A colossal subterranean cavern beneath the dry salt lake.
     *   *Core Action:* Maeva presents Vram to Commander Malakar and hundreds of branded cultists. They prepare the master ritual: sacrificing Vram's Raven heart-blood into the continental rift vent to summon the alien Archons across the sea. Vram holds the wing heat inside, quietly melting the structural rivets of his bronze shackles while biding his time.

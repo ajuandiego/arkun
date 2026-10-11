@@ -26,13 +26,13 @@ The Karyon Synapse Lattice does not function in an emotional vacuum. It is a qua
 
 A single class does not possess just one ability. It holds an **Arkun Tree**. The chart and the true character decide which branch wakes. Electricity belongs to Galvan. Heat and the wing belong to Avian. They do not trade.
 
-### 1. Avian (Ravens and Kites)
+### 1. Avian (Ravens and Hawks)
 
 Fury or a hard adrenaline spike is what wakes the tree. For as long as that state holds, black veins stand out along the neck, across the chest, and around the eyes. When the state breaks, the veins go. The skin underneath is the same skin.
 
 *   **Optic Overclock:** The optic nerve holds a moving target, a thermal gradient, and a wire at a distance a baseline eye loses.
 *   **Inertial Feathering:** Barometric friction along the feather shafts. A fall becomes a turn. The body takes the G.
-*   **Wing Dump (Ravens):** The soldier vents the wing engine in one burst. Incoming rounds meet that heat. After the dump he is empty and cold. Kites do not carry this at a Raven's scale.
+*   **Wing Dump (Ravens):** The soldier vents the wing engine in one burst. Incoming rounds meet that heat. After the dump he is empty and cold. Hawks do not carry this at a Raven's scale.
 *   **Cardiac shock (Ravens):** One command-grade failsafe. If the heart stops, it fires once. Then he is spent.
 
 ### 2. Raptor

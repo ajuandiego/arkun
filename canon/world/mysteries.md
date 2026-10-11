@@ -1,6 +1,6 @@
 # Mysteries still on the page
 
-Items 1 and 4 name the older Karyon motive. `factions/karyon.md` wins where they disagree.
+Items 1 and 3 name the older Karyon motive. `factions/karyon.md` wins where they disagree.
 
 ## 4. Key Lore Mysteries to Unravel
 
@@ -8,9 +8,7 @@ Items 1 and 4 name the older Karyon motive. `factions/karyon.md` wins where they
     *   *The Twist:* The Karyon are an ancient, biologically dying species facing genetic stagnation. They cannot reproduce naturally. They need human genomic plasticity to incubate their next evolutionary phase.
 2.  **What is the Origin of the Winged Flight Units?**
     *   They are not born in labs from scratch; they are the strongest, most genetically resilient children kidnapped from the Gray Sectors during early childhood, stripped of memory, and spliced with transgenic avian retroviruses.
-3.  **The Hidden Vault:**
-    *   Rumors exist of a pre-collapse seed and genome repository ("Project Gaia-Zero") hidden beneath the tectonic bedrock of the northern wastes, containing uncorrupted planetary DNA.
-4.  **The Internal Alien Schism (The Harvesters vs. The Preservers):**
+3.  **The Internal Alien Schism (The Harvesters vs. The Preservers):**
     *   The Karyon are not a monolith. An ideological and biological civil war brews inside their Spire Citadels:
         *   **The Harvester Hegemony (Archon Xaevis):** The dominant faction. Believes the Karyon race must terraform Earth immediately, reduce baseline humanity to raw biomass (substrate), and purge all individuality.
         *   **The Preserver Dissidents (The Harmonists):** A covert scientific faction. They understand that raw cloning is a dead end—the Karyon *need* live human genetic diversity and emotional neuro-chemistry to reverse their biological senescence. 

@@ -28,7 +28,7 @@
 ## 2. Biopunk & Aeros-Legion Terminology
 
 *   **Transgenic / Gene-Spliced Soldier:** Humans engineered by splicing human embryonic DNA with one or more of the five ancient mutation strains.
-*   **Aeros-Legion 7:** The Consortium's flight division at Dome Alpha, under Commander Vram Tyage. Avian crews, Ravens and Kites, for biological air superiority. Women hold commands in the legion. Vram does not command the Iron Division or the ground classes.
+*   **Aeros-Legion 7:** The Consortium's flight division at Dome Alpha, under Commander Vram Tyage. Avian crews, Ravens and Hawks, for biological air superiority. Women hold commands in the legion. Vram does not command the Iron Division or the ground classes.
 *   **The Leash (Synapse Lattice):** The whole control system. Soldiers say leash. The Karyon say Synapse Lattice. It is the Silver Spine, the one siphon, the short tab under it, and the Carrier together.
 *   **The Siphon:** The one interface. A round metal socket in a dark seat, centered where the head meets the back. Two short metal links leave its lower edge and run down the upper back. On a flyer those links run between the wing roots. Idle, the flesh on either side lies flat. When the carrier flares, those two sides swell. The links do not swell. One socket, two tunings: the strain carrier, and the tactical link. The data fix in the socket is the body tracker. A vehicle beacon is a separate machine.
 *   **The Silver Spine:** The mesh inside the brainstem and spinal cord. Not an external rod, and not a thread between two ports. The socket and the short tab under it are what show. It carries the strain wave. It does not carry voice.
@@ -51,7 +51,7 @@
 
 Names, mutagens, common names, and bodies are in `canon/world/life/strains.md`. This list is the index.
 
-*   **Avian.** Mutagen: Avian-H Vector. Common names: Ravens, Kites. Origin: 60% raven and other birds. Vram Tyage is a Raven.
+*   **Avian.** Mutagen: Avian-H Vector. Common names: Ravens, Hawks. Origin: 60% raven and other birds. Vram Tyage is a Raven.
 *   **Lycan.** Mutagen: Lupine-A String. Common name: Wolves. Origin: 80% wolf and other mammals. Kira Brandt is a Wolf.
 *   **Ceraton.** Mutagen: Pachyd-D Link. Common names: Rhinos, Tanks. Origin: 70% rhino and other mammals. Boran Vael-Korr is a Rhino.
 *   **Galvan.** Mutagen: Voltax-34 Effect. Common names: Sparks, Blinders. Origin: 75% electric eel and some amphibians.
@@ -93,8 +93,8 @@ Names, mutagens, common names, and bodies are in `canon/world/life/strains.md`. 
 *   **Commander Vram Tyage:** Male protagonist (MMC). Supreme Commander of Aeros-Legion 7. Avian, common name Raven (Avian-H Vector).
     *   *Tactical Callsigns:* **"Pyre-Zero"** / **"Aeros-Actual"**.
     *   *Field Moniker:* **"Vram"** (used by his inner circle, squadmates, and Tsunari).
-*   **Corporal Ferrin "Rook" Calder:** Callsign **"Rook"**. Sarcastic, quick-witted skirmisher and close-quarters vanguard of Aeros-Legion 7 (75% Avian, Kite, + 25% Lycan). Uses irreverent humor as armor against the Synapse Lattice; lethal with twin trench daggers.
-*   **Specialist Tobin "Toby" Vance:** Callsign **"Kestrel"**. Youngest scout of Aeros-Legion 7 and Cassian's younger brother. Avian, common name Kite. Gentle, chivalrous soul who whittles miniature figurines from scrap optical quartz; fiercely protective of his squad and "Doc" Tsunari.
+*   **Corporal Ferrin "Rook" Calder:** Callsign **"Rook"**. Sarcastic, quick-witted skirmisher and close-quarters vanguard of Aeros-Legion 7 (75% Avian, Hawk, + 25% Lycan). Uses irreverent humor as armor against the Synapse Lattice; lethal with twin trench daggers.
+*   **Specialist Tobin "Toby" Vance:** Callsign **"Kestrel"**. Youngest scout of Aeros-Legion 7 and Cassian's younger brother. Avian, common name Hawk. Gentle, chivalrous soul who whittles miniature figurines from scrap optical quartz; fiercely protective of his squad and "Doc" Tsunari.
 *   **Boran "The Bastion" Vael-Korr:** Former Sergeant of the 4th Heavy Breachers. Ceraton, common name Rhino. 6'8", a brow horn, grey cracked hide, a deep baritone. He guards subterranean rail spurs and trades combat banter with the flyers. The body is in `canon/world/life/strains.md`.
 *   **Madame Vrena Chen:** 100% baseline human matriarch of the Sector 09 Air Scrubber Guild and Iron Market. Sells certified filter cartridges (about a day's wages for one filtered night), keeps the stills, the Night Freeze shelters, and the civilian defense net. The brass double-canister mask is the best cartridge in the Ring and the sign of her office. Skipping her counter is a harder life, not a death sentence.
 *   **Kira Brandt:** Leader of the "Overground Railroad." Lycan, common name Wolf (85%, no corporate pedigree). Expert wasteland smuggler piloting modified sand-crawlers across the Rust Barrens; tracks scent wakes through toxic dust storms.

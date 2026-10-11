@@ -5,12 +5,12 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The five chimeric divisions:**
-    1.  **Aeros-Legion 7 (Avian — Commander Vram Tyage):** The sky cohort at Dome Alpha. Avian-H Vector. Ravens and Kites. The wing is fourteen feet, hollow bone, and a dive. The body is in `../life/strains.md`. They dive from the High Aerie and hold the air without aircraft or fuel. Key roster:
+    1.  **Aeros-Legion 7 (Avian — Commander Vram Tyage):** The sky cohort at Dome Alpha. Avian-H Vector. Ravens and Hawks. The wing is fourteen feet, hollow bone, and a dive. The body is in `../life/strains.md`. They dive from the High Aerie and hold the air without aircraft or fuel. Key roster:
         *   *Commander Vram Tyage (Aeros-Actual):* Avian, common name Raven.
-        *   *Lt. Cassian Vance (Talon-Two):* Cynical tactical second-in-command. Avian (Kite) with a Lycan secondary.
+        *   *Lt. Cassian Vance (Talon-Two):* Cynical tactical second-in-command. Avian (Hawk) with a Lycan secondary.
         *   *Sgt. Veda Frost (Screech):* Galvan (Blinder) and Raptor. Close-quarters shock.
-        *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent skirmisher. Avian (Kite) with a Lycan secondary.
-        *   *Spc. Tobin "Toby" Vance (Kestrel):* Avian, common name Kite. The callsign is his, not a third class.
+        *   *Cpl. Ferrin "Rook" Calder (Rook):* Irreverent skirmisher. Avian (Hawk) with a Lycan secondary.
+        *   *Spc. Tobin "Toby" Vance (Kestrel):* Avian, common name Hawk. The callsign is his, not a third class.
     2.  **The Raptors:** Lightweight hunter-killers. Dromaeo-X Chrome. No common name. Built for a 50 mph burst, clicks, and close ambush. Vanguard's.
     3.  **The Ceraton bastions:** Rhinos and Tanks. Pachyd-D Link. Plated heavy infantry for a breach. Aethelgard's. Exemplified by **Boran "The Bastion" Vael-Korr** (former sergeant, 4th Heavy Breachers).
     4.  **The Lycan cohorts:** Wolves. Lupine-A String. Nose, endurance, and a jaw. Aethelgard's urban fist.

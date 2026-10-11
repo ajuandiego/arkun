@@ -8,7 +8,7 @@ A chimera is a person made by that graft. The word is the procedure. It is not a
 
 Each class has a lab mutagen, a common name where soldiers and the street use one, and an origin mix. The origin is the template. A person's chart can still mix two classes. The dominant class sets the body. The second class lends a sense, a hide, or a chemical trick. Abilities do not migrate. The Arkun trees are in `arkun.md`.
 
-1. **Avian.** Mutagen: **Avian-H Vector.** Common names: **Ravens**, **Kites.** Origin: 60% raven, the rest other birds. The wing.
+1. **Avian.** Mutagen: **Avian-H Vector.** Common names: **Ravens**, **Hawks.** Origin: 60% raven, the rest other birds. The wing.
 2. **Lycan.** Mutagen: **Lupine-A String.** Common name: **Wolves.** Origin: 80% wolf, the rest other mammals. The nose and the pack.
 3. **Ceraton.** Mutagen: **Pachyd-D Link.** Common names: **Rhinos**, **Tanks.** Origin: 70% rhino, the rest other mammals. The door.
 4. **Galvan.** Mutagen: **Voltax-34 Effect.** Common names: **Sparks**, **Blinders.** Origin: 75% electric eel, the rest amphibian. The wet shock.
@@ -20,24 +20,24 @@ Each class has a lab mutagen, a common name where soldiers and the street use on
 
 The graft of each class is the male and female pair in `assets/media`: `mutation_avian_male.jpg`, `mutation_avian_female.jpg`, and the same pairing for lycan, ceraton, galvan, and raptor. The Raptor eye is `mutation_raptor_membranes.jpg`. Those sheets show the mutation. Hair, the face, skin color, and clothes belong to the person, and they live in that person's file under `../../characters/`. The graft can change height and build. Feather color, fur color, and the color of unplated skin are the host's.
 
-### 1. Avian — Ravens and Kites
+### 1. Avian — Ravens and Hawks
 
 One graft. Hollow bone, a built wing, a predator's eye, and a metabolism that outruns a human. The common name is the cut. The hands are hands. There is no crest, and there are no talons.
 
 *   **Ravens** are the command cut. Broad wing, the hottest burn. Vram Tyage is a Raven.
-*   **Kites** are the patrol and scout cut. Lighter bone, a faster stoop or a hover. They do not live at a Raven's temperature. Toby Vance is a Kite. His callsign, Kestrel, is his name in the squad, not a third class.
+*   **Hawks** are the patrol and scout cut. Lighter bone, a faster stoop or a hover. They do not live at a Raven's temperature. Toby Vance is a Hawk. His callsign, Kestrel, is his name in the squad, not a third class.
 
-**Build.** A strong chest and shoulder for the wing. Broader on a Raven, leaner on a Kite. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
+**Build.** A strong chest and shoulder for the wing. Broader on a Raven, leaner on a Hawk. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
 
-**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, the wings hang long down the back. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Kite primary takes weeks.
+**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, the wings hang long down the back. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Hawk primary takes weeks.
 
 **The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. The color of the vane is the host's. The nape is hair, skin, and the siphon.
 
 **Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyon.md`.
 
-A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Kite still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
+A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Hawk still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
 
-A closed hand is hot because the tissue is at that set-point. A cut on a Raven closes faster than a cut on a Kite, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
+A closed hand is hot because the tissue is at that set-point. A cut on a Raven closes faster than a cut on a Hawk, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
 
 **Senses.** Tetrachromatic vision: ultraviolet, thermal, and the glint of a wire. The inner ear filters a breath out of a gale.
 
@@ -95,7 +95,7 @@ The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname
 
 **Eyes.** Lateral-tracking eyes, vertical slit pupils. The color of the iris is the host's. Clear membranes under the ordinary lids sweep dust and glare. The wipe is `assets/media/mutation_raptor_membranes.jpg`. On the page she calls them membranes. Do not say nictitating membrane, second eyelid, or third eyelid.
 
-**Weapons.** Wild specimens carry a curved sickle claw on the inner digit. In a human subject the line shows up as the legs, the leap, and a fast start, often paired with handheld hooks that copy that arc. Tsunari's hooks are in `../../style/glossary.md`.
+**Weapons.** The donor animal in the archive had a sickle claw on the inner digit. No living population of that animal is on the barrens. The wildlife is in `ecology.md`. A human subject shows the legs, the leap, and a fast start, often with handheld hooks that copy that arc. Tsunari's hooks are in `../../style/glossary.md`.
 
 **Sound and heat.** A sub-vocal chamber for hunting clicks. She can drop toward a cool resting temperature and fall off a thermal scope. She is the cool body against a Raven's burn. The cool is not the ground. The ground is the Keystone, in `leash.md`.
 

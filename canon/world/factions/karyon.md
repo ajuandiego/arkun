@@ -73,7 +73,7 @@ These used the chimeric graft, one chosen sequence at a time. The graft is defin
 *   **Cold giants.** Large, cold-resistant humans, built with strains from glacial life on other worlds, for ice and high country.
 *   **The heavy builders.** Bigger, hairier people with stronger limbs, for hunting and for raising stone.
 *   **The second plane.** Minds that could experience time and space on another plane. They frightened anyone who heard them speak.
-*   **The healers.** Cellular restructuration, strong enough that some individuals could close another person's wound. The bloodline was destroyed. The sequence was kept and not put in a soldier again. A cut on a Raven closes faster than a cut on a Kite because his set-point turns the tissue over faster. That is the wing. It is not this closed line.
+*   **The healers.** Cellular restructuration, strong enough that some individuals could close another person's wound. The bloodline was destroyed. The sequence was kept and not put in a soldier again. A cut on a Raven closes faster than a cut on a Hawk because his set-point turns the tissue over faster. That is the wing. It is not this closed line.
 
 ## 9. Animal lines they closed
 
@@ -89,7 +89,7 @@ The five classes in `../life/strains.md` were not the only animal fronts.
 Bodies, mutagens, and common names are in `../life/strains.md`. Each class holds one facet of the ancestral sequence their living genome no longer carries whole. The animal is the template that kept that facet. The history under them is this.
 
 *   **Raptor.** The velociraptor project, recovered. Dromaeo-X Chrome is the modern mutagen. No common name. The archive is the purer sample, and it will not wake whole. Every other modern splice of this line is another failed attempt to bring that sample back. Tsunari holds because her father combined this archive with the other four facets and the combination stayed. The later ape-seed in ordinary human blood is the degraded copy. His inoculation is in `../../characters/tsunari.md`.
-*   **Avian.** The flight facet. Avian-H Vector. The template is 60% raven and other birds. Common names: Ravens and Kites. Vram is a Raven. His heat is the bird set-point the wing requires. The body is in `../life/strains.md`.
+*   **Avian.** The flight facet. Avian-H Vector. The template is 60% raven and other birds. Common names: Ravens and Hawks. Vram is a Raven. His heat is the bird set-point the wing requires. The body is in `../life/strains.md`.
 *   **Lycan.** The first chimera, and the stability facet. Lupine-A String. The template is 80% wolf and other mammals. Common name: Wolves. The plant-back is in the abductions, above. The lock itself is in the next section.
 *   **Ceraton.** The plate facet. Pachyd-D Link. The template is 70% rhino and other mammals. Common names: Rhinos and Tanks. Armor and mass. The Chrysalis is not this blood.
 *   **Galvan.** The shock facet. Voltax-34 Effect. The template is 75% electric eel and some amphibians. Common names: Sparks and Blinders. A palmar discharge, a sensor whiteout, and a hide that has to stay wet.
@@ -226,7 +226,7 @@ Modern human history recorded the arrival of the Karyon in 2032 as "First Contac
 *   Millennia before modern industrialization, a scientific vanguard of Karyon maintained orbital outposts and subterranean research cradles across ancient Persia, Mesopotamia, the Mediterranean, and East Asia.
 *   **The retired bestiary:** An older draft treated folklore monsters as the five strains. That list loses to the animal lines, the five strains, and `../life/strains.md`. The Karyon grafted animals that already solved a problem. Humans told monster stories after the scientists left. The five templates are Avian, Lycan, Ceraton, Galvan, and Raptor.
 *   **The Great Withdrawal (ca. 500 BCE):** A violent internal schism among the ancient Karyon forced their departure from Earth. Deprived of the Karyon’s catalytic atmospheric frequency, the ancient strains suffered metabolic collapse and gradually died out. Humanity preserved their existence through oral myth, temple carvings, and folklore.
-*   **The 2032 Reality:** When the Karyon returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The winged military legions engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Karyon archeo-genetic vaults excavated from beneath the earth. Today, feral resurrected packs of *Raptors* also roam the unshielded wasteland, making the Rust Barrens a lethal predator hunting ground.
+*   **The 2032 Reality:** When the Karyon returned in 2032, they did not discover humanity—they returned to harvest the genetic seeds they had planted millennia ago. The winged military legions engineered by the Consortium are not modern human inventions; they are reconstructed using ancient Karyon archeo-genetic vaults excavated from beneath the earth. The barrens' living pack is the feral dog, in `../life/ecology.md`.
 
 
 ### The Five Pillars of Alien Dominion (How They Control Earth)

@@ -42,7 +42,7 @@ Taken from a Gray Sector orphanage at age seven (in Year 19 AS) by Consortium ge
 
 ## 4. The Male Biotype (Avian-Augmented) & Natural Skillset
 *   **The Living Thermal Furnace (104°F–106°F):** A Raven's resting line. The cause is the bird set-point the wing requires, in `../world/life/strains.md`. In a freezing night that heat keeps Tsunari alive.
-*   **Knit:** A cut on him closes faster than a cut on a Kite. Same cause, same file.
+*   **Knit:** A cut on him closes faster than a cut on a Hawk. Same cause, same file.
 *   **Cardiac shock:** The one Apex failsafe fitted to a command Raven. It fires once. Then he is spent. Same file.
 *   **Supersonic Reflexes & Biological Flight:** Master of high-altitude autonomous flight on his 14-foot feathered wings, capable of pulling 12G maneuvers and riding thermal updrafts without fatigue. Tetrachromatic vision capable of tracking thermal plumes, electrical grids, and sniper trajectories across miles.
 

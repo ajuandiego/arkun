@@ -4,21 +4,21 @@
 
 *   **Chapter 23 // Tsunari**
     *   *Epigraph (Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal — Excavation Layer IV, Year 29 AS):*  
-        > *"The Raptor does not roar. It measures. It calculates the footfall, the heartbeat, the breath between panic and surrender. Do not run from the scythe-toe. If you flee, you are prey; if you stand, you are a rival."*
+        > *"The Raptor does not roar. It measures. It counts the footfall, the heartbeat, the breath between panic and surrender. If you flee, you are prey. If you stand, you are the problem it has to solve."*
     *   *Setting:* An abandoned pre-collapse freight transit depot half-buried in the dunes.
-    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container just as the howling desert wind carries the unmistakable hunting clicks of a wild **Raptor pack**.
+    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander across the red sand into a rusted shipping container as a pack of feral dogs goes quiet across the depot.
 
 *   **Chapter 24 // Tsunari**
     *   *Lexicon Entry (Raptor, Dromaeo-X Chrome):*
         > **Raptor** *[archeo-genetics]*: No common name. Terrestrial hunter. Stronger legs, sub-vocal clicks, clear eye membranes, and a cool resting temperature. Origin: 79% dromaeosaurus and other reptiles.
     *   *Setting:* The interior of the shipping container.
-    *   *Core Action:* The alpha stalker enters. Tsunari matches its throat clicks, assumes a low predatory counter-stance, and triggers her **Quantic Phase-Stutter**—accelerating her temporal vector to ghost-step past the beast's razor jaw, driving her bodkin knife into its shoulder joint.
+    *   *Core Action:* The lead dog comes into the container. Tsunari cannot speak it. She triggers her **Quantic Phase-Stutter**, ghosts past the rush, and drives her bodkin knife into the shoulder.
 
 *   **Chapter 25 // Vram**
     *   *Epigraph (Overground Railroad Smuggler Slate — Lycan Network):*  
-        > *"The desert belongs to the beasts by day and the cold by night. If you hear an engine, stay down. If you hear a click, don't breathe. If you see yellow headlights, show your palm."*
+        > *"The desert belongs to the beasts by day and the cold by night. If you hear an engine, stay down. If the barking stops, get high. If you see yellow headlights, show your palm."*
     *   *Setting:* The loading dock of the freight depot.
-    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram vents the wing engine and crushes the alpha's skull with a single blow. As the remaining pack encircles them, **Kira Brandt** roars in on a modified sand-crawler, scattering the beasts with phosphor flare-slugs and hauling them into an underground maintenance bunker.
+    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram vents the wing engine and kills the lead dog with a single blow. As the rest of the pack closes, **Kira Brandt** roars in on a modified sand-crawler, scattering them with phosphor flare-slugs and hauling the pair into an underground maintenance bunker.
 
 *   **Chapter 26 // Tsunari**
     *   *Lexicon Entry (The Night Freeze & Thermal Swings):*  
@@ -42,8 +42,8 @@
 
 ### THE FATAL SIPHON (Interlude IV — Between Chapter 28 & Chapter 29)
 *   **POV:** Omniscient Narrator (Observing Lieutenant Cassian, 28, Wing 3 Aeros-Legion Pilot, Sector 09 Upper Garrison).
-*   **Core Theme:** The tragic reality of the Synapse Siphon and the fatal consequences of unauthorized back-alley grounding; establishing the singular role of the Mosaic Keystone.
-*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts to Sector 09 seeking illegal relief. He pays Nyx, a dancer with an illicit Galvan splice, to ground the static in a back room. A wet hide cannot ground an alien carrier wave without Null-Resonance. The siphon surges. In the struggle, the glands in Nyx's palms open against his throat and pump a Galvan secretion into his blood. Cassian dies in convulsions on the floor from siphon overload and that toxin. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, an alley remedy is lethal.
+*   **Core Theme:** The gain at the top of what a mesh can carry, and what that does to a legionnaire who has no Mosaic Keystone.
+*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts. The Directorate does not lower the gain. The carrier sits at the top of what the mesh can carry. The burn takes him. No second strain touches him. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, that ceiling is fatal.
 
 ***
 
