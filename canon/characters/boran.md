@@ -3,7 +3,7 @@
 *   **Role:** Former Sergeant of the 4th Heavy Breachers; veteran subterranean freight line guard and demolition expert.
 *   **Age:** 36 (an ancient survivor among combat chimeras).
 *   **Strain Chart & Arkun:**
-    *   *Genetics:* **100% Ceraton (Rhino).** Towering at 6'8", dermal plates over the shoulders, chest, back, and thighs, and a keratin boss on the forearm. The plates stop shrapnel and hold heat. He is not immune to bad air.
+    *   *Genetics:* **100% Ceraton (Rhino).** Towering at 6'8". Bald. A keratin horn on the center of the brow. Grey cracked hide over the face, the neck, the shoulders, the upper arms, and the upper back. The plates stop shrapnel and hold heat. He is not immune to bad air. The locked sheet is `assets/media/rhino_1.jpg`. The class is in `../world/life/strains.md`.
     *   *True Character / Core Drive:* *The Immovable Bulwark / The Cynical Protector.* Has seen every corporate promise rot into lies; believes the only truth in the universe is holding the ground with your own two feet.
     *   *Manifested Arkun, Seismic Bastion:* Slams his fists or knuckles into solid bedrock or reinforced decking to project a dense kinetic shock-wave that shatters vehicle axles, halts incoming ballistic charges, and anchors structures from collapsing.
 *   **Personality & Voice:** Deep, rumbling baritone that sounds like two tectonic plates grinding together. Dry, deadpan, and unshakeable.

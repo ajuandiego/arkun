@@ -45,21 +45,21 @@ A closed hand is hot because the tissue is at that set-point. A cut on a Raven c
 
 **Build.** Endurance first, then the jaw. Strong through the shoulder, built to take a hit and keep going. A woman stays a woman. A man stays a man.
 
-**Hide.** A human face, human ears, and human hands. The pupils are round. Hair on the head continues as thick fur over the shoulders, the upper arms, and the upper back. It is the person's own hair, not a garment, and it is very furry there. The forearms stay mostly skin. Hair color and fur color vary. No muzzle, no quills. The wolf is the donor, not a second animal stapled on. The locked sheets are `assets/media/kira_3.jpg` and `assets/media/hound.jpg`.
+**Hide.** A human face, human ears, and human hands. The pupils are round. Long hair continues from the head and thickens into fur over the shoulders, the upper arms, and the upper back. It is the person's own hair, not a garment, and it is very furry there. The forearms and the chest stay mostly skin. Hair color and fur color vary. The feet are human. No muzzle, no quills. The wolf is the donor, not a second animal stapled on. The locked sheets are `assets/media/kira_4.jpg` and `assets/media/hound_2.jpg`.
 
 **Senses.** A nose that can pick adrenaline, sweat, and blood out of a dust storm. A tapetum that shines in low light. Hearing ahead of a baseline human.
 
-**Weapons.** A jaw with real torque. The nails are human fingernails. The skin is not armor.
+**Weapons.** A jaw with real torque. The upper canines are longer than a human's and show when the lips part. The rest of the mouth is a person's mouth. The nails are human fingernails. The skin is not armor.
 
 **Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
 
-Kira Brandt is a Wolf with no corporate pedigree. On her the hair and the fur are tawny. The male sheet is `assets/media/hound.jpg`, and on him they are dark. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
+Kira Brandt is a Wolf with no corporate pedigree. Her locked sheet is `assets/media/kira_4.jpg`. The male sheet is `assets/media/hound_2.jpg`. Hair color and fur color vary between them. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
 
 ### 3. Ceraton — Rhinos and Tanks
 
-**Build.** Mass. Dense bone. A short charge, then he is spent. 6'8" is a soldier's height, not a new species.
+**Build.** Mass. Dense bone. A short charge, then he is spent. Bald. A woman stays a woman. A man stays a man. Boran Vael-Korr is 6'8". That is his height, not a new species.
 
-**Hide.** Dermal plates over the shoulders, chest, back, and thighs, folded and tubercled the way an Indian rhino's hide is. Under impact the plates lock: collagen and keratin cross-link, and a round has to chew through them. A keratin boss sits on the forearm or the brow. It is a ram. It is not a horn on the face. Soldiers who live in the plates are called Tanks. The animal name is Rhino.
+**Hide.** Grey, cracked hide, like stone, over the neck, the shoulders, the upper arms, and the upper back. The chest, the belly, and the forearms can stay closer to skin. Under impact the hide locks: collagen and keratin cross-link, and a round has to chew through it. A keratin horn can rise from the center of the brow. It is not on every Rhino. Human hands, human feet, human teeth. Amber eyes. Soldiers who live in the hide are called Tanks. The animal name is Rhino. The locked sheets are `assets/media/rhino_1.jpg` and `assets/media/rhino_woman_1.jpg`.
 
 **Senses.** Poor eyes, excellent smell and hearing. Impact and footfall reach him through the bone.
 
@@ -67,15 +67,17 @@ Kira Brandt is a Wolf with no corporate pedigree. On her the hair and the fur ar
 
 **What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyon treatment, not rhino blood. See `../factions/karyon.md`.
 
-Boran Vael-Korr is a Rhino.
+Boran Vael-Korr is a Rhino. His locked look is `assets/media/rhino_1.jpg`: the brow horn, and the grey hide across the face, the neck, the shoulders, and the upper back.
 
 ### 4. Galvan — Sparks and Blinders
 
-**Build.** A human frame with the eel's smooth, scaleless hide and a lateral line along the ribs that reads current. The amphibian share keeps a gland layer in the skin.
+**Build.** A human frame. A woman stays a woman. A man stays a man.
 
-**The shock.** Modified muscle stacked in the forearms. It leaves through the palms. A Spark uses that discharge as a weapon. A Blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
+**Hide.** Human skin marked with dark, irregular spots across the shoulders, the upper arms, the upper back, and a scatter on the face, the neck, and the chest. The iris glows yellow. The pupils are round. Small upper canines show when the lips part. Human hands, human feet. The locked sheets are `assets/media/eel.jpg` and `assets/media/eel_woman.jpg`.
 
-**Air.** They gulp, and they tolerate standing water and a sulfur seep better than the other four. The skin has to stay wet. In the dry barrens the breath and the shock both fail if the hide dries.
+**The shock.** Modified muscle stacked in the forearms. It leaves through the palms, and on the sheets it arcs off the hands. A Spark uses that discharge as a weapon. A Blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
+
+**Air.** They gulp, and they tolerate standing water and a sulfur seep better than the other four. The skin has to stay wet. In the dry barrens the breath and the shock both fail if the hide dries. The wet read picks current and a heartbeat in water or along metal. It is not a stripe painted on the ribs.
 
 **The secretion.** The amphibian share can load the palmar glands with a toxin. A scratch is a medical event. It is not a Ceraton weapon, and it does not ground a siphon.
 

@@ -50,7 +50,7 @@ Fury or a hard adrenaline spike is what wakes the tree. For as long as that stat
 ### 4. Galvan (Sparks and Blinders)
 *   **Palmar discharge:** The eel's stacked muscle, in the forearms, leaving through the palms. A Spark spends it as a strike.
 *   **Blinder:** The same charge, spent wide. Eyes, ears, and sensors white out. It is short. Then the soldier is empty.
-*   **Wet read:** The lateral line picks current and a heartbeat in water or along metal.
+*   **Wet read:** Current and a heartbeat, read in water or along metal. The spots are the visible mark. There is no stripe on the ribs.
 *   **Secretion:** The amphibian share can load the palmar glands with a toxin. A scratch is a medical event. It does not ground a siphon.
 
 ### 5. Lycan (Wolves)
