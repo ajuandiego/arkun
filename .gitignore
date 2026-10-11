@@ -2,3 +2,4 @@ node_modules/
 reader/node_modules/
 .DS_Store
 *.log
+.obsidian/
