@@ -1,104 +1,97 @@
 # Chapter 23 // Tsunari
 
-> *"The Dromaeon does not roar. It measures. It calculates the footfall, the heartbeat, the breath between panic and surrender. Do not run from the scythe-toe. If you flee, you are prey; if you stand, you are a rival."*  
-> — Marginalia in Dr. Jeffrey Thorne’s Clandestine Field Journal (Excavation Layer IV, Year 29 AS)
+> *"Feather to feather, bone to bone  
+> None of the Aerie falls alone.  
+> Break the wind and ride the squall  
+> If one must dive, we catch the fall."*  
+> — Aeros-Legion Cadence (Chanted during high-altitude tether drills, unrecorded in official manuals)
 
 ***
 
-The red sand does not yield. It freezes.
+The air on the upper landing pad smells of impending execution.
 
-By night, the Rust Barrens are not a desert; they are an open-air crypt. Without an upper ozone layer or cloud cover to insulate the ground, the surface temperature plummets seventy degrees the moment twilight bleeds into darkness. The oxidized iron dust, so fine it penetrates the seals of a respirator, crusts underfoot like frozen blood.
+Above the 800-foot rim of the canyon, the toxic twilight has vanished, swallowed whole by the blinding, magnesium glare of high-intensity aerial spotlights. 
 
-I dig the heels of my scavenger boots into the slope of the dune, hauling two hundred and thirty-five pounds of transgenic soldier, shattered bone, and wet feathers through the freezing powder.
+Three corporate atmospheric barges—armored, heavy-lift command platforms from Dome Alpha’s Iron Division—drift four hundred feet above the redoubt, their downwash churning the copper dust into a blinding sandstorm that screams against the concrete. Beneath the roar of the inductive thrusters comes a sound that freezes the marrow in my ribs: the rhythmic, concussive beat of dozens of feathered wings snapping open in the wind.
 
-Vram’s heavy combat boots drag two deep, parallel furrows through the red sand. His head lolls against my left shoulder, his breath coming in ragged, shallow gasps that freeze into clouds of white steam against my neck. His left arm hangs limp and unnatural, the shoulder joint dislocated, while his left wing trails behind us like a broken black sail, its primary quills snapped in half by the tungsten shrapnel.
+Aeros-Legion 7 has arrived.
 
-Even unconscious, his body burns.
+They circle in a wide, lethal perimeter above the gorge—eight winged silhouettes against the bruised magenta sky, their fourteen-foot obsidian spans catching the red perimeter beacons like falling cinders. 
 
-His core temperature has spiked back toward 107 degrees—the Silver Spine in his brainstem misfiring in violent, chaotic short-circuits now that the physical trauma of the crash has overwhelmed his nervous system. Heat radiates off his chest like an open hearth, melting the frost on my bare collarbones, turning the red sand beneath his back into sizzling, blackened slurry.
+Cassian. Ferrin. Toby. 
 
-"Come on," I grumble through clenched teeth, my legs straining as I haul him over the crest of the dune. "Move your feet, Commander. I didn't pull you out of the sky just to watch you freeze to death in a ditch."
+Vram’s squad. His brothers. The boys who shared his unheated barracks and counted the millimeters of scar tissue widening around their siphons.
 
-A low, delirious rumble catches in his throat—a feral, chimeric sound that vibrates against my collarbone. His good right hand twitches, his calloused fingers weakly searching for the grip of his kinetic sidearm, but his golden eyes remain glassy, unseeing, lost in the violet fog of neuro-decay.
+They have been scrambled under full Decimation orders.
 
-Ahead of us, half-buried beneath twenty feet of shifting iron powder, the skeletal remains of an ancient pre-collapse freight depot rise from the dunes.
+Beside me on the landing pad, Vram stands with his back to the canyon abyss. 
 
-A hundred years ago, before the sky turned copper and the Vaelen arrived, this was a trans-continental rail yard—a junction where automated electric freight trains carried raw lithium and titanium from the southern ranges to the coastal cities. Now, it is an iron boneyard: dozens of sixty-foot steel shipping containers scattered across the sand like giant dominoes, their corrugated walls pitted with decades of acid storms, their corporate logos rusted into unreadable orange scabs.
+His left shoulder is drenched in dark crimson blood where the Inquisitor’s bio-lance tore through his deltoid, but his right hand works with calm, terrifying military speed. He pulls his heavy tactical flight rig from the ground, kicking the mangled titanium scraps of the alien skiff into the dark.
 
-One container, twenty yards ahead, sits tipped on its side against the depot’s reinforced concrete loading dock. 
+"Tsunari," he says, his voice cutting through the shrieking thruster roar with steady, unyielding steel. "Step forward."
 
-The heavy cargo doors hang half-open, jammed on frozen hinges.
+I look at him. Then I look past his shoulder, down into the sheer, eight-hundred-foot vertical drop of the canyon.
 
-A shelter. 
+At the bottom of the gorge, jagged basalt spires and razor-sharp titanium debris from pre-collapse bridges rise from the darkness like rows of shark’s teeth. A drop from this height means terminal velocity in four seconds. It means painting the rocks before the brain can register the impact.
 
-I gather my strength, hooking my arms beneath Vram’s broad armpits, and drag him across the frozen salt pan toward the container’s threshold. 
+In the Gray Ring, I have leaped across five-story alleyways. I have rebounded off shattered parabolic mirrors. But unassisted flight? Entrusting my life completely to another creature's spine?
 
-And then, the desert wind changes.
+Every survival instinct honed over ten years of hunting in the sewers screams at me to turn back, to dive into the drainage culverts, to take my chances with the dark.
 
-A sound rides the freezing gale—faint, rhythmic, carried over the crest of the eastern dunes.
+"You can't outrun the barges on foot," Vram says, his golden eyes locking onto mine through the flying dust. "Their thermal optics will spot your heat signature in the culverts before you clear two hundred yards. The only way through the dead perimeter is the sky."
 
-*Click-click-chhk.*
+He opens the heavy chest straps of his flight harness.
 
-I freeze. 
+"Stand against me," he commands softly.
 
-The hairs on the nape of my neck stand on end. 
+The words are simple, but the weight behind them is suffocating. 
 
-The sound is not mechanical. It is not the turbine whine of a corporate drone or the tread of an iron-scute breacher. 
+I step forward into his reach.
 
-It is an acoustic throat-click—the low-frequency sub-vocal echolocation pulse produced only by the resonant air sacs of a **Dromaeon**.
+The heat radiating from him hits me like an open furnace door. Even through the torn linen of my combat tunic and the ballistic weave of his flight rig, standing against him feels like stepping directly into a forge. 
 
-A wild pack.
+"Legs," he orders, his voice rougher than before. "Around my hips. Lock them, Tsune."
 
-My slit pupils dilate, drinking in the darkness of the surrounding dunes. 
+I swallow hard, lifting my knees. My thighs wrap around his waist, the muscular curve of my inner legs straddling his hips. With swift, merciless efficiency, he threads the secondary tactical webbing beneath my thighs, cinching the brass ratchets down until there isn't a sliver of air between us. 
 
-In the Gray Sectors, children are told that the raptor strains were eradicated fifteen years ago during the Great Purge. But out here, in the radioactive wastes of the Rust Barrens, the feral crèches survived. Abandoned by corporate handlers, untamed by surgical siphon collars, they grew wild—hunting in packs across the salt flats, tracking prey by body heat and the scent of iron in the wind.
+The harness binds us flush—pelvis to pelvis, chest to chest, my small breasts flattened against the hard, unyielding plates of his pectoral armor. With every heave of his lungs, the friction is intoxicating, sending a suffocating jolt of electricity straight down into the pit of my stomach. Through the layers of combat gear, the hard, uncompromising ridge of his body presses against my lower abdomen—a raw, involuntary physiological response that neither of his disciplined masks can hide.
 
-And right now, Vram’s broken body is radiating both.
+His breath catches. His jaw cords into iron, a muscle ticking beneath his trimmed beard as he fights his own traitorous blood for control. 
 
-His 107-degree furnace heat stands out against the sub-zero sand like a flare fired into the night, while the fresh blood from his shattered wing leaves a steaming, copper-slick trail across the dunes.
+*God help me,* the thought slices through my panic, sharp and humiliating. *He is a corporate butcher, and my body is melting against his groin like butter in a pan.*
 
-*Click-click... clatter.*
+His large, scarred hands haul the shoulder buckles down, his knuckles brushing the bare skin of my ribs. The contact makes my breath hitch. Beneath my palms, his upper chest is burning, while my cool reptilian scales pulse with an involuntary, calming resonance that seeks to ground his rising fever.
 
-A secondary click answers from the north. Closer now—barely three hundred yards away, circling the depot in a wide, flanking semicircle.
+"Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper, ozone, and dark cedar against my cheek. "Listen to me."
 
-They have our scent.
+I look up into his molten gold gaze, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
 
-"Vram," I whisper, leaning down until my lips brush his ear, shaking his uninjured shoulder. "Wake up. We have company."
+"The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming thrusters above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
 
-His eyelids flutter. His golden pupils contract into narrow, fevered needles as his gaze struggles to find mine in the dark. 
+"And if you get hit?" I whisper against his jaw, my lips grazing the rough stubble of his cheek.
 
-"Tsune..." he rasps, his dry lips cracking with the word. "The... the sky..."
+"Then I lock my wings and we burn together," he answers without flinching. "Just like I promised."
 
-"The sky is clear," I say softly, hauling him through the narrow gap between the shipping container’s rusted cargo doors. "It’s the ground you need to worry about."
+A sudden, deafening loudspeaker crackles from the lead command barge hovering above the rim:
 
-I pull him into the pitch-black interior of the container. 
+*"Commander Tyage! Stand down and release the biological contaminant! You have executed an extraterrestrial overseer under the Heresy of the First Hand! Disengage flight surfaces immediately or your squadron will initiate automated termination fire!"*
 
-The floor is thick with red dust, old plastic packing crates, and the dry, papery husks of desert scorpions. It is freezing, but the six-inch corrugated steel walls cut the wind. 
+Above the barge, the winged silhouettes of Aeros-Legion bank in tight tactical formation. 
 
-I lower Vram onto a pile of collapsed packing foam in the far corner, propping his back against the rusted bulkhead. His left wing hangs mangled at his side, the shattered primary shafts weeping dark, coagulated blood onto the foam. 
+I see Cassian at the point, his kinetic rifle raised, his flight quills trembling in the crosswinds. I see Ferrin hovering thirty yards to the flank, his power cell cycling with an agitated whine. And lower down, riding the turbulence along the cliff edge, young Toby Vance hovers with his wings flared wide, his eyes wide and horrified behind his gold-mirrored visor as he stares at the bloody alien carcass on the pad.
 
-I reach down to his utility belt, unclip his heavy kinetic sidearm, and slide it into his right hand, closing his large fingers around the grip. 
+"They're painting us with target locks," I say, feeling the prickle of laser guidance systems against the skin of my back.
 
-"Keep your finger off the trigger until you see their eyes," I command quietly. "A kinetic slug will blow a hole through the container wall and alert every tracker within ten miles."
+"Let them paint," Vram growls.
 
-He nods weakly, his knuckles turning white as his grip tightens around the weapon. "And you?"
+He steps backward. 
 
-I draw my father's five-inch steel bodkin knife from my hair bun with my left hand. 
+His boots reach the very edge of the stone precipice. Behind our locked bodies, his fourteen-foot obsidian wings snap open with a sound like heavy canvas cracking in a hurricane, expanding into the freezing canyon gale. The iridescent crimson and copper highlights along his primary quills catch the blinding searchlights, glowing like molten gold against the dark.
 
-With my right, I draw the curved Spire hook from the low sheath at my hip, the blackened steel seating into my palm with a quiet, satisfying ring.
+"Hold tight, Tsune," he whispers against my temple.
 
-"I’m going to introduce myself," I whisper.
+I wrap my arms around his neck, burying my face into the crook of his collarbone, breathing in the scent of his skin—rain on hot asphalt, ozone, and dark cedar.
 
-I turn toward the open cargo door.
+Vram leans back into eight hundred feet of empty space.
 
-Outside in the starlight, a low silhouette crests the red sand dune twenty paces away. 
-
-Lean. Cursorial. Seven feet from snout to stiff balance-tail, covered in mottled gray dermal scales that blend seamlessly with the frozen iron dust. Its predatory amber eyes glow with faint, bioluminescent night-shine as its head tilts in a rapid, calculating avian twitch.
-
-The alpha stalker.
-
-Its throat sacs inflate beneath its jaw. A low, dry rattle rolls through the frozen air:
-
-*Click-click-chhk.*
-
-I step into the moonlight, lowering my center of gravity, and click back.
+The ground vanishes.

@@ -1,136 +1,136 @@
 # Chapter 41 // Tsunari
 
-> *"Purge clearance granted: Level Crimson. Deploy pneumatic breachers to the lower sluices; initiate aerosol sweep of the scrubber banks. Collateral baseline civilian loss acceptable within 85% parameters. Recover the rogue assets dead or alive."*  
-> — Emergency Dispatch, Directorate Tactical Command (Sector 09 Purge Order)
+> *"A breath taken is a debt owed. No man drinks clean water while his neighbor chokes on rust. The Gilded inside the glass sell tomorrow for today; down here, we trade our blood to keep the filters turning."*  
+> — Charter of the Air Scrubber Guild (Ratified by the Baseline Elders, Sector 09, Year 15 AS)
 
 ***
 
-The lower sluice corridor is a storm of boiling white steam and screaming iron.
+The Iron Market smells of fried soy dough, hot solder flux, and humanity.
 
-Fifty yards ahead, Madame Vrena Chen stands on an elevated control platform, her bronze prosthetic wrench-arm clamped onto the master bypass valve of the municipal heating lines. With a savage twist, she cracks the valve wide open.
+It occupies the subterranean expanse of a pre-collapse locomotive roundhouse, two hundred feet below the neon-lit surface of Sector 09. A massive turntable pit in the center has been converted into a communal water refinery, surrounded by three tiers of stalls hammered together from corrugated sheet metal, rusted shipping crates, and salvaged copper piping. 
 
-A wall of four-hundred-degree industrial steam roars into the entry tunnel, engulfing the advancing squad of Directorate mechanized breachers. 
+Hundreds of people crowd the narrow alleys: baseline scavengers in patched wool, guild machinists with brass calipers tucked behind their ears, and children with soot-streaked cheeks chasing mechanical clockwork rats across the tracks. Above them, suspended from the soot-blackened ceiling, giant industrial air scrubbers turn with a low, bone-deep hum, pushing warm, filtered air down into the living spaces.
 
-The thermal imaging systems in their black combat helmets are instantly overwhelmed by the blinding, white-hot fog. Their target locks scramble, their kinetic miniguns firing blind into the masonry walls in frantic, deafening bursts that chew chunks of concrete from the arches.
+Ren weaves through the crowd like an eel, his courier satchel slapping against his hip.
 
-Out of the steam emerges **Boran Vael-Korr**.
+"Keep your wings tucked, Commander," the boy mutters over his shoulder. "Folks down here are jumpy. The Directorate cut the clean air quotas by twenty percent last Tuesday, and the Guild has been rationing the filter cartridges."
 
-The Lindwurm giant does not duck; he does not seek cover. He plants his boulder-like boots into the slime of the threshold, his slate-gray lithodermic plating shrugging off stray kinetic ricochets like raindrops off a cliff face. 
+Vram keeps his wings folded tight against his spine, draped beneath a heavy, oil-stained canvas poncho Ren swiped from a freight locker. Even cloaked, his height and broad shoulders draw wary glances from the market guards—men and women wearing the green armbands of the **Air Scrubber Guild**, armed with crude kinetic pipe-guns and pneumatic rivet drivers.
 
-With a roar that shakes the rust from the ceiling, he swings his six-foot tungsten demolition hammer in a wide, horizontal arc.
+Ren stops before a reinforced steel door at the back of the roundhouse, beneath a hand-painted wooden sign: *SCRUBBER GUILD LOCAL 09 — MAINTENANCE & ALLOCATION.*
 
-The hammer strikes the lead breacher’s powered chest rig with the force of an artillery shell. 
+He knocks four times—two slow, two fast.
 
-The hydraulic actuators in the exosuit explode in a shower of sparks and hydraulic fluid; the soldier is launched backward twenty feet, crashing into his squad-mates like a bowling ball through pins. 
+The viewing hatch slides open with a rusty rasp. A pair of sharp, rheumy eyes takes in Ren, sweeps over me, and widens as they settle on Vram’s massive silhouette.
 
-"Is that all the iron you brought, tower-rats?" Boran bellows, cracking the neck of a second soldier with a granite-plated backhand. "My grandmother hit harder with an iron skillet!"
+The heavy door unlatches and swings inward.
 
-While Boran holds the bottleneck, my mission is at the opposite end of the corridor: the primary emergency blast door protecting the subterranean vestibule of The Glass Vault.
+Inside, the office is warm and cluttered, lit by brass filament lamps. Shelves of copper valves, replacement centrifuge gaskets, and hand-drawn municipal blueprints line the walls. 
 
-If the cult’s demolition squads breach that door, Gideon’s archives will be overrun before Vram can clear the upper flues.
+Behind a heavy oak desk salvaged from some long-dead corporate bank sits **Madame Vrena Chen**.
 
-I sprint across the slick catwalk, my boots splashing through an ankle-deep flood of condensing water. I reach the hydraulic control console mounted to the jamb and slam my palm against the emergency release lever.
+She is sixty, with steel-gray hair pulled back into a severe bun, her face etched with the deep, permanent creases of someone who has inhaled sulfur dust for half a century. Her right sleeve is pinned to her shoulder, replaced by an intricate, hand-machined bronze prosthetic ending in a three-jawed mechanical wrench. In her left hand, she holds a lit hand-rolled clove cigarette, the blue smoke curling around her silver spectacles.
 
-Deep within the masonry, the two-foot-thick armor steel door begins its slow, grinding descent.
+She takes one slow, deliberate drag of the cigarette, exhales through her nose, and fixes her gaze directly on Vram.
 
-Above my head, the ceiling grating screams.
+"Commander Vram," she says. 
 
-Tons of rusted iron tear open in a shower of sparks, and a monstrous, eight-foot silhouette crashes down onto the catwalk five paces in front of me.
+Her voice is like dry gravel ground between millstones. 
 
-**Commander Malakar.**
+"I wondered how long it would take before Eden Alpha's pet hawk came down to inspect the coops."
 
-The impact shatters the concrete beneath his boots. 
+The four guild guards flanking the room raise their pipe-guns, the heavy iron hammers cocking back with sharp, threatening clicks.
 
-He rises from the rubble like a demon forged in an open kiln. The Crucible Mutagen has turned his skin into a nightmare of weeping, magma-orange fissures; the four pneumatic exhaust vents on his back hiss deafening clouds of sulfur vapor. In his massive right hand, he swings his six-foot tungsten rail-flail, the skull-sized head humming with lethal kinetic potential.
+I step forward, my hand dropping toward my knife hilt, but Vram lays a gentle, restraining hand on my forearm. 
 
-His boiling amber eyes lock onto mine.
+He steps past me, into the center of the office. 
 
-"The serpent," Malakar roars, his voice a grotesque, wet gurgle of blood and madness. "The Forger sends his regards to the grave!"
+With a calm, unhurried motion, he unclasps the canvas poncho and lets it slide from his shoulders to the floor. His battered flight harness, his torn tunic, and the tattered, bruised expanse of his obsidian wings are laid bare under the lamplight. 
 
-He steps forward, raising the tungsten flail above his head.
+He does not reach for his pistol. He unbuckles his holster and lays the Directorate weapon flat on Madame Chen’s desk.
 
-My temporal phase-stutter is completely drained; my neural receptors are still recovering from the jump in the cistern. I cannot ghost-step past him. I draw my steel bodkin knife, drop into a low counter-stance, and prepare to bury the blade in his throat before the flail crushes my ribs.
+"Three years ago," Vram says, his voice low and steady. "The Food and Filter Riots of Sector 09. My wing was ordered to enforce the lockdown. We sealed the intake vents at Sub-Level 4. Four hundred baseline citizens suffocated before the council surrendered their copper reserves."
 
-The flail whistles down in an executioner's strike.
+The room goes dead silent. 
 
-A shadow drops from the high ventilation ducts.
+One of the young guards, his hands shaking, presses the muzzle of his pipe-gun against the back of Vram's neck. The iron barrel trembles against the dark feathers at the base of his skull.
 
-A girl’s scream—shrill, desperate, and filled with wild, defiant fury—cuts through the hiss of the steam:
+Vram does not flinch. He doesn't close his eyes.
 
-"She is not your sacrifice, monster!"
+"I signed the flight log," Vram continues, looking Madame Chen dead in the eye. "I commanded the perimeter. The Director said it was an acceptable statistical loss to preserve the agricultural domes. The Director called it resource management."
 
-**Caelia.**
+"And what do you call it, boy?" Madame Chen asks, her voice deadly soft, her bronze prosthetic twitching slightly against the desk.
 
-She lands directly between Malakar and me, her soot-stained body throwing itself into the path of the descending weapon. 
+"Murder," Vram says. 
 
-She crosses her twin rebar hook-blades in an X-block above her head, intercepting the skull-sized tungsten sphere three inches above her skull.
+The word falls into the room with the weight of an iron ingot.
 
-The impact is horrific.
+"I cannot give you back the breath I took," he says, bowing his head slightly, a gesture of absolute, solemn submission that shocks the armed guards into stillness. "I cannot unseal those vents. But I am done carrying water for the monsters in the glass towers. If you want my blood for your dead, take it. But if you want to keep your filters turning, I have something you need."
 
-The sheer kinetic force behind Malakar’s blow shatters the steel rebar blades into twisted scrap. The momentum carries through, smashing into Caelia’s left shoulder and collarbone with a sickening, wet crunch of splintering bone.
+Madame Chen stares at him for a long, agonizing minute. The clove cigarette burns down to her knuckles before she slowly crushes it out in an iron shell casing.
 
-The girl is thrown backward into the concrete doorframe, hitting the stone with an impact that knocks the air from her lungs in a bloody spray. 
+She waves her bronze prosthetic at the guard behind Vram's head.
 
-She falls onto her side, her left arm crumpled beneath her, gasping for breath through broken teeth.
+"Lower the pipe, Jarek," she grunts. "If the sky-soldier wanted us dead, he wouldn't have handed over his gun."
 
-Malakar roars in frustration, his flail rebounding off the stone.
+The guard hesitates, then slowly lowers the weapon, stepping back against the wall.
 
-Those three seconds are everything.
+Madame Chen leans forward, resting her chin on her flesh-and-blood palm.
 
-I don't pause to think. I don't hesitate.
+"Talk, Commander. What do you have that’s worth four hundred lives?"
 
-I dive beneath Malakar's recovering backswing, rolling across the wet flags, grabbing Caelia by the harness of her scorched tunic with my left hand, and hauling her through the descending threshold of the blast door.
+Vram reaches into his boot and pulls out a small, hexagonal brass data cylinder—the Directorate auxiliary command key he removed from his flight rig before escaping Eden Alpha. He places it beside his sidearm on the desk.
 
-Malakar lunges after us, his massive frame diving for the gap.
+"The Directorate maintains four high-pressure auxiliary air lines beneath the agricultural quadrants," Vram explains. "They use them to vent excess ozone and pure oxygen into the atmosphere during storm cycles. The bypass switches are coded to my personal command frequency. That cylinder contains the encryption keys."
 
-"Die in the slag!" the giant bellows, thrusting his arm through the opening.
+Madame Chen’s eyes widen behind her spectacles. Her breath catches in her throat.
 
-The two-foot-thick armor steel blast door slams shut.
+"If we tap those lines..." she whispers, her fingers trembling as she reaches out to touch the brass cylinder, "we could double the oxygen supply to the lower sumps. We wouldn't have to ration the pediatric wards."
 
-The descending edge catches Malakar’s outstretched arm just above the wrist, shearing through bone, muscle, and steel chain with a concussive, final *thud* that shakes the entire foundation of the sector.
+"It's yours," Vram says. "Unconditional."
 
-A muffled, agonized roar echoes through the steel from the other side, followed by the frenzied pounding of his remaining fist against the immovable armor plate.
+Madame Chen looks up from the cylinder, studying Vram’s face with a new, piercing intensity. The cynicism in her features softens into a reluctant, profound respect.
 
-Then, silence.
+"You're a fool, Commander," she says gruffly, though there is no venom left in her voice. "The Directorate will put a hundred-thousand-credit bounty on your skull for handing over those codes."
 
-The threshold is sealed. The Glass Vault is safe.
+"They already have," Tsunari interjects, stepping up beside Vram. "We need high-pressure oxygen canisters, two replacement centrifuge diaphragms, and medical burn salve. And we need to know what The Forger is brewing in the deep pipes."
 
-I collapse onto my knees beside Caelia in the quiet vestibule.
+Madame Chen squints at Tsunari over her silver spectacles, clicking her mechanical bronze index finger against the edge of the desk.
 
-The girl is shivering violently, her face pale as ash beneath the charcoal stains, her left shoulder crushed into an unnatural, hollow indentation. Blood bubbles at the corner of her lips with every ragged breath.
+"Still as greedy as your father, Tsune. He used to bill me four brass circuits every time he oiled a pump."
 
-Her glowing amber eyes, once so wild with cult frenzy, are soft, clear, and terrified.
+"My father undercharged you," Tsunari shoots back without blinking. "And your filters still taste like rust and old tin."
 
-She looks up at me, her trembling right hand reaching out to touch my sleeve.
+Madame Chen lets out a dry, hacking snort that might pass for laughter in an iron mine. "That's character, girl. Builds lung density."
 
-"He looked at you..." Caelia whispers, her voice breaking on a bloody cough. "In the cistern... he chose you over a kingdom. And in the vault... he touched you with truth."
+Her gaze sharpens, dark and serious once more, at the mention of the prophet’s name.
 
-A tear cuts through the soot on her cheek.
+She opens a desk drawer, pulls out a ring of heavy brass keys, and tosses them to Ren.
 
-"The Forger called us slag," she sobs softly. "He was going to lock the doors and let us burn. I didn't want to die as slag, Tsunari. I wanted... I wanted to believe in something real."
+"Take them to Supply Crib 3," she orders the boy. "Give them whatever they can carry. Full cylinders, military-grade filters, antibiotics."
 
-My throat tightens until it aches.
+She turns back to us, her prosthetic finger tapping a rhythm against the oak desk.
 
-I reach into my tactical pouch and pull out the last brass injector of the Mosaic Keystone stabilizer.
+"The Forger isn't just an eccentric fanatic preaching from the sumps," Madame Chen says in a low, grim murmur. "Two months ago, he broke into the old **Distillation Annex** at Sub-Level 12—an abandoned pre-collapse chemical refinery built right over a Vaelen tectonic rift. He’s running three massive cracking stills down there, boiling raw seeding fluid into something he calls Ember Serum."
 
-"You're not slag, Caelia," I say, my voice fierce and steady as I press the injector against the side of her neck. "And you're not dying in the dark today."
+She leans closer, the lamplight reflecting off her glasses.
 
-I depress the actuator.
+"He isn't just arming zealots. He’s taking baseline refugees—desperate people who come down the tunnels looking for work or bread—and injecting them with the crude sludge. He’s building an army of shock troops who can't feel pain, can't reason, and will march straight into gunfire without blinking."
 
-The golden, stabilizing fluid hisses into her bloodstream.
+Vram’s jaw sets into iron. 
 
-Caelia gasps, her head falling back against the cool stone flags as the burning, fevered mutagen in her veins is neutralized by the keystone receptors. The magma-orange glow beneath her skin recedes, leaving behind the pale, clean skin of a nineteen-year-old girl who has finally woken from a nightmare.
+"Malakar," he says.
 
-Her breathing slows. The agonizing rattle in her chest eases into a soft, steady rhythm.
+"Malakar was just the first batch," Madame Chen warns. "If The Forger finishes distilling his current reservoir, he’ll have three hundred of those monsters ready to storm the surface by the end of the week. He’ll turn Sector 09 into an open slaughterhouse."
 
-She closes her eyes, a faint, peaceful smile touching her blood-stained lips, and slips into unconsciousness.
+She reaches across the desk and pushes Vram's kinetic pistol back toward him.
 
-I pull my field tourniquet from my belt, binding her shattered shoulder to stop the bleeding, then rest her head on a folded blanket against the wall.
+"Take your gun, Commander," she says quietly. "Go to the Annex. Find out what he’s building. And burn the stills to the ground."
 
-From above, the muffled concussions of aerial battle begin to shake the ceiling.
+Vram picks up the weapon, checks the magazine, and holsters it at his hip with a crisp, practiced motion.
 
-I wipe the blood from my knife, rise to my feet, and head toward the rooftop access ladders.
+"Consider the debt paid, Madame Chen," he says.
 
-Vram is fighting for the sky. 
+The old woman nods once, solemn and steady. 
 
-And I'm not letting him fly alone.
+"Keep breathing, Commander. Down here, that's the only victory that counts."

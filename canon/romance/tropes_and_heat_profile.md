@@ -42,8 +42,8 @@
     *   *Weaponized Friction (Act I):* Knife edge pressed against breastbone; breath mingling over an interrogation bench; cold hostility masking visceral sensory shock.
     *   *The Inciting Touch (Act I):* The violent shock of silence when her bare palm touches his exposed neural collar, short-circuiting his aggression.
     *   *Bio-Decontamination (Act II):* Stripping down in the narrow emergency pod to scour caustic propellant from skin—raw visual inspection of scars, chimeric feather shafts, and fine reptilian scale textures.
-    *   *The Culvert Near-Miss & Bunker Triage Compact (Act II / III):* In the culvert (Chapter 21), high-voltage physical tension erupts, but Vram refuses to take her when she asks him inside, honoring her autonomy. In the bunker basement against the lethal Night Freeze (Chapter 26), raw survival triage gives way to their emotional compact: *"Partners, or nothing."*
-    *   *The Open-Door Consummation (Act III, Chapter 38: The Glass Vault):* In the quiet alcove beneath the pre-Fall ruins before the Foundry raid, restraint shatters into a single, intensely reverent, grounded sexual union.
+    *   *The Culvert Near-Miss & Bunker Triage Compact (Act II / III):* In the culvert (Chapter 27), high-voltage physical tension erupts, but Vram refuses to take her when she asks him inside, honoring her autonomy. In the bunker basement against the lethal Night Freeze (Chapter 33), raw survival triage gives way to their emotional compact: *"Partners, or nothing."*
+    *   *The Open-Door Consummation (Act III, Chapter 46: The Glass Vault):* In the quiet alcove beneath the pre-Fall ruins before the Foundry raid, restraint shatters into a single, intensely reverent, grounded sexual union.
     *   *The Climax Compact:* Defying corporate and alien masters together, shattering the Foundry shoulder to shoulder as sovereign equals.
 
 ### Book 2: *Crown of Salt* (Fierce Passion & Heartbreaking Separation)

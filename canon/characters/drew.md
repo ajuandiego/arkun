@@ -6,4 +6,4 @@
 *   **What she does:** She keeps the slate, the leads, and the Bodkin's service tang in working order. She talks like a shop. Short. She calls her Tsune.
 *   **Appearance:** A baseline woman, 5'6", built for a bench. Dark hair cut at the jaw so it stays out of a torch. A burn scar across the back of the left hand. Canvas work shirt, sleeves rolled, a tool belt, boots with the toes scuffed through. Grease under the nails. No collar to hide, because there is nothing on her nape but skin.
 *   **With Ren:** She is the adult on his channel. When Tsunari cuts the link, Ren goes to Drew.
-*   **The early line:** She and Ren come after Tsunari. Tsunari keeps sending them home. They carry a copy of the schedule skin back to the Ring, and they tell Mercer they lost her at the mirrors. The chapters are in `../plot/book1/part_1.md` and `../plot/book1/part_3.md`.
+*   **The early line:** She and Ren come after Tsunari. Tsunari keeps sending them home. They carry a copy of the schedule skin back to the Ring, and they tell Mercer they lost her at the mirrors. The chapters are in `../../story/stolen_breath/breakdown.md`.

@@ -1,6 +1,6 @@
 # Plot
 
-What has closed, and what the last pages leave standing. The chapter promise is `canon/plot/book1/`. Later books are named here only as doors the reader has not walked through.
+What has closed, and what the last pages leave standing. The chapter promise is `story/stolen_breath/breakdown.md`. Later books are named here only as doors the reader has not walked through.
 
 ## Lived
 

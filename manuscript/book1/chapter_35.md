@@ -1,132 +1,123 @@
 # Chapter 35 // Vram
 
-> *"What is written in light cannot be erased by fire. What is buried in stone shall outlive the empires of glass. Enter with clean hands, for you walk among the memories of the dead."*  
-> — Inscription above the bronze portal of The Glass Vault, Sector 09
+> **Mutation L (Lindwurm Strain)** *[archeo-genetics]*: Subterranean heavy-breacher biotype. Characterized by hexagonal interlocking stone-scutes (*lithodermic plating*) across the dermis, extreme bone density, immunity to toxic gases, and localized seismic shock generation.
 
 ***
 
-The entrance to The Glass Vault is hidden behind thirty feet of living limestone.
+The drainage tunnel descends at a fifteen-degree pitch, smelling of sulfuric runoff, damp lime, and the metallic grease of abandoned machinery.
 
-Tsunari leads me through an ancient drainage culvert choked with calcified stalactites, our boots splashing through water so clear you can see the white fossilized shells embedded in the bedrock. At the end of the fissure stands a pair of arched bronze portals twelve feet high, green with verdigris, completely unmarred by rust or rot.
+Kira leads the way with her battery lantern held low. Tsunari walks a pace behind her, her light boots stepping with feline silence over the rusted conduit pipes that snake across the floor. I bring up the rear, my height forcing me to duck every few yards beneath low-hanging cable trays and dangling copper wires.
 
-Above the lintel, carved deep into the bronze in pre-collapse Roman capitals, the inscription catches the yellow beam of my torch: *WHAT IS WRITTEN IN LIGHT CANNOT BE ERASED BY FIRE.*
+Every time my wings brush the rough concrete walls, a prickle of phantom electricity courses along my dorsal lattice. It is a humiliating feeling—being a creature engineered for the infinite vault of the sky, reduced to scuttling through drainage sewers like a blind mole-rat.
 
-Tsunari steps forward and presses a sequence of five smooth quartz nodules set into the stone jamb. 
+"Watch your boots," Kira grunts, her beam illuminating a puddle of iridescent, bubbling chemical sludge. "Battery acid from the pre-collapse emergency cells. Eat right through your soles if you step in it."
 
-Deep within the rock, counterweights shift with the soft, hydraulic whisper of counterbalanced oil rams. The bronze portals swing outward without a sound, venting a draft of cool, dry air that smells of ozone, cedar shavings, and cold glass.
+We round a final bend in the tunnel, and the passage opens into a cavernous octagonal junction.
 
-I step through the threshold and stop dead in my tracks.
+Dominating the far wall is a massive, circular blast door twenty feet in diameter, constructed of interlocking plates of six-inch rolled armor steel. Across its center, the faded stenciling of the **Pre-Collapse Trans-Continental Rail Authority** is barely legible beneath decades of salt bloom and oil grime: *LINE 9 — SUB-SOLUM FREIGHT ARTERY.*
 
-It is not an underground bunker. It is a subterranean cathedral of light.
+Sitting on an overturned cable spool in front of the door, sharpening an iron demolition chisel with an electric grinding stone, is a mountain of a man.
 
-The chamber stretches for fifty yards into the heart of the limestone strata, its vaulted ceiling supported by twenty colossal hexagonal pillars carved from solid optical glass. Suspended along the walls are brass mirror gantries and prisms that catch focused beams of natural daylight piped down from hidden surface collectors hundreds of feet above, refracting the light into brilliant, rainbow-hued ribbons that dance across miles of brass shelving.
+He stands as we approach, and the cavern floor seems to groan under his shift in mass.
 
-Upon those shelves rest tens of thousands of optical quartz discs—thick, sapphire-glass plates the size of dinner plates, each one micro-etched with millions of laser-inscribed lines of pre-collapse human history, literature, medicine, and genomic data.
+He is easily six feet eight inches tall, with shoulders broader than an armored blast hatch. But it is his skin that commands attention: across his thick neck, his forearms, and the broad expanse of his bald skull, the flesh is not smooth, but paved with thick, hexagonal stone-scutes—dense, slate-gray lithodermic plates that look like chiseled granite. Along his cheekbones, the plates fuse into a solid, impenetrable brow ridge that shadows eyes as dark and hard as flint.
 
-"Welcome to the only room on this continent that the Consortium cannot buy," an aged, gravelly voice calls out from the central dais.
+Leaning against his leg is a six-foot pneumatic demolition hammer, its hardened tungsten head scarred by a thousand impacts against reinforced bedrock.
 
-Standing beside a brass reading desk is **Elder Gideon Cross**.
+"Kira," the giant rumbles. The sound does not come from his vocal cords; it resonates in his chest cavity like a low-frequency seismic tremor, vibrating the soles of our boots. "You're late. The surface drone patrols were chirping on my seismic sensors an hour ago."
 
-He is past seventy, with a thick mane of silver hair tied back with a leather thong, and piercing blue eyes that sit behind a triple-lens jeweler's loupe swung down over his right brow. He wears a long curator’s smock of unbleached flax, his forearms stained with purple reagent inks, his fingers long, slender, and calloused from handling delicate crystal wafers.
+"Had to dodge a pack of drakes and scrape a dead battery off my alternator," Kira replies easily, resting her hands on her gun belt. "Boran, meet the cargo."
 
-He lowers his magnifying loupe, looking across the hall at Tsunari. A rare, warm smile crinkles the corners of his eyes.
+Boran Vael-Korr turns his flinty gaze upon us. 
 
-"You're late, girl," Gideon says gently. "Ren said you brought down an entire sluice gate in the cistern."
+His eyes sweep over Tsunari first, lingering on her low center of gravity, the twin Spire hooks holstered at her hips, and the tense, fluid readiness in her posture. A low, appreciative grunt rumbles in his throat.
 
-"It was structurally unsound," Tsunari replies with a faint smirk. "Gideon, this is Commander Vram."
+"Dromaeon blood," he murmurs. "Fast. Sharp. Good teeth."
 
-Gideon’s gaze shifts to me. 
+Then his gaze shifts to me.
 
-His eyes sweep over my battered tunic, the torn flight harness, and the fourteen-foot span of my obsidian wings, resting folded against my spine. He does not flinch. He does not look at me with the fearful hatred of a baseline survivor, nor the religious frenzy of the Ember Coven. 
+The flinty eyes narrow. The heavy lithodermic scutes across his forehead pull tight into a deep, rocky frown. 
 
-He looks at me with the quiet, profound curiosity of a scholar looking upon an original manuscript thought lost to the ashes.
+He takes two heavy, deliberate steps forward, each boot-fall striking the floor with the concussive weight of a falling anvil. He stops three feet away, towering over me, his massive chest filling my field of vision. The air around him smells of crushed granite, motor oil, and sulfur.
 
-"The Simurgh lineage," Gideon murmurs, stepping down from the dais, his soft linen slippers making no sound on the polished flagstones. "I had heard the rumors from Eden Alpha, of course. Director Corvus claimed his geneticists had engineered the first winged apex infantry from raw synthetic polymers."
+"Well, well," Boran sneers, his deep voice dripping with contemptuous amusement. "What do we have here? A fancy fallen sky-bird. Look at those pretty black feathers, Kira. Look at that gold embroidery on the collar. An Aeros Commander, straight out of the gilded cages of Eden Alpha."
 
-He stops three paces away, studying the golden crest along the nape of my neck.
+He leans in, his rocky brow inches from my face.
 
-"Corvus is a liar," Gideon adds, his voice dropping into a dry, scornful rasp. "A petty counterfeiter claiming he painted the dawn."
+"Did you fall from your perch, little bird? Did the Director forget to fill your seed dish, so you decided to come crawl in the sewer mud with the gutter-rats?"
 
-I reach into my combat harness and pull out the optical quartz disc we salvaged from the Distillation Annex. 
+My jaw tightens. The instinct to strike—to drop into a low sweep, draw my sidearm, and plant a kinetic slug between his eyes—flares hot in my chest. 
 
-"We didn't come for compliments, Elder," I say, offering the sapphire cylinder. "We found this in The Forger’s laboratory at Sub-Level 12. Optical records. He’s boiling Vaelen rift fluid into an unstable mutagen—the Ember Serum."
+Instead, I hold his gaze. 
 
-Gideon’s smile vanishes. His silver eyebrows knit together in deep concern.
+"I broke the cage," I say, my voice level and cold. "And I don't eat seed."
 
-He takes the disc, turning it in his slender fingers, letting the refracted light from an overhead prism play across its etched micro-grooves.
+Boran barks a harsh, booming laugh that echoes off the iron blast door. 
 
-"The Crucible Mutagen," Gideon whispers, his tone turning grave. "Ren brought rumors of conscripts vanishing from the soup kitchens. How far along is he?"
+"Tough talk for a winged dandy who looks like he’s one bad cough away from the morgue," he says. Then, with blinding speed that defies his massive bulk, he reaches out with a boulder-sized hand to grab Tsunari by the shoulder. "Let's see what kind of scrap you brought with you, girl—"
 
-"Three cracking stills running at full capacity," Tsunari answers, stepping up to the reading desk. "Four hundred liters in reserve. He has three hundred conscripts scheduled for full-batch immersion by the end of the cycle. And his target isn't the Directorate garrison."
+Before his fingers can cross the air between them, my body moves on pure instinct.
 
-Gideon looks up sharply. "What is his target?"
+I don't think. I don't calculate the risk to my bruised shoulder or my torn wing spar. 
 
-"Total atmospheric collapse," I say. "He’s going to pump his suicide brigade into the primary air intake towers above Sector 09 and detonate the municipal scrubbers. The toxic surface air will flood the lower sumps; four hundred thousand civilians will choke. And when the domes above suffer atmospheric breach, the Directorate’s orbital batteries will incinerate the entire sector to sanitize the contamination."
+I step forward, placing my entire body directly between Boran and Tsunari. My right hand slams against his granite-plated chest, arresting his forward momentum with a sharp, concussive slap of palm against stone. 
 
-Gideon's hands tighten around the quartz disc until his knuckles turn white. 
+At the same instant, my wings snap outward.
 
-"A mutual slaughter," the old man murmurs, staring into the dark corner of the hall. "The Forger doesn't want freedom. He wants an apocalypse so vast that no one survives to remember the world that was."
+The obsidian primaries flare to their full fourteen-foot span, rustling fiercely like a wall of black daggers, completely cutting off Boran's line of sight to Tsunari. The golden filaments in my plumage ignite with a sharp, warning luminescence, casting harsh, amber shadows across the cavern walls.
 
-He walks to a heavy oak lectern in the center of the hall, sliding the quartz disc into an optical reader mounted beneath a brass reflector lamp. 
+"Touch her," I whisper, my voice dropping into the deadly, modulated register of an Aeros executioner, "and we find out how much kinetic force those granite scales can take before they shatter."
 
-"I can synthesize a localized neuro-inhibitor to neutralize the rift fluid," Gideon says, his voice brisk and methodical. "If we inject the inhibitor into the central intake vats, the catalytic chain will break, rendering the serum inert before the next batch can be harvested. But the chemical formulation requires an uncorrupted biological template—a genetic ground wire that can bind the volatile Vaelen enzymes without burning out."
+The cavern goes dead silent.
 
-He pauses, turning to look at me once more.
+Behind me, I hear the soft, metallic *snick* of Tsunari’s combat knife sliding from its sheath, ready to strike the moment I move. Kira doesn't draw her weapon; she merely crosses her arms, watching us with a wry, amused smirk.
 
-"You look troubled, Commander. Beyond the impending catastrophe, I mean."
+Boran doesn't flinch. 
 
-I look down at my boots, then back at the thousands of glass discs glowing along the walls. The weight of the past ten years—the shame of the collar, the blood on my hands, the belief that I was nothing more than an abomination manufactured by the Director's engineers—presses against my chest like lead.
+His eyes slowly travel from my outstretched palm on his chest, up the arc of my flared, razor-sharp wings, to the unyielding fury in my face. He can see the strain in my posture—the slight tremble in my left wing where the bone was fractured, the gray exhaustion lingering beneath my eyes. 
 
-"The Director told us we were monsters," I say, my voice scraping low against the stone. "He said humanity had failed, that baseline flesh was slag, and that he built us in his vats to replace what was broken. Every time I look at these wings... every time I feel the heat boiling in my blood... I remember that I am nothing more than a corporate weapon with a serial number."
+He knows I am damaged. He knows I am outnumbered.
 
-Gideon looks at me for a long, quiet moment. 
+Yet he sees that I would tear my own body apart before I let him lay a single finger on the scavenger at my back.
 
-Then he turns, walking toward an arched alcove at the rear of the cathedral. 
+Slowly, the sneer melts from the stone-scuted giant’s face.
 
-"Follow me, Commander," the old scholar says. "There is something you need to see."
+A low, deep rumble builds in his chest—not a growl of anger, but a sound of begrudging, solemn recognition.
 
-Tsunari and I follow him into a climate-controlled reliquary sealed behind double glass doors. 
+"A bird that uses his wings to shield the ground," Boran rumbles, stepping back and lowering his hand. "I’ve seen a hundred Directorate enforcers in my life, sky-boy. Every one of them would have thrown their own mother off a ledge to save their flight clearance. But you... you stand in the dirt like a man."
 
-Inside, resting on velvet cushions beneath pressurized vitrines, lie fragments of ancient pre-collapse parchment, bronze tablets, and stone bas-reliefs. Gideon approaches a long slate table where an archaeological codex plate—a two-foot slab of gray limestone excavated from deep beneath the Iranian plateau—rests under a spotlight.
+My wings remain flared for a beat longer, asserting dominance, before I slowly fold them back against my spine with a crisp, rustling snap. 
 
-"Archeological Layer IX," Gideon explains, gesturing to the carving. "Excavated from the Persepolis deep stratum by Dr. Jeffrey Thorne twenty-five years ago. Carbon-dated to five hundred years Before Common Era."
+I lower my hand from his chest.
 
-I lean over the table, my eyes adjusting to the ancient relief.
+"We need Line 9," I say. "Kira said you have the trolley."
 
-My breath catches in my throat.
+Boran grunts, turning his massive back on us and walking toward the blast door. 
 
-Carved into the limestone with exquisite, terrifying detail is the figure of an ancient warrior standing atop a mountain ridge. His torso is broad, his face framed by a crown of feathers—and springing from his thoracic spine is a magnificent pair of feathered wings, their primaries carved in the exact, identical geometric curve of my own. 
+"Kira talks too much," he mutters. 
 
-Beneath the relief, cuneiform script is translated into crisp Latin letters: *THE SIMURGH OF THE HIGH CRAGS. DEFENDER OF THE PEOPLES. HE WHO CARRIES THE HEARTH.*
+He reaches up to the heavy, wall-mounted hydraulic release valve and grips the iron wheel with both granite-plated hands. With a savage heave that cords the scutes across his neck, he cranks the wheel three full revolutions.
 
-"Two thousand five hundred years ago," Gideon says softly, his voice echoing in the small vault. "Long before the Great Cleave. Long before the Vaelen seeds fell from the void. Long before Director Corvus was even a gleam of hubris in his father’s eye."
+Deep within the bulkhead, massive steel locking pins retract with a heavy, reverberating *clonk* that shakes the floor. 
 
-The old scholar lays a hand gently on the slate-gray stone beside the carving.
+The twenty-foot blast door cracks open, venting a blast of hot, sulfur-choked air that smells of machine oil, sewage, and the unmistakable, crowded stench of hundreds of thousands of living bodies.
 
-"The Directorate did not invent you, Commander," Gideon says, his blue eyes locking onto mine with absolute, unshakable conviction. "They found fragments of dormant human genome sequences preserved in deep Siberian permafrost and Persepolis strata. They took ancient, sovereign human lineages that once walked the earth as kings and guardians, and they bound them in synthetic telemetry collars. They called it engineering. In truth, it was theft."
+Beyond the door lies the abyss of Line 9: a cavernous, two-track rail tunnel that vanishes into the black, subterranean belly of the continent. Resting on the rusted rails just inside the portal is a heavy, open-deck rail trolley made of riveted iron plates, equipped with four hand-cranked gear levers and a pair of emergency friction brakes.
 
-He points a finger at my chest, right over my heart.
+"Sector 09 is forty miles down-grade," Boran says, gesturing to the trolley with his demolition chisel. "Gravity will do most of the work on the descent, but you’ll have to man the cranks through the dead zones where the tunnels flood."
 
-"You are not a corporate patent, Vram. You are not a lab mistake. Your wings do not belong to Eden Alpha; they belong to the earth, the sky, and your own will. Your soul has always been your own."
+He looks at me, his flinty eyes holding a warning.
 
-The words hit me like an artillery shell.
+"Things have gone sour in the underbelly since the Directorate increased the air quotas last month," Boran adds. "A new outfit calling themselves the **Ember Coven** has taken over the drainage aqueducts. Fanatics. Crazy bastards who drink mutagen like cheap gin and worship some prophet they call The Forger. Keep your heads down and your blades sharp."
 
-A strange, dizzying rush of heat surges through my chest—not the toxic burn of the flight lattice, but a deep, golden warmth that spreads all the way to the tips of my flight feathers. 
+Tsunari steps up beside me, sheathing her knife.
 
-The shame that had lived in the marrow of my bones for ten years—the dirty, humiliating feeling of being an unnatural parasite—crumbles to ash.
+"We're used to crazy bastards," she says quietly.
 
-I look at the ancient warrior carved in the stone. 
+Boran's lips crack into a rare, stony grin. 
 
-I look at my hands. 
+"Then you'll feel right at home in the sumps, girl."
 
-For the first time in my life, I do not see the Director's chains. 
+We climb aboard the iron trolley. Kira gives the handbrake lever a solid kick, releasing the iron shoes from the rails.
 
-I see myself.
-
-Beside me, Tsunari reaches out, her cool fingers lightly brushing the back of my hand. She doesn't say a word. Her golden eyes merely meet mine, filled with a quiet, fierce pride that anchors the revelation deep into my soul.
-
-"Thank you, Elder," I murmur, my voice steady, clear, and ringing with an unshakable power I have never known before.
-
-Gideon nods once, satisfied. 
-
-"Now," the old curator says, turning toward the laboratory door. "Let us see about saving the world that birthed you."
+With a high-pitched, metallic squeal of steel on rusted steel, the trolley begins to roll forward, plunging into the dark, echoing maw of Line 9, carrying us down into the heart of Sector 09.

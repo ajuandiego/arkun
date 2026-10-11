@@ -1,113 +1,104 @@
 # Chapter 37 // Tsunari
 
-> *"Five were the beasts that walked the first garden: the talon of the wind, the scale of the deep rock, the feather of the sun, the jaw of the pack, and the blade of the shadow. And in the center stood the keystone, in whose blood the five became peace."*  
-> — Archeological Codex Plate 89 (Excavated from Persepolis Deep Stratum, deciphered by Dr. Jeffrey Thorne)
+> *"Out of the iron heavens shall come the Fire-Giver, his wings dripping with molten gold. But beware the daughter of the dust, the serpent of ice whose touch steals the flame. Strike the serpent, that the furnace may burn unquenched."*  
+> — The Book of the Crucible (Liturgical Canticle of The Enlightened, Chapter III)
 
 ***
 
-The cryogenic laboratory of The Glass Vault is sealed behind six inches of pressurized lead glass.
+Sector 09 breathes like a dying leviathan.
 
-Inside, the temperature is kept at a constant forty degrees Fahrenheit to preserve delicate pre-collapse enzyme cultures. Rows of brass autoclaves, copper condensation coils, and antique distillation flasks line the granite benches, humming with the quiet, methodical precision of a long-dead golden age.
+Even eighty feet below its concrete foundations, down in the labyrinth of ancient storm aqueducts known as the Sub-Solum, you can feel the pressure of the city above. The ceiling is a vaulted arch of crumbling pre-collapse masonry and rusted iron girders, weeping a constant drizzle of caustic condensation that smells of sulfur, grease, and rotting vegetable matter. Above our heads, through vents as wide as train cars, the colossal municipal air scrubbers churn day and night, their low, rhythmic thrum vibrating through the soles of our boots like a synthetic heartbeat.
 
-Gideon Cross stands before a colossal optical quartz spectrometer—a brass-jacketed instrument the size of an upright piano, equipped with five manual refraction prisms and a liquid-argon laser chamber.
+We tucked the trolley into a collapsed maintenance spur two miles back, hiding it beneath bundles of rotting fiberglass insulation. 
 
-"To neutralize the Vaelen rift fluid in The Forger's cracking stills," Gideon explains, adjusting the focus dials on the spectrometer, "we cannot simply poison the vats. The mutagen is an organic enzyme catalyst; if you introduce a generic acid, it reacts exothermically, boiling off into a toxic aerosol cloud that would kill half the sector."
+Vram sits on an iron crate in the shadow of a dry drainage conduit, his back propped against the damp stone. His fever has broken, but the ordeal in the dunes and the freezing night in Kira’s bunker have drained his reserves. His bronze skin is dull, the muscles in his wings twitching with residual lattice spasms. He needs clean water—real water, filtered of heavy metals and alkali dust—if his chimeric kidneys are going to flush the toxic breakdown products of his damaged flight tissue.
 
-He turns to me, holding a sterile glass capillary tube.
+"Stay here," I had told him, adjusting the strap of the collapsible rubber canteen over my shoulder. "You're six foot four with fourteen feet of black feathers. You stick out down here like a flare in a coal mine. I'll find an active condensate tap and be back in twenty minutes."
 
-"We need a biological buffer. A chimeric blood sample that can absorb the catalytic shock, bind the foreign RNA sequences, and ground the reaction before the serum crystallizes. A single drop from your finger will allow us to calibrate the molecular baseline."
+"Take my sidearm," he had rasped, offering the grip of his Directorate kinetic pistol.
 
-I step forward without hesitation, extending my left hand. 
+I had pushed his hand away. 
 
-All my life, I have been told my blood was street trash. A gutter-splice cobbled together from dead raptor marrow, an unholy hack performed by a panicked father in an alleyway to give me teeth and claws so I wouldn't starve.
+"Gunshots echo for five miles in these pipes, Commander. Down here, sound travels faster than bullets. Rest. I know how to move through wet dark."
 
-Gideon takes my index finger, his dry, gentle hands holding my wrist. 
+Now, three hundred yards down the main sewer artery, I stand beneath an ancient cast-iron runoff culvert. 
 
-He pricks the tip of my finger with a fine diamond lancet. A single, perfect bead of crimson blood wells up against the pale skin of my pad, dark and viscous, carrying the faint, iridescent sheen of my cold-adapted cells.
+A steady, pencil-thin stream of clear condensate trickles from a copper pressure valve into a cracked stone basin. I hold the canteen beneath the spout, watching the rubber skin swell as it fills with cool, sweet-smelling water. It is a rare find in the sumps—uncontaminated runoff from the upper residential tier's air-conditioning units, pure enough to drink without boiling.
 
-He touches the capillary tube to the bead, drawing the sample into the glass, and slides it into the spectrometer's central aperture.
+Then the hairs on the back of my neck stand up.
 
-"Now," Gideon murmurs, stepping back to the control console. "Let us see how the Dromaeon receptors bind to the Vaelen catalyst."
+It is not a sound. The deafening thrum of the air scrubbers swallows small noises whole. 
 
-He depresses the master ignition toggle.
+It is a change in the air current. 
 
-Deep within the brass housing, the liquid-argon laser fires. 
+A draft of hot, dry air washes over my bare neck—an artificial thermal surge that smells of scorched cinnamon, burning copper, and human sweat. 
 
-A needle-thin beam of coherent emerald light lances through the blood sample, hitting the primary optical quartz prism at a forty-five-degree angle.
+I don't look over my shoulder. I don't reach for the canteen.
 
-Normally, a genetic spectrograph displays a single, dominant waveform on the measuring screen—a jagged, telltale frequency corresponding to the subject's specific chimeric lineage. A Simurgh sample projects a blinding golden spike; a Lindwurm sample projects a low, dense slate-gray ridge; a standard Dromaeon sample projects a sharp, rapid succession of crimson teeth.
+My knees bend. I drop toward the wet cobblestones. My right hand glides smoothly down to the hilt of my steel bodkin knife.
 
-What happens next defies every law of post-collapse genetics.
+Above me, on the overhead steam pipe, iron scrapes on iron.
 
-The emerald laser hits the prism and does not cast a single beam. 
+I throw myself sideways into a violent roll.
 
-It fractures into a breathtaking, five-fold fan of living, iridescent light that splashes across the vaulted ceiling of the laboratory. 
+A figure drops from the shadows of the ceiling, landing on the exact stone flag where I had stood a second before. The impact is staggering—the concrete cracks beneath the impact of two bare, ash-stained feet, sending a spray of sulfurous water across the culvert.
 
-Five distinct, harmonized wave-crests ripple across the calibration grid:
+The attacker rises in a fluid, terrifying crouch.
 
-At the apex, a vibrant, razor-sharp crimson crest pulses with the unmistakable fast-twitch frequency of Mutation D—the Dromaeon lineage. But anchored directly beneath it, woven together in a seamless, double-helix lattice of impossible geometric perfection, are four dormant harmonic frequencies:
+It is a woman, young, barely twenty, her torso wrapped in strips of charred canvas and black iron chains. Across her bare collarbones and down both arms, crude, ritualistic brands have been burned deep into the flesh—intricate, circular sigils that have scarred over into thick, keloid ridges. In her hands she wields twin curved hook-blades made of sharpened rebar, their cutting edges glowing with a faint, heat-distorted shimmer.
 
-A deep, earthen slate-gray wave: Mutation L, the Lindwurm heavy breacher.  
-A sweeping, shimmering azure ribbon: Mutation G, the Gryphon aerial sovereign.  
-A savage, low-frequency violet pulse: Mutation F, the Fenris cursorial stalker.  
-And running through the core of the entire structure like a thread of spun sunlight: Mutation S, the radiant golden carrier wave of the Simurgh lineage.
+Her eyes are the most terrifying thing about her. 
 
-The laboratory goes dead, ringing silent.
+Her pupils are dilated to the very edges of her irises, swimming in a pool of fevered, unnatural amber luminescence. Veins thick as quill-pens pulse along her temples, glowing with the same eerie, golden-orange radiance.
 
-Gideon Cross drops his brass calipers. 
+She is burning from the inside out.
 
-The tool hits the granite bench with a sharp clatter that echoes against the glass cabinets, but the old scholar doesn't even look down. 
+"The serpent," she hisses, her voice vibrating with manic, ecstatic frenzy. A line of bloody saliva trails from the corner of her mouth. "The Cold Serpent of the dust! The sister of ice who seeks to steal the Fire-Giver's light!"
 
-His blue eyes, wide and terrified with wonder, stare at the five-fold spectral fan dancing on the ceiling. His hands begin to tremble, rising slowly to cover his mouth.
+"I don't know who you are, girl," I say, circling slowly, my knife held in a low reverse grip, "but if you take another step, you won't live to see your prophet."
 
-"My God..." the curator whispers, his voice cracking into a ragged rasp. "Jeffrey... what did you do?"
+She doesn't flinch. She doesn't even blink. 
 
-Beside me, Vram steps up to the spectrometer, his gold furnace eyes transfixed by the golden wave pulsing through my blood. He feels the resonance in his own marrow—a deep, cellular hum that makes the feathers along his neck bristle in instinctive greeting.
+"I am **Caelia**," she cries, throwing her arms wide in a posture of frenzied worship. "Ember-Seven of the holy kiln! The Forger showed us the heavens, and now the Fire-Giver walks the stone! But you... you drag him down! You freeze his holy wings! The scripture said the serpent must bleed so the furnace can burn unquenched!"
 
-"What is that?" Vram asks, his voice low and urgent. "Those are all five ancient lineages. The Directorate can barely balance two complementary strains in an operative without tissue rejection or neuro-decay. Unifying all five lineages in one body is biologically impossible—the immune systems should tear each other to pieces."
+She lunges.
 
-Gideon slowly lowers his hands, turning to look at me as if I were a sacred relic uncovered from the bedrock of the world.
+The speed is monstrous. She does not move like a baseline human; she accelerates with the unnatural, twitching violence of a body hopped up on concentrated neuro-stimulants. 
 
-"She is not a hybrid," Gideon says, his voice hushed in religious awe. "She is the **Mosaic Keystone**."
+Her left hook-blade sweeps down in an executioner's arc, aimed straight at my collarbone.
 
-The words hang in the cold air of the lab.
+I pivot on the ball of my left foot, slipping beneath the strike with millimeter precision. The rebar blade grazes my leather vest, the heat of the metal searing the fabric with the smell of scorched hide. As she overextends, I counter inside her reach. My left hand whips forward, the curved beak of my Spire hook burying itself two inches deep into her right thigh.
 
-"Explain," I demand, my heart pounding against my ribs, a cold knot of dread and wonder tightening in my throat.
+Any normal human would have collapsed in agony, their femoral muscle severed. 
 
-Gideon steps to the archival terminal, pulling up ancient genomic schematics deciphered from Dr. Thorne's original Persepolis notes.
+Caelia doesn't even grunt. 
 
-"Twenty years ago," Gideon explains, his words tumbling over one another in frantic excitement, "your father realized the Directorate’s grand sin. The corporate geneticists were splicing fragmented prehistoric strains into narrow, volatile military builds—forcing two or three conflicting lineages into unstable soldiers who were doomed to burn out from siphon feedback, neuro-decay, and lattice burn."
+Her nervous system, deadened by the ritual brands and overwhelmed by whatever foul drug courses through her blood, registers zero pain. Instead of retreating, she twists her torso around the strike, laughing through bloody teeth, and brings her right blade down in a vicious backhand strike aimed at my face.
 
-He points a trembling finger at the five dancing waves of light.
+I wrench the hook free of her flesh and throw my arm up to block.
 
-"Your father spent twelve years constructing a universal genetic ground wire. A human genome engineered not with multiple active mutations, but with a harmonized receptor substrate—the five master epigenetic locks of the first garden, all resting in perfect, cooperative equilibrium."
+The heated rebar catches the steel reinforcement plate of my forearm bracer with a shower of orange sparks. The sheer kinetic force behind her strike drives me back three paces, my boots skidding across the slick sulfur slime. The rebar's hooked tip skips off the metal and catches the edge of my jaw, opening a hot, shallow furrow along my lower lip.
 
-Gideon turns his gaze fully upon me.
+Blood—warm, salty, and sharp—wells up, trickling down my chin.
 
-"You thought your father gave you a back-alley patch to survive the gutters, Tsunari. He didn't. He gave you the only complete, uncorrupted genetic architecture on the planet. The Dromaeon mutation was merely the outer shell—the guardian layer he activated to keep you fast and sharp in a savage world."
+Caelia tastes the air, her glowing eyes widening in predatory ecstasy.
 
-"And the other four?" I whisper, my breath catching.
+"Cold blood," she purrs, circling like a feral dog. "Tainted blood. The dust-crawler bleeds!"
 
-"Dormant," Gideon says softly. "Waiting. Your blood is a universal biological conductor. You can touch an augmented soldier burning from lattice fever, and your system grounds their excess thermal energy. You can bind cross-strain antigens that would kill any other human. You are the Rosetta Stone, Tsunari. The bridge between the five beasts."
+From the shadows of the surrounding culverts, four more figures emerge. 
 
-I stare at the light on the ceiling, my vision blurring with sudden, scalding tears.
+They are dressed like her—charred rags, iron chains, ritual burn scars, and fever-bright eyes. Two of them carry heavy, lead-weighted hemp nets; the other two hold six-foot iron tridents used for clearing sewer grates.
 
-*He didn't curse me.*
+They form a tight semi-circle, cutting off my retreat to the main tunnel.
 
-For ten years, every time I scaled a dead elevator flue with my hooks, every time I felt the cold, unfeeling chill of my reptilian blood, I felt the bitter sting of being an afterthought—a broken scrap tossed into the dirt while Sora was kept clean and safe in the towers.
+My breath comes in short, controlled bursts. I wipe the blood from my lip with the back of my hand, tasting the iron on my tongue. My temporal phase-stutter is still recharging from the fight with the Dromaeon in the desert; if I try to force a phase-shift now, the neural back-pressure will blind me.
 
-He hadn't discarded me. 
+*Five to one,* I calculate, my mind stripping away fear and replacing it with the cold, crystalline geometry of survival. *Two nets. Two tridents. One fast berserker. Kill the net-throwers first, or I end up on an altar.*
 
-He had entrusted me with the master key to human survival. 
+Caelia raises her blades, her voice rising to a shrill, piercing shriek that reverberates through the iron aqueduct like a siren.
 
-Vram steps close, his broad shoulder pressing gently against mine. In the iridescent light of the five-fold spectrum, his face is filled with a tenderness that makes my breath catch in my throat.
+"Cut the serpent's throat!" she screams. "Offer her marrow to the furnace! Clear the path for the Promised King!"
 
-"The keystone," he murmurs, his voice thick with reverence. "In whose blood the five became peace."
+The two trident-bearers surge forward, the heavy iron prongs thrusting at my chest in coordinated, killing arcs.
 
-I look at him, then down at my own scarred, calloused hands.
-
-"Can we make the stabilizer?" I ask, my voice clearing, the doubt burning away into diamond resolve.
-
-Gideon smiles, a fierce, triumphant grin that crinkles the scars around his eyes.
-
-"With your blood as the template, girl?" the old curator says, pulling a sterile beaker from the rack. "We won't just neutralize The Forger's mutagen. We will create a cure for the entire continent."
+I draw my breath, sink my weight into the stone, and prepare to die fighting.

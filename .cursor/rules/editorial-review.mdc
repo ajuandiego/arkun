@@ -24,8 +24,8 @@ Do not edit the manuscript, the canon, or these rules unless the user asks. The 
 
 Canon to load:
 
-- `canon/plot/book1/README.md` and `canon/plot/story_beats_dual_track.md`: chapter job, POV, setting, epigraph rule, act turns.
-- `canon/plot/trilogy_overview.md`, `canon/plot/book2_breakdown.md`, `canon/plot/book3_breakdown.md`: facts Book 1 may plant but must not spend. Book 2 is *Crown of Salt*. Book 3 is *Unleashed*.
+- `story/stolen_breath/breakdown.md` and `story/stolen_breath/plot.md`: chapter job, POV, setting, epigraph rule, act turns. The chapter folder in `story/stolen_breath/chapters/` holds the summary, the rules, and the manuscript notes.
+- `story/the_arkun_cycle.md`, `story/crown_of_salt/breakdown.md`, `story/unleashed/breakdown.md`: facts Book 1 may plant but must not spend. Book 2 is *Crown of Salt*. Book 3 is *Unleashed*.
 - `canon/characters/tsunari.md`, `canon/characters/vram.md`, `canon/characters/README.md`: bodies, ages, names, wants, lies, voices.
 - `canon/romance/romance_engine.md` and `canon/romance/tropes_and_heat_profile.md`: phase order and heat contract.
 - `canon/world/README.md`, `canon/world/life/README.md`, `canon/world/factions/README.md`, `canon/world/geography.md`: history, five strains, politics, travel.

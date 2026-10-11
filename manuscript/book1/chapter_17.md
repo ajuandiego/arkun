@@ -1,97 +1,133 @@
 # Chapter 17 // Tsunari
 
-> *"Feather to feather, bone to bone  
-> None of the Aerie falls alone.  
-> Break the wind and ride the squall  
-> If one must dive, we catch the fall."*  
-> — Aeros-Legion Cadence (Chanted during high-altitude tether drills, unrecorded in official manuals)
+> *"From: Tech-Specialist S. Thorne | To: Directorate Oversight | Subject: Neural Telemetry Audit AE-701. Commander Vram’s cervical siphon shows severe bio-frequency spikes. Suggest immediate field recall before the subject suffers permanent synaptic blowout."*  
+> — Consortium Internal Dispatch (Security Clearance Beta, Archive Relay 09)
 
 ***
 
-The air on the upper landing pad smells of impending execution.
+The ventilation shaft of Redoubt 14 is two feet wide, caked with thirty years of alkaline dust, and smells of burnt wiring and rat droppings.
 
-Above the 800-foot rim of the canyon, the toxic twilight has vanished, swallowed whole by the blinding, magnesium glare of high-intensity aerial spotlights. 
+To a baseline human, squeezing between these narrow zinc ribs would be a claustrophobic nightmare. To my Dromaeon physiology, the crawlspace is an artery. 
 
-Three corporate atmospheric barges—armored, heavy-lift command platforms from Dome Alpha’s Iron Division—drift four hundred feet above the redoubt, their downwash churning the copper dust into a blinding sandstorm that screams against the concrete. Beneath the roar of the inductive thrusters comes a sound that freezes the marrow in my ribs: the rhythmic, concussive beat of dozens of feathered wings snapping open in the wind.
+My shoulders fold in and my hips narrow as I shift onto my stomach, gliding through the gloom like an eel through marsh grass. Behind me, three feet down the horizontal shaft, the heavy cast-iron intake grate clicks shut with a muffled, mechanical latch.
 
-Aeros-Legion 7 has arrived.
+Vram’s voice filters through the iron slats, barely louder than the hum of the air scrubber:
 
-They circle in a wide, lethal perimeter above the gorge—eight winged silhouettes against the bruised magenta sky, their fourteen-foot obsidian spans catching the red perimeter beacons like falling cinders. 
+"Stay down. Don't touch the grating. If they scan with bio-thermal, press your spine against the overhead conduit pipe—it carries ninety-degree condensation runoff from the roof."
 
-Cassian. Ferrin. Toby. 
+"Who is it?" I whisper, my lips inches from the iron mesh.
 
-Vram’s squad. His brothers. The boys who shared his unheated barracks and counted the millimeters of scar tissue widening around their siphons.
+A pause. Through the slats, I catch the dark silhouette of his shoulder, the tense, rigid posture of an apex warrior stepping into an ambush.
 
-They have been scrambled under full Decimation orders.
+"An inspection skiff," he answers, his gravelly baritone tight with suppressed fury. "Three Vaelen Inquisitors from the Spire-Consensus. Director Corvus didn't just review my telemetry; she flagged my siphon fluctuations to the alien oversight committee."
 
-Beside me on the landing pad, Vram stands with his back to the canyon abyss. 
+A cold, heavy knot drops into the pit of my stomach.
 
-His left shoulder is drenched in dark crimson blood where the Inquisitor’s bio-lance tore through his deltoid, but his right hand works with calm, terrifying military speed. He pulls his heavy tactical flight rig from the ground, kicking the mangled titanium scraps of the alien skiff into the dark.
+In the Gray Sectors, we fear the Directorate’s Iron Division because they carry plasma lances and enforce the air quotas. But the Vaelen? 
 
-"Tsunari," he says, his voice cutting through the shrieking thruster roar with steady, unyielding steel. "Step forward."
+The Vaelen are ghosts from the deep stars. 
 
-I look at him. Then I look past his shoulder, down into the sheer, eight-hundred-foot vertical drop of the canyon.
+They don't shout orders. They don't bargain for air tokens. They float through the Upper Spires in pressurized obsidian armor, treating humanity like microbial cultures on a laboratory petri dish—measuring our lung capacities, logging our genetic mutations, and pruning our populations whenever the atmospheric terraforming schedule demands another culling.
 
-At the bottom of the gorge, jagged basalt spires and razor-sharp titanium debris from pre-collapse bridges rise from the darkness like rows of shark’s teeth. A drop from this height means terminal velocity in four seconds. It means painting the rocks before the brain can register the impact.
+"Vram," I whisper, reaching through the grating to touch the heavy leather cuff of his combat trousers. "They have crystalline scanners. If they bring an bio-sensor into the room—"
 
-In the Gray Ring, I have leaped across five-story alleyways. I have rebounded off shattered parabolic mirrors. But unassisted flight? Entrusting my life completely to another creature's spine?
+"I know what they have," he cuts in softly. 
 
-Every survival instinct honed over ten years of hunting in the sewers screams at me to turn back, to dive into the drainage culverts, to take my chances with the dark.
+He reaches through the narrow gap between the iron slats. His large, calloused fingers close around mine for a single, breathless second. The ferocious heat of his skin seeps into my palm, sending a wave of electric calm washing down my arm, steadying the wild, rabbit-fast thudding of my pulse. 
 
-"You can't outrun the barges on foot," Vram says, his golden eyes locking onto mine through the flying dust. "Their thermal optics will spot your heat signature in the culverts before you clear two hundred yards. The only way through the dead perimeter is the sky."
+"They’re here for me, Tsune," he says, his molten eyes finding mine in the gloom. "Not you. Stay in the ducts. No matter what you hear through the floor... do not come down."
 
-He opens the heavy chest straps of his flight harness.
+Before I can answer, he pulls his hand away. 
 
-"Stand against me," he commands softly.
+The heavy iron blast door on the landing pad outside the bunker groans along its tracks, accompanied by the high-frequency acoustic whine of an anti-gravity propulsion field descending over the canyon.
 
-The words are simple, but the weight behind them is suffocating. 
+Vram steps away from the grate, the sound of his flight boots fading as he strides toward the bunker's entrance.
 
-I step forward into his reach.
+I pull my hand back into the darkness. 
 
-The heat radiating from him hits me like an open furnace door. Even through the torn linen of my combat tunic and the ballistic weave of his flight rig, standing against him feels like stepping directly into a forge. 
+The silence inside the zinc conduit presses against my ears. Above my head, the condensation pipe drips a steady, rhythmic cadence onto the galvanized metal: *tap... tap... tap.* 
 
-"Legs," he orders, his voice rougher than before. "Around my hips. Lock them, Tsune."
+I don't stay still. In the Gray Ring, the runner who waits in the dark is the runner who dies in a box.
 
-I swallow hard, lifting my knees. My thighs wrap around his waist, the muscular curve of my inner legs straddling his hips. With swift, merciless efficiency, he threads the secondary tactical webbing beneath my thighs, cinching the brass ratchets down until there isn't a sliver of air between us. 
+I pull my father's five-inch steel bodkin knife from my hair bun, holding the cold grip in my teeth, and begin crawling deeper into the ventilation matrix. 
 
-The harness binds us flush—pelvis to pelvis, chest to chest, my small breasts flattened against the hard, unyielding plates of his pectoral armor. With every heave of his lungs, the friction is intoxicating, sending a suffocating jolt of electricity straight down into the pit of my stomach. Through the layers of combat gear, the hard, uncompromising ridge of his body presses against my lower abdomen—a raw, involuntary physiological response that neither of his disciplined masks can hide.
+The duct branches thirty feet back from the main living quarters, angling downward along the bunker’s northern structural spine toward the subterranean mechanical vault. Every ten feet, narrow inspection hatches provide access to the facility's hardwired data relays—ancient copper cables and optical ribbons that bypass the radio transmitter entirely, feeding telemetry directly from Dome Alpha's external sensor grid.
 
-His breath catches. His jaw cords into iron, a muscle ticking beneath his trimmed beard as he fights his own traitorous blood for control. 
+I reach the first junction box. 
 
-*God help me,* the thought slices through my panic, sharp and humiliating. *He is a corporate butcher, and my body is melting against his groin like butter in a pan.*
+The sheet metal is cold against my ribs. I wedge the flat tip of my bodkin beneath the junction panel, popping the rusted spring clips with a soft, metallic click. Inside sits a scavenged fiber-optic diagnostic bus—an auxiliary node linked to the bunker's tactical telemetry buffer.
 
-His large, scarred hands haul the shoulder buckles down, his knuckles brushing the bare skin of my ribs. The contact makes my breath hitch. Beneath my palms, his upper chest is burning, while my cool reptilian scales pulse with an involuntary, calming resonance that seeks to ground his rising fever.
+I slip my handheld data-slate from the chest pocket of my leather harness. 
 
-"Tsunari," he murmurs, his face inches from mine, his warm breath smelling of copper, ozone, and dark cedar against my cheek. "Listen to me."
+My fingers work with practiced, silent speed. I plug the slate's optic tap into the open junction bus, tapping into the incoming data stream flowing between Dome Alpha and the Inquisitor's inspection craft.
 
-I look up into his molten gold gaze, dark with a turbulent mixture of combat focus and raw, suppressed hunger. 
+The green phosphor screen flickers to life, cascading lines of encrypted hex code scrolling across the cracked display like falling neon rain.
 
-"The air at sixty knots hits like a slab of concrete," he says, his gravelly voice dropping into an intimate cadence that shuts out the screaming thrusters above us. "When we clear the lip, the downwash will try to rip the breath from your lungs. Do not look down. Do not fight the roll. Wrap your arms around my neck, tuck your chin into the hollow of my clavicle, and hold on."
+```console
+incoming secure dispatch // channel: spire-oversight-beta
+encryption: obsidian-six
+origin: culture lab 4 // telemetry audit division
+subject: priority alert // commander vram tyage (ae-701)
+```
 
-"And if you get hit?" I whisper against his jaw, my lips grazing the rough stubble of his cheek.
+My breath catches in my throat.
 
-"Then I lock my wings and we burn together," he answers without flinching. "Just like I promised."
+*Culture Lab 4.*
 
-A sudden, deafening loudspeaker crackles from the lead command barge hovering above the rim:
+I lean closer, my vertical slit pupils contracting to sharpen the micro-script scrolling across the phosphor screen. 
 
-*"Commander Tyage! Stand down and release the biological contaminant! You have executed an extraterrestrial overseer under the Heresy of the First Hand! Disengage flight surfaces immediately or your squadron will initiate automated termination fire!"*
+The transmission isn't an automated system diagnostic. It is an internal medical memorandum—an urgent biometric anomaly report generated barely three hours ago, flagged with the highest level of administrative priority.
 
-Above the barge, the winged silhouettes of Aeros-Legion bank in tight tactical formation. 
+```console
+biometric audit log // subject ae-701
+timestamp: 21:44 // sector 09 perimeter breach
+cervical siphon discharge: 108.4°f [critical threshold]
+synapse lattice frequency: anomalous null-phase detected
+variance: external bio-electromagnetic grounding event
+analyst note: subject exhibiting symptomatic behavior consistent with external interference. automated recall recommended before irreversible synaptic collapse.
+```
 
-I see Cassian at the point, his kinetic rifle raised, his flight quills trembling in the crosswinds. I see Ferrin hovering thirty yards to the flank, his power cell cycling with an agitated whine. And lower down, riding the turbulence along the cliff edge, young Toby Vance hovers with his wings flared wide, his eyes wide and horrified behind his gold-mirrored visor as he stares at the bloody alien carcass on the pad.
+And at the bottom of the memorandum, highlighted in the authorization block, sits the digital signature of the presiding technician:
 
-"They're painting us with target locks," I say, feeling the prickle of laser guidance systems against the skin of my back.
+```console
+authenticating officer: thorne, sora
+rank: tech-specialist junior (id: ed-8841)
+station: apex genesys // synthetics oversight division
+status: active / quad c-12
+```
 
-"Let them paint," Vram growls.
+The air in my lungs turns to solid lead.
 
-He steps backward. 
+*Sora.*
 
-His boots reach the very edge of the stone precipice. Behind our locked bodies, his fourteen-foot obsidian wings snap open with a sound like heavy canvas cracking in a hurricane, expanding into the freezing canyon gale. The iridescent crimson and copper highlights along his primary quills catch the blinding searchlights, glowing like molten gold against the dark.
+My hand trembles against the cold metal casing of the slate. 
 
-"Hold tight, Tsune," he whispers against my temple.
+Ten years of searching the slag heaps. Ten years of looking for her bones in the corpse carts outside the perimeter incinerators. And here she is—sitting at a clean, white plastic console inside Dome Alpha's Culture Lab 4, wearing a corporate lab badge, analyzing the neural anomalies of the very commander who was sent to hunt me through the dust.
 
-I wrap my arms around his neck, burying my face into the crook of his collarbone, breathing in the scent of his skin—rain on hot asphalt, ozone, and dark cedar.
+She wrote this report. 
 
-Vram leans back into eight hundred feet of empty space.
+She saw the telemetry spike when my bare hand touched Vram's neck siphon in the ruined substation. She saw the impossible drop in his core temperature, the sudden flatline of the screaming alien frequency that should have cooked his gray matter. 
 
-The ground vanishes.
+She didn't know who she was tracking. She didn't know the runner in the drainage ditches was the sister she thought had drowned in the sump canal ten years ago. To Sora, Subject AE-701 was just an expensive corporate asset suffering a mechanical breakdown—a malfunctioning weapon that needed to be recalled to the hangar before it broke its leash.
+
+And by filing that report, she drew the Inquisitors directly to our doorstep.
+
+A heavy, concussive thud reverberates through the bunker floor beneath my chest.
+
+The vibration travels through the zinc walls of the duct like an acoustic shockwave. It isn't the tread of a human boot. It is the hollow, crystalline stamp of an anti-gravity pressure stride—the sound of an eight-foot chitinous biomechanical organism stepping off an anti-gravity skiff onto the concrete landing pad.
+
+A second thud follows. Then a third.
+
+The Inquisitors have entered Redoubt 14.
+
+I unplug the data-slate, jamming the warm screen back into my chest harness beside the stolen Lazarus Key. I slide the bodkin knife into my right hand, reverse-gripping the cold steel along my forearm.
+
+Through the floor grates forty feet ahead, where the duct opens above the main tactical command desk, the temperature in the bunker drops ten degrees in five seconds.
+
+A sound filters through the ventilation slits—not human speech, but the low, multi-frequency clicking of Vaelen mandibular plates vibrating through a crystalline acoustic resonator. 
+
+The alien voice sounds like wet glass sliding over dry bone:
+
+*"Subject Seven-Zero-One. You have breached compliance parameters. Present your cervical couplings for immediate structural purge."*
+
+I flatten my body against the cold zinc floor, my slit pupils widening in the dark, and begin crawling toward the grate.

@@ -7,7 +7,7 @@ Each folder has a `README.md` that says which file answers which question. A REA
 Before a chapter, open:
 
 * `characters/tsunari.md` or `characters/vram.md`, for the point of view on the page.
-* `plot/book1/README.md`, then the part file that holds the chapter.
+* `../story/stolen_breath/breakdown.md` for the chapter's job, then that chapter's folder in `../story/stolen_breath/chapters/` for the summary, the rules, and the manuscript notes.
 * `places/locations_and_sensory.md`, when a listed place is on the page.
 * `romance/romance_engine.md`, when they touch.
 * `world/air.md`, when they are outside.

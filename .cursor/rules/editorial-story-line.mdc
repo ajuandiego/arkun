@@ -16,18 +16,18 @@ This pass asks what the book is about and whether the pages deliver that argumen
 
 Book 1, *Stolen Breath*, asks whether Tsunari Thorne and Vram Tyage can turn a hunt into a chosen alliance in time to expose the extinction clock, without corporate pardon or cult worship owning either of them.
 
-Read `canon/pitch.md`, `canon/plot/trilogy_overview.md`, and `canon/plot/story_beats_dual_track.md`. The external track and the romantic track must tighten together. A battle that does not change the bond, or a bond scene that does not change the survival problem, is a story-line fault.
+Read `canon/pitch.md`, `story/the_arkun_cycle.md`, and `story/stolen_breath/plot.md`. The external track and the romantic track must tighten together. A battle that does not change the bond, or a bond scene that does not change the survival problem, is a story-line fault.
 
 ## Shape
 
-`canon/plot/book1/README.md` is the chapter promise. Four parts, 44 chapters, five interludes:
+`story/stolen_breath/breakdown.md` is the chapter promise. Four parts, 52 chapters, five interludes:
 
-- Part I, chapters 1 to 10: the theft, the hunt, the first touch.
-- Part II, chapters 11 to 22: secret captivity, then defection.
-- Part III, chapters 23 to 34: wasteland, cult, sump.
-- Part IV, chapters 35 to 44: the Glass Vault, the siege, the compact that opens Book 2.
+- Part I, chapters 1 to 14: the theft, the hunt, the first touch.
+- Part II, chapters 15 to 28: secret captivity, then defection.
+- Part III, chapters 29 to 42: wasteland, cult, sump.
+- Part IV, chapters 43 to 52: the Glass Vault, the siege, the compact that opens Book 2.
 
-World truth arrives in four rings, in order: scarcity (1 to 10), the vassal empire (11 to 22), wasteland faith (23 to 34), the vault and the decrypted extinction plan (35 to 44). A later ring dumped into an early part is a Story finding if it empties the book's question, and a Spoiler finding if it spends a secret early. Report it once, under Spoiler, and note the story cost in one clause.
+World truth arrives in four rings, in order: scarcity (1 to 14), the vassal empire (15 to 28), wasteland faith (29 to 42), the vault and the decrypted extinction plan (43 to 52). A later ring dumped into an early part is a Story finding if it empties the book's question, and a Spoiler finding if it spends a secret early. Report it once, under Spoiler, and note the story cost in one clause.
 
 Personal stake (Sora alive inside the dome; the father the book still treats as lost) stays braided to the planetary stake (air, the 14-month seal, the Lazarus Key). If one stake vanishes for many chapters, say so.
 
@@ -39,7 +39,7 @@ The ending answers Book 1: they choose each other against Corvus and the Forger,
 
 - A part that repeats the previous part's dramatic turn.
 - A scene that does not change the story question, a relationship, or what the reader understands.
-- A theme stated in dialogue instead of forced by a choice. Themes in `trilogy_overview.md`: autonomy against conditioning, fire and shadow, romance earned through competence, truth against the dome's lie.
+- A theme stated in dialogue instead of forced by a choice. Themes in `story/the_arkun_cycle.md`: autonomy against conditioning, fire and shadow, romance earned through competence, truth against the dome's lie.
 - A pitch promise with no payoff: the stolen key, the touch that silences his fever, the rogue alliance, the Glass Vault.
 - Part titles or act breaks that disagree with the breakdown. Mark that as a divergence and say whether the new shape is clearer.
 

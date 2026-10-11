@@ -1,224 +1,192 @@
 # Chapter 11 // Tsunari
 
-> *"The defoliant burns slow. It eats through linen in ten seconds, leather in thirty, and flesh until it hits marrow. Water cannot save you if your clothes remain. Strip the rot, or let the grave have you whole."*  
-> — Field Warning, Dustborn Chem-Scavenger Guild (Sector 09 South)
+> *"To grant a weapon empathy is to prime its self-destruct. The moment an Aeros Commander values a single human life above the mission parameters, decommission the cohort immediately."*  
+> — Executive Memorandum, Apex GeneSys Directorate (Classification: Obsidian-Zero)
 
 ***
 
-The severed copper antenna lead hangs from the radio console like a dead viper, dripping a faint, dying hum of residual static onto the yellowed maps.
+The inductive drive hums into a low idle, then powers down.
 
-In the sudden vacuum left by the Director's voice, the silence inside Redoubt 14 feels heavier than the six-foot-thick blast concrete above our heads. 
+A heavy, unnatural stillness settles over the prowler’s armored cabin, broken only by the tick-tick-tick of cooling induction coils and the distant, lonely wail of the wind against the cliffs.
 
-I lower my hands slowly, rubbing the dull, aching indentations where the magnetic cuffs had bitten into my wrists. The bruised skin is cool to the touch, shaded with the faint geometric pattern of my recessed scales, but the circulation returns with a sharp, prickling warmth that reaches the tips of my fingers. 
+The partition hatch dogs unlatch with a loud metallic clank. 
 
-On the steel table between us sits Vram's heavy kinetic sidearm—the power cell pulled from the magazine well, its housing resting flat against the scarred metal. 
+Vram steps into the troop compartment. 
 
-A peace offering. Or a challenge.
+In the dim red emergency lighting, he looks even larger, even more imposing—six feet four inches of transgenic bone and hyper-dense muscle, his fourteen-foot obsidian wings folded tight against his spine. But the aristocratic composure of the sky-lord is still cracked. His skin is pale, slick with fever-sweat, his bare chest and shoulders throwing off waves of dry, radiant heat that smell of scorched feathers, heated titanium, and bitter clove.
 
-With an officer of Aeros-Legion, the line between the two is thin enough to slice on.
+He doesn't look at my face. He avoids my amber eyes with deliberate, disciplined care. 
 
-"Twelve hours," I say, my voice raspy against the dry linen of my neck gaiter. I do not touch the gun. In close quarters, picking up a dead sidearm against a six-foot-four Simurgh chimera is a novice mistake. Instead, I keep my back within two strides of the steel cot, keeping my balance low, my weight centered over the flex in my arches. "You gave us twelve hours before Dome Alpha pulls the flight telemetry from your prowler and realizes the runner didn't disintegrate."
+Without a word, he kneels before my boots. 
 
-Vram doesn't answer immediately. 
+His large, calloused fingers—fingers capable of tearing an iron door from its hinges—reach down and unlock the steel cable tethering my ankles to the metal bench. He works with cold, clinical speed, but I notice the subtle tremor in his thumbs. The silver leash in his neck is still vibrating, a silent tuning fork of agony vibrating through his nerves.
 
-He stands motionless beside the dead transmitter, his tall, massive frame silhouetted against the dim amber hum of the bunker's emergency tube lighting. The violent shudder that had wracked his spine three minutes ago has subsided, but the heat rolling off his body still hits my face like an open kiln. Even across six feet of cold air, he smells of raw ozone, aviation bio-lubricant, and the sharp, mineral tang of superheated blood.
+He stands up, stepping back toward the open rear hatch.
 
-"Ten hours," he corrects, his voice dropping into that low, gravelly timbre that seems to rattle in his chest rather than his throat. "Corvus is thorough. She doesn't trust field commanders who don't bring back corpses on ice. By dawn, she will have biometric auditors combing Conduit 12-B with ultraviolet probes. When they don't find carbonized bone fragments from a ruptured pressurized suit, the hunt orders will go wide."
+"Out," he rasps.
 
-He turns toward me. His molten gold eyes take in my loose wrists, the relaxed coil of my shoulders, and the distance between my boots and the weapon on the table. 
+I don't argue. I stand, testing my balance on legs that have been stationary for forty minutes. 
 
-A faint, humorless twitch pulls at the corner of his sculpted beard. 
+The magnetic cuffs on my wrists remain locked, the polarized field humming against my forearms, numbing my fast-twitch motor nerves. But my boots are free. My center of gravity is low and balanced. 
 
-"You're still measuring the exit," he murmurs.
+I step through the rear hatch into the night.
 
-"I’m alive because I never stop measuring the exit," I answer. "You just committed treason against the only authority that signs your air vouchers. That makes you dangerous, Commander. Desperate men do unpredictable things when the cold sets in."
+The cold hits me like a physical slap.
 
-"I am neither desperate nor cold," he says quietly.
+We aren't in the desert anymore. We are eight hundred feet in the air, standing on a narrow, windswept stone shelf jutting out from the sheer basalt wall of the Razorback Canyons. 
 
-He reaches for the heavy buckles of his chest harness. 
+The wind up here is bitter, sub-zero, stripped of the heavy sulfur stench of Sector 09. It carries the crisp, ancient scent of frozen stone, pine resin, and high-altitude iron. Below us, plunging into total darkness, the canyon floor is a jagged labyrinth of black basalt ribs and dry riverbeds. Looking south, the glowing emerald dome of Alpha is nothing more than a faint, luminous blister on the horizon, twenty miles away.
 
-I don't move, but the muscles along my calves tighten, ready to spring. 
+My predatory spatial geometry maps the terrain in fractions of a second.
 
-Vram doesn't draw a blade. With slow, methodical discipline, his calloused fingers release the primary compression latches of his tactical flight rig. The heavy, multilayered ballistic nylon gives way with a dull scrape of brass grommets. He pulls the reinforced straps over his wide shoulders, sliding the armored vest off his chest and setting it onto the edge of the cot.
+Three sides of this stone plateau are sheer, vertical drops into the abyss. An eight-hundred-foot fall onto jagged shale. Behind us is a single, narrow goat trail—a treacherous switchback of crumbling rock barely wide enough for the prowler's treads.
 
-Beneath the harness, his olive-drab combat tunic is drenched in dark circles of sweat, clinging to the dense, corded musculature of his torso like wet paper. 
+No communications towers. No fiber-optic trunk lines running along the cliff. No microwave transmission dishes angled toward the dome. 
 
-He unbuttons the high collar.
+Only an ancient, rusted shortwave whip antenna swaying in the wind atop a monolithic slab of gray concrete.
 
-For ten years in the Gray Ring, I have seen Aeros soldiers only from below—black silhouettes sweeping through the copper storm like prehistoric birds of prey, terrifying and impersonal, untouchable behind their gold-mirrored visors and flight armor. In the container slums of Sector 09, mothers whisper that the Directorate grows them in glass vats from raptor marrow and cold iron, that they feel no pain, bleed no red, and sleep on beds of bare granite.
+*Redoubt Station 14.*
 
-The myth dissolves with the next pull of fabric.
+The structure is half-carved into the living basalt of the mountain. It looks like a pre-collapse pillbox—six-foot-thick walls of reinforced blast-concrete poured during the Resource Wars, long before the sky turned copper and the Vaelen barges appeared. The steel embrasures are narrow, armored slits. The heavy blast doors are dark, pitted with eighty years of acid rain and sandstorms.
 
-Vram peels the tunic over his head, tossing it onto the table. 
+"Move," Vram says from behind me, his hand resting lightly against the small of my back.
 
-My breath catches behind my teeth.
+The heat of his palm through my sleeveless combat tunic is shocking. Even with ballistic cloth between us, his touch feels like a brand, radiating 107 degrees of Simurgh furnace fire into my spine. 
 
-It isn't just the scars that stun me into silence. It is the sheer, overwhelming physical reality of him.
+I feel a strange, involuntary ripple pass through my own blood—a cool, bio-electromagnetic current that rises to meet his heat, seeking to ground the chaotic charge. 
 
-Stripped to the waist, his skin is warm bronze, glowing with suppressed metabolic fire. Broad pectoral plates taper down into the ridged, carved symmetry of an abdominal wall crossed by old shrapnel tracks. Muscles cord along his ribs and obliques like thick cables of twisted steel, flexing with every deep intake of air. 
+I step forward across the gravel.
 
-Against my will, my eyes trace the sharp V-taper where his abdominal ridges disappear into the low-slung waistband of his flight trousers. A sudden, illicit prickle of heat sparks low in my belly, startling and fierce. My mouth goes dry. 
+Vram reaches past my shoulder, his massive wings rustling in the gale, and punches a six-digit manual code into an ancient mechanical keypad beside the blast door. With a heavy clatter and a violent hiss, the pneumatic seals disengage under a deafening release of compressed air. The four-ton blast door groans along iron floor tracks, swinging outward to reveal a dark, subterranean cavern.
 
-*Stop it, Tsune.* 
+He ushers me inside and slams the door shut.
 
-I force my gaze upward, furious at my own traitorous body. He is an instrument of the state. A genetically engineered killer. 
+The iron locks engage with the finality of a tomb.
 
-*Don't acknowledge that he's built like an ancient war god carved out of granite. Look at the butchery.*
+The howling wind vanishes instantly. 
 
-And it is a monument to corporate butchery.
+In its place is the heavy, dead silence of a reinforced concrete bunker. The air is cool, dry, and surprisingly breathable—the low, reassuring *clack-whir* of an ancient mechanical scrubber hums somewhere in the ventilation shaft, filtering out the desert alkaline without demanding a corporate brass token.
 
-Between his shoulder blades, where the heavy thoracic muscle groups anchor the fourteen-foot wings, the human anatomy simply ends. The flesh has been forced to widen, split, and reconstruct itself around massive structural implants—thick, knurled plates of dull titanium bolted directly through his scapulae with surgical lag-screws. Where the primary quills emerge from his flesh, there are no feathers growing soft like down on a bird's wing. They burst from living, suppurating follicles of inflamed, purplish keratin, surrounded by thick rings of pale keloid scar tissue that had torn and re-healed a thousand times under the violent drag of flight.
+Vram reaches up and flips a manual breaker switch.
 
-At the base of his skull, the dual titanium siphon ports sit flush against the skin of his cervical vertebrae, glowing with a faint, angry violet luminescence where the Vaelen synapse lattice is still slowly venting its residual charge.
+A row of overhead fluorescent light tubes flickers to life with a buzzing hum, casting a harsh, yellow-white glare over the room.
 
-The tissue surrounding the upper port is swollen to the size of a walnut—raw, angry red, weeping a thin, translucent fluid that smells faintly of copper and industrial conductive gel.
+I blink against the sudden light, my membranes sweeping across my eyes, my vertical slit pupils contracting to razor-thin needles.
 
-*He’s not a monster,* the thought settles in my chest with cold, heavy certainty. *He’s an engine they’ve been running without oil until the pistons weld themselves to the block.*
+I scan the bunker.
 
-Vram reaches back over his left shoulder, his broad hand searching blind for the lower socket. His fingers, tipped with retracted nanocarbon talons, tremble with subtle, microscopic spasms as they brush the inflamed flesh. A sharp, involuntary hiss escapes through his clenched teeth—a sound of raw, unvarnished agony that he bites back the second it leaves his lips.
+I was expecting an interrogation room. 
 
-"Damn it," he grunts.
+I was expecting the cold, sterile horrors of a Directorate black site: stainless-steel vivisection tables with gutter drains, leather restraint straps stained with the bile of dissected chimeras, high-voltage neural clamps hanging from the ceiling, and corporate surveillance cameras blinking red in every corner.
 
-He reaches for a small, cylindrical tin on the corner of the radio desk: a field-issue container of sulfur-salve and silver-nitrate paste used by line mechanics to seal hydraulic bleeds. 
+There is none of that.
 
-He tries to twist his arm behind his neck again, but the dense, interlocked muscle groups of his wings won't allow the angle. The titanium anchor plate catches against his fourth rib with a dull, sickening grind of bone on metal. 
+The room is thirty feet square, functional, military, and Spartan. 
 
-His jaw tightens. Sweat trickles down the carved hollow of his spine, sizzling faintly where it touches the burning rim of the titanium socket.
+Against the far wall sits a heavy steel tactical desk covered in yellowed paper maps—ancient topographical charts of Old Geneva and the Mediterranean Basin from an era before the sea evaporated into the Stygian Ocean, back when the sky was blue and water fell from clouds like a blessing. 
 
-I watch him for three breaths. 
+Memory stirs—an old lesson from my father in the Lower Sumps: "Look at these ancient contours, Tsune. Lake Geneva was two hundred meters deep. Cold, sweet alpine runoff. The Consortium built Dome Alpha directly over the ruins of the European bio-curator vaults to bury the evidence of what Earth looked like before the corporate syndicates traded our sky to the Vaelen."
 
-I could stay silent. I could let him tear open the incision. I could wait until the fever climbs back to 108 degrees and his motor cortex locks him to the floor, take the Lazarus Key from my chest pocket, take his sidearm, and disappear into the canyon before the Directorate searchlights reach the ridge.
+In the corner of the bunker, an operational shortwave surveillance receiver hums with low static. Beside it sits a narrow military cot with a rolled wool blanket, a stack of sealed olive-drab survival ration crates, a manual water condensation tank, and a rusted metal footlocker stenciled with faded white lettering: *CORPS EMERGENCY MEDICAL SUPPLY.*
 
-It would be the smart survival choice. The Gray Ring choice.
+In the ceiling overhead, an iron ventilation grate opens into a maintenance crawlspace, narrow, perhaps two feet wide, but wide enough for me.
 
-"A knife is just a blade, Tsune," my father’s voice whispers through the dark of my memory, calm and steady over the rattle of the old workshop stove. "A bodkin is an interface. When the world tries to make you a butcher, you choose what you mend."
+No cameras. 
 
-I step forward across the concrete floor. 
+No corporate telemetry terminals.
 
-My boots make no sound against the dust—the soft, cursorial tread of a predator closing distance. 
+No digital link to Dome Alpha.
 
-Vram’s head snaps sideways, his gold eyes locking onto mine, his primary quills instantly flaring six inches in warning. 
+I turn slowly on my heels, my chained hands resting against my stomach, my amber-chartreuse eyes fixing on Vram.
 
-"Don't move," I say, my voice flat, stripped of fear. 
+He leans heavily against the closed blast door, his head resting back against the cold concrete. His chest is heaving. With the door sealed and the wind gone, the heat radiating off him fills the small bunker with suffocating intensity. The subcutaneous capillaries along his arms and neck are glowing violently, pulsing with crimson fire that illuminates the severe, aristocratic lines of his jaw and beard.
 
-"What are you doing?" 
+He looks like a dying star trapped in a concrete box.
 
-"Preventing my only escort through the perimeter checkpoints from blowing a cerebral gasket before we reach the canyon floor," I answer. 
+"This isn't a Directorate outpost," I say, my voice cutting through the hum of the fluorescent lights.
 
-I reach past his shoulder, lift the tin of silver-nitrate salve from the desk, and unscrew the rusted lid with a sharp, metallic twist. The pungent, antiseptic bite of camphor and zinc fills the space between us, cutting through the heavy smell of his fever. 
+He doesn't open his eyes. "It's Redoubt 14."
 
-I pull the steel bodkin knife from my hair bun with my left hand. 
+"I know what it's called," I snap, taking two steps toward him. The magnetic cuffs clink softly. "I asked what it *is*. Where are the Inquisitors, Commander? Where are the containment nets? Where are the bio-techs waiting to harvest my marrow?"
 
-Vram tenses, the muscles across his upper back turning to solid stone beneath the scarred skin. "Tsunari—"
+Vram slowly opens his eyes. 
 
-"If I wanted to kill you, Commander, I would have let Director Corvus do it over the radio while you were on your knees," I say quietly. "Sit on the cot. And keep your wings still."
+They are molten, bloodshot, burning with a fever so intense it looks like madness.
 
-He stares at me for a long, calculating second. His gaze searches my face, looking for the lie, looking for the ambush. He finds neither. What he finds is the cold, unwavering competence of a woman who has spent ten winters stitching her own flesh in drainage ditches while the sirens wailed overhead.
+"They aren't coming," he rasps.
 
-Slowly, his wings ease back against his spine, their primary quills rustling like dry reeds in an autumn wind. 
+"Why?" 
 
-He sits on the edge of the military cot, his knees wide, his elbows resting on his thighs. The posture lowers his six-foot-four height, bringing the nape of his neck level with my chest. 
+"Because they don't know we're here."
 
-I step behind him.
+The words hang between us, heavy and electric.
 
-The heat radiating off his bare back is staggering. It feels like standing before an open boiler hatch in the sub-level refineries. My skin, naturally cooler by five degrees, reacts instinctively—the fine, transparent scales along my wrists tightening into rigid geometric shields against the thermal draft.
+I stare at him, tilting my head sideways with predatory, calculating focus. 
 
-I dip the flat, blunt spatula end of my father's bodkin knife into the silver salve, gathering a pea-sized dollop of the gray paste. 
+"You severed the prowler’s satellite transponder," I deduce, mapping the puzzle in my head. "You rerouted the navigation. You told your squad I slipped into the drainage conduits."
 
-"This is going to burn," I warn him.
+"Very observant," he whispers, a bitter, self-mocking smirk touching his lips.
 
-"I’ve survived Directorate neuro-scours, runner," he mutters, his voice tight. "Your little kitchen salve won't—"
+"Why?" I demand, taking another step forward until I am standing barely four feet away from him. 
 
-I press the cold steel blade flat against the inflamed margin of the upper siphon socket.
+The heat coming off his body is overwhelming. It washes over my bare arms and shoulders like standing before an open furnace door. I can see the fine, violent tremors shaking his left hand. I can see the skin around his cervical siphon port—raw, swollen, purple with severe inflammation, looking as if the titanium rim is about to tear free from his vertebrae.
 
-A violent, electric shudder rips through his entire frame. 
+"You're the supreme commander of Aeros-Legion," I say, my voice dropping into a tense, dangerous whisper. "You execute insurgents for breakfast. You burned three smuggler caravans in the southern flats last month. You don't commit high treason for a Gray Sector thief."
 
-Vram’s hands clamp down on his knees so hard the olive-drab fabric of his trousers groans under the strain. His knuckles turn white, transgenic bone threatening to tear through the skin. A deep, guttural growl catches in his throat—the low, vibrating rumble of a trapped predator enduring the branding iron—but he does not pull away. He does not flinch.
+He pushes off the blast door, taking a single, lumbering stride toward me.
 
-"Breathe," I command softly, working the paste around the rim of the titanium socket with steady, surgical pressure. "In through the nose, out through the mouth. Four counts. Don't fight the cold."
+He towers over me, his massive wings half-flaring, his shadow swallowing me in the harsh fluorescent glare. 
 
-Under the touch of the salve, the weeping fluid sizzles faintly, turning milky white as the zinc neutralizes the acidic bio-discharge. With the blunt edge of the bodkin, I scrape away a thin collar of blackened, oxidized copper buildup that had caked around the threading of the port—the residue of thousands of high-voltage telemetry pings that had nowhere to ground.
+"You think I did this for *you*?" he snarls, his voice low, guttural, vibrating with a terrifying mixture of rage and desperation. 
 
-"The Directorate mechanics," I murmur, watching the blackened grease lift away on the steel tip, "they don't clean these, do they?"
+He raises his trembling right hand, pointing a single, rigid finger at the side of his own skull.
 
-"Every six months," he grates out through clenched teeth, his breath shuddering against the floor. "Mandatory flush. They hook us to a pressurized solvent line in the lower hangars. Takes forty seconds."
+"This leash in my neck is cooking my brain!" he roars, the sound echoing off the concrete walls like an explosion. "In twenty-four months, my synapses will turn to cinder! I will die on an autopsy table while Director Corvus drafts another orphan to take my wings!"
 
-"And in between?"
+He leans down, bringing his face inches from mine. 
 
-"In between, you fly," he says. "A weapon doesn't ask for a towel."
+His breath is scorching, smelling of copper and bitter clove. The heat radiating from his chest is suffocating, but I refuse to step back. I hold my ground, my chained hands flat against my ribs, my vertical pupils boring into his molten gold.
 
-"A weapon doesn't have living nerve endings grafted into its cervical marrow," I counter. 
+"For ten years," he whispers, his voice breaking, trembling with an agony so profound it hollows out my chest, "I have listened to an alien carrier wave scream inside my skull. Every hour. Every minute. Every second. It never stops. It never sleeps. It tells me who to shoot, who to burn, where to fly."
 
-I clean the blade on a strip of sterile gauze from his medical footlocker, then set the bodkin aside on the desk. 
+He closes his eyes for a fraction of a second, a ragged, shuddering gasp tearing from his throat.
 
-I take a deep breath. 
+"And then you touched me."
 
-Then, I place my bare palm flat against the base of his neck, directly over the cooling titanium socket.
+Silence falls over the bunker. 
 
-The reaction is instantaneous.
+The mechanical scrubber hums in the wall. The fluorescent lights buzz.
 
-The second my skin makes contact with his, the faint, high-frequency electric whine humming through his cervical port dies. A visible wave of relief washes through his body—the dense, rock-hard muscle across his trapezius uncoiling like a released steel spring. His broad shoulders drop three inches. His head sinks forward, his chin resting against his chest as the agonizing pressure in his temples melts away into absolute, ringing silence.
+"When your bare hand touched my siphon," Vram whispers, his molten eyes reopening, looking at me not with anger, but with a terrifying, reverent vulnerability, "the noise died. For the first time in twenty-one years, I heard my own heartbeat. I felt my own skin."
 
-*Null-Resonance.*
+His jaw tightens. The fever-sweat drips from his sculpted beard, spattering on the concrete between our boots.
 
-My father had called it an organic ground wire. Standing here in the dim light of an abandoned bunker, feeling the ferocious, solar heat of his body pour into the cool current of my veins, it feels less like physics and more like an anchor dropped into a stormy sea. My own blood warms in response, a comfortable, steady pulse rising to meet his furnace, sharing the load, taking the excess fire and diffusing it into the cool earth through my boots.
+"If I took you to Sub-Level 3," he says softly, "Corvus would have put a bone-saw through your skull before sunrise. She would have dissected your Null-Resonance, catalogued your genome, and burned you to ash. And I would have walked back to the Aerie and waited for my brain to rot."
 
-"Your father taught you this," Vram whispers into the quiet. His voice is different now—stripped of command, stripped of rank, vulnerable in a way no soldier of the Aerie was ever permitted to be.
+He shakes his head, a dark, dangerous resolve settling into the hard lines of his face.
 
-"My father was a chief geneticist in the lower labs before the Consortium decided baseline humans were obsolete," I say, keeping my palm firmly planted against his neck. My thumb brushes the smooth, dark edge of his hair bun, feeling the damp strands at his nape. "He spent ten years trying to figure out why the Vaelen couldn't splice us without turning our brains to mush. He found out the truth before they dragged him into the street."
+"I didn't bring you here to save your life, raptor," he murmurs, his voice dropping into a raspy, possessive growl that sends an electric shiver through the fine reptilian scales beneath my bracers. 
 
-"What truth?"
+"I brought you here because you are the only cure on this dying rock. And until I figure out how to stop the screaming in my head without you..."
 
-"The alien lattice wasn't designed for human neuro-chemistry," I answer. "It’s an invasive parasitic weave. It forces human neurons to process Vaelen quantum carrier frequencies by burning through mitochondrial reserves at eight times the natural rate. That’s why your people don't live past thirty-two. The Directorate tells you it’s an honor to die young for Eden. In reality, you're just cheap combustion engines with a predetermined expiration date."
+His molten eyes trace the line of my throat, lingering on the stiff linen gaiter that conceals my un-collared skin.
 
-Vram sits in silence for a long time. 
+"...you aren't going anywhere."
 
-Beneath my hand, his skin has cooled from a blistering 108 degrees to a steady, radiant 104. The violent micro-tremors in his wing roots have stopped. The iridescent feathers along his primary shafts lie flat, gleaming in the soft amber light with deep highlights of copper and obsidian.
+A tense, electric quiet fills the room.
 
-"We knew," he says finally, his voice barely audible over the hum of the bunker's air scrubber.
+My thoughts race, colliding against the 14-month countdown burned into my memory. 
 
-I frown, looking down at the dark curve of his head. "You knew you were dying?"
+Sora is inside Culture Lab 4. The Consortium is planning an atmospheric purge. I have the Lazarus Key burning against my ribs, and I am locked in an off-grid bunker on an eight-hundred-foot cliff with a six-foot-four transgenic sky-lord who has just severed his corporate leash to keep me as his personal biological shield.
 
-"We count the rings on the siphon," he says softly. "Every winter, the scar tissue widens by two millimeters. By the eighth year, you can't sleep on your back. By the tenth, the migraines make you blind in high-g turns. Ferrin has four years left. Toby... Toby has maybe seven before his bone marrow dries up."
+I look at him—this undefeated war machine, this monster who could crush my ribs with one hand, standing before me like a condemned man begging for an extra breath of air.
 
-He turns his head slowly, looking up at me over his shoulder. 
+He thinks he’s holding me prisoner. 
 
-In the close quarters of the bunker, his face is inches from mine. Up close, without his flight goggles or his commander's sneer, his features are strikingly human—the sharp, aristocratic bridge of his nose, the clean jawline framed by his dark beard, the deep exhaustion etched into the corners of his golden eyes. 
+He thinks he’s the captor.
 
-"We knew they were killing us," he whispers, his gaze holding mine with an intensity that makes my pulse stutter in my throat. "We just didn't think there was another way to breathe."
+A cold, razor-sharp smile slowly pulls at the corners of my mouth behind my linen mask.
 
-My fingers twitch against his skin. 
+"Well, Commander," I whisper, raising my chained wrists between us. 
 
-For the first time since he tackled me through the broken mirrors of the graveyard, I don't see the enemy commander who hunted my people through the dust. I see a boy who was stolen from an unheated dormitory, given wings of steel and feathers, and told that his only worth on this broken earth was how fast he could fall from the sky.
-
-"There is another way," I say, my voice steady, unyielding. 
-
-I pull my hand away slowly. The sudden absence of contact leaves my palm feeling cold and empty, as if the room had lost ten degrees of warmth the second our skin parted. 
-
-Vram inhales sharply, the phantom static flickering at the edge of his vision for a half-second before settling into a manageable, dull hum. 
-
-He stands up from the cot, turning to face me. 
-
-At his full height, he towers over me, six feet and four inches of transgenic power, but the hostility between us has evaporated. In its place is something far more dangerous: a mutual, unspoken compact forged in blood, treason, and the desperate need to stay alive.
-
-"Where do we go?" he asks.
-
-I reach into the pocket of my utility harness, pull out the stolen crystal data wafer, and let it catch the amber light between our fingers.
-
-"The Glass Vault," I say. "Eighty miles south, buried beneath the salt flats of the Rust Barrens. My father left an uncorrupted pre-collapse terminal in the deep archives. If we can link this core to the root mainframe, we can decrypt the rest of the Lazarus Key. We can find out what Corvus is planning for the Purge—and we can find out where they're keeping my sister."
-
-Vram looks down at the wafer, then up at my face. 
-
-"The Rust Barrens are a death zone," he says, his military instincts reasserting themselves with crisp, lethal clarity. "No water. No scrubbers. Feral chimeric packs roaming the dunes, and forty miles of automated flak towers covering the perimeter gorge. If Cassian scrambles the Legion, they will have the skies locked within an hour of dawn."
-
-"Then we don't fly the skies," I say, stepping past him to the tactical desk and tapping the topographical map of the Old Geneva basin. "We take the subterranean storm conduits through the gorge. We stay below their radar until we clear the dead perimeter."
-
-Vram leans over the map, his broad chest inches from my shoulder, his wings folding tight against his back to fit within the narrow space. 
-
-"And when the conduits run out?" he asks, his molten eyes meeting mine in the shadows.
-
-"Then," I say, looking straight into the golden fire of his gaze, "you show me how an eagle breaks the sky."
-
-A slow, dangerous smile spreads across his lips beneath his beard—the fierce, unyielding grin of a warrior who has finally found a cause worth dying for.
-
-"Get your gear, Tsune," he says, picking up his sidearm and sliding the power cell home with a solid, echoing click. "The sun will be up in four hours. And the Directorate is going to burn when they find this cage empty."
+"It seems we have a problem."
