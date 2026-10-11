@@ -34,7 +34,7 @@
 
 *   **Chapter 28 // Vram**
     *   *Lexicon Entry (Ceraton, Pachyd-D Link):*
-        > **Ceraton** *[archeo-genetics]*: Common names Rhino and Tank. Grey cracked hide on the neck, the shoulders, the upper arms, and the upper back. A brow horn on some. Dense bone, a short charge. Origin: 70% rhino and other mammals. The hide is not venom, and it is not a gas lung.
+        > **Ceraton** *[archeo-genetics]*: Common names Rhino and Tank. Grey cracked hide on the neck, the shoulders, the arms, and the upper back, and a horn on the brow. Dense bone, a short charge. Origin: 70% rhino and other mammals. The hide is not venom, and it is not a gas lung.
     *   *Setting:* The sealed tunnel bulkhead of the pre-collapse heavy-rail line.
     *   *Core Action:* Kira guides them to the sealed bulkhead guarded by **Boran "The Bastion" Vael-Korr**, a 6'8" Rhino. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, unlocking the hand-cranked rail trolley to smuggle them into Sector 09.
 

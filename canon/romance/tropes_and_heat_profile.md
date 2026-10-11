@@ -18,7 +18,7 @@
 
 ### 4. "Who Did This To You?" (The Primal Protector Shift)
 *   When a rival scavenger militia, Tempered cultist, or Consortium security unit corners Tsunari and leaves a bloody gash across her cheek or bruises her wrists:
-*   Vram's aristocratic military composure completely dissolves. A blue-violet sheen lifts on the black shafts, and his pupils contract. The hands stay hands.
+*   Vram's aristocratic military composure completely dissolves. A blue-violet sheen lifts on his black shafts, and his pupils contract. The hands stay hands.
 *   His voice drops into an infrasonic growl: *"Which one of them laid hands on you?"*
 
 ### 5. Biological Quirks & Primal Sensory Hooks

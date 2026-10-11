@@ -68,14 +68,14 @@ Fury or a hard adrenaline spike is what wakes the tree. For as long as that stat
 #### 7.2 The Mosaic Keystone Genotype (Tsunari's Secret Architecture)
 *   **The Problem Dr. Jeffrey Thorne Solved:** Single-class chimeras reject each other. A Ceraton's tissue rejects an Avian's blood. A Galvan secretion breaks an Avian vein. A Lycan mesh does not sit quietly in a Raptor's chemistry. Every corporate class is also collared by the Karyon lattice.
 *   **The Mosaic Solution:** When inoculating his daughter, Dr. Thorne did not splice her with a single lineage. He engineered her as the **Mosaic Keystone**. He called the formula the Keystone Archetype. The five loci are the five facets of the old Karyon sequence. That history is in `../factions/karyon.md`. The ground is in `leash.md`.
-    *   *Expressed Body (100% Raptor, Dromaeo-X Chrome):* Stronger legs than a baseline human, sub-vocal clicks, clear eye membranes, reptilian shin scutes, vertical slit irises, and a cool resting temperature.
+    *   *Expressed Body (100% Raptor, Dromaeo-X Chrome):* Stronger legs than a baseline human, sub-vocal clicks, clear eye membranes, scales on the shoulders, the upper arms, the upper back, and a scatter on the neck and the jaw, vertical slit irises, and a cool resting temperature. The body is in `strains.md`.
     *   *Dormant Regulatory Matrix (The Keystone):* Non-coding receptor loci for the other four classes (**Avian, Lycan, Ceraton, Galvan**).
     *   *The Universal Rosetta Stone:* The five receptor sets, and the absence of a collar, are what make the shunt. Her touch grounds any corporate strain because each mesh recognizes a receptor and then loses the carrier into her. A single-strain body, collared or not, cannot do it. The ground is temporary. The mesh stays. A permanent release, synthesized later from her blood, is a different act from a hand on a port.
 
 #### 7.3 Concealment Protocols for Un-Collared Mutants
-In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `assets/media/tsunari_10.jpg`. The clothes are in `../../characters/tsunari.md`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
+In Sector 09, unsanctioned chimeras without corporate collars are hunted for vivisection. Her field kit is the plate in `assets/media/character_tsunari.jpg`. The clothes are in `../../characters/tsunari.md`. The collar hides the nape. The goggles hide the eyes when she wears them. The shoulder scales stay visible.
 1.  **Spire hooks:** The weapon is in `../../style/glossary.md`. On her they hang at the hips, crescent along the outer thigh, and she fights them in a reverse grip.
-2.  **Bracers, gloves, and leggings:** Forearm bracers and fingerless gloves are kit. Dark leggings cover the shin scutes. The pebbled scales on the outer shoulders and upper arms stay visible.
+2.  **Bracers, gloves, and leggings:** Forearm bracers and fingerless gloves are kit. Dark leggings are kit. The scales on the shoulders and the upper arms stay visible.
 3.  **Amber-Tinted Welder Optics:** Goggles worn over her eyes to disguise her vertical slit pupils and eye membranes as light-sensitive work gear.
 4.  **High collar:** The sleeveless tunic's stand collar wraps the throat and the nape, concealing the smooth, unblemished skin and the **dangerous absence of the siphon**. The face stays bare. Shoulders and arms stay free. A linen wrap is storm cloth, not the daily collar.
 

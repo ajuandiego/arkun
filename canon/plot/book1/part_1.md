@@ -7,7 +7,7 @@
         > *"Audio Entry 114. They transferred me to Culture Lab 4 today! The air in the residential quad smells like sweet jasmine and honeysuckle this morning. Director Corvus promised our new aerosol trial will help the people outside breathe clean again. I wish Father and Tsune were here to see this. I know they're looking down from somewhere clean."*
     *   *Setting:* The perimeter maintenance duct of Eden Dome Alpha.
     *   *Core Action:* Tsunari unseats the Bodkin, seats the service tang in an Apex Bio courier terminal, and copies the encrypted raw root file of the *Lazarus Key* onto the optical slate at her chest. She uncovers the schedule the state media will not say: in 14 months the Consortium will collapse Sector 09's lee, push barrens-air over the Ring, and seal the dome.
-    *   *Tactical Concealment & Field Gear:* The silhouette is `assets/media/tsunari_10.jpg`. The clothes, the slate, and the hooks are in `canon/characters/tsunari.md`.
+    *   *Tactical Concealment & Field Gear:* The silhouette is `assets/media/character_tsunari.jpg`. The clothes, the slate, and the hooks are in `canon/characters/tsunari.md`.
     *   *Personal Stake (The Gilded Mirror):* While extracting the payload, Tsunari catches a brief flash of an active internal personnel directory: *Thorne, Sora — Junior Synthetics Assistant, Bio-Lab 4*. Tsunari freezes—her younger sister, separated from her ten years ago and presumed dead, is alive inside the dome, working for the very corporate regime that poisoned their world.
     *   *Hook:* Breach alarms blare; high above, an aerial shadow with a 14-foot wingspan dives through the searchlights.
     *   *Worldbuilding & Past Lore Delivery:*

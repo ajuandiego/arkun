@@ -18,18 +18,20 @@ Each class has a lab mutagen, a common name where soldiers and the street use on
 
 ## Anatomical profiles
 
+The graft of each class is the male and female pair in `assets/media`: `mutation_avian_male.jpg`, `mutation_avian_female.jpg`, and the same pairing for lycan, ceraton, galvan, and raptor. The Raptor eye is `mutation_raptor_membranes.jpg`. Those sheets show the mutation. Hair, the face, skin color, and clothes belong to the person, and they live in that person's file under `../../characters/`. The graft can change height and build. Feather color, fur color, and the color of unplated skin are the host's.
+
 ### 1. Avian — Ravens and Kites
 
-One graft. Hollow bone, a built wing, a predator's eye, and a metabolism that outruns a human. The common name is the cut. The hands are hands.
+One graft. Hollow bone, a built wing, a predator's eye, and a metabolism that outruns a human. The common name is the cut. The hands are hands. There is no crest, and there are no talons.
 
-*   **Ravens** are the command cut. Broad wing, black vane, the hottest burn. Vram Tyage is a Raven.
-*   **Kites** are the patrol and scout cut. Lighter bone, a faster stoop or a hover, plumage that stays slate, cream, or rust. They do not live at a Raven's temperature. Toby Vance is a Kite. His callsign, Kestrel, is his name in the squad, not a third class.
+*   **Ravens** are the command cut. Broad wing, the hottest burn. Vram Tyage is a Raven.
+*   **Kites** are the patrol and scout cut. Lighter bone, a faster stoop or a hover. They do not live at a Raven's temperature. Toby Vance is a Kite. His callsign, Kestrel, is his name in the squad, not a third class.
 
-**Build.** Towering on a Raven, leaner on a Kite. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
+**Build.** A strong chest and shoulder for the wing. Broader on a Raven, leaner on a Kite. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
 
-**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, it passes through the slits in the shirt. A Raven's pair reads as a black cloak. The bone of the wing arm wears the same matte plate as the chest. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Kite primary takes weeks.
+**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, the wings hang long down the back. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Kite primary takes weeks.
 
-**The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. On a Raven the vane is black. Heat or a hard beat lifts a blue-violet sheen on the shafts and the primaries, the way a raven's feather takes the light. It cools back to black. Kite wings do not do this. There is no crest. The nape is hair, skin, and the siphon.
+**The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. The color of the vane is the host's. The nape is hair, skin, and the siphon.
 
 **Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyon.md`.
 
@@ -45,7 +47,7 @@ A closed hand is hot because the tissue is at that set-point. A cut on a Raven c
 
 **Build.** Endurance first, then the jaw. Strong through the shoulder, built to take a hit and keep going. A woman stays a woman. A man stays a man.
 
-**Hide.** A human face, human ears, and human hands. The pupils are round. Long hair continues from the head and thickens into fur over the shoulders, the upper arms, and the upper back. It is the person's own hair, not a garment, and it is very furry there. The forearms and the chest stay mostly skin. Hair color and fur color vary. The feet are human. No muzzle, no quills. The wolf is the donor, not a second animal stapled on. The locked sheets are `assets/media/kira_4.jpg` and `assets/media/hound_2.jpg`.
+**Hide.** A human face, human ears, and human hands. The pupils are round. The hair continues from the head and thickens into fur over the shoulders, the upper arms, and the upper back. It is the person's own hair, not a garment, and it is very furry there. The fur takes the color of that hair. The forearms and the chest stay mostly skin. The feet are human. No muzzle, no quills. The wolf is the donor, not a second animal stapled on.
 
 **Senses.** A nose that can pick adrenaline, sweat, and blood out of a dust storm. A tapetum that shines in low light. Hearing ahead of a baseline human.
 
@@ -53,13 +55,13 @@ A closed hand is hot because the tissue is at that set-point. A cut on a Raven c
 
 **Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
 
-Kira Brandt is a Wolf with no corporate pedigree. Her locked sheet is `assets/media/kira_4.jpg`. The male sheet is `assets/media/hound_2.jpg`. Hair color and fur color vary between them. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
+Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
 
 ### 3. Ceraton — Rhinos and Tanks
 
-**Build.** Mass. Dense bone. A short charge, then he is spent. Bald. A woman stays a woman. A man stays a man. Boran Vael-Korr is 6'8". That is his height, not a new species.
+**Build.** Mass. Dense bone. Heavy through the shoulders and the arms. A short charge, then spent. A woman stays a woman. A man stays a man. Boran Vael-Korr is 6'8". That is his height, not a new species.
 
-**Hide.** Grey, cracked hide, like stone, over the neck, the shoulders, the upper arms, and the upper back. The chest, the belly, and the forearms can stay closer to skin. Under impact the hide locks: collagen and keratin cross-link, and a round has to chew through it. A keratin horn can rise from the center of the brow. It is not on every Rhino. Human hands, human feet, human teeth. Amber eyes. Soldiers who live in the hide are called Tanks. The animal name is Rhino. The locked sheets are `assets/media/rhino_1.jpg` and `assets/media/rhino_woman_1.jpg`.
+**Hide.** Grey, cracked hide, like stone, over the neck, the shoulders, the upper arms, the forearms, and the upper back. It can cross the brow, the cheeks, and the jaw. How much of the face it covers varies. The chest and the belly stay closer to the host's skin. Under impact the hide locks: collagen and keratin cross-link, and a round has to chew through it. A keratin horn rises from the center of the brow. The horn's size varies. Human hands, human feet, human teeth. Soldiers who live in the hide are called Tanks. The animal name is Rhino.
 
 **Senses.** Poor eyes, excellent smell and hearing. Impact and footfall reach him through the bone.
 
@@ -67,13 +69,13 @@ Kira Brandt is a Wolf with no corporate pedigree. Her locked sheet is `assets/me
 
 **What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyon treatment, not rhino blood. See `../factions/karyon.md`.
 
-Boran Vael-Korr is a Rhino. His locked look is `assets/media/rhino_1.jpg`: the brow horn, and the grey hide across the face, the neck, the shoulders, and the upper back.
+Boran Vael-Korr is a Rhino. His height, his bald head, and his clothes are in `../../characters/boran.md`. The class is the horn and the grey hide.
 
 ### 4. Galvan — Sparks and Blinders
 
 **Build.** A human frame. A woman stays a woman. A man stays a man.
 
-**Hide.** Human skin marked with dark, irregular spots across the shoulders, the upper arms, the upper back, and a scatter on the face, the neck, and the chest. The iris glows yellow. The pupils are round. Small upper canines show when the lips part. Human hands, human feet. The locked sheets are `assets/media/eel.jpg` and `assets/media/eel_woman.jpg`.
+**Hide.** Dark, irregular spots across the shoulders, the upper arms, the upper back, and a scatter on the face, the neck, and the chest. The spots sit on the host's skin. The iris glows. The pupils are round. The mouth is a person's mouth. Human hands, human feet.
 
 **The shock.** Modified muscle stacked in the forearms. It leaves through the palms, and on the sheets it arcs off the hands. A Spark uses that discharge as a weapon. A Blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
 
@@ -87,11 +89,11 @@ Boran Vael-Korr is a Rhino. His locked look is `assets/media/rhino_1.jpg`: the b
 
 The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname for the class.
 
-**Build.** Wiry, low, with the hip and knee for a 50 mph burst, a vertical leap, and a wall rebound. Stronger legs than a baseline human. Landings and jumps come from that muscle. On the page, explain it once, in plain speech. After that, write the action.
+**Build.** Stronger legs than a baseline human, with the hip and knee for a 50 mph burst, a vertical leap, and a wall rebound. Landings and jumps come from that muscle. On the page, explain it once, in plain speech. After that, write the action.
 
-**Hide.** Dry reptile, not a feather. Fine pebbled scales on the forearms and calves. Reinforced keratin scutes on the shins, ankles, and lower spine.
+**Hide.** Dry reptile, not a feather. Fine scales over the shoulders, the upper arms, the upper back, and a scatter along the neck and the jaw. The rest of the skin is the host's.
 
-**Eyes.** Lateral-tracking eyes, vertical slit pupils. Tsunari's iris is the amber on `assets/media/tsunari_10.jpg`. Clear membranes under the ordinary lids sweep dust and glare. On the page she calls them membranes. Do not say nictitating membrane, second eyelid, or third eyelid.
+**Eyes.** Lateral-tracking eyes, vertical slit pupils. The color of the iris is the host's. Clear membranes under the ordinary lids sweep dust and glare. The wipe is `assets/media/mutation_raptor_membranes.jpg`. On the page she calls them membranes. Do not say nictitating membrane, second eyelid, or third eyelid.
 
 **Weapons.** Wild specimens carry a curved sickle claw on the inner digit. In a human subject the line shows up as the legs, the leap, and a fast start, often paired with handheld hooks that copy that arc. Tsunari's hooks are in `../../style/glossary.md`.
 

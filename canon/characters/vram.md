@@ -13,15 +13,15 @@
 ---
 
 ## 2. Appearance & Sensory Markers
-*   **Build & Stature:** Towering (6'4" / 193 cm), built like a lethal bird of prey—broad-shouldered, narrow-waisted, packed with hyper-dense transgenic muscle that moves with eerie, silent grace.
-*   **Facial Features, Hair & Eyes:** Severe, sculpted aristocratic planes with youthful, smooth unlined skin in his physical prime (age 28); defined masculine brows and sharp cheekbones; a crisply groomed short beard, the same brown as his hair, sculpted along his jawline (human grooming choice); molten-gold incandescent eyes glowing with a soft predatory ember; thick textured brown hair pulled back into a disciplined warrior man-bun (topknot) at the crown, with tapered sides and loose masculine strands framing his temples.
-*   **Signature Attire & Military Uniform:** Adapted for sweltering temperatures: a sleeveless black shirt under a fitted matte chest plate, bare arms, black military cargo pants, a nylon belt, and black military boots. He carries no firearm. The wings and the heat are the weapons. The locked sheet is `assets/media/vram_11.jpg`.
+*   **Build & Stature:** 6'4" (193 cm). Broad through the shoulder, narrow at the waist, quiet on his feet. The person is `assets/media/character_vram.jpg`. The graft is in `../world/life/strains.md`.
+*   **Facial Features, Hair & Eyes:** Warm tan skin that goes copper when the burn climbs. A hard jaw, sharp cheekbones, a short beard the same dark brown as his hair. Molten-gold eyes. Thick dark brown hair pulled into a topknot, with loose strands at the temples.
+*   **Signature Attire & Military Uniform:** A sleeveless black shirt under a fitted matte chest plate, bare arms, black cargo pants, a nylon belt, and black military boots. A black rig caps the wing root. He carries no firearm. The wings and the heat are the weapons.
 *   **Biological Mutation Traits (Avian, Avian-H Vector, common name Raven):**
-    *   **14-Foot Biological Wings:** A 14-foot span, anchored in the thoracic muscle between the shoulder blades. The bone of each wing arm wears the same matte black protective gear as his chest. Scar rings the follicles where the feathers leave the flesh. A broken shaft bleeds. At rest the wings fold tight through the slits in the shirt and read as a black cloak down his back.
-    *   **The feathers:** Shaft, vane, and barb, grown in transgenic keratin. Black, stiff, and edged. Heat or a hard beat lifts a blue-violet sheen on the shafts and the primaries. It cools back to black. Kite wings in the legion do not do this. The nape is hair and the siphon. There is no crest.
+    *   **14-Foot Biological Wings:** A 14-foot span, anchored in the thoracic muscle between the shoulder blades. Scar rings the follicles where the feathers leave the flesh. A broken shaft bleeds. At rest the wings fold tight through the slits in the shirt and hang down his back. The class wing is in `../world/life/strains.md`.
+    *   **The feathers:** Shaft, vane, and barb. His vane is black. Heat or a hard beat lifts a blue-violet sheen on his shafts and primaries, then it cools back to black. That sheen is his feather, not a class rule. The nape is hair and the siphon. There is no crest.
     *   **Heat flush:** Under high arousal, rage, or exertion, the capillaries under the skin flush with the burn. Copper and bronze. The same heat, not a second class.
     *   **The hands:** Human hands. No talons, retracted or otherwise.
-    *   **The Siphon:** One round iris in a dark metal seat, centered where the head meets the back, with a short metal tab under it. Idle, the skin lies flat. When the carrier is hot, the skin around the socket reddens and the metal stays metal. The rule is `../world/life/leash.md`. The plate is `assets/media/the_leash_2.jpg`. The locked body sheet is `assets/media/vram_11.jpg`.
+    *   **The Siphon:** One round iris in a dark metal seat, centered where the head meets the back, with a short metal tab under it. Idle, the skin lies flat. When the carrier is hot, the skin around the socket reddens and the metal stays metal. The rule is `../world/life/leash.md`. The plate is `assets/media/the_leash_2.jpg`.
 *   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, bitter clove, and overwhelming, radiant body heat.
 
 ---

@@ -5,7 +5,7 @@
 The augmented soldiers are not uniform automatons; they form a dangerous, volatile military caste organized into specialized divisions based on their chimeric lineages:
 
 *   **The five chimeric divisions:**
-    1.  **Aeros-Legion 7 (Avian — Commander Vram Tyage):** The sky cohort at Dome Alpha. Avian-H Vector. Ravens and Kites. The wing is fourteen feet, hollow bone, and a dive. Kite wings stay slate, cream, or rust. Vram is a Raven: black vanes, a bronze sheen when he spikes. They dive from the High Aerie and hold the air without aircraft or fuel. Key roster:
+    1.  **Aeros-Legion 7 (Avian — Commander Vram Tyage):** The sky cohort at Dome Alpha. Avian-H Vector. Ravens and Kites. The wing is fourteen feet, hollow bone, and a dive. The body is in `../life/strains.md`. They dive from the High Aerie and hold the air without aircraft or fuel. Key roster:
         *   *Commander Vram Tyage (Aeros-Actual):* Avian, common name Raven.
         *   *Lt. Cassian Vance (Talon-Two):* Cynical tactical second-in-command. Avian (Kite) with a Lycan secondary.
         *   *Sgt. Veda Frost (Screech):* Galvan (Blinder) and Raptor. Close-quarters shock.
