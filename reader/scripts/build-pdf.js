@@ -763,9 +763,15 @@ async function compilePDF() {
 
   console.log(`📊 Total Word Count: ${totalWords.toLocaleString()} words`);
 
-  const chromePath = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
-  if (!fs.existsSync(chromePath)) {
-    throw new Error(`Google Chrome not found at ${chromePath}`);
+  const chromeCandidates = [
+    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+    'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+    path.join(process.env.LOCALAPPDATA || '', 'Google', 'Chrome', 'Application', 'chrome.exe'),
+  ];
+  const chromePath = chromeCandidates.find((candidate) => candidate && fs.existsSync(candidate));
+  if (!chromePath) {
+    throw new Error(`Google Chrome not found. Looked in: ${chromeCandidates.join('; ')}`);
   }
 
   // 1. Generate Trade Edition (6" x 9")

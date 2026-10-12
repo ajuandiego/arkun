@@ -13,7 +13,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Boran is a Rhino: hide, a horn, and the door. The entrance shows the hide. A species card comes out, and the old class name with it.
-- No wingspan.
+- With the leash quiet he is blind, not resting.
+- The rail under this yard is a few miles back into the sumps. The old cross-country line does not appear.
+- The night's cold was the previous chapter. It does not get a second definition.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

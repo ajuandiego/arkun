@@ -1,10 +1,10 @@
-# Chapter 5 // Vram
+# Chapter 5 // Tsunari
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Vram
-* **Setting:** The perimeter of the solar mirror banks.
-* **Job:** Tracking the thief through the swirling dust from above, Vram calculates her escape vector. Cornering her behind a shattered mirror bank, he realizes she deliberately anticipated his flanking trajectory, murmuring with dark, lethal admiration: *"Clever girl..."*, before tucking his wings into a steep terminal dive to tackle her into the sand.
+* **POV:** Tsunari
+* **Setting:** The abandoned photovoltaic mirror fields outside the wall.
+* **Job:** Tsunari flees through a howling acid dust storm, setting micro-EMP tripwires among the shattered solar collectors. She disables two pursuing scouts with agile wall-rebound leaps and shadow stalking. The earpiece stays dead. She does not call Ren, Drew, or the bunker. A reply would paint the clinic and T.J.'s hole.
 
 ## Notes
 

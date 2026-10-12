@@ -1,10 +1,10 @@
-# Chapter 26 // Vram
+# Chapter 26 // Tsunari
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Vram
-* **Setting:** The Dead Perimeter, the band just outside Sector 09.
-* **Job:** The band's turrets hose them with phosphor defoliant. Shrapnel tears the wing. The chemical fog takes them both down into the storm drain under the freight yard on the lakebed. That yard is about 10 miles south of the dome's center. The map is in `canon/world/geography.md`.
+* **POV:** Tsunari
+* **Setting:** The same short flight, low over the band.
+* **Job:** Tsunari is in the air for the first time, locked to his chest, with flak opening in the chemical haze. The yard on the lakebed is already in sight. The wind is violent. The distance is a few miles.
 
 ## Notes
 

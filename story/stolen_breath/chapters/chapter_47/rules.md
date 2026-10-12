@@ -2,9 +2,9 @@
 
 Use this file on a draft and on a review. Canon wins when a fact disagrees. The beat is in `../../breakdown.md`.
 
-- Header: Chapter 47 // Tsunari
+- Header: Chapter 47 // Vram
 - Tense: present.
-- Person: First person, Tsunari only.
+- Person: First person, Vram only.
 - Tsune is the field name. Tsunie is Vram's private diminutive only.
 - Do not finish the aerosol cure, the Spire rescue, Jeffrey's survival as a finished reveal, or the road to the Verdant Cradle.
 - A later ring does not belong in an earlier part. The rings are at the top of `../../breakdown.md`.
@@ -13,9 +13,9 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Her hands quiet Veda and Ferrin in the room. The dose does not leave in a stranger's pocket.
-- Toby does not learn that Cassian is dead.
-- White knuckles once, or not at all.
-- The gift is a small carved hawk. It is not a talon.
+- No header. The room, the refusal, and the night are the chapter.
+- A lecture on blood rejecting blood comes out, and the old class names with it.
+- The wings can close around them. They are not measured.
+- Caelia can be in the duct. She does not preach.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

@@ -1,10 +1,10 @@
-# Chapter 51 // Dual POV
+# Chapter 51 // Vram
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Dual POV
-* **Setting:** The crane gantry and drainage spillways.
-* **Job:** The wing dump wakes here. Black veins stand at his neck, his chest, and around his eyes, and he vents the Raven engine in one burst. Malakar's pneumatic rail-flail goes to slag. Tsunari flanks The Forger and shatters her ritual iron staff. Defeated, Malakar is swept into the raging drainage flumes by a ruptured flood of runoff, his fate left unknown in the uncharted deep sumps. He did not have the dump at the Redoubt. That fight is in `part_2.md`.
+* **POV:** Vram
+* **Setting:** Burning catwalks and crane gantries above Sector 09.
+* **Job:** A three-way rooftop battle. Defected soldiers fight corporate drones in aerial wing combat while cultists clash with corporate infantry below. Ferrin Calder and Boran the Ceraton fight back-to-back, trading inter-strain insults while crushing strike teams. Vram engages Malakar across a suspended crane gantry.
 
 ## Notes
 

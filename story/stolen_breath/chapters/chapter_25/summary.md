@@ -1,10 +1,10 @@
-# Chapter 25 // Tsunari
+# Chapter 25 // Vram
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Tsunari
-* **Setting:** The same short flight, low over the band.
-* **Job:** Tsunari is in the air for the first time, locked to his chest, with flak opening in the chemical haze. The yard on the lakebed is already in sight. The wind is violent. The distance is a few miles.
+* **POV:** Vram
+* **Setting:** The air over the Dead Perimeter, a few miles of chemical band and lakebed rim.
+* **Job:** Vram leaves the lip with her locked to his chest. His squadron pursues on the wing. The chase is that band, not a distant gorge.
 
 ## Notes
 

@@ -1,109 +1,27 @@
-# Chapter 44 // Tsunari
+# Chapter 44 // Vram
 
-> *Thorne, Jeffrey. Listed lost. No body returned.*
+> **A curator.** Someone who keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
 
 ***
 
-The reliquary chamber smells of dry lavender, aged vellum, and the quiet dignity of preserved centuries.
+Eighty feet under Sector 09, the door is glass and iron. Cut into the lintel, in letters a torch can read: *What is written in light cannot be erased by fire.* Older than the company. Older than the wing they told me was a patent.
 
-While Gideon and Vram confer over the chemical synthesis logs at the central laboratory bench, I wander deeper into the rows of brass vitrines. In a world where corporate archives are scrubbed and rewritten with every change in Directorate administration, this room is a defiant sanctuary of permanent truth. 
+Gideon Cross is a thin man with archive dust on his cuffs and no socket. He does not bow. He looks at the torn vane, at her collar, at the slate, and he decides we are not a raid.
 
-Nothing here can be erased by an electromagnetic pulse or a remote command code. If you want to burn this library, you have to bring a hammer and crush forty tons of solid optical crystal.
+"You want the record," he says. "The record is not a weapon you swing today. Come in before the sump remembers it has legs."
 
-At the far end of the reliquary, nestled on an iron shelf beneath a draped cloth of black velvet, sits a heavy bronze casing sealed with an antique biometric latch.
+The Vault smells like cold glass and paper that survived. He unrolls a codex. Winged hunters, cut into stone long before Apex had a name. My stomach drops in a way the fever never managed.
 
-Taped to its lid is a faded yellow paper label, inscribed in ink that has faded to the color of dry tea: *UNCATALOGUED TRANSMISSION — ANOMALY DEEP-OCEAN RECEPTOR 09.*
+"They told me I was made in a lab," I say.
 
-I lift the velvet cloth.
+"You were finished in a lab," Gideon says. "The sentence is older. The company owns the socket and the story. It does not own the first cut of the bone."
 
-Through the tempered glass lid of the case, I can see a single, thick optical quartz disc, its sapphire rim gleaming with an unusual, violet-tinted luminescence. Etched by hand across the central spindle with a diamond scribe are four words:
+Tsunari watches my face, not the codex. She is letting me have the blow. The five strains in her blood are not this page. This page is mine. I am not an unholy accident that started when a director wanted a hawk. Something in the bone was walking around before they put a number on a boy in a Ring ward.
 
-*GHOST BEACON 09-OMEGA.*
+"Sovereignty is a large word," I say.
 
-Gideon’s footsteps approach from behind, his soft linen slippers whispering against the stone flags.
+"Then use a small one," she says. "Yours."
 
-"An old riddle, Tsunari," the curator says softly, resting a hand on the corner of the shelf. "Ten years ago, our deep subterranean hydrophone array in the lower sumps recorded an anomalous high-frequency signal. It didn't come from any corporate dome, nor from the smuggler networks in the Barrens."
+I put my hand on the glass over the drawing. The wing shifts, torn and still mine. Gideon rolls the codex shut with the care of a man who does not sell what he keeps.
 
-"Where did it come from?" I ask, my fingers resting on the cool bronze latch.
-
-"The coordinates placed the origin four hundred miles out into the **Mare Stygium**," Gideon says. "Right in the heart of the boiling sea. As you know, the Stygian Ocean has been an impassable, ionized thermal barrier since the Great Cleave of Year Zero. No ship can float on boiling brine; no aircraft can survive the perpetual electromagnetic cyclones. Yet the signal punched straight through the storm wall for twelve seconds, broadcast on an archaic, pre-collapse emergency frequency."
-
-"Did you decode it?"
-
-"We couldn't," Gideon admits, shaking his silver head. "The data packets were shielded behind an impossible multi-tier algorithmic cipher. A mathematical proof so dense and idiosyncratic that our optical decoders burned through two quartz prisms trying to map its logic. We preserved the raw transmission on that disc, hoping someone with the key would one day walk through our doors."
-
-A strange, electric prickle runs down the back of my neck.
-
-Ten years ago. 
-
-That was the exact month my father—Dr. Jeffrey Thorne—dragged Sora and me through the escape tunnels beneath the lower sumps, right before the Directorate execution squad cornered us at the subterranean drainage sluice. 
-
-I remember the rain that night. I remember my father shoving Sora into the arms of the Directorate transport officers to save her from the firing squad, before kissing my forehead and sprinting toward the northern cliffs above the boiling ocean. 
-
-The corporate bulletins claimed he jumped. They claimed the boiling brine swallowed his bones.
-
-My hand trembles slightly as I reach for the jeweler’s optometer loupe hanging around my neck.
-
-"Gideon," I say, my voice tight. "Open the case."
-
-The curator looks at me with a sudden, keen sharpness in his gaze. Without a word, he pulls a brass master key from his smock, inserts it into the biometric lock, and turns it twice.
-
-The heavy bronze lid lifts with a pneumatic sigh.
-
-I carefully lift the quartz disc from its velvet cradle. It is dense, heavy, cold as glacial ice, its polished facets refracting the chamber’s daylight beams into brilliant violet needles across my palms.
-
-I carry the disc to the nearest examination table, where an antique optical projector sits beneath a high-intensity xenon lamp. 
-
-I slide the disc onto the motorized turntable, align the manual light prism, and depress the foot pedal.
-
-A beam of pure, focused white light shoots through the sapphire crystal. 
-
-The micro-etched lines within the disc catch the beam, projecting a magnified, twenty-foot image of the raw telemetry packet onto the frosted glass screen of the wall.
-
-Rows of dense, cascading numerical strings dance in front of my eyes—hexadecimal matrices, quantum frequency formulas, and vector calibrations. 
-
-At the bottom of the data string, running along the margin of the final parity check, sits a handwritten notation etched into the glass with a diamond needle.
-
-A single line of mathematical shorthand:
-
-$$\int_{\tau_0}^{\tau_1} \mathcal{N}(t) \, dt \equiv \Delta \Phi_{\text{null}} \quad [\#\text{Thorne-Prime}]$$
-
-My breath stops.
-
-The air turns to ice in my lungs. My knees hit the edge of the examination table, my fingers gripping the brass frame so hard the metal groans under my weight.
-
-I know that handwriting.
-
-I know the sharp, impatient hook on the integral sign. I know the tiny, rebellious circle he always drew above the delta instead of a triangle. When I was seven years old, sitting on the floor of his clandestine laboratory while he calibrated my phase-stutter bracers, he would write that exact formula on the margins of my sketchbooks.
-
-*He didn't die in the drainage sluice.*
-
-The realization hits my chest with the force of a detonating grenade, shattering ten years of grief, guilt, and bitter abandonment into blinding shards of light.
-
-My father did not perish in the raid. He reached the northern cliffs. He broadcast this packet from four hundred miles into the boiling sea. 
-
-Whether the signal was an automated dead-hand relay anchored to an ocean buoy before the storms claimed him, or evidence of an impossible attempt to cross the boiling abyss, the truth is etched into this sapphire disc:
-
-He didn't abandon us. He was still fighting.
-
-"Tsunari?" Vram’s voice is beside me now, warm, steady, his large hand coming to rest firmly on my shoulder. He feels the violent tremors running through my arms. "What is it?"
-
-I lift a trembling hand and point at the projected formula on the screen.
-
-"My father," I whisper, my voice breaking on the syllable, tears of fierce, uncontainable shock welling in my eyes. "It's his signature, Vram. He was out in the Mare Stygium. He transmitted this beacon into the storm."
-
-Vram looks from the handwriting on the screen to my face, his gold furnace eyes widening with awe and instant understanding. 
-
-Gideon Cross stands motionless, staring at the projected disc with his mouth slightly open, the jeweler's loupe trembling against his cheek.
-
-"Jeffrey Thorne..." the old curator breathes, his voice filled with reverence. "The greatest mind of the pre-collapse era. If this transmission pierced the storm wall... if he found a way into the deep ocean..."
-
-"Then he left us a trail," I say, wiping the tears from my cheeks with the back of my hand, my chin lifting with fierce, unyielding resolve. "Whatever he built out there, he left the key."
-
-I look at the disc, then turn my gaze to Vram. 
-
-For ten years, my world has been a cage bounded by barbed wire, sulfur sumps, and corporate walls. But standing in this vault of light, looking into the eyes of the winged warrior who chose to bleed for me rather than rule an empire of ash, the cage door has swung wide open.
-
-We have a city to save today. 
-
-And tomorrow, we have an ocean to cross.
+"There is more," he says. "It will hurt her worse. Not tonight's scroll. When you can stand the next truth, ask."

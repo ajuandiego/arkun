@@ -1,235 +1,95 @@
-# Chapter 2 // Vram
+# Chapter 2 // Tsunari
 
-> **The leash.** The socket at the back of the neck, and the signal the Spire sends through it. Hesitate, and it hurts. Leave it on for years, and it starts to cook the man.
+> **The service door.** A keypad off the south gate, on the wall's own wire. The wire stays open while the jack is seated.
 
 ***
 
-Three thousand feet above the rusted slag of Sector 09, the wind tastes of razor wire, ozone, and freezing sulfur.
+The door smells of hot copper and wet rust.
 
-It screams across the black granite launch apron, whipping off the curved titanium spine of Dome Alpha with enough velocity to shear the skin off an unaugmented human. Out here, on the naked lip of the roost, there are no safety cables. No painted yellow hazard stripes. No guardrails to catch a stumbling boot. 
+It sits on the outer face, well off the south gate, a plain slab with a keypad at chest height and a gantry under my boots. The wall is cold where my shoulder touches it. The high collar of my tunic is stuck to my throat. Below, Sector 09 ticks. Silt on zinc. A cart. Somebody shouting a price and nobody paying it. The main gate is a red cluster to my left, lights and a truck and every gun they bothered to mount. This door is the dark between those lights.
 
-The Directorate engineers who poured the cantilevered stone forty years ago didn’t bother with railings. Their logic was as cold and efficient as their budget spreadsheets: if a soldier of Aeros-Legion 7 steps off the edge and doesn’t have the instinct or the wing-strength to catch the freezing thermals, the three-thousand-foot drop is considered a self-correcting administrative error.
+"Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
-Flesh is cheap. Titanium is not.
+"Copy." I work the Bodkin out of the braid. A twist, and the blade comes off in my glove. The tang under it is dark, cut for a jack Drew measured off a dead keypad. "T.J."
 
-I stand three inches from the void, the heavy soles of my flight boots planted on the frost-slicked stone, looking out into the copper abyss.
+"Here." Young. Close to the mic. He never is anywhere else. "I have the door's wire. You seat it, I get the picture. You hold still and the copy stays in the slate. Silt's thick. No prowler on this face. The gate paint is on their own truck."
 
-The sky below me is a roiling, suffocating blanket of toxic dust, lit from beneath by the flickering, sickly amber neon of the Gray Sector gutters. It looks like an open grave lined with dying embers. Further south, the dead Photovoltaic Graveyard stretches into the gloom—ten square miles of shattered solar mirrors angling like fractured black teeth toward a sun that hasn't shone clean since the Resource Wars broke the world forty years ago.
+"Then count."
 
-And hanging in the upper mesosphere, silent, ancient, and terrible above the copper smog, three black obsidian obelisks hover in absolute stillness. 
+Ren's next breath scrapes. He swallows it. I let him. A lecture on the sound in his chest will not add a second to the gap.
 
-*Vaelen Harvester Barges.*
+The jack is a recess under the keypad, the size of a thumb, silt gritted into the lip. I blow it clear, seat the tang, and the click runs up my wrist into the bone. The short lead from the slate on my chest clips to the pommel-end. Blue tell. No broadcast. The Spire listens for a voice in the air. This session goes down the door's own wire, into the tap he already owns, and the closed copy sits against my ribs.
 
-They don't move. They don't emit heat. They don't make a sound. They simply float like geometric coffin-ships in the thin upper air, siphoning Earth’s nitrogen and vapor into their alien bellies while the Consortium directors drink champagne under Dome Alpha’s climate-controlled polycarbonate sky. 
+"Picture's up," T.J. says. "Doors. Cameras. The pass list. I'm in their security net. Don't pull."
 
-Baseline humans haven't built a fighter jet in two generations. When the oil wells were sabotaged and the microchip foundries were bombed to powdered glass during the Collapse, the jet turbines died with them. Kerosene is a fairy tale whispered by dying old men around oil drums. Micro-avionics rusted away into useless brown flakes in desert boneyards. 
+"Talk."
 
-So the Consortium adapted with corporate cruelty. They took the orphaned children of the Gray Sector, cracked open our chromosomes, and spliced what nature had perfected a hundred million years before man ever dreamed of a combustion engine. 
+"South stair changes in six minutes. Two on the gate mouth, both facing the truck. This door isn't on their board. The camera over you is pointed at the gantry joint, not the keypad. Hold."
 
-They gave us hollow titanium-reinforced bones. They gave us fourteen feet of predatory, razor-sharp flight quills anchored directly into dense thoracic muscle across our shoulder blades. They gave us hyper-oxygenated avian lungs that laugh at thin air and twelve gravities of rotational torque. 
+I hold. My free hand stays on the hook at my hip. The slate warms, a small heat over the bone. The picture stays on his console. The weight of the copy sits against my ribs.
 
-Flesh heals. Flesh doesn't require imported synthetic kerosene—just twice-daily bowls of sulfurous algae mash and state-rationed nutrient sludge that tastes like chalk and wet zinc. 
+"Lab list is in the pull," he says. "Culture lab 4. Active staff. There's a Thorne. Junior synthetics. S..."
 
-We are their air force. Disposable. Deadly. Grounded only by the titanium leash drilled into our cervical vertebrae.
+"Stop." The rest of the name finishes in my mouth and stays there. The rolls listed her incinerated. I have lived ten years on that line. A desk inside the wall. Junior. A lab that handles living work. The braid against my skull is the same braid she used to wire with stripped copper. "You don't put the rest on this set."
 
-A sudden, vicious bolt of white-hot agony drives through the base of my skull.
+Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's holding it.
 
-I flinch, my jaw clamping shut so hard my molars creak in their sockets. My right hand rises instinctively to my throat, fingers curling over the knurled titanium rim of the cervical siphon port sunk into the junction between my skull and spine. 
+"It's in the slate," T.J. says. "You can pull."
 
-The port is scalding hot to the touch. The synthetic neural lattice laced through my gray matter—the Consortium’s little insurance policy, the "Silver Spine"—is humming its hourly diagnostic frequency. It feels like someone is driving an electrified sewing needle through the back of my head and wiggling the point behind my optic nerve.
+"Pulling."
 
-*Static. High-pitch whine. Compliance verified.*
+"Wait." His voice changes. Not the pass. Something he did not ask the door for. "A second message just sat down on the session. The door doesn't use this header."
 
-"Easy, Boss," a voice calls from the sheltered alcove behind me. "Rub that socket any harder and you'll strip the threading. Directorate mechanics charge two weeks’ pay just to calibrate the screws."
+"Read it."
 
-I exhale slowly through my nose, forcing the muscles in my neck to unlock one by one. The breath plumes into the sub-zero wind, thick and white with the internal heat of my own lungs. 
+"Lazarus Key." He says it like a word he is spelling. "Lee over Sector 09 fails in fourteen months. Barrens-air pushed over the Ring. Evacuation allocation, zero. Dome sealed. There's a line under it with no edge. It won't open."
 
-My core body temperature sits at a constant 106 degrees Fahrenheit. 
+I have never heard the name. I know the shape of the rest without a briefing. The lee is why the Ring is a city. Barrens-air is the hard hours, the cloth, the nights you do not sleep on the ground floor. Push that over the wall and the stair I came up this morning stops being a place people live.
 
-Inside my chest, the Simurgh strain burns like a blast furnace—a hyper-accelerated metabolism that demands six thousand calories a day just to keep my organs from cannibalizing themselves. The bitter sub-zero gale rolling off the dome doesn't make me shiver. It feels like nothing more than a cool hand pressed against fevered skin. 
+"Say the first line again."
 
-My dark sleeveless flight tunic, tailored from charcoal ballistic canvas with burnished copper piping, leaves my broad shoulders and muscular arms completely bare. 
+"Fourteen months. Then the Ring is barrens-air, and nobody on this side of the wall is on a list."
 
-Where the freezing draft hits my skin, it doesn't give me goosebumps. It dissipates in faint, shimmering ripples of convection heat.
+"We came for doors," Ren says.
 
-"Calder," I say, my voice carrying the low, gravelly rasp of vocal cords scorched by years of high-altitude ice. "If you spent as much time checking your primary flight pins as you do watching my neck, you wouldn't have stalled out in the crosswinds during yesterday's patrol."
+"I know," T.J. says. "I don't know what this is. It's in the slate with the rest. Tsune, the pass is at the corner. Pull."
 
-Corporal Ferrin Calder—callsign *Rook*—sits lazily on an upturned titanium munitions crate twenty paces back, tucked under the granite overhang of the roost. His dark raven wings are half-spread behind him, resting against the cold stone like ragged, feathered cloaks as he gnaws on a leathery strip of dried protein ration.
+I pull the lead, twist the blade back onto the tang, and seat the Bodkin through the braid until the steel sits cold against my skull. The slate stays on the chest strap, face in, tell dark.
 
-"Hey, the downdraft off Sector 09's smokestacks is an environmental hazard," Ferrin shoots back, waving the half-chewed ration bar. He leans toward me with a wicked, irreverent grin, holding up a cold slab of flatbread. "Besides, why waste fuel on the barracks heating coils? Hold still for two minutes, Commander. Your shoulder's hot enough to toast my dinner."
+The keypad screams.
 
-"Touch my shoulder with that grease," I reply without turning around, "and I'll pitch you off the cantilever without your flight harness."
+A klaxon, close enough to put a buzz in the fillings. The jack locks shut.
 
-"Promises, promises."
+"Signal left the door," T.J. says. His voice goes thin and fast. "Twenty-five seconds before it has a place. Not on you yet. Move."
 
-Leaning against the bulkhead next to him, arms crossed over his chest, is Cassian. 
+"I'll meet you at the stair," Ren says.
 
-My second-in-command is thirty-two years old, which in Aeros-Legion makes him an ancient patriarch living on borrowed time. His face is a roadmap of scar tissue from shrapnel bursts over the southern border, his slate-gray wings folded tight against his broad back like overlapping iron shields. He doesn't laugh at Ferrin's jokes. He just watches the cloud deck with the cold, calculating eyes of a veteran raptor who has buried too many fledglings.
+"You will not." The gantry runs south under my boots, the wall on my left, a hundred meters of it, smooth, no handhold the eye can love. The south road is a dark cut at the bottom. "Stay on."
 
-"Wind's picking up from the north," Cassian murmurs, nodding toward the dark rust-colored squall gathering on the horizon. "Fine iron particulate. It's going to scour our flight feathers to ribbons if we get scrambled into that mess."
+I drop to the lower flange, hook the crook, and let the fall stop in the shoulder instead of the spine. Boots hit. The knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. I am already moving.
 
-"Then we preen after," I say.
+Searchlights rake the main gate. White, then the red off the wall, then white again. The metal under my glove is cold enough to ache. No seam wide enough to hide a person. Below, shutters slam. A whistle cuts the alley. A woman pulls a child by the wrist and neither of them looks up, which is the correct use of a neck.
 
-"Easy for you to say," Ferrin mutters, picking at a flight quill. "Simurgh primaries regrow in forty-eight hours. My Gryphon quills take three weeks of oiling and swearing just to stop whistling in a dive."
+The header sits in the ear beside the name I would not let him finish. The slate knocks my ribs with both of them, and I do not have a free hand for either.
 
-I glance down at my own wingtips. 
+"Stay low," T.J. says. "The light is still on the main gate. They're more interested in their own door than in yours. That lasts about as long as the log."
 
-He's right, of course. Almost everyone in the legion carries **Gryphon** blood—sturdy, slate-quilled workhorses built for brutal crosswinds and endless patrols. They’re the backbone of the sky. 
+"Then I won't be on the stair."
 
-The **Simurghs** were different. We were the Directorate’s wild, fire-blooded gamble—a freak strain that almost killed everyone in the vats. There are barely four of us left in the active wings. We fly faster, hit harder, and heal almost before the blood can pool. Even if our hearts give out in a crushing dive, our chest jolts itself back to life. 
+"Prowler's nose is on the gate road," T.J. says. "It hasn't committed. I have the bearing if it turns."
 
-But that fire comes at a brutal price. We have to eat constantly just to keep from burning up from the inside out, and the hotter the furnace runs, the faster the leash in our neck cooks the brain. 
+"Ren, where are you."
 
-Footsteps scrape against the frost-dusted granite behind me—soft, tentative, hesitant. 
+"Two roofs off the clinic stair. I can see the lights. Give me the time and I'm there."
 
-I don't need to look to know who it is. The scent reaches me first: crushed eucalyptus, zinc, and the sharp medicinal sting of numbing paste.
+The shadow crosses the searchlights.
 
-Specialist Tobin Vance steps out of the shadow of the blast doors. 
+Fourteen feet of black wing, tucked, falling out of the copper dark above the wall. The sound is feathers cutting air, a whistle with a body in it. Heat comes off the dive before the shape clears the lamp, ozone and hot metal, and every hair on my arm answers it.
 
-At twenty-one, Toby Vance is the youngest in Aeros-Legion 7—and Cassian's younger brother. His Gryphon-Simurgh chimeric plumage is still soft around his jawline, a delicate dusting of iridescent cream-and-gold down that he hasn't yet learned to shave without cutting himself. His wings are smaller than mine—pale gold and cream primaries that twitch nervously against his back every time the howling gust rattles the iron conduit overhead.
+"Ren." I have the hook in a reverse grip and the collar tight and the slate against my ribs. "Get to Drew. Kill the set."
 
-"Commander," Toby whispers, his voice barely carrying over the wind. 
+"Tsune, don't."
 
-He holds out a small, circular gel patch wrapped in sterile silver foil.
+I cut the link.
 
-"You're squinting," Toby says, his hazel eyes wide and anxious. "The left side of your jaw is twitching. That's the fourth time today the siphon's flared, isn't it? The ice-salve helps. I... I traded two nutrient tubes to the bio-techs in sub-level three for it."
-
-I look down at the boy. 
-
-He shouldn't be here. In a sane world, a kid with hands as gentle as his would be studying botanical architecture in the interior gardens, not wearing an officer's leash and sleeping in an unheated granite barracks with forty other spliced killers. But the draft boards don't care about gentle hands. They saw high pulmonary capacity and hollow bone density, and they stamped him for the sky.
-
-Memory stirs unbidden in the dark corners of my mind—a sudden, sharp recollection of my own fledging trials nineteen years ago. 
-
-I remember standing on this exact stone precipice at nine years old, shivering in an oversized flight harness, my newly sprouted primary feathers aching where they tore through the skin of my back. The training instructor—a scarred, humorless Gryphon sergeant named Vance—hadn't given a speech. He had simply walked behind me and kicked me square between the shoulder blades.
-
-"Fly or paint the rocks, 701!"
-
-I remember the terrifying, endless plummet through the freezing smog, the sensation of three thousand feet of empty air rushing past my ears, the absolute certainty of my own death. And then, at the last second, the violent, instinctual snap of my wings catching the updraft—the bone-crushing jolt of kinetic drag, the roar of the wind beneath my feathers, and the triumphant, terrifying realization that I was no longer human. 
-
-I was an eagle with a number on my arm.
-
-"You need those nutrient tubes, Vance," I say, keeping my tone clipped, military, pushing the memory back into the dark. "Your body mass index is down three percent this month. If you burn off your fat reserves, your core temperature will crash during high-altitude patrol."
-
-"I have enough, sir," Toby lies, looking at his boots. "Please. Take it."
-
-My chest tightens with something dangerous and unpermitted—the quiet, heavy weight of brotherhood. 
-
-In Aeros-Legion, caring for each other is the only rebellion we have left. The Directorate can monitor our biometrics through the siphon ports, they can listen to our comms, and they can measure our heart rates from their glass towers, but they cannot scrub the silent solidarity forged between men who share the same cage.
-
-"Thank you, Toby," I say softly.
-
-I take the patch, peel the silver backing, and press the cold gel firmly against the inflamed, swollen flesh beneath the titanium port at the base of my skull.
-
-The relief hits like a splash of glacial water on a searing iron skillet. The menthol and bio-numbing compounds seep into the subcutaneous tissue, blunting the jagged needle of white noise humming through the Silver Spine. The crimson strobe behind my left eyelid fades to a dull, manageable ache.
-
-"Better?" Toby asks, a faint, relieved smile touching his lips.
-
-"Better," I acknowledge.
-
-Before he can answer, the sky explodes.
-
-Not with thunder. With the shrill, deafening shriek of Dome Alpha's internal defense sirens—three concussive wails that shudder through the deck plates and blast across the launch ledge.
-
-High above us, along the curving titanium bulkhead of the dome, massive emergency floodlights snap on, bathing the launch ledge in blood-red light. 
-
-Simultaneously, the titanium port at the base of my skull discharges with an ear-splitting snap, shooting a violent pulse of electrical static directly into my brainstem.
-
-I drop to one knee, the granite slamming into my shin. White fire blinds me. Ferrin drops his flatbread, his hand instantly flying to his sidearm. Cassian pushes off the wall, his wings flaring wide to catch his balance as his own siphon port receives the emergency telemetry broadcast:
-
-```console
-directorate override // code red // breach identified
-sector 09 perimeter // conduit 12-b compromised
-security vault 4 decrypted
-payload extracted: lazarus telemetry core
-orders: intercept. retrieve payload. vivisect intruder.
-```
-
-The word *vivisect* echoes through my auditory cortex with cold, bureaucratic finality. 
-
-I push myself back up to my full height, six feet and four inches of transgenic muscle locking into combat readiness. The blinding pain recedes, replaced instantly by the cold, razor-edged focus that makes Aeros-Legion the most feared executioners on this dying continent.
-
-"Vault 4?" Ferrin says, scrambling to his feet and checking the power cell on his kinetic rifle. "What the hell is in Vault 4? That's deep storage. Bio-synthesis records and pre-war gene seeds. Some gutter-rat crawled through the sewage pipes to steal seeds?"
-
-"No gutter rat did this," I say. 
-
-My optic overlay flickers to life, the tetrachromatic receptors in my retinas decoding the raw data stream feeding directly from the perimeter breach cameras. 
-
-I bring up the timestamp.
-
-Four seconds. 
-
-The security lock on Conduit 12-B wasn't smashed with a sledgehammer. It wasn't burned open with a scavenged plasma torch. The optical data ribbon had been cleanly sliced with a surgical bodkin knife, the laser tripwires redirected using angled mirror fragments, and the magnetic vault seals bypassed with a localized electromagnetic pulse so clean it didn't even scorch the terminal's housing.
-
-Scavengers are loud, clumsy, and desperate. They leave blood on the glass and grease on the floor.
-
-This was a ghost. 
-
-"She knew the patrol rotation," I murmur, watching the thermal playback scroll across my vision. "She knew the dead zones in the acoustic sensors. And she decrypted a Directorate quantum partition in under ninety seconds."
-
-"She?" Cassian asks, stepping to my side, his eyes scanning the storm-swept dunes below.
-
-"Look at the stride length on the perimeter gantry," I say, pointing toward the red-highlighted sector on the HUD. "Light frame. Low center of gravity. She’s fast. Faster than baseline."
-
-"Chimeric?" Ferrin asks, his irreverence vanishing, replaced by genuine shock. "An unsanctioned chimera in the Gray Sector? How did an unregistered splice survive without a siphon collar blowing their heart out?"
-
-"That's what the Directorate wants to find out," I say, my voice dropping into a dark, lethal register. "And that's why they want her opened up on an autopsy slab."
-
-A knot of revulsion twists in my gut. I have killed for the Directorate. I have gunned down rebel cells in the southern refineries and shredded smuggler caravans crossing the salt flats. It is what we were grown to do. But hunting down an unregistered soul whose only crime was surviving outside their corporate pens?
-
-The leash in my neck tightens—a warning micro-shock tingling across my spine, searing a single conditioned imperative into my skull: *obey.*
-
-I inhale the biting wind, letting the freezing sulfur fill my lungs, fueling the furnace in my blood.
-
-"Cassian, take Calder and Vance. Seal Sector 09's southern perimeter gate. Cut off any escape route toward the Deep Sump," I order, my voice taking on the commanding steel of Aeros-Actual. "I want aerial spotlights blanketing the primary conduit lines. If she tries to double back into the container slums, pin her down."
-
-"And you, Commander?" Cassian asks.
-
-I turn toward the edge of the granite abyss.
-
-Far below, three thousand feet down through the howling copper dust, a tiny heat signature flashes across the rusted maintenance catwalks of the outer wall.
-
-It isn't running toward the city. 
-
-It's heading straight for the Photovoltaic Graveyard—into the jagged maze of dead solar mirrors and acid-scoured dunes. 
-
-She thinks the shattered glass will blind our thermal tracking. She thinks the sandstorm will ground our wings.
-
-*Smart.*
-
-"I'll take the sky," I say.
-
-I step to the very edge of the roost. The sub-zero gale catches my dark hair, tearing loose raven strands from my disciplined topknot, whipping them across my temples and the sculpted line of my jaw. 
-
-Behind my shoulder blades, the massive, dense muscle groups of my thoracic carriage contract. With a sound like heavy silk banners cracking open in a gale, my wings unfurl. 
-
-Fourteen feet of predatory, iridescent obsidian feathers expand into the freezing storm. Along the wing-shafts and primary quills, deep copper-gold and crimson highlights catch the flashing red emergency beacons, glowing like embers dragged from an open furnace. Under my skin, my subcutaneous capillaries pulse with liquid solar fire, superheating my blood, armoring my flesh against the drop.
-
-"Clear my slipstream," I growl.
-
-Toby steps back into the alcove, his breath catching in his throat. Ferrin raises a hand in a loose, grim salute. 
-
-"Don't break all her bones on impact, Boss," Ferrin calls out over the wind. "Directorate likes their lab rats breathing when the scalpels come out."
-
-I don't answer. 
-
-I lean forward into empty space.
-
-The granite falls away. 
-
-For the first three seconds, there is only the terrifying, weightless silence of the drop. Three thousand feet of sheer vertical plummet. The air screams in my ears, tearing the breath from my lips as the sheer titanium wall of Dome Alpha blurs past in a streak of gray metal and flashing emergency lights.
-
-At terminal velocity, when the ground is rushing up to shatter my bones, I pull my shoulders back and snap my primary quills wide.
-
-The impact of the air hits like a solid wall. 
-
-The wings bite. 
-
-My hollow bones flex, absorbing thousands of pounds of kinetic drag. The freezing updraft roars beneath my feathers, and with a single, thunderous downstroke that sends shockwaves through the smog, I level out five hundred feet above the rusted rooftops of Sector 09.
-
-The wind screams around me. The copper storm howls against my skin. 
-
-I fold my wings tight against my spine, locking my body into an aerodynamic bullet, and plunge vertically into the heart of the dust storm.
-
-Straight toward the solar mirrors. 
-
-Straight toward the ghost.
+The channel dies in the ear. The wing keeps coming. I run the gantry south, low, and I do not look up again until the flange turns.

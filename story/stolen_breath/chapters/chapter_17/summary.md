@@ -1,10 +1,10 @@
-# Chapter 17 // Tsunari
+# Chapter 17 // Vram
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Tsunari
-* **Setting:** The lower mechanical duct matrix of Redoubt Station 14.
-* **Job:** Vram detects an unannounced corporate approach on tactical radar and hides Tsunari inside the bunker's ventilation shafts. While crawling through the duct, Tsunari taps into the bunker's data relay and sees the telemetry audit bearing her sister's digital signature: *Analyst: Tech-Specialist S. Thorne*.
+* **POV:** Vram
+* **Setting:** The watchpost balcony at twilight.
+* **Job:** As dusk turns the toxic sky into bruised violet and molten brass, Vram’s fragmented childhood memories surface, remembering the day he was dragged from a Gray Sector dormitory, stripped of his name, and re-designated *Subject AE-701*.
 
 ## Notes
 

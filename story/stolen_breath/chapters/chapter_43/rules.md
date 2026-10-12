@@ -13,8 +13,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- The inscription is on the door, and he can read it there. It does not also sit above the chapter.
-- The blow is that the genome is older than the company. The five strains wait for her blood.
-- Gideon keeps the record. No wingspan.
+- The drink at the altar fogs a mind. The needle in this room is what makes an Ember. The recording is the proof.
+- Caelia's ceremony is already behind them. It does not play again.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

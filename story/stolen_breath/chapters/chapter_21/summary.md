@@ -1,10 +1,10 @@
-# Chapter 21 // Vram
+# Chapter 21 // Tsunari
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Vram
-* **Setting:** The lower mechanical vault.
-* **Job:** He hears her in the shaft and drops through the ceiling on the wing. The Rhino who charges is the woman. Vram leaves the floor, takes her with his hands, and puts the heat of the grip and the vane into the opening the plate does not cover. The horn and the hide are the class. The eyes and the unplated chest are the opening. No black veins. No wing dump. He does not know that door yet. Between Tsunari in the duct and his wing in the vertical, the detail goes down.
+* **POV:** Tsunari
+* **Setting:** The air intake conduit directly below the landing pad.
+* **Job:** The Wolf follows her scent into the shaft. Nose, hearing, endurance, the jaw. She answers with the Raptor body: the leap, the membranes in the grit, the hooks, the bodkin. A Rhino charge starts on the grate and wedges. The hide locks where she hits plate. The unplated chest and the eyes are the opening. No phase-stutter. She does not aim the ground.
 
 ## Notes
 

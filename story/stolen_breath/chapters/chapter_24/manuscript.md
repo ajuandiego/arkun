@@ -1,94 +1,32 @@
-# Chapter 24 // Vram
+# Chapter 24 // Tsunari
 
-> *You do not fire on your own wing.*
+> *Feather to feather, bone to bone*
+> *None of the Aerie falls alone.*
+> *Break the wind and ride the squall*
+> *If one must dive, we catch the fall.*
 
 ***
 
-For the first two seconds, the universe ceases to exist.
+The pad fills with lights. Hawks in the air, narrower than the shadow I already know, and ground lamps on the south lip. He does not give me a speech. He buckles the spare harness across his chest and pulls me into it until my thighs have to lock at his hips or drag.
 
-There is only the terrifying, weightless drop. Eight hundred feet of sheer vertical plummet into the screaming dark of the canyon. The sub-zero gale rips the breath from our lips as the jagged basalt cliffs of the gorge blur past in a vertical streak of black stone and flashing muzzle flares.
+"Hold," he says. "Eyes shut when the lamps hit. If you let go, the band gets you and I do not get a second grab."
 
-Tsunari’s arms are clamped around my neck like steel bands, her forehead buried into the crook of my collarbone, her heaving chest pressed flat against mine through the flight harness. Even in the dead-fall, her cool, reptilian body radiates that steady, bio-magnetic calm—grounding the screaming static in my cervical port, keeping my motor cortex from seizing under the pressure of the drop.
+"I don't shut my eyes for men who give orders."
 
-At four hundred feet, with the basalt boulders rushing up to smash our bones into dust, I pull my shoulders back and drive my primary quills wide.
+"Shut them for the glare." His arm locks behind my back. The plate of his chest is heat through the cloth. Every shift of the strap moves us against each other, a fact neither of us has time to file and both of us feel. My arms go around his neck because the alternative is the concrete.
 
-The air hits like an artillery shell.
+Searchlights pin the post. A voice on his old channel starts a cadence I do not know and will not repeat. He cuts the channel with his jaw.
 
-The sheer kinetic drag slams into my hollow, titanium-honeycombed bones with thousands of pounds of compressive force. My thoracic anchor brackets groan where they are bolted into my scapulae, and the torn tissue in my left shoulder screams in white-hot agony. But the Simurgh furnace in my blood burns through the pain.
+"They'll fire," I say.
 
-With a single, thunderous downstroke that sends shockwaves echoing through the canyon gorge, the wings bite. 
+"Some of them will miss on purpose. Don't count on it."
 
-We level out fifty feet above the canyon floor, converting terminal plummet into pure, forward horizontal velocity.
+He steps off the lip.
 
-One hundred and forty miles per hour.
+The stomach goes first. Then the wing bites, and the ground becomes a dark band with chemical sheen, and the terror and the safety arrive in the same breath. I am locked to a soldier I fought in a shack. I am also not falling. His heartbeat is a drum against my ribs. The harness creaks. I hold.
 
-Above us, the night erupts into a storm of blue and crimson tracer fire.
+"Breathe," he says into my hair.
 
-The corporate barges overhead pivot their heavy flak batteries, raking the canyon walls behind us with thousands of explosive kinetic slugs. Boulders the size of transport trucks shatter into pulverized shrapnel, raining down into the gorge in roaring avalanches of rock and burning cordite.
+"I am."
 
-High above the barges, diving through the searchlight beams, come the shadows.
-
-Aeros-Legion 7.
-
-Through my damaged tactical receiver, the internal squad frequency crackles with frantic, distorted audio:
-
-*"Aeros-Actual to all units!"* Cassian’s voice barks over the channel, sharp with military discipline, but carrying an unmistakable tremor of horror. *"Target confirmed descending through the western chute! Weapons free! Intercept and neutralize before they clear the dead perimeter!"*
-
-*"Negative on visual!"* Ferrin Calder’s voice cuts across the comms instantly, loud, frantic, and entirely unconvincing. *"Dust squall just fouled my primary optic suite! I’m firing blind, Cassian! Firing blind!"*
-
-A barrage of heavy kinetic rifle fire stitches a line across the canyon wall eighty yards to my right—nowhere near my flight corridor. The bullets smash into empty sandstone, showering the ravine in harmless red dust. 
-
-Ferrin. That glorious, lying bastard.
-
-*"Calder, you're firing at a dead pylon!"* Cassian roars back. *"Lock his thermal signature! He has an un-collared runner tethered to his chest! He cannot roll! Take his primary wing-roots!"*
-
-Behind us, two automated flak drones—small, disc-shaped hunter-killer units launched from the lead barge’s ventral bays—dive into the canyon like screaming silver wasps. Their turbine thrusters glow incandescent blue as they accelerate to two hundred knots, closing the gap with terrifying mechanical speed.
-
-Their automated targeting reticles paint the base of my wings with steady, pulsing red lasers.
-
-```console
-tactical warning // proximity alert
-hostile acquisition: twin flak-seekers // range: 120 yards
-intercept vector: t-minus 3.8 seconds
-countermeasure required: vector-blink
-```
-
-I can't vector-blink.
-
-A Vector-Blink requires a violent, three-hundred-sixty-degree rotational tuck that exerts twelve gravities of centrifugal force on the pilot's thoracic carriage. For a solo Simurgh soldier, it is agonizing; with Tsunari strapped to my chest, her un-reinforced baseline ribs would be crushed instantly by my own flight harness.
-
-"Hold on, Tsune!" I shout over the screaming wind, banking hard along the curving canyon wall, my wingtip carving a shower of blue sparks against the sandstone cliff.
-
-The drone locks turn solid crimson.
-
-A high-frequency whine heralds the missile launch.
-
-And then, from the freezing storm clouds directly above the gorge, a dark winged shape drops like a falling meteor.
-
-Toby.
-
-Specialist Tobin Vance—twenty-one years old, nineteen pounds underweight, flying on an oversized combat harness with delicate cream-and-gold quills—dives straight through the tracer fire.
-
-He doesn't draw his rifle. 
-
-He folds his wings into a tight, terminal stoop, tucking his body into the slipstream of the lead drone, and executes a suicidal, high-speed body-block directly into its flight path.
-
-His armored combat boot smashes into the drone’s optical housing with a hollow, ringing crash. 
-
-The machine spins out of control, its guidance gyro screaming in feedback, and detonates against the canyon wall in a violent fireball of burning fuel and twisted aluminum.
-
-The secondary shockwave catches Toby’s right wing, snapping three of his primary feathers like dry twigs. The boy spins violently in the turbulence, his voice cracking over the squad frequency:
-
-*"I... I lost roll control, Commander!"* Toby shouts, his voice breathless, terrified, but fiercely defiant. *"Guidance servos locked up! I can't catch him!"*
-
-*"Vance, pull up!"* I roar into the microphone, my chest tightening with overwhelming, agonizing pride. *"Clear the canyon! That's an order!"*
-
-*"Keep flying, Boss!"* Toby's voice whispers, fading into the static as his wounded wings catch an updraft toward the ridge. *"Don't let them take her!"*
-
-Ahead of us, the canyon widens. 
-
-The sheer basalt walls break apart into the flat, endless expanse of the outer wasteland—the toxic, barren wasteland of the Dead Perimeter.
-
-The automated defense towers of the outer ring are waking up, their searchlights painting the sky in interlocking grids of blinding white light.
-
-I pull my wings back, angle my primaries into the rising thermals, and bank toward the subterranean storm culverts.
+A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of Hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.

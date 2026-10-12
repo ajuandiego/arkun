@@ -1,143 +1,27 @@
-# Chapter 28 // Vram
+# Chapter 28 // Tsunari
 
-> **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
+> *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
 
 ***
 
-The kiss ends because our lungs demand air, but the fire inside my chest does not die.
+The chemical keeps eating after we are out of it.
 
-In the dark cavern of the flooded culvert, my forehead rests against Tsunari’s damp, cool brow. Her bare chest heaves against mine, the rhythm of her heartbeat matching my own, seventy-four beats per minute of steady, unyielding survival.
+His shirt smokes at the hem. My tunic, the sleeve, the wrap at my thigh, all of it holds the burn against the skin. I strip the cloth because the alternative is a wound that finishes the job the hose started. He does the same, jaw locked, no speech about modesty. Shame can wait. The burn will not.
 
-"The culvert ends in two miles," she whispers, her fingers still tangled in the damp feathers along my left scapula. "The drainage grate vents into the dry bed of the Old Rhone. Beyond that is the open desert."
+Cold in the culvert. His skin throws heat anyway. I scrape the dust and the scorched down off the root where the wing leaves his back, fingers careful, because the quills are live and the flesh around them flinches like a nerve. He makes a sound he does not mean to make. Not pain only. The root answers the touch. His whole back tightens. His hands find the stone and the knuckles go white once, and then he is turning, crowding me to the wall, breath wrecked.
 
-I nod, reluctantly uncoiling my wings from around her body. 
+"Stop," he says, and his mouth is already at my throat. "Or don't. Tell me which."
 
-The cold subterranean air rushes back between our bare chests, but the warmth between us lingers like an indelible brand. We scavenge what we can from the waterproof dry-bags strapped to the underside of my flight harness: two spare rolls of vulcanized linen wraps, my sidearm, her data-slate containing the stolen Lazarus Key, and a fresh container of water. 
+"The burn is off." My voice is not steady. His hands are on my hips, hot, shaking, asking by staying. "The rest of this, you ask."
 
-Tsunari binds her breasts tightly with strips of clean linen, securing her bodkin knife through her high bun. She looks down at our dripping boots, then up at my massive, half-scorched wings rustling against the narrow concrete arch.
+"I'm asking."
 
-"Well," she whispers, her amber eyes glittering with dry, wicked amusement. "If my father could see me now. Scurrying through a flooded drainpipe with a treasonous corporate archangel whose clothes are in shreds."
+I nod, once, because I want it and because I will not pretend the want is only his. He goes to his knees on the wet stone. Mouth, then fingers, specific and unhurried and nothing like the fight in the shack. The cold of the culvert and the heat of him. I brace on his shoulder. The wing curves in, not a cage, a wall against the dark. I come apart against his mouth with his name caught in my teeth, and he stays until the shake leaves my legs.
 
-I pull a dry, dark ballistic flight tunic over my shoulders, wincing slightly as the torn fabric settles across my wounded deltoid. "I believe the official military designation is Supreme Commander of Aeros-Legion."
+He pulls back before the rest. His forehead rests on my stomach. He is hard against his own thigh and he does not chase it.
 
-"Right now, Commander, you look like a drowned hawk who lost an argument with an incinerator."
+"If I keep going I will burn you," he says. "The heat doesn't know the difference between a wing and a body. I do."
 
-"And you," I reply, a rare, self-deprecating smile pulling at my lips as I check the battery seal on her data-slate, "look like a rogue lab specimen who just stole the most dangerous weapon on the continent."
+"Then we stop." I get my hand in his hair, not a reward, a fact. "You stopped. Remember that you stopped."
 
-"Flattery will get you everywhere," she murmurs, cinching her utility harness down over her ribs. "Let's move before your fan club catches up."
-
-We wade through the black water for forty minutes, the ceiling sloping downward until the concrete arches collapse into a natural limestone gorge.
-
-And then, the desert opens before us.
-
-We emerge from the mouth of the drainage conduit onto a high, red sandstone ledge overlooking the vast, endless desolation of the **Rust Barrens**.
-
-It is the edge of the world.
-
-For hundreds of miles to the south, the earth is a frozen, petrified graveyard of ancient iron dunes, dry salt pans, and the skeletal ribcages of collapsed twentieth-century suspension bridges half-buried in red dust. The temperature out here has crashed seventy degrees since sunset—the desert air dropping to twenty below zero, carrying a biting, acidic frost that coats the rocks in a powdery white glaze.
-
-Behind us, thirty miles to the north, the alabaster glow of Eden Dome Alpha is a tiny, pale spark on the horizon.
-
-Above the dome, searchlight beams sweep the clouds in frantic, geometric grids.
-
-They know we cleared the culvert.
-
-The low, concussive hum of heavy inductive drives echoes from the canyon behind us—three corporate search barges accompanied by a dozen ground-tracking prowlers scouring the drainage mouth with infrared scanners.
-
-"They have our scent," Tsunari says, her amber slit pupils tracking the dust plumes rising from the gorge. "The ground units will reach the dry lakebed in twenty minutes."
-
-"They won't catch us on foot," I say, stepping to the edge of the sandstone precipice. "We cross the salt flats on the wing."
-
-Tsunari looks at my left shoulder. 
-
-The wound from the Inquisitor's bio-lance has begun to bleed again through the dark fabric of my tunic, and the primary feathers along my left wingtip are singed and ragged from the phosphorus blast. 
-
-"Vram, your wing—"
-
-"The wing will hold," I say, pulling the spare tactical tethers from my belt and securing her firmly against my chest once more. "Wrap your arms around my neck, Tsune. When we hit the thermal layer above the dunes, don't let go."
-
-She presses her chest against mine, her arms locking around my neck, her warm cheek resting in the hollow of my throat. 
-
-"Never," she whispers.
-
-I leap into the freezing desert night.
-
-My wings snap open, catching the dense, sub-zero air of the Rust Barrens with a concussive crack of feathers. We climb into the dark, banking south at ninety miles per hour, riding the bitter thermal drafts rising from the salt flats below.
-
-For ten miles, there is only the howling wind, the rhythm of our breathing, and the vast, empty desolation of the red desert sliding beneath our boots.
-
-And then, the horizon detonates.
-
-From the automated border batteries ten miles to the west, a long-range orbital defense turret fires an acoustic fragmentation spread.
-
-The shell doesn't scream; it arrives on a wave of pure gravitational silence.
-
-The explosion blooms three hundred yards above our flight path—a concussive sphere of high-density tungsten shrapnel traveling at Mach 4. 
-
-The shockwave hits us like an iron wall.
-
-A hail of razor-sharp steel darts tears through the night. 
-
-A piece of hot, jagged shrapnel slices clean through the primary quill-shaft of my left wing, shattering the titanium-reinforced bone midway down the span. At the same time, the concussive pressure wave wrenches my left shoulder backward with a sickening, audible pop.
-
-Dislocated.
-
-The agony is instant, blinding, and suffocating.
-
-My left wing fails completely, folding backward against my spine like a broken sail. 
-
-Our flight vector shatters. 
-
-We tumble through the sub-zero gale in an uncontrolled, violent spin, plunging vertically from four thousand feet toward the frozen, red iron dunes of the Rust Barrens.
-
-"Vram!" Tsunari cries out, her hands gripping my collar, her body twisting with mine as the desert rushes up to swallow us.
-
-My core temperature flares to a lethal 108 degrees—the Silver Spine shrieking in catastrophic, terminal failure as the trauma overwhelms my nervous system. White fire blinds my eyes. My right arm spasms violently, but my jaw sets into an unbreakable, animal snarl.
-
-*Not her.*
-
-*I will not let her hit the rocks.*
-
-With the last shred of transgenic strength in my right shoulder, I drive my remaining good wing wide, banking into the howling crosswinds. 
-
-I don't try to fly. I try to brake.
-
-I drag the wide span of my right wing through the freezing air like an airbrake, spinning our bodies horizontally, fighting the rotational torque until my broad, muscular back is facing the earth. 
-
-I pull Tsunari tight against my chest, wrapping my arms around her head and ribs, encasing her entirely within the cage of my body.
-
-We strike the sand dune at eighty miles per hour.
-
-The impact is an explosion of red iron dust, shattered stone, and blinding kinetic violence.
-
-We plow through the crest of the dune, tumbling down the three-hundred-foot slope in a roaring avalanche of sand, bone, and feathers. The desert batters my shoulders, my spine, my shattered left wing, but my arms never open. My grip around her never breaks.
-
-We slide to a halt at the bottom of the basin, buried beneath two feet of freezing red powder.
-
-Silence returns to the Rust Barrens.
-
-The howling wind sweeps across the dunes, burying our tracks in the shifting iron dust.
-
-Beneath the sand, in the dark, warm hollow between my chest and the freezing earth, Tsunari’s heart beats against mine.
-
-She is breathing. Unbroken. Alive.
-
-My left arm is dead. My left wing is shattered. The fever burning behind my eyes is a roaring furnace that threatens to consume the last of my consciousness. 
-
-Tsunari claws her way out of the sand, her amber eyes wild, frantic, searching my face in the starlight.
-
-"Vram!" she gasps, her trembling hands framing my jaw, brushing away the frozen red dust from my lips. "Vram, stay with me! Look at me!"
-
-I look up into her fierce, beautiful gaze. 
-
-The Green Domes are gone. The Directorate is gone. The sky above us is endless, cold, and vast.
-
-A slow, bloody smile touches my lips beneath my beard.
-
-"We cleared the wall, Tsune," I whisper, my eyelids growing heavy as the darkness rolls in. "We cleared the wall."
-
-And as my head sinks back against the red sand of the wasteland, her cool hands press firmly against my neck, grounding the fire as the desert claims us both.
-
-***
-
-### END OF PART II: THE FALLEN SKY
+We breathe. The clothes are a ruined pile. The burn is a lesser hurt. I am aching and clear-headed, and the addiction is already in the place where the ache is, and I do not give it a softer name than want.

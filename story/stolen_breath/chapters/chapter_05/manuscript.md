@@ -1,191 +1,45 @@
-# Chapter 5 // Vram
+# Chapter 5 // Tsunari
 
-> *Recover the runner. The file is worth more than the body.*
+> *If you answer on an open set, you paint the house you are protecting.*
 
 ***
 
-From three hundred feet up in the howling copper squall, tracking prey is usually a mathematical exercise.
+The mirrors start where the road gives up.
 
-Baseline humans are clumsy, predictable creatures. In the dark, their thermal plumes glow like distress flares against the cold sand: bright orange torso, yellow limbs, frantic pulses of hot crimson along the temples as panic drives their cardiovascular systems toward coronary arrest. When they run, they run in straight lines. When they hit a dead end, they curl up against the wall and wait for the net.
+Black glass, cracked, stood up in rows when somebody still thought the sun could be kept. The wind drives grit through the breaks. It stings the bare skin of my shoulders and packs the corner of my mouth. I pull the goggles down. Under them the membranes wipe once, a clear film, and the grit is gone. I do not blink. I do not slow down.
 
-This one does none of those things.
+The earpiece is dead in my ear. I killed it. Ren will be on a roof by now, and Drew will be awake because Ren cannot keep his hands off a door. If I answer, the clinic lights up on somebody's board. T.J.'s hole lights up with it. I leave the set dead and I run.
 
-Through the swirling sheets of iron grit, my tetrachromatic vision maps the terrain below with razor-sharp clarity. I can see the micro-fractures in the concrete foundations half-swallowed by the dunes. I can see the residual heat signatures of dying machinery buried ten feet beneath the sand. 
+A shadow crosses the glass ahead of me and is gone. Big. Low. I do not look up long enough to give it a size. The mirrors will break a dive if I stay under them. That is the whole plan.
 
-Yet her thermal profile is completely, impossibly wrong. 
+"Contact," a speaker barks, flattened by the wind. "Runner in the mirror grid. Nets."
 
-Her core isn’t glowing like a stoked iron stove. It’s cool, controlled, barely a few degrees above the ambient ninety-five-degree heat of the desert floor. And on my tactical HUD, where the Directorate’s automated bio-sensors should be pinging a civilian identity transponder or an unregistered chimera warning beacon, there is only a deafening, empty silence.
+Two of them. Ground suits, heavy, the joints hissing as they bound the dunes. Iron Division, or close enough that the difference will not save me. Capture nets. They want the slate and they want the body that carried it still shutting.
 
-*Null-signal.*
+I drop into the trench under a tilted bowl. The glass throws their lights into a mess of white. Heat sits in the metal from the day, and their thermals will hate it. I jam a thumb capacitor into a split servo wire and run a filament across the gap at shin height. One trap. The click of it is a small mechanical thing. The storm stays wind and grit.
 
-No transponder. No tracking beacon. No state collar.
+The first suit comes around the bowl. Light on his shoulder. A net gun where his hand should be a hand. His shin takes the filament.
 
-For ten years, my world has been mediated by the cold arithmetic of the Silver Spine. The cyber-neural lattice woven through my central nervous system doesn't just feed me telemetry—it dictates how I perceive reality. It measures heart rates, flags threat vectors, and calculates firing solutions before my conscience can even form a thought. 
+The pop is bright and local. His light dies. The suit's knees lock with a hydraulic slam and he goes into the sand on the locked joints, swearing into a speaker that has started to feed back.
 
-If a target carries no transponder, the lattice automatically tags them as vermin. A red crosshair. A biological anomaly to be eliminated or brought to the vivisection trays in Sub-Level 3.
+"Two, I'm blind. Suit's dead. Two, report."
 
-I circled in the thermal updraft above the mirror banks, banking into a wide, silent arc on fourteen feet of outstretched feathers, watching the Iron Division scouts charge in to corner her. 
+I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the Bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
 
-The wind up here is violent, carrying sharp charges of static electricity that crackle across the edges of my obsidian flight quills. High above, through the rent in the orange smog, the black monoliths of the Vaelen Harvester Barges hang like unblinking eyes, completely indifferent to the skirmish unfolding in the dirt below. 
+"Two, report," the other one calls. Closer. On the berm, not in the trench. Smarter. "Did you engage?"
 
-To the aliens, we are all just crawling microbes on a poisoned rock. To the Directorate, we are tools with serial numbers.
+His rifle whines up. If he dumps that into the bowls, the glass becomes a cage of bounce. I have the hooks in a reverse grip and four strides of sand.
 
-I could have dropped the moment the scouts breached the perimeter. I could have folded into a terminal stoop, shattered her spine with a two-hundred-mile-per-hour kinetic strike, and had the Lazarus core back in my flight harness before Cassian even sealed the southern gates.
+He crests. "Drop it."
 
-I didn’t.
+I slide under the line of fire. The shot takes the bowl behind me and the bowl comes apart, a boom, a curtain of black splinters. He covers the visor. I plant, leap, and the second bound puts me at his collar ring. The hook's beak finds the seam under the net gun and tears the feed. The whine dies. I drive a knee into the joint that was hissing and the leg folds. He hits the berm. The net spills, useless, a metal spider with no throw.
 
-I stayed aloft, riding the burning downdraft off Dome Alpha's northern bulkhead, because watching her fight was the first thing in ten years that made the dead, conditioned nerves in my chest spark with something alive.
+I do not stay to tie him. The shadow passes again, lower, a pressure change in the ear, feathers somewhere in the grit. Still no number on it. I put the hooks home and I go deeper into the rows, where the glass is thickest and a straight dive becomes a mistake.
 
-She didn’t panic when the pneumatic suits stomped into the trench. She didn’t fire a scavenged pistol and give away her coordinates. She melted into the foundation of Mirror Bank 402 like a shadow slipping under an iron door, baited the first scout with a monofilament tripwire, and fried his gyros with an improvised EMP capacitor so clean it sounded like a firecracker.
+The earpiece knocks my jaw when I land. I do not turn it on.
 
-And the second one? 
+Drew would already be packing a kit. Ren would already be lying about how close he is. T.J. would give them a bearing and stay in the hole, which is the only sensible thing any of us does. An answer from me makes all three of those facts into a target.
 
-I saw the flash of the plasma rifle. I saw the sixty-foot parabolic mirror disintegrate into a blinding geyser of shrapnel. 
+I wipe the membrane again. The next row of mirrors is a black lane. I take it at a run, on the toes, the way the legs want, and I count the gaps where a wing would have to commit.
 
-Any normal scavenger would have been shredded to ribbons. But she was already mid-leap—a vertical wall-spring off the mirror frame that defied every law of baseline human anatomy. 
-
-A baseline soldier’s knees buckle under that kind of concussive force; their ankles roll, their momentum dies. But her body absorbed the impact like wound cable, storing the kinetic punch in those whip-cord thighs and rebounding off the frame at a ninety-degree angle without bleeding off a single knot of speed. 
-
-And then the strike.
-
-She slipped inside the scout's guard with a blur of speed no baseline could dream of. A blackened, curved steel Spire hook flashed in her hand—reverse-gripped, catching the hydraulic line behind his knee and ripping it open with the brutal, practiced efficiency of a street butcher.
-
-*Dromaeon.* 
-
-The recognition hit me like a physical blow. 
-
-Memory flared in the back of my mind—a cold, sickening recollection from fifteen years ago, during the Great Purge. I had been thirteen years old, a newly collared fledgeling in the training barracks of Sector 04, forced to stand at attention while Directorate tactical teams dragged the Dromaeon crèches into the street. The officers had told us that the raptor strain was defective. They said the dromaeon genome was feral, un-stabilized, incapable of accepting the Silver Spine without suffering violent psychological psychosis. 
-
-"A raptor cannot be collared," the Chief Inquisitor had announced before the flamethrowers ignited. "And what cannot be collared must be purged."
-
-They had exterminated them in their cribs. They burned their gene seeds, wiped their records from the bio-archives, and told the world the lineage was extinct.
-
-Yet here she stands. Breathing. Lethal. Free.
-
-I tilt my wings, spilling air from the primary feathers, and drop through the dust like a falling stone.
-
-I land on the narrow, six-inch steel rim of the cracked parabolic mirror twenty feet above her. The impact is completely soundless—my titanium-reinforced metatarsals absorb the kinetic shock instantly, balance gyros in my inner ears locking me onto the beam without a quiver.
-
-The massive downdraft of my descent flattens the sand dune beneath her. The heat radiating from my bare shoulders—106 degrees of uncoiled Simurgh fire—washes over the trench, cutting through the freezing desert wind with the heavy, suffocating scent of ozone, bitter clove, and heated titanium.
-
-She freezes.
-
-Slowly, without a hint of the frantic trembling that usually precedes an execution, she raises her head.
-
-Through the amber lenses of her industrial welder goggles, I feel the weight of her gaze. She isn't looking at my rank insignia. She isn't looking at the sidearm holstered at my waist. 
-
-She is looking at the joints of my wings. At the balance of my hips. At the tension in my quadriceps.
-
-She is measuring my reach. She is calculating my kill-box.
-
-Her face is masked from the nose down by a stiff, high-collared combat tunic and tightly wrapped linen gaiter—charcoal fabric pulled taut across a delicate, high-cheekboned bone structure. But her throat is completely covered. Deliberately covered. She wears the high collar to hide the unblemished skin of her neck, to hide the fact that she has never felt the cold drill of a Directorate surgeon sinking a titanium siphon into her spine.
-
-*An un-collared monster.* 
-
-A creature born outside their cages, surviving on raw instinct and razor-sharp intellect.
-
-A sharp, violent pulse of static arcs across my neck siphon, searing the Directorate's conditioned protocol into my skull: *obey. retrieve payload. vivisect intruder.*
-
-The Silver Spine sends a wave of nausea rolling through my stomach, reminding me of the leash around my throat. The Directorate doesn't want her alive. They want her dissected on a steel tray, her genome cataloged, her rogue lineage burned to cinders.
-
-My jaw sets. I step forward along the mirror rim.
-
-"The core," I say. My voice is a low, raspy growl, carrying the heavy baritone of an aerial commander accustomed to shouting over jet-stream gales. "Drop the harness, step back five paces, and I will make your transition painless."
-
-She doesn't speak. She doesn't plead. 
-
-Instead, her head tilts slightly to the left—a minute, avian twitch of intense, calculating focus. 
-
-Her right hand rests lightly near her hip. In her reverse grip, the blade of a five-inch steel bodkin knife catches the red strobe of the distant perimeter lights. 
-
-A bodkin knife against a six-foot-four Simurgh commander in ballistic flight weave. It’s an absurdity. A joke.
-
-Except she isn't aiming for my chest. 
-
-Her eyes flicker down to the mirrored shards scattered in the sand around her feet.
-
-In a fraction of a second, I realize what she is doing.
-
-She isn't looking at the narrow gap between Mirror Bank 402 and the crumbling concrete substation thirty yards behind her—the obvious, natural escape corridor. She *wants* me to think she’s going for the substation. Her shoulders are angled toward it, her weight leaning into the left hip as if preparing for a desperate lunge into the ruins.
-
-If I jump to cut off the substation entrance, I will overcommit my weight into the deep sand. 
-
-And in the reflection of the broken mirror shard lying between her boots, she can see the exact angle of my wings. She is waiting for the flex of my thoracic muscles. The moment I launch to intercept her, she will pivot right, using the concave curve of the mirror bank to block my wing-spread, sprint behind my blind spot, and vanish into the maze of dunes.
-
-She didn't just survive the scouts. She mapped my aerial attack vector before my feet even touched the beam.
-
-A slow, dark smile pulls at the corner of my lips, hidden in the shadows of my sculpted beard. 
-
-A low, raspy rumble vibrates in my chest—half chuckle, half predator’s growl.
-
-"Clever girl..." I murmur into the wind.
-
-Her vertical pupils contract behind the amber glass.
-
-She realizes I’ve seen it.
-
-She doesn't hesitate. She doesn't wait for my downstroke.
-
-*She bolts.*
-
-Not toward the substation. Not toward the open dunes. 
-
-She drives her boots into the sand and launches herself straight *at* me.
-
-She runs up the sheer sixty-foot curved face of the parabolic mirror, using the momentum of her sprint and the traction of her boots to run three steps vertically up the glass, aiming her bodkin blade directly at my exposed carotid artery.
-
-*Incredible.*
-
-Most prey run away from the raptor. This one attacks the beak.
-
-I don't draw my sidearm. I don't ignite my pyric talons. 
-
-I snap my fourteen-foot wings forward in a thunderous, concussive clap. 
-
-The gale generated by thirty square feet of reinforced obsidian quills hits her mid-air like a physical ram. The air blast roars between the glass banks, ripping the breath from her lungs and violently disrupting her trajectory.
-
-She twists in mid-air with impossible feline grace, avoiding a direct impact, and drops back to the sand ten feet to my left, landing on all fours like a cat.
-
-The moment her boots hit the sand, she pivots, realizing her initial ambush failed. 
-
-Now she has only one viable path left: the cracked concrete archway of the ruined solar substation thirty yards away. 
-
-Inside those reinforced walls, the ceiling is barely twelve feet high—too low for my wings to spread, too cramped for aerial maneuvers. Inside, her cursorial agility, her close-quarters blade work, and those lethal Spire hooks give her the tactical advantage.
-
-She sprints for the archway. 
-
-She moves with blistering, terrifying speed—easily thirty-five miles per hour across shifting, unstable sand dunes. Her sleeveless combat tunic flutters against her back, her toned arms pumping with rhythmic, machine-like precision.
-
-I don't run. 
-
-I drop from the mirror rim, tucking my wings tight against my ribs in a low-altitude bullet glide just three feet above the sand. 
-
-The copper wind screams through the narrow canyon of solar mirrors. My primary flight quills scrape against the rusted steel girders on either side, throwing showers of orange sparks into the dark. My subcutaneous capillaries pulse with liquid solar fire, superheating my muscles, kicking my acceleration into predatory overdrive. 
-
-The air in my wake shimmers with extreme convection. The sand beneath me is scorched black where my thermal slipstream passes over it.
-
-I close the thirty-yard gap in the blink of an eye.
-
-She reaches the shattered threshold of the substation. 
-
-She glances over her shoulder, her amber goggles catching the radiant copper glow of my plumage just inches behind her. 
-
-She lunges through the doorway.
-
-I don't let her touch the floor.
-
-I hit her at full speed.
-
-My right arm wraps around her waist like an iron band. Two hundred and thirty-five pounds of transgenic mass, backed by the full kinetic inertia of a high-speed glide, slams into her back.
-
-The sheer, overwhelming force of the collision lifts her clean off the concrete.
-
-Together, locked in a violent tangle of ballistic leather, flying feathers, and kicking boots, we crash through the rotted threshold, hurtling into the pitch-black interior of the substation.
-
-The world spins into a vortex of splintering wood, shattered conduit, and blinding dust.
-
-We hit the far masonry wall with a concussive crash that shakes the foundation. 
-
-Bricks crumble around our heads. 
-
-We tumble to the hard concrete floor, rolling across a carpet of broken glass and rusted wire, locked in the furious, thrashing grapple of two apex predators who know that only one of us will walk out of the dark.
+Let him commit. I will not be in the gap.

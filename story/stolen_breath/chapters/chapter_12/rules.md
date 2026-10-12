@@ -2,24 +2,24 @@
 
 Use this file on a draft and on a review. Canon wins when a fact disagrees. The beat is in `../../breakdown.md`.
 
-- Header: Chapter 12 // Drew
+- Header: Chapter 12 // Tsunari
 - Tense: present.
-- Person: First person, Drew only.
+- Person: First person, Tsunari only.
 - Tsune is the field name. Tsunie is Vram's private diminutive only.
 - Do not finish the aerosol cure, the Spire rescue, Jeffrey's survival as a finished reveal, or the road to the Verdant Cradle.
 - A later ring does not belong in an earlier part. The rings are at the top of `../../breakdown.md`.
 
 From this beat:
 
-- Tsune's voice comes up and tells them to go home. Drew hears a second person in the room and does not get a name. She turns the cart around because Tsune asked, and she hates the mile she is walking back. She does not tell Mercer where the road ended. She tells him they lost the signal at the mirrors.
-- The slate, the leads, the Bodkin tang she keeps working even when the woman who uses them is not in the shop. She knows the bare nape. She does not say it on an open relay.
+- Vram marches Tsunari inside the fortified watchpost. Tsunari immediately scans the room for exits, structural failure points, and improvised weapons, while noticing the bunker's isolation: no comm-lines to the city, only shortwave surveillance relays.
+- T.J. stayed down and called the bearing. The prowler turned south. Drew and Ren followed that road. Drew's voice comes up on the relay, Ren behind her. Tsunari tells them to turn around, says nothing about the man in the room, and pulls the relay. Vram hears the name Drew. He does not get the clinic, and he does not get the bunker.
 
 ## This pass
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- T.J. is 14 and stays in the bunker. She stops asking him to come up.
-- She knows the bare nape. She does not say it on an open relay.
-- She turns the cart around because Tsune asked. She does not see the man in the room.
+- Drew is on the shortwave. Tsunari turns them around and pulls the relay. The clinic and the bunker stay off the set.
+- His height was stacking three times on this page. Once is already too many. The wingspan stays out.
+- The tunic is already known.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

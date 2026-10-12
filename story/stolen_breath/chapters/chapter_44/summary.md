@@ -1,10 +1,10 @@
-# Chapter 44 // Tsunari
+# Chapter 44 // Vram
 
 Working summary for a draft, a review, or an analysis. The full beat is the matching section of `../../breakdown.md`. If a pass changes the job of this chapter, change it there and here.
 
-* **POV:** Tsunari
-* **Setting:** The reliquary chamber of The Glass Vault.
-* **Job:** Tsunari examines an uncatalogued optical quartz disc labeled *Ghost Beacon 09-Omega*, an encrypted transmission received ten years ago from deep within the impassable Stygian Ocean. Staring through Gideon’s optometer loupe, she freezes: etched along the margin is her father’s unique mathematical shorthand.
+* **POV:** Vram
+* **Setting:** The Glass Vault, eighty feet beneath Sector 09.
+* **Job:** Arrival at the underground archive of **Elder Gideon Cross**. Gideon unrolls ancient archaeological codices showing Scythian winged lion-hunters from 500 BCE, proving to Vram that his chimeric genome is thousands of years older than corporate labs.
 
 ## Notes
 

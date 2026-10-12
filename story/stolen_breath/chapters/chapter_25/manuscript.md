@@ -1,79 +1,29 @@
-# Chapter 25 // Tsunari
+# Chapter 25 // Vram
 
-> *The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up. The sky out here is waiting.*
+> *You do not fire on your own wing.*
 
 ***
 
-Nothing in the undercity prepares a human being for the sky.
+The dead band is a few miles of bad ground and a rim of pale lakebed. I have her locked to my chest and the wing is doing two jobs. Fly. Don't crush her.
 
-In the drainage conduits and maintenance shafts of Sector 09, speed is measured in paces, in a rebound off an iron grating, in the breathless dash between shadow and searchlight. It is bounded by ceilings of rust and floors of cracked slag.
+Cassian is on my left, Hawk, patrol span, the man I told to hold a roost. He does not fire. I see the hesitation in the way his hands stay open. He was told a weather report. He was told a corpse. He is looking at a living woman in my harness and the order in his skull, and the order is losing by a second at a time.
 
-Out here, there is no ceiling. There is only an infinite, terrifying abyss of wind and light.
+"Commander," he says on the channel. "Land and I can still call this a return."
 
-We climb through the canyon gorge at one hundred and sixty miles per hour. 
+"You can't."
 
-The wind against my face is not an atmosphere; it is a physical entity, a concussive wall of freezing air that tears at the linen wraps of my gaiter, threatening to rip the breath directly from my throat. My membranes snap across my eyes in a constant, reflexive blur, sweeping away the needle-sharp crystals of copper dust and freezing moisture that whip past our ears.
+Rook comes in hot on the right, irreverent even now, and the slug he sends goes wide into the haze. "Targeting optics full of dust!" he shouts, for the log, for whoever is counting loyalty. The next shot is wide too. He is a Hawk. He does not miss twice unless he means to.
 
-I am clamped to Vram's chest, my arms locked around his burning neck, my legs woven through the tactical leg loops of his flight harness. 
+Toby dives. Cream and rust. Younger. He puts his body between a flak drone and the root of my wing, slipstream ugly, a Hawk's tuck with no lecture in it. The drone's burst chews his vane instead of my bone. He swears, soft, the way he apologizes.
 
-Every single vibration of his chimeric body travels directly into my bones. 
+"You do not fire on your own wing," I tell the channel, and I am the one who made the sentence a lie by leaving.
 
-Beneath my hands, the massive pectoral muscle groups of his chest contract and expand with terrifying, hydraulic force—thousands of pounds of organic torque driving his fourteen-foot obsidian wings through the gale. Behind his neck, where the titanium anchor plates are bolted through his scapulae, the bone flexes with a deep, resonant groan with every downstroke, flexing, absorbing, overcoming the atmospheric drag.
+Amari is a wheat flicker higher up, not shooting. Cassian still has not. The leash on all of them will be climbing because Corvus does not like a hesitation. I feel mine try to climb and her palm, trapped between us, keeps it from finishing.
 
-The heat radiating off his skin is an oasis against the sub-zero wind. Even with freezing gale-force squalls tearing over my bare shoulders, the front of my body is bathed in his 104-degree furnace warmth.
+"Yard," she says against my throat. "I see containers."
 
-I lift my head from his shoulder.
+"Then we get there before a honest gun does."
 
-I look up.
+Rook laughs once, broken. "Fly, Commander. I'll keep missing."
 
-And my breath catches in my throat.
-
-We burst through the low, copper smog layer into the open sky above the gorge. 
-
-For the first time in my twenty-three years of living beneath the toxic cloud deck of the Gray Ring, I see the heavens as they truly are.
-
-High above us, the stratosphere is not empty. The towering black monoliths of the **Vaelen Harvester Barges** float silently in the dark—massive, soundless obsidian wedges three miles long, their crystalline hulls drinking the starlight, their ventral siphons drawing pale blue luminescence from the upper atmosphere like celestial parasites. 
-
-Beneath them, the toxic cloud bank stretches across the curvature of the earth like a vast, frozen ocean of molten brass, violet twilight, and bruised amber. 
-
-It is terrifying. It is poisoned.
-
-And it is the most breathtaking, magnificent thing I have ever seen.
-
-"Don't look up," Vram’s voice rumbles directly against my breastbone, his chest vibrating with the strain of the climb. "Watch the perimeter line."
-
-I force my gaze down.
-
-The awe evaporates into cold, survival reality.
-
-Two miles ahead, where the mouth of the canyon opens into the vast, red desolation of the Rust Barrens, sits the **Dead Perimeter**.
-
-A two-kilometer swath of barren earth, stripped of every scrap of vegetation, scorched black by decades of automated chemical defoliation. Rising from the red sand dunes are thirty automated flak turrets—massive, four-barreled rotary cannons linked to seismic and acoustic sensor grids along the gorge.
-
-The towers have acquired our vector.
-
-A low, subterranean rumble rolls across the desert as the automated batteries cycle their feed systems.
-
-A second later, the night erupts.
-
-Flak shells detonate across our flight corridor in rhythmic, deafening clusters. Black, greasy flowers of explosive shrapnel burst into the air, throwing showers of jagged steel fragments and blinding phosphorus flash-powder across the sky. The concussive shockwaves hit our wings like physical hammers, tossing our locked bodies thirty feet sideways in violent, bone-jarring rolls.
-
-Vram doesn't falter.
-
-His flight quills twist with microscopic, transgenic precision, spilling turbulence, catching the rising thermal drafts from the canyon floor with the lethal, predatory grace of an eagle riding an artillery barrage. 
-
-"They're loading phosphorus cannisters," he grunts, his left arm tightening around my waist, his claws digging through the leather of my harness. "If the dust touches your skin, it doesn't stop burning until it hits bone."
-
-"Where is the culvert?" I shout over the thunder of the flak.
-
-"At the base of the third pylon!" he roars back, angling his wings into a steep, sixty-degree terminal dive. "Flooded storm channel leading beneath the dead perimeter! We go in hard!"
-
-The desert rushes up to meet us.
-
-Four hundred feet. Three hundred feet.
-
-The automated turrets track our descent, their searchlights locking onto Vram's gleaming obsidian wings with blinding, incandescent intensity.
-
-A barrage of heavy phosphor shells detonates twenty yards above our heads.
-
-A wave of searing, liquid fire rains down through the dark.
+I beat. The band streams under us. Toby bleeds light into the haze and stays in my shadow anyway, because he is Vance and he is my wing, and Cassian follows without firing, which is the last kindness he can afford me.
