@@ -49,7 +49,7 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 * `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
-* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 53 chapters and five interludes. Each of those folders has `summary.md`, `rules.md`, and `manuscript.md`. The prose is `manuscript.md`.
+* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 53 chapters and five interludes. Each of those folders has `rules.md` and `manuscript.md`. The prose is `manuscript.md`. The job of each chapter lives in `breakdown.md`.
 * `canon/style/`: voice, sensory palette, format, and the glossary.
 * `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
 * `assets/media/`: reference images (characters, strains, places). Not prose canon.

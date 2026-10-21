@@ -21,7 +21,7 @@ Worldbuilding and historical backstory are revealed through **four concentric ri
 
 ---
 
-The beats follow, in reading order. Each chapter and interlude also has a folder in `chapters/` with `summary.md`, `rules.md`, and `manuscript.md`. Open those three on a draft, a review, or an analysis of that chapter. The beat in this file is the promise. If a pass changes the job of a chapter, change it here and in that folder's `summary.md`.
+The beats follow, in reading order. Each chapter and interlude also has a folder in `chapters/` with `rules.md` and `manuscript.md`. Open those two on a draft, a review, or an analysis of that chapter. The beat in this file is the job. If a pass changes the job of a chapter, change it here.
 
 ---
 
