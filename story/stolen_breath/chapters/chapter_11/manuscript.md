@@ -18,7 +18,7 @@ The tunic leaves the shoulders bare. Slate scales on the outer shoulder, small, 
 
 My hands tighten on the wheel.
 
-If I reach for her she will use the Bodkin I have not found yet, or her teeth, or the simple fact that I need the palm on my arm more than she needs me alive. I would deserve it. I keep the hands on the wheel. I keep my eyes on the ruts.
+If I reach for her she will use the bodkin I have not found yet, or her teeth, or the simple fact that I need the palm on my arm more than she needs me alive. I would deserve it. I keep the hands on the wheel. I keep my eyes on the ruts.
 
 "You're staring," she says.
 

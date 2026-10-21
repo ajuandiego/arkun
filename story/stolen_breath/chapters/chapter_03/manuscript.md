@@ -78,7 +78,7 @@ I stand. The leash wants the next move before I choose it, a hot stitch that mea
 
 Toby steps into the windbreak. Rook lifts two fingers, not quite a salute. Cassian only watches the drop, which is what a second is for. Amari stays on the corner and gives me the angle with her chin.
 
-I open the wings. Black vanes. The beat puts a blue-violet sheen on the shafts, there and gone. Cold hits the live skin where the feathers leave the back, a slap, then nothing, because the heat eats it. I lean.
+I open the wings, fourteen feet of black vane, and the beat puts a blue-violet sheen on the shafts, there and gone. Cold hits the live skin where the feathers leave the back, a slap, then nothing, because the heat eats it. I lean.
 
 The first second is the stomach. The second is the boots with nothing under them. The third belongs to the wings. I have done this since they threw me off a lower ledge as a boy and told a number to fly. The sergeant had no name I was allowed to keep. The air kept me. It is the same air.
 

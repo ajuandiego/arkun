@@ -17,7 +17,7 @@ Air, the leash, the touch, and the machines the reader has actually used. The ho
 * **The Mosaic Keystone.** Five crests on a wall of quartz. The reader knows her blood is the reason a dose does not reject. They do not know the recipe well enough to imagine someone else brewing it.
 * **The fourteen-month clock.** Stolen in chapter 1, confirmed as terraforming in chapter 44. A date with a mechanism attached: collapse the lee, push barrens-air, seal the dome.
 * **Cross-strain rejection.** A lexicon entry beside the sex and the doses. The drama is that her blood is the exception.
-* **The Bodkin and the slate.** The reader has watched a theft: blade unseated, tang in a port, file on the chest screen. The hooks have climbed, hooked a line, and hung at her hips. The internal conduit in the hook is a plate in the bible. The chapters use the beak and the grip.
+* **The bodkin and the slate.** The reader has watched a theft: blade unseated, tang in a port, file on the chest screen. The hooks have climbed, hooked a line, and hung at her hips. The internal conduit in the hook is a plate in the bible. The chapters use the beak and the grip.
 
 ## Open
 

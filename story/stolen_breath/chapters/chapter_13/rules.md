@@ -12,7 +12,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 From this beat:
 
 - Tsune's voice comes up and tells them to go home. Drew hears a second person in the room and does not get a name. She turns the cart around because Tsune asked, and she hates the mile she is walking back. She does not tell Mercer where the road ended. She tells him they lost the signal at the mirrors.
-- The slate, the leads, the Bodkin tang she keeps working even when the woman who uses them is not in the shop. She knows the bare nape. She does not say it on an open relay.
+- The slate, the leads, the bodkin tang she keeps working even when the woman who uses them is not in the shop. She knows the bare nape. She does not say it on an open relay.
 
 ## This pass
 

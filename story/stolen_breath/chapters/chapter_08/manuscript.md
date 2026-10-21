@@ -4,7 +4,7 @@
 
 ***
 
-Her hand gets free because I want the Bodkin more than I want both wrists.
+Her hand gets free because I want the bodkin more than I want both wrists.
 
 I reach for the bun. She turns into the reach. The freed hand slaps past my jaw, misses the eye, and lands on the open back of the collar, fingers spread, hunting a grip in a fight and finding the socket instead.
 

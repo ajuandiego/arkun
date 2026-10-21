@@ -24,7 +24,7 @@ The pop is bright and local. His light dies. The suit's knees lock with a hydrau
 
 "Two, I'm blind. Suit's dead. Two, report."
 
-I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the Bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
+I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
 
 "Two, report," the other one calls. Closer. On the berm, not in the trench. Smarter. "Did you engage?"
 

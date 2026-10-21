@@ -10,7 +10,7 @@ The radar tick is wrong. Not the shortwave. The post's own set, the one that lis
 
 The vent is a crawl, not a room. I go in on my forearms, slate hugged to the ribs, the hook handles knocking once until I pin them with my wrists. Hot metal. Grit in the teeth. My shoulders fit because I make them fit. Behind me he seats the grate. Boots on concrete. His voice, level, talking to nobody yet.
 
-I find the relay junction by the heat of it. The Bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
+I find the relay junction by the heat of it. The bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
 
 Lines fill the glass. A telemetry audit. His post. His fever numbers from the hour he stood six feet off me. And under the packet, the hand that filed it.
 

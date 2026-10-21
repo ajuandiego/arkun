@@ -19,7 +19,7 @@ From this beat:
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
 - One body fact, carried by the pain or the dive. No catalog of hollow bones, chest muscle, and lungs.
-- Height once, if the ledge needs a size. Chapter 2 already gave the wingspan. Leave the weight out.
+- Height once, if the ledge needs a size. The wingspan is his, once, when he opens the wing on the roost. Chapter 2 does not measure the shadow. Leave the weight out.
 - The door already had the smell. The wind on the ledge does not get one.
 - The squad is Cassian, Rook, Toby, and Amari. The sergeant who trained him does not take the name Vance.
 - One reason the wing exists, then the dive. The class words are Raven and Hawk.

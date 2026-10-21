@@ -30,7 +30,7 @@ The mirrors come up black and broken. I hate them. Too many places to put a body
 
 "Good. Don't practice."
 
-I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, nothing to report and nothing I will ever put on a slide. The tang for her Bodkin is in my belt now, wrapped, because I work the tools when the woman is not in the shop. It gives my hands a job. The job is not a confession.
+I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, nothing to report and nothing I will ever put on a slide. The tang for her bodkin is in my belt now, wrapped, because I work the tools when the woman is not in the shop. It gives my hands a job. The job is not a confession.
 
 The post shows itself as a squat concrete block past the last mirror, one mast, no city lights. I can see it. I cannot walk up to it. A watchpost has a door and a gun and a reason. I stop the cart where the road dips.
 

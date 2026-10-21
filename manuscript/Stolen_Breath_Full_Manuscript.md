@@ -49,7 +49,7 @@ Silt ticks on the zinc over Mercer's door and sticks in the cloth I pulled up fo
 
 That is the whole trick of a day out here. He watches. I don't walk into what he watched.
 
-Drew is at the bench in the back, dark hair cut at the jaw, the burn across her left hand smeared with grease she hasn't bothered to clean. A dead keypad sits in the vise. The tang of Tsune's Bodkin is in Drew's fingers, dark metal, smaller than the blade she took off it.
+Drew is at the bench in the back, dark hair cut at the jaw, the burn across her left hand smeared with grease she hasn't bothered to clean. A dead keypad sits in the vise. The tang of Tsune's bodkin is in Drew's fingers, dark metal, smaller than the blade she took off it.
 
 "You're late," Drew says.
 
@@ -59,7 +59,7 @@ Drew is at the bench in the back, dark hair cut at the jaw, the burn across her 
 
 I sit. The breath catches on the way down, a dry scrape I pretend is the stair. Drew hears it. She does not make it a conversation. The cup she puts by my hand is hot. I drink.
 
-Tsune comes in from the lane without a sound I can use. Collar up, charcoal tunic, shoulders bare, the slate dark on the harness and the hooks quiet at her hips. Amber goggles over her eyes. The braid is tight, and the rest of the Bodkin is still seated in it, a steel line through the hair. Silt has stuck to the scales on her shoulder. She brushes them with a glove like they are weather. I have seen what the collar hides. I do not look at the collar.
+Tsune comes in from the lane without a sound I can use. Collar up, charcoal tunic, shoulders bare, the slate dark on the harness and the hooks quiet at her hips. Amber goggles over her eyes. The braid is tight, and the rest of the bodkin is still seated in it, a steel line through the hair. Silt has stuck to the scales on her shoulder. She brushes them with a glove like they are weather. I have seen what the collar hides. I do not look at the collar.
 
 "Roof was clean," she says. "Ren."
 
@@ -103,7 +103,7 @@ I want the door anyway. I want to be the one close enough to pull her off a gant
 
 "Seven point eight," I say. "If I lose the count, you pull."
 
-"If you lose the count, I already pulled." She takes the tang from Drew and seats the blade back onto it with a twist I have watched a hundred times. The Bodkin goes through the braid until the steel sits against her skull. "We go at the silt, while the gate is in love with its own truck. Ren, roof. You call the corner boot and then you call nothing else unless the number changes."
+"If you lose the count, I already pulled." She takes the tang from Drew and seats the blade back onto it with a twist I have watched a hundred times. The bodkin goes through the braid until the steel sits against her skull. "We go at the silt, while the gate is in love with its own truck. Ren, roof. You call the corner boot and then you call nothing else unless the number changes."
 
 "Copy."
 
@@ -131,7 +131,7 @@ It sits on the outer face, well off the south gate, a plain slab with a keypad a
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
-"Copy." I work the Bodkin out of the braid. A twist, and the blade comes off in my glove. The tang under it is dark, cut for a jack Drew measured off a dead keypad. "T.J."
+"Copy." I work the bodkin out of the braid. A twist, and the blade comes off in my glove. The tang under it is dark, cut for a jack Drew measured off a dead keypad. "T.J."
 
 "Here." Young. Close to the mic. He never is anywhere else. "I have the door's wire. You seat it, I get the picture. You hold still and the copy stays in the slate. Silt's thick. No prowler on this face. The gate paint is on their own truck."
 
@@ -175,7 +175,7 @@ I have never heard the name. I know the shape of the rest without a briefing. Th
 
 "I know," T.J. says. "I don't know what this is. It's in the slate with the rest. Tsune, the pass is at the corner. Pull."
 
-I pull the lead, twist the blade back onto the tang, and seat the Bodkin through the braid until the steel sits cold against my skull. The slate stays on the chest strap, face in, tell dark.
+I pull the lead, twist the blade back onto the tang, and seat the bodkin through the braid until the steel sits cold against my skull. The slate stays on the chest strap, face in, tell dark.
 
 The keypad screams.
 
@@ -413,7 +413,7 @@ The pop is bright and local. His light dies. The suit's knees lock with a hydrau
 
 "Two, I'm blind. Suit's dead. Two, report."
 
-I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the Bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
+I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
 
 "Two, report," the other one calls. Closer. On the berm, not in the trench. Smarter. "Did you engage?"
 
@@ -501,7 +501,7 @@ The second time he takes me down, the floor is the one that loses.
 
 We hit brick. Dust in the mouth. A wing slams the wall and the shack complains, a long wooden sound, and then his weight is the whole room. Heat comes off him in a sheet. Ozone. Hot metal. The smell sits in the feathers crushed against my cheek, and my body answers it before I give it permission, a jolt low in the stomach that I file under *insult* and keep moving.
 
-Bodkin is still in the bun. The hooks are in my hands until they are not. He checks one with the shin guard, a hard ugly block, and the beak skids off. The other he takes at the wrist. Fingers like a clamp. He finds the second wrist on the way down and pins both of them over my head in one grip, because he is willing to spend a wing as a brace and I am not willing to let the Bodkin stay a hairpin.
+bodkin is still in the bun. The hooks are in my hands until they are not. He checks one with the shin guard, a hard ugly block, and the beak skids off. The other he takes at the wrist. Fingers like a clamp. He finds the second wrist on the way down and pins both of them over my head in one grip, because he is willing to spend a wing as a brace and I am not willing to let the bodkin stay a hairpin.
 
 I twist. The braid scrapes brick. If I can get the twist of the bun against his forearm, the blade unseats. Two inches. He reads it and shifts the grip higher, onto the meat of the wrists, away from the hair.
 
@@ -535,7 +535,7 @@ I look at the scar so I do not look at the mouth.
 
 "Get off me," I say, "or I find out what your neck does when a knife goes looking for it."
 
-His grip tightens. He does not reach for the bun. I do not get the Bodkin free. We stay there, heat and brick and the slate digging into my ribs, and the fight is not over. It has only run out of easy blood.
+His grip tightens. He does not reach for the bun. I do not get the bodkin free. We stay there, heat and brick and the slate digging into my ribs, and the fight is not over. It has only run out of easy blood.
 
 
 ---
@@ -547,7 +547,7 @@ His grip tightens. He does not reach for the bun. I do not get the Bodkin free. 
 
 ***
 
-Her hand gets free because I want the Bodkin more than I want both wrists.
+Her hand gets free because I want the bodkin more than I want both wrists.
 
 I reach for the bun. She turns into the reach. The freed hand slaps past my jaw, misses the eye, and lands on the open back of the collar, fingers spread, hunting a grip in a fight and finding the socket instead.
 
@@ -743,7 +743,7 @@ The tunic leaves the shoulders bare. Slate scales on the outer shoulder, small, 
 
 My hands tighten on the wheel.
 
-If I reach for her she will use the Bodkin I have not found yet, or her teeth, or the simple fact that I need the palm on my arm more than she needs me alive. I would deserve it. I keep the hands on the wheel. I keep my eyes on the ruts.
+If I reach for her she will use the bodkin I have not found yet, or her teeth, or the simple fact that I need the palm on my arm more than she needs me alive. I would deserve it. I keep the hands on the wheel. I keep my eyes on the ruts.
 
 "You're staring," she says.
 
@@ -863,7 +863,7 @@ The mirrors come up black and broken. I hate them. Too many places to put a body
 
 "Good. Don't practice."
 
-I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, nothing to report and nothing I will ever put on a slide. The tang for her Bodkin is in my belt now, wrapped, because I work the tools when the woman is not in the shop. It gives my hands a job. The job is not a confession.
+I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, nothing to report and nothing I will ever put on a slide. The tang for her bodkin is in my belt now, wrapped, because I work the tools when the woman is not in the shop. It gives my hands a job. The job is not a confession.
 
 The post shows itself as a squat concrete block past the last mirror, one mast, no city lights. I can see it. I cannot walk up to it. A watchpost has a door and a gun and a reason. I stop the cart where the road dips.
 
@@ -1173,7 +1173,7 @@ The radar tick is wrong. Not the shortwave. The post's own set, the one that lis
 
 The vent is a crawl, not a room. I go in on my forearms, slate hugged to the ribs, the hook handles knocking once until I pin them with my wrists. Hot metal. Grit in the teeth. My shoulders fit because I make them fit. Behind me he seats the grate. Boots on concrete. His voice, level, talking to nobody yet.
 
-I find the relay junction by the heat of it. The Bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
+I find the relay junction by the heat of it. The bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
 
 Lines fill the glass. A telemetry audit. His post. His fever numbers from the hour he stood six feet off me. And under the packet, the hand that filed it.
 
@@ -1269,7 +1269,7 @@ He comes up the intake on all the quiet a heavy man can buy. Nose first. I hear 
 
 A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
 
-The Wolf surges. I put the Bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
+The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
 
 I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman Rhino is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
 
@@ -1648,7 +1648,7 @@ Ren's mouth opens. The look I give him closes it. They turn the cart. I watch un
 
 A dog trots the aisle, ribs, yellow eye, interested. I do not speak. I step back into the container and pull the door to a slit. Vram's breath is a rasp. The pack is arranging itself. The lead one is larger, and it has decided the slit is a door.
 
-I put the Bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.
+I put the bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.
 
 
 ---
@@ -1662,7 +1662,7 @@ The lead dog comes through the slit as if the metal were a suggestion.
 
 I have no name for what my body does next.
 
-The rush is a shoulder and teeth. I should be under it. I am beside it, one step that did not take the time a step takes, the container skipping like a bad frame. The dog hits the wall where I was. I am already at its shoulder. The Bodkin goes in behind the blade of the shoulder, deep enough to turn the charge, not a speech, a puncture.
+The rush is a shoulder and teeth. I should be under it. I am beside it, one step that did not take the time a step takes, the container skipping like a bad frame. The dog hits the wall where I was. I am already at its shoulder. The bodkin goes in behind the blade of the shoulder, deep enough to turn the charge, not a speech, a puncture.
 
 It snarls and rounds. I do the thing again because the thing is happening, not because I chose a word for it. Ghost is the wrong word. I am still here. The timing is not. The teeth close on air. I am at the door seam, heart too loud, the move already gone, as if it spent itself and left me the bill.
 
@@ -2066,7 +2066,7 @@ I put my hand on the glass over the drawing. The wing shifts, torn and still min
 
 The disc is heavy glass in my hands. Uncatalogued. The lip of the case reads Ghost Beacon 09-Omega. Gideon gives me a loupe and stands back, which is how a curator shows he will not narrate a grief.
 
-The etch is small. Mathematical shorthand along the margin. My father's hand. I know it the way I know the twist of the Bodkin. He listed things by counts. He did not waste a word. The company listed him lost. No body returned. The disc argues without raising its voice. A transmission from the far water. A hand that was still counting.
+The etch is small. Mathematical shorthand along the margin. My father's hand. I know it the way I know the twist of the bodkin. He listed things by counts. He did not waste a word. The company listed him lost. No body returned. The disc argues without raising its voice. A transmission from the far water. A hand that was still counting.
 
 I do not say he is in the room. He is not in the room. The Cradle is not a place I let my mouth shape. The seed is the shorthand, and the seed is enough to make the floor feel dishonest.
 
@@ -2080,7 +2080,7 @@ Vram is in the doorway, wing low, giving me the privacy of not touching me yet. 
 
 "Then hold the fact," Vram says.
 
-I hold the disc until the cold of it is the same as the cold of the Bodkin at my skull. Listed lost. A hand that kept writing. I wrap the glass and I put it where the schedule skin already sits, two truths that refuse to stay rumors, and I walk back to the lamp before I ask Gideon what the next truth costs.
+I hold the disc until the cold of it is the same as the cold of the bodkin at my skull. Listed lost. A hand that kept writing. I wrap the glass and I put it where the schedule skin already sits, two truths that refuse to stay rumors, and I walk back to the lamp before I ask Gideon what the next truth costs.
 
 
 ---

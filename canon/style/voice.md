@@ -11,6 +11,52 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 4.  **Plain Speech:** A reader without the bible should follow the sentence. Use a glossary name for the thing it names, and a plain word for everything else. Muscle, not transgenic muscle. A strike, not a kinetic strike. Feel the object before you name it.
 5.  **The Page Moves:** Description sits inside talk, a thought, a sound, or a change. Two people in a room do not stay mute while the prose tours the body and the gear. A silent stretch has to be a thought or a sound, not a catalog.
 6.  **Say the Thing:** Do not introduce a fact by denying a wrong idea and then announcing the right one. Cut the denial. Keep the sentence that says what it is.
+7.  **A Paragraph Has a Breath:** Short sentences are allowed. A run of them is not a paragraph. If three sentences in a row each name a piece of the same second, join them or cut the labels. A one-word sentence is something a person says, or a real stop. It is not the narrator grading the picture (`Smart.`). A count (`The first second. The second. The third.`) is the same failure. The lean pass left this pattern through the book. The next prose pass joins those runs. It does not replace them with a lecture.
+
+The dive in Chapter 3 is the example. This is the failure:
+
+> The first second is the stomach. The second is the boots with nothing under them. The third belongs to the wings. I have done this since they threw me off a lower ledge as a boy and told a number to fly. The sergeant had no name I was allowed to keep. The air kept me. It is the same air.
+
+The same fall, with a breath in it:
+
+> I have done this since they threw me off a lower ledge as a boy and told a number to fly. The stomach goes, the boots find nothing, and the wings take the third second. The sergeant had no name I was allowed to keep. The air kept me then, and it is the same air.
+
+---
+
+## 2. The Shelf
+
+This book is for a reader who loves *Fourth Wing*, *A Court of Thorns and Roses*, and *Zodiac Academy*. Take the heat, the talk, and the way a feeling is allowed to last. Leave their magic, their mate marks, and their fate. The tether in this book is heat, nerve, and leverage. The want can be just as consuming.
+
+### Talk, and thoughts said out loud
+A scene with two people in it should sound like two people. They bargain, needle, refuse, and admit things at the wrong time. Banter is welcome once nobody is actively trying to open the other one on a table. In the grapple it is leverage and wrecked honesty, not a meet-cute.
+
+Interior life is spoken, not filed. A direct thought goes in italics, with no quotation marks, the way `format.md` already has it. Tsunari can be mean, funny, and wanting in the same breath. Vram can swear at himself, want her, and hate that he wants her. The thought is a sentence a person would actually say to an empty room.
+
+Hazard and sight lines stay. They are how these two see. They are not a lab report and they are not a briefing. If a paragraph could be pasted into a manual, it is wrong for the page.
+
+### Romance on the page
+When the feeling is the point, stay with the body. Heat, scent, the scar, the mouth, where his hand is, the annoyance that she noticed. Name the want in the thought, plainly, and stay there long enough that the reader feels it. One clause of arousal and a jump to the next plot beat is too thin for this book.
+
+The open door stays where the breakdown puts it. The want starts earlier, so that night reads as a choice they have already been making. No fated mate, no mark, no mystical "mine." Obsession is allowed. Destiny is not.
+
+### A feeling gets a room
+The first silence is the test. The main-branch page did the feeling better, and it also committed the vices this book has already cut. The next prose pass keeps the depth and leaves the vices.
+
+Keep:
+- He had forgotten quiet. They took it when he was seven. The table, the drill, and the lie that the socket was a gift can all be in the room with him.
+- How a squad lives with the noise can be one human sentence each: Cassian drinks, Rook talks, Toby brings ice, and some of them go hollow. That is grief, not a roster.
+- The relief is physical first, then frightening, because he can think.
+- He looks at her and the want is specific. He is ashamed of it. He says something. She answers. The minute is not mute.
+- A memory the noise had been eating can come back. It has to be one the bible already allows: the ward, the number, the sergeant with no kept name. Do not invent a mother to purchase the ache.
+- When her hand leaves, the noise returns, and he already knows he will not give the quiet up.
+
+Leave:
+- Do not name Null-Resonance, the Keystone, or the five strains in his head. The Vault is the naming.
+- No Silver Spine, no second socket, no console readout, no weight, no wingspan, no eye-shape lecture, no class of metal for the feathers.
+- No stack of "there is no blade, there is no poison." Say what her hand does.
+- The science of the quiet is one plain fact: her palm is on the socket and the drill stops. The rest of the page is what that does to him.
+
+The same rule covers the later feeling scenes. The lie, the compact, the culvert, and the Vault night each get a human length. A system fact inside them stays one plain sentence.
 
 ---
 
@@ -26,8 +72,8 @@ The prose of this Sci-Fi Romantasy must exist at the intersection of **visceral,
 ## 4. Dual-POV Voice & Survival Pragmatism
 
 ### Alternating Dual POV Strategy
-*   **Tsunari's Voice (The Analytical Field Survivor):** Internal monologue focuses on biological telemetry, physical hazard assessments, system mechanics, and resource rationing. She doesn't panic; she breaks crises down into solvable biological variables.
-*   **Vram's Voice (The Kinetic Sky-Sentinel):** Internal monologue is crisp, sensory-saturated, and tactical. He tracks lines of sight, structural integrity, thermal signatures, and her micro-movements. His inner world is devoid of military jargon for its own sake—it is the raw, focused perception of a predator keeping his mate and himself alive.
+*   **Tsunari's Voice:** She thinks in hazard, leverage, and what a thing costs. She says it to herself in a human voice: mean, funny, wanting, already measuring the exit. A lab word for a simple thing is still a miss.
+*   **Vram's Voice:** He thinks in sight lines, heat, and her smallest movement. He also talks to himself. When a feeling hits, he stays in it. Short is not the same thing as true.
 *   **The Zero-Ideology Rule:** Neither character wastes narrative space on political pontificating, modern cultural debates, or preachy morality. Their language and thoughts are stripped of dogma: they care about water, air, ammunition, thermal shelter, and keeping each other breathing. Common sense rules every chapter.
 
 ---

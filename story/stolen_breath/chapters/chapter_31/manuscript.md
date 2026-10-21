@@ -22,4 +22,4 @@ Ren's mouth opens. The look I give him closes it. They turn the cart. I watch un
 
 A dog trots the aisle, ribs, yellow eye, interested. I do not speak. I step back into the container and pull the door to a slit. Vram's breath is a rasp. The pack is arranging itself. The lead one is larger, and it has decided the slit is a door.
 
-I put the Bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.
+I put the bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.

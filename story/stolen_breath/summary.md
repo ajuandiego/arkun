@@ -2,6 +2,10 @@
 
 A pass through the current drafts in `chapters/`. Each line is a paragraph or an exchange, so the story can be read before the full pages. The beat list stays in `breakdown.md`. The prose stays in each chapter's `manuscript.md`.
 
+Names: a chapter header is the reader's name. Neither of them uses the other's name until a line below says they heard it or said it. Tsune is the field name. Tsunari is the name behind it. Vram is the given name. Tyage is the surname on a Directorate mouth.
+
+**Next prose pass:** `canon/style/voice.md` section 2. The book should feel like *Fourth Wing*, *A Court of Thorns and Roses*, and *Zodiac Academy* in the talk, the want, and the length of a feeling. The world stays inside what someone has to do. A feeling is not a lab note. Two people in a scene speak, and the interior voice talks like a person.
+
 ---
 
 # Part I: The Amber Shockwave (Chapters 1 to 15)
@@ -10,12 +14,16 @@ A pass through the current drafts in `chapters/`. Each line is a paragraph or an
 
 The long pass is the guard's slow walk from the corner back to the gate, timed at seven minutes and most of another.
 
-- Silt sticks to the zinc over Mercer's door and to the cloth Ren pulled up. Faces under it are bare. The wall closes the street. The south gate is a red cluster they are not treating as their problem yet. A cart argues a price nobody pays. Ren takes the clinic stair two at a time because T.J. told him, before he left, that the other stair had a prowler on it at noon.
-- The day's trick: T.J. watches, and Ren does not walk into what T.J. already saw.
-- Drew is at the bench, burn on her left hand, a dead keypad in the vise, fitting the tang of Tsune's Bodkin.
+**Working change:** The walk to the clinic has to show how a Sector 09 afternoon works, and why a warning from T.J. is a danger, before Ren walks in on Drew and Tsune. Keep it in what he sees and already knows. No lecture. The draft line "a cart argues a price nobody pays" comes out. So does a prowler sitting on a stair. A prowler is a government ground truck. It covers the mouth of a street. It does not stand on the steps.
+
+- Afternoon silt on the zinc. Ren has a cloth up for the grit. Faces under it are bare, because the air in the lee can be breathed and the cloth is only for the hour. The wall is the end of the street, a hundred meters of metal, dome light leaking over the top. People are still buying because the night will freeze and push them indoors. The south gate is a red cluster too far down the wall to be their problem until they decide it is.
+- A mash cart makes the street readable. Mash is the thick green paste people eat when the day has run long, salty, scooped into a bowl, bought because it fills you. The vendor calls a price. A woman answers with what she can pay. He refuses. She walks. The next person buys a bowl at the second number, quieter. The shout is the ask. The sale is the number after it. Ren knows both the way he knows which roof is sound. He does not stop.
+- He does not take the stair T.J. named that morning. T.J. stays under the street and watches the trucks. A prowler is an armored government truck with soldiers in it. When one sits at the mouth of a stair, that stair becomes a question: who came down, and which door they lead back to. The clinic is one of those doors. A light in the wrong stair can become a light in Mercer's front room. Ren takes the clinic stair instead, two at a time, because the other stair's street had a prowler at its mouth at noon, and T.J. told him so before he left.
+- That is the whole trick of a day out here. T.J. watches. Ren does not walk into a street a truck is covering. By the time he reaches the bench, the reader has the wall, the silt, the haggle, and the reason a warning is worth obeying.
+- Drew is at the bench, burn on her left hand, a dead keypad in the vise. Tsune's bodkin is the short knife from her braid. Drew has twisted it apart: the tang, the small metal end that has to fit a keypad, is in her fingers, and the blade is on the rag. She has the piece because she is matching it to the dead keypad. She does not have the knife.
 - Drew says he is late. Ren says he took the cistern alley, delivered a slip for bread and a corner of roof, and refused to sell anyone tomorrow. Drew says he sells today, and tells him to sit.
 - His breath catches. Drew hears it, does not make it a talk, and puts a hot cup by his hand.
-- Tsune comes in quiet: collar, charcoal tunic, bare shoulders, slate, hooks, amber goggles, the Bodkin in the braid. Silt on the scales. Ren has seen the nape and does not look at the collar.
+- Tsune comes in quiet. Ren does not inventory her clothes. He has known her for years, and the nape stays undescribed. He sees that she looks at the piece in Drew's fingers before she looks at him, and that the bodkin in her braid is short the blade on the bench.
 - She says the roof was clean and names him. He answers. She notes that he ran the alley. He says T.J. called the stair dirty and he listened. Her nod is the praise.
 - She tells the room to talk. T.J. is already on the set from under the street: twelve long passes, seven point eight from the corner to the mouth, and the camera looks at the gantry joint, not the keypad.
 - Tsune asks about the wire. T.J. already owns it. A jack in the keypad sends the picture down the door's own wire. He reads it. She holds still, and the copy sits in her slate.
@@ -24,30 +32,30 @@ The long pass is the guard's slow walk from the corner back to the gate, timed a
 - Ren remembers last month's wrong guess, Mercer in the dark with a hand on a boy's mouth. Mercer is in the front, boiling something, and does not know about the door.
 - Ren offers to stand at the keypad. Tsune puts him on the roof that sees the corner. A second body on the gantry would paint the clinic.
 - Drew stays at the bench. T.J. is not coming up, and he confirms it.
-- Ren wants the door anyway. He puts the want down and repeats the count: if he loses it, she pulls. She says if he loses it, she has already pulled. She seats the blade back on the tang. They go at the silt, while the gate watches its own truck. He calls the corner boot and nothing else unless the number changes.
+- Ren wants the door anyway. He puts the want down and repeats the count: if he loses it, she pulls. She says if he loses it, she has already pulled. She takes the tang, draws the short grip out of her braid, seats the blade back on, and puts the bodkin through her hair again. They go at the silt, while the gate watches its own truck. He calls the corner boot and nothing else unless the number changes.
 - Mercer coughs in the front. Tsune kills the lamp. Drew hides the dead keypad. The lane goes on buying the last of the day.
-- Ren takes the roofs. From the third roof he can see the corner, the long empty walk, and the plain service door with no guard on it.
+- Ren takes the roofs. The prowler is a truck on the gate road, T.J.'s watch, not a mystery. From the third roof he can see the corner, the long empty walk, and the plain service door with no guard on it.
 - She comes along the gantry small, and does not look at his roof. He has the set at his mouth and the number in his teeth. The boots have not hit the corner yet. When they do, he will tell her.
 
 ## Chapter 2 // Tsunari
 
 The service door is a keypad off the south gate, on the wall's own wire. The wire stays open while the jack is seated.
 
-- The door smells of hot copper and wet rust. It sits off the watched south gate. Below, Sector 09 ticks. The main gate is lights, a truck, and guns.
-- Ren reports the last boot of the long pass, seven point eight, himself on the roof, Drew at the bench. Tsunari takes the blade off the Bodkin. The tang under it was cut for a jack Drew measured off a dead keypad.
+- The door is a plain slab off the watched south gate, keypad at her chest, the wall cold on her shoulder. Below, the same mash cart is still selling: a shouted price, a bowl at the quieter one. The main gate is lights, a truck, and guns. She does not open on a smell.
+- Ren reports the last boot of the long pass, seven point eight, himself on the roof, Drew at the bench. Tsunari takes the blade off the bodkin. The tang under it was cut for a jack Drew measured off a dead keypad.
 - T.J. has the door's wire. She seats the jack, holds still, and the copy stays in the slate. No prowler on this face. The gate's attention is on its own truck.
 - She clears silt, seats the tang, and clips the slate. Blue tell. No broadcast. The session rides the door's wire into the tap he already owns.
 - T.J. has doors, cameras, and the pass list. He tells her not to pull. The south stair changes in six minutes. This door is not on their board. The camera looks at the gantry joint.
-- A living staff line is in the pull: Culture Lab 4, a Thorne, junior synthetics. He starts the name with S. She says stop. The rolls listed her sister incinerated. She will not put the rest of the name on the set.
+- A living staff line is in the pull: Culture Lab 4, a Thorne, junior synthetics. He starts the name with S. She says stop. The rest finishes in her head, not on the set: Sora. The death rolls listed her as dead. Burned. She would be twenty. It can't be. The memory opens on the workshop lamp too close to her face, her tongue between her teeth, threading stripped copper through Tsunari's braid, proud of the blood on her thumb. It does not announce her age. Tsunari knows the thumb. She does not know the face. Then she tells him not to put the rest on the set.
 - He says the name is in the slate and she can pull. Then he stops her. A second message has sat down on the session. The door does not use that header.
-- He reads it: Lazarus Key. The lee over Sector 09 fails in fourteen months. Barrens-air over the Ring. Evacuation zero. The dome sealed. A line under it has no edge and will not open.
-- She has never heard the name. She knows what the rest means for the Ring. He repeats it: fourteen months, then nobody on this side of the wall is on a list.
+- He reads it like a memo he is spelling. Header: Lazarus Key. Sector 09. Lee fail. Fourteen months. Barrens-air push over the Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp: redacted. Clearance insufficient. No edge. It will not open.
+- She has never heard the name. She does not define the lee. She sees the stair she climbed this morning, Mercer, and Ren's catch, and the lane stopping being a place people live. He repeats it: fourteen months, then nobody on this side of the wall is on a list.
 - Ren says they came for doors. T.J. does not know what the second message is. It is in the slate. The pass is at the corner. She must pull.
-- She unplugs, seats the Bodkin back in the braid, and the keypad screams. T.J. gives her twenty-five seconds before the signal has a place. It is not on her yet.
+- She unplugs, seats the bodkin back in the braid, and the keypad screams. T.J. gives her twenty-five seconds before the signal has a place. It is not on her yet.
 - Ren offers to meet her at the stair. She refuses. She drops to the lower flange, takes the landing in the knees, and runs.
 - Searchlights stay on the main gate. Shutters slam. A woman pulls a child and neither looks up. The header and the unfinished name knock against her ribs with the slate.
 - T.J. says the light is still on their own door, and that lasts about as long as the log. The prowler is on the gate road and has not committed. He has the bearing if it turns.
-- Ren is two roofs off the clinic stair. A shadow crosses the searchlights: fourteen feet of black wing, falling, heat coming off the dive.
+- Ren is two roofs off the clinic stair. A shadow crosses the searchlights. She tries to sort it: a hawk is the narrow patrol that stays in a lane, a raven is the heavy drop they send to open someone. The shadow will not settle into either. No measurement. A whistle with a body in it, heat before the shape clears the lamp, and her hand is already on the hook. The fear is what sends the order.
 - She tells Ren to get to Drew and kill the set. He starts to argue. She cuts the link. The wing keeps coming. She runs the gantry south.
 
 ## Chapter 3 // Vram
@@ -64,7 +72,7 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 - Amari, blonde Hawk, says the south face is dirty off the crawler well and will dump him if he takes it lazy. If he waits for a clean lane, whatever they are ringing the siren for will already be in the mirrors.
 - The siren hits. The socket snaps him to a knee. The order: breach, south wall, a jack in a service door, intercept, retrieve, open the intruder.
 - He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the gantry lights and do not drop into the street for a ghost. He reads the playback as a light frame, long stride, a clean tap, already making for the mirrors. Unregistered. That is why they want her opened.
-- Amari tells him to beat the south face, not glide it. He opens black vanes. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
+- Amari tells him to beat the south face, not glide it. He opens the wings. Fourteen feet, black vanes, the one time the book measures the span, because it is his body and he knows it. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
 - The memory of the first throw, a sergeant with no name he was allowed to keep, sits under the drop. The air kept him then. It is the same air.
 - The crawler is a pale block in its own lamps. A heat smear runs the gantry south. He does not give her time to reach the mirrors. He beats, and the road comes up.
 
@@ -94,7 +102,7 @@ If you answer on an open set, you paint the house you are protecting.
 - A big low shadow crosses the glass. She does not look up long enough to give it a size. Staying under the mirrors is the plan.
 - A speaker calls a runner in the grid and calls for nets. Two heavy ground suits bound the dunes. They want the slate and the body still shutting.
 - She drops into a trench, jams a thumb capacitor into a split servo, and runs a filament at shin height.
-- The first suit takes the filament. His light dies, his knees lock, and he goes down swearing. She leaps onto his housing, snaps the valve behind the helmet with the Bodkin's pommel, and is off him. He will live. He will not chase.
+- The first suit takes the filament. His light dies, his knees lock, and he goes down swearing. She leaps onto his housing, snaps the valve behind the helmet with the bodkin's pommel, and is off him. He will live. He will not chase.
 - The second is smarter, on the berm. His rifle whines up. She slides under the shot. The bowl behind her explodes into black splinters. She tears the net-gun feed and folds his leg with a knee. She does not stay to tie him.
 - The shadow passes again, lower. She goes deeper into the thickest glass, where a straight dive becomes a mistake.
 - She does not turn the earpiece on. Drew would be packing. Ren would be lying about how close he is. T.J. would give a bearing and stay down. An answer makes all three a target.
@@ -104,6 +112,7 @@ If you answer on an open set, you paint the house you are protecting.
 
 Recover the runner. The file is worth more than the body.
 
+- He does not have her name. She does not have his. To him she is the runner. To her he is the wing on the dive.
 - From above, her heat is wrong: a cool smear against glass that is still holding the day. No collar ping. No beacon. His socket offers a tag and eats it, because there is nothing in her nape to bite.
 - The order is the packet, then open the intruder. The body is how the file walks.
 - The two suits are already down. She did not stay to finish them. She went where a dive has to choose a gap or eat glass.
@@ -121,7 +130,7 @@ Recover the runner. The file is worth more than the body.
 They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing.
 
 - The second takedown breaks the floor. Heat, ozone, and hot metal come off him. Her stomach answers before she gives it permission. She files the jolt as an insult and keeps moving.
-- He checks one hook on the shin guard and pins both wrists over her head. She tries to unseat the Bodkin from the braid against his forearm. He shifts the grip off the hair.
+- He checks one hook on the shin guard and pins both wrists over her head. She tries to unseat the bodkin from the braid against his forearm. He shifts the grip off the hair.
 - He says stop. She says he first. She counts the door, the hip under his knee, and the knife. She does not count his mouth again.
 - He is burning through the plate. Her skin pulls heat and does not fix him. Whatever is wrong with him is not a fever she was taught to cure.
 - He offers the walk if she gives up the slate. She says he was told to open her. His eyes change. An order he is ashamed of is a crack.
@@ -134,7 +143,9 @@ They took our children with promises of wings. They gave them iron in their neck
 
 If the noise in your skull stops, you report it. A quiet soldier is a broken soldier.
 
-- Her hand gets free because he reaches for the Bodkin. She turns into the reach. Her palm lands on the socket and covers the iris and the tab.
+**Working change:** This is the feeling the lean pass thinned too far. The main-branch page stayed inside the quiet long enough: he had forgotten it, they took it at seven, the socket was sold to him as a gift, the squad each survives the noise in a human way, the relief unlocks his body, the want is specific and shameful, he speaks, and when her hand leaves he already knows he will not give the quiet up. Restore that depth in plain words. Do not restore the header that names the power, the Silver Spine, the console, the wingspan, the weight, the eye-shape lecture, or an invented mother. Her palm is on the socket and the drill stops. The rest of the page is what that does to a man who has not had a quiet head in ten years. They talk. He does not know her name yet.
+
+- Her hand gets free because he reaches for the bodkin. She turns into the reach. Her palm lands on the socket and covers the iris and the tab.
 - The mesh stops. Ten years of drill, stitch, and order go out. He hits his knees. He locks her other wrist, knuckles white, because if the hand leaves, the noise comes back. He does not know why.
 - She stares at her own hand. The cool of her skin is not this. The noise is simply gone, and she has no name for it. She starts "if it cannot" and does not finish.
 - He is close enough to catch wild sage at her throat. His body answers. He is hard, and the shame is immediate. She is an insurgent with a stolen file. The body does not take the correction.
@@ -179,7 +190,7 @@ Redoubt Station 14 is a concrete watchpost on the south edge of the ring. Shortw
 - When the road clears the graveyard, he takes the driver's seat. He kills the courier's beacon, points the prowler at a post the city does not listen to, and puts the courier out to walk back toward the lamps. A commander can relieve a man. The lie that he stole a prisoner can wait.
 - She is in the cabin because the back bench put her hand at the wrong angle. Her palm is on his forearm, under the window line. The quiet holds.
 - The lee thins as they go south. Past the lee is the Choke, and they are not going that far. Seven miles from the mast, the concrete box is a delay he can call an order. If he takes her into the city, they open her on a table and open him for not calling the shack.
-- He looks at the slate scales on her bare shoulder once. She sees him see them. His pulse kicks. His hands tighten on the wheel. If he reaches for her, she will use the Bodkin he has not found, or her teeth, or the fact that he needs the palm more than she needs him alive.
+- He looks at the slate scales on her bare shoulder once. She sees him see them. His pulse kicks. His hands tighten on the wheel. If he reaches for her, she will use the bodkin he has not found, or her teeth, or the fact that he needs the palm more than she needs him alive.
 - She tells him he is staring, and to make it the only once. He names the scales. She says they are none of his report, and asks where they are going.
 - A watchpost. Concrete. No line to the Spire. If he does it right, the city thinks the runner is still in the mirrors. If he does it wrong, he has driven her to a box with one door and he is the man in it with her. She can hate that after they are inside.
 - He kills the lamps before the last rise. When the wheels stop, he makes himself move first. The fever climbs the moment her skin leaves his. He tells her to walk. He will not carry her where a scope can write it down.
@@ -190,8 +201,8 @@ Shortwave can cross a few miles of bad air and cannot reach the dome. Anyone wit
 
 - The post is one concrete room, an unlit stove, and an old shortwave. The Spire cannot hear it. Anyone with another set can. He chose that.
 - She counts exits while he locks the prowler out: door, a slit window, a roof hatch bolted on this side, a poker, a coil of wire. The cuffs are off. He turns his back to hang the harness. She looks at the hatch bolts instead. A back is not an exit.
-- The set clicks. Drew is at the last mirror with Ren. T.J. gave the bearing and is staying down. Ren says they are not going back until they see the prowler.
-- Vram hears the name Drew and does not move for the set. Tsunari crosses the room and tells them to turn around. The bearing was a direction, not an invitation. Tell T.J. the watch is done and he keeps the hole.
+- The set clicks. Drew's first word is "Tsune." He is in the room and he hears it. That is the field name, and it is the first name he has for her. Ren is with Drew at the last mirror. T.J. gave the bearing and is staying down. Ren says they are not going back until they see the prowler.
+- He also hears Drew's name. He does not move for the set, and he does not repeat Tsune. She crosses the room and tells them to turn around. The bearing was a direction, not an invitation. Tell T.J. the watch is done and he keeps the hole. She knows he heard Tsune. She does not give him Tsunari.
 - Drew asks if she is hurt, then says there is someone in the room. Tsunari gives no name and no place. If they keep walking south they paint every door they slept near.
 - She cuts Ren off with the field voice. Face the gate. If she hears the set again tonight, she will assume they want a patrol to learn their names. Drew confirms. They are turning around. Mercer will ask. Tsunari tells her to say they lost the signal at the mirrors, and pulls the relay.
 - Vram repeats the name Drew. She says it is a person he does not have. He heard a name. He did not hear a clinic or a hole. If he repeats the name on any channel, the next thing she touches will not be his wrist.
@@ -221,12 +232,13 @@ The moment a commander values one life over the order, retire him. Retire the wi
 
 - Six feet from her, the field monitor climbs through one hundred and six. The leash starts to punish the quiet he has been hiding. He says touch. She puts her palm on his wrist. The number falls to something he can stand in.
 - She says he measured it. He says he did it so he would stop pretending it was the road.
-- The command channel lights. Director Elena Corvus asks for the runner. Tsunari's hand stays. She does not breathe loud. He says the packet is not in the mirrors, which is true, because he has not opened the harness.
+- The command channel lights. Director Elena Corvus asks for the runner. She says "Commander," and no surname. Her hand stays. He still has only Tsune, and he does not use it on the beam. She does not breathe loud. He says the packet is not in the mirrors, which is true, because he has not opened the harness.
 - Corvus did not ask about the packet. If he cannot show a body that can be opened, he executes and confirms. A live thief with a Spire record is a conversation she will not have on a south-road beam.
 - The doctrine is in the room: value one life over the order, and the wing is retired with him. Cassian, Toby, Rook, and Amari are that wing. Six feet away, without her hand, he is already at a hundred and eight. With her hand he can think.
 - He says the runner is dead. The first lie of his life, level. Lost in the sand. No recovery. He is holding Redoubt Station 14 until the weather clears. The south road is closed.
 - Corvus repeats "weather." She tells him to hold the post and send the packet when the beam is clean. If she learns he kept a live one for a reason of his own, she will retire the wing to make the lesson short.
-- The channel drops. Tsunari takes her palm away, watches the number climb, and puts it back before the bad place. She says he lied. He says yes. She says they will kill his wing if Corvus checks. He agrees.
+- The channel drops. She takes her palm away, watches the number climb, and puts it back before the bad place. She says he lied. He says yes. She says they will kill his wing if Corvus checks. He agrees.
+- Then she says the name the log does not have. Tsunari. Tsune is what the street calls her. He answers with Vram. He does not give her Tyage. From this hour, each of them has the other's given name, and neither of them had it before this room.
 - She tells him not to give Corvus a reason to walk down here, and not to tell himself he did it for her. He did it because the noise stops when she touches him. She can use that. She will not thank him.
 - He sits so the six feet become two. He does not call the wing. He does not take his wrist out from under her hand.
 
@@ -275,7 +287,7 @@ You had a name. You will answer to the number.
 - The memory: a Sector 09 orphan ward, a number on the beam, a blanket taken, then the name. A sergeant with no kept name. Subject AE-701. He was seven. He does not give her the number. A number is a handle.
 - He says they drafted out of the Ring, orphan wards, fast hands, and told them the wing was a gift. She says he believed them. He says he was seven. Believing was not required after the first year. Standing was. His knuckles pale once, and he loosens them.
 - Two steps would put his mouth at her temple. If he crosses the step she will read it as a grab, and she will be half right. He does not cross.
-- She says AE-701 quietly, as if she pulled it off his face, and asks if he still hears it. She will not use it. He hears it. He also hears the order he already broke. He keeps the step between them.
+- She already has Vram from the night of the lie. She does not use it. She says AE-701 quietly, as if she pulled it off his face, and asks if he still hears it. She will not use the number. He hears it. He also hears the order he already broke. He keeps the step between them.
 
 ## Chapter 18 // Tsunari
 
@@ -305,7 +317,7 @@ A retrieval is collared soldiers sent when the Spire wants a body and will not c
 
 - The harvester stays on the horizon. A government prowler lands. Three step out. Sockets, ordinary. No black veins. Two of them have no wings.
 - The Wolf's nose is already working. Behind him, two Rhinos. One is a woman, looking at the vault grate like a door she means to own. The other puts himself at the hinge. She will charge. He will wedge.
-- The Wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The Wolf says they are not here for the weather. There is a second body in the ducts: fear, copper, and a woman.
+- The Wolf calls an audit and a search, and he says the name out loud: Commander Tyage. She is in the vent and she hears the surname. She already has Vram. She does not call either name back. Vram says the runner is dead and he reported the weather. The Wolf says they are not here for the weather. There is a second body in the ducts: fear, copper, and a woman.
 - The leash climbs because her wrist is empty and she is in the shaft. Vram keeps his hands open, the wing half-spread. He says a nose does not gut his post.
 - The woman says they have a retrieval, for the telemetry and for whatever made his numbers lie. Step off the grate, or she stops asking.
 - He does not step off. The Wolf goes into the shaft. Vram is still trying to talk, because the moment he draws their blood he is deserted, and the wing he left can be turned up until it cooks. He says stand down. The Wolf does not. He has the scent.
@@ -316,7 +328,7 @@ Plate is the hide on a Rhino's neck, shoulders, and back. A knife skips off it. 
 
 - The Wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear, not the socket. He slams her into the metal anyway and shouts that she is here.
 - The woman Rhino charges the grate. The horn sticks in the frame. The other Rhino wedges the hinge. She cannot get her shoulders through.
-- The Wolf's collar hide takes the Bodkin. Tsunari drops under him and goes for the angle the wedge did not close. The hook skips off the woman's plate. She rakes the gap at the collarbone, shallow. The woman chooses her hands. The wedge slips. Tsunari is past her hip and into the mechanical room.
+- The Wolf's collar hide takes the bodkin. Tsunari drops under him and goes for the angle the wedge did not close. The hook skips off the woman's plate. She rakes the gap at the collarbone, shallow. The woman chooses her hands. The wedge slips. Tsunari is past her hip and into the mechanical room.
 - No stutter. No quiet sent on purpose. She is fast in a tube and small where they are wide. The blood she just drew on a government soldier has already ended the wing upstairs.
 
 ## Chapter 22 // Vram
@@ -395,7 +407,7 @@ Water will not stop the burn. The clothes have to come off, and the skin has to 
 - The chemical keeps eating after they are out of it. She strips the cloth. He does the same. Shame can wait.
 - She scrapes the scorched down off the wing root. The root answers. His knuckles go white once. He turns, crowding her to the wall, and tells her to say stop, or don't.
 - She says the burn is off, and the rest he has to ask. He asks. She nods.
-- He goes to his knees. Mouth, then fingers, unhurried. The wing curves in as a wall against the dark. She comes apart against his mouth. He stays until the shake leaves her legs.
+- He goes to his knees. Mouth, then fingers, unhurried. The wing curves in as a wall against the dark. She comes apart against his mouth with his name in her teeth. The name is Vram, the one he gave her at the post. He stays until the shake leaves her legs.
 - He pulls back before the rest. If he keeps going he will burn her. The heat does not know the difference between a wing and a body. He does.
 - She says then they stop, and tells him to remember that he stopped. The want is already in the ache. She does not give it a softer name.
 
@@ -439,12 +451,12 @@ A pack is feral dogs. They are not soldiers, and they do not answer a voice. Run
 - She drags him by the harness into a container that still has a door. The fever is past talking. She hears paws, not boots. If she runs, the dogs commit. If she talks to them like a tool, she is food with opinions.
 - Drew's cart and Ren are on the rim. She meets them before he can climb and puts the schedule skin, the fourteen months, in Drew's hand.
 - Back. The mirror lie for Mercer. T.J. keeps the hole. Drew says Tsunari is bleeding. Tsunari says she is standing, and he is not their problem to see. Ren's mouth opens. Her look closes it. They turn the cart. The lie will keep the clinic.
-- A dog trots the aisle. She does not speak. She pulls the door to a slit. The lead dog decides the slit is a door. She puts the Bodkin in her hand and waits. Running is a mistake. Calling is the other mistake.
+- A dog trots the aisle. She does not speak. She pulls the door to a slit. The lead dog decides the slit is a door. She puts the bodkin in her hand and waits. Running is a mistake. Calling is the other mistake.
 
 ## Chapter 32 // Tsunari
 
 - The lead dog comes through the slit. She has no name for what her body does next.
-- She should be under the rush. She is beside it, one step that did not take the time a step takes. The dog hits the wall where she was. The Bodkin goes in behind the shoulder, deep enough to turn the charge.
+- She should be under the rush. She is beside it, one step that did not take the time a step takes. The dog hits the wall where she was. The bodkin goes in behind the shoulder, deep enough to turn the charge.
 - She does it again because it is happening, not because she chose a word. Ghost is the wrong word. She is still here. The timing is not. The teeth close on air. The move spends itself and leaves her the bill.
 - She tells Vram to stay down. He is trying to rise, and the wing will not let him. The dog is not dead. She cannot click the pack away. She does not know how long the glitch lasts.
 - The lead dog gathers. His eyes open under the fever. The container is about to be too small for a wing, a pack, and a woman who just stepped out of a second she did not have.

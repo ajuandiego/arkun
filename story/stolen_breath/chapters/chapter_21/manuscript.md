@@ -12,7 +12,7 @@ He comes up the intake on all the quiet a heavy man can buy. Nose first. I hear 
 
 A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
 
-The Wolf surges. I put the Bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
+The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
 
 I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman Rhino is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
 
