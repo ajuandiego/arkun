@@ -59,7 +59,7 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 * `reviews/`: editorial reviews, `ledger.csv`, and `NNN_apply.md` checklists.
 * `kdp/`: Kindle metadata (description, keywords, categories, biography, back-cover copy). Do not spoil the ending, the brand, or the abduction in store copy.
 * `reader/`: local reader and build scripts (`build-epub.js`, `build-pdf.js`, `build-editorial-manuscript.js`). EPUB source under `reader/books/book1/epub_source/` is generated from the manuscript.
-* `.cursor/rules/`: editorial passes. Load the matching rule when reviewing or applying a review.
+* `.cursor/rules/`: drafting and editorial passes. Load `draft-prose.mdc` when drafting or rewriting. Load the matching editorial rule when reviewing or applying a review.
 
 Book 1 shape in `story/stolen_breath/breakdown.md`:
 
@@ -72,7 +72,7 @@ A later ring dumped into an early part is a spoiler.
 
 ## 5. Agent Operating Rules
 
-When drafting or editing:
+When drafting or rewriting prose, follow `.cursor/rules/draft-prose.mdc`. These checks still hold:
 
 1. **Context check.** Before prose, read the POV character sheet, `canon/romance/romance_engine.md` if the scene touches the bond, the chapter's job in `story/stolen_breath/breakdown.md`, the chapter folder in `story/stolen_breath/chapters/`, and the location entry in `canon/places/locations_and_sensory.md`.
 2. **Continuity first.** Match established lore, travel time, injuries, objects, names, and who already knows what. Fever follows the last skin contact unless the page gives a new cause. Fixed ages unless a canon file says otherwise: Year 40 AS is 2072 CE; Tsunari is 26; Vram is 28; both are Storm-Born.

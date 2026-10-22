@@ -1,0 +1,59 @@
+---
+description: >-
+  Draft or rewrite Stolen Breath prose. Use when the user asks to draft, write,
+  rewrite, or line-edit a chapter, interlude, or scene. Read the style files
+  and the chapter beat before any sentence. Not a review, and not an apply.
+alwaysApply: false
+---
+
+# Draft and rewrite
+
+Use this when the user wants new prose or a rewrite. A review follows `.cursor/rules/editorial-review.mdc` and does not change the manuscript. Applying a numbered review follows `.cursor/rules/editorial-apply.mdc`. If they have not named the chapter, ask.
+
+Write into `story/stolen_breath/chapters/<chapter>/manuscript.md` only. Leave `manuscript/`, `reader/`, and `story/stolen_breath/versions/` alone unless they ask.
+
+## Read first
+
+Read these before a sentence. Do not draft from memory of an earlier chat. Canon wins when a fact disagrees. The beat in `story/stolen_breath/breakdown.md` is the job. The chapter's `rules.md` is the cut for this pass.
+
+1. That chapter's beat in `story/stolen_breath/breakdown.md`, including the ring at the top of the file.
+2. The chapter folder: `rules.md`, the existing `manuscript.md`, then `summary.md` if it is there.
+3. The previous chapter's last page, so the handoff matches. Chapter 1 has no previous page.
+4. The POV file named in the beat. `canon/characters/README.md` when someone else speaks.
+5. Style, every time: `canon/style/voice.md`, `canon/style/sensory.md`, `canon/style/format.md`, `canon/style/glossary.md`. The index is `canon/style/README.md`.
+6. `canon/places/locations_and_sensory.md` when a listed place is on the page.
+7. `canon/romance/romance_engine.md` when they touch, when fever is on the page, or when the beat is a romance phase.
+8. On a rewrite, `analysis/book1/repetition.md`, so a cut does not trade one watchlist word for another.
+
+Do not copy a bible paragraph onto the page. Show the body. If a sentence needs a fact no file decides, ask and leave that sentence unwritten.
+
+## How to write
+
+- Present tense. First person. One POV, the one the beat names. Header: `# Chapter N // Name`. A lexicon blockquote only when the beat already has one. A chapter off the present year opens under the header, before the lexicon, with one line of how many years before or after the present, as in `canon/style/format.md`. Tsune is the field name. Tsunie is Vram's private diminutive only.
+- One beat at a time. If they asked for the chapter, still write it beat by beat in the file. Do not dump an outline as finished prose.
+- A rewrite covers the span they named. Do not polish the paragraphs around it. A full-chapter rewrite keeps the same job, the same handoff, and the same secrets.
+- Target a chapter at 1,600 to 2,200 words when they ask for a full chapter. Do not pad to get there.
+- Two people in a scene speak. Description sits inside talk, a thought, a sound, or a change. A quiet stretch is a thought or a sound.
+- Emotion lands as heat, claw, breath, and scent. Do not label the feeling.
+- Tsunari stays dangerous. Even pinned, she is measuring leverage. Once Vram breaks conditioning, he does not go lukewarm. Neither of them lectures. World explanation sits inside survival or intimacy.
+- Speak the glossary name. Do not coin a second word. Use a plain word for a plain thing: muscle, not transgenic muscle. A strike, not a kinetic strike.
+- Say the thing. Do not open with a denial and then the real sentence.
+- No em dash, en dash, or double hyphen used as a dash.
+- Stay inside that part's ring. Do not finish the aerosol cure, the Spire rescue, Jeffrey Thorne's survival as a finished reveal, or the road to the Verdant Cradle.
+
+## On the page
+
+Follow `canon/style/format.md` for marks.
+
+Thoughts are italics, with no quotation marks. Speech, including remembered speech, is double quotes in roman.
+
+```text
+Bad: "Not me," I think.
+Good: *Not me,* I think, cloth already up over my mouth.
+```
+
+No standalone all-caps sound on its own line. Put the sound in the sentence. A short mechanical cue can sit in lowercase italics inside the line (*a muted click*). Console and HUD text stay lowercase. Multi-line readouts use a fenced `console` block.
+
+A run of one-label sentences is not a paragraph. `canon/style/voice.md` shows the fix on the Chapter 3 dive: join the seconds into one breath.
+
+After the draft, name the beat that landed and any fact you left unwritten because canon does not decide it. Do not start a review unless they ask.

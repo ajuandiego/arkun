@@ -4,7 +4,7 @@
 > **Series:** The Arkun Cycle (Book 1 of 3)  
 > **Target Length:** ~80,000 – 85,000 Words (~320 Printed Pages) | **Target Chapter Length:** 1,600 – 2,200 Words  
 > **Structure:** 53 chapters, plus 5 interludes | 4 Parts | **Format:** Alternating **Tsunari** and **Vram**, with other speakers where the part files place them (Ren, a Karyon ambassador, Jeffrey, Drew, Cassian, Sora, Corvus, Caelia)  
-> **Chapter Header Architecture:** A chapter opens with a plain lexicon, or with a voice that is not in the room, only when the scene that follows needs it. Some chapters open on the scene.
+> **Chapter Header Architecture:** A chapter opens with a plain lexicon, or with a voice that is not in the room, only when the scene that follows needs it. Some chapters open on the scene. A chapter that leaves the present year opens, under the header and before the lexicon, with a plain line of how many years before or after the present. The present is Year 40 AS.
 > **Core Romance Arc:** Biological Resentment $\rightarrow$ Sensory Addiction $\rightarrow$ Primal Survival Consummation $\rightarrow$ Sovereign Devotion (*Fourth Wing* Level Heat: 🌶️🌶️🌶️🌶️ Open Door, Multi-Sensory, Explicit)  
 > **Settings:** The south gate and the photovoltaic graveyard, Redoubt Station 14 on the south edge of the ring, one freight yard past the Dead Perimeter, the south sumps, and The Glass Vault. Distances are in `canon/world/geography.md`.
 
@@ -65,12 +65,16 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
         *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent **Karyon Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
 
 *   **Chapter 4 // The Offer**
+    *   *Time:* Forty years before the present. Year 0. Before the domes. The end of the old sky. The manuscript opens with that line.
     *   *Voice:*
         > *Item one: air that stays air. Item two: a roof. Item three: the shooting stops. The price is not on the copy they were given.*
-    *   *POV:* A Karyon ambassador, first person, present. Before the domes exist. The year is the end of the old sky.
-    *   *Setting:* A board table in a city that still has streets. The humans breathe the room. He does not. He sits inside a sealed sleeve of his own blend, and the glass of it fogs when he speaks. No strain. No plate. No weapon on the table. The mind is the tool, as in `canon/world/factions/karyon.md`.
-    *   *What he sells:* Oxygen that stays oxygen. Shelter from a sky that is already turning. An end to the shooting. Longevity for the ministers who sign. He is patient, and he lets them feel clever for asking the price.
-    *   *What the reader hears and he does not say:* The open country is the thing being spent. The permission under the signature is the soldier program, not the air. The relief he is offering is a pressure his own machines are going to make worse. He enjoys the shape of the omission. He does not name the clock, the five facets, or the Cradle. The foul play is the sentence he leaves out.
+    *   *POV:* A Karyon ambassador, first person, present. The mind is the tool, as in `canon/world/factions/karyon.md`.
+    *   *Setting:* A board table in a city that still has streets. He sits inside a sealed sleeve of his own blend, and the glass of it fogs when he speaks. No strain. No plate. No weapon on the table.
+    *   *What he sells, aloud:* Oxygen that stays oxygen. Shelter from a sky that is already turning. An end to the shooting. Longer life for the ministers who sign, and he does not say the years stop when the payments stop.
+    *   *What he asks, aloud:* A mutation program. Soldiers made from their people, for the work a fueled gun is about to fail at. He does not name the five facets.
+    *   *The pushback:* The general says the mutants can take the table, the port, and the capital.
+    *   *The leash, aloud:* He offers it as the answer. One socket where the head meets the spine. A signal. Hesitation hurts. Refusal hurts until the order is finished. The soldier can still move. He cannot keep a rebellion. The leash is only for the ones they change. The wire stays Karyon. The hardware is in `canon/world/life/leash.md`. He does not say the socket cooks a man who wears it for decades, and he does not say who holds the kill.
+    *   *What he still does not say:* The open country is the thing being spent. His machines will thicken the brass. He does not name the clock or the Cradle. The foul play is the sentence he leaves out.
     *   *What he thinks of them:* Tired, proud, and already bargaining for which of their cities gets the first glass. He does not hate them. He does not need to.
 
 *   **Chapter 5 // Tsunari**
@@ -108,7 +112,8 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 *   **Chapter 9 // Jeffrey**
     *   *Voice:*
         > *Write down the cough. Write down nothing else.*
-    *   *POV:* Dr. Jeffrey Thorne, first person, present. Nine years earlier. His file is `canon/characters/jeffrey.md`. She is seventeen. Sora is ten.
+    *   *Time:* Nine years before the present. The manuscript opens with that line.
+    *   *POV:* Dr. Jeffrey Thorne, first person, present. His file is `canon/characters/jeffrey.md`. She is seventeen. Sora is ten.
     *   *The room:* The lab under the workshop, the night the raid is already in the street. Five dishes on the bench. He counts them. He names one. Tsunari is coughing the haze into her sleeve. Sora is asleep behind the inner door, and he will not open that door for this.
     *   *The fight:* A dish can be taken. A page can be read. The illness will not wait for a willing stranger. He can tell himself the culture is the mercy that keeps his daughter breathing. He also knows he is using her as the only place the rest of the finding can live. He does the work hating the reason, and he does not stop. What he hides has no name on this page. The reader does not learn the nature of the change.
     *   *What he gives her:* The Raptor, because she will have to live in the body and hide it. The culture, because that one he can call medicine. The bench sentence, until she can say it cold. Mercer will finish the education. Mercer will not get the notes.

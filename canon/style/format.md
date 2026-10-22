@@ -27,3 +27,10 @@ To maintain literary immersion and consistent cross-format presentation (Amazon 
 *   **Authentic Lowercase Terminal Syntax:** All console readouts, HUD data, and system outputs in the markdown source files must be written in **lowercase** (or standard sentence-case), never screaming all-caps.
 *   **Monospace Code Blocks:** Multi-line system readouts, decryption feeds, and incoming neural telemetry broadcasts must be formatted using fenced ````console code blocks.
 *   **Synaptic Compulsions:** Brief mental flashes or leash commands sent through the spinal siphon are woven into the sentence in lowercase italics (e.g., *searing a single conditioned imperative into my skull: obey*).
+
+### 4. A Chapter off the Present Year
+A chapter that leaves the present year opens under the header, and before any lexicon, with one plain line: how many years before or after the present. The present is Year 40 AS.
+
+*   *Correct:* `Forty years before the present.`
+*   *Correct:* `Nine years before the present.`
+*   The line is not a second title, and it is not a date lecture. The scene starts after it.

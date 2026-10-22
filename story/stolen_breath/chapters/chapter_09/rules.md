@@ -3,6 +3,7 @@
 Use this file on a draft and on a review. Canon wins when a fact disagrees. The beat is in `../../breakdown.md`.
 
 - Header: Chapter 9 // Jeffrey
+- Opens with: Nine years before the present.
 - Tense: present.
 - Person: First person, Jeffrey only.
 - Tsune is the field name. Tsunie is Vram's private diminutive only.

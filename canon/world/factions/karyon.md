@@ -132,6 +132,8 @@ They do not take a planet by bombardment. They injure the sky, then arrive with 
 
 The Synapse Lattice is not a weapon program. It is a handler on the graft. The Spire holds the lock that the chimeric method had placed between a foreign gene and a human gene. The diagnostic, the obey impulse, the gain, and the kill are husbandry: how a keeper checks a line, pushes it, hurts it, and ends it. Archon Xaevis alone fires the kill. The full socket, carrier, and ground stay in `../life/leash.md`.
 
+In the Year 0 room, the boards said a mutated soldier could take the street. The lattice was the answer offered there, under the name they would keep: a leash. One socket where the head meets the spine, a signal, pain if the soldier hesitates, pain until a refused order stops being available. The wire stays Karyon. The boards do not hold the kill.
+
 Anything that tries to leave the closed sky is unmade, because a subject that escapes the bench is lost data. That is the orbital refusal of human flight. It is not a doctrine of armies.
 
 The 14-month clock remains a theft of the lee: drag Sector 09's air down into the open-country band and spike the sulfur with it. Under this account, that theft is Xaevis ending the overlap and discarding the surplus population outside the sample domes. It is not the first breath of a dead world. Full conversion, the version that extinguishes life outside the domes, is the later move, the one Lyraen is trying to stop before Year 41 AS.
