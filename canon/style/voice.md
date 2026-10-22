@@ -32,6 +32,8 @@ A scene with two people in it should sound like two people. They bargain, needle
 
 Interior life is spoken, not filed. A direct thought goes in italics, with no quotation marks, the way `format.md` already has it. Tsunari can be mean, funny, and wanting in the same breath. Vram can swear at himself, want her, and hate that he wants her. The thought is a sentence a person would actually say to an empty room.
 
+The narrator keeps the paragraph. A thought cuts into that paragraph as a few words or one line. *What is this.* *Does she know.* *Don't let it end.* A whole paragraph of italics is a speech he is giving himself, and he almost never does that.
+
 Hazard and sight lines stay. They are how these two see. They are not a lab report and they are not a briefing. If a paragraph could be pasted into a manual, it is wrong for the page.
 
 ### Romance on the page

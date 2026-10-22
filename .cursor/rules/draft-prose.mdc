@@ -45,7 +45,7 @@ Do not copy a bible paragraph onto the page. Show the body. If a sentence needs 
 
 Follow `canon/style/format.md` for marks.
 
-Thoughts are italics, with no quotation marks. Speech, including remembered speech, is double quotes in roman.
+Thoughts are italics, with no quotation marks, and they are rarely a whole paragraph. The narrator keeps the paragraph. The thought cuts in as a few words or one line. How long a thought runs is in `canon/style/voice.md`. Speech, including remembered speech, is double quotes in roman.
 
 ```text
 Bad: "Not me," I think.

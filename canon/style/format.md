@@ -12,7 +12,7 @@ To maintain literary immersion and consistent cross-format presentation (Amazon 
     *   Applies to all vocalized speech—whether spoken in-person, whispered, shouted, heard over comms, or **remembered in a flashback**.
     *   *Correct:* `"Fly or paint the rocks, 701!"`
     *   *Incorrect:* `*‘Fly or paint the rocks, 701!’*` or `*"Fly or paint the rocks, 701!"*`
-    *   *Rule of Thumb:* If vocal cords vibrated or someone spoke the words, use double quotation marks in standard roman font. If it exists only as an unspoken thought inside a character's own consciousness, use pure italics without quotes.
+    *   *Rule of Thumb:* If vocal cords vibrated or someone spoke the words, use double quotation marks in standard roman font. If it exists only as an unspoken thought inside a character's own consciousness, use pure italics without quotes. A thought is a few words or one line inside the narrator's paragraph. How long it runs is in `voice.md`.
 
 ### 2. Environmental & Combat Sounds (Audio Philosophy)
 *   **Zero Comic-Book Onomatopoeia:** Standalone, ALL-CAPS phonetic sound effects on their own line (e.g. `*WAAAAAIL. WAAAAAIL.*`, `*CRACK.*`, `*CLANG.*`, `*SKRRRRR.*`, `*HISSSS.*`) are strictly prohibited. They disrupt the immersive literary tone and read like comic book captions.
