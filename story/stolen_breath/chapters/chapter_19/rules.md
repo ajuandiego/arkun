@@ -11,15 +11,15 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 From this beat:
 
-- Vram hides her in the duct. She reads the audit. The signature is Analyst: Tech-Specialist S. Thorne. She does not take the file. She does not explain Sora's faith back to the shaft.
-- The wolf follows her scent into the shaft. She answers with the leap, the membranes, the hooks, the bodkin. A rhino charge wedges in the grate. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop. That is his chapter.
+- Vram hides her under the floor. She reads the audit on the pump-room wire. The signature is Analyst: Tech-Specialist S. Thorne. She does not take the file. She does not explain Sora's faith back to the cellar.
+- The wolf follows her scent down the intake. She answers with the leap, the membranes, the hooks, the bodkin. A rhino charge wedges in the frame. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets to the far wall. She does not see him drop. That is his chapter.
 
 ## This pass
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- The signature is the blow. One thought. She does not lecture the shaft on her sister's belief.
-- The crawl is her body in a narrow space. No lesson that sets a Raptor against a baseline human.
+- The signature is the blow. One thought. She does not lecture the cellar on her sister's belief.
+- She can stand under the floor. The intake is the narrow part, and it stops the rhino. No lesson that sets a Raptor against a baseline human.
 - A span for the squad overhead, once. His own span is already known.
 - Plate holds. The wolf is nose, hearing, and jaw. Raptor and rhino. The old class names stay off the page.
 

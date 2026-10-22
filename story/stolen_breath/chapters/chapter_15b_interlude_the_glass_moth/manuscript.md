@@ -6,7 +6,7 @@ Far off, the dome is a green shine she can see without turning her head. She doe
 
 She watches the heap under her toes.
 
-The wind comes through the hollow containers and brings hot copper, wet rust, and the cook-smell of somebody's mash already going. A flicker moves between two sheets of siding. Not rust. Not a battery's grease. A pinprick of green, pulsing, then gone, then back.
+The wind comes through the hollow containers and brings hot copper, wet rust, and the cook-smell of somebody's mash already going. A flicker moves between two sheets of siding, a pinprick of green, pulsing, then gone, then back.
 
 Miri drops into a crouch. She has walked this hill on bottle glass since she could walk. From the smock she takes the fuse tube, brass caps long gone, corks whittled to fit. One cork has a pin-hole. She learned that the hard way. A still body in a glass is a lesson you only pay once.
 

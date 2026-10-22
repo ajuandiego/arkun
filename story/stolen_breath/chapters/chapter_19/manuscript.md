@@ -4,40 +4,46 @@
 
 ***
 
-The radar tick is wrong. Not the shortwave. The post's own set, the one that listens for company traffic whether he wants it or not.
+I am watching his eyes when I should be watching the door.
 
-"Down," he says. "Unannounced. South road. You do not exist in this room."
+The gold in them is the quiet my hand bought, held there on purpose. He is looking at my mouth and trying to make the look into a count. Under the count the want is plain, the same want he hated when he opened his eyes on the crate and asked me to stay until the root was clean. For a second I let the door be his problem. *Stay there.*
 
-The vent is a crawl, not a room. I go in on my forearms, slate hugged to the ribs, the hook handles knocking once until I pin them with my wrists. Hot metal. Grit in the teeth. My shoulders fit because I make them fit. Behind me he seats the grate. Boots on concrete. His voice, level, talking to nobody yet.
+His eyes jerk off my mouth. Small. If I had been on the door I would have missed it. The quiet I was standing in is gone, and he is looking at the set as if it said his name. *You heard that before I did.*
 
-I find the relay junction by the heat of it. The bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
+The post's set ticks. It listens for company traffic whether he wants it or not, and the tick says someone is on the south road who did not call ahead.
 
-Lines fill the glass. A telemetry audit. His post. His fever numbers from the hour he stood six feet off me. A fever, a flat place, the fever back. I know the flat place. I will not give it a name in a shaft. Under the packet, the hand that filed it.
+"Down," he says. "Unannounced. You do not exist in this room."
+
+I take the hooks off my hips before I touch the hatch, one in each hand, so the steel does not kiss the concrete on the way down. The ring is set in the floor over the pumps. I drop through it. He lowers the lid after me, and the boots that cross it are careful. His voice goes level, the voice he uses when he is about to be a commander for whoever is about to walk in. I am the part of the room he has just erased.
+
+The cellar is low. I can stand. The pumps tick, and the post's wire comes through the wall beside the intake, which is a throat up to the pad and too narrow for a shoulder wider than mine. I can use my hands down here. If I read that wire I will know whether they are here for his weather or for the hour he stood six feet off me. I work the bodkin out of the braid, twist the blade off, and seat the tang in the service jack. Drew would know the click. The slate wakes in my hand. I cover the blue tell with my thumb. The session stays on the wire. I read it, and I leave the copy where it is. A file on my chest is the first thing they take if they open the hatch.
+
+Lines fill the glass. It is a telemetry audit of his post. His fever from that hour, then the flat place where my hand was on his wrist, then the fever climbing back. I know the flat place. I will not give it a name while his boots are on the lid. Under the packet, the hand that filed it.
 
 Analyst: Tech-Specialist S. Thorne. Culture Lab 4.
 
-The shaft goes small. I know the initial. I cut the rest of her name off an open set two nights ago and it has been living in my mouth ever since. She is not only alive at a bench. She is reading him. *She flagged the minute.* A careful girl does that with a number that looks like a fault, and the flag walks back down this road with soldiers.
+The cellar goes small around that line. I know the initial. I cut the rest of her name off an open set two nights ago, and it has been living in my mouth ever since. She is reading him. *She flagged the minute.* A careful girl does that with a number that looks like a fault, and the flag has walked back down this road with soldiers.
 
-I kill the slate. I do not take the file. A file on my chest is a thing they can find if they open the vent. The signature is already in me, which is worse.
+I pull the tang, seat the blade, and put the bodkin through the braid until the steel is cold against my skull. The slate goes dark. The signature stays in me, which is worse than a file.
 
-Above, a shadow crosses the slit of sky at the end of the duct. Wings, narrower than his, a patrol span catching the searchlight once and gone. Hawks. They are early, or I am late.
+A shadow crosses the mouth of the intake. The span is narrower than his. It catches the searchlight once and is gone. Hawks. They are early, or I am late.
 
-"Clear the pad," a voice says, not his. Company. Close.
+"Clear the pad," a voice says, and it is not his. Company. The lid ticks once when his boots leave it. The door. Then his voice is outside, level, still trying to be the man who holds the post.
 
-I stay. His boots are still on the concrete over my shoulder. Then a second weight hits the intake, heavier than a man who means to talk, and the breath in the tube changes. Nose first. He has me.
+I stay off the hatch. Then a body comes down the intake. Heavier than a man who means to talk. The breath in the cellar changes. A nose is working the air. He has me.
 
-The shaft is one body wide. I am that body until he decides he is too. I hear the breath catch when the scent finishes its work. The jaw is the threat. I kick off the wall, membranes wiping the grit once, and the leap puts me above his shoulders before the teeth arrive. The hook's beak finds the seam under his ear, not the socket, the strap. He slams me into the metal anyway. Strength. Endurance. The shaft rings.
+I hear the catch when the scent finishes. The jaw is what he will spend. I kick off the pump. The membranes wipe the grit once. The leap puts me on his shoulders before the teeth arrive, and the hook's beak finds the strap under his ear. A socket would cook him, and I need him loud enough to call the others onto the pad. He slams me into the pump housing. The strength in it is stupid, and the cellar rings with it.
 
-"Here," he shouts back, voice thick. "She's here."
+"Here," he shouts up the intake. His voice is thick with the scent. "She's here."
 
-A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
+A charge answers him from the pad. I can see her in the mouth of the intake. The horn hits the frame and sticks. A second body throws itself into the hinge, so the grate cannot finish opening and cannot finish closing. She is trying to come through. The plate on her shoulders scrapes and stops. The frame will not take the width of her.
 
-The wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
+The wolf surges. I put the bodkin at the soft of his throat. He twists, and the hide of his collar takes the point. The opening I need is on the woman jammed in the frame.
 
-I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
+I drop off his shoulders and go for that mouth. She is stuck. Plate covers her neck and rides high on her back. Under it her chest is skin and heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not spend a second try on the plate. I rake the beak across the gap at her collarbone, shallow, enough to make her choose her hands.
 
-She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
+She chooses wrong. Both hands come up to the cut. The wedge slips. I am past her hip and against the far wall before the horn tears free of the frame.
 
-No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the wolf is still in the shaft with my scent in his mouth.
+They are heavier in the doorway, and the doorway is the intake behind me. The wolf is still in the cellar with my scent in his mouth.
 
-*Move.* I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
+*Move.* I move along the wall. The wing I came here with is still on the pad trying to be a commander, and the blood I just drew on a government soldier has already ended that.

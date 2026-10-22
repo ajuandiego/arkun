@@ -136,17 +136,17 @@
     </navPoint>
     
     <navPoint id="np-chap-23" playOrder="26">
-      <navLabel><text>Chapter 22</text></navLabel>
+      <navLabel><text>The Sterile Room</text></navLabel>
       <content src="chapters/chapter_23.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-24" playOrder="27">
-      <navLabel><text>Chapter 23</text></navLabel>
+      <navLabel><text>Chapter 22</text></navLabel>
       <content src="chapters/chapter_24.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-25" playOrder="28">
-      <navLabel><text>The Sterile Room</text></navLabel>
+      <navLabel><text>Chapter 23</text></navLabel>
       <content src="chapters/chapter_25.xhtml"/>
     </navPoint>
     
@@ -171,17 +171,17 @@
     </navPoint>
     
     <navPoint id="np-chap-30" playOrder="33">
-      <navLabel><text>Chapter 28</text></navLabel>
+      <navLabel><text>The Quota Calculation</text></navLabel>
       <content src="chapters/chapter_30.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-31" playOrder="34">
-      <navLabel><text>Chapter 29</text></navLabel>
+      <navLabel><text>Chapter 28</text></navLabel>
       <content src="chapters/chapter_31.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-32" playOrder="35">
-      <navLabel><text>The Quota Calculation</text></navLabel>
+      <navLabel><text>Chapter 29</text></navLabel>
       <content src="chapters/chapter_32.xhtml"/>
     </navPoint>
     
@@ -211,17 +211,17 @@
     </navPoint>
     
     <navPoint id="np-chap-38" playOrder="41">
-      <navLabel><text>Chapter 35</text></navLabel>
+      <navLabel><text>The Fatal Siphon</text></navLabel>
       <content src="chapters/chapter_38.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-39" playOrder="42">
-      <navLabel><text>Chapter 36</text></navLabel>
+      <navLabel><text>Chapter 35</text></navLabel>
       <content src="chapters/chapter_39.xhtml"/>
     </navPoint>
     
     <navPoint id="np-chap-40" playOrder="43">
-      <navLabel><text>The Fatal Siphon</text></navLabel>
+      <navLabel><text>Chapter 36</text></navLabel>
       <content src="chapters/chapter_40.xhtml"/>
     </navPoint>
     
@@ -301,36 +301,26 @@
     </navPoint>
     
     <navPoint id="np-chap-56" playOrder="59">
-      <navLabel><text>Chapter 52</text></navLabel>
+      <navLabel><text>The Gospel of the Slag</text></navLabel>
       <content src="chapters/chapter_56.xhtml"/>
     </navPoint>
     
-    <navPoint id="np-chap-57" playOrder="60">
-      <navLabel><text>Chapter 53</text></navLabel>
-      <content src="chapters/chapter_57.xhtml"/>
-    </navPoint>
-    
-    <navPoint id="np-chap-58" playOrder="61">
-      <navLabel><text>The Gospel of the Slag</text></navLabel>
-      <content src="chapters/chapter_58.xhtml"/>
-    </navPoint>
-    
-    <navPoint id="np-acknowledgments" playOrder="62">
+    <navPoint id="np-acknowledgments" playOrder="60">
       <navLabel><text>Author&#39;s Note &amp; Acknowledgments</text></navLabel>
       <content src="acknowledgments.xhtml"/>
     </navPoint>
   
-    <navPoint id="np-reviews" playOrder="63">
+    <navPoint id="np-reviews" playOrder="61">
       <navLabel><text>A Note to the Reader</text></navLabel>
       <content src="reviews.xhtml"/>
     </navPoint>
   
-    <navPoint id="np-teaser" playOrder="64">
+    <navPoint id="np-teaser" playOrder="62">
       <navLabel><text>Sneak Peek: Crown of Salt</text></navLabel>
       <content src="teaser.xhtml"/>
     </navPoint>
   
-    <navPoint id="np-backcover" playOrder="65">
+    <navPoint id="np-backcover" playOrder="63">
       <navLabel><text>Back Cover</text></navLabel>
       <content src="backcover.xhtml"/>
     </navPoint>

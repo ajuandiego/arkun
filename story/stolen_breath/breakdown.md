@@ -206,8 +206,8 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 *   **Chapter 19 // Tsunari**
     *   *Lexicon:*
         > **Plate.** The hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
-    *   *Setting:* The duct under Redoubt Station 14, then the intake and the mechanical room.
-    *   *Core Action:* Vram hides her when an unannounced approach shows on the post's set. She reads the audit and sees *Analyst: Tech-Specialist S. Thorne*. She kills the slate and does not take the file. Hawks cross the slit of sky. A company voice clears the pad. The wolf comes up the intake. She answers with the leap, the membranes, the hooks, the bodkin. The woman rhino charges and wedges. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop.
+    *   *Setting:* The mechanical room under Redoubt Station 14. She drops through the floor hatch. The intake is a throat up to the pad, wide enough for a wolf and too narrow for a rhino.
+    *   *Core Action:* Vram hides her under the floor when an unannounced approach shows on the post's set. She reads the audit on the pump-room wire and sees *Analyst: Tech-Specialist S. Thorne*. She kills the slate and does not take the file. Hawks cross the intake mouth. A company voice clears the pad. The wolf comes down the intake into the room. She answers with the leap, the membranes, the hooks, the bodkin. The woman rhino charges the frame and wedges. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets to the far wall. She does not see him drop.
     *   *Personal Stake:* Sora is not only alive at a bench. She flagged the minute. The blood Tsunari draws on a government soldier has already ended the command upstairs.
 
 *   **Chapter 20 // Vram**

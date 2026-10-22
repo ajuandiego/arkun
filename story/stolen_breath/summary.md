@@ -44,11 +44,11 @@ The service door is a keypad off the south gate, on the wall's own wire. The wir
 - She comes under the bridge in the copper silt, jumps, and the hooks bite. The door is a plain slab, keypad at her chest, the wall cold on her shoulder. Across the sand, the same mash cart is still selling. She does not open on a smell.
 - Ren reports the last boot of the long pass, seven point eight, himself on the roof, Drew at the bench. Tsunari takes the blade off the bodkin. The tang under it was cut for a jack Drew measured off a dead keypad.
 - T.J. has the door's wire. She seats the jack, holds still, and the copy stays in the slate. No prowler on this face. The gate's attention is on its own truck.
-- She clears silt, seats the tang, and clips the slate. Blue tell. No broadcast. The session rides the door's wire into the tap he already owns.
+- She clears silt, seats the tang, and clips the slate. The tell goes blue. The session rides the door's wire into the tap he already owns.
 - T.J. has doors, cameras, and the pass list. He tells her not to pull. The south stair changes in six minutes. This door is not on their board. The sand is bare, and this bridge is the only crossing on the face. The camera looks at the joint, not the keypad.
-- A living staff line is in the pull: Culture Lab 4, a Thorne, junior synthetics. He starts the name with S. She says stop. The rest finishes in her head, not on the set: Sora. The death rolls listed her as dead. Burned. She would be twenty. It can't be. The memory opens on the workshop lamp too close to her face, her tongue between her teeth, threading stripped copper through Tsunari's braid, proud of the blood on her thumb. It does not announce her age. Tsunari knows the thumb. She does not know the face. Then she tells him not to put the rest on the set.
+- A living staff line is in the pull: Culture Lab 4, a Thorne, junior synthetics. He starts the name with S. She says stop. The rest finishes in her head, not on the set: Sora. The death rolls listed her as dead and burned. She would be twenty. It can't be. The memory opens on the workshop lamp too close to her face, her tongue between her teeth, threading stripped copper through Tsunari's braid, proud of the blood on her thumb. It does not announce her age. Tsunari knows the thumb. She does not know the face. Then she tells him not to put the rest on the set.
 - He says the name is in the slate and she can pull. Then he stops her. A second message has sat down on the session. The door does not use that header.
-- He reads it like a memo he is spelling. Header: Lazarus Key. Sector 09. Lee fail. Fourteen months. Barrens-air push over the Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp: redacted. Clearance insufficient. No edge. It will not open.
+- He reads it like a memo he is spelling. Header: Lazarus Key. Sector 09. Lee fail. Fourteen months. Barrens-air push over the Ring. Evacuation allocation zero. Dome sealed. The line under that will not open. Stamp: redacted. Clearance insufficient.
 - She has never heard the name. She sees the stair she climbed this morning, Mercer, and Ren's catch. The pylons south of the ring make the hard air: towers, feet in the barrens, worse in their shadow. Push that over the wall and the lane stops being a place people live. He repeats it: fourteen months, then nobody on this side of the wall is on a list.
 - Ren says they came for doors. T.J. does not know what the second message is. It is in the slate. The pass is at the corner. She must pull.
 - She unplugs, seats the bodkin back in the braid, and the keypad screams. T.J. gives her twenty-five seconds before the signal has a place. It is not on her yet.
@@ -218,13 +218,13 @@ A bearing is a direction from a boy who will not leave his bunker. It can tell y
 - She tells T.J. to stay on the bearing and stay in the hole. He says he does not leave the desk, tells her the silt is still falling, and tells her to bring Tsune back.
 - She finds Ren at the third turning, puts him in the cart, and takes the south road because a boy who will not leave a bunker still knows which way a prowler went.
 - The mirrors come up black. She keeps the lamp low and stops Ren from calling Tsune's name on an open channel. Chat paints the clinic and paints T.J.
-- Ren says he knows what Tsune is and will not say it. Drew knows the bare nape. She has fitted a lead at that throat under a shop lamp. She will not put it on a slide. The wrapped tang is in her belt because the woman is not in the shop.
+- Ren says he knows what Tsune is and will not say it. Drew knows the bare nape. She has fitted a lead at that throat under a shop lamp. She will not put it on a slide. The next tang is wrapped in her belt. The finished one went into the braid.
 - She stops the cart where she can see the concrete post and will not walk up to it. She calls: if Tsune is on this road, answer. Ren leans in and says they are not going back until they see the prowler.
 - Tsune tells them to turn around. Relief hits hard enough that Drew has to hold the cart. She asks if Tsune is hurt. Tsune sends them home and tells them what to tell T.J.
 - Drew hears a second breath, a man, no face and no name. Tsune confirms someone is in the room and gives them nothing else. If they keep walking south they paint every door. Drew hears the set die under Tsune's hand.
 - Ren thinks the man may be making her say it. Drew turns the cart anyway. She asked. They go. He can hate her at the clinic.
 - T.J. takes the news without a speech. The watch is done. He is down. Ren does not talk. Drew counts the tools so she does not count the ways a concrete room can go wrong.
-- Mercer is at the stove and looks at the empty half of the doorway. Drew gives him the sentence Tsune gave her: lost the signal at the mirrors. She hangs the kit, sets the wrapped tang where Tsune's hands will look for it, washes the burn, and does not tell the room how far they actually got.
+- Mercer is at the stove and looks at the empty half of the doorway. Drew gives him the sentence Tsune gave her: lost the signal at the mirrors. She hangs the kit, sets the next tang where Tsune's hands will look for it, washes the burn, and does not tell the room how far they actually got.
 
 ## Chapter 14 // Vram
 
@@ -304,7 +304,7 @@ The new mist will help the people outside breathe clean again.
 
 Plate is the hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
 
-- The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room. She crawls into the vent. He seats the grate.
+- The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room. She takes the hooks in her hands and drops through the floor hatch. He lowers the lid.
 - She jacks a relay. The audit is his fever from the hour he stood six feet off her: a fever, a flat place, the fever back. She knows the flat place and will not name it. The hand that filed it is Analyst, Tech-Specialist S. Thorne, Culture Lab 4.
 - She knows the initial. Sora flagged the minute. Tsunari kills the slate and does not take the file. A hawk span crosses the slit once. A company voice says to clear the pad.
 - The wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear. He slams her into the metal and shouts that she is here. The woman rhino charges. The horn sticks. The other rhino wedges the hinge. Plate holds.
@@ -314,9 +314,9 @@ Plate is the hide on a rhino's neck, shoulders, and back. A knife skips off it. 
 
 Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
-- The observer keeps its height on the horizon. Nothing holds it, and it does not come down. A government prowler lands. A wolf and two rhinos step out. Sockets, ordinary. No black veins. One rhino is a woman. She will charge the grate. The other will wedge it.
-- The wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The wolf smells a second body in the ducts: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
-- The woman says they have a retrieval. Step off the grate, or she stops asking. He does not. He says stand down. The wolf goes into the shaft.
+- The observer keeps its height on the horizon. Nothing holds it, and it does not come down. A government prowler lands. A wolf and two rhinos step out in Directorate kit, sockets fitted and ordinary. The heat on the pad is his. One rhino is a woman. She will charge the intake. The other will wedge it.
+- The wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The wolf smells a second body under the floor: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
+- The woman says they have a retrieval. Step off the intake, or she stops asking. He stays at the lip. He says stand down. The wolf goes down anyway.
 - Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other rhino into the frame. The wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
 - Tsunari is against the far wall. Their blood is desertion. The leash can be turned up on Cassian, Toby, Rook, and Amari. It tries to climb. Her hand finds his wrist, and the climb stops. She says he drew on them. He says so did she. She says then they are both already gone. He takes her hand off only when he can stand the noise long enough to walk.
 
@@ -414,7 +414,7 @@ The furnace is the heat that flies the wing. Tear the wing and leave him on the 
 
 The rattle is the dry sound behind the breastbone. It can go on for years before the lungs turn to glass. It is already in his chest.
 
-- The cut link is still in Ren's ear when he tells Drew he is going. The tang she wrapped is still on the cloth. T.J. is on the set, fourteen and precise: the bearing is south, past the mirrors, and if they ask him to come up he will stop answering.
+- The cut link is still in Ren's ear when he tells Drew he is going. The next tang is still on the cloth. T.J. is on the set, fourteen and precise: the bearing is south, past the mirrors, and if they ask him to come up he will stop answering.
 - Ren says he is not asking T.J. He is telling Drew. She says Tsune told them to turn around. He says she told them that so they would live, and he is done spending the night living.
 - The rattle clicks once when he stands. Drew puts a cartridge on the bench without a speech. He takes it.
 - They take the cart. He counts roofs, then miles. He breathes the dead band with the cartridge in his teeth and does not thank her.

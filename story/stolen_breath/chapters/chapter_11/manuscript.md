@@ -88,7 +88,7 @@ A thanks almost gets out of me. The quiet is that good. I swallow it. She hears 
 
 "You were going to thank me. A thanks makes this a favor, and a favor is how a person gets owned. Drive."
 
-I drive. The scratch of the lee is in the window seal. The folded wing takes the space behind her seat, and the heat off the roots fills the gap. A feather edge ticks the back of her arm when the prowler yaws. She does not lean away. *She could. She doesn't.* The not-leaning goes through me harder than the look I already spent. I keep both hands on the wheel so they cannot get ambitious. Her breath is the loudest thing in the cabin. I match mine to it, notice that I matched it, and give the noticing to the road.
+I drive. The scratch of the lee is in the window seal. The folded wing takes the space behind her seat. A feather edge ticks the back of her arm when the prowler yaws. She does not lean away. *She could. She doesn't.* The not-leaning goes through me harder than the look I already spent. I keep both hands on the wheel so they cannot get ambitious. Her breath is the loudest thing in the cabin. I match mine to it, notice that I matched it, and give the noticing to the road.
 
 The last mile is the hard one. The lamp is low. I know where her shoulder is anyway. Sage is still in the cabin. My hands stay on the wheel and ache with the staying. She says nothing. The nothing is a mercy, or it is her letting me hang myself on a want I will not name. I take it, and I do not examine it.
 

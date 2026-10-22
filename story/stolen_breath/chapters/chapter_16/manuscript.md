@@ -6,11 +6,11 @@
 
 He works the harness off the wing root and hangs the rig on the crate. It is heavy in a concrete room, and there is nowhere honest to put it.
 
-From the rig he takes a cloth and a small tin. Issued. The same kit that rides the leash, not a bag he packed for me. He peels the shirt. The straps have cut red grooves where the wing leaves the back. Above that, the socket. One round mouth of metal, a short tab, the skin on both sides swollen, the body trying to close over a thing that will not close.
+From the rig he takes a cloth and a small tin, the issued kit that rides the leash. He peels the shirt. The straps have cut red grooves where the wing leaves the back. Above that, the socket. One round mouth of metal, a short tab, the skin on both sides swollen, the body trying to close over a thing that will not close.
 
 "Ice-salve," he says. "For the red. It does not stop the drill. It keeps the skin from splitting. The cloth is for the grit. Glass wind packs a root the way it packs a mouth."
 
-Black quills come out of the live bone. A growth, not a costume. I look once. The crate lamp moves over the scar and the place the feathers seat, and my stomach answers before I give it a job. Heat, low. I put my eyes on the bolt of the roof hatch.
+Black quills come out of the live bone, a growth. I look once. The crate lamp moves over the scar and the place the feathers seat, and my stomach answers before I give it a job. Heat, low. I put my eyes on the bolt of the roof hatch.
 
 "You can hate it from there," he says. "I have to clean it or the next beat tears."
 
@@ -26,7 +26,7 @@ I file the name. A man who believes a log is a man who walks into a room. One is
 
 "Turn."
 
-He turns. The chest is a furnace even across the room. Old burns. The scar at the jaw I already know. Beautiful is the word I refuse. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who carries it.
+He turns. Old burns across the chest, the scar at the jaw I already know. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who carries it.
 
 The tremor climbs into his shoulder. The cloth stops. I cross the concrete and put two fingers on the inside of his wrist. The shake dies. His eyes shut.
 

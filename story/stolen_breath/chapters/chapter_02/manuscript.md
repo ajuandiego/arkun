@@ -4,21 +4,21 @@
 
 ***
 
-Copper silt sits under the bridge, thick enough to take a body that stays low. I come along beneath it. At the wall end I jump. The hooks bite, and I pull up onto the landing. The door is a plain slab, a keypad at chest height. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the lane is still buying the last of the day. The mash cart is in the gutter, the vendor shouting a number he will not get, a bowl changing hands at the quieter price. This door is the dark between those lights.
+Copper silt sits under the bridge, thick enough to take a body that stays low. I come along beneath it, jump at the wall end, and the hooks bite as I pull onto the landing. The door is a plain slab with the keypad at my chest. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the lane is still buying the last of the day. The mash cart is in the gutter, the vendor shouting a number he will not get, a bowl changing hands at the quieter price. This door is the dark between those lights.
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
 "Copy." I work the bodkin out of the braid. A twist, and the blade comes off in my glove. The tang under it is dark, cut for a jack Drew measured off a dead keypad. "T.J."
 
-"Here." Young. Close to the mic. He never is anywhere else. "I have the door's wire. You seat it, I get the picture. You hold still and the copy stays in the slate. Silt's thick. No prowler on this face. The gate paint is on their own truck."
+"Here." He is young and close to the mic, and he never is anywhere else. "I have the door's wire. You seat it, I get the picture. You hold still and the copy stays in the slate. Silt's thick, and the gate paint is on their own truck."
 
 "Then count."
 
-Ren's next breath scrapes. He swallows it. I let him. A lecture on the sound in his chest will not add a second to the gap.
+Ren's next breath scrapes. He swallows it, and I let him. A lecture on the sound in his chest will not add a second to the gap.
 
-The jack is a recess under the keypad, the size of a thumb, silt gritted into the lip. I blow it clear, seat the tang, and the click runs up my wrist into the bone. The short lead from the slate on my chest clips to the pommel-end. Blue tell. No broadcast. The Spire listens for a voice in the air. This session goes down the door's own wire, into the tap he already owns, and the closed copy sits against my ribs.
+The jack is a recess under the keypad, the size of a thumb, silt gritted into the lip. I blow it clear, seat the tang, and the click runs up my wrist into the bone. The short lead from the slate on my chest clips to the pommel-end, and the tell goes blue. The Spire listens for a voice in the air. This session goes down the door's own wire, into the tap he already owns, and the closed copy sits against my ribs.
 
-"Picture's up," T.J. says. "Doors. Cameras. The pass list. I'm in their security net. Don't pull."
+"Picture's up," T.J. says. "Doors, cameras, the pass list. I'm in their security net. Don't pull."
 
 "Talk."
 
@@ -30,7 +30,7 @@ I hold. My free hand stays on the hook at my hip. The slate warms, a small heat 
 
 "Stop."
 
-The rest of the name finishes in my head and stays there. *Sora.* The death rolls listed her as dead. Burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. How. It can't be.
+The rest of the name finishes in my head and stays there. *Sora.* The death rolls listed her as dead and burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. It can't be.
 
 The workshop lamp is too close to her face. Her tongue sits between her teeth while she threads stripped copper through the end of my braid, because she wants it to look like a wire and not a ribbon. The copper takes the skin off her thumb. She holds the thumb up, proud of the bead of blood, and tells me it has to be tight or it will not hold. I can still feel the tug. The braid against my skull is that braid. I don't know the face that comes after twenty. I know the thumb.
 
@@ -46,9 +46,9 @@ Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's
 
 "Read it."
 
-"Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09. Lee fail. Fourteen months. Barrens-air push over Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp says redacted. Clearance insufficient. No edge. It will not open."
+"Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09, lee fail, fourteen months, barrens-air push over the Ring, evacuation allocation zero, dome sealed. The line under that will not open. The stamp says redacted. Clearance insufficient."
 
-I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air. Towers, feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
+I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air, towers with their feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
 
 "Say the first line again."
 
@@ -70,9 +70,9 @@ A klaxon, close enough to put a buzz in the fillings. The jack locks shut.
 
 "You will not." The wall on my left is a hundred meters of smooth metal, no handhold the eye can love. "Stay on."
 
-I drop off the landing. The hooks catch the lip, then let go. Boots hit the sand under the span. The knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. The silt takes the outline. I am already moving.
+I drop off the landing. The hooks catch the lip and let go, the boots hit the sand under the span, and the knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. The silt takes the outline, and I am already moving.
 
-Searchlights rake the main gate, white, then the red off the wall, then white again. The metal under my glove is cold enough to ache, seamless, nothing in it to hide a person. In the lane, shutters slam. A whistle cuts the first alley. A woman pulls a child by the wrist, and neither of them looks up.
+Searchlights rake the main gate, white, then the red off the wall, then white again. The metal under my glove is cold enough to ache, and seamless. In the lane, shutters slam. A whistle cuts the first alley. A woman pulls a child by the wrist, and neither of them looks up.
 
 The header sits in the ear beside the name I would not let him finish. The slate knocks my ribs with both of them, and I do not have a free hand for either.
 

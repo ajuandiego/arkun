@@ -52,7 +52,7 @@ Toby falls in beside me on the way to the lip. Cream and rust at the edge of the
 
 "And if he doesn't call?"
 
-"Then I go get him." I make it a plan. *Not a fear.* "You're not in that flight unless I say. Tell Rook the supper can wait until there's something to eat."
+"Then I go get him." I make it a plan. "You're not in that flight unless I say. Tell Rook the supper can wait until there's something to eat."
 
 Toby goes. Amari stays on the corner, watching a wind she does not trust. I keep the log in my mouth, the clean sentences, the way they felt true.
 

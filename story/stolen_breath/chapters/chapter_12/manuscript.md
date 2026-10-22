@@ -4,9 +4,9 @@
 
 ***
 
-The post is one concrete room. A door. A stove that has not been lit. A shortwave set on a crate, the old kind, whip on the roof and a dial that will not reach a dome switchboard if you beg it. Anyone with another set can hear us. The Spire cannot. He chose that. I file it before I file him.
+The post is one concrete room, with a door, a stove that has not been lit, and a shortwave set on a crate, the old kind, whip on the roof and a dial that will not reach a dome switchboard if you beg it. Anyone with another set can hear us. The Spire cannot. He chose that. I file it before I file him.
 
-The cuffs are off. He took them off in the cabin so I could walk, and because the tremor had already reached his jaw. On the step I would not touch him. In here the hand stays off until he asks. I count while he locks the prowler out. Slit window, too narrow for a shoulder, wide enough for a voice. Roof hatch, bolts on this side. Stove poker. A coil of wire. The door we came through, and the bar he has just dropped.
+The cuffs are off. He took them off in the cabin so I could walk, and because the tremor had already reached his jaw. On the step I would not touch him. In here the hand stays off until he asks. I count while he locks the prowler out: a slit window too narrow for a shoulder and wide enough for a voice, a roof hatch with the bolts on this side, a stove poker, a coil of wire, the door we came through, and the bar he has just dropped.
 
 He turns his back to hang the harness.
 
@@ -40,18 +40,18 @@ The lee scratches the slit. Vram is three steps away, shaking, taking nothing I 
 
 "Confirm," Drew says. "We're turning around. Mercer will ask."
 
-"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. Concrete and breath. That is the room again.
+"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. The room is concrete and breath again.
 
 He looks at the dead dial, then at me.
 
 "Drew," he says.
 
-"Is a person you don't have." The tremor is in his shoulders now, fine and constant. I watch him decide not to ask for the hand. Pride, or the last of the order. "You heard a name. You did not hear a clinic. You did not hear a hole. If you repeat the name on any channel, the next thing I touch will not be your wrist."
+"Is a person you don't have." The tremor is in his shoulders now, fine and constant. I watch him decide not to ask for the hand, from pride or from the last of the order. "You heard a name. You did not hear a clinic. You did not hear a hole. If you repeat the name on any channel, the next thing I touch will not be your wrist."
 
 He nods once. It costs him. The fever is climbing and he is still standing in it.
 
 "Shortwave only," he says. "You just proved you understand the post."
 
-"I understand you drove me somewhere the city can't hear." I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. *Let him ask.* "When you need it, you say so. I'm not your medicine. I'm the woman who can take the noise away, and I have just sent my people home so you don't get them. Remember which part you earned."
+"I understand you drove me somewhere the city can't hear." I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. *Let him ask.* "When you need it, you say so. I'm the woman who can take the noise away, and I have just sent my people home so you don't get them. Remember which part you earned."
 
-He looks at the floor. The harness drips heat into the concrete. Outside, the road back to the mirrors stays empty. I hang the night on Drew doing what she said.
+He looks at the floor. Outside, the road back to the mirrors stays empty. I hang the night on Drew doing what she said.

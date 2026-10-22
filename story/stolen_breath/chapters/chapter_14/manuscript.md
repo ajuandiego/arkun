@@ -4,13 +4,13 @@
 
 ***
 
-The monitor on the crate is a field unit, stupid and honest. I stand six feet from her and it climbs. One hundred and six. Seven. Eight. The tremor takes the hands. Behind the eyes the leash finds the quiet I have been hiding and starts to punish the hiding, a hot wire.
+The monitor on the crate is a field unit, stupid and honest. I stand six feet from her and it climbs, a hundred and six, then seven, then eight, and the tremor takes the hands. Behind the eyes the leash finds the quiet I have been hiding and starts to punish the hiding, a hot wire.
 
 She is on the crate with her palm on the wood, where she put it. She told me to say so when I needed it. I need it. The number is already a place I do not come back from clean.
 
 "Touch."
 
-She looks at the number. She looks at me. She puts her palm on my wrist, the same bargain as the prowler, and the number falls. Not to a man's. To a thing I can stand in. The wire goes quiet. I hate the box for telling the truth, and I hate her for being the only switch, and I leave the wrist there because the alternative is on the screen.
+She looks at the number. She looks at me. She puts her palm on my wrist, the same bargain as the prowler, and the number falls to a thing I can stand in. The wire goes quiet. I hate the box for telling the truth, and I hate her for being the only switch, and I leave the wrist there because the alternative is on the screen.
 
 "You measured it," she says.
 
@@ -54,7 +54,7 @@ A pause. She does not waste warmth. "Weather."
 
 "Understood."
 
-The channel drops. The room is the monitor's tick, her hand, and the lie sitting between us with my voice still on it. The shortwave on the crate stays dark. This lie did not go out on it. It went up the beam, to her, and from her it will go to the wing as weather.
+The channel drops. The room is the monitor's tick, her hand, and the lie sitting between us with my voice still on it. The shortwave on the crate stays dark. The lie went up the beam, to her, and from her it will go to the wing as weather.
 
 She takes her palm away. The number starts to climb. She watches it. She puts the palm back before it reaches the bad place. The mercy of that is worse than the order. Mercy means she heard me spend the wing, and she has not decided what to charge me.
 

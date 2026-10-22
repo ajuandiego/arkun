@@ -4,7 +4,7 @@
 
 ***
 
-The clinic door sticks. I shoulder it, kit on one hip, shortwave on the other. Night. The lane is grit and the hard cold, and the lee tastes like the stove when Mercer burns the cheap oil. I pull a cloth up. I don't make a speech about it. The set is the only channel we use. A few miles of bad air. It does not reach the dome. Anyone with another box can hear it, which is why the clinic does not get a name on it.
+The clinic door sticks. I shoulder it, kit on one hip, shortwave on the other. The lane at night is grit and the hard cold, and the lee tastes like the stove when Mercer burns the cheap oil. I pull a cloth up. I don't make a speech about it. The set is the only channel we use. A few miles of bad air. It does not reach the dome. Anyone with another box can hear it, which is why the clinic does not get a name on it.
 
 T.J. comes up on it before I'm ten steps gone.
 
@@ -30,7 +30,7 @@ The mirrors come up black and broken. I hate them. Too many places to put a body
 
 "Good. Don't practice."
 
-I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder. Skin where a socket should be. Nothing to report, and nothing that goes on a slide. *Not on this set.* The tang for her bodkin is in my belt, wrapped, because the hands need a job when the woman is not in the shop. The job is not a confession.
+I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, and nothing that goes on a slide. *Not on this set.* The next tang is wrapped in my belt. The one I finished went into her braid, and the hands still need a job.
 
 The post shows past the last mirror. Squat concrete, one mast, no city lights. I can see it. I do not walk up to it. A watchpost has a door and a gun and a reason. I stop the cart where the road dips, and I call.
 
@@ -38,11 +38,11 @@ The post shows past the last mirror. Squat concrete, one mast, no city lights. I
 
 Her voice comes back in the field register, the one that stands him up straight. Turn around. Both of us. The boy keeps the hole. I ask if she is hurt. She does not answer the hurt. She answers the road.
 
-There is a second breath in the room. Not hers. Close to the set, trying not to be. A man, I think. No face. No name. I hate the not-knowing with a clean shop hate, the kind that wants a bolt to turn.
+There is a second breath in the room, not hers, close to the set and trying not to be. A man, I think, with no face and no name. I hate the not-knowing with a clean shop hate, the kind that wants a bolt to turn.
 
 "There's someone in the room," I say.
 
-"Yes." Nothing after it that I can use. No name. No place. If we keep walking south we paint every door we slept near. Ren starts. She cuts him off with his own name and tells him to face the gate. Then the sentence I am supposed to give Mercer, and the set dies under her hand. I hear the death of it. I sit for three breaths, because if I turn the cart in the first one I will turn it back.
+"Yes." Nothing after it that I can use, no name and no place. If we keep walking south we paint every door we slept near. Ren starts. She cuts him off with his own name and tells him to face the gate. Then the sentence I am supposed to give Mercer, and the set dies under her hand. I hear the death of it. I sit for three breaths, because if I turn the cart in the first one I will turn it back.
 
 "We're going," I say.
 
@@ -58,7 +58,7 @@ Mercer is at the stove. He looks at the empty half of the doorway.
 
 "Lost the signal at the mirrors."
 
-It is the sentence she gave me. It is not the post, and it is not the second breath, and it is not the throat I have seen and will not describe. He nods like a man who has taken worse lies for better reasons. I hang the kit. I set the wrapped tang on the bench, where her hands will look for it if she comes back to look. I wait until the kettle goes to the front room with him.
+It is the sentence she gave me. He nods like a man who has taken worse lies for better reasons. I hang the kit. I set the next tang on the bench, wrapped, where her hands will look for it if she comes back to look. I wait until the kettle goes to the front room with him.
 
 Then I key the set. Same box. Shortwave. It will not climb the wall. A patrol with a receiver still could, so I keep it close to my mouth and I do not give them a door.
 
