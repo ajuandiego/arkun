@@ -4,7 +4,7 @@
 
 ### The Terra-Pylons
 
-A pylon is a biomechanical tower sunk into bedrock, about 2,000 feet tall, pulsing violet as it discharges into the jet stream. Terra-Pylon Seven stands in the barrens south of Sector 09. The towers are the machines that made the present sky. They are not the dome, and they are not a filter.
+A pylon is a biomechanical tower sunk into bedrock, about 2,000 feet tall, pulsing violet as it discharges into the jet stream. Terra-Pylon Seven stands in the barrens south of Sector 09. The towers are the machines that made the present sky. They are not the dome, they are not a filter, and they are not the observers in the air.
 
 *   **What the Consortium says they are:** Atmospheric Restoration Towers. The official story is that the pylons ended the Scorching, feed the dome shields, and are slowly cleaning the outdoor haze so the bulkheads can one day open. Sora's "aerosol trial" is this lie in a lab coat. Dome citizens repeat it. It is the reason the towers are allowed to stand in sight of the wall.
 *   **What the Ring can see:** The air is worse downwind of a tower than it is under the wall. Glass winds, static, and the sweet spore lanes start near the foot of a pylon. People argue about whether the towers vent dome waste, make weather, or poison the district on purpose. Almost no one outside the Vault knows the gas is a recipe.
@@ -41,14 +41,14 @@ This section is the rule for air, weather, breath, and the price of a filter. A 
     *   *Dawn:* The clearest air of the day. In the Ring: wet rust, chicory, cold metal, stills filling, shutters opening. In the barrens: sulfur sits in the hollows. High ground is usable. Low ground smells of rotten egg.
     *   *Morning:* Workable in the lee, with a cleaner spill off the wall and the heat climbing fast. On open silica the furnace is already up: baked iron, nothing green.
     *   *Afternoon silt:* The bad hour in the Ring. Heat, grit in the teeth, cloth over the mouth, goggles. Miserable, then it drops. In the barrens a glass wind is a named storm. The old pylons hum before it pits skin. Full face cover, or get inside.
-    *   *Sunset:* Dust settles. Magenta, brass, copper, indigo. In the Ring the bazaar opens: cooked mash, tallow, sage, sweat. In the barrens the same sky is emptier, and animals go quiet when the seeders pulse.
+    *   *Sunset:* Dust settles. Magenta, brass, copper, indigo. In the Ring the bazaar opens: cooked mash, tallow, sage, sweat. In the barrens the same sky is emptier, and animals go quiet when the observers pulse.
     *   *Night Freeze:* Hard frost. In the Ring it is survivable in a room with a stove and a wall (tallow, cedar, stew). In the barrens an unsheltered sleeper dies, and frost films metal within minutes. The swing runs from about 115°F at the height of the day toward -10°F in the open after dark, because the upper air no longer holds the day's heat.
 *   **Named behaviors:**
     *   *The Lee:* Closer to the wall is kinder. Downwind streets cough.
     *   *Silt hour:* Daily and predictable, like a tide. Cloth and goggles, then it passes.
     *   *Glass wind:* Rare and directional. Hollow pylons hum before it arrives. It pits skin, etches glass, and shreds untreated cloth over the course of the storm. People go inside. An acid squall is the wet cousin of the same event.
     *   *Night pool:* After dark the heavy air sinks into cellars, sump floors, and dune hollows. One night there: a sore chest by morning, then it fades. Months of sleeping in the same low room, with no filtered rest, move a baseline human along the slow curve. Roofs and high ground stay the kinder beds.
-    *   *The violet pulse:* Dusk, when the orbital seeders fire. The color shifts. Animals go quiet. It is a clock.
+    *   *The violet pulse:* Dusk, when the observers fire. The color shifts. Animals go quiet. It is a clock. The ships are in `life/tech.md`.
     *   *Static lift:* Near a pylon, hair rises, radios hiss, and the morning sand has grown glass trees.
 *   **What else is scarce:** Distilled water, taken at dawn from condensation stills. A wall and a stove against the Night Freeze. Warning when a glass wind is coming.
 *   **How long a baseline human lasts.** The Choke is gradual. Missing a filter does not drop anyone today.

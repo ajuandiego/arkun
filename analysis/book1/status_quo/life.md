@@ -9,7 +9,7 @@ Air, the leash, the touch, and the machines the reader has actually used. The ho
 * **The leash on a body.** One socket at the nape. Noise, migraine, a swollen neck when the carrier is hot. Ice-salve. Cassian dies trying to quiet it with the wrong skin. Vram's noise dies under Tsunari's hand and comes back when the hand leaves.
 * **The local stabilizer.** In the Vault, a dose made from her blood drops the tremors in Veda and Ferrin. The reader has the before and the after. They do not have a vial that works in a stranger's pocket a month later.
 * **The Crucible.** Recordings of Malakar's conversion. Fever, burned nerves, obedience. Caelia is the same serum in a younger body. The reader has seen what it buys and what it spends.
-* **No human aircraft.** Soldiers fly. Barges hang. The absence is a rule the dive in chapter 2 makes physical.
+* **No human aircraft.** Soldiers fly. Observers hold their place, nothing under the hull. The absence is a rule the dive in chapter 2 makes physical.
 
 ## Named
 

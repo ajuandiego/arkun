@@ -105,6 +105,6 @@ The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname
 
 Human aviation is gone. No fuel, no refineries, no avionics chain. The Consortium put the wing into the Avian class only. Raptors do not fly. Lycans, Ceratons, and Galvans do not fly.
 
-The only mechanical flying craft on Earth belong to the karyon: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyon.md`.
+The only mechanical ships in the air are karyon observers. The account is in `tech.md`.
 
 **The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. A short tab sits under the socket. It is not a second antenna. The hardware rule is `leash.md`.

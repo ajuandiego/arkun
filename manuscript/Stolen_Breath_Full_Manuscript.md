@@ -175,7 +175,7 @@ Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's
 
 "Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09. Lee fail. Fourteen months. Barrens-air push over Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp says redacted. Clearance insufficient. No edge. It will not open."
 
-I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. Push the barrens over the wall and the street under my boots stops being a place people live.
+I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air. Towers, feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
 
 "Say the first line again."
 
@@ -241,9 +241,9 @@ The socket at the back of my neck flares.
 
 It is a round mouth of metal where the head meets the spine, and a short tab under it. The skin around it reddens. The metal stays metal. A thin drill turns in the bone, bored, working a nerve it has owned for years. I set my teeth and keep my hands off it. Rubbing has never made the Spire kinder.
 
-Above the mast a harvester hangs on nothing. A black hull the size of a block, no exhaust, silent inside a wind that is busy everywhere else. The rigging on the cap whistles, and the hull adds nothing to it. I give it one glance and take the glance back. The Resource Wars ate the fuel, the refineries, and every board a plane needed if it was going to fly. What they grew instead knits, eats the paste they issue on this cap, and can still leave the lip.
+Above the mast an observer holds its place. A black hull the size of a block. No cable on it, nothing under it, no exhaust. The wind is busy and the hull does not take any of it. I give it one glance and take the glance back. We do not build those. The Resource Wars ate the fuel, the refineries, and every board a plane needed if it was going to fly. What they grew instead knits, eats the paste they issue on this cap, and can still leave the lip.
 
-Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate is a red cluster, and a prowler has been sitting in it since the drill started. The truck has not moved. The drill has not stopped. I watch both.
+Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate is a red cluster, and a prowler has been sitting in it since the drill started. Past the gate, Pylon Seven stands in the barrens, a tower with its foot in the ground and violet up the shaft. The copper is thicker over it. The truck has not moved. The drill has not stopped. I watch both.
 
 "Hold still, Commander," Rook says. "You're toasting my flatbread."
 
@@ -1639,7 +1639,7 @@ No stutter. No quiet sent on purpose. I am only fast in a tube and small where t
 
 ***
 
-The harvester stays on the horizon. It does not land. What lands is a prowler, government gray, kicking grit across the pad.
+The observer keeps its height on the horizon. Nothing holds it, and it does not come down. What lands is a prowler, government gray, kicking grit across the pad.
 
 Three of them step out. Directorate kit. Sockets in the necks, fitted and ordinary. No black in the veins. No fire along a wing, because two of them have no wings.
 
@@ -1830,7 +1830,7 @@ I have never been in it like this. Roofs, gantries, the long fall off a flange m
 
 Flak opens in the chemical haze, soft ugly flowers. Grit hits my teeth. I taste the band and I do not have a hand free to cover my mouth. His shoulder is a burn against my cheek. I cling and I am furious that clinging is the correct choice.
 
-"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
+"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. An observer holds past the light, and the wind leaves the hull where it is. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
 
 "Yard," he says.
 
@@ -2684,7 +2684,7 @@ Vram sits on a sheared girder. The wing along it is black. Dawn hits one vane an
 
 "Or partners," I say, and I kiss him at dawn like a woman who intends to keep the morning.
 
-The root opens on Gideon's bench because the Vault has the other half of the key and his hands are done being careful. The schedule we already heard. Fourteen months. The lee fails. The dome seals. Under that, the line that would not open on the service door: when the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
+The root opens on Gideon's bench because the Vault has the other half of the key and his hands are done being careful. The schedule we already heard. Fourteen months. The pylons south of the ring turned up, the lee fails, the dome seals. Under that, the line that would not open on the service door: when the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
 
 I put my forehead on the girder until the want to run at the glass passes. Running does not open a dome. The name stays in my mouth. He does not make me say it twice.
 

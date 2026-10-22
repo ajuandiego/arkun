@@ -6,13 +6,13 @@
 
 The road ends and the mirrors begin.
 
-They stand in broken rows past the south pavement, black, cracked, taller than the gantry I left. Somebody built a field to catch a sun and save the weather. The weather came anyway. The wall is a dark line behind the grit, and the bowls out here are older than the wall.
+They stand in broken rows past the south pavement, black, cracked, taller than the bridge I left. Somebody built a field to catch a sun and save the weather. The weather came anyway. The wall is a dark line behind the grit, and the bowls out here are older than the wall.
 
 Hollow towers line the south road. They were humming when I left the pavement. After that hum comes the glass wind: acid dust howling through the cracks, hard enough to sting the bare skin of my shoulders and pack the corner of my mouth. I came into the rows anyway, because the road was a clean line and the thing above me wanted one. I heard it leave the wall, a whistle with heat in it, and the grit took the long sight before the pavement could finish the introduction. I will take the grit over a clean shot.
 
 I pull the goggles down. Amber, scavenged, enough tint to make the pupils look like a welder's if anyone gets a calm look. Under them the membranes wipe once, a clear film under the lids, and the grit leaves the eye. I keep the pace.
 
-The earpiece is dead in my ear. I killed it on the gantry, after I told Ren to get to Drew and cut the set. If he obeyed, he is off the roof. If he did not, he is still counting a corner that no longer matters. Drew will be at the bench until somebody makes her leave it. T.J. will stay in the hole, because that is the only sensible habit any of us kept. An answer from me turns all three of them into a mark: the clinic, the bench, and the bunker under the street. I leave the set dead and I run.
+The earpiece is dead in my ear. I killed it under the bridge, after I told Ren to get to Drew and cut the set. If he obeyed, he is off the roof. If he did not, he is still counting a corner that no longer matters. Drew will be at the bench until somebody makes her leave it. T.J. will stay in the hole, because that is the only sensible habit any of us kept. An answer from me turns all three of them into a mark: the clinic, the bench, and the bunker under the street. I leave the set dead and I run.
 
 A shadow crosses the row ahead and is gone. Low. The pressure of it hits the ear and drops away, and I do not give it a size. It comes back on a long oval, once over the outer row and once nearer, the way a man checks a field before he spends the dive. I count the space between the passes while I run, because a count is still mine. The second pass is shorter. He is tightening. If I am still in an open lane when the next one decides to be a dive, the bowls will not save me. The mirrors wreck a straight line only if I am under them when he spends it.
 

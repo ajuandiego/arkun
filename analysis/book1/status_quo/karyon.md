@@ -4,7 +4,7 @@ What the reader understands about the occupiers by the end of *Stolen Breath*. T
 
 ## Lived
 
-* **They are here, and they are above the law the reader knows.** Barges in the high air. Inquisitors who walk onto a human redoubt and demand a man's telemetry. One of them dies on Vram's talons, and that death is treason, not a skirmish.
+* **They are here, and they are above the law the reader knows.** Observers in the high air. Nothing holds them up. Inquisitors who walk onto a human redoubt and demand a man's telemetry. One of them dies on Vram's talons, and that death is treason, not a skirmish.
 * **The leash is theirs in practice.** The noise in a soldier's skull is called the voice of his country. Silencing it is the crime. Cassian dies of it. Vram's career ends when he chooses the silence.
 * **The schedule is a weapon.** Chapter 1 steals a date. Chapter 42 decrypts it. Within fourteen months they collapse the lee, push barrens-air over the Ring, and seal the domes. People outside a city of this size do not live on barrens rules. Sora's lab is on the list of what gets cleaned up after.
 * **Something under the ground answers them.** The Gospel puts a hum in the bedrock, fourteen hertz, pylons waking, while a priestess brands herself with a rune for harvested cattle. The reader feels the occupation move from a decree to a machine.

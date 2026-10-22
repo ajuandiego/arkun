@@ -6,9 +6,9 @@
 
 The glass wind shoves grit through the rows, and I bank above it instead of going down.
 
-The order is already in the socket. Recover the runner. The file is worth more than the body. Under that, hotter, the other word from the wall: open her. I can do the second thing in one stoop. A straight line, a break, the slate in my hand before the suits finish shouting. I do not take it. The suits can have the first minute. I want to see what she does with the minute.
+The order is already in the socket. Recover the runner. The file is worth more than the body. Under that, hotter, the other word from the wall: open the intruder. I can do the second thing in one stoop. A straight line, a break, the slate in my hand before the suits finish shouting. I do not take it. The suits can have the first minute. I want to see what it does with the minute.
 
-From up here a runner is usually a bright streak against sand that has already given up its heat. This one stays cool. She keeps to the bowls that held the afternoon, a smear the same temperature as the glass, and the socket offers me a tag and then eats it. Nothing in the nape for the leash to bite. I file that and I keep the oval.
+From up here a runner is usually a bright streak against sand that has already given up its heat. This one stays cool. The smear takes a shape between the bowls. Narrow through the shoulder, a hook, no socket at the nape. She keeps to the bowls that held the afternoon, the same temperature as the glass, and the socket offers me a tag and then eats it. Nothing in the nape for the leash to bite. I file that and I keep the oval.
 
 The first suit takes the trench the way a man takes a door he has already decided is empty. Shin on a filament. A small pop. His light dies, the knees lock, and he goes into the sand swearing at a partner who is smarter than he is. She is on the face of the bowl before the swear finishes. Boot, push, and the rebound puts her on his shoulder. The valve behind the helmet vents a white rope into the dust. She tells him to stay down. She is off him before he can make a name out of her.
 

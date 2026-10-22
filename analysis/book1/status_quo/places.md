@@ -29,5 +29,5 @@ The reader can point at these. They have not lived in them.
 * What the Cathedral will look like, and whether it is a temple, a prison, or both.
 * Whether any road out of Sector 09 is still open after the purge.
 * The far side of the sea. The disc implies a crossing. It does not give a shore, a corridor, or a name the reader can use.
-* Spire Prime, the other Spires, and any room where Xaevis stands. Barges are a fear in the sky. The citadel is not a set.
+* Spire Prime, the other Spires, and any room where Xaevis stands. Observers hold in the sky. The citadel is not a set.
 * How many other rings exist, and whether Kira's crawler can reach one before the fourteen months run out.

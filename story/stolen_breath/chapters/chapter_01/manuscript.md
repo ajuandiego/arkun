@@ -4,7 +4,7 @@
 
 ***
 
-The wall closes the street. A hundred meters of metal, cold when the wind comes off it, with the dome's light leaking along the top edge and the south gate a red cluster too far down to be our problem until we decide it is. Silt ticks on the zinc and sticks in the cloth I pulled up for the walk. Faces under the cloth are bare. This close to the wall the air is still air, copper on the tongue, and the cloth is only winning a fight with the grit until the hour passes and people take it off. They are out anyway, because the night will freeze hard enough to push them indoors, and nobody wants to count coins with stiff fingers.
+The wall closes the sky. A belt of bare sand, then the street. A hundred meters of metal, cold when the wind comes off it, with the dome's light leaking along the top edge and the south gate a red cluster too far down to be our problem until we decide it is. Silt ticks on the zinc and sticks in the cloth I pulled up for the walk. Faces under the cloth are bare. This close to the wall the air is still air, copper on the tongue, and the cloth is only winning a fight with the grit until the hour passes and people take it off. They are out anyway, because the night will freeze hard enough to push them indoors, and nobody wants to count coins with stiff fingers.
 
 A mash cart has the wide part of the gutter. Mash is the thick green paste people eat when the day has run long, salty, scooped hot into a dented bowl, the meal you buy because it fills you and not because you want it. The vendor shouts a price as if the price might get embarrassed and climb down by itself. A woman answers with what she can pay. He shakes his head, she walks, and the man behind her buys at the quieter number without raising his voice: a bowl of the paste, a nod, the coins already counted in his palm. I know both numbers the way I know which roof will hold me. The shout is the ask. The sale is the one after it. I keep walking, because if I stop I will be late, and Drew enjoys late more than she enjoys mash.
 
@@ -38,7 +38,7 @@ She nods once, which is the whole of the praise I ever get from her, and it stil
 
 "Talk," she says.
 
-T.J. is already in the room, which means the set on the bench is live and he is under a street he will not come up from. Young voice. Close to the mic, the same closeness he used when he warned me off the prowler. "Twelve long passes. Same boots, same corner, same lazy turn back to the gate. Seven point eight from the corner to the mouth. The camera on that door looks at the gantry joint. It does not look at the keypad."
+T.J. is already in the room, which means the set on the bench is live and he is under a street he will not come up from. Young voice. Close to the mic, the same closeness he used when he warned me off the prowler. "Twelve long passes. Same boots, same corner, same lazy turn back to the gate. Seven point eight from the corner to the mouth. The camera on that door looks at the bridge joint. It does not look at the keypad."
 
 "And the wire," Tsune says.
 
@@ -56,7 +56,7 @@ I know that hour. Last month the guess was wrong, and Mercer spent it in the fro
 
 Tsune looks at me then, finished, the way she looks when she has already had the argument with herself and I was not invited.
 
-"You can stand on the roof that sees the corner. You count the boots. If the pass breaks the habit, you say it in the same breath. You do not come to the door. A second body on that gantry is a picture, and a picture paints this room."
+"You can stand on the roof that sees the corner. You count the boots. If the pass breaks the habit, you say it in the same breath. You do not come to the door. A second body on that bridge is a picture, and a picture paints this room."
 
 *Let me be close enough to pull you off if it screams early.* The want is so loud I am surprised the set does not pick it up. She has already heard it, from the shape of my mouth or from knowing me, and she has thrown it out.
 
@@ -74,8 +74,8 @@ I put the want on the floor with the silt I tracked in. "Seven point eight. If I
 
 Mercer coughs in the front room, an old sound, not mine. Tsune kills the bench lamp. Drew wraps the dead keypad in a rag and puts it under the bench, where a man boiling water will not ask what it is. I pull the cloth back up. The lane is the same street I came in on, people buying the last of the day before the freeze, the mash vendor still shouting a number he does not expect to get. The wall has not moved.
 
-I take the roofs instead of the stair. The prowler is a truck on the gate road, T.J.'s problem until he says the word, and I can live with a problem that has a person on it. From the third roof I can see the corner and the long empty walk back to the red cluster. The service door is a plain slab in the dark between those lights, with a gantry under it and no guard standing on it.
+I take the roofs instead of the stair. The prowler is a truck in the gate's lamps, T.J.'s problem until he says the word, and I can live with a problem that has a person on it. From the third roof I can see the corner, the sand, and the long empty dark back to the red cluster. Nothing crosses in front of that gate. A short bridge does, well off it, and the service door is a plain slab at the wall end, with no guard standing on it.
 
-She comes along that gantry small, collar up, one hand on the hook. She does not look at my roof. She doesn't have to. I have the set against my mouth and the number in my teeth, and the boots have not hit the corner yet.
+She is under the bridge, low, in the silt. I lose her. Then the hooks take the lip and she is on the landing, collar up, one hand on the hook. She does not look at my roof. She doesn't have to. I have the set against my mouth and the number in my teeth, and the boots have not hit the corner yet.
 
 When they do, I tell her. Until then I keep still. *Count.*

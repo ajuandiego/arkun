@@ -9,8 +9,8 @@ These technologies are monopolized by the Consortium and the karyon Spire:
 
 *   **Synthetic Biogenomics & Organogenesis:** Complete mastery of genetic splicing, chimeric organ growth, neural grafting (The Silver Spine), and accelerated cellular healing.
 *   **Chrysalis Longevity Therapy:** Proprietary telomerase and stem-cell therapies that indefinitely freeze physical aging for the Dome aristocracy.
-*   **Alien Atmospheric Vessels (The karyon Fleet):** Soundless, crystalline anti-gravity barges, atmospheric harvester obelisks, and high-orbital spires that operate without fossil fuels or mechanical moving parts.
-*   **Atmospheric & Shield Engineering:** Gigantic photovoltaic glass barrier domes and kilometer-tall terra-pylons capable of altering planetary gas composition.
+*   **Observers:** The karyon ships in the air, and the only mechanical hulls that fly. Gravity-defying: no tether, no exhaust, no need of the air under them. Black hulls, the size of a block, silent. The wing and the street say observer. Xaevis's order uses the same hulls as stations that take from the sky. They are not the Spires. The Spires are the orbital cities.
+*   **Atmospheric & Shield Engineering:** The dome shields, and the terra-pylons. The towers are in `../air.md`.
 *   **Nanocarbon Metallurgy & Directed Energy:** Hyper-dense nanocarbon weave armor, titanium bone-honeycombing, and plasma-arc suppression cannons.
 
 ### 9.2 Degraded & Preserved Technologies (The Dustborn Survival Tech)

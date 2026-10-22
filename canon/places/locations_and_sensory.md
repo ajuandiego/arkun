@@ -21,8 +21,8 @@ Sector 09, the first ring outside Bulkhead Wall Alpha. About 6 million people li
 
 *   **Visual Atmosphere:**
     *   Stacked shipping containers, corrugated zinc, jury-rigged cable, and neon over open alleys.
-    *   The wall fills one horizon: a hundred meters of seamless metal, with the dome's light leaking above it.
-    *   Dusk brings the violet pulse as the seeders fire. The bazaar opens once the silt drops.
+    *   The wall fills one horizon: a hundred meters of seamless metal, with the dome's light leaking above it. Bare sand, then the roofs.
+    *   Dusk brings the violet pulse as the observers fire. The bazaar opens once the silt drops.
 *   **Sensory Profile:**
     *   *Scent:* Hot copper, wet rust, chicory, cooked silt-mash, sweat. Sulfur only when the wind turns off the wall.
     *   *Sound:* Silt ticking on zinc, market talk, drone rotors, a stove in a packed room after dark. A breather valve is not the street's rhythm.

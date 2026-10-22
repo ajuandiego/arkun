@@ -4,7 +4,7 @@
 
 ***
 
-The harvester stays on the horizon. It does not land. What lands is a prowler, government gray, kicking grit across the pad.
+The observer keeps its height on the horizon. Nothing holds it, and it does not come down. What lands is a prowler, government gray, kicking grit across the pad.
 
 Three of them step out. Directorate kit. Sockets in the necks, fitted and ordinary. No black in the veins. No fire along a wing, because two of them have no wings.
 

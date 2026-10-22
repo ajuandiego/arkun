@@ -64,7 +64,7 @@
     *   *Core Action:* Xaevis has activated the global planetary Terra-Pylons; massive plumes of toxic nitrogen-sulfur are flooding the lower atmosphere. Humanity has two hours before life outside the domes is extinguished.
 *   **Chapter 15 (Vram): Battle of the Orbital Ring**
     *   *Setting:* The space between Spire Prime and Earth’s upper atmosphere.
-    *   *Core Action:* Vram leads an aerial armada of hundreds of chimeric pilots in an epic orbital dogfight against Archon Xaevis’s Harvester gunships.
+    *   *Core Action:* Vram leads an aerial armada of hundreds of chimeric pilots in an epic orbital dogfight against Archon Xaevis's observers.
 *   **Chapter 16 (Tsunari): Slicing the Neural Core**
     *   *Setting:* The computational heart of Spire Prime.
     *   *Core Action:* Tsunari and Ren fight their way into the central control mainframe, preparing the viral overwrite to reverse the planetary Terra-Pylons.

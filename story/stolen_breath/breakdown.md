@@ -14,7 +14,7 @@
 
 Worldbuilding and historical backstory are revealed through **four concentric rings of progressive discovery**—grounded strictly in what the characters touch, breathe, pay for, and bleed from:
 
-1. **Ring 1: The Scarcity & The Cage (Chapters 1 to 15):** Daily life in the lee outside the wall: copper on the tongue, the silt hour, water taken at dawn, the Night Freeze; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; the silent terror of floating alien karyon harvester barges.
+1. **Ring 1: The Scarcity & The Cage (Chapters 1 to 15):** Daily life in the lee outside the wall: copper on the tongue, the silt hour, water taken at dawn, the Night Freeze; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; karyon observers holding their place in the air, nothing under the hull.
 2. **Ring 2: The Vassal Empire & The Bio-Machine (Chapters 16 to 27):** The corporate-alien hierarchy (Apex GeneSys, Consortium oligarchs, a Directorate retrieval of one wolf and two rhinos); why soldiers have biological wings instead of aircraft (zero fuel, self-healing flesh); the trauma of the Gray Sector child drafts; the lethal consequences of treason.
 3. **Ring 3: The Wasteland & Apocalyptic Faith (Chapters 28 to 41):** The shattered pre-collapse ruins of the Rust Barrens; the feral dogs that den there; fractured historic religions and the meteoric rise of **The Enlightened** cult under **The Forger**; the secret of the Crucible Mutagen.
 4. **Ring 4: The Vault of Truth & The Planetary Countdown (Chapters 42 to 51):** Uncorrupted pre-collapse archives in The Glass Vault; the five strains as facets of the old sequence; the discovery of the Mosaic Keystone; the Vault opens the sealed root of the Lazarus Key. The 14-month schedule was already on the message that sat down on the open jack. The root adds the order under it, including Sora.
@@ -37,7 +37,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *What the reader sees:* The day outside the wall, and Tsunari as Ren knows her. Drew at the bench. T.J. on the set, and he does not come up.
     *   *Why the data:* Prowler taps, planted sets, and a lazy broadcast have kept them off the wrong stair and told the clinic which hour to shut the door. The security net is the map they do not have.
     *   *The new plan:* A jack in a live service door, off the south gate. They have not done it before. Drew fitted the tang. T.J. already owns the door's wire. Tsunari will hold the jack so the copy sits in her slate. Ren counts from a roof. Drew stays at the bench.
-    *   *The handoff:* He is on the roof when she steps onto the gantry. The next chapter is the tap.
+    *   *The handoff:* He is on the roof when she comes under the bridge and pulls up to the door. The next chapter is the tap.
 
 *   **Chapter 2 // Tsunari**
     *   *Lexicon:*
@@ -45,7 +45,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Setting:* A service door on the outer face of the wall, off the south gate. The main entrance stays the watched door.
     *   *Why tonight:* Ren, Drew, Tsunari, and T.J. take what they can from the dome: prowler taps, planted sets, a broadcast when one slips. Tonight is the security net. They watched the guard schedule. The gap between passes is seven point eight minutes. Drew stays at the bench. Jeffrey has no part in the tap.
     *   *Core Action:* Tsunari seats the bodkin in the keypad and holds still. The session rides the door's own wire into a tap T.J. already owns. He sees the console. She carries the copy in the slate. The pull includes a living staff line. He starts Sora's name and she cuts him off. As she goes to unplug, a second message sits on the session. The header is the Lazarus Key. He reads the fourteen months: the lee fails, barrens-air over the Ring, evacuation zero, the dome sealed. The line under it will not open. Nobody says the message came through her. The name and the two layers are in `canon/style/glossary.md`. T.J. is in `canon/characters/tj.md`.
-    *   *The cut:* The alarm starts when the jack leaves the keypad. She has twenty-five seconds. She is still on with both of them along the gantry. The moment the raven crosses the searchlights, she tells Ren to get to Drew and kill his set, and she cuts the link. T.J. stays in the bunker. The open channel dies with her. He keeps the passive watch.
+    *   *The cut:* The alarm starts when the jack leaves the keypad. She has twenty-five seconds. She drops back under the bridge and stays on with both of them while she runs. The moment the raven crosses the searchlights, she tells Ren to get to Drew and kill his set, and she cuts the link. T.J. stays in the bunker. The open channel dies with her. He keeps the passive watch.
     *   *Tactical Concealment & Field Gear:* The silhouette is `assets/media/character_tsunari.jpg`. The clothes, the slate, and the hooks are in `canon/characters/tsunari.md`.
     *   *Personal Stake (The Gilded Mirror):* Inside the security pull, T.J. starts a living staff line: Culture Lab 4, a Thorne, junior synthetics. She cuts him off before the name finishes. Her younger sister, separated ten years ago and listed incinerated, is alive inside the dome.
     *   *Hook:* High above, a wing crosses the searchlights. She knows a hawk and a raven, and the shadow will not tell her which is falling. The radio is already dead.
@@ -62,7 +62,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty; and **Specialist Amari (Swift)**, a blonde hawk on the same ledge, who gives him the wind on the south face and does not soften it. Her file is `canon/characters/amari.md`.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
-        *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent karyon harvester barges floating like black obsidian obelisks in the upper stratosphere.
+        *   *Observers:* The only mechanical ships in the air. Karyon hulls that hold their place with nothing under them and no exhaust. They are not the Spires, and they are not the pylons.
 
 *   **Chapter 4 // The Offer**
     *   *Time:* Forty years before the present. Year 0. Before the domes. The end of the old sky. The manuscript opens with that line.
@@ -213,7 +213,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 *   **Chapter 20 // Vram**
     *   *Lexicon:*
         > **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
-    *   *Setting:* The landing pad of Redoubt Station 14, then the lower mechanical room. A harvester hangs on the horizon and does not land. What lands is a government prowler.
+    *   *Setting:* The landing pad of Redoubt Station 14, then the lower mechanical room. An observer keeps its height on the horizon and does not come down. What lands is a government prowler.
     *   *Core Action:* One wolf and two rhinos step out in Directorate kit, sockets fitted, no black veins. One of the rhinos is a woman. She will charge. The other wedges the grate. They want the audit and a search. The wolf smells a second body and says so. Vram tries to talk the inspection through. The wolf goes into the shaft anyway. Vram hears her, then the horn stuck in the frame, and drops through the ceiling. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. The detail goes down.
     *   *The Turning Point:* Their blood is desertion the same hour. The leash can be turned up on Cassian, Toby, Rook, and Amari. Her hand on his wrist stops the climb, and that is a second crime. She does not thank him. The life that gave him the wing is on the floor.
 

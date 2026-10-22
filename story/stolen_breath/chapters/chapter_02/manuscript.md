@@ -4,7 +4,7 @@
 
 ***
 
-The door is a plain slab on the outer face, well off the south gate, a keypad at chest height and a gantry under my boots. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Below, the lane is still buying the last of the day. I can see the mash cart in the gutter, the vendor shouting a number he will not get, a bowl changing hands at the quieter price. The main gate is a red cluster to my left, lights and a truck and every gun they bothered to mount. This door is the dark between those lights.
+Copper silt sits under the bridge, thick enough to take a body that stays low. I come along beneath it. At the wall end I jump. The hooks bite, and I pull up onto the landing. The door is a plain slab, a keypad at chest height. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the lane is still buying the last of the day. The mash cart is in the gutter, the vendor shouting a number he will not get, a bowl changing hands at the quieter price. This door is the dark between those lights.
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
@@ -22,7 +22,7 @@ The jack is a recess under the keypad, the size of a thumb, silt gritted into th
 
 "Talk."
 
-"South stair changes in six minutes. Two on the gate mouth, both facing the truck. This door isn't on their board. The camera over you is pointed at the gantry joint, not the keypad. Hold."
+"South stair changes in six minutes. Two on the gate mouth, both facing the truck. This door isn't on their board. The sand is bare, and this bridge is the only crossing on the face. The camera over you is pointed at the joint, not the keypad. Hold."
 
 I hold. My free hand stays on the hook at my hip. The slate warms, a small heat over the bone. The picture stays on his console. The weight of the copy sits against my ribs.
 
@@ -48,7 +48,7 @@ Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's
 
 "Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09. Lee fail. Fourteen months. Barrens-air push over Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp says redacted. Clearance insufficient. No edge. It will not open."
 
-I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. Push the barrens over the wall and the street under my boots stops being a place people live.
+I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air. Towers, feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
 
 "Say the first line again."
 
@@ -68,11 +68,11 @@ A klaxon, close enough to put a buzz in the fillings. The jack locks shut.
 
 "I'll meet you at the stair," Ren says.
 
-"You will not." The gantry runs south under my boots, the wall on my left, a hundred meters of it, smooth, no handhold the eye can love. The south road is a dark cut at the bottom. "Stay on."
+"You will not." The wall on my left is a hundred meters of smooth metal, no handhold the eye can love. "Stay on."
 
-I drop to the lower flange, hook the crook, and let the fall stop in the shoulder instead of the spine. Boots hit. The knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. I am already moving.
+I drop off the landing. The hooks catch the lip, then let go. Boots hit the sand under the span. The knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. The silt takes the outline. I am already moving.
 
-Searchlights rake the main gate, white, then the red off the wall, then white again. The metal under my glove is cold enough to ache, seamless, nothing in it to hide a person. Below, shutters slam. A whistle cuts the alley. A woman pulls a child by the wrist, and neither of them looks up.
+Searchlights rake the main gate, white, then the red off the wall, then white again. The metal under my glove is cold enough to ache, seamless, nothing in it to hide a person. In the lane, shutters slam. A whistle cuts the first alley. A woman pulls a child by the wrist, and neither of them looks up.
 
 The header sits in the ear beside the name I would not let him finish. The slate knocks my ribs with both of them, and I do not have a free hand for either.
 
@@ -80,7 +80,7 @@ The header sits in the ear beside the name I would not let him finish. The slate
 
 "Then I won't be on the stair."
 
-"Prowler's nose is on the gate road," T.J. says. "It hasn't committed. I have the bearing if it turns."
+"Prowler's nose is on the gate," T.J. says. "It hasn't committed. I have the bearing if it turns."
 
 "Ren, where are you."
 
@@ -94,4 +94,4 @@ A shadow crosses the searchlights, a wing tucked and falling out of the dark abo
 
 I cut the link.
 
-The channel dies in the ear. The wing keeps coming. I run the gantry south, low, and I do not look up again until the flange turns.
+The channel dies in the ear. The wing keeps coming. I run south, low, and I do not look up again until the roofs close over me.

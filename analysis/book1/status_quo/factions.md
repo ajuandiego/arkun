@@ -14,7 +14,7 @@ Who the reader believes is holding power at the end of *Stolen Breath*. The ideo
 
 * **Apex GeneSys** as Corvus's house and Sora's lab. **Aethelgard** and **Vanguard** are company names the reader may pass in an epigraph or a patent. They are not characters.
 * **Kira's road** as a way out that is not a cell and not a guild. One crawler, one departure.
-* **The karyon as a sky and a schedule.** Barges, Inquisitors, a fourteen-month plan. The faction file is the species. What the reader has of the species is in `karyon.md`.
+* **The karyon as a sky and a schedule.** Observers, Inquisitors, a fourteen-month plan. The faction file is the species. What the reader has of the species is in `karyon.md`.
 
 ## Open
 

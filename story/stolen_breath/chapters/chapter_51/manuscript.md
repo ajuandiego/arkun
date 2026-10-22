@@ -16,7 +16,7 @@ Vram sits on a sheared girder. The wing along it is black. Dawn hits one vane an
 
 "Or partners," I say, and I kiss him at dawn like a woman who intends to keep the morning.
 
-The root opens on Gideon's bench because the Vault has the other half of the key and his hands are done being careful. The schedule we already heard. Fourteen months. The lee fails. The dome seals. Under that, the line that would not open on the service door: when the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
+The root opens on Gideon's bench because the Vault has the other half of the key and his hands are done being careful. The schedule we already heard. Fourteen months. The pylons south of the ring turned up, the lee fails, the dome seals. Under that, the line that would not open on the service door: when the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
 
 I put my forehead on the girder until the want to run at the glass passes. Running does not open a dome. The name stays in my mouth. He does not make me say it twice.
 

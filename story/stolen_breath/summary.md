@@ -25,38 +25,38 @@ The long pass is the guard's slow walk from the corner back to the gate, timed a
 - His breath catches. Drew hears it, does not make it a talk, and puts a hot cup by his hand.
 - Tsune comes in quiet. Ren does not inventory her clothes. He has known her for years, and the nape stays undescribed. He sees that she looks at the piece in Drew's fingers before she looks at him, and that the bodkin in her braid is short the blade on the bench.
 - She says the roof was clean and names him. He answers. She notes that he ran the alley. He says T.J. called the stair dirty and he listened. Her nod is the praise.
-- She tells the room to talk. T.J. is already on the set from under the street: twelve long passes, seven point eight from the corner to the mouth, and the camera looks at the gantry joint, not the keypad.
+- She tells the room to talk. T.J. is already on the set from under the street: twelve long passes, seven point eight from the corner to the mouth, and the camera looks at the bridge joint, not the keypad.
 - Tsune asks about the wire. T.J. already owns it. A jack in the keypad sends the picture down the door's own wire. He reads it. She holds still, and the copy sits in her slate.
 - Drew says the tang matches the scrap and a live door may take it or scream.
 - Tsune says they have tapped prowlers and caught lazy broadcasts, and they have never jacked a door that is still on the wall. Drew says that is the point: the security net tells them which doors are walked and which cameras are dead, so the clinic can shut the hour that matters.
 - Ren remembers last month's wrong guess, Mercer in the dark with a hand on a boy's mouth. Mercer is in the front, boiling something, and does not know about the door.
-- Ren offers to stand at the keypad. Tsune puts him on the roof that sees the corner. A second body on the gantry would paint the clinic.
+- Ren offers to stand at the keypad. Tsune puts him on the roof that sees the corner. A second body on the bridge would paint the clinic.
 - Drew stays at the bench. T.J. is not coming up, and he confirms it.
 - Ren wants the door anyway. He puts the want down and repeats the count: if he loses it, she pulls. She says if he loses it, she has already pulled. She takes the tang, draws the short grip out of her braid, seats the blade back on, and puts the bodkin through her hair again. They go at the silt, while the gate watches its own truck. He calls the corner boot and nothing else unless the number changes.
 - Mercer coughs in the front. Tsune kills the lamp. Drew hides the dead keypad. The lane goes on buying the last of the day.
-- Ren takes the roofs. The prowler is a truck on the gate road, T.J.'s watch, not a mystery. From the third roof he can see the corner, the long empty walk, and the plain service door with no guard on it.
-- She comes along the gantry small, and does not look at his roof. He has the set at his mouth and the number in his teeth. The boots have not hit the corner yet. When they do, he will tell her.
+- Ren takes the roofs. The prowler is a truck in the gate's lamps, T.J.'s watch, not a mystery. From the third roof he can see the corner, the sand, and the plain service door. Nothing bridges the gate. A short bridge does, well off it, with no guard on the landing.
+- She is under the bridge, in the silt. He loses her. The hooks take the lip and she is on the landing, and she does not look at his roof. He has the set at his mouth and the number in his teeth. The boots have not hit the corner yet. When they do, he will tell her.
 
 ## Chapter 2 // Tsunari
 
 The service door is a keypad off the south gate, on the wall's own wire. The wire stays open while the jack is seated.
 
-- The door is a plain slab off the watched south gate, keypad at her chest, the wall cold on her shoulder. Below, the same mash cart is still selling: a shouted price, a bowl at the quieter one. The main gate is lights, a truck, and guns. She does not open on a smell.
+- She comes under the bridge in the copper silt, jumps, and the hooks bite. The door is a plain slab, keypad at her chest, the wall cold on her shoulder. Across the sand, the same mash cart is still selling. She does not open on a smell.
 - Ren reports the last boot of the long pass, seven point eight, himself on the roof, Drew at the bench. Tsunari takes the blade off the bodkin. The tang under it was cut for a jack Drew measured off a dead keypad.
 - T.J. has the door's wire. She seats the jack, holds still, and the copy stays in the slate. No prowler on this face. The gate's attention is on its own truck.
 - She clears silt, seats the tang, and clips the slate. Blue tell. No broadcast. The session rides the door's wire into the tap he already owns.
-- T.J. has doors, cameras, and the pass list. He tells her not to pull. The south stair changes in six minutes. This door is not on their board. The camera looks at the gantry joint.
+- T.J. has doors, cameras, and the pass list. He tells her not to pull. The south stair changes in six minutes. This door is not on their board. The sand is bare, and this bridge is the only crossing on the face. The camera looks at the joint, not the keypad.
 - A living staff line is in the pull: Culture Lab 4, a Thorne, junior synthetics. He starts the name with S. She says stop. The rest finishes in her head, not on the set: Sora. The death rolls listed her as dead. Burned. She would be twenty. It can't be. The memory opens on the workshop lamp too close to her face, her tongue between her teeth, threading stripped copper through Tsunari's braid, proud of the blood on her thumb. It does not announce her age. Tsunari knows the thumb. She does not know the face. Then she tells him not to put the rest on the set.
 - He says the name is in the slate and she can pull. Then he stops her. A second message has sat down on the session. The door does not use that header.
 - He reads it like a memo he is spelling. Header: Lazarus Key. Sector 09. Lee fail. Fourteen months. Barrens-air push over the Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp: redacted. Clearance insufficient. No edge. It will not open.
-- She has never heard the name. She does not define the lee. She sees the stair she climbed this morning, Mercer, and Ren's catch, and the lane stopping being a place people live. He repeats it: fourteen months, then nobody on this side of the wall is on a list.
+- She has never heard the name. She sees the stair she climbed this morning, Mercer, and Ren's catch. The pylons south of the ring make the hard air: towers, feet in the barrens, worse in their shadow. Push that over the wall and the lane stops being a place people live. He repeats it: fourteen months, then nobody on this side of the wall is on a list.
 - Ren says they came for doors. T.J. does not know what the second message is. It is in the slate. The pass is at the corner. She must pull.
 - She unplugs, seats the bodkin back in the braid, and the keypad screams. T.J. gives her twenty-five seconds before the signal has a place. It is not on her yet.
-- Ren offers to meet her at the stair. She refuses. She drops to the lower flange, takes the landing in the knees, and runs.
+- Ren offers to meet her at the stair. She refuses and tells him to stay on. She drops off the landing, hooks catch and let go, and the silt takes her outline.
 - Searchlights stay on the main gate. Shutters slam. A woman pulls a child and neither looks up. The header and the unfinished name knock against her ribs with the slate.
-- T.J. says the light is still on their own door, and that lasts about as long as the log. The prowler is on the gate road and has not committed. He has the bearing if it turns.
+- T.J. says the light is still on their own door, and that lasts about as long as the log. The prowler is on the gate and has not committed. He has the bearing if it turns.
 - Ren is two roofs off the clinic stair. A shadow crosses the searchlights. She tries to sort it: a hawk is the narrow patrol that stays in a lane, a raven is the heavy drop they send to open someone. The shadow will not settle into either. No measurement. A whistle with a body in it, heat before the shape clears the lamp, and her hand is already on the hook. The fear is what sends the order.
-- She tells Ren to get to Drew and kill the set. He starts to argue. She cuts the link. The wing keeps coming. She runs the gantry south.
+- She tells Ren to get to Drew and kill the set. He starts to argue. She cuts the link. The wing keeps coming. She runs south, low, until the roofs close over her.
 
 ## Chapter 3 // Vram
 
@@ -64,17 +64,17 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 
 - Vram stands on the roost lip, three thousand feet up, no rail. He is six feet four in the boots, and the lip still feels narrow.
 - The socket flares: one round mouth, one short tab, a drill in the bone. He does not rub it.
-- A silent harvester hangs in the high air. There is no fuel left for a machine that has to come home, so they grew the wing.
-- The south gate is a red cluster where a crawler has been sitting too long.
+- An observer holds above the mast. A black hull, nothing under it, no exhaust. We do not build those. There is no fuel left for a machine that has to come home, so they grew the wing.
+- The south gate is a red cluster, and a prowler has been sitting in it. Past the gate, Pylon Seven stands in the barrens, foot in the ground, violet up the shaft. The copper is thicker over it. After the ice, the foot of the wall is gone behind the curve.
 - Rook tells him to hold still because he is toasting the flatbread, and leans the bread toward the heat of Vram's shoulder. Vram tells him he can retrieve it from the street. Rook eats a ration strip instead and blames the air over Sector 09. Vram tells him to check his pins.
 - Cassian, twenty-eight, hawk wings tight, says the north wind will strip a vane if they launch for nothing. Vram says they can preen after. Rook says a raven grows the feather back before the cursing is done.
 - Toby Vance, cream and rust vanes, Cassian's brother, offers an ice patch he traded two tubes for. Vram takes it. The drill drops from a scream to a wire.
 - Amari, blonde hawk, says the south face is dirty off the crawler well and will dump him if he takes it lazy. If he waits for a clean lane, whatever they are ringing the siren for will already be in the mirrors.
 - The siren hits. The socket snaps him to a knee. The order: breach, south wall, a jack in a service door, intercept, retrieve, open the intruder.
-- He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the gantry lights and do not drop into the street for a ghost. He reads the playback as a light frame, long stride, a clean tap, already making for the mirrors. Unregistered. That is why they want her opened.
+- He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the bridge lights and do not drop into the street for a ghost. The playback is a heat smear under the south bridge, already moving. Cassian throws the word back: a ghost, and Vram already gave it the roofs. Vram answers with the leash and the reason he will not wait. A delay puts the dive in the mirrors. Rook says they still want the body opened.
 - Amari tells him to beat the south face, not glide it. He opens the wings. Fourteen feet, black vanes, the one time the book measures the span, because it is his body and he knows it. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
 - The memory of the first throw, a sergeant with no name he was allowed to keep, sits under the drop. The air kept him then. It is the same air.
-- The crawler is a pale block in its own lamps. A heat smear runs the gantry south. He does not give her time to reach the mirrors. He beats, and the road comes up.
+- The prowler is a pale block in its own lamps. Copper on the span, and still no shoulders. He does not give the runner the time. He beats, and the sand comes up.
 
 ## Chapter 4 // The Offer
 
@@ -112,8 +112,8 @@ If you answer on an open set, you paint the house you are protecting.
 
 Recover the runner. The file is worth more than the body.
 
-- He does not have her name. She does not have his. To him she is the runner. To her he is the wing on the dive.
-- From above, her heat is wrong: a cool smear against glass that is still holding the day. No collar ping. No beacon. His socket offers a tag and eats it, because there is nothing in her nape to bite.
+- He does not have a name. The wall order says runner. Between the bowls the smear takes a shape: narrow through the shoulder, a hook, no socket. That is when she becomes a woman to him. She does not have his name. To her he is the wing on the dive.
+- From above, the heat is wrong: a cool smear against glass that is still holding the day. No collar ping. No beacon. His socket offers a tag and eats it, because there is nothing at the nape to bite.
 - The order is the packet, then open the intruder. The body is how the file walks.
 - The two suits are already down. She did not stay to finish them. She went where a dive has to choose a gap or eat glass.
 - He chooses the gap she left on purpose. She has already put a tilted bowl in his line. She watched the wing.
@@ -314,7 +314,7 @@ Plate is the hide on a rhino's neck, shoulders, and back. A knife skips off it. 
 
 Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
-- The harvester stays on the horizon. A government prowler lands. A wolf and two rhinos step out. Sockets, ordinary. No black veins. One rhino is a woman. She will charge the grate. The other will wedge it.
+- The observer keeps its height on the horizon. Nothing holds it, and it does not come down. A government prowler lands. A wolf and two rhinos step out. Sockets, ordinary. No black veins. One rhino is a woman. She will charge the grate. The other will wedge it.
 - The wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The wolf smells a second body in the ducts: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
 - The woman says they have a retrieval. Step off the grate, or she stops asking. He does not. He says stand down. The wolf goes into the shaft.
 - Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other rhino into the frame. The wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
@@ -364,7 +364,7 @@ You do not fire on your own wing.
 The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up.
 
 - She has never been in the air like this. The harness holds her. The wing lifts two people. Flak opens. Grit hits her teeth. His shoulder is a burn against her cheek. Clinging is the correct choice, and she is furious about it.
-- She looks anyway. The sky is bigger than the wall. His primaries are black. A hard beat throws a blue-violet sheen and it is gone. For one heartbeat she is sure of the shape of what they built him to do.
+- She looks anyway. The sky is bigger than the wall. An observer holds past the light, and the wind leaves the hull where it is. His primaries are black. A hard beat throws a blue-violet sheen and it is gone. For one heartbeat she is sure of the shape of what they built him to do.
 - The yard is one ruin of containers, close, not a second country. A slug snaps past his knee. She locks her ankles and keeps her eyes open.
 - She says if he drops her she will haunt the wing. He says he is not dropping her. Hold through the flare. Then they are down, and down is a problem he knows.
 
@@ -676,7 +676,7 @@ The salt flats are west of the ring. The cult's road. People taken that way do n
 - Kira takes a sealed case from Gideon and a copy of the date. He tells her, in front of Tsunari, that the case is not a sky. She takes it anyway. The Ring stays under the same lee. Sora stays inside the glass.
 - Vram sits on a sheared girder. The wing is black. Dawn hits one vane and throws obsidian, once, and the black takes it back. They cut their palms and press them together.
 - He says nothing. She says or partners, and kisses him at dawn like a woman who intends to keep the morning.
-- The root opens on Gideon's bench. The schedule they already heard: fourteen months, the lee fails, the dome seals. Under it, the line that would not open on the service door. When the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
+- The root opens on Gideon's bench. The schedule they already heard: fourteen months, the pylons south of the ring turned up, the lee fails, the dome seals. Under it, the line that would not open on the service door. When the sky is finished, the lower labs are a liquidation. Culture Lab 4. Sora Thorne. Marked.
 - She puts her forehead on the girder until the want to run at the glass passes. Running does not open a dome. He does not make her say the name twice.
 - Vram: they sleep in the bunker under the Vault. Her hand on his chest. The compact drying on their palms. For one hour he thinks the hour will hold.
 - Vapor comes in the vents, sweet and thick. His knees go. Chains bite. Hands drag. He hears her try to rise and fail. Somebody says the salt with reverence. West. The road people do not walk home from. He tries to vent. Nothing is left in the wing but a man's anger. They take him anyway.

@@ -12,9 +12,9 @@ The socket at the back of my neck flares.
 
 It is a round mouth of metal where the head meets the spine, and a short tab under it. The skin around it reddens. The metal stays metal. A thin drill turns in the bone, bored, working a nerve it has owned for years. I set my teeth and keep my hands off it. Rubbing has never made the Spire kinder.
 
-Above the mast a harvester hangs on nothing. A black hull the size of a block, no exhaust, silent inside a wind that is busy everywhere else. The rigging on the cap whistles, and the hull adds nothing to it. I give it one glance and take the glance back. The Resource Wars ate the fuel, the refineries, and every board a plane needed if it was going to fly. What they grew instead knits, eats the paste they issue on this cap, and can still leave the lip.
+Above the mast an observer holds its place. A black hull the size of a block. No cable on it, nothing under it, no exhaust. The wind is busy and the hull does not take any of it. I give it one glance and take the glance back. We do not build those. The Resource Wars ate the fuel, the refineries, and every board a plane needed if it was going to fly. What they grew instead knits, eats the paste they issue on this cap, and can still leave the lip.
 
-Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate is a red cluster, and a prowler has been sitting in it since the drill started. The truck has not moved. The drill has not stopped. I watch both.
+Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate is a red cluster, and a prowler has been sitting in it since the drill started. Past the gate, Pylon Seven stands in the barrens, a tower with its foot in the ground and violet up the shaft. The copper is thicker over it. The truck has not moved. The drill has not stopped. I watch both.
 
 "Hold still, Commander," Rook says. "You're toasting my flatbread."
 
@@ -42,7 +42,7 @@ Toby Vance comes off the colonnade with a foil patch in both hands and a quartz 
 
 "I ate." He holds the patch out. His eyes get as far as my chin. "Please, sir."
 
-I take it. The gel is cold on the red skin around the socket, and the drill drops from a scream to a wire. The gate sharpens: prowler, red lamps, the long dark of the south road beyond the wall. Toby's shoulders drop with the wire.
+I take it. The gel is cold on the red skin around the socket, and the drill drops from a scream to a wire. The foot of the wall is gone behind the curve. Toby's shoulders drop with the wire.
 
 The cold stays on the skin. The wire is still in the bone, only smaller, and I know which of the two will be here when the gel gives up. I leave the patch where he set it, and I leave the thanks unsaid. He would spend his own ice on the strength of a kind word, and the next hour is coming whether the truck moves or not.
 
@@ -54,7 +54,7 @@ The cold stays on the skin. The wire is still in the bone, only smaller, and I k
 
 Amari has the south corner and has not looked at the bread once. Blonde hair cut for the hood, a few strands at the jaw, wheat wings darker along the leading edge. The wind moves her vanes and does not move the rest of her.
 
-"South face is dirty," she says. "It comes off the gate, off that prowler, and a lazy beat dumps you on the road." She looks at me. "Wait for a clean lane and whatever they are about to ring for will already be in the mirrors."
+"South face is dirty," she says. "It comes off the gate, off that prowler, and a lazy beat dumps you in the sand." She looks at me. "Wait for a clean lane and whatever they are about to ring for will already be in the mirrors."
 
 The siren hits before anyone answers her.
 
@@ -62,15 +62,15 @@ Three wails take the cap, close enough that the buzz sits in the teeth. The crow
 
 Rook's bread hits the stone. His hand drops to the dagger on his thigh. Cassian's wings crack once for balance and fold tight. Toby's empty hand stays out, the patch already cold on my neck.
 
-I am on my feet before the white clears. Staying on the knee costs more than the drop will. The playback comes up with the stitch: a heat smear on the gantry, low and already running south, a light frame with a long stride for the height, and nothing on the leash from the wall.
+I am on my feet before the white clears. Staying on the knee costs more than the drop will. The playback comes up with the stitch: a heat smear under the south bridge, low and already moving. The smear is all the glass will give me.
 
-"South wall," I say. "They want the body opened. Cassian, hold the roost until I call the lane. Rook, Toby, lights on the gantry. If the runner breaks for the roofs, pin the roofs. You do not drop into the street for a ghost."
+"South wall," I say. "They want the body opened. Cassian, hold the roost until I call the lane. Rook, Toby, lights on the bridge. If the runner breaks for the roofs, pin the roofs. You do not drop into the street for a ghost."
 
-"She," Cassian says. "You took that off a smear."
+"A ghost," Cassian says. "You gave it the roofs off a smear."
 
-"Off the stride, and off a jack seated clean. She is not looking back. She's making for the mirrors."
+"Nothing on the leash. If it clears the bridge, the mirrors take the dive. I am not waiting for a clean lane."
 
-The scar sits in a straight mouth. Rook's voice has no joke left in it. "Nothing on the leash, and they still want her opened."
+The scar sits in a straight mouth. Rook's voice has no joke left in it. "And they still want the body opened."
 
 "That's the order." The stitch flares for the time I spent on the sentence. I roll my neck and the pain sits down, still there, finished with the argument. "Amari."
 
@@ -86,8 +86,8 @@ I have done this since they threw me off a lower ledge as a boy and told a numbe
 
 The mast falls away. The wing tucks. For three breaths there is only the drop, the wall a gray streak, the red lights racing up past my boots, and the whistle starting in the feathers. Then the wings bite, the air hits like a door, and I level over the ring and beat down the south face the way Amari named it.
 
-The gate swells. The prowler is a pale block in its own lamps. A heat smear runs the gantry south of it, low, fast, spending nothing on a look back. The mirrors past the road will ruin a straight dive if I give her the time to reach them.
+The gate swells. The prowler is a pale block in its own lamps. Copper on the span. No shoulders in it.
 
-I do not give her the time.
+I do not give the runner the time.
 
-The wind is dirty. I beat, the way she said to beat, and the road comes up.
+The wind is dirty. I beat, the way she said to beat, and the sand comes up.

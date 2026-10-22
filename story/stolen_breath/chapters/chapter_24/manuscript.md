@@ -10,7 +10,7 @@ I have never been in it like this. Roofs, gantries, the long fall off a flange m
 
 Flak opens in the chemical haze, soft ugly flowers. Grit hits my teeth. I taste the band and I do not have a hand free to cover my mouth. His shoulder is a burn against my cheek. I cling and I am furious that clinging is the correct choice.
 
-"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
+"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. An observer holds past the light, and the wind leaves the hull where it is. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
 
 "Yard," he says.
 
