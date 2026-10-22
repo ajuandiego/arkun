@@ -14,7 +14,7 @@ He is on the bench across from me. Harness smoking faintly at the wing roots. Ey
 
 *Not the mouth.*
 
-The heat sits on my cheek the way it sat in the shack, a brand with no hand behind it. In the shack I could call it the fight. Here the fight is over and the brand is still on me. There is a shaking man, a closed hatch, and my stomach doing a thing I already refused once. *File it. Then use him.*
+The heat sits on my cheek the way it sat in the shack, a brand with no hand behind it. In the shack I could call it the fight. Here the fight is over and the brand is still on me. There is a shaking man, a closed hatch, and my stomach doing a thing I already refused once. *Use him.*
 
 His mouth is parted. He is breathing on a count. The count is short. I look at the hatch so I am not looking at his mouth, and the looking away is its own kind of confession. Someone else is driving. A silhouette, a closed hatch, the tiller not in this room. He put me in the back and sat where he could see the door and the cuff.
 
@@ -28,7 +28,7 @@ In the shack his skull had been a held breath. I had my hand on the metal and th
 
 "Don't touch me."
 
-"You're already cooking." The heat reaches the cuff. The metal is warm from him, not from the prowler. I lean because the cuff allows the lean, and I put two fingers on the inside of his wrist, skin to skin, the way you check a pulse when you want the other person to think that is all you are doing. *This is a count. Not a want.* The stomach does not believe me.
+"You're already cooking." The heat reaches the cuff. The metal is warm from him, not from the prowler. I lean because the cuff allows the lean, and I put two fingers on the inside of his wrist, skin to skin, the way you check a pulse when you want the other person to think that is all you are doing. *Liar.* The stomach does not believe me.
 
 The tremor stops.
 
@@ -46,7 +46,7 @@ The tremor returns meaner, as if the absence charged it. He makes a sound he doe
 
 "A malfunction closes nothing." His gaze hits my mouth and leaves, fast, ashamed of the trip. The heat of that glance lands harder than the harness. The harness is a fever. A glance is a choice. *He looked.* I keep my face bored. Bored gets a better price.
 
-"Then stop leaning toward a malfunction."
+"Bullshit."
 
 He doesn't answer. The smoke at the harness thins to almost nothing. His pulse tries to be orderly under two fingers. Orderly is not calm. I can feel the difference, and I do not tell him I can.
 
@@ -98,4 +98,4 @@ The prowler hits a rut. The palm slips. He leans into the place where it was, fa
 
 I leave it. The bowls fall behind. South. His skin is too hot under the palm, and I am not moving the palm. The wing is folded along the bench behind him, too big for the room, and the heat off the roots sits on my knee. I could shift away. I don't. The not-shifting is the same problem as the hand, and I am going to lie to myself about it until the post.
 
-A lamp from the road hits his face and leaves. Fever-bright eyes. The scar on the jaw. I look at the scar so I am not looking at the mouth again, and the scar is not a safer place. *Count the bowls. Not him.* The bowls run out. The road keeps going south, and my hand stays, and his pulse stays where I put it. For as long as the palm stays, he can drive a bargain. The moment I lift it, he is a patient. I know which one I can survive.
+A lamp from the road hits his face and leaves. Fever-bright eyes. The scar on the jaw. I look at the scar so I am not looking at the mouth again, and the scar is not a safer place. *Not him.* The bowls run out. The road keeps going south, and my hand stays, and his pulse stays where I put it. For as long as the palm stays, he can drive a bargain. The moment I lift it, he is a patient. I know which one I can survive.

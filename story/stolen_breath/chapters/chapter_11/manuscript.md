@@ -38,7 +38,7 @@ I look at her once. Sage, faint, the same as the shack, closer now because I put
 
 The tunic leaves the shoulders bare. Slate scales on the outer shoulder, small, pebbled, catching the cabin lamp and giving it back dull. I want to know if the cool is only in the palm, or if the shoulder would be cool too. She sees me see it. Her mouth parts, a refusal, not a smile, and the pulse kicks in my throat for a reason that has nothing to do with the road.
 
-*Don't.*
+*Don't, you asshole.*
 
 The want is specific and humiliating. The shoulder, the mouth, and the palm that is the only reason I can tell them apart. If I reach for her she will use her teeth, or the cuff, or the simple fact that I need the hand on my arm more than she needs me alive. I would deserve it. My hands lock on the wheel. I put my eyes back on the ruts and I leave them there. The look stays in the hands anyway. They know where her shoulder is. I do not let them go there.
 

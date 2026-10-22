@@ -78,4 +78,4 @@ I take the roofs instead of the stair. The prowler is a truck on the gate road, 
 
 She comes along that gantry small, collar up, one hand on the hook. She does not look at my roof. She doesn't have to. I have the set against my mouth and the number in my teeth, and the boots have not hit the corner yet.
 
-*When they do, I tell her. Until then I keep still, and I count the habit we are about to spend.*
+When they do, I tell her. Until then I keep still. *Count.*

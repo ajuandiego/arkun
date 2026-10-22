@@ -32,7 +32,14 @@ A scene with two people in it should sound like two people. They bargain, needle
 
 Interior life is spoken, not filed. A direct thought goes in italics, with no quotation marks, the way `format.md` already has it. Tsunari can be mean, funny, and wanting in the same breath. Vram can swear at himself, want her, and hate that he wants her. The thought is a sentence a person would actually say to an empty room.
 
-The narrator keeps the paragraph. A thought cuts into that paragraph as a few words or one line. *What is this.* *Does she know.* *Don't let it end.* A whole paragraph of italics is a speech he is giving himself, and he almost never does that.
+The narrator keeps the paragraph. A thought cuts into that paragraph as a few words or one line. *What is this.* *Does she know.* *Don't let it end.* A whole paragraph of italics is a speech he is giving himself, and he almost never does that. A run of self-coaching orders (*File it. Use him. Count.*) starts to sound like a manual. Let one of them be messier. *Liar.* *Not him.*
+
+### Hard words
+A hard word is a strike. Fuck, shit, bullshit, damn, hell, asshole. Most chapters do not spend one. A chapter that spends one does not spend a second.
+
+Tsunari says it out loud, short, and mean. Bullshit when a man is wasting her time. Asshole at someone who earned it, into the dust or in her head, not as a name she calls him. Vram swears at himself, and the word stays in the thought. Out loud he is still a commander. He does not spend the curse on the first silence. That minute stays plain.
+
+Jeffrey does not have this mouth. The ambassador does not. A child does not. Ren does not spend it on an open set. No sexual obscenity. No slurs. They do not call each other asshole as a love word.
 
 Hazard and sight lines stay. They are how these two see. They are not a lab report and they are not a briefing. If a paragraph could be pasted into a manual, it is wrong for the page.
 
@@ -74,8 +81,8 @@ The same rule covers the later feeling scenes. The lie, the compact, the culvert
 ## 4. Dual-POV Voice & Survival Pragmatism
 
 ### Alternating Dual POV Strategy
-*   **Tsunari's Voice:** She thinks in hazard, leverage, and what a thing costs. She says it to herself in a human voice: mean, funny, wanting, already measuring the exit. A lab word for a simple thing is still a miss.
-*   **Vram's Voice:** He thinks in sight lines, heat, and her smallest movement. He also talks to himself. When a feeling hits, he stays in it. Short is not the same thing as true.
+*   **Tsunari's Voice:** She thinks in hazard, leverage, and what a thing costs. She says it to herself in a human voice: mean, funny, wanting, already measuring the exit. A lab word for a simple thing is still a miss. A hard word, when she spends one, is in "Hard words" above.
+*   **Vram's Voice:** He thinks in sight lines, heat, and her smallest movement. He also talks to himself. When a feeling hits, he stays in it. Short is not the same thing as true. A hard word, when he spends one, is at himself, and the rule is in "Hard words" above.
 *   **The Zero-Ideology Rule:** Neither character wastes narrative space on political pontificating, modern cultural debates, or preachy morality. Their language and thoughts are stripped of dogma: they care about water, air, ammunition, thermal shelter, and keeping each other breathing. Common sense rules every chapter.
 
 ---

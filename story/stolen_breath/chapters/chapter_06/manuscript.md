@@ -40,7 +40,7 @@ The mouth wants to move. A sound starts in the chest, too close to a laugh for t
 
 "Clever girl."
 
-It comes out quiet, for me, and the wind takes it before it can become a speech. The leash hates the tone. A hot stitch, small, a reminder that respect is not retrieve. I take the gap anyway, because the gap is real and because I want the angle she thought she had finished. The wings tuck. Grit and black splinters. The whistle starts in the feathers. I go through on the side she did not quite close.
+It comes out quiet, for me, and the wind takes it before it can become a speech. The leash hates the tone. A hot stitch, small, a reminder that respect is not retrieve. *Fuck.* I take the gap anyway, because the gap is real and because I want the angle she thought she had finished. The wings tuck. Grit and black splinters. The whistle starts in the feathers. I go through on the side she did not quite close.
 
 She hears it. A runner with any sense would spend the open lane and pray the dust does the rest. She turns into the dive with the hook already up, fast and low, the strike aimed at the place a neck would be if I were fool enough to lead with it. They run from the wing. She comes at the beak, and I am glad, which the stitch treats as a crime. I have time to feel both. A killing stoop would have put her through the bowl and saved me the argument. I want the hands, and the slate in them, and the woman who counted my passes still alive enough to know the gap failed her.
 

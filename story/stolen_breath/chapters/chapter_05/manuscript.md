@@ -46,6 +46,8 @@ I slide under the line. The shot takes the bowl behind me. The bowl comes apart,
 
 "One is down," he says, thick, into a speaker I did not bother to kill. "Berm. She is armed. She is small and she hits like the ground moved."
 
+"Asshole," I tell the grit. His speaker can keep the rest.
+
 I do not stay to tie him. A tied man is a minute, and the shadow is the minute I do not have. I check the slate with the heel of my glove. The tell stays dark. The collar stays up over the nape. A light, or a bare neck, would do the wing's work for it.
 
 It passes again, lower. The pressure changes in the ear. Feathers somewhere in the grit, a whistle with a body in it, and then only the howl. Still no number I am willing to put on the shape. I seat the hooks at my hips and I go deeper on the next pass. I wait until the pressure hits, then I move while he is committed to the line he already chose. The howl covers the boots. When the pressure drops I am two rows in, and the lane I left is empty. He will not mistake that for a win. The bowls stand thicker here. A dive has to choose a gap or eat the glass.

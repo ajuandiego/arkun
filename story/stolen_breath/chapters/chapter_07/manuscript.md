@@ -58,7 +58,7 @@ I look at the scar so I do not look at the mouth.
 
 "Watch me fail, then. You'll still have to spend a hand to stop the try, and a hand you spend is a hand off my wrist."
 
-He almost smiles. It dies before it becomes the look he gave the gap outside, the one I was not supposed to see and did. A man who looks at you like that will hesitate. A hesitation is a door.
+He almost smiles. It dies before it becomes the look he gave the gap outside, the one I was not supposed to see and did. *Asshole.* A man who looks at you like that will hesitate. A hesitation is a door.
 
 His grip tightens. He does not reach for the bun yet. I do not get the bodkin free. We stay there, heat and brick and the slate digging a corner into my ribs. The fight has run out of easy blood. It has not run out of the count.
 

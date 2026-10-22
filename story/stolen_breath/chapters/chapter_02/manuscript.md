@@ -30,7 +30,7 @@ I hold. My free hand stays on the hook at my hip. The slate warms, a small heat 
 
 "Stop."
 
-The rest of the name finishes in my head and stays there. Sora. The death rolls listed her as dead. Burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. How. It can't be.
+The rest of the name finishes in my head and stays there. *Sora.* The death rolls listed her as dead. Burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. How. It can't be.
 
 The workshop lamp is too close to her face. Her tongue sits between her teeth while she threads stripped copper through the end of my braid, because she wants it to look like a wire and not a ribbon. The copper takes the skin off her thumb. She holds the thumb up, proud of the bead of blood, and tells me it has to be tight or it will not hold. I can still feel the tug. The braid against my skull is that braid. I don't know the face that comes after twenty. I know the thumb.
 
@@ -86,7 +86,7 @@ The header sits in the ear beside the name I would not let him finish. The slate
 
 "Two roofs off the clinic stair. I can see the lights. Give me the time and I'm there."
 
-A shadow crosses the searchlights, a wing tucked and falling out of the dark above the wall. Hawks I know by the narrow cut, a patrol that stays in its lane and goes home. A raven is the drop they order when they want someone opened, and the wing is too heavy for a lane. I try to put this shadow into one of those and it will not go. The feathers whistle, a sound with a body in it, and the heat of the dive reaches me before the shape clears the lamp, ozone and hot metal, the hair on my arm lifting as my hand finds the hook.
+A shadow crosses the searchlights, a wing tucked and falling out of the dark above the wall. Hawks I know by the narrow cut, a patrol that stays in its lane and goes home. A raven is the drop they order when they want someone opened, and the wing is too heavy for a lane. I try to put this shadow into one of those and it will not go. The feathers whistle, a sound with a body in it, and the heat of the dive reaches me before the shape clears the lamp, ozone and hot metal, the hair on my arm lifting as my hand finds the hook. *Fuck.*
 
 "Ren. Get to Drew. Kill the set."
 
