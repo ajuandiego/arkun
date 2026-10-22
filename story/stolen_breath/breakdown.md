@@ -146,7 +146,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
         > **A bearing.** A direction from a boy who will not leave his bunker. It can tell you which road. It cannot tell you to come up.
     *   *POV:* Drew, first person, present. Her file is `canon/characters/drew.md`.
     *   *The road:* She leaves the clinic with a kit and a shortwave, and T.J. is in her ear the whole way. He is 14. He has the bearing and the silt, and he will not come up, and she stops asking him to. Ren is beside her because he would not stay in the hole. The south road is the lee thinning, then the mirrors, then a watchpost she can see and cannot enter.
-    *   *The turn:* Tsune's voice comes up and tells them to go home. Drew hears a second person in the room and does not get a name. She turns the cart around because Tsune asked, and she hates the mile she is walking back. She does not tell Mercer where the road ended. She tells him they lost the signal at the mirrors.
+    *   *The turn:* She calls from the last mirror on the shortwave. The words of the answer are Chapter 12's. On this page she hears the order to go home, a second breath, and no name. The set dies. She turns the cart around because Tsune asked, and she hates the mile she is walking back. She does not tell Mercer where the road ended. She tells him they lost the signal at the mirrors. After he leaves the room, the same shortwave gives her what T.J. kept: the beacon died, the prowler stayed past the mirrors, no body on the gate log, and the copy he saw is still on his screen. He does not read it on the air. He does not come up. The dome cannot hear the set. Anyone nearby with a box can.
     *   *What she is counting:* The slate, the leads, the bodkin tang she keeps working even when the woman who uses them is not in the shop. She knows the bare nape. She does not say it on an open relay.
 
 *   **Chapter 14 // Vram**
@@ -183,7 +183,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Lexicon:*
         > **A wing root.** The place the wing grows out of the back. The socket sits above it. What she is about to see is bone, metal, and a body that was built, not born that way.
     *   *Setting:* The fortified living quarters of Redoubt Station 14.
-    *   *Core Action:* Tsunari observes Vram stripping off his flight harness to clean and treat his wing roots and the siphon. She sees the flesh swollen on both sides of the socket, and the black quills growing directly from living bone.
+    *   *Core Action:* Tsunari watches Vram treat the wing roots and the siphon. The cloth and the ice-salve come out of the harness rig. The salve is issued for the reddened skin. It does not stop the drill. She sees the flesh swollen on both sides of the socket, and the black quills growing directly from living bone. She asks who comes if the weather lie fails. He gives her Cassian, and no one else.
     *   *Sensory & Forbidden Attraction:* Stripped to the waist in the dim bunker, Vram's bronze back is corded with massive muscle and scar tissue. Tsunari feels an illicit shock of heat in her belly watching the play of light across his pectoral plates and flared wing joints. She despises herself for noticing how beautiful his broad, lethal body is, forcing her gaze away as her throat tightens.
     *   *Emotional Beat:* The realization that Vram is not an arrogant monster, but a mutilated, enslaved lab subject whose body is cannibalizing itself to serve the regime.
 
@@ -192,7 +192,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
         > *You had a name. You will answer to the number.*
     *   *Setting:* The watchpost balcony at twilight.
     *   *Core Action:* As dusk turns the toxic sky into bruised violet and molten brass, Vram’s fragmented childhood memories surface—remembering the day he was dragged from a Gray Sector dormitory, stripped of his name, and re-designated *Subject AE-701*.
-    *   *Dynamic & Forbidden Longing:* A rare moment of quiet vulnerability between them across the stone threshold. Watching Tsunari lean against the parapet, her profile bathed in violet light, Vram is struck by a fierce, involuntary ache to cross the distance and pull her close. But his training and ideology paralyze him: she is an insurgent who despises his uniform, and to reveal his desire would risk her contempt or a blade in his throat. He keeps his distance, knuckles white against the railing.
+    *   *Dynamic & Forbidden Longing:* A rare moment of quiet vulnerability between them across the stone threshold. The number slips out of him. She does not use it again. She asks what a day on the roost is when nobody is hunting. He gives her two things: Rook's ration toasted on his shoulder, and Toby's ice on the socket. He will not say he likes them. She tells him the rolls burned a sister, and she does not give the name, and she does not give the lab list. Watching her against the low wall, he aches to cross the step and does not. She would read it as a grab, and she would be half right.
     *   *Review (sector bands):* The spoken memory still says "Sector 04 child dormitory," then calls it the Gray Ring. Sector 4 is industry inside the shield. The dormitory is a Ring orphan ward. Review the line and name Sector 09.
 
 *   **Chapter 18 // Tsunari**

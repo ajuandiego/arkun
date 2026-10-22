@@ -4,28 +4,34 @@
 
 ***
 
-He hangs the harness on the crate and the wing comes with it, heavy, wrong in a concrete room.
+He works the harness off the wing root and hangs the rig on the crate. It is heavy in a concrete room, and there is nowhere honest to put it.
 
-The post is the same box. Shortwave dead on the dial I killed. My slate is face-in on the strap. He has not asked for the hand in an hour, and the tremor is back in the jaw because of it. He peels the shirt anyway. The straps have cut red grooves where the wing leaves the back. Above that, the socket: one round mouth of metal, a short tab, the skin on both sides swollen and angry, as if the body has been trying to close over a thing that will not close.
+From the rig he takes a cloth and a small tin. Issued. The same kit that rides the leash, not a bag he packed for me. He peels the shirt. The straps have cut red grooves where the wing leaves the back. Above that, the socket. One round mouth of metal, a short tab, the skin on both sides swollen, the body trying to close over a thing that will not close.
 
-Black quills come out of the live bone. Not a costume. A growth. I look once. The light from the crate lamp moves over the scarred muscle and the place the feathers seat, and my stomach answers before I give it a job. Heat, low, indecent. I put my eyes on the bolt of the roof hatch.
+"Ice-salve," he says. "For the red. It does not stop the drill. It keeps the skin from splitting. The cloth is for the grit. Glass wind packs a root the way it packs a mouth."
 
-"You can hate it from there," he says. His voice is rough. "I have to clean it or the next beat tears."
+Black quills come out of the live bone. A growth, not a costume. I look once. The crate lamp moves over the scar and the place the feathers seat, and my stomach answers before I give it a job. Heat, low. I put my eyes on the bolt of the roof hatch.
+
+"You can hate it from there," he says. "I have to clean it or the next beat tears."
 
 "I'm not your nurse."
 
-"I didn't ask for one." He works a cloth along the root, careful, the way a man cleans a weapon he did not choose. The wing shifts. Feathers tick the wall. "The socket cooks if I leave the sweat in it. The wing cooks if I leave the grit. They built both to be used. They did not build either to be kept."
+"I didn't ask for one." He works the cloth along the root. The wing shifts. Feathers tick the wall. "They built both to be used. They did not build either to be kept."
 
-I hear the lie he told Corvus sitting under that. A weather hold. A dead runner. His hands are steady on the cloth and shaking everywhere else.
+"If she checks the weather, who comes?"
 
-"Turn," I say.
+"Cassian." He does not look up from the root. "My second. He repeated the report because I sounded like myself. If the sky clears and I am still on this post, he will come. He is afraid of the socket. He will come anyway."
 
-He turns. The chest is a furnace even across the room. Bronze skin, old burns, a scar at the jaw I already know. Beautiful is the word I refuse. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who has to carry it.
+I file the name. A man who believes a log is a man who walks into a room. One is enough. I do not ask for the rest of the wing.
 
-I cross the concrete because the tremor has climbed into his shoulder and the cloth has stopped moving. Two fingers on the inside of his wrist. The shake dies. His eyes shut.
+"Turn."
 
-"That's the bargain," I say. "You don't get a sermon with it. And you don't get to call this mercy."
+He turns. The chest is a furnace even across the room. Old burns. The scar at the jaw I already know. Beautiful is the word I refuse. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who carries it.
 
-"I won't." He opens his eyes. The want in them is plain and he hates it as much as I hate the heat in my own stomach. "Stay until the root is clean. Then take the hand back. I can stand the noise better when I know the time."
+The tremor climbs into his shoulder. The cloth stops. I cross the concrete and put two fingers on the inside of his wrist. The shake dies. His eyes shut.
 
-I stay. I watch the hatch, not the mouth. The quills under my free hand are hot and alive, and I file the fact where I file leverage: a body that was made, still choosing, for this hour, not to spend me.
+"That's the bargain," I say. "You don't get a sermon. You don't get to call it mercy. And Cassian does not get my people. The one whose name you heard keeps my tools. She is not a soldier. The boy on the set does not come up. That is all you get."
+
+"I won't spend it." He opens his eyes. The want is plain, and he hates it. "Stay until the root is clean. Then take the hand back."
+
+I stay. I watch the hatch, not the mouth. The quills under my free hand are hot and alive. A body that was made, still choosing, for this hour, not to spend me.

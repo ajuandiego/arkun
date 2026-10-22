@@ -18,7 +18,7 @@ From this beat:
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Drew is on the shortwave. Tsunari turns them around and pulls the relay. The clinic and the bunker stay off the set.
+- Drew is on the shortwave. This chapter owns the words of the call. Tsunari turns them around and pulls the relay. The clinic and the bunker stay off the set. Chapter 13 does not replay the transcript.
 - His height was stacking three times on this page. Once is already too many. The wingspan stays out.
 - The tunic is already known.
 

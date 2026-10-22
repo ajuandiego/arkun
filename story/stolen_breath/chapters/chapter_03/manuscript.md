@@ -6,7 +6,7 @@
 
 The roost has no rail.
 
-I stand on the lip, boots on frost, three thousand feet of copper dark under the toes. The mast rises through the crown of the dome and stops in a cap of stone. Wind comes off it hard enough to push a man who is only a man. I am six feet four in the boots, and the lip still feels narrow.
+I stand on the lip, boots on frost. The mast starts in the center, in Sector 1, and does not stop until it has come up through the glass and set this cap of stone on the outside of the crown. Three thousand feet of it under the toes. The shield is a shallow vault of hexagonal ribs, running out and down to the wall. Inside, the light is emerald, and the towers stand in it, small, a city keeping its own day. Outside, the air is copper and violet, and the frost is already on the stone. Wind comes off the glass hard enough to push a man who is only a man. I am six feet four in the boots. The cap is three hundred feet of stone and windbreak, open the whole way around, and the lip still feels narrow.
 
 The socket at the back of my neck flares.
 
