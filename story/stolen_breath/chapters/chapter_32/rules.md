@@ -13,8 +13,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- The lead dog comes in. The move she was never taught arrives in the body. Do not name it first, and do not explain it as a codon or a delay.
-- The animal is a dog. The old class name stays off the page, including the line about a beast that does not roar.
-- No wingspan.
+- She says partners, or nothing, in the scene. The line is not softened into safety.
+- Her cool skin takes the fever. That is the Raptor body. A lesson that calls her cold-blooded, or compares her skin to river stone, comes out.
+- The cold is why she gets on the cot. One sensation. No weather essay. No weight.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

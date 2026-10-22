@@ -1,21 +1,21 @@
-# Chapter 41 // Tsunari
+# Chapter 41 // Vram
 
-> **A rail-flail.** Iron on a spring, built to break a body that can fly. It needs room. A falling gate does not give it room.
+> **The dose.** What they drink at the altar only tips the mind. What they put in a vein in the back room is what makes an Ember. Few live through it.
 
 ***
 
-Malakar needs a stage. I take the stage away.
+We go back for the proof because Chen's hours will not matter if the sump is building an army in a closet.
 
-The flail is a length of iron on a spring, pneumatic once as it arms, hungry for space. He swings at Vram's wing and the catwalk rings. I am not in that swing. I am at the sluice winch with the last charge Drew packed for a door, an acoustic pop, ugly and small. The gate above Malakar complains. Then it falls.
+The distillation room is behind the cistern we fled. Quiet now. The altar cup is a stain on a bench. I do not replay Caelia's ceremony. I know what a thin drink does. It tips a mind. It does not make the thing that hit Tsunari in the water.
 
-Iron fills the room the flail wanted. He has to fold the weapon or lose the arm. He folds. We run.
+The back room is the needle. A cot with restraints. A tray. A recorder left in a hurry, optical, still warm. Tsunari seats a lead and the slate drinks the file without broadcasting it.
 
-The aqueduct after that is a throat. We hit a bend and have to stop chest to chest, his wing jammed, my hooks against his ribs, both of us breathing the same bad air. His mouth is close enough that the kiss is a fact we do not spend. His hand stays on the wall beside my head. Mine stays on the slate strap. A held breath. The want is enormous. The exit is behind his shoulder, and the exit wins.
+Malakar, younger by a year on the image, screaming while something goes into the vein. The scream changes. What stands up is stronger, hotter, sure, the pain burned off the edges. An Ember. The tray beside the cot has three more restraints and two empty ones. A handful. Not a nation. Suicidal shock troops, made in a room we were dragged past.
 
-"Not here," I say.
+"Few live through it," she says.
 
-"No." He is shaking with the fight and with the not-kiss. "Partners. The word still stands."
+"He lived. She lived. The rest are the kneelers, or the dead." I pocket nothing. The copy sits in her slate. "We don't drink it. We don't carry the needle. We carry the picture."
 
-"It stands. Move."
+A step in the hall. We kill the slate's tell. The step goes on, a patrol that is bored. We leave by the pipe we came in, the recording against her ribs, the altar behind us doing what altars do when nobody is performing.
 
-We move. Behind us the cistern is a roar of people who wanted a god and got a fallen gate. Ahead, the dark goes toward a market, smoke and voices, a walk, not a new city. I keep the charge's aftertaste in my teeth and the almost of his mouth in a place I will not open until a room has a second door.
+The vault is next, if Gideon still keeps a door. The cult's secret is already in our hands, small and filthy and enough.

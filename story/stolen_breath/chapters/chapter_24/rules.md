@@ -13,8 +13,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Locked to his chest, terror and safety can share the flight. His wingspan does not get another number.
-- The squad in the air can have a span once, for the lights. Then stop.
-- The cadence stays above the chapter. She does not recite it.
+- First time in the air. The terror and the wing are the chapter. The span is not measured again.
+- The letter above the chapter is not something she reads.
+- The yard is already in sight. There is no second country under them.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

@@ -1,29 +1,23 @@
 # Chapter 25 // Vram
 
-> *You do not fire on your own wing.*
+> **The dead band.** A poisoned strip at the edge of the ring, hosed so nothing grows out. Past it, one ruin: the freight yard. Containers, a drain, a basement.
 
 ***
 
-The dead band is a few miles of bad ground and a rim of pale lakebed. I have her locked to my chest and the wing is doing two jobs. Fly. Don't crush her.
+The turrets wake when we cross the lip of the band.
 
-Cassian is on my left, Hawk, patrol span, the man I told to hold a roost. He does not fire. I see the hesitation in the way his hands stay open. He was told a weather report. He was told a corpse. He is looking at a living woman in my harness and the order in his skull, and the order is losing by a second at a time.
+Phosphor. A hose of it, not rain, a chemical line that eats color out of the air. I roll. The roll puts her under the wing for one second and the next second the shrapnel finds the left vane. Pain is a white nail through the root. Feathers tear. The beat staggers.
 
-"Commander," he says on the channel. "Land and I can still call this a return."
+"Down," I say, which is not a choice anymore.
 
-"You can't."
+She doesn't scream. She locks harder. The yard comes up too fast: containers, a black mouth of drain between them, the lakebed rim. I aim for the mouth because the pad of the yard is a place guns can finish. The drain is a guess.
 
-Rook comes in hot on the right, irreverent even now, and the slug he sends goes wide into the haze. "Targeting optics full of dust!" he shouts, for the log, for whoever is counting loyalty. The next shot is wide too. He is a Hawk. He does not miss twice unless he means to.
+We hit water that is not water. Cold, chemical, a slam. The harness buckle tears skin at my ribs. She comes off my chest only because I rip the strap before we drown in a pipe. The wing drags. I haul her onto a dry ledge above the wash by the harness webbing and then by the wrist.
 
-Toby dives. Cream and rust. Younger. He puts his body between a flak drone and the root of my wing, slipstream ugly, a Hawk's tuck with no lecture in it. The drone's burst chews his vane instead of my bone. He swears, soft, the way he apologizes.
+One ruin. The freight yard is over our heads. I can hear grit ticking on containers. About ten miles south of the mast, if the map in my skull survived the hose. No second desert. No far country. The basement of this place, if it has one, is under the same floor.
 
-"You do not fire on your own wing," I tell the channel, and I am the one who made the sentence a lie by leaving.
+"You're hit," she says.
 
-Amari is a wheat flicker higher up, not shooting. Cassian still has not. The leash on all of them will be climbing because Corvus does not like a hesitation. I feel mine try to climb and her palm, trapped between us, keeps it from finishing.
+"The wing." I look at the shredded vane and the blood threading into the chemical film. "We stay in the drain until the lights pass. Then we find a hole that is not a turret's idea of a hole."
 
-"Yard," she says against my throat. "I see containers."
-
-"Then we get there before a honest gun does."
-
-Rook laughs once, broken. "Fly, Commander. I'll keep missing."
-
-I beat. The band streams under us. Toby bleeds light into the haze and stays in my shadow anyway, because he is Vance and he is my wing, and Cassian follows without firing, which is the last kindness he can afford me.
+Above us, a Hawk calls my name once. Cassian. I do not answer. Answering paints the pipe. I put my back to the concrete and I let the torn wing shake, and I do not try to fly.

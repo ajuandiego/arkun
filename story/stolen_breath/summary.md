@@ -265,7 +265,7 @@ Runner lost in the sand. No body. The commander is holding the south post until 
 
 ---
 
-# Part II: The Vassal Empire (Chapters 16 to 29)
+# Part II: The Vassal Empire (Chapters 16 to 27)
 
 ## Chapter 16 // Tsunari
 
@@ -289,60 +289,38 @@ You had a name. You will answer to the number.
 - Two steps would put his mouth at her temple. If he crosses the step she will read it as a grab, and she will be half right. He does not cross.
 - She already has Vram from the night of the lie. She does not use it. She says AE-701 quietly, as if she pulled it off his face, and asks if he still hears it. She will not use the number. He hears it. He also hears the order he already broke. He keeps the step between them.
 
-## Chapter 18 // Tsunari
-
-Culture Lab 4 is the clean rooms where the company does its living work. The people at those benches are told the work is a kindness.
-
-- The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room.
-- She crawls into the vent with the slate and the hooks pinned. He seats the grate behind her.
-- She jacks a relay junction. The slate wakes, face toward her, no broadcast. She is here to see who is looking, not to take a file.
-- The audit is his post, his fever numbers from the hour he stood six feet off her, and the hand that filed it: Analyst, Tech-Specialist S. Thorne, Culture Lab 4.
-- She knows the initial. She cut the rest of the name off an open set two nights ago. Sora is not only alive. She is reading him. A careful girl will flag the spike, and the flag will walk back down this road with soldiers.
-- Tsunari kills the slate and does not take the file. A Hawk patrol span crosses the slit of sky once. They are early, or she is late. A company voice says to clear the pad.
-- She stays in the dark with her sister's initial. She does not answer him and does not explain Sora to the metal. Sora thinks the work is a kindness. The audit has Tsunari's hunter's name on it.
-
-## Chapter 19 // Sora
+## Chapter 18 // Sora
 
 The new mist will help the people outside breathe clean again.
 
-- The quad smells like jasmine because the building pays for it. Sora badges through with wet hair and a white coat. The tram has no silt. Sector 2 is gardens and people who do not cover their mouths. She drinks because the water is real and the shift will not let her later.
-- Culture Lab 4 is the clean light from the holos. Keene gives her packet twelve and tells her not to admire it.
-- The strip is a south-post commander, Avian, a fever trace, a flatline in the noise, then the fever again. She flags it: Anomaly. Repeat. Review. She does not know the man. She knows the form.
-- The mist trial sits in a sealed tray. Keene said the line they are allowed to say. Sora believes her. She was told her father was a terrorist who died of his own foolishness, and her sister died of the Choke in the gutter. Sora was the one who could be taught.
-- She files the flag, washes, rides home, eats the issued meal, and sleeps with the coat on the chair. She does not go near a ledge. She does not look south. The spike is only a number that wanted a second look.
+- The quad smells like jasmine because the court grows it. Sora badges through with wet hair and a white coat. The boy from the next stair invents the score so his mother will laugh. The baby gets a fist into her cuff. They posted a birth permit before breakfast.
+- The tram through Sector 2. The shield holds the day green, and the canal turns it gold under the towers. Faces stay bare. Children are in the water. An old man tells a girl that rain used to make the stone shine, and she asks him to say it again. Four strings in the plaza. A couple steps out of the walk for the part they like. Tart fruit from the gate, eaten like a prize. Sora wants the outside to have this morning.
+- She was ten when they brought her in. They said her father killed himself after the raid, and that her sister died of the Choke. The sister stays in the story they gave her. She has a shift.
+- Culture Lab 4. Keene gives her packet twelve and tells her not to admire it. The woman at the next bench wants the tray to clear so her brother can put in for a second child. Sora tells her the tray is a trial. The woman says it is the closest thing he has, and to file clean.
+- The strip is a south-post commander, Avian, a fever, a flat place in the noise, then the fever again. She flags it: Anomaly. Repeat. Review. She does not know the man. A spike left sitting becomes someone in a bed.
+- She believes the mist line. She files, washes, and rides home. The boy makes her count a game. The woman sticks the permit to the glass so she can see it when she comes home mean, then feed the baby and do the day again. Sora eats, hangs the coat, and wants the morning.
+
+## Chapter 19 // Tsunari
+
+Plate is the hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+
+- The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room. She crawls into the vent. He seats the grate.
+- She jacks a relay. The audit is his fever from the hour he stood six feet off her: a fever, a flat place, the fever back. She knows the flat place and will not name it. The hand that filed it is Analyst, Tech-Specialist S. Thorne, Culture Lab 4.
+- She knows the initial. Sora flagged the minute. Tsunari kills the slate and does not take the file. A Hawk span crosses the slit once. A company voice says to clear the pad.
+- The Wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear. He slams her into the metal and shouts that she is here. The woman Rhino charges. The horn sticks. The other Rhino wedges the hinge. Plate holds.
+- The Wolf's collar hide takes the bodkin. Tsunari rakes the gap at the woman's collarbone. The wedge slips. Tsunari is past her and into the mechanical room. No stutter. The blood she drew has already ended the command upstairs. She does not see him drop.
 
 ## Chapter 20 // Vram
 
-A retrieval is collared soldiers sent when the Spire wants a body and will not come down to take it. This one is a Wolf and two Rhinos.
-
-- The harvester stays on the horizon. A government prowler lands. Three step out. Sockets, ordinary. No black veins. Two of them have no wings.
-- The Wolf's nose is already working. Behind him, two Rhinos. One is a woman, looking at the vault grate like a door she means to own. The other puts himself at the hinge. She will charge. He will wedge.
-- The Wolf calls an audit and a search, and he says the name out loud: Commander Tyage. She is in the vent and she hears the surname. She already has Vram. She does not call either name back. Vram says the runner is dead and he reported the weather. The Wolf says they are not here for the weather. There is a second body in the ducts: fear, copper, and a woman.
-- The leash climbs because her wrist is empty and she is in the shaft. Vram keeps his hands open, the wing half-spread. He says a nose does not gut his post.
-- The woman says they have a retrieval, for the telemetry and for whatever made his numbers lie. Step off the grate, or she stops asking.
-- He does not step off. The Wolf goes into the shaft. Vram is still trying to talk, because the moment he draws their blood he is deserted, and the wing he left can be turned up until it cooks. He says stand down. The Wolf does not. He has the scent.
-
-## Chapter 21 // Tsunari
-
-Plate is the hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare.
-
-- The Wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear, not the socket. He slams her into the metal anyway and shouts that she is here.
-- The woman Rhino charges the grate. The horn sticks in the frame. The other Rhino wedges the hinge. She cannot get her shoulders through.
-- The Wolf's collar hide takes the bodkin. Tsunari drops under him and goes for the angle the wedge did not close. The hook skips off the woman's plate. She rakes the gap at the collarbone, shallow. The woman chooses her hands. The wedge slips. Tsunari is past her hip and into the mechanical room.
-- No stutter. No quiet sent on purpose. She is fast in a tube and small where they are wide. The blood she just drew on a government soldier has already ended the wing upstairs.
-
-## Chapter 22 // Vram
-
 Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
-- He hears her in the shaft, then the horn stuck in the frame. The talking ends. He drops through the ceiling.
-- The woman Rhino charges him. He leaves the floor, catches a beam, and puts his hands in the gap under her plate. Heat goes into the grip. A vane lays a line across the unplated chest. The charge breaks.
-- He boots the other Rhino into the frame. The Wolf comes out of the shaft bleeding at the strap. Vram meets him with the heat still in his hands. The Wolf goes down and stays, because he cannot trust his nose.
-- Tsunari is against the far wall, waiting to see what Vram is now. Their blood is on the grate. He is deserted. The leash can be turned up on Cassian, Toby, Rook, and Amari until that wing cooks.
-- The leash tries to climb. Her hand finds his wrist, and the climb stops. She says he drew on them. He says so did she. She says then they are both already gone, and to get them off this floor before the next prowler learns how.
-- He takes her hand off his wrist only when he can stand the noise long enough to walk.
+- The harvester stays on the horizon. A government prowler lands. A Wolf and two Rhinos step out. Sockets, ordinary. No black veins. One Rhino is a woman. She will charge the grate. The other will wedge it.
+- The Wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The Wolf smells a second body in the ducts: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
+- The woman says they have a retrieval. Step off the grate, or she stops asking. He does not. He says stand down. The Wolf goes into the shaft.
+- Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other Rhino into the frame. The Wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
+- Tsunari is against the far wall. Their blood is desertion. The leash can be turned up on Cassian, Toby, Rook, and Amari. It tries to climb. Her hand finds his wrist, and the climb stops. She says he drew on them. He says so did she. She says then they are both already gone. He takes her hand off only when he can stand the noise long enough to walk.
 
-## Chapter 23 // Corvus
+## Chapter 21 // Corvus
 
 Both of them. Alive. We need to understand what happened.
 
@@ -360,7 +338,7 @@ Both of them. Alive. We need to understand what happened.
 - On the balcony he stands on the ledge in his socks. He thinks of his brother in nothing. He has a practice, not a barracks. The boy with the cream wings is somebody else's sentence. He does not step.
 - He goes back inside and washes a sixth time. The blood beads. The penthouse keeps its silence.
 
-## Chapter 24 // Tsunari
+## Chapter 22 // Tsunari
 
 Feather to feather, bone to bone. None of the Aerie falls alone.
 
@@ -370,7 +348,7 @@ Feather to feather, bone to bone. None of the Aerie falls alone.
 - Terror and safety arrive in the same breath. She is locked to the soldier she fought in a shack, and she is not falling. He tells her to breathe. She says she is.
 - A flare opens. She sees one span of Hawks against the lamps and then stops measuring. The yard is a rumor of containers. She hates how much of her weight she has given him, and she does not let go.
 
-## Chapter 25 // Vram
+## Chapter 23 // Vram
 
 You do not fire on your own wing.
 
@@ -381,7 +359,7 @@ You do not fire on your own wing.
 - Vram tells the channel they do not fire on their own wing, and he is the one who made the sentence a lie by leaving. Amari is higher up, not shooting. Cassian still has not. Her palm, trapped between them, keeps his leash from finishing its climb.
 - She sees containers. He says they get there before an honest gun does. Rook says he will keep missing. Vram beats. Toby stays in his shadow. Cassian follows without firing.
 
-## Chapter 26 // Tsunari
+## Chapter 24 // Tsunari
 
 The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up.
 
@@ -390,7 +368,7 @@ The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold 
 - The yard is one ruin of containers, close, not a second country. A slug snaps past his knee. She locks her ankles and keeps her eyes open.
 - She says if he drops her she will haunt the wing. He says he is not dropping her. Hold through the flare. Then they are down, and down is a problem he knows.
 
-## Chapter 27 // Vram
+## Chapter 25 // Vram
 
 The dead band is a poisoned strip at the edge of the ring. Past it, one ruin: the freight yard. Containers, a drain, a basement.
 
@@ -400,7 +378,7 @@ The dead band is a poisoned strip at the edge of the ring. Past it, one ruin: th
 - She says he is hit. He says the wing. They stay in the drain until the lights pass, then find a hole that is not a turret's idea of a hole.
 - A Hawk calls his name once. Cassian. Vram does not answer. Answering paints the pipe. He puts his back to the concrete and does not try to fly.
 
-## Chapter 28 // Tsunari
+## Chapter 26 // Tsunari
 
 Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.
 
@@ -411,7 +389,7 @@ Water will not stop the burn. The clothes have to come off, and the skin has to 
 - He pulls back before the rest. If he keeps going he will burn her. The heat does not know the difference between a wing and a body. He does.
 - She says then they stop, and tells him to remember that he stopped. The want is already in the ache. She does not give it a softer name.
 
-## Chapter 29 // Vram
+## Chapter 27 // Vram
 
 The furnace is the heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
 
@@ -430,9 +408,9 @@ The furnace is the heat that flies the wing. Tear the wing and leave him on the 
 
 ---
 
-# Part III: The Wasteland and the Faith (Chapters 30 to 43)
+# Part III: The Wasteland and the Faith (Chapters 28 to 41)
 
-## Chapter 30 // Ren
+## Chapter 28 // Ren
 
 The rattle is the dry sound behind the breastbone. It can go on for years before the lungs turn to glass. It is already in his chest.
 
@@ -444,7 +422,7 @@ The rattle is the dry sound behind the breastbone. It can go on for years before
 - She puts the page in Drew's hand. Mercer hears they lost the signal at the mirrors. T.J. stays down. They do not climb, do not look for the hole, and do not look for the man. If Ren stays, she spends the minute she needs on him.
 - He asks what man. She says the one he is not going to see. His boot comes back up. He goes. He does not see a drain or a face past the containers. He hates every yard of the road that is the right direction.
 
-## Chapter 31 // Tsunari
+## Chapter 29 // Tsunari
 
 A pack is feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
 
@@ -453,7 +431,7 @@ A pack is feral dogs. They are not soldiers, and they do not answer a voice. Run
 - Back. The mirror lie for Mercer. T.J. keeps the hole. Drew says Tsunari is bleeding. Tsunari says she is standing, and he is not their problem to see. Ren's mouth opens. Her look closes it. They turn the cart. The lie will keep the clinic.
 - A dog trots the aisle. She does not speak. She pulls the door to a slit. The lead dog decides the slit is a door. She puts the bodkin in her hand and waits. Running is a mistake. Calling is the other mistake.
 
-## Chapter 32 // Tsunari
+## Chapter 30 // Tsunari
 
 - The lead dog comes through the slit. She has no name for what her body does next.
 - She should be under the rush. She is beside it, one step that did not take the time a step takes. The dog hits the wall where she was. The bodkin goes in behind the shoulder, deep enough to turn the charge.
@@ -461,7 +439,7 @@ A pack is feral dogs. They are not soldiers, and they do not answer a voice. Run
 - She tells Vram to stay down. He is trying to rise, and the wing will not let him. The dog is not dead. She cannot click the pack away. She does not know how long the glitch lasts.
 - The lead dog gathers. His eyes open under the fever. The container is about to be too small for a wing, a pack, and a woman who just stepped out of a second she did not have.
 
-## Chapter 33 // Vram
+## Chapter 31 // Vram
 
 A cache is a scavenger's store. Come into it bleeding and you are not a guest. You are a bill.
 
@@ -473,7 +451,7 @@ A cache is a scavenger's store. Come into it bleeding and you are not a guest. Y
 - Get in. They pay for the mask with the rest of the file and stay where she puts them. Boran owes her a door. Two fugitives and a true page clear the debt. He still decides if the bulkhead opens.
 - Vram gets Tsunari up. No black veins. No miracle wing. A scavenger, a price, and a crawler that is not the government's.
 
-## Chapter 34 // Tsunari
+## Chapter 32 // Tsunari
 
 - The basement under the yard is cold enough to kill a sleeper. Kira put them here and went up to lie to her own road. His fever is a stove. The torn wing will not settle.
 - She gets on the cot and wraps around him. Cool skin takes the heat and fixes nothing. It drops the edge off the fever. His breath evens. The wing tries to cover them and mostly fails.
@@ -482,7 +460,7 @@ A cache is a scavenger's store. Come into it bleeding and you are not a guest. Y
 - He covers her hand. Partners, or nothing. He heard her. No keeper. No collar with a nicer name. If he flies, she knows why. If she runs, he knows why. They do not spend each other to feel safe. He agrees.
 - He pulls her in under the ruined wing. Shelter, and the compact inside it. His mouth touches her hair once, asking nothing. She stays awake until his pulse is a number she can trust.
 
-## Chapter 35 // Vram
+## Chapter 33 // Vram
 
 Off the mesh, the leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
 
@@ -492,7 +470,7 @@ Off the mesh, the leash is also his map, his orders, and the voices of his wing.
 - He asks if the wing can hear him. Not from here. That is the point and the problem. She tells him to eat, then to say whether his girl can walk. She is not carrying a Raven up a bulkhead for the pleasure of his guilt.
 - Tsunari's eyes are open. She does not apologize for the quiet. He does not ask her to. She can walk. They walk. He carries the blindness next to the compact.
 
-## Chapter 36 // Vram
+## Chapter 34 // Vram
 
 The rail under the yard is a few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
 
@@ -511,7 +489,7 @@ The gain is how hard they drive the leash. When a commander leaves, they can tur
 - He thinks of Toby and does not call. A call would put the boy in the log. He thinks of Rook's wide shots, Amari's dirty wind, and the weather report he repeated in a clean voice. He thinks he might have known. The thought is too late.
 - The burn goes white. The wings go still. The roost does not send a squad. Toby does not learn. Cassian puts his forehead to the stone. The noise peaks. Then the noise, and the man, stop.
 
-## Chapter 37 // Caelia
+## Chapter 35 // Caelia
 
 The cup is a thin drink of rift vapor. It tips the room and makes a voice seem to speak to one person. It does not change the body. The Forger says what the voice meant.
 
@@ -522,7 +500,7 @@ The cup is a thin drink of rift vapor. It tips the room and makes a voice seem t
 - Caelia is not performing. She loves the sentence. He will know her. The other woman is a problem she is allowed to hate. Malakar files her under tools. She does not care.
 - She stands and is already walking toward the water. The ambush can wait for her feet. The faith cannot.
 
-## Chapter 38 // Tsunari
+## Chapter 36 // Tsunari
 
 An Ember is one of the few who survived what the cult puts in a vein. Strong past sense, hot, and sure.
 
@@ -533,7 +511,7 @@ An Ember is one of the few who survived what the cult puts in a vein. Strong pas
 - Vram is ten paces back, wing dragging. Caelia wants Tsunari dead before he arrives so the story stays clean. Tsunari bleeds from the lip and stays on her feet.
 - Caelia says she will cut the hand off before it touches his fire. Black feathers shift behind Tsunari. Caelia's face opens into joy. The fight just changed owners.
 
-## Chapter 39 // Vram
+## Chapter 37 // Vram
 
 The fire will know you. He will take your hand.
 
@@ -543,7 +521,7 @@ The fire will know you. He will take your hand.
 - He asks if Tsunari can walk. She says she was walking before he arrived, and tells him not to make Caelia a project. Make them a direction. He says the vault, through them if they stand in it.
 - Caelia stays on her knees as they pass. She watches his hand on Tsunari's back. The watching is patient, and worse than a knife.
 
-## Chapter 40 // Vram
+## Chapter 38 // Vram
 
 Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal.
 
@@ -554,7 +532,7 @@ Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal.
 - The kneelers make a sound like a wound. The Forger's face does not. She has spent fifteen years telling grieving people that the thing which stole their children is the forge that brings one home. He is refusing the mouth.
 - She says then he is slag, and slag gets swept. He says sweep. Caelia stares as if he set fire to her house from the inside. Malakar roars. The flail needs room. Tsunari is already moving.
 
-## Chapter 41 // Tsunari
+## Chapter 39 // Tsunari
 
 A rail-flail is iron on a spring, built to break a body that can fly. It needs room. A falling gate does not give it room.
 
@@ -564,7 +542,7 @@ A rail-flail is iron on a spring, built to break a body that can fly. It needs r
 - She says not here. He says no. Partners. The word still stands. She says it stands, and to move.
 - Behind them, people who wanted a god got a fallen gate. Ahead, the dark goes toward a market, a walk, not a new city. She keeps the almost of his mouth until a room has a second door.
 
-## Chapter 42 // Tsunari
+## Chapter 40 // Tsunari
 
 The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself.
 
@@ -575,7 +553,7 @@ The stills fill at dawn, and the shelters open when the freeze drops. No house t
 - Chen says no house takes the lee for itself. They get the stills on the common clock, a shelter bench, and the parts if the Raven hauls them without breaking her pipes. He looks at Chen when she speaks. He does not look at the girls. That is the beginning of a respect, not the end of a debt.
 - Tsunari says they will haul. Chen says at dawn, and tells her to tell the boy with the bad lungs that the roof is not a hallway.
 
-## Chapter 43 // Vram
+## Chapter 41 // Vram
 
 What they drink at the altar only tips the mind. What they put in a vein in the back room is what makes an Ember. Few live through it.
 
@@ -588,9 +566,9 @@ What they drink at the altar only tips the mind. What they put in a vein in the 
 
 ---
 
-# Part IV: The Vault and the Countdown (Chapters 44 to 53)
+# Part IV: The Vault and the Countdown (Chapters 42 to 51)
 
-## Chapter 44 // Vram
+## Chapter 42 // Vram
 
 A curator keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
 
@@ -601,7 +579,7 @@ A curator keeps the old record and does not sell it to the dome or the cult. The
 - He says sovereignty is a large word. She says then use a small one. His.
 - He puts his hand on the glass. The torn wing shifts and is still his. Gideon rolls the codex shut. There is more. It will hurt her worse. Not tonight's scroll. When they can stand the next truth, ask.
 
-## Chapter 45 // Tsunari
+## Chapter 43 // Tsunari
 
 Thorne, Jeffrey. Listed lost. No body returned.
 
@@ -612,7 +590,7 @@ Thorne, Jeffrey. Listed lost. No body returned.
 - Vram stays in the doorway and does not touch her yet. She wants the touch and the minute. She does not perform a collapse. She says he sent this, and that is the whole fact she is willing to hold. If she holds more, she will run at an ocean.
 - Vram tells her to hold the fact. She wraps the glass and puts it with the schedule skin, two truths that refuse to stay rumors, and walks back to the lamp before she asks what the next truth costs.
 
-## Chapter 46 // Tsunari
+## Chapter 44 // Tsunari
 
 Five dishes on the bench. He counted them. He named one.
 
@@ -623,7 +601,7 @@ Five dishes on the bench. He counted them. He named one.
 - Gideon names it. Keystone on the shape. Null-Resonance on the ground. A hand, aimed, on one soldier. She has been doing it without the name.
 - She says she did not know. He says that was the mercy and the crime. He kills the lamp. The crests die. The knowledge does not. Sit down before she decides to be brave. Brave, in this room, is how a girl gets herself kept.
 
-## Chapter 47 // Vram
+## Chapter 45 // Vram
 
 - Gideon locks himself in the lab. The stabilizer is his problem and not finished. The alcove is theirs by the accident of a curtain.
 - Vram cleans the burn on her shoulder. The compact is already in his chest. The words are only a few days old. He wants the partners. The want has stopped pretending it is only the quiet.
@@ -633,7 +611,7 @@ Five dishes on the bench. He counted them. He named one.
 - In the vent, Caelia shifts. She can see them. She does not preach. A radio in her hand carries the Forger's voice, not meant for her: bait, disposable, spend the hand if he will not take it. Caelia's breath breaks. She crawls back. He does not call out.
 - Tsunari heard it too. She says Caelia will break, or she will come back with a knife. He says let her choose in the hall. This room already chose.
 
-## Chapter 48 // Tsunari
+## Chapter 46 // Tsunari
 
 All units, sync. The noise in your skull is the voice of your country. To quiet it is treason.
 
@@ -645,7 +623,7 @@ All units, sync. The noise in your skull is the voice of your country. To quiet 
 - Toby presses a small carved quartz hawk into her palm. In case she forgets she can fly. A bird, not a claw. Rook says too late, and turns his rifle toward the door the company will use.
 - The hall mutinies with safeties and a choice. Vram looks at her over their heads. The order in their skulls is still treason. They make it anyway.
 
-## Chapter 49 // Vram
+## Chapter 47 // Vram
 
 Two doors. The dome is coming down the sluices. The cult is coming up from the sump. The Vault is the room between.
 
@@ -655,7 +633,7 @@ Two doors. The dome is coming down the sluices. The cult is coming up from the s
 - A boom in the sluice. Another from the sump side. He says they hold. They do not chase a god down a pipe, and they do not fly into a hose.
 - She checks the hawk in her pocket and nods. The next sound is boots. He goes to meet them with the wing folded until he needs it.
 
-## Chapter 50 // Tsunari
+## Chapter 48 // Tsunari
 
 Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is acceptable. Bring the runners back dead or alive.
 
@@ -666,7 +644,7 @@ Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is accep
 - Tsunari tells her not to make it a hymn. Caelia laughs, wet, and says too late. Tell him she chose the cold one. He will hate that. Good.
 - Vram's shadow hits the steam on the far side of the grate. He sees Caelia and Tsunari's hands. He has no speech either. The door holds. The order outside still wants them dead or in a bag. Tsunari keeps the pressure on.
 
-## Chapter 51 // Vram
+## Chapter 49 // Vram
 
 The gantry is the crane spine above the Vault. Two men can meet on it. Only one of them needs the ground to win.
 
@@ -677,7 +655,7 @@ The gantry is the crane spine above the Vault. Two men can meet on it. Only one 
 - Below, Tsunari is at the sluice with blood on her arms that might be Caelia's. She is not down. That is the only telemetry he trusts.
 - Malakar comes again. Vram folds the wing at the last moment so the flail hits rail instead of bone. The rail screams. They both stay on it. The sky can wait. The man cannot.
 
-## Chapter 52 // Dual POV
+## Chapter 50 // Dual POV
 
 When the sky catches fire, the birds will fight for the dirt.
 
@@ -690,7 +668,7 @@ When the sky catches fire, the birds will fight for the dirt.
 - Malakar's cry goes under the water and stays unfinished. Vram is on the spine, emptied, alive. Toby flashes past a drone and does not look for a brother. She will not put that death in the air while the roof is still choosing sides.
 - She throws the pieces of the staff into the sluice and goes up the spine for the man who vented and did not become the Forger's god.
 
-## Chapter 53 // Dual POV
+## Chapter 51 // Dual POV
 
 The salt flats are west of the ring. The cult's road. People taken that way do not walk home.
 

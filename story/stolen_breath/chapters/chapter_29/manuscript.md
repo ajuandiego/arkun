@@ -1,23 +1,25 @@
-# Chapter 29 // Vram
+# Chapter 29 // Tsunari
 
-> **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
+> **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
 
 ***
 
-I try to lift us off the yard at dusk, when the lights have gone to the lip and the containers are a maze I can use.
+The yard goes quiet the way a hunt goes quiet.
 
-The wing will not hold. The torn vane spills air. The shoulder goes with a sound I feel in my teeth. We hop a container, then the beat fails, and I drop us back into the aisle with my body between her and the grit. The heat that should have gone into the sky stays in the chest. It climbs. Past the standing fever. Past the number I can think through.
+I drag him by the harness webbing into a container that still has a door. He is half here, wing leaving a dark trail, heat pouring off him in a sheet. The fever is past talking. I get the door half shut and I listen. No boots. Paws. A pack, not a patrol. Dogs. If I run they will commit. If I speak to them like they are a tool, I am food with opinions.
 
-"Don't," she says, hand on my sternum. The quiet tries to arrive and the pain rides over it. This hurt is the leash and the torn root agreeing. "You fly that and you spill us."
+The rim of the yard shows two shapes I know. Drew's cart. Ren beside it, too tall and too young and already leaning down.
 
-"I know."
+I meet them at the lip before he can climb. The page is the schedule skin, the fourteen months, copied small. I put it in Drew's hand.
 
-There is no second country to reach. The ruin is the country. Containers. The drain we climbed out of. A basement smell from a seam in the foundation, someone else's cache, not a road. Kira's name is a rumor I do not spend. Boran's door is a story soldiers tell. Under this yard, if the stories are true. I cannot dig a story with one wing.
+"Back," I say. "Tell Mercer you lost the signal at the mirrors. Tell T.J. the bearing is done and the hole stays his."
 
-The fever crests and my vision tightens. She pushes me down against a container wall and keeps the hand on me, and the mesh goes softer without going kind. I am still burning.
+"You're bleeding," Drew says.
 
-"Listen," I say. "If I stop making sense, you take the slate and you go north by the wall. You do not stay to argue with a man who is cooking."
+"I'm standing. He isn't, and that is not your problem to see." I look at Ren until his boot retreats. "You do not come into the yard. You do not look under it. Go."
 
-"I don't take orders from a fever." Her palm stays. "We wait for the wing to remember it is a wing. Until then you are cover, not a plan."
+Ren's mouth opens. The look I give him closes it. They turn the cart. I watch until the band takes them. They will lie, and the lie will keep the clinic, and I will hate the lie later if there is a later.
 
-I laugh once. It hurts. The yard ticks. Far off, a dog barks and then thinks better of it. I put my head back against the metal and I let her be the one who is right, and the heat stays in me, looking for a sky it cannot have.
+A dog trots the aisle, ribs, yellow eye, interested. I do not speak. I step back into the container and pull the door to a slit. Vram's breath is a rasp. The pack is arranging itself. The lead one is larger, and it has decided the slit is a door.
+
+I put the bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.

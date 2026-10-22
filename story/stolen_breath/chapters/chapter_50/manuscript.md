@@ -1,23 +1,29 @@
-# Chapter 50 // Tsunari
+# Chapter 50 // Dual POV
 
-> *Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is acceptable. Bring the runners back dead or alive.*
+> *When the sky catches fire, the birds will fight for the dirt.*
 
 ***
 
-Chen's steam hits the landing like a wall that learned anger. The shock troops blind. They fire anyway. The order on their channel is plain. Civilian loss inside the numbers is acceptable. I hear it and I file the director who signed it under a name I already hate.
+Vram
 
-Boran plants himself in the hydraulic door. Hide, horn, the whole stubborn width of him. The flail hits the plate and the plate holds. He grunts. "Flyer, if you are going to help, help low. My face is busy."
+The gantry bucks. Malakar's flail kisses the rail beside my foot and the heat in me stops asking permission.
 
-Malakar comes through the steam at me, not at the door. The flail needs room and the threshold is a mistake for him and a gift. I am the gift he wants. Caelia comes out of the steam between us.
+Black veins stand up at the neck, across the chest, in the soft skin beside the eyes. One vent. The wing dumps what it has been holding since the yard, a single ugly sunrise, and the flail slags in his hands. No title for it. No formula I could teach. It happens, and then I am empty, shaking, the veins sinking back to ordinary blood.
 
-She does not preach. She puts her body on the arc. The iron takes her side with a sound I will hear when I am old, if I get to be old. Bone. She stays up long enough to shove me back through the seal.
+He stares at his ruined weapon and at me, and the faith tries to return and finds nothing to hold. I do not strike a kneeling man for a doctrine. I strike the hand that is still reaching for a knife. He goes over the side in the wash of a ruptured flume, into the dark water under the Vault. Whether he climbs out is not a fact I get tonight.
 
-"Shut it," she says. Blood in her teeth. "I heard what I was. Bait. I'm not bait."
+The sky is not on fire. The birds are on the dirt, which is the honest version of the line.
 
-I haul the door. Boran adds his weight. The seal bites. Malakar's roar cuts off under iron. Caelia slides down the inside of the door, breathing, broken, alive. I get my hands on the wound and I press.
+Tsunari
 
-"Don't you dare make it a hymn," I say.
+I reach the Forger while his light is still dying on the gantry.
 
-She laughs, wet. "Too late. Tell him I chose the cold one. He'll hate that. Good."
+She has the staff, iron, ritual, the thing she uses to point at people until they kneel. I do not kneel. The hook takes the shaft. The shaft breaks. The sound is small. Her power on this roof was the weapon and the story. The weapon is in two pieces. The story can chase me later.
 
-Vram's shadow hits the steam on the far side of the grate. He sees her. He sees my hands. He does not have a speech either. The door holds. The order outside still wants us dead or in a bag. The woman on the floor wanted a god and spent herself on a person. I keep the pressure on, and I do not let her go into a story while she is still bleeding in this one.
+"Cold Serpent," she says, and it sounds like a woman who has run out of congregation.
+
+"Tsune," I say. "And you don't get the rest of my name."
+
+Malakar's cry goes under the water and stays unfinished. I do not look long enough to bury him. Vram is on the spine, emptied, alive. Toby flashes past a drone and does not look for a brother. I will not put that death in the air while the roof is still choosing sides.
+
+The staff is broken. I keep the pieces only long enough to throw them into the sluice. Let the water have the doctrine. I go up the spine for the man who vented and did not become her god.

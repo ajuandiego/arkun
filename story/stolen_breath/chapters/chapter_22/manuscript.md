@@ -1,27 +1,32 @@
-# Chapter 22 // Vram
+# Chapter 22 // Tsunari
 
-> **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
+> *Feather to feather, bone to bone*
+> *None of the Aerie falls alone.*
+> *Break the wind and ride the squall*
+> *If one must dive, we catch the fall.*
 
 ***
 
-I hear her in the shaft. Then I hear the horn stuck in the frame. The talking part of the hour ends.
+The pad fills with lights. Hawks in the air, narrower than the shadow I already know, and ground lamps on the south lip. He does not give me a speech. He buckles the spare harness across his chest and pulls me into it until my thighs have to lock at his hips or drag.
 
-I drop through the ceiling on the wing. The mechanical room takes the feathers badly. The woman Rhino is half out of the grate, plate scored, chest bare where the hide stops, eyes up. She is the one who charges. She charges me.
+"Hold," he says. "Eyes shut when the lamps hit. If you let go, the band gets you and I do not get a second grab."
 
-The horn comes for the center of my mass. I leave the floor. The wing catches a beam and throws me sideways, and my hands find the gap her plate does not cover, under the arms, where the hide becomes skin. Heat goes into the grip. The vane along my forearm, the one that lifts when the beat is hard, lays a line across the unplated chest. She bellows. The charge breaks because a charge needs a target that stays on the ground.
+"I don't shut my eyes for men who give orders."
 
-The other Rhino is still in the hinge, trying to wedge and fight at once. He gets one arm free. I put a boot on the plate of his shoulder and the wing does the rest, a short ugly fold that cracks him into the frame. The Wolf comes out of the shaft last, bleeding at the strap, nose full of her. I meet him with the heat still in my hands. He goes down on the knee and stays, because a Wolf who cannot trust his nose will not spend the jaw.
+"Shut them for the glare." His arm locks behind my back. The plate of his chest is heat through the cloth. Every shift of the strap moves us against each other, a fact neither of us has time to file and both of us feel. My arms go around his neck because the alternative is the concrete.
 
-She is against the far wall, hooks low, breathing hard, eyes on me like she is waiting to see what I am now.
+Searchlights pin the post. A voice on his old channel starts a cadence I do not know and will not repeat. He cuts the channel with his jaw.
 
-I know what I am. Their blood is on the grate. Directorate kit. My kit, an hour ago. Draw blood on your own retrieval and the desertion is the same hour. They can turn the leash up on Cassian, on Toby, on Rook, on Amari, until the wing I taught them cooks for my choice.
+"They'll fire," I say.
 
-The leash tries. A stitch, then a climb. Her hand finds my wrist without asking, and the climb stops, and that is a second crime stacked on the first.
+"Some of them will miss on purpose. Don't count on it."
 
-"You drew on them," she says.
+He steps off the lip.
 
-"So did you."
+The stomach goes first. Then the wing bites, and the ground becomes a dark band with chemical sheen, and the terror and the safety arrive in the same breath. I am locked to a soldier I fought in a shack. I am also not falling. His heartbeat is a drum against my ribs. The harness creaks. I hold.
 
-"Then we are both already gone." She does not thank me. "Get us off this floor before the next prowler learns how."
+"Breathe," he says into my hair.
 
-I look at the soldiers on the concrete. Alive. Down. Government. The life that gave me the wing is on the floor with them. I take her hand off my wrist only when I can stand the noise long enough to walk.
+"I am."
+
+A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of Hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.

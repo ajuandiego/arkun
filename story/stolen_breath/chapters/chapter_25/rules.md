@@ -13,9 +13,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Rook fires wide, Toby puts his body in the way, and Cassian hesitates. The tuck does not get a physics lesson.
-- The class words are Raven and Hawk.
-- A round can be a slug once. Kinetic is not decoration. Chest muscle does not get a sentence.
-- Toby is the Vance. No second one.
+- The hose, the torn wing, and the fall into the drain. One ruin. A desert of hundreds of miles does not open here.
+- The dead band is the header. The first page does not define it again.
+- No weight.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

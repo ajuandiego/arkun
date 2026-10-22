@@ -1,25 +1,23 @@
-# Chapter 38 // Tsunari
+# Chapter 38 // Vram
 
-> **An Ember.** One of the few who survived what the cult puts in a vein. Strong past sense, hot, and sure. The pain at the edges of the body has been burned almost away.
+> *Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal. Bow your neck to the anvil, or be swept out with the waste.*
 
 ***
 
-The sump water is knee-deep and the wrong kind of warm.
+They escort us because killing us in a pipe would waste the audience.
 
-We are off the rail. The vault is a direction, not a door yet. The first body drops from a side pipe without a splash she bothers to hide. Young. Hot. Sure. A brand at her throat. She looks at Vram the way a person looks at a story that has walked into her house, and then she looks at me the way a person looks at a stain.
+The Grand Cistern is a temple made of industry. Water, iron, thousands kneeling. The Forger stands where the sound carries. Malakar stands at her shoulder with a rail-flail across his back, the pneumatic hiss of it once, then quiet. Her chest is bare above the brands, once, and I look at her eyes instead.
 
-"Cold Serpent," she says. "You don't get to put him out."
+"Deliverer," she says. The flat voice from Caelia's faith, life-size. "The dome took your name and your wing and gave you a leash. I will give you an army. She..." a flick at Caelia, shining and wrecked, "...is the right hand. The cold one is the price. We cut her here, and the flame stays lit."
 
-"Caelia," he says, a warning. He knows the name from a sermon he hasn't sat through. She does not take the warning.
+Tsunari does not kneel. I feel her counting exits. I do not take the army. I do not take the girl. I spit the sentence so the cistern can keep it.
 
-She is strong past sense. The pain at the edges of her is gone, burned off, and what is left is fast and happy to spend itself. She hits me in the water. I go under and come up with a hook in my hand. Her skin is fever-hot. Mine takes some of it and gives nothing back she can use. She laughs.
+"She is not my bride, and I am no one's god."
 
-"He falls from the sky and you crawl next to him like a leash. I was promised the right hand."
+The kneelers make a sound like a wound. Malakar's flail shifts. The Forger's face does not. She has spent fifteen years telling grieving people that the thing which stole their children is the forge that brings one home. I am the one, in her mouth. I am refusing the mouth.
 
-"You were promised a sentence," I say, and I slam her into the pipe wall. She doesn't drop. Embers don't drop for a shove. Two more are in the tunnel behind her, brands, the same burned-clean eyes.
+"Then you are slag," she says. "And slag gets swept."
 
-Vram is still ten paces back, wing dragging, the crank-hours in his shoulder. She wants me dead before he arrives so the story can be clean. I do not let the story get clean. I put the tunnel between her and a straight rush, and I bleed from the lip where her knuckle found me, and I stay on my feet.
+"Sweep," I say.
 
-"Come and smother him, then," she says. "I'll cut the hand off before it touches his fire."
-
-Black feathers shift in the dark behind me. She sees them and her face opens into joy. I see the joy and I know the fight just changed owners.
+Caelia stares at me as if I have set fire to her house from the inside. Malakar roars. The flail needs room, and the catwalks have room, and Tsunari is already moving, which is the only prayer I trust.

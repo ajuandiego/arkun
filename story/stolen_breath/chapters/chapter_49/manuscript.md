@@ -1,23 +1,21 @@
 # Chapter 49 // Vram
 
-> **Two doors.** The dome is coming down the sluices. The cult is coming up from the sump. The Vault is the room between.
+> **The gantry.** The crane spine above the Vault. Two men can meet on it. Only one of them needs the ground to win.
 
 ***
 
-I put my hand on the map Gideon will not let us take out of the room.
+The roof is on fire in pieces. Drones. Cultists. The squad in the air, Hawks against machines, Toby the only Vance I can see and still not asking the question I will not answer.
 
-"Down," I say. "Corvus. Mechanized. They'll hose the lower sluices and call the dead a number."
+Boran and Rook are back to back on a catwalk, insulting each other's bones while they break a squad that expected a sermon. "Hollow bird," Boran says. "Walking wall," Rook says. The flail is not with them. The flail is with Malakar, and Malakar is on the crane spine, and the spine is a place two men can meet.
 
-"Up," Tsunari says. "Malakar. The Embers. They want the hall more than they want the doctrine, now that the doctrine spit them out."
+I go up. The wing carries me and complains. I do not ask it for a miracle. A slug from somewhere friendly snaps a drone off my line. One slug. Then the gantry is boots and iron and his smile.
 
-The Vault sits between those two hungers. Quartz, paper, a curator with a pry bar he pretends is a walking stick. My wing is not on fire. The veins are veins. Whatever Gideon named in her blood, it has not turned me into a second sun. I am a man with a torn vane and a squad that just committed a crime for a minute of quiet.
+"Deliverer," he spits, making it dirt.
 
-"Toby on the upper drain," I say. "Rook with him. Veda on the stair. Boran will take a door if we ask him like a man and not like a flyer. Chen's steam, if she meant the promise."
+"Not yours."
 
-"She meant the hours," Tsunari says. "Steam is a hour she can spend."
+The flail comes around. It needs room. The gantry gives him some and the drop gives him the rest. I beat once, short, and the weapon passes under the vane. We are not done. The veins in my neck are veins. The heat is the old heat. If there is a door in me past this, it stays shut while I still have a ordinary fight to win.
 
-A boom, far, in the sluice. Another, closer, from the sump side. Two doors. One room. I roll the shoulder and the wing answers with pain, ordinary pain, the kind that does not rewrite a war.
+Below, Tsunari is a shape at the sluice with blood on her arms that might be Caelia's. She is not down. That is the only telemetry I trust.
 
-"We hold," I say. "We don't chase a god down a pipe, and we don't fly into a hose. They have to come into the room we know."
-
-She checks the hawk in her pocket, absurd and small, and nods. The next sound is boots. I go to meet them with the wing folded until I need it, and I do not ask it to become anything but a wing.
+Malakar comes again. I meet him on the spine, wing folding at the last moment so the flail hits rail instead of bone. The rail screams. We both stay on it. The sky can wait. The man cannot.

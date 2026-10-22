@@ -1,27 +1,27 @@
 # Chapter 33 // Vram
 
-> **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
+> **Off the mesh.** The leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
 
 ***
 
-Her blood is the thing that wakes me. Copper, close, hers.
+Dawn is a gray line under the yard door. She is asleep on my chest. The wing aches. The fever has backed down to a live coal. The mesh is quiet.
 
-The lead dog is in the container. I get a hand on its skull and the weight of the wing on its back and I break the rush the ugly way, no fire in the veins, no second engine, just mass and a neck that turns too far. It drops. The pack outside answers. I do not have another of those.
+I hate the quiet.
 
-A crawler hits the aisle with its lamps killed and a flare-slug already in the air. Phosphor bursts over the dogs. They scatter, not loyal, hungry and suddenly blind. The woman on the deck has a gun and she does not lower it.
+For ten years the noise was the map. Cassian's position. Toby's breath when he was scared and lying about it. Orders. The sting that meant obey. A soldier off the mesh in occupied ground is not at peace. He is a man with his eyes cut out, lying under a scavenger's floor, hoping the wing he abandoned is only in pain and not in a grave he cannot see.
 
-Wolf. I know the set of the shoulders before I know the face. Dark fur along the upper arms, skin at the chest, amber eyes, canines when she speaks. Bare nape. Unregistered, like the woman bleeding beside me, and not on our side because of it.
+I do not wake her to say that. She would hear it as regret for the compact. It is not. It is the bill.
 
-"This is my cache," she says. "The dogs have been eating it. You are bleeding on it. Give me a reason not to finish what they started."
+Kira's boot hits the stair. She looks at the two of us and snorts.
 
-"Kira Brandt," I say.
+"Romantic. Also visible from a satellite if you keep glowing. The mask is a paste and a route. You wear the paste. You walk when I say. The rail under this yard is a few miles back under the ring, into the south sumps. Not a trek across a country. A trolley, if Boran opens the door. The cult holds the water on the far end. The vault you want is past that water. I don't do vaults."
 
-"And you are a Raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
+"The wing," I say. "Can they hear me?"
 
-Tsunari holds out the copy. Her hand shakes. She does not beg. "Fourteen months. The lee over the Ring fails. Evacuation zero. You run freight through that air. Read it before you decide we are a bill you can't afford."
+"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a Raven up a bulkhead for the pleasure of his guilt."
 
-Kira takes the page. She reads. The gun does not dip until the last line.
+Tsunari's eyes are open. She heard the last of it. She does not apologize for the quiet. I do not ask her to.
 
-"Get in," she says. "You pay for the mask with the rest of that file, and you stay where I put you. Boran owes me a door. Two fugitives and a true page clear the debt. He still decides if the bulkhead opens. I don't."
+"I can walk," she says.
 
-I get Tsunari up. No black veins. No miracle wing. A scavenger, a price, and a crawler that is not the government's. I can live with a bill. I cannot live with the dogs.
+"Then we walk," I say. The blindness stays. I put it next to the compact and I carry both.

@@ -13,8 +13,9 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- First time in the air. The terror and the wing are the chapter. The span is not measured again.
-- The letter above the chapter is not something she reads.
-- The yard is already in sight. There is no second country under them.
+- The clothes come off because the burn is still in them. The choice to stop is the chapter.
+- The wing root answers the touch. Show that. A labeled anatomy lesson comes out, and the old class name with it.
+- White knuckles once, or not at all.
+- No wingspan. One dark surface. This page was a peak for obsidian.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

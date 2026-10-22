@@ -1,29 +1,21 @@
-# Chapter 39 // Vram
+# Chapter 39 // Tsunari
 
-> *The fire will know you. He will take your hand.*
+> **A rail-flail.** Iron on a spring, built to break a body that can fly. It needs room. A falling gate does not give it room.
 
 ***
 
-Her blood is on her mouth. That is the fact. The rest of the tunnel can wait.
+Malakar needs a stage. I take the stage away.
 
-I hit the first Ember with the wing and the second with the heel of my hand. They are hot and sure and they are not me. Caelia drops to her knees in the water when she sees my face. The brand at her throat shines. She is twenty-one and incandescent with a story.
+The flail is a length of iron on a spring, pneumatic once as it arms, hungry for space. He swings at Vram's wing and the catwalk rings. I am not in that swing. I am at the sluice winch with the last charge Drew packed for a door, an acoustic pop, ugly and small. The gate above Malakar complains. Then it falls.
 
-"You know me," she says. "The fire knows you. Take my hand. I was told I stand at your right."
+Iron fills the room the flail wanted. He has to fold the weapon or lose the arm. He folds. We run.
 
-"You were told wrong." I shove her aside, not cruel for sport, firm enough that she has to catch herself on the wall. "She is bleeding. You did that. Move."
+The aqueduct after that is a throat. We hit a bend and have to stop chest to chest, his wing jammed, my hooks against his ribs, both of us breathing the same bad air. His mouth is close enough that the kiss is a fact we do not spend. His hand stays on the wall beside my head. Mine stays on the slate strap. A held breath. The want is enormous. The exit is behind his shoulder, and the exit wins.
 
-I get Tsunari's chin in my fingers and check the lip, the teeth, the eye. The cut is small and the rage in me is not. Caelia makes a sound like a sob and a snarl braided.
+"Not here," I say.
 
-"She is the cold. She puts the light out. I saw it. The Forger said..."
+"No." He is shaking with the fight and with the not-kiss. "Partners. The word still stands."
 
-"I don't take the name you're offering." I do not look at her. My hand stays gentle on Tsunari and hard everywhere else. "Promised king is a collar. I have worn one. I am not shopping for a second."
+"It stands. Move."
 
-Caelia's eyes burn. Jealousy, faith, the insult of being moved aside for a woman in a torn tunic. She will remember the shove. I will remember the blood.
-
-"Can you walk?" I ask Tsunari.
-
-"I was walking before you arrived." Her voice shakes and she hates it. "Don't make her a project. Make us a direction."
-
-"The vault," I say. "Through them if they stand in it."
-
-Caelia stays on her knees as we pass. She does not attack again. She watches my hand on Tsunari's back, and the watching is worse than a knife, because it is patient.
+We move. Behind us the cistern is a roar of people who wanted a god and got a fallen gate. Ahead, the dark goes toward a market, smoke and voices, a walk, not a new city. I keep the charge's aftertaste in my teeth and the almost of his mouth in a place I will not open until a room has a second door.

@@ -13,7 +13,9 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Two ways in. The dome comes down, the cult comes up, and the Vault is between them.
-- Arkun is not defined here. The wing dump does not wake here.
+- They meet on the gantry. The dump does not wake on this page.
+- No standing field of heat, no melted rounds as a system, no heart that restarts itself.
+- The wing is in the fight. It is not measured, and it was being measured twice.
+- A slug once, for a gun that fires. Toby is the Vance in the air.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

@@ -1,27 +1,23 @@
-# Chapter 44 // Vram
+# Chapter 44 // Tsunari
 
-> **A curator.** Someone who keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
+> *Five dishes on the bench. He counted them. He named one.*
 
 ***
 
-Eighty feet under Sector 09, the door is glass and iron. Cut into the lintel, in letters a torch can read: *What is written in light cannot be erased by fire.* Older than the company. Older than the wing they told me was a patent.
+Gideon pricks my finger and does not apologize. A drop. The old spectrometer drinks it. The Vault's cryo-racks tick. Vram stands at my shoulder and does not touch the machine.
 
-Gideon Cross is a thin man with archive dust on his cuffs and no socket. He does not bow. He looks at the torn vane, at her collar, at the slate, and he decides we are not a raid.
+The light breaks.
 
-"You want the record," he says. "The record is not a weapon you swing today. Come in before the sump remembers it has legs."
+Five crests on the far wall. One burns at the top, the body I have lived in since I was seventeen. Raptor. Under it, four quieter bands. He names them without a chart and without a job title. Avian. Lycan. Ceraton. Galvan. Dormant. Present. I feel the floor tilt the way it tilted for the shorthand, only this time the hand that did it is still the same man, and the hand was in my vein when I was a girl.
 
-The Vault smells like cold glass and paper that survived. He unrolls a codex. Winged hunters, cut into stone long before Apex had a name. My stomach drops in a way the fever never managed.
+"He counted five dishes," I say. "He named one."
 
-"They told me I was made in a lab," I say.
+"He hid four in a daughter because a slide can be stolen and a girl who does not know her own inventory is harder to file." Gideon watches the crests, not my face. "You live in the Raptor. That one has no street name. The sleepers do. Hawk. Wolf. Rhino. Spark. You wear no collar. The shape can ground a leash. The socket stays in his neck. The fever stays his. If you came here for a cure that walks, you are in the wrong room."
 
-"You were finished in a lab," Gideon says. "The sentence is older. The company owns the socket and the story. It does not own the first cut of the bone."
+Vram's jaw works. The socket is a fact between us. I look at the bright crest and the four sleeping ones and I stay the woman who held a jack in a door. I am also the place he put the rest.
 
-Tsunari watches my face, not the codex. She is letting me have the blow. The five strains in her blood are not this page. This page is mine. I am not an unholy accident that started when a director wanted a hawk. Something in the bone was walking around before they put a number on a boy in a Ring ward.
+"He wrote Keystone on the shape," Gideon says, almost gently. "Null-Resonance on the ground. A hand, aimed, on one soldier. You have been doing it without the name."
 
-"Sovereignty is a large word," I say.
+"I didn't know."
 
-"Then use a small one," she says. "Yours."
-
-I put my hand on the glass over the drawing. The wing shifts, torn and still mine. Gideon rolls the codex shut with the care of a man who does not sell what he keeps.
-
-"There is more," he says. "It will hurt her worse. Not tonight's scroll. When you can stand the next truth, ask."
+"That was his mercy and his crime." He kills the lamp in the spectrometer. The crests die. The knowledge does not. "Sit down before you decide to be brave. Brave, in this room, is how a girl gets herself kept."

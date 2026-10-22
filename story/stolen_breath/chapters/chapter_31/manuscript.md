@@ -1,25 +1,27 @@
-# Chapter 31 // Tsunari
+# Chapter 31 // Vram
 
-> **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
+> **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
 
 ***
 
-The yard goes quiet the way a hunt goes quiet.
+Her blood is the thing that wakes me. Copper, close, hers.
 
-I drag him by the harness webbing into a container that still has a door. He is half here, wing leaving a dark trail, heat pouring off him in a sheet. The fever is past talking. I get the door half shut and I listen. No boots. Paws. A pack, not a patrol. Dogs. If I run they will commit. If I speak to them like they are a tool, I am food with opinions.
+The lead dog is in the container. I get a hand on its skull and the weight of the wing on its back and I break the rush the ugly way, no fire in the veins, no second engine, just mass and a neck that turns too far. It drops. The pack outside answers. I do not have another of those.
 
-The rim of the yard shows two shapes I know. Drew's cart. Ren beside it, too tall and too young and already leaning down.
+A crawler hits the aisle with its lamps killed and a flare-slug already in the air. Phosphor bursts over the dogs. They scatter, not loyal, hungry and suddenly blind. The woman on the deck has a gun and she does not lower it.
 
-I meet them at the lip before he can climb. The page is the schedule skin, the fourteen months, copied small. I put it in Drew's hand.
+Wolf. I know the set of the shoulders before I know the face. Dark fur along the upper arms, skin at the chest, amber eyes, canines when she speaks. Bare nape. Unregistered, like the woman bleeding beside me, and not on our side because of it.
 
-"Back," I say. "Tell Mercer you lost the signal at the mirrors. Tell T.J. the bearing is done and the hole stays his."
+"This is my cache," she says. "The dogs have been eating it. You are bleeding on it. Give me a reason not to finish what they started."
 
-"You're bleeding," Drew says.
+"Kira Brandt," I say.
 
-"I'm standing. He isn't, and that is not your problem to see." I look at Ren until his boot retreats. "You do not come into the yard. You do not look under it. Go."
+"And you are a Raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
 
-Ren's mouth opens. The look I give him closes it. They turn the cart. I watch until the band takes them. They will lie, and the lie will keep the clinic, and I will hate the lie later if there is a later.
+Tsunari holds out the copy. Her hand shakes. She does not beg. "Fourteen months. The lee over the Ring fails. Evacuation zero. You run freight through that air. Read it before you decide we are a bill you can't afford."
 
-A dog trots the aisle, ribs, yellow eye, interested. I do not speak. I step back into the container and pull the door to a slit. Vram's breath is a rasp. The pack is arranging itself. The lead one is larger, and it has decided the slit is a door.
+Kira takes the page. She reads. The gun does not dip until the last line.
 
-I put the bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.
+"Get in," she says. "You pay for the mask with the rest of that file, and you stay where I put you. Boran owes me a door. Two fugitives and a true page clear the debt. He still decides if the bulkhead opens. I don't."
+
+I get Tsunari up. No black veins. No miracle wing. A scavenger, a price, and a crawler that is not the government's. I can live with a bill. I cannot live with the dogs.

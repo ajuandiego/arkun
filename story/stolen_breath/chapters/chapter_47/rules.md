@@ -13,9 +13,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- No header. The room, the refusal, and the night are the chapter.
-- A lecture on blood rejecting blood comes out, and the old class names with it.
-- The wings can close around them. They are not measured.
-- Caelia can be in the duct. She does not preach.
+- Two ways in. The dome comes down, the cult comes up, and the Vault is between them.
+- Arkun is not defined here. The wing dump does not wake here.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

@@ -1,23 +1,31 @@
-# Chapter 21 // Tsunari
+# Chapter 21 // Corvus
 
-> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare.
+> *Both of them. Alive. We need to understand what happened.*
 
 ***
 
-The shaft is one body wide. I am that body until the Wolf decides he is too.
+The lab keeps my face at thirty. I am eighty, and I know which hour the last treatment bought, and I do not spend that hour on a mirror. The mirror is for other people.
 
-He comes up the intake on all the quiet a heavy man can buy. Nose first. I hear the breath change when he finds me. The jaw is the threat, not a lecture I need. I kick off the wall, membranes wiping the grit once, and the leap puts me above his shoulders before the teeth arrive. The hook's beak finds the seam under his ear, not the socket, the strap. He slams me into the metal anyway. Strength. Endurance. The shaft rings.
+The voice comes through the ceiling array, not a body in the room. Karyon. Patient. The glass of nothing fogs, because there is no sleeve here, only a speaker and my clean air.
 
-"Here," he shouts back, voice thick. "She's here."
+"Your soldier's return dropped," it says. "The noise left him and came back. A woman was on the contact. She is the anomaly. Priority zero. Both of them. Alive. We need to understand what happened."
 
-A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
+"A name for the anomaly."
 
-The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
+"No."
 
-I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman Rhino is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
+"A mechanism."
 
-She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
+"No. Capture. Do not open her on the road. A corpse cannot be read, and a commander cooked in a ditch is a story you already tried to tell me. I disliked it."
 
-No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the Wolf is still in the shaft with my scent in his mouth.
+I stand at my own bench in my own lab and I am being used as staff. The anger is clean and useful. Vanity sits under it: he is my weapon, my beautiful work, and a dirty girl in a collar put her hand on him and he chose her. Tired sits under the vanity. The cohort I will spend is young, and the leash will hurt them, and I will sign the hurt because the alternative is to be the director who lost the masterwork.
 
-"Move," I tell myself, and I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
+"Alive," I say. "Both. I'll send the wing he left, and a retrieval behind it. If he bleeds them, the gain stays up until he comes home or the wing fails. He will understand the price."
+
+"Do not diagnose him over the beam."
+
+"I don't have a diagnosis," I say, and the truth of that tastes like an insult. "I have an order."
+
+The voice leaves. The lab is white and mine again. I look thirty. I feel the hour. I call the roost myself, because a woman who lets a secretary spend her weapon is already retired.
+
+"South post. Both alive. Bring them in readable." I pause, and the pause is not kindness. "And tell his brother nothing he can use. Weather is over."

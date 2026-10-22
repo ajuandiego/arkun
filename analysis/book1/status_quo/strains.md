@@ -20,23 +20,23 @@ A reader can say the other pilots have wings. They cannot explain a Gryphon: not
 
 ## Dromaeon
 
-The word is on Tsunari from chapter 1, and chapter 24 adds a lexicon: ground predator, stronger legs, clicks, eye membranes, a cool body. The pack clicks. A purge memory calls the raptor strain feral. Gideon later calls Mutation D the fast crimson crest, and calls that crest the shell her father left switched on.
+The word is on Tsunari from chapter 1, and chapter 22 adds a lexicon: ground predator, stronger legs, clicks, eye membranes, a cool body. The pack clicks. A purge memory calls the raptor strain feral. Gideon later calls Mutation D the fast crimson crest, and calls that crest the shell her father left switched on.
 
 That is a pile of traits around a woman the reader likes. It is not an explanation. A friend would not come away knowing what a Dromaeon is, only that Tsunari is fast, cool, and somehow a raptor.
 
 ## Lindwurm
 
-Chapter 28's lexicon lists stone skin, dense bone, bad air, and a shock through the floor. Boran says a zealot would have to chisel through Lindwurm rock. Nyx's venom bursts a Simurgh's blood because the strains reject each other.
+Chapter 26's lexicon lists stone skin, dense bone, bad air, and a shock through the floor. Boran says a zealot would have to chisel through Lindwurm rock. Nyx's venom bursts a Simurgh's blood because the strains reject each other.
 
 A reader remembers the big man in the door. They cannot explain a Lindwurm. Stone and a poison are characteristics. The creature, the life, and the cost are missing.
 
 ## Fenris
 
-The word is a stencil. Kira's coveralls say Fenris Smuggler Network. The slate talks about headlights. Chapter 44 sends the drives "north to the Fenris smuggling network." Chapter 37 gives the leftover crest one phrase: Mutation F, the Fenris cursorial stalker.
+The word is a stencil. Kira's coveralls say Fenris Smuggler Network. The slate talks about headlights. Chapter 42 sends the drives "north to the Fenris smuggling network." Chapter 35 gives the leftover crest one phrase: Mutation F, the Fenris cursorial stalker.
 
 Cursorial is already what the book said about the Dromaeon. A reader cannot explain Fenris. They cannot even point at Kira's body and say the word means her nose, her eyes, or her clan. Those are in the dossier. They are not in the book.
 
-## What chapter 37 adds
+## What chapter 35 adds
 
 Five colored waves, five letters, five job-titles: heavy breacher, aerial sovereign, cursorial stalker, golden carrier, fast-twitch. A chart. A reader who remembers it can recite colors. They still cannot explain a single strain, and the chart uses the same job-word for Fenris that the rest of the book spent on Dromaeon.
 

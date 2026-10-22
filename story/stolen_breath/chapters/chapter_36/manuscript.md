@@ -1,23 +1,25 @@
-# Chapter 36 // Vram
+# Chapter 36 // Tsunari
 
-> **The rail under the yard.** A few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
+> **An Ember.** One of the few who survived what the cult puts in a vein. Strong past sense, hot, and sure. The pain at the edges of the body has been burned almost away.
 
 ***
 
-Boran fills the door before he opens it.
+The sump water is knee-deep and the wrong kind of warm.
 
-Hide on the face, the neck, the shoulders, the arms. A horn on the brow, heavy, centered. The chest under the plate is bare skin, weathered. No socket. He left that life. He looks at my wing, at the torn vane, at Tsunari standing on her own feet, and he laughs once, a low sound with no welcome in it.
+We are off the rail. The vault is a direction, not a door yet. The first body drops from a side pipe without a splash she bothers to hide. Young. Hot. Sure. A brand at her throat. She looks at Vram the way a person looks at a story that has walked into her house, and then she looks at me the way a person looks at a stain.
 
-"Fancy fallen flyer," he says. "Clipped. And a girl who hasn't run. Kira says you clear a debt."
+"Cold Serpent," she says. "You don't get to put him out."
 
-"The page is real," Kira says. "The mask is paid. The door is yours."
+"Caelia," he says, a warning. He knows the name from a sermon he hasn't sat through. She does not take the warning.
 
-He grunts. The respect, if it is respect, is for the way I have put my shoulder between Tsunari and the bulkhead, not for the wing. "You shield her like a man who learned something. Fine. The trolley is hand-cranked. The line runs a few miles under the ring and spits you in the south sumps. After that the water belongs to the hymn-singers. I don't walk you into a sermon."
+She is strong past sense. The pain at the edges of her is gone, burned off, and what is left is fast and happy to spend itself. She hits me in the water. I go under and come up with a hook in my hand. Her skin is fever-hot. Mine takes some of it and gives nothing back she can use. She laughs.
 
-"The vault," Tsunari says.
+"He falls from the sky and you crawl next to him like a leash. I was promised the right hand."
 
-"Past the water. Gideon's problem. Not mine." He unlocks the brake. The rail smell is old oil and cold stone. "You crank. You don't preach on my line. You don't bleed on the seat if you can help it."
+"You were promised a sentence," I say, and I slam her into the pipe wall. She doesn't drop. Embers don't drop for a shove. Two more are in the tunnel behind her, brands, the same burned-clean eyes.
 
-I take the crank. The wing complains. She stands at the lamp and watches the dark ahead, already counting exits. Kira lifts two fingers and is gone up the stair, debt spent, gun still her own.
+Vram is still ten paces back, wing dragging, the crank-hours in his shoulder. She wants me dead before he arrives so the story can be clean. I do not let the story get clean. I put the tunnel between her and a straight rush, and I bleed from the lip where her knuckle found me, and I stay on my feet.
 
-The trolley moves. A few miles. Then sump water, and a cult, and a room that might tell us what her hand is. I crank. Boran watches the hide of the tunnel the way a man watches ground he intends to keep.
+"Come and smother him, then," she says. "I'll cut the hand off before it touches his fire."
+
+Black feathers shift in the dark behind me. She sees them and her face opens into joy. I see the joy and I know the fight just changed owners.

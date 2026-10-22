@@ -1,23 +1,23 @@
 # Chapter 27 // Vram
 
-> **The dead band.** A poisoned strip at the edge of the ring, hosed so nothing grows out. Past it, one ruin: the freight yard. Containers, a drain, a basement.
+> **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
 
 ***
 
-The turrets wake when we cross the lip of the band.
+I try to lift us off the yard at dusk, when the lights have gone to the lip and the containers are a maze I can use.
 
-Phosphor. A hose of it, not rain, a chemical line that eats color out of the air. I roll. The roll puts her under the wing for one second and the next second the shrapnel finds the left vane. Pain is a white nail through the root. Feathers tear. The beat staggers.
+The wing will not hold. The torn vane spills air. The shoulder goes with a sound I feel in my teeth. We hop a container, then the beat fails, and I drop us back into the aisle with my body between her and the grit. The heat that should have gone into the sky stays in the chest. It climbs. Past the standing fever. Past the number I can think through.
 
-"Down," I say, which is not a choice anymore.
+"Don't," she says, hand on my sternum. The quiet tries to arrive and the pain rides over it. This hurt is the leash and the torn root agreeing. "You fly that and you spill us."
 
-She doesn't scream. She locks harder. The yard comes up too fast: containers, a black mouth of drain between them, the lakebed rim. I aim for the mouth because the pad of the yard is a place guns can finish. The drain is a guess.
+"I know."
 
-We hit water that is not water. Cold, chemical, a slam. The harness buckle tears skin at my ribs. She comes off my chest only because I rip the strap before we drown in a pipe. The wing drags. I haul her onto a dry ledge above the wash by the harness webbing and then by the wrist.
+There is no second country to reach. The ruin is the country. Containers. The drain we climbed out of. A basement smell from a seam in the foundation, someone else's cache, not a road. Kira's name is a rumor I do not spend. Boran's door is a story soldiers tell. Under this yard, if the stories are true. I cannot dig a story with one wing.
 
-One ruin. The freight yard is over our heads. I can hear grit ticking on containers. About ten miles south of the mast, if the map in my skull survived the hose. No second desert. No far country. The basement of this place, if it has one, is under the same floor.
+The fever crests and my vision tightens. She pushes me down against a container wall and keeps the hand on me, and the mesh goes softer without going kind. I am still burning.
 
-"You're hit," she says.
+"Listen," I say. "If I stop making sense, you take the slate and you go north by the wall. You do not stay to argue with a man who is cooking."
 
-"The wing." I look at the shredded vane and the blood threading into the chemical film. "We stay in the drain until the lights pass. Then we find a hole that is not a turret's idea of a hole."
+"I don't take orders from a fever." Her palm stays. "We wait for the wing to remember it is a wing. Until then you are cover, not a plan."
 
-Above us, a Hawk calls my name once. Cassian. I do not answer. Answering paints the pipe. I put my back to the concrete and I let the torn wing shake, and I do not try to fly.
+I laugh once. It hurts. The yard ticks. Far off, a dog barks and then thinks better of it. I put my head back against the metal and I let her be the one who is right, and the heat stays in me, looking for a sky it cannot have.

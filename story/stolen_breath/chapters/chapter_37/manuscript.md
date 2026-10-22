@@ -1,23 +1,29 @@
-# Chapter 37 // Caelia
+# Chapter 37 // Vram
 
-> **The cup.** A thin drink of rift vapor, taken at a ceremony. It tips the room and makes a voice seem to speak to one person. It does not change the body. The Forger is the one who says what the voice meant.
+> *The fire will know you. He will take your hand.*
 
 ***
 
-The cistern is a church because she says it is.
+Her blood is on her mouth. That is the fact. The rest of the tunnel can wait.
 
-Brands on the walls. Malakar at the edge of the lamp, watching who drinks and who only pretends. The Forger's voice is flat. She does not need to shout. I am twenty-one and I have been hers since fourteen, and the cup is the kindest thing she gives me that is not a promise.
+I hit the first Ember with the wing and the second with the heel of my hand. They are hot and sure and they are not me. Caelia drops to her knees in the water when she sees my face. The brand at her throat shines. She is twenty-one and incandescent with a story.
 
-It is a thin drink. It is not the thing they put in a vein in the back room. My body stays my body. The room tips. The water light moves. A voice seems to speak to me alone, not to the row, not to Malakar. I see a wing on fire and a place at his right hand, and the place has my shape in it.
+"You know me," she says. "The fire knows you. Take my hand. I was told I stand at your right."
 
-I wake on the stone with my cheeks wet and the certainty already hard. The vision was mine. I was there.
+"You were told wrong." I shove her aside, not cruel for sport, firm enough that she has to catch herself on the wall. "She is bleeding. You did that. Move."
 
-The Forger crouches. She smells like heat and iron. She puts two fingers under my chin.
+I get Tsunari's chin in my fingers and check the lip, the teeth, the eye. The cut is small and the rage in me is not. Caelia makes a sound like a sob and a snarl braided.
 
-"You saw him," she says. "The flame that falls. You stand at his right hand, or the flame goes out, and you go out with it. The cold one on the road is the hand that would smother him. You will not let her."
+"She is the cold. She puts the light out. I saw it. The Forger said..."
 
-I nod. I am not performing. I love the sentence the way a starved girl loves a door. He will know me. He will take my hand. The other woman is a problem I am allowed to hate.
+"I don't take the name you're offering." I do not look at her. My hand stays gentle on Tsunari and hard everywhere else. "Promised king is a collar. I have worn one. I am not shopping for a second."
 
-Malakar's eyes say he heard the reading and filed me under tools. I do not care. The Forger has told me what the voice meant. That is the hold, and it feels like being chosen.
+Caelia's eyes burn. Jealousy, faith, the insult of being moved aside for a woman in a torn tunic. She will remember the shove. I will remember the blood.
 
-I stand. I am already walking toward the water where they will be. The ambush can wait for my feet. The faith cannot.
+"Can you walk?" I ask Tsunari.
+
+"I was walking before you arrived." Her voice shakes and she hates it. "Don't make her a project. Make us a direction."
+
+"The vault," I say. "Through them if they stand in it."
+
+Caelia stays on her knees as we pass. She does not attack again. She watches my hand on Tsunari's back, and the watching is worse than a knife, because it is patient.

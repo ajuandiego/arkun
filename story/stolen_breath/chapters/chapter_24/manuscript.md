@@ -1,32 +1,23 @@
 # Chapter 24 // Tsunari
 
-> *Feather to feather, bone to bone*
-> *None of the Aerie falls alone.*
-> *Break the wind and ride the squall*
-> *If one must dive, we catch the fall.*
+> *The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up. The sky out here is waiting.*
 
 ***
 
-The pad fills with lights. Hawks in the air, narrower than the shadow I already know, and ground lamps on the south lip. He does not give me a speech. He buckles the spare harness across his chest and pulls me into it until my thighs have to lock at his hips or drag.
+The air is a fist.
 
-"Hold," he says. "Eyes shut when the lamps hit. If you let go, the band gets you and I do not get a second grab."
+I have never been in it like this. Roofs, gantries, the long fall off a flange my knees could eat. Not a wing. The harness holds me to his chest and the wing does the rest, a violence of muscle and feather that should not be able to lift two people and does.
 
-"I don't shut my eyes for men who give orders."
+Flak opens in the chemical haze, soft ugly flowers. Grit hits my teeth. I taste the band and I do not have a hand free to cover my mouth. His shoulder is a burn against my cheek. I cling and I am furious that clinging is the correct choice.
 
-"Shut them for the glare." His arm locks behind my back. The plate of his chest is heat through the cloth. Every shift of the strap moves us against each other, a fact neither of us has time to file and both of us feel. My arms go around his neck because the alternative is the concrete.
+"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
 
-Searchlights pin the post. A voice on his old channel starts a cadence I do not know and will not repeat. He cuts the channel with his jaw.
+"Yard," he says.
 
-"They'll fire," I say.
+I see it. Containers. One ruin on the lakebed, not a second country, not a horizon of dunes I would have to name. Close. The flight is a few miles and my stomach has already spent them.
 
-"Some of them will miss on purpose. Don't count on it."
+A slug snaps past his knee. Rook, or not Rook. I don't ask. I lock my ankles and I keep my eyes open, because if we fall I want to see the ground that takes us.
 
-He steps off the lip.
+"If you drop me," I say, "I will haunt the wing."
 
-The stomach goes first. Then the wing bites, and the ground becomes a dark band with chemical sheen, and the terror and the safety arrive in the same breath. I am locked to a soldier I fought in a shack. I am also not falling. His heartbeat is a drum against my ribs. The harness creaks. I hold.
-
-"Breathe," he says into my hair.
-
-"I am."
-
-A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of Hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.
+"I'm not dropping you." His arm tightens. The safety and the terror stay braided. "Hold through the flare. Then we are down, and down is a problem I know."

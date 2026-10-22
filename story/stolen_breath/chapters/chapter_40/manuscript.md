@@ -1,23 +1,25 @@
-# Chapter 40 // Vram
+# Chapter 40 // Tsunari
 
-> *Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal. Bow your neck to the anvil, or be swept out with the waste.*
+> *The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself.*
 
 ***
 
-They escort us because killing us in a pipe would waste the audience.
+Ren finds us at the edge of the south water because of course he does. He should be at the clinic. He is on a roof with a cloth over his mouth and the rattle hidden badly.
 
-The Grand Cistern is a temple made of industry. Water, iron, thousands kneeling. The Forger stands where the sound carries. Malakar stands at her shoulder with a rail-flail across his back, the pneumatic hiss of it once, then quiet. Her chest is bare above the brands, once, and I look at her eyes instead.
+"Don't," I say.
 
-"Deliverer," she says. The flat voice from Caelia's faith, life-size. "The dome took your name and your wing and gave you a leash. I will give you an army. She..." a flick at Caelia, shining and wrecked, "...is the right hand. The cold one is the price. We cut her here, and the flame stays lit."
+"I'm the introduction," he says. "Then I leave. She won't talk to a wing she hasn't priced."
 
-Tsunari does not kneel. I feel her counting exits. I do not take the army. I do not take the girl. I spit the sentence so the cistern can keep it.
+Madame Vrena Chen keeps a stall that is actually a government. Baseline. Gray at the temples. She looks at the sky the way a person looks at a thing they remember in another color. One line of that is enough. She was alive before the copper. She sells nothing sentimental.
 
-"She is not my bride, and I am no one's god."
+"Stills at dawn," she says. "Shelters when the freeze drops. You want hours, parts, and a centrifuge that isn't a toy. He wants forgiveness for sweeps I still have on a wall."
 
-The kneelers make a sound like a wound. Malakar's flail shifts. The Forger's face does not. She has spent fifteen years telling grieving people that the thing which stole their children is the forge that brings one home. I am the one, in her mouth. I am refusing the mouth.
+Vram stands where she can see his hands. "I flew those sweeps. I won't retell them. If you need a man to hate, use me and still sell her the hours. The lee over this market fails in fourteen months. The page is in her sling. Read it before you decide we are a raid."
 
-"Then you are slag," she says. "And slag gets swept."
+Chen reads. The market moves around us. Ren shifts and I put two fingers on his wrist, the old signal for go home. He goes, this time, because Chen's people are watching and he is not stupid in a crowd.
 
-"Sweep," I say.
+"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your Raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
 
-Caelia stares at me as if I have set fire to her house from the inside. Malakar roars. The flail needs room, and the catwalks have room, and Tsunari is already moving, which is the only prayer I trust.
+"We'll haul," I say.
+
+"You'll haul at dawn." She folds the page and gives it back. "And you'll tell the boy with the bad lungs that my roof is not a hallway."

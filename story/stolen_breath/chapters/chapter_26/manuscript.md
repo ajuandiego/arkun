@@ -1,23 +1,27 @@
 # Chapter 26 // Tsunari
 
-> *The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up. The sky out here is waiting.*
+> *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
 
 ***
 
-The air is a fist.
+The chemical keeps eating after we are out of it.
 
-I have never been in it like this. Roofs, gantries, the long fall off a flange my knees could eat. Not a wing. The harness holds me to his chest and the wing does the rest, a violence of muscle and feather that should not be able to lift two people and does.
+His shirt smokes at the hem. My tunic, the sleeve, the wrap at my thigh, all of it holds the burn against the skin. I strip the cloth because the alternative is a wound that finishes the job the hose started. He does the same, jaw locked, no speech about modesty. Shame can wait. The burn will not.
 
-Flak opens in the chemical haze, soft ugly flowers. Grit hits my teeth. I taste the band and I do not have a hand free to cover my mouth. His shoulder is a burn against my cheek. I cling and I am furious that clinging is the correct choice.
+Cold in the culvert. His skin throws heat anyway. I scrape the dust and the scorched down off the root where the wing leaves his back, fingers careful, because the quills are live and the flesh around them flinches like a nerve. He makes a sound he does not mean to make. Not pain only. The root answers the touch. His whole back tightens. His hands find the stone and the knuckles go white once, and then he is turning, crowding me to the wall, breath wrecked.
 
-"Don't look up," I tell myself, which is a dead man's advice from a road I am no longer on. I look. The sky out here is bigger than the wall. Copper, then a tear of searchlight, then his primaries cutting it. Black. A hard beat throws a blue-violet sheen along the shafts and it is gone. I am terrified. I am also, for one heartbeat, sure of the shape of what they built him to do. Not a speech. A fact with wind in it.
+"Stop," he says, and his mouth is already at my throat. "Or don't. Tell me which."
 
-"Yard," he says.
+"The burn is off." My voice is not steady. His hands are on my hips, hot, shaking, asking by staying. "The rest of this, you ask."
 
-I see it. Containers. One ruin on the lakebed, not a second country, not a horizon of dunes I would have to name. Close. The flight is a few miles and my stomach has already spent them.
+"I'm asking."
 
-A slug snaps past his knee. Rook, or not Rook. I don't ask. I lock my ankles and I keep my eyes open, because if we fall I want to see the ground that takes us.
+I nod, once, because I want it and because I will not pretend the want is only his. He goes to his knees on the wet stone. Mouth, then fingers, specific and unhurried and nothing like the fight in the shack. The cold of the culvert and the heat of him. I brace on his shoulder. The wing curves in, not a cage, a wall against the dark. I come apart against his mouth with his name caught in my teeth, and he stays until the shake leaves my legs.
 
-"If you drop me," I say, "I will haunt the wing."
+He pulls back before the rest. His forehead rests on my stomach. He is hard against his own thigh and he does not chase it.
 
-"I'm not dropping you." His arm tightens. The safety and the terror stay braided. "Hold through the flare. Then we are down, and down is a problem I know."
+"If I keep going I will burn you," he says. "The heat doesn't know the difference between a wing and a body. I do."
+
+"Then we stop." I get my hand in his hair, not a reward, a fact. "You stopped. Remember that you stopped."
+
+We breathe. The clothes are a ruined pile. The burn is a lesser hurt. I am aching and clear-headed, and the addiction is already in the place where the ache is, and I do not give it a softer name than want.

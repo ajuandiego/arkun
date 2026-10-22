@@ -1,6 +1,6 @@
 # Life
 
-Air, the leash, the touch, and the machines the reader has actually used. The homes are `canon/world/air.md`, `canon/world/life/leash.md`, and the other files under `canon/world/life/`. Strain bodies are in `strains.md`. The alien reason for the work is in `vaelen.md`.
+Air, the leash, the touch, and the machines the reader has actually used. The homes are `canon/world/air.md`, `canon/world/life/leash.md`, and the other files under `canon/world/life/`. Strain bodies are in `strains.md`. The alien reason for the work is in `karyon.md`.
 
 ## Lived
 
@@ -15,7 +15,7 @@ Air, the leash, the touch, and the machines the reader has actually used. The ho
 
 * **Null-Resonance.** The lexicon calls it a ground. The scenes show one woman's skin, not a property of human skin. The Fatal Siphon is the proof that a Lindwurm palm fails.
 * **The Mosaic Keystone.** Five crests on a wall of quartz. The reader knows her blood is the reason a dose does not reject. They do not know the recipe well enough to imagine someone else brewing it.
-* **The fourteen-month clock.** Stolen in chapter 1, confirmed as terraforming in chapter 44. A date with a mechanism attached: collapse the lee, push barrens-air, seal the dome.
+* **The fourteen-month clock.** Stolen in chapter 1, confirmed as terraforming in chapter 42. A date with a mechanism attached: collapse the lee, push barrens-air, seal the dome.
 * **Cross-strain rejection.** A lexicon entry beside the sex and the doses. The drama is that her blood is the exception.
 * **The bodkin and the slate.** The reader has watched a theft: blade unseated, tang in a port, file on the chest screen. The hooks have climbed, hooked a line, and hung at her hips. The internal conduit in the hook is a plate in the bible. The chapters use the beak and the grip.
 
@@ -24,5 +24,5 @@ Air, the leash, the touch, and the machines the reader has actually used. The ho
 * A dose that works without her in the room. Kira's drives are a hope, not a result.
 * What the carrier can still do after a dose. The kill has not been tested against the stabilizer. Voice and tracking have not been shown going dark.
 * How hard the barrens are once you leave the hours. The crash and the pack are one night, not a life.
-* What the pylons are doing when the Gospel hears them hum. The reader gets a sound in the rock and a rite. The gas blend, the parts per million, and the reason a Vaelen lung needs that sky are not yet a lesson the page has finished. The human side is sulfur, cough, and a schedule.
+* What the pylons are doing when the Gospel hears them hum. The reader gets a sound in the rock and a rite. The gas blend, the parts per million, and the reason a Karyon lung needs that sky are not yet a lesson the page has finished. The human side is sulfur, cough, and a schedule.
 * Whether the brand on Tsunari's shoulder is cult ink only, or a door into the same chemistry as the Crucible.

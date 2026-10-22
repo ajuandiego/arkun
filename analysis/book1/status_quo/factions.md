@@ -14,13 +14,13 @@ Who the reader believes is holding power at the end of *Stolen Breath*. The ideo
 
 * **Apex GeneSys** as Corvus's house and Sora's lab. **Aethelgard** and **Vanguard** are company names the reader may pass in an epigraph or a patent. They are not characters.
 * **Kira's road** as a way out that is not a cell and not a guild. One crawler, one departure.
-* **The Vaelen as a sky and a schedule.** Barges, Inquisitors, a fourteen-month plan. The faction file is the species. What the reader has of the species is in `vaelen.md`.
+* **The Karyon as a sky and a schedule.** Barges, Inquisitors, a fourteen-month plan. The faction file is the species. What the reader has of the species is in `karyon.md`.
 
 ## Open
 
 * Who commands the zealots after the Forger's staff breaks. Maeva acts. The chain of command is not shown.
 * Whether the Consortium treats Sector 09 as lost, or as a purge that will be repeated.
 * Whether a mutinous squad can stay in the ring without the Directorate burning the gain back up.
-* The Preservers, Lyraen, and any Vaelen who disagrees with the schedule. The reader has not been offered a second alien.
+* The Preservers, Lyraen, and any Karyon who disagrees with the schedule. The reader has not been offered a second alien.
 * Mercer's cell. The resistance in this book is Chen, Kira, Ren, Boran, and the Vault. The mentor and the betrayal are not on the page.
 * Whether the Curators can go back to being untouchable after hosting a siege.

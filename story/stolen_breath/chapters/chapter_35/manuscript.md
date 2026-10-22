@@ -1,27 +1,23 @@
-# Chapter 35 // Vram
+# Chapter 35 // Caelia
 
-> **Off the mesh.** The leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
+> **The cup.** A thin drink of rift vapor, taken at a ceremony. It tips the room and makes a voice seem to speak to one person. It does not change the body. The Forger is the one who says what the voice meant.
 
 ***
 
-Dawn is a gray line under the yard door. She is asleep on my chest. The wing aches. The fever has backed down to a live coal. The mesh is quiet.
+The cistern is a church because she says it is.
 
-I hate the quiet.
+Brands on the walls. Malakar at the edge of the lamp, watching who drinks and who only pretends. The Forger's voice is flat. She does not need to shout. I am twenty-one and I have been hers since fourteen, and the cup is the kindest thing she gives me that is not a promise.
 
-For ten years the noise was the map. Cassian's position. Toby's breath when he was scared and lying about it. Orders. The sting that meant obey. A soldier off the mesh in occupied ground is not at peace. He is a man with his eyes cut out, lying under a scavenger's floor, hoping the wing he abandoned is only in pain and not in a grave he cannot see.
+It is a thin drink. It is not the thing they put in a vein in the back room. My body stays my body. The room tips. The water light moves. A voice seems to speak to me alone, not to the row, not to Malakar. I see a wing on fire and a place at his right hand, and the place has my shape in it.
 
-I do not wake her to say that. She would hear it as regret for the compact. It is not. It is the bill.
+I wake on the stone with my cheeks wet and the certainty already hard. The vision was mine. I was there.
 
-Kira's boot hits the stair. She looks at the two of us and snorts.
+The Forger crouches. She smells like heat and iron. She puts two fingers under my chin.
 
-"Romantic. Also visible from a satellite if you keep glowing. The mask is a paste and a route. You wear the paste. You walk when I say. The rail under this yard is a few miles back under the ring, into the south sumps. Not a trek across a country. A trolley, if Boran opens the door. The cult holds the water on the far end. The vault you want is past that water. I don't do vaults."
+"You saw him," she says. "The flame that falls. You stand at his right hand, or the flame goes out, and you go out with it. The cold one on the road is the hand that would smother him. You will not let her."
 
-"The wing," I say. "Can they hear me?"
+I nod. I am not performing. I love the sentence the way a starved girl loves a door. He will know me. He will take my hand. The other woman is a problem I am allowed to hate.
 
-"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a Raven up a bulkhead for the pleasure of his guilt."
+Malakar's eyes say he heard the reading and filed me under tools. I do not care. The Forger has told me what the voice meant. That is the hold, and it feels like being chosen.
 
-Tsunari's eyes are open. She heard the last of it. She does not apologize for the quiet. I do not ask her to.
-
-"I can walk," she says.
-
-"Then we walk," I say. The blindness stays. I put it next to the compact and I carry both.
+I stand. I am already walking toward the water where they will be. The ambush can wait for my feet. The faith cannot.

@@ -1,27 +1,37 @@
-# Chapter 28 // Tsunari
+# Chapter 28 // Ren
 
-> *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
+> **The rattle.** The dry sound behind the breastbone. It can go on for years before the lungs turn to glass. It is already in his chest.
 
 ***
 
-The chemical keeps eating after we are out of it.
+The cut link is still in my ear when I tell Drew I am going.
 
-His shirt smokes at the hem. My tunic, the sleeve, the wrap at my thigh, all of it holds the burn against the skin. I strip the cloth because the alternative is a wound that finishes the job the hose started. He does the same, jaw locked, no speech about modesty. Shame can wait. The burn will not.
+She is at the bench. The tang she wrapped for Tsune is still on the cloth, useless, because the woman who uses it did not come home. T.J. is in the set, fourteen and furious in the only way he allows, which is precision.
 
-Cold in the culvert. His skin throws heat anyway. I scrape the dust and the scorched down off the root where the wing leaves his back, fingers careful, because the quills are live and the flesh around them flinches like a nerve. He makes a sound he does not mean to make. Not pain only. The root answers the touch. His whole back tightens. His hands find the stone and the knuckles go white once, and then he is turning, crowding me to the wall, breath wrecked.
+"Bearing is south," he says. "Past the mirrors. I am not coming up. Ask me again and I will stop answering."
 
-"Stop," he says, and his mouth is already at my throat. "Or don't. Tell me which."
+"I'm not asking you," I say. "I'm telling her."
 
-"The burn is off." My voice is not steady. His hands are on my hips, hot, shaking, asking by staying. "The rest of this, you ask."
+Drew looks at the burn on her hand. "She told us to turn around."
 
-"I'm asking."
+"She told us that so we would live. I spent the night living. I'm done."
 
-I nod, once, because I want it and because I will not pretend the want is only his. He goes to his knees on the wet stone. Mouth, then fingers, specific and unhurried and nothing like the fight in the shack. The cold of the culvert and the heat of him. I brace on his shoulder. The wing curves in, not a cage, a wall against the dark. I come apart against his mouth with his name caught in my teeth, and he stays until the shake leaves my legs.
+The rattle clicks when I stand. One dry catch behind the breastbone. Drew hears it and puts a cartridge on the bench without a speech. I hate that she is right. I take it.
 
-He pulls back before the rest. His forehead rests on my stomach. He is hard against his own thigh and he does not chase it.
+We take the cart because she will not let me walk it. The lee thins. The mirrors go by, black and already a lie we will tell if we have to. I count the roofs, then the miles, because counting is what I can do while my chest does the other thing. The dead band is a mile of air I should not breathe. I breathe it with the cartridge in my teeth and I do not thank her.
 
-"If I keep going I will burn you," he says. "The heat doesn't know the difference between a wing and a body. I do."
+The freight yard is containers and a quiet that has dogs in it. I want to climb down. I get one boot on the rim.
 
-"Then we stop." I get my hand in his hair, not a reward, a fact. "You stopped. Remember that you stopped."
+Tsune is there, small, between the boxes, blood on her sleeve and a page in her hand. She looks at me the way she looks at a window that is about to close.
 
-We breathe. The clothes are a ruined pile. The burn is a lesser hurt. I am aching and clear-headed, and the addiction is already in the place where the ache is, and I do not give it a softer name than want.
+"No," she says.
+
+"We came to..."
+
+"You came to go back." She puts the page in Drew's hand. "Mercer hears you lost the signal at the mirrors. T.J. stays down. You do not climb. You do not look for the hole under this yard. You do not look for the man."
+
+"What man?"
+
+"The one you are not going to see." Her eyes stay on mine until my boot comes back up. "Go, Ren. If you stay, I spend the minute I need on you."
+
+I go. The rattle keeps time. I do not see a drain. I do not see a face past the containers. I see her until the rim takes her, and then I see the road, and I hate every yard of it that is the right direction.

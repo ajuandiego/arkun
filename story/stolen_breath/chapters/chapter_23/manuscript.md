@@ -1,31 +1,29 @@
-# Chapter 23 // Corvus
+# Chapter 23 // Vram
 
-> *Both of them. Alive. We need to understand what happened.*
+> *You do not fire on your own wing.*
 
 ***
 
-The lab keeps my face at thirty. I am eighty, and I know which hour the last treatment bought, and I do not spend that hour on a mirror. The mirror is for other people.
+The dead band is a few miles of bad ground and a rim of pale lakebed. I have her locked to my chest and the wing is doing two jobs. Fly. Don't crush her.
 
-The voice comes through the ceiling array, not a body in the room. Karyon. Patient. The glass of nothing fogs, because there is no sleeve here, only a speaker and my clean air.
+Cassian is on my left, Hawk, patrol span, the man I told to hold a roost. He does not fire. I see the hesitation in the way his hands stay open. He was told a weather report. He was told a corpse. He is looking at a living woman in my harness and the order in his skull, and the order is losing by a second at a time.
 
-"Your soldier's return dropped," it says. "The noise left him and came back. A woman was on the contact. She is the anomaly. Priority zero. Both of them. Alive. We need to understand what happened."
+"Commander," he says on the channel. "Land and I can still call this a return."
 
-"A name for the anomaly."
+"You can't."
 
-"No."
+Rook comes in hot on the right, irreverent even now, and the slug he sends goes wide into the haze. "Targeting optics full of dust!" he shouts, for the log, for whoever is counting loyalty. The next shot is wide too. He is a Hawk. He does not miss twice unless he means to.
 
-"A mechanism."
+Toby dives. Cream and rust. Younger. He puts his body between a flak drone and the root of my wing, slipstream ugly, a Hawk's tuck with no lecture in it. The drone's burst chews his vane instead of my bone. He swears, soft, the way he apologizes.
 
-"No. Capture. Do not open her on the road. A corpse cannot be read, and a commander cooked in a ditch is a story you already tried to tell me. I disliked it."
+"You do not fire on your own wing," I tell the channel, and I am the one who made the sentence a lie by leaving.
 
-I stand at my own bench in my own lab and I am being used as staff. The anger is clean and useful. Vanity sits under it: he is my weapon, my beautiful work, and a dirty girl in a collar put her hand on him and he chose her. Tired sits under the vanity. The cohort I will spend is young, and the leash will hurt them, and I will sign the hurt because the alternative is to be the director who lost the masterwork.
+Amari is a wheat flicker higher up, not shooting. Cassian still has not. The leash on all of them will be climbing because Corvus does not like a hesitation. I feel mine try to climb and her palm, trapped between us, keeps it from finishing.
 
-"Alive," I say. "Both. I'll send the wing he left, and a retrieval behind it. If he bleeds them, the gain stays up until he comes home or the wing fails. He will understand the price."
+"Yard," she says against my throat. "I see containers."
 
-"Do not diagnose him over the beam."
+"Then we get there before a honest gun does."
 
-"I don't have a diagnosis," I say, and the truth of that tastes like an insult. "I have an order."
+Rook laughs once, broken. "Fly, Commander. I'll keep missing."
 
-The voice leaves. The lab is white and mine again. I look thirty. I feel the hour. I call the roost myself, because a woman who lets a secretary spend her weapon is already retired.
-
-"South post. Both alive. Bring them in readable." I pause, and the pause is not kindness. "And tell his brother nothing he can use. Weather is over."
+I beat. The band streams under us. Toby bleeds light into the haze and stays in my shadow anyway, because he is Vance and he is my wing, and Cassian follows without firing, which is the last kindness he can afford me.

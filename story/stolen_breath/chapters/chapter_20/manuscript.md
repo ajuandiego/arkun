@@ -1,6 +1,6 @@
 # Chapter 20 // Vram
 
-> **A retrieval.** Collared soldiers, sent when the Spire wants a body and will not come down to take it. This one is a Wolf and two Rhinos. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+> **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
 ***
 
@@ -22,8 +22,32 @@ The leash climbs because she is in the shaft and my wrist is empty. Heat stacks 
 
 The woman Rhino smiles with no humor in it. "We have a retrieval. Telemetry, and whatever made your numbers lie. Step off the grate, Commander, or I stop asking."
 
-I do not step off. The Wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing, and I am still trying to talk because the moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
+I do not step off. The Wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing. The moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
 
 "Stand down," I say.
 
 The Wolf does not. He has the scent. He goes into the shaft.
+
+I stay on the grate one breath past the point where talking is only a way to arrive late. Then I hear her. The metal rings. A man's voice, thick, telling the pad he has her. The horn hits the frame and sticks.
+
+The talking part of the hour ends.
+
+I drop through the ceiling on the wing. The mechanical room takes the feathers badly. The woman is half out of the grate, plate scored, chest bare where the hide stops, eyes up. She is the one who charges. She charges me.
+
+The horn comes for the center of my mass. I leave the floor. The wing catches a beam and throws me sideways, and my hands find the gap her plate does not cover, under the arms, where the hide becomes skin. Heat goes into the grip. The vane along my forearm, the one that lifts when the beat is hard, lays a line across the unplated chest. She bellows. The charge breaks because a charge needs a target that stays on the ground.
+
+The other Rhino is still in the hinge, trying to wedge and fight at once. He gets one arm free. I put a boot on the plate of his shoulder and the wing does the rest, a short ugly fold that cracks him into the frame. The Wolf comes out of the shaft last, bleeding at the strap, nose full of her. I meet him with the heat still in my hands. He goes down on the knee and stays, because a Wolf who cannot trust his nose will not spend the jaw.
+
+She is against the far wall, hooks low, breathing hard, eyes on me like she is waiting to see what I am now.
+
+I know what I am. Their blood is on the grate. Directorate kit. My kit, an hour ago. Draw blood on your own retrieval and the desertion is the same hour. They can turn the leash up on Cassian, on Toby, on Rook, on Amari, until the wing I taught them cooks for my choice.
+
+The leash tries. A stitch, then a climb. Her hand finds my wrist without asking, and the climb stops, and that is a second crime stacked on the first.
+
+"You drew on them," she says.
+
+"So did you."
+
+"Then we are both already gone." She does not thank me. "Get us off this floor before the next prowler learns how."
+
+I look at the soldiers on the concrete. Alive. Down. Government. The life that gave me the wing is on the floor with them. I take her hand off my wrist only when I can stand the noise long enough to walk.

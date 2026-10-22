@@ -1,27 +1,23 @@
 # Chapter 47 // Vram
 
+> **Two doors.** The dome is coming down the sluices. The cult is coming up from the sump. The Vault is the room between.
+
 ***
 
-Gideon locks the lab. The stabilizer is his problem and not finished, and he says so through the door. The alcove is ours by the accident of a curtain.
+I put my hand on the map Gideon will not let us take out of the room.
 
-I clean the burn on her shoulder. She watches my hands. The compact is already in my chest. The words are only a few days old. Partners, or nothing. I want the partners. The want has stopped pretending it is only the quiet.
+"Down," I say. "Corvus. Mechanized. They'll hose the lower sluices and call the dead a number."
 
-"There isn't an empire of glass or gold that could buy your breath from my hands," I say. It comes out plain. I do not decorate it.
+"Up," Tsunari says. "Malakar. The Embers. They want the hall more than they want the doctrine, now that the doctrine spit them out."
 
-"Don't spend a speech if you mean a night," she says. Her fingers are at my belt. "Mean the night."
+The Vault sits between those two hungers. Quartz, paper, a curator with a pry bar he pretends is a walking stick. My wing is not on fire. The veins are veins. Whatever Gideon named in her blood, it has not turned me into a second sun. I am a man with a torn vane and a squad that just committed a crime for a minute of quiet.
 
-"I mean the night. And the morning. And the part where I stop if you say stop."
+"Toby on the upper drain," I say. "Rook with him. Veda on the stair. Boran will take a door if we ask him like a man and not like a flyer. Chen's steam, if she meant the promise."
 
-"Then don't stop yet."
+"She meant the hours," Tsunari says. "Steam is a hour she can spend."
 
-We are slow because the yard was not slow. Mouth on her, her mouth on me, the heat a thing I govern instead of a thing that governs me. She tastes like copper and salt. I taste her until her hand fists in my hair and she tells me, clear, to come up. I come up. She takes me in with her eyes open. The wing curves around the cot, black feathers, a private wall. We move until the alcove is only breath and the sound she does not bother to hide. I follow her over and stay, shaking, the socket quiet because her palm is on my neck and because I would stay if it screamed.
+A boom, far, in the sluice. Another, closer, from the sump side. Two doors. One room. I roll the shoulder and the wing answers with pain, ordinary pain, the kind that does not rewrite a war.
 
-After, she laughs once, wrecked, into my throat. I laugh into her hair. The laugh sits warm in my ribs.
+"We hold," I say. "We don't chase a god down a pipe, and we don't fly into a hose. They have to come into the room we know."
 
-Above us, in the vent, a body shifts. Caelia. I know the heat of an Ember the way I know a bad wind. She can see the feathers and the fact of us. She does not preach. A small radio crackles in her hand, the Forger's flat voice, not meant for her and heard anyway. Bait. Disposable. If he will not take the right hand, spend the hand.
-
-Caelia's breath breaks. She crawls back the way she came. I do not call out. Tsunari has heard the radio too. Her eyes are wet and furious and still soft on me.
-
-"She'll break or she'll come back with a knife," she says.
-
-"Let her choose in the hall," I say. "This room already chose."
+She checks the hawk in her pocket, absurd and small, and nods. The next sound is boots. I go to meet them with the wing folded until I need it, and I do not ask it to become anything but a wing.

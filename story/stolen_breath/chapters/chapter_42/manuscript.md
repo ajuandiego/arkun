@@ -1,25 +1,27 @@
-# Chapter 42 // Tsunari
+# Chapter 42 // Vram
 
-> *The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself.*
+> **A curator.** Someone who keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
 
 ***
 
-Ren finds us at the edge of the south water because of course he does. He should be at the clinic. He is on a roof with a cloth over his mouth and the rattle hidden badly.
+Eighty feet under Sector 09, the door is glass and iron. Cut into the lintel, in letters a torch can read: *What is written in light cannot be erased by fire.* Older than the company. Older than the wing they told me was a patent.
 
-"Don't," I say.
+Gideon Cross is a thin man with archive dust on his cuffs and no socket. He does not bow. He looks at the torn vane, at her collar, at the slate, and he decides we are not a raid.
 
-"I'm the introduction," he says. "Then I leave. She won't talk to a wing she hasn't priced."
+"You want the record," he says. "The record is not a weapon you swing today. Come in before the sump remembers it has legs."
 
-Madame Vrena Chen keeps a stall that is actually a government. Baseline. Gray at the temples. She looks at the sky the way a person looks at a thing they remember in another color. One line of that is enough. She was alive before the copper. She sells nothing sentimental.
+The Vault smells like cold glass and paper that survived. He unrolls a codex. Winged hunters, cut into stone long before Apex had a name. My stomach drops in a way the fever never managed.
 
-"Stills at dawn," she says. "Shelters when the freeze drops. You want hours, parts, and a centrifuge that isn't a toy. He wants forgiveness for sweeps I still have on a wall."
+"They told me I was made in a lab," I say.
 
-Vram stands where she can see his hands. "I flew those sweeps. I won't retell them. If you need a man to hate, use me and still sell her the hours. The lee over this market fails in fourteen months. The page is in her sling. Read it before you decide we are a raid."
+"You were finished in a lab," Gideon says. "The sentence is older. The company owns the socket and the story. It does not own the first cut of the bone."
 
-Chen reads. The market moves around us. Ren shifts and I put two fingers on his wrist, the old signal for go home. He goes, this time, because Chen's people are watching and he is not stupid in a crowd.
+Tsunari watches my face, not the codex. She is letting me have the blow. The five strains in her blood are not this page. This page is mine. I am not an unholy accident that started when a director wanted a hawk. Something in the bone was walking around before they put a number on a boy in a Ring ward.
 
-"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your Raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
+"Sovereignty is a large word," I say.
 
-"We'll haul," I say.
+"Then use a small one," she says. "Yours."
 
-"You'll haul at dawn." She folds the page and gives it back. "And you'll tell the boy with the bad lungs that my roof is not a hallway."
+I put my hand on the glass over the drawing. The wing shifts, torn and still mine. Gideon rolls the codex shut with the care of a man who does not sell what he keeps.
+
+"There is more," he says. "It will hurt her worse. Not tonight's scroll. When you can stand the next truth, ask."

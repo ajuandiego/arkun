@@ -13,9 +13,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Her hands quiet Veda and Ferrin in the room. The dose does not leave in a stranger's pocket.
-- Toby does not learn that Cassian is dead.
-- White knuckles once, or not at all.
-- The gift is a small carved hawk. It is not a talon.
+- Steam, the Rhino in the door, and Caelia taking the blow. The order allows the dead. The door is the answer.
+- She falls. This chapter does not bury her.
+- No cure that travels.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

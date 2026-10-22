@@ -45,21 +45,27 @@ Forever will never be enough to share this life with you.
 
 ***
 
-Silt ticks on the zinc over Mercer's door and sticks in the cloth I pulled up for the walk. Faces under it are bare. The wall is the whole end of the street, a hundred meters of metal with the dome's light leaking on the top edge, and the south gate is a red cluster too far down to be our problem until we decide it is. A cart argues with a woman about a price. Nobody pays it. I take the clinic stair two at a time because the other stair had a prowler on it at noon, and T.J. said so before I left.
+The wall closes the street. A hundred meters of metal, cold when the wind comes off it, with the dome's light leaking along the top edge and the south gate a red cluster too far down to be our problem until we decide it is. Silt ticks on the zinc and sticks in the cloth I pulled up for the walk. Faces under the cloth are bare. This close to the wall the air is still air, copper on the tongue, and the cloth is only winning a fight with the grit until the hour passes and people take it off. They are out anyway, because the night will freeze hard enough to push them indoors, and nobody wants to count coins with stiff fingers.
 
-That is the whole trick of a day out here. He watches. I don't walk into what he watched.
+A mash cart has the wide part of the gutter. Mash is the thick green paste people eat when the day has run long, salty, scooped hot into a dented bowl, the meal you buy because it fills you and not because you want it. The vendor shouts a price as if the price might get embarrassed and climb down by itself. A woman answers with what she can pay. He shakes his head, she walks, and the man behind her buys at the quieter number without raising his voice: a bowl of the paste, a nod, the coins already counted in his palm. I know both numbers the way I know which roof will hold me. The shout is the ask. The sale is the one after it. I keep walking, because if I stop I will be late, and Drew enjoys late more than she enjoys mash.
 
-Drew is at the bench in the back, dark hair cut at the jaw, the burn across her left hand smeared with grease she hasn't bothered to clean. A dead keypad sits in the vise. The tang of Tsune's bodkin is in Drew's fingers, dark metal, smaller than the blade she took off it.
+The clinic stair is the one I was told to take. The other stair comes out on a street T.J. already watched, and before I left he said, close to the mic, that a prowler had been sitting at the mouth of it since noon. A prowler is a government truck, gray and armored, soldiers in the cab, the kind of truck that turns a street into a question about who came down and which door they belong to. Mercer's clinic is one of those doors. A light on the wrong stair becomes a light in his front room, where he boils water for people who walked away from the shouted price, and then everyone who uses his back room is in the same story as the truck. T.J. stays under the street and watches so I do not have to learn that story with my own face. I take the clinic stair two at a time.
+
+He watches. I stay off the street he named. That is the whole trick, and it works until the day he is wrong.
+
+The climb leaves a dry catch behind my ribs. I pretend it is the stair.
+
+Drew is at the bench in the back, dark hair cut at the jaw, grease worked into the burn on her left hand. A dead keypad sits in the vise. Tsune's bodkin, the short knife she wears through her braid, is in two pieces on the bench because the small metal end of it has to fit a keypad and Drew has been matching that end to the dead one. The tang is in her fingers. The blade she twisted off to get at it lies on the rag, longer than the tang and duller than it looks in Tsune's hair.
 
 "You're late," Drew says.
 
 "I took the cistern alley. The slip got there. She paid in bread and a corner of roof, and she asked when the sweep comes back. I told her I don't sell tomorrow."
 
-"You sell today. Sit."
+"You sell today." She tips her chin at the stool. "Sit, before you fall over and make me a nurse."
 
-I sit. The breath catches on the way down, a dry scrape I pretend is the stair. Drew hears it. She does not make it a conversation. The cup she puts by my hand is hot. I drink.
+I sit. The catch comes again on the way down, and Drew hears it the way she hears a bad bearing. She does not make it a conversation. The cup she puts by my hand is hot. I drink, and the heat sits in my chest where the catch was, which is as close as either of us gets to talking about it.
 
-Tsune comes in from the lane without a sound I can use. Collar up, charcoal tunic, shoulders bare, the slate dark on the harness and the hooks quiet at her hips. Amber goggles over her eyes. The braid is tight, and the rest of the bodkin is still seated in it, a steel line through the hair. Silt has stuck to the scales on her shoulder. She brushes them with a glove like they are weather. I have seen what the collar hides. I do not look at the collar.
+Tsune comes in from the lane without a sound I can use. She looks at the piece in Drew's fingers before she looks at me. The bodkin is through her braid and short the blade that is lying on the rag, the grip waiting for Drew to be finished with it.
 
 "Roof was clean," she says. "Ren."
 
@@ -69,11 +75,11 @@ Tsune comes in from the lane without a sound I can use. Collar up, charcoal tuni
 
 "T.J. called the stair dirty. I listened."
 
-She nods once. That is the praise I get, and it is enough. She pulls the goggles down onto the collar and looks at the keypad in the vise, not at me.
+She nods once, which is the whole of the praise I ever get from her, and it still lands warm under the ribs. She pulls the goggles down onto the collar and looks at the keypad in the vise.
 
 "Talk," she says.
 
-T.J. is already in the room, which means the set on the bench is live and he is under a street he will not come up from. Young voice. Close to the mic. "Twelve long passes. Same boots, same corner, same lazy turn back to the gate. Seven point eight from the corner to the mouth. The camera on that door looks at the gantry joint. It does not look at the keypad."
+T.J. is already in the room, which means the set on the bench is live and he is under a street he will not come up from. Young voice. Close to the mic, the same closeness he used when he warned me off the prowler. "Twelve long passes. Same boots, same corner, same lazy turn back to the gate. Seven point eight from the corner to the mouth. The camera on that door looks at the gantry joint. It does not look at the keypad."
 
 "And the wire," Tsune says.
 
@@ -83,37 +89,37 @@ Drew turns the tang so the contacts catch the lamp. "It matches the scrap. A liv
 
 "We have asked prowlers," Tsune says. "We have caught a broadcast when somebody got lazy on an open set. We have not put a jack in a door that is still on the wall."
 
-"That's the point," Drew says. "Prowlers tell us where a truck is. A broadcast tells us what a fool said. The security net tells us which doors they walk and which cameras are dead. I can shut this clinic for the hour that matters, instead of for the hour I guess."
+"That's the point," Drew says. "A prowler tells us where a truck is, and a broadcast tells us what a fool said out loud. The security net tells us which doors they walk and which cameras are dead. I can shut this clinic for the hour that matters, instead of for the hour I guess."
 
-I know that hour. Last month the guess was wrong and Mercer spent it with the lamp off and a hand on a boy's mouth. Nobody has told him about the door. He is in the front, boiling something that smells like the lane. If this works, he gets a quieter night and a lie about how we knew.
+I know that hour. Last month the guess was wrong, and Mercer spent it in the front with the lamp off and a hand over a boy's mouth so the boy would not cough while boots went past the door. Nobody has told him about tonight. He is in there now, boiling water, trusting us to be the kind of noise that does not bring a truck. If the jack works, he gets a quieter night and a lie about how we knew.
 
 "I can stand at the keypad," I say.
 
-Tsune looks at me then. Not unkind. Finished.
+Tsune looks at me then, finished, the way she looks when she has already had the argument with herself and I was not invited.
 
 "You can stand on the roof that sees the corner. You count the boots. If the pass breaks the habit, you say it in the same breath. You do not come to the door. A second body on that gantry is a picture, and a picture paints this room."
+
+*Let me be close enough to pull you off if it screams early.* The want is so loud I am surprised the set does not pick it up. She has already heard it, from the shape of my mouth or from knowing me, and she has thrown it out.
 
 "Drew could..."
 
 "Drew stays at the bench," Drew says. "The tang is the job. The door is hers. The count is yours. T.J. doesn't get a vote about coming up, because he isn't coming up."
 
-"Correct," T.J. says.
+"Correct," T.J. says, cheerful about it, the little monster.
 
-I want the door anyway. I want to be the one close enough to pull her off a gantry if the keypad screams early. She has already done the wanting for me and thrown it out. I put the want on the floor with the silt I tracked in.
+I put the want on the floor with the silt I tracked in. "Seven point eight. If I lose the count, you pull."
 
-"Seven point eight," I say. "If I lose the count, you pull."
-
-"If you lose the count, I already pulled." She takes the tang from Drew and seats the blade back onto it with a twist I have watched a hundred times. The bodkin goes through the braid until the steel sits against her skull. "We go at the silt, while the gate is in love with its own truck. Ren, roof. You call the corner boot and then you call nothing else unless the number changes."
+"If you lose the count, I already pulled." She takes the tang from Drew, draws the short grip out of her braid, and seats the blade back on with a twist I have watched a hundred times. The bodkin goes through the hair again until the steel sits against her skull. "We go at the silt, while the gate is in love with its own truck. Ren, roof. You call the corner boot and then you call nothing else unless the number changes."
 
 "Copy."
 
-Mercer coughs in the front room, an old sound, not mine. Tsune kills the bench lamp. Drew wraps the dead keypad in a rag and puts it under the bench, where a man boiling water will not ask what it is. I pull the cloth back up. The lane is the same copper street I came in on. The wall has not moved. People are buying the last of the day before the night gets cold enough to push them indoors.
+Mercer coughs in the front room, an old sound, not mine. Tsune kills the bench lamp. Drew wraps the dead keypad in a rag and puts it under the bench, where a man boiling water will not ask what it is. I pull the cloth back up. The lane is the same street I came in on, people buying the last of the day before the freeze, the mash vendor still shouting a number he does not expect to get. The wall has not moved.
 
-I take the roofs instead of the stair. The prowler is still a rumor on the gate road, which is T.J.'s problem and not mine until he says the word. From the third roof I can see the corner and the long empty walk back to the red cluster. The service door is a plain slab in the dark between those lights, with a gantry under it and no guard standing on it.
+I take the roofs instead of the stair. The prowler is a truck on the gate road, T.J.'s problem until he says the word, and I can live with a problem that has a person on it. From the third roof I can see the corner and the long empty walk back to the red cluster. The service door is a plain slab in the dark between those lights, with a gantry under it and no guard standing on it.
 
 She comes along that gantry small, collar up, one hand on the hook. She does not look at my roof. She doesn't have to. I have the set against my mouth and the number in my teeth, and the boots have not hit the corner yet.
 
-When they do, I will tell her. Until then I keep still, and I count the habit we are about to spend.
+When they do, I tell her. Until then I keep still. *Count.*
 
 
 ---
@@ -125,9 +131,7 @@ When they do, I will tell her. Until then I keep still, and I count the habit we
 
 ***
 
-The door smells of hot copper and wet rust.
-
-It sits on the outer face, well off the south gate, a plain slab with a keypad at chest height and a gantry under my boots. The wall is cold where my shoulder touches it. The high collar of my tunic is stuck to my throat. Below, Sector 09 ticks. Silt on zinc. A cart. Somebody shouting a price and nobody paying it. The main gate is a red cluster to my left, lights and a truck and every gun they bothered to mount. This door is the dark between those lights.
+The door is a plain slab on the outer face, well off the south gate, a keypad at chest height and a gantry under my boots. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Below, the lane is still buying the last of the day. I can see the mash cart in the gutter, the vendor shouting a number he will not get, a bowl changing hands at the quieter price. The main gate is a red cluster to my left, lights and a truck and every gun they bothered to mount. This door is the dark between those lights.
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
@@ -151,7 +155,13 @@ I hold. My free hand stays on the hook at my hip. The slate warms, a small heat 
 
 "Lab list is in the pull," he says. "Culture lab 4. Active staff. There's a Thorne. Junior synthetics. S..."
 
-"Stop." The rest of the name finishes in my mouth and stays there. The rolls listed her incinerated. I have lived ten years on that line. A desk inside the wall. Junior. A lab that handles living work. The braid against my skull is the same braid she used to wire with stripped copper. "You don't put the rest on this set."
+"Stop."
+
+The rest of the name finishes in my head and stays there. *Sora.* The death rolls listed her as dead. Burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. How. It can't be.
+
+The workshop lamp is too close to her face. Her tongue sits between her teeth while she threads stripped copper through the end of my braid, because she wants it to look like a wire and not a ribbon. The copper takes the skin off her thumb. She holds the thumb up, proud of the bead of blood, and tells me it has to be tight or it will not hold. I can still feel the tug. The braid against my skull is that braid. I don't know the face that comes after twenty. I know the thumb.
+
+"You don't put the rest on this set."
 
 Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's holding it.
 
@@ -163,9 +173,9 @@ Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's
 
 "Read it."
 
-"Lazarus Key." He says it like a word he is spelling. "Lee over Sector 09 fails in fourteen months. Barrens-air pushed over the Ring. Evacuation allocation, zero. Dome sealed. There's a line under it with no edge. It won't open."
+"Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09. Lee fail. Fourteen months. Barrens-air push over Ring. Evacuation allocation zero. Dome sealed. The line under that is not words. Stamp says redacted. Clearance insufficient. No edge. It will not open."
 
-I have never heard the name. I know the shape of the rest without a briefing. The lee is why the Ring is a city. Barrens-air is the hard hours, the cloth, the nights you do not sleep on the ground floor. Push that over the wall and the stair I came up this morning stops being a place people live.
+I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. Push the barrens over the wall and the street under my boots stops being a place people live.
 
 "Say the first line again."
 
@@ -189,7 +199,7 @@ A klaxon, close enough to put a buzz in the fillings. The jack locks shut.
 
 I drop to the lower flange, hook the crook, and let the fall stop in the shoulder instead of the spine. Boots hit. The knees take it the way they have since I was seventeen, the landing eaten, the shock thrown back into the metal. I am already moving.
 
-Searchlights rake the main gate. White, then the red off the wall, then white again. The metal under my glove is cold enough to ache. No seam wide enough to hide a person. Below, shutters slam. A whistle cuts the alley. A woman pulls a child by the wrist and neither of them looks up, which is the correct use of a neck.
+Searchlights rake the main gate, white, then the red off the wall, then white again. The metal under my glove is cold enough to ache, seamless, nothing in it to hide a person. Below, shutters slam. A whistle cuts the alley. A woman pulls a child by the wrist, and neither of them looks up.
 
 The header sits in the ear beside the name I would not let him finish. The slate knocks my ribs with both of them, and I do not have a free hand for either.
 
@@ -203,11 +213,9 @@ The header sits in the ear beside the name I would not let him finish. The slate
 
 "Two roofs off the clinic stair. I can see the lights. Give me the time and I'm there."
 
-The shadow crosses the searchlights.
+A shadow crosses the searchlights, a wing tucked and falling out of the dark above the wall. Hawks I know by the narrow cut, a patrol that stays in its lane and goes home. A raven is the drop they order when they want someone opened, and the wing is too heavy for a lane. I try to put this shadow into one of those and it will not go. The feathers whistle, a sound with a body in it, and the heat of the dive reaches me before the shape clears the lamp, ozone and hot metal, the hair on my arm lifting as my hand finds the hook. *Fuck.*
 
-Fourteen feet of black wing, tucked, falling out of the copper dark above the wall. The sound is feathers cutting air, a whistle with a body in it. Heat comes off the dive before the shape clears the lamp, ozone and hot metal, and every hair on my arm answers it.
-
-"Ren." I have the hook in a reverse grip and the collar tight and the slate against my ribs. "Get to Drew. Kill the set."
+"Ren. Get to Drew. Kill the set."
 
 "Tsune, don't."
 
@@ -227,89 +235,91 @@ The channel dies in the ear. The wing keeps coming. I run the gantry south, low,
 
 The roost has no rail.
 
-I stand on the lip, boots on frost, three thousand feet of copper dark under the toes. The mast rises through the crown of the dome and stops here, a cap of stone no wider than a street. Wind comes off it hard enough to push a man who is only a man. I am six feet four in the boots, and the lip still feels narrow.
+I stand on the lip, boots on frost. The mast starts in the center, in Sector 1, and does not stop until it has come up through the glass and set this cap of stone on the outside of the crown. Three thousand feet of it under the toes. The shield is a shallow vault of hexagonal ribs, running out and down to the wall. Inside, the light is emerald, and the towers stand in it, small, a city keeping its own day. Outside, the air is copper and violet, and the frost is already on the stone. Wind comes off the glass hard enough to push a man who is only a man. I am six feet four in the boots. The cap is three hundred feet of stone and windbreak, open the whole way around, and the lip still feels narrow.
 
 The socket at the back of my neck flares.
 
-It is a round mouth of metal where the head meets the spine, and a short tab under it. The skin around it reddens. The metal stays metal. The signal in it is a thin drill, and tonight the drill is bored. I set my teeth and do not rub it. Rubbing does not make the Spire kinder.
+It is a round mouth of metal where the head meets the spine, and a short tab under it. The skin around it reddens. The metal stays metal. A thin drill turns in the bone, bored, working a nerve it has owned for years. I set my teeth and keep my hands off it. Rubbing has never made the Spire kinder.
 
-A harvester hangs in the high air, black, silent, no exhaust. We are the things that move. There is no fuel left for a machine that has to come home, so they grew the wing. Flesh knits. Flesh eats paste. A wrecked turbine does not.
+Above the mast a harvester hangs on nothing. A black hull the size of a block, no exhaust, silent inside a wind that is busy everywhere else. The rigging on the cap whistles, and the hull adds nothing to it. I give it one glance and take the glance back. The Resource Wars ate the fuel, the refineries, and every board a plane needed if it was going to fly. What they grew instead knits, eats the paste they issue on this cap, and can still leave the lip.
 
-The ring under the mast is a bowl of lamps and zinc. Sector 09 burns small. The south gate is a red cluster where a crawler has been sitting too long. I have been watching that cluster since the socket started its hour. The drill and the truck feel like the same impatience.
+Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate is a red cluster, and a prowler has been sitting in it since the drill started. The truck has not moved. The drill has not stopped. I watch both.
 
 "Hold still, Commander," Rook says. "You're toasting my flatbread."
 
-Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to the stone, a cold round of bread on his glove and a grin he has not earned. He leans the bread toward my shoulder like the heat there is a stove he is allowed to use.
+Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to the stone, gray with dark bars across the vanes. The scar at the left of his mouth pulls when he grins. A cold round of flatbread sits on his glove. He leans it toward my shoulder as if the heat there is a stove he was issued and means to use before somebody writes the use down.
 
 "Put that on my skin and you can retrieve it from the street," I say.
 
-"Promises." He takes a bite of the ration strip instead. "South stacks were filthy yesterday. I stalled. You can write me up, or you can admit the air over Sector 09 is garbage."
+"It's pressed algae." He eats the ration strip in his other hand instead, and makes a face he wants me to see. "Cold, it still tastes like the tank. On you it almost passes for food. South stacks were filthy yesterday, so I stalled the patrol. Write me up, or admit the air over Sector 09 is garbage and I did the wing a favor."
 
-"Check your pins before you blame the air."
+"Check your pins before you blame the air." The prowler's lamps have not changed since I took the lip. "The hour started when that truck stopped. We hold until it leaves, or until the leash spends us. I am not throwing a wing at a parked truck."
 
-Cassian does not laugh. He has his arms folded and his own wings tight, a Hawk's, built to stay in a patrol and not to own a drop. Twenty-eight, and the ledge has already made a veteran of his mouth. "North wind is iron. It'll strip a vane if we launch into it for nothing."
+Cassian does not laugh. His arms stay folded, his wings tight, a Hawk's wing, made to keep a lane and come home in it. "Then say the hold out loud before the north side strips a vane to decorate the point. The rigging over there is screaming. Launch into that for nothing and we own the repair, and the empty sky, and your mood."
 
-"Then we preen after."
+"We preen after."
 
-"Easy for you." Rook flicks a primary. "A Raven grows the feather back before the cursing is done. Mine whistle for weeks."
+"Speak for the Raven." Rook flicks a primary and the grin widens on the scar. "You grow the feather back before the cursing is finished. Mine whistle for weeks. Toby has to listen to it, which is a cruelty even for you."
 
-Footsteps, softer. Eucalyptus and the sting of salve.
+"I can hear the feather speech from the rack."
 
-Toby Vance stops a pace off my wing with a foil patch in both hands. Cream vanes, rust along the edge, still twitchy when the mast hums. Cassian's brother. The youngest body on a roost that eats youngest bodies.
+Toby Vance comes off the colonnade with a foil patch in both hands and a quartz bird the size of a thumb pinched against one palm. He sees that he is still holding the bird, and he puts it into the pouch the way a man puts away a thing he does not want stepped on. Cream vanes, rust at the tips. He twitches when the mast hums in the stone. Cassian's brother. The youngest body on a roost that spends the young ones first.
 
-"You're squinting," he says. "Left jaw. That's the fourth flare. I traded two tubes for the ice. It helps."
+"You're squinting," he says. "Left side of the jaw. The hour is sitting in it. I kept the ice."
 
-"You need the tubes."
+"You need the ice."
 
-"I ate." He holds the patch out and does not quite meet my eye. "Please, sir."
+"I ate." He holds the patch out. His eyes get as far as my chin. "Please, sir."
 
-I take it. The gel is cold against the red skin around the socket, and the drill drops from a scream to a wire. Toby's shoulders drop with it.
+I take it. The gel is cold on the red skin around the socket, and the drill drops from a scream to a wire. The gate sharpens: prowler, red lamps, the long dark of the south road beyond the wall. Toby's shoulders drop with the wire.
+
+The cold stays on the skin. The wire is still in the bone, only smaller, and I know which of the two will be here when the gel gives up. I leave the patch where he set it, and I leave the thanks unsaid. He would spend his own ice on the strength of a kind word, and the next hour is coming whether the truck moves or not.
 
 "Better," I say.
 
-"Good." He almost smiles, and hates that I saw it.
+"Good." A smile starts. He puts it away when he sees that I caught it. "It will climb again."
 
-Amari is on the south corner of the cap, blonde hair cut for the hood, wheat vanes darker on the leading edge. She has been facing the gate, not the joke.
+"I know."
 
-"South face is dirty," she says. "Wind off the crawler well. It will dump you over the road if you take it lazy." She does not soften the next part. "If you wait for a clean lane, whatever they're ringing the siren for will be in the mirrors."
+Amari has the south corner and has not looked at the bread once. Blonde hair cut for the hood, a few strands at the jaw, wheat wings darker along the leading edge. The wind moves her vanes and does not move the rest of her.
 
-The siren arrives as if she ordered it.
+"South face is dirty," she says. "It comes off the gate, off that prowler, and a lazy beat dumps you on the road." She looks at me. "Wait for a clean lane and whatever they are about to ring for will already be in the mirrors."
 
-Three wails. The floodlights on the crown snap red. The socket discharges, a snap into the bone, and I go to a knee because the signal does not ask. White for a second. Then the order, plain, in the same place the pain lives.
+The siren hits before anyone answers her.
 
-Breach. South wall. A jack in a service door. Intercept. Retrieve. Open the intruder.
+Three wails take the cap, close enough that the buzz sits in the teeth. The crown lights snap red. The socket answers with a snap into the bone, and I go to a knee because the leash does not ask. White, for a second. The order is in the white. *breach, south wall, a jack in a service door. intercept. retrieve. open the intruder.*
 
-Rook's bread hits the stone. His hand finds the sidearm. Cassian's wings crack once for balance and fold again. Toby's hand is still out, empty.
+Rook's bread hits the stone. His hand drops to the dagger on his thigh. Cassian's wings crack once for balance and fold tight. Toby's empty hand stays out, the patch already cold on my neck.
 
-I stand. The leash wants the next move before I choose it, a hot stitch that means obey. I have killed for less than a stolen file. The stitch does not care whether the body on the gantry is a soldier or a person who found a port.
+I am on my feet before the white clears. Staying on the knee costs more than the drop will. The playback comes up with the stitch: a heat smear on the gantry, low and already running south, a light frame with a long stride for the height, and nothing on the leash from the wall.
 
-"South wall," I say. "Cassian, hold the roost until I call the lane. Rook, Toby, lights on the gantry. If she doubles back into the containers, you pin the roofs. You do not drop into the street for a ghost."
+"South wall," I say. "They want the body opened. Cassian, hold the roost until I call the lane. Rook, Toby, lights on the gantry. If the runner breaks for the roofs, pin the roofs. You do not drop into the street for a ghost."
 
-"She," Cassian says.
+"She," Cassian says. "You took that off a smear."
 
-"Light frame. Long stride for the height. Fast, and the tap was clean. The port was seated." The playback is a heat smear on the gantry, already moving south along the wall. "She's making for the mirrors."
+"Off the stride, and off a jack seated clean. She is not looking back. She's making for the mirrors."
 
-"Unregistered?" Rook's grin is gone. "No socket, and still breathing out there?"
+The scar sits in a straight mouth. Rook's voice has no joke left in it. "Nothing on the leash, and they still want her opened."
 
-"That's why they want her opened." The stitch flares when I linger on it. I roll my neck and the pain sits down, unhappy. "Amari."
+"That's the order." The stitch flares for the time I spent on the sentence. I roll my neck and the pain sits down, still there, finished with the argument. "Amari."
 
-"South face," she says. "Dirty all the way to the gate. Don't glide it. Beat, or the wind will put you on the crawler."
+"South face," she says. "Dirty to the gate. Don't glide it. Beat, or the wind puts you on the prowler."
 
 "Clear the lip."
 
-Toby steps into the windbreak. Rook lifts two fingers, not quite a salute. Cassian only watches the drop, which is what a second is for. Amari stays on the corner and gives me the angle with her chin.
+Toby steps back under the windbreak. His eyes stay on the socket, as if the patch might peel in the wind and he means to see it happen. Rook lifts two fingers, short of a salute. Cassian watches the air under the lip, wings still tight, already inside the launch he hopes I will not call. Amari stays on the corner and gives me the angle with her chin.
 
-I open the wings. Black vanes. The beat puts a blue-violet sheen on the shafts, there and gone. Cold hits the live skin where the feathers leave the back, a slap, then nothing, because the heat eats it. I lean.
+I open the wings. Fourteen feet of black vane. The beat puts a blue-violet sheen on the shafts, there and gone. Cold slaps the live skin where the feathers leave the back, and then the heat eats the slap. I lean.
 
-The first second is the stomach. The second is the boots with nothing under them. The third belongs to the wings. I have done this since they threw me off a lower ledge as a boy and told a number to fly. The sergeant had no name I was allowed to keep. The air kept me. It is the same air.
+I have done this since they threw me off a lower ledge as a boy and told a number to fly. The stomach goes, the boots find nothing, and the wings take the third second. The sergeant had no name I was allowed to keep. The air kept me then, and it is the same air.
 
-The mast falls away. For three breaths there is only the drop, the wall a gray streak, the red lights racing upward past my boots. Then the wings catch and the air hits like a door. They bite. I level over the ring and go down the south face the way Amari named it.
+The mast falls away. The wing tucks. For three breaths there is only the drop, the wall a gray streak, the red lights racing up past my boots, and the whistle starting in the feathers. Then the wings bite, the air hits like a door, and I level over the ring and beat down the south face the way Amari named it.
 
-The gate swells. The crawler is a pale block in its own lamps. A heat smear runs the gantry south of it, low, fast, not wasting a stride on a look back. Smart. The mirrors will break a straight dive if I give her the time.
+The gate swells. The prowler is a pale block in its own lamps. A heat smear runs the gantry south of it, low, fast, spending nothing on a look back. The mirrors past the road will ruin a straight dive if I give her the time to reach them.
 
 I do not give her the time.
 
-South face. Dirty wind. I beat, the way Amari said, and the road comes up.
+The wind is dirty. I beat, the way she said to beat, and the road comes up.
 
 
 ---
@@ -317,69 +327,95 @@ South face. Dirty wind. I beat, the way Amari said, and the road comes up.
 
 # Chapter 4 // The Offer
 
+Forty years before the present.
+
 > *Item one: air that stays air. Item two: a roof. Item three: the shooting stops. The price is not on the copy they were given.*
 
 ***
 
-They breathe the room. I do not.
+The table is wood, scarred by other meetings, and the windows behind the ministers still show a street. Carts. A tree that has kept its shape and lost the color in the leaves. The sky over the tree is the wrong brass for their season. They have been calling it weather for a month.
 
-The table is wood, scarred by other meetings, and the windows behind the ministers still show a street. Carts. A tree that has not yet decided to die. The sky over the tree is the wrong color for their season, a sour brass at the edges, and they have been calling it weather for a month.
-
-I sit inside the sleeve. Glass, a handspan thick, fogged when I speak and clear when I wait. My air stays on my side of it. Theirs stays on theirs. The difference is the whole afternoon, and none of them have asked about my side.
+I sit inside the sleeve. The glass is a handspan thick. It fogs when I speak and clears when I wait, and my air stays on my side of it. Theirs stays on theirs. A second note rides under my words and sits in the wood. The coast minister feels it in his teeth and pretends he felt the draft.
 
 "Item one," I say. The fog blooms and fades. "Air that remains air. Breathable by your children. Stable inside a roof we will raise over the cities you choose."
 
-The minister from the coast leans in. Tired, proud, a stain of lunch on the cuff he thinks we cannot see through glass. "Our surveyors say the brass is a high haze. It breaks on its own."
+He leans in. Tired, proud, a stain of lunch on the cuff he thinks the glass hides. "Our surveyors say the brass is a high haze. It breaks on its own."
 
-"It will not." I let that sit. A lie comforts them. A correction makes them feel included. "Item two. The roof. You have been shooting at each other over water and wire. A roof ends the argument about whose street floods. Item three. The shooting stops. We will stand between the armies until they are embarrassed to keep the guns out."
+"It will not." I let that sit. A lie would comfort him. The correction makes him feel included. "Item two. The roof. You have been shooting each other over water and wire. A roof ends the argument about whose street floods. Item three. The shooting stops. We stand between the armies until they are embarrassed to keep the guns out."
 
-The general, who has not taken his coat off, taps the blank line at the bottom of the page they were given. "And the cost."
+The general has not taken his coat off. He taps the blank line at the bottom of the page they were given. "And the cost."
 
-"You are already paying the other cost," I say. "Funerals. Failed crops. The brass. We are offering a pause."
+"You are already paying a cost," I say. "Funerals. Failed crops. The brass. We are offering a pause, and a longer life for every name that signs. The years are a treatment. They belong to the signer. They do not pass to the child."
 
 "A pause has a price." He is not stupid. I like him more for it, which is not the same as mercy. "Fuel. Land. A base. Say it, so the minutes can record it."
 
-The woman who keeps the minutes looks at me and not at the page. She has the look of a person who survives rooms by writing down what was said and never what was skipped. I smile at her through the glass. The fog hides the teeth and gives them back.
+The woman who keeps the minutes looks at me and not at the page. She survives rooms by writing what was said and never what was skipped. I smile at her through the glass. The fog hides the teeth and gives them back.
 
-"Write that the first glass goes to the city that signs before the others lose their nerve," I say. "They are about to argue over which of them that is. You will not need me for that part."
+"The price is a permission," I say. "A mutation program. We change a number of your people into soldiers who can hold a street after your fuel is gone. They heal. They eat what you can still grow. They do the work a gun is about to fail at. You keep the cities. We keep the work."
 
-They argue. The coast wants the port under glass. The interior wants the grain. The general wants the capital, because a capital that can breathe can keep giving orders. I fold my hands on my side of the table and I let them feel clever. Every city they name is a city that will invite the roof. An invitation is cleaner than a landing.
+The coast minister sits back as if the chair might be safer than the sentence. "Change them how."
 
-What I do not say sits in the pause after each of their sentences, and I enjoy the shape of it.
+"In the blood, and in the bone, and in whatever the work needs. You will see the result before you see the method. A soldier who does not have to be fueled is the method you can understand tonight."
 
-The open country is the thing being spent. The brass at the edge of their sky is not a guest. It is the start of a pressure my own machines will thicken, year by year, while the roofs stay kind. The kindness is real. A child under the glass will breathe. A child outside it will learn a harder hour, and then a harder one, and the boards will call that the weather they failed to fund.
+The general's hand stays on the blank line. "Make them stronger than the men who sign this, and the first order they refuse is the one that keeps them in the yard. Mutants do not go back in a box. They take the table. Then they take the port, and the grain, and the capital, and they do it with the bodies you just praised."
 
-The signature they want me to give them is permission. Not for the air. The air is the sentence they came to hear. Under it, in the authority they will hand over to keep the roofs standing, is the right to raise soldiers out of their orphans and their poor, winged and collared, because a gun that must be fueled is about to become a story. I do not put that sentence on their copy. A spoken price can be refused. A missing sentence gets signed as relief.
+"The fear is a soldier who can choose," I say. "So we fit the leash before the first one stands up."
 
-"We would need guarantees," the coast minister says. "That your people do not govern the street. That the glass is a shelter, not a flag."
+"Say the leash," the general says. "Not the kindness around it."
 
-"You will govern the street," I say, and this part is true. "We do not want your courts. We want the work finished."
+The second note sits harder in the table. I put two fingers to the glass, low, where a neck would be if one of them were standing on my side.
 
-"What work?"
+"A socket, set where the head meets the spine. Small. One. A signal through it, from us. If he hesitates, the signal hurts. If he refuses, it hurts until refusal is no longer a thing he can finish. He can still move his own hands. He cannot keep a rebellion and a clear head in the same hour. You will call it a leash because that is what it is. Your mutant does not take this table. The table answers to you. The wire answers to us."
 
-"The air." I touch the glass from inside. The fog flowers over the fingerprint and dies. "You keep asking for the work as if it were a favor you might decline. Look at the tree."
+The coast minister looks at the general, then at the tree, then at me. "A pain switch in a neck, and you call it a term of peace."
 
-They look. The leaves are the right shape and the wrong dullness. One of the younger aides has been coughing into a sleeve since I sat down, politely, as if courtesy could bargain with a lung.
+"I call it the reason you can sleep next to the thing you are afraid of," I say. "The leash is for the ones we change. It is not for the ministers, and it is not for the clerk, and it is not for the child under the roof. You govern the street. We do not want your courts. We want the changed ones on a wire, and the work finished."
+
+"If he runs," the general says, "the pain follows him. I heard that much. Does the pain know where he went."
+
+"The signal does. He can hide in a crowd and still be the body we are looking at. The wire does not need his cooperation to find the neck it already sits in."
+
+"And if we want the wire in our hand," the general says.
+
+"Then you want a different treaty, and I did not bring it." I take the fingers off the glass. The print fogs and dies. "You are buying the roof. You are not buying the signal. If the wire fails, you have tonight's problem with worse lungs. Sign, and the failure is mine to prevent. Refuse, and the tree finishes the argument without me."
+
+They are quiet long enough for the aide at the wall to cough into his sleeve. He has been coughing since I sat down, politely, as if courtesy could bargain with a lung.
+
+"Write the leash," I tell the woman. "Socket. Signal. Pain on a hesitation. Pain until the order is done. Limited to the mutated. The cities remain theirs."
+
+Her pen moves. She does not adorn it.
+
+"The first glass goes to the city that signs before the others lose their nerve," I say. "They are about to argue over which of them that is. You will not need me for that part."
+
+They argue. The coast wants the port under the roof. The interior wants the grain. The general wants the capital, because a capital that can breathe can keep giving orders, and a capital with a leash in the treaty can tell itself the orders will be obeyed. I fold my hands on my side of the table and let them feel clever. Every city they name is a city that will invite the roof. An invitation is cleaner than a landing.
+
+What I leave out of her book is smaller than it was an hour ago, and I like it better for having a shape.
+
+The brass at the edge of their sky is the start of my own machines, and they will thicken it, year by year, while the roofs stay kind. The kindness is real. A child under the roof will breathe. A child outside it will learn a harder hour, and then a harder one. The years I offered the signers last while the payments last, and her page has no word for payment. They have the leash they demanded, pain on a hesitation. The same socket, worn for decades, cooks the man, and that fact stays behind my teeth. A spoken price can be refused. A missing sentence gets signed as relief.
+
+"We would need guarantees," the coast minister says, coming back to the only fear he can still stand to say. "That your people do not govern the street. That the roof is a shelter, not a flag."
+
+"You will govern the street," I say, and this part is true inside the sentence they can hear. "Look at the tree."
+
+They look. The leaves are the right shape and the wrong dullness.
 
 "Sign," I say. "Or spend the next year proving the brass is weather. I can wait. Your tree cannot."
 
-The general reads the page again. Three items. A blank where a price would be, which they have filled, in their own mouths, with the honor of being first. He sets his pen down.
+The general reads the page again. Three items, and under them the leash, written small, the way a clerk writes a thing she hopes will stay small. The blank where a conquest would be has been filled, in their own mouths, with the honor of being first and the comfort of a wire around someone else's neck. He sets his pen down.
 
 "The capital," he says.
 
 "The port," says the coast.
 
-I turn my head inside the sleeve, a small motion, and let them see that I am not impatient. "Put both on the list. The first glass is a race you can win twice if you are willing to share the credit. The minutes can say you were statesmen."
+I turn my head inside the sleeve, a small motion, and let them see that I am not impatient. "Put both on the list. The first glass is a race you can win twice if you share the credit. The minutes can say you were statesmen."
 
-The woman writes. She hesitates over the blank line. Her pen hovers. For a moment I think she will ask what was left out, and the afternoon will become honest, and I will have to give them a smaller gift or none.
+The woman writes. She hesitates over the line she has already copied, the socket and the signal and the pain. Her pen hovers. For a moment I think she will ask what the socket does after the pain, after years, and the afternoon will become honest.
 
 She writes *agreed in principle* and does not ask.
 
 "Good," I say.
 
-Outside, a cart rattles. Someone laughs, human and brief. I do not hate them. Hatred is a waste of a long life. They are tired, and they are proud, and they are already dividing a sky they still think is theirs.
-
-I leave the missing sentence where it is. In the fog. In the pause. In the copy they will sign and file and sleep beside.
+Outside, a cart rattles. Someone laughs, human and brief. Hatred would waste a long life. They are tired, and they are proud, and they are already dividing a sky they still think is theirs.
 
 When the aide coughs again, I do not look at him. The cough is the future, and the future is not an item on their page.
 
@@ -393,45 +429,65 @@ When the aide coughs again, I do not look at him. The cough is the future, and t
 
 ***
 
-The mirrors start where the road gives up.
+The road ends and the mirrors begin.
 
-Black glass, cracked, stood up in rows when somebody still thought the sun could be kept. The wind drives grit through the breaks. It stings the bare skin of my shoulders and packs the corner of my mouth. I pull the goggles down. Under them the membranes wipe once, a clear film, and the grit is gone. I do not blink. I do not slow down.
+They stand in broken rows past the south pavement, black, cracked, taller than the gantry I left. Somebody built a field to catch a sun and save the weather. The weather came anyway. The wall is a dark line behind the grit, and the bowls out here are older than the wall.
 
-The earpiece is dead in my ear. I killed it. Ren will be on a roof by now, and Drew will be awake because Ren cannot keep his hands off a door. If I answer, the clinic lights up on somebody's board. T.J.'s hole lights up with it. I leave the set dead and I run.
+Hollow towers line the south road. They were humming when I left the pavement. After that hum comes the glass wind: acid dust howling through the cracks, hard enough to sting the bare skin of my shoulders and pack the corner of my mouth. I came into the rows anyway, because the road was a clean line and the thing above me wanted one. I heard it leave the wall, a whistle with heat in it, and the grit took the long sight before the pavement could finish the introduction. I will take the grit over a clean shot.
 
-A shadow crosses the glass ahead of me and is gone. Big. Low. I do not look up long enough to give it a size. The mirrors will break a dive if I stay under them. That is the whole plan.
+I pull the goggles down. Amber, scavenged, enough tint to make the pupils look like a welder's if anyone gets a calm look. Under them the membranes wipe once, a clear film under the lids, and the grit leaves the eye. I keep the pace.
 
-"Contact," a speaker barks, flattened by the wind. "Runner in the mirror grid. Nets."
+The earpiece is dead in my ear. I killed it on the gantry, after I told Ren to get to Drew and cut the set. If he obeyed, he is off the roof. If he did not, he is still counting a corner that no longer matters. Drew will be at the bench until somebody makes her leave it. T.J. will stay in the hole, because that is the only sensible habit any of us kept. An answer from me turns all three of them into a mark: the clinic, the bench, and the bunker under the street. I leave the set dead and I run.
 
-Two of them. Ground suits, heavy, the joints hissing as they bound the dunes. Iron Division, or close enough that the difference will not save me. Capture nets. They want the slate and they want the body that carried it still shutting.
+A shadow crosses the row ahead and is gone. Low. The pressure of it hits the ear and drops away, and I do not give it a size. It comes back on a long oval, once over the outer row and once nearer, the way a man checks a field before he spends the dive. I count the space between the passes while I run, because a count is still mine. The second pass is shorter. He is tightening. If I am still in an open lane when the next one decides to be a dive, the bowls will not save me. The mirrors wreck a straight line only if I am under them when he spends it.
 
-I drop into the trench under a tilted bowl. The glass throws their lights into a mess of white. Heat sits in the metal from the day, and their thermals will hate it. I jam a thumb capacitor into a split servo wire and run a filament across the gap at shin height. One trap. The click of it is a small mechanical thing. The storm stays wind and grit.
+"Contact," a speaker barks, flattened by the wind. "Runner in the mirror grid. Nets. She is south of the road."
 
-The first suit comes around the bowl. Light on his shoulder. A net gun where his hand should be a hand. His shin takes the filament.
+Two of them. Ground suits, heavy, the joints hissing as they bound the dunes between the rows. Iron Division, or close enough that the difference will not save me. No wings on either of them. Capture nets. They want the slate, and they want the body that carried it still able to be opened.
 
-The pop is bright and local. His light dies. The suit's knees lock with a hydraulic slam and he goes into the sand on the locked joints, swearing into a speaker that has started to feed back.
+I drop into the trench under a tilted bowl. These rows were built to drink the sun and feed a city. The sky they wanted is gone. A broken bowl makes a better wall than it ever made a promise. The day's heat is still in the face of it. A scope that hunts a hot body has to choose between the bowl and me, and the bowl kept the afternoon. I stay against it. My thumb finds the split in a servo line at the bowl's foot and seats a charge the size of a coin. Filament across the gap at shin height. A second filament goes on the next bowl, lower, where a careful man might step once he has seen the first. The click of each is a small mechanical thing. The wind stays wind.
+
+The first suit comes around the bowl. Light on his shoulder. A net gun where a hand should be thinking. His shin takes the filament.
+
+The pop is bright and local. His light dies. The suit's knees lock, one pneumatic slam, and he goes into the sand on the locked joints, swearing into a speaker that has started to feed back.
 
 "Two, I'm blind. Suit's dead. Two, report."
 
-I am already on the face of the glass. Boot, push, the leg takes the rebound and throws me onto the housing at his shoulder. The pommel of the bodkin finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet. He claws at the seal. I am off him before he finishes the motion. He will live. He will not chase.
+I am already on the face of the bowl. Boot, push. The leg takes the glass and throws me onto the housing at his shoulder. The pommel of the bodkin, still seated in the braid, finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet that the dust turns to a pale rope. He claws at the seal.
 
-"Two, report," the other one calls. Closer. On the berm, not in the trench. Smarter. "Did you engage?"
+"Stay down," I say.
 
-His rifle whines up. If he dumps that into the bowls, the glass becomes a cage of bounce. I have the hooks in a reverse grip and four strides of sand.
+He will live. He will not chase. I am off him before he finishes swearing my name into a word he does not have.
 
-He crests. "Drop it."
+"Two, report," the other one calls. Closer, and not in the trench. "Did you engage? The low path is a wire. I am not walking your mistake."
 
-I slide under the line of fire. The shot takes the bowl behind me and the bowl comes apart, a boom, a curtain of black splinters. He covers the visor. I plant, leap, and the second bound puts me at his collar ring. The hook's beak finds the seam under the net gun and tears the feed. The whine dies. I drive a knee into the joint that was hissing and the leg folds. He hits the berm. The net spills, useless, a metal spider with no throw.
+Smarter. He has taken the berm, where the second filament cannot reach him, and his rifle is already whining up. If he dumps that into the bowls, the broken faces become a cage of bounce and I am a target between them.
 
-I do not stay to tie him. The shadow passes again, lower, a pressure change in the ear, feathers somewhere in the grit. Still no number on it. I put the hooks home and I go deeper into the rows, where the glass is thickest and a straight dive becomes a mistake.
+I go along the dark side of the row, under the lip, where the grit hides a body that stays low. I do not crest. At the edge of the bowl I can see him without turning my head all the way around: a shoulder light, a net gun, the visor pointed at the trench he is too proud to enter. He is listening for boots. I give him the wind, and nothing else. The hook stays quiet against my thigh. A word would tell him which bowl I am under, and the wind is already lying to him for free.
 
-The earpiece knocks my jaw when I land. I do not turn it on.
+"Drop it," he says, when he finally sees a shape that is not his partner. He crests to make the shot clean.
 
-Drew would already be packing a kit. Ren would already be lying about how close he is. T.J. would give them a bearing and stay in the hole, which is the only sensible thing any of us does. An answer from me makes all three of those facts into a target.
+I slide under the line. The shot takes the bowl behind me. The bowl comes apart, a deep crack and then a curtain of black splinters. He covers the visor. That is the whole gift. I plant, the sand goes, and the bound puts me at his collar ring before the visor clears. The hook is in a reverse grip. The beak finds the seam under the net gun and tears the feed. The whine dies in the weapon. I drive a knee into the joint that was hissing, and the leg folds the way a locked hinge folds. He hits the berm. The net spills, useless, a metal spider with no throw left in it.
 
-I wipe the membrane again. The next row of mirrors is a black lane. I take it at a run, on the toes, the way the legs want, and I count the gaps where a wing would have to commit.
+"One is down," he says, thick, into a speaker I did not bother to kill. "Berm. She is armed. She is small and she hits like the ground moved."
 
-Let him commit. I will not be in the gap.
+"Asshole," I tell the grit. His speaker can keep the rest.
+
+I do not stay to tie him. A tied man is a minute, and the shadow is the minute I do not have. I check the slate with the heel of my glove. The tell stays dark. The collar stays up over the nape. A light, or a bare neck, would do the wing's work for it.
+
+It passes again, lower. The pressure changes in the ear. Feathers somewhere in the grit, a whistle with a body in it, and then only the howl. Still no number I am willing to put on the shape. I seat the hooks at my hips and I go deeper on the next pass. I wait until the pressure hits, then I move while he is committed to the line he already chose. The howl covers the boots. When the pressure drops I am two rows in, and the lane I left is empty. He will not mistake that for a win. The bowls stand thicker here. A dive has to choose a gap or eat the glass.
+
+The lane bends. A tilted bowl sits where a straight line would want to be. I put myself on the far side of it and kick a sheet of fallen mirror into the near gap, not enough to close the lane, enough to make the lane look stupider than it is. One gap stays open at the bend. I do not have a third charge, and I do not have the minute. He can have that gap if he is vain. I will not be standing in it.
+
+The earpiece knocks my jaw when I land. My hand goes to it and stops.
+
+*Not the set.*
+
+Drew will already be angry, which is how she packs a kit. Ren will already be lying about how close he is to her door. T.J. will have the bearing and will not leave the hole to use it. A word from me makes the clinic a light on a board, and the bunker a second light, and the header in the slate a reason to burn both. The header can wait. The cough in Ren's chest can wait. I am not painting the house to tell them I am still breathing.
+
+I wipe the membrane again. The goggles are a crust of grit. The eye under them is clear. The next row is a black lane between bowls that still hold the day, and I take it at a run, close to the warm faces, on the toes.
+
+Let him commit. The gap is behind me, and I am already out of it.
 
 
 ---
@@ -443,49 +499,61 @@ Let him commit. I will not be in the gap.
 
 ***
 
-She does not run like prey.
+The glass wind shoves grit through the rows, and I bank above it instead of going down.
 
-From the dirt lane between the mirrors her heat is wrong. A body in a sprint should burn. Hers stays close to the glass, a cool smear against bowls that are still holding the day. No collar ping. No beacon. The socket in my neck keeps offering me a tag for her and then eating the tag, because there is nothing in her nape for it to bite.
+The order is already in the socket. Recover the runner. The file is worth more than the body. Under that, hotter, the other word from the wall: open her. I can do the second thing in one stoop. A straight line, a break, the slate in my hand before the suits finish shouting. I do not take it. The suits can have the first minute. I want to see what she does with the minute.
 
-The order sits under that emptiness. Retrieve the packet. Open the intruder. The file is the prize. The body is how the file walks.
+From up here a runner is usually a bright streak against sand that has already given up its heat. This one stays cool. She keeps to the bowls that held the afternoon, a smear the same temperature as the glass, and the socket offers me a tag and then eats it. Nothing in the nape for the leash to bite. I file that and I keep the oval.
 
-I bank once over the rows. The two suits are already down, one venting, one on a berm with a dead net. Clean work. She did not stay to finish them. She went deeper, where a dive has to choose a gap or eat glass.
+The first suit takes the trench the way a man takes a door he has already decided is empty. Shin on a filament. A small pop. His light dies, the knees lock, and he goes into the sand swearing at a partner who is smarter than he is. She is on the face of the bowl before the swear finishes. Boot, push, and the rebound puts her on his shoulder. The valve behind the helmet vents a white rope into the dust. She tells him to stay down. She is off him before he can make a name out of her.
 
-I choose the gap she left on purpose.
+Clean. I hate how well the word fits. She did not panic, and she did not spend a shot that would have told the berm where to look. The charge on the wire was the size of a coin and it did the whole job. I have had corporals with years in the legion do worse with better tools. The stitch behind the eye agrees with the hate and not with the pleasure. I stay in the oval anyway. A commander who drops on the first pretty piece of work is a commander who stops learning, and I want the rest of her.
 
-The lane bends. She is already out of it, on the far side of a tilted bowl, and the bowl is where my line wanted to be. She watched the wing. She put the glass in the wing's mouth.
+The second suit stays on the berm and says so. He will not walk the wire. His rifle comes up. She does not shoot back and give him a muzzle flash to love. She goes along the dark side of the row, low, and lets the wind argue with his ears. I lose her for three breaths against the warm glass. Then his shot takes a bowl apart, black splinters, and he covers the visor like a recruit. She comes out of the curtain. The hook is reversed. The feed on the net gun dies. A knee folds the hissing joint, and he hits the berm with the net spilled useless under him.
+
+She does not stay to tie him. A tied man is a minute, and she spends the minute on me.
+
+"One is down," the berm says, thick, into a speaker she did not bother to kill. "She is armed. She is small and she hits like the ground moved."
+
+Small is the wrong word for what I just watched. The center of her sits low. The leap off the bowl did not die in the knees. Cool skin, a hook used like a tool and not like a boast, and no socket in the neck she keeps covered. Raptor. I have not had to say that word at a living body in a long time. The leash does not offer me a file on her. It only wants the next obedient thing.
+
+On the next pass I drop lower than I need to, to see what she gives the shape. She does not give it a size. She gives it the joints. One look at the wing where it leaves the back, one at the hip, one at the distance a dive would need if she stayed in that lane. She is not admiring the bird. She is building the box she means to put me in. I have had enemies shoot at the chest because the chest is obvious. She is pricing the reach. That is the kind of attention I was trained to kill, and I am up here letting it finish its count.
+
+I make the next pass shorter. If she is counting, and she is counting, the shorter oval tells her I am tightening. I want to know whether she believes the tell. She waits under a bowl until the pressure of me hits, then she moves while I am committed to a line I already chose. When I come around, the lane I marked is empty. Two rows deeper. She used my own pass as cover.
+
+*Good.*
+
+The stitch flares at the thought. Admiration is not an order. I roll the neck and the pain sits down, unfinished, and I am still pleased. The anger I owe a wasted stoop does not come. What comes is the surprise, and the stitch for being surprised.
+
+The lane bends. A tilted bowl sits where my line wants to be. She is already on the far side of it. A sheet of fallen mirror chokes the near gap, not enough to close the lane, enough to make the lane look stupid. One gap stays open at the bend, the vain one, the one a wing takes if the wing believes she is still standing in it.
+
+She watched the passes. She put the glass in my mouth and left me a gift I am meant to be vain enough to take.
+
+I see the rest of it in a shard by her boot, the angle of the wing caught in the black scrap, and her eyes on the scrap instead of on the sky. She is not hoping. She has the line. If I commit to the bowl, the curve takes the wing and she is gone down the far side. If I take the vain gap, I am through and she is already off the spot I aimed at. She mapped the stoop before I spent it. The scouts were the exercise. I am the problem she saved the minute for.
+
+The mouth wants to move. A sound starts in the chest, too close to a laugh for the socket to tolerate, and the stitch tries to keep both of them still. I say it anyway.
 
 "Clever girl."
 
-It comes out quiet, for me, and the leash does not like the tone. A small stitch, a reminder that admiration is not an order. I tuck. The wings fold. The gap rushes up, grit and black splinters, and I go through it on the angle she did not quite close.
+It comes out quiet, for me, and the wind takes it before it can become a speech. The leash hates the tone. A hot stitch, small, a reminder that respect is not retrieve. *Fuck.* I take the gap anyway, because the gap is real and because I want the angle she thought she had finished. The wings tuck. Grit and black splinters. The whistle starts in the feathers. I go through on the side she did not quite close.
 
-She hears the feathers and she turns with a hook already in her hand. Fast. Low. The center of her is under the strike, not above it. I hit her anyway, because mass and a dive still count, and we go through the rotted door of a mirror shack in a smash of wood and dust.
+She hears it. A runner with any sense would spend the open lane and pray the dust does the rest. She turns into the dive with the hook already up, fast and low, the strike aimed at the place a neck would be if I were fool enough to lead with it. They run from the wing. She comes at the beak, and I am glad, which the stitch treats as a crime. I have time to feel both. A killing stoop would have put her through the bowl and saved me the argument. I want the hands, and the slate in them, and the woman who counted my passes still alive enough to know the gap failed her.
 
-The floor takes us. Glass. Wire. Her breath leaves in one hard sound and comes back armed. I get a forearm across the hook before the beak finds the socket. The socket is screaming from the impact, skin hot, metal indifferent. I do not give her the nape.
+I hit her anyway.
 
-"Packet," I say. "On the ground. Hands where I can see them."
+The arm takes her at the waist as the rotted door of the mirror shack gives up. Wood, dust, a hard sound out of her that comes back armed. We go through together. The floor is sand and wire and broken mirror, and the first fall is mine, which means the second one will be the one she uses. The hook is still in her hand. My forearm is already across it. The socket screams from the impact, skin hot, metal indifferent, and I do not give her the nape.
 
-She laughs once, no humor in it, and tries to put a knee where a knee ends a fight. I turn the hip. The shin guard takes the second hook. We are chest to chest in the wreck of the shack, her collar against my throat, the slate a hard corner between us.
+Cool, where my arm locked. The wind outside is a furnace full of acid dust. She is not. I feel it and I do not have a free second to enjoy the surprise.
 
-Cool. That is the fact my skin reports and does not file. The desert is a furnace. She is not.
+She gets a knee under her. The door behind us is a mouth full of grit and the howl. The interior is low, too low for the wing to be a wing. She knows that. She picked it. I can see the measure happening behind the goggles, amber glass, the pupils cut to slits, the same calculation she spent on the bowls.
 
-"You talk like the file is yours," she says. "It was in a pipe."
+"You can run for the back," I say. "The ceiling will not save you twice."
 
-"It's mine now."
+She looks at the hook, at the wing jammed crooked against the jamb, at the gap she built and I spent. No plea in it. The corner of her mouth moves, not a smile, the face of a person who has been scored on and is already rewriting the count.
 
-"Then take it." Her eyes are amber behind the grit on the goggles, the pupils cut to slits. "If you can find a hand free."
+The stitch wants her opened on this floor. My hands are busy keeping the beak out of my neck, and the part of me that stayed in the air is still glad she made me work for the door.
 
-I cannot. That is the problem. The order wants her opened. My hands are busy keeping the hooks out of my neck, and some stupid part of the dive is still pleased she made me work for the gap.
-
-The leash stitches again. Obey.
-
-I drive us over, get the high ground of a knee, and reach for the strap of the slate. She bites. Not a metaphor. Teeth at the wrist, and then she is gone under me by a twist that should not have been there, boots on the floor, already measuring the door.
-
-I catch the collar. Fabric. The throat under it is bare of metal. I feel that and I hate that I felt it.
-
-"Run," I say, "and the next pass breaks the glass with you in it."
-
-She looks at the door, at my hand, at the wing jammed crooked against the shack wall. She stays. For a heartbeat. Then the hook comes up again, and we are not done.
+She comes up off the sand with the second hook, and the room gets small.
 
 
 ---
@@ -497,45 +565,69 @@ She looks at the door, at my hand, at the wing jammed crooked against the shack 
 
 ***
 
-The second time he takes me down, the floor is the one that loses.
+The second hook comes up off the sand and he takes it on the shin guard.
 
-We hit brick. Dust in the mouth. A wing slams the wall and the shack complains, a long wooden sound, and then his weight is the whole room. Heat comes off him in a sheet. Ozone. Hot metal. The smell sits in the feathers crushed against my cheek, and my body answers it before I give it permission, a jolt low in the stomach that I file under *insult* and keep moving.
+The beak skids. The block is ugly and close, and the force of it turns me. We hit brick. Dust in the mouth. A wing slams the wall and the shack complains, a long wooden sound, and then his weight is the whole room. Heat comes off him in a sheet. Ozone. Hot metal. The smell sits in the feathers crushed against my cheek, and my body answers it before I give it permission, a jolt low in the stomach that I file under insult and keep moving.
 
-bodkin is still in the bun. The hooks are in my hands until they are not. He checks one with the shin guard, a hard ugly block, and the beak skids off. The other he takes at the wrist. Fingers like a clamp. He finds the second wrist on the way down and pins both of them over my head in one grip, because he is willing to spend a wing as a brace and I am not willing to let the bodkin stay a hairpin.
+The ceiling is why I ran here. Low. A wing that wants to open has to fold or eat the beams, and he folded, which means the plan worked and the plan currently has me on the floor. I drive a knee at the soft place under the plate. He turns the hip. The shin guard takes the knee the way it took the hook, and he grunts, a real sound, not an order. A grunt is a joint. I file it. Then his free hand finds the wrist I still have, and the revision I was building dies in his grip.
 
-I twist. The braid scrapes brick. If I can get the twist of the bun against his forearm, the blade unseats. Two inches. He reads it and shifts the grip higher, onto the meat of the wrists, away from the hair.
+The bodkin is still in the bun. The hooks are in my hands until they are not. He has the one he blocked. The other he takes at the wrist, fingers like a clamp, human and too hot. He finds the second wrist on the way down and pins both of them over my head in one grip. He is willing to spend a wing as a brace. I am not willing to let the knife stay a hairpin.
+
+I twist. The braid scrapes brick. If I can get the bun against his forearm, the blade unseats. Two inches. He reads it. He always reads it. The grip shifts higher, onto the meat of the wrists, away from the hair, and the two inches die.
 
 "Stop," he says.
 
 "You first."
 
-His jaw is scarred on the left, a pale hook of old burn, and the mouth under it is close enough that I can see the grit on his lip. I look at the door instead. The door is an exit if his knee slips. The hip under the knee is the lever. The knife is the finish if the wrists come free. I count those three things and I do not count his mouth again.
+"You don't even sound like the wire when you say it," I tell him. "You sound like somebody who remembers a ward. They like that in a soldier. It keeps the street polite while he collects it."
 
-He is burning. The chest against mine is a furnace through the plate, and the bare arms are worse, skin too hot for a man who just came out of a night dive. I know what a Raptor does with heat. I pull it. I do not fix it. Whatever is wrong with him is not a fever I was taught to cure, and my skin is doing the only trick it has, taking the temperature down a degree at the places we touch and giving me nothing useful back.
+"You don't know the ward."
+
+"I know the socket. It's against my collar every time you lean. The polite ones still open you if the wire says open."
+
+He flinches. The flinch is small and it is in the neck, not the hands, which tells me the socket is live and the hands are his. I spend the flinch. I yank the right wrist toward the braid, two inches, the same two inches, and this time I get the scrape of the bun against his arm before he kills it. The bodkin shifts in the hair. A click, tiny, the blade not free and not seated as deep as it was. His eyes go to the sound. That is the gift.
+
+His jaw is scarred on the left, a pale hook of old burn, and the mouth under it is close enough that I can see the grit on his lip. I look at the door. The door is an exit if his knee slips. The hip under the knee is the lever. The knife is the finish if the wrists come free. I count those three things and I make myself count them again, because the mouth is right there and the mouth is not a plan.
+
+He is burning. Through the plate the chest is a furnace, and the bare arms are worse, skin too hot for a man who came out of the wind a minute ago. The feathers at my cheek are smooth along the shaft and sharp where the edge meets skin. I turn my face and take a mouthful of dust instead of him. The dust does not drop the stomach. He shifts his knee to kill a bridge of my hips, and the heat of the thigh comes with it, a brand through the cloth. The insult files itself again, louder. I know this trick. Cool skin takes heat off a hotter body. It does not fix what is wrong with him. My arms are doing the only work they were taught, pulling a little of the temperature down where we touch, and giving me nothing useful back. He is still a wall. He is still on the order. Under the anger I am counting every place he is too hot, because a count is how you find the joint that fails. The knee is one. The wrist-grip is two. The mouth is not on the list. I put it on the list anyway and then I cross it out.
 
 "The slate," he says. "Then you walk out of this shack."
 
 "You were told to open me."
 
-His eyes change. He did not expect me to have the order. Good. An order he is ashamed of is a crack.
+His eyes change. He did not expect me to have the order. Good. An order he is ashamed of is a crack, and a crack is a place to put a wrist.
 
 "I was told to recover a runner," he says. "The file is the point."
 
 "Then you can have the file when my hands are my hands."
 
-He leans in to stop a buck of the hips and the heat spikes. The feathers at his shoulder brush my throat above the collar. I hate him with a clean, useful hate. He is the thing they made out of a child and sent back to shoot the street for breathing. He is also, right now, a man who has not broken my wrists when he could have, and that fact is more dangerous than the knee.
+He leans in to stop a buck of the hips and the heat spikes. Feathers at his shoulder brush my throat above the collar. I hate him with a clean, useful hate. They took a child, put a socket in him, grew him a wing, and sent him back to collect a woman for breathing on the wrong side of a door. He is also, right now, a man who has not broken my wrists when the grip says he could. That fact is more dangerous than the knee. A man who wants you dead does not bargain for a slate. A man who bargains can be angled.
 
 I test the grip. Solid. I test the hip. If I drop my weight and turn into the pinned arm, the knee has to choose between my ribs and the floor. I start the drop.
 
-He feels it. Of course he feels it. The wing braces harder. Brick dust ticks down onto both of us.
+He feels it. The wing braces harder. Brick dust ticks down onto both of us, fine as sift, and sticks where his skin has made me sweat.
 
-"Don't," he says, and it is not the leash talking. The leash would have told him to finish the order. This is him, close, furious, trying to keep a fight from becoming a killing.
+"Don't," he says.
+
+It is not the leash. The leash would have told him to finish the order and be done with my throat. This is him, close, furious, trying to keep a fight from becoming a killing. I hear the difference and I hate that I hear it. A difference is a thing you can use. It is also a thing that makes the furnace against your ribs harder to file under enemy and leave there.
 
 I look at the scar so I do not look at the mouth.
 
 "Get off me," I say, "or I find out what your neck does when a knife goes looking for it."
 
-His grip tightens. He does not reach for the bun. I do not get the bodkin free. We stay there, heat and brick and the slate digging into my ribs, and the fight is not over. It has only run out of easy blood.
+"You won't reach it."
+
+"Watch me fail, then. You'll still have to spend a hand to stop the try, and a hand you spend is a hand off my wrist."
+
+He almost smiles. It dies before it becomes the look he gave the gap outside, the one I was not supposed to see and did. *Asshole.* A man who looks at you like that will hesitate. A hesitation is a door.
+
+His grip tightens. He does not reach for the bun yet. I do not get the bodkin free. We stay there, heat and brick and the slate digging a corner into my ribs. The fight has run out of easy blood. It has not run out of the count.
+
+I buck again, smaller, meaner, the kind of shift that is not an escape and is only a test of whether his attention has split between the slate and the wrists. It has. A fraction. The forearm over my head drifts toward the braid, because he heard the threat and the threat named the knife, and a soldier goes for the knife when you tell him where it is.
+
+*Good,* I think, and I hate the pleasure in it, the same way I hated the jolt. *Come and take it. Give me one hand.*
+
+His fingers find the edge of the bun. The wing braces. The door is still a door. I turn into the reach with everything the hip has left.
 
 
 ---
@@ -549,61 +641,71 @@ His grip tightens. He does not reach for the bun. I do not get the bodkin free. 
 
 Her hand gets free because I want the bodkin more than I want both wrists.
 
-I reach for the bun. She turns into the reach. The freed hand slaps past my jaw, misses the eye, and lands on the open back of the collar, fingers spread, hunting a grip in a fight and finding the socket instead.
+I reach for the bun. She turns into the reach with her whole hip, the way she turned into the dive. The freed hand slaps past my jaw, misses the eye, and lands on the open back of the collar, fingers spread, hunting a grip in a fight. The palm finds the socket. The short tab. The round mouth of metal. Cool against the burn. She covers both.
 
-The tab is short. The iris is a mouth. Her palm covers both.
+And then, the universe stops.
 
-The mesh stops.
+It doesn't fade. A siren dies by inches. This cuts.
 
-Ten years of it, the drill in the hour, the stitch when I admire a target, the order sitting in the teeth, all of it goes out like a lamp. What is left is the shack. Brick. Her breath. My own pulse, which I can hear, which I have not heard without a second voice under it since they seated the metal.
+Just the pulse. Nobody under it. I forgot what quiet felt like. I forgot I was in here at all.
 
-I hit my knees.
+The shoulders drop without an order. *What is this.* Everything that has been clenched since the table lets go at once, and the letting go hits so hard the body files it as a wound. It is an emptying. The wing, which I hold up every hour and call normal, becomes a real weight in the dust. *I was carrying it against the noise.* Without the noise the feathers lie down. Air goes in and comes out, and nothing in my head grades the breath. I could laugh. I could be sick. I stay on my knees because the knees are the only honest things left. *Don't get up.*
 
-The wing drags. The grip I still have on her other wrist locks, and the knuckles go white around it, and that is the only strength I trust. If I let go she runs, and if she runs the hand leaves, and if the hand leaves the noise comes back. I know this the way a man knows a burn. I do not know why.
+They took the quiet when I was seven. A table. A drill. A voice that called the socket a gift while the bit went in, and after that the gift never left. *I believed them.* Every hour a needle. Every hesitation a stitch. I built the man they wanted out of the noise, because a man who can hear himself will try to be one. Cassian drinks until the drink is louder. Rook talks, and the talk is a wall he hides behind. Toby brings ice and will not look at you while you take it. Some of them go hollow and stay hollow, and we call that reliable. I called myself an order. *The order needed the drill. So did I.*
+
+The shape is gone. *How is this possible.* My jaw hangs. The wing gives, feathers dragging in the dust, no tension left to hold them up. I hit my knees. The grip I still have on her other wrist locks, and the knuckles go white around it, and that is the only strength I trust. *If I let go, she runs.* If she runs, the hand leaves. If the hand leaves, the gift comes back. I know it the way a man knows a burn, and I do not know why her palm is the thing that put the burn out. The cool of her was already in my arm from the tackle. The cool did not do this. The palm on the metal did this. One fact. The rest of me is busy being terrified of how clear the room is.
+
+A song comes up. *I know this.* A lamp. Rain on a hot roof. No face with them. They took the face when they took the quiet, and what they gave me instead was a number. I can think the number without the drill chewing the edges off it. I can think the sergeant who threw a boy off a ledge and kept no name, and the air that held him. The thoughts arrive whole. That is the part that frightens me. The relief was the body. The mind coming back into it is a room I do not know how to stand in. A clear head was supposed to be a weapon they owned. What I have is a lamp, and rain, and the woman under my hand, and grit ticking the outer wall loud as a shout because nothing is screaming over it. I hear her swallow. I hear my knee shift in the dust. Each sound is enormous. *I want this to never end.* I stay in it, because if I climb back into the soldier too fast the soldier will report what the man just felt.
 
 She is as frightened as I am.
 
-I see it in the way she stares at her own hand, as if the hand has done a thing she did not order. Cool skin. That part I already had. The desert on her, the grit, the low heat of a body that does not waste itself. This is not that. The cool is sitting in my arms where we touched and it has not touched the noise. The noise is simply gone, and her face says she did not bring a name for the gone.
+She stares at her own hand. *You didn't order that.* Her mouth is open, and whatever she started dies at her teeth. *Does she know what she did.* I can stand her being scared. *Don't lift the hand.* The noise would be back in the next second.
 
-"What did you," she starts, and stops. Her mouth works. A sentence gets as far as the teeth and dies there. "If it cannot..."
+"If it cannot go home," she says, and stops. The rest dies. She does not know why she started it. I do not know what home she means.
 
-She does not finish it. I do not ask. Asking would be a report, and a report needs the channel, and the channel is a noise I am not ready to invite back.
+Wild sage, faint, under the sweat at her throat. I should not be close enough to have it. I am. My knees are in the dust on either side of her hips. The waist under my forearm is a held breath, the same clean strength from the rows. *I like her.* I drop my head so the liking has somewhere to go that is not her mouth. The beard scrapes my own collar. Her throat moves under the sage. *Stop looking.* I watch it anyway.
 
-Wild sage, faint, under the sweat at her throat. I should not be close enough to have it. I am. My knees are in the dust on either side of her hips. The waist under my forearm is muscle and a held breath, and the body, the stupid loyal animal of it, answers before the soldier does. Heat of a different kind. A pull. I am hard against the inside of my own thigh and the shame of it is immediate and total.
+*Focus.* She is a runner with a stolen file. She is not a woman in a room I chose. The body does not take the correction. I look at her mouth and I am ashamed of the look, and I say the thing that keeps the hand where it is.
 
-She is an insurgent with a stolen file and blood on the idea of her boots. She is not a woman in a room I chose. The body does not take the correction.
-
-"Don't move," I say. It comes out rough. "Hand stays."
+"Don't move. Hand stays."
 
 "I'm not doing anything." Her voice shakes and she hates that it shakes. I can hear the hate. It helps. "I grabbed you. That's the whole trick. Let go of my wrist and I'll take the hand back."
 
 "No."
 
-The leash should punish that. *No* to a retrieval, *no* to an open intruder, *no* to a quiet soldier who does not call the quiet in. Nothing punishes it. The socket under her palm is warm metal and quiet meat. The skin around it, which has been angry for a decade, is only skin.
+The leash should punish that. No to a retrieval. No to the order that wanted her opened. No to a quiet soldier who does not call the quiet in. Nothing punishes it. The socket under her palm is warm metal and quiet meat. The skin around it, red and angry since the dive, is only skin.
 
-I am terrified of her. I am terrified of the minute she understands what she is holding. An uncollared woman in a mirror shack just shut the Spire out of my head, and if she tells anyone, I am a broken asset, and if she does not tell anyone, I am something worse. I am a man who felt the silence and will not give it up.
-
-Her free wrist turns in my fist. Testing. Still measuring. Even now.
-
-"You're burning up," she says. "That part I know. The rest of this..." She looks at the hand on my neck as if it might bite her. "I don't know the rest of this."
+"You're burning up," she says. "That part I know. I was taught that part." She looks at the hand on my neck as if it might bite her. "I don't know the rest of this."
 
 "Then we are the same."
 
-I hate that I said it. The arousal is still there, humiliating, a pulse I cannot order down, and her eyes flick once to the place where my body has betrayed the pin. She files it. Of course she files it. Leverage, even here.
+I hate that I said it. *I meant it.* The look is still on her mouth. She catches it and files it. Even now she is pricing the attention.
 
-"Report it," she says, very soft, and she is quoting something she does not have, or guessing the rule from my face. "A quiet soldier is a broken soldier. Isn't that the line?"
+"Report it," she says, very soft. She is guessing the rule off my face, and she guesses it clean. "A quiet soldier is a broken soldier. Isn't that the line?"
 
 "Yes."
 
 "Are you going to?"
 
-The channel is in my jaw. A word would bring the roost. Cassian. The siren. The noise.
+The channel is in my jaw. A word would bring the roost. Cassian. The siren. The noise, official, with witnesses.
 
-I keep her wrist. I keep her hand where it is. I do not call.
+I keep her wrist. I keep her hand where it is.
 
-"No," I say.
+"No."
 
-Outside, the grit ticks on the shack. Inside, for the first time in ten years, the only sound in my skull is us.
+She believes me for one breath. Then she does the intelligent thing. She rips the hand off the socket.
+
+The drill comes back the way a door slams on a finger. Not the bored hourly needle. This one is offended. White across the eyes. The stomach turns over. The order claws up the throat, retrieve, open, as if the minute of quiet had been theft and the theft has to be paid in the same second. I fold toward the brick. The sound that comes out of me is not a word. She is already rolling for the door, boots in the grit, the howl of the glass wind in the gap.
+
+I know, with the noise chewing the thoughts back down to stumps, that I will not live in it. Not the hour. Not the rest of the years. She had the quiet in her hand and she took it with her, and the part of me that was a man for a minute will not give that minute back to the drill.
+
+I do not key the jaw.
+
+The wing snaps out, low, and takes her feet as she hits the sill. She twists. The jamb catches her shoulder and the side of the head, a wooden thud, and the fight goes out of her legs. She drops in the dust with the bodkin slipped from the braid and the goggles crooked and the hand that saved me open on the floor, empty.
+
+I get to her before the hand can be a choice she makes again. I gather her in. The collar is between my mouth and her throat. The noise is in me, full, offended, and under it the decision is already made, quiet as the minute I am not allowed to keep.
+
+Outside, the grit ticks the shack. I hold her, and the shape of the quiet is still in me the way a burn keeps the shape of the coal. The drill is back. The minute is not. I will not hand either of us to the roost. I do not call.
 
 
 ---
@@ -611,59 +713,129 @@ Outside, the grit ticks on the shack. Inside, for the first time in ten years, t
 
 # Chapter 9 // Jeffrey
 
+Nine years before the present.
+
 > *Write down the cough. Write down nothing else.*
 
 ***
 
-The raid is already in the street. I can hear the boots on the grate above the workshop, not hurried, which is worse. Hurried men miss a door. These ones are counting.
+The boots on the grate are not hurried. Hurried men miss a door. These ones are counting, and the count comes down through the workshop with the silt, a dry tick on the zinc and then a pause while somebody looks at a corner twice.
 
-Tsunari sits on the stool with her sleeve over her mouth. Seventeen. The haze has been in her breath for a month, a dry rattle that the city is still calling dust. It is not dust. I have written the cough down. I have written nothing else, because anything else on a page can be taken, and a page does not love her.
+She hears it. Her eyes come up over the sleeve.
 
-Five dishes on the bench. I count them the way I count exits. One. Two. Three. Four. Five. Glass, and a film on each that catches the lamp and gives it back wrong. I name the one I can afford to name.
+"How many?"
+
+"Enough to count. Not enough to hurry." I keep my face on the bench. A look at the grate is a tell, if one of them is already on the ladder. "Cough into the cloth. The rattle carries farther than a boot."
+
+*Don't write this down.*
+
+The lamp is the only warm thing in the room. Copper off the street. Solvent off the bench. Tsunari sits on the stool with her sleeve over her mouth, seventeen, and the haze has been in that breath for a month. The city is still calling it dust. I wrote the cough down. I wrote nothing else. A page can be taken, and a page does not love her.
+
+Five glass dishes sit in the lamp. A film on each one gives the light back wrong. I count them the way I count a stair I may have to run. The one nearest my hand is the only one I can afford to say out loud.
 
 "The culture," I tell her. "It stops the cough. That is the mercy. Say it back."
 
-"The culture stops the cough." Her voice is thin and furious, which means she is still herself. "What are the other four?"
+"The culture stops the cough." Her voice is thin, and furious, which is how I know the month has not finished her. "What are the other four?"
 
 "You counted them."
 
 "You made me count them."
 
-"And I am not going to name them." I cap the one I named. My hands are steady. My reasons are not. "A dish can be carried out of this room in a coat. A note can be read by a man who was not in the room. The cough will not wait for a stranger who volunteers. You are here. You are dying on a schedule the street has not admitted. I am using you. I need you to hear that before the needle, so you do not spend the rest of your life calling it a gift you misunderstood."
+"A dish leaves this room in a coat. A note gets read by a man who was not in the room." I cap the one I named. My hands are steady on the glass. "I am not giving four names to a stranger who is already on my grate."
 
-She looks at the inner door. Sora is behind it, ten, asleep, a lump under a blanket I checked an hour ago and will not check again. If I open that door I will do the coward's arithmetic and put this in the child who is not sick, because a healthy body is a cleaner page. I do not open it.
+She coughs into the sleeve. The rattle is small and indecent in a room this quiet. When she drops the cloth, her eyes are on the dishes, not on me. She reaches for the far one. I catch her wrist. The glass ticks the bench and settles, and her pulse is fast under my fingers, hot with the cough. I let go before the hold can turn into a comfort she will hate me for later.
+
+"I can read a film," she says.
+
+"Tonight you can count. Reading is how a dish gets a name."
+
+"You're using me," she says.
+
+"Yes. Hear it before the needle. I need you not to spend the rest of your life calling this a gift you misunderstood."
+
+"I wasn't going to thank you."
+
+She looks at the inner door. Sora is behind it, ten, asleep, a lump under a blanket I checked an hour ago and will not check again. A healthy child is a cleaner page. The cough will not wait for a willing stranger, and the willing stranger is not the girl on that blanket. *Don't open it.*
 
 "She's not part of this," I say.
 
-"I know." Tsunari pulls the sleeve down. The rattle is there, small, indecent in a room this quiet. "Do it before I decide to be brave and stupid."
+Something small turns over behind the inner door. A blanket. A child's breath. My hand is on the latch, and I do not remember putting it there. I take it off. *Leave her the night.*
 
-I do it. The culture first, because that is the sentence I can live with. The rest goes in after, unnamed, into the daughter who is already failing, because a body that does not know its own name is harder to steal than a slide. I hate the arithmetic while my hands keep it. Hate does not stop the work. If I stop, the dishes leave with the boots, and she keeps the cough, and Sora wakes up to neither of us.
+"I know." Tsunari pulls the sleeve down. The rattle stays in the room with us. "Do it before I decide to be brave and stupid."
 
-When it is in her I make her stand. The legs will be stronger than she expects. The skin will run cool. Scales will come in on the shoulders and the arms, slate, and she will hide them. A clear film will wipe her eyes. She will click in a dark room and know where the walls are. She will pull heat off a warmer body and she will not fix that body. I tell her all of that in the plain words, the Raptor, because she has to live in it and she has to hide the nape. Her blood does not go on a company slide. Ever.
+I do it. She puts her free hand on the stool leg and holds until the wood complains. Her arm is hot from the cough and too thin for the month. The culture goes first, because that is the sentence I can live with, and I tell her it is the culture while the plunger moves. She watches my hand, not the vein. The second draw has no mark on it. She watches that one harder. It goes in after, into the daughter who is already failing, because a body that does not know its own name is harder to steal than a slide. *No name. Not on the glass. Not in her mouth.* If I stop, the dishes leave with the boots. She keeps the cough. Sora wakes to neither of us. My hands keep the work. The part of me that wants to put the syringe down does not get a hand.
+
+"That one," she says, when the second is empty. "Say it."
+
+"No."
+
+I make her stand. She sways, catches the bench, and the sway is not the cough. The legs are already taking more of her than they did when she sat down.
+
+"They feel wrong," she says.
+
+"Stronger than you expect. You are going to live in them, so hear the rest while you can still hate me for it." I keep my hand on the bench, not on her. "Scales on the shoulders and the arms. Slate. Hide them. A clear film under the lids will wipe your eyes. You will click in a dark room and know where the walls are. The skin runs cool. It takes heat off a warmer body, and it does not fix that body."
+
+"Whose body?"
+
+"Anyone's. Hide the nape. Your blood stays off a company slide. Ever."
+
+"Click," she says.
+
+"Once. In the dark. Alone. Until the room answers you. If somebody is in the room, you have already told them what you are."
+
+She touches her own shoulder, where the skin is still the skin she came in with, and looks at her fingers as if they have already lied to her. "You could have written that down and let me read it when you were gone."
+
+"A note outlives the man who meant it. You won't."
 
 "If it cannot go home," I say, "it cooks. Again."
 
-"If it cannot go home, it cooks." She frowns. "That's a bad culture."
+She frowns. The frown is the same one she uses on a sum that will not balance. "If it cannot go home, it cooks. That's a bad culture."
 
 "Say it until it is cold."
 
-She says it again. She does not understand it. Good. Understanding is a thing an interrogator can pull. A sentence she can repeat without knowing why is only a habit.
+She says it again, angry and exact, the way she says a thing she intends to keep and not forgive. She does not understand it. *Good.* An understanding can be pulled out of a girl on a stair. A sentence she can repeat without knowing why is only a habit, and a habit is a poor prize.
 
-"Mercer finishes this," I say. "The clinic. The knife. The trade. He does not get the notes. There are no notes."
+"Mercer finishes this," I say. "The clinic. The knife. The trade. He does not get the notes."
+
+"There are notes. I watched you keep a bench."
+
+"There are no notes. If he asks what the other dishes were, you counted them and you do not know. That is the whole of what you tell him."
+
+"If I guess, and I'm right, will you nod?"
+
+"If you guess, I will wish I had burned this bench yesterday."
 
 "Where are you going?"
 
-"Out. In the crawler. They will follow the crawler if I make the crawler the louder fact." I take her face in my hands, brief, and let go, because a long touch becomes a goodbye and a goodbye becomes a speech. "If this fails, I cut you open for a blank. I am afraid of that. If it holds, the people on the stair will not kill you. They will keep you. I am more afraid of that. Do not be interesting. Do not be brave where a collar can see you."
+"Out. The crawler. They will follow an engine before they finish a quiet room, if I make the engine the louder fact."
 
-Boots on the stair now. I kill the lamp over the bench. Four dishes stay where a fire will find them. The fifth is already in her, and so is the thing I will not say.
+Boots hit the stair. Not the grate now. Wood. A closer count. I take her face in my hands and let go in the same breath, because a long touch becomes a goodbye and a goodbye becomes a speech. Her skin is already cooler than the fever I just had under my fingers. *Already.* I do not say it.
 
-I go up the other stair, the one that comes out in the alley, and I make sure the crawler's lamps are on and the engine is a rude, trackable noise. Shouts behind me. A light swings off the workshop door and onto the lane.
+"If this fails, I opened you for a blank. I am afraid of that." The stair creaks under a careful weight. "If it holds, the people coming up will not kill you. They will keep you. I am more afraid of that. Do not be interesting. Do not be brave where a collar can see you."
+
+"You already opened me."
+
+"Yes. So be difficult to keep. And you will not be in this room to be kept." I put her on the alley stair. Their boots are on the wood. This one comes out in the lane. "Left. Mercer's door. You do not stop."
+
+She looks at the inner door. "She's ten."
+
+"She's asleep. Open it and you are both still here when they come down."
+
+"I'm not leaving her with them on the stair."
+
+"You are." I stand between her and the latch. My hand stays off it. *Leave her the night.* "Go."
+
+She goes. I hear the alley door, and then I wait until I cannot hear her.
+
+I tip the four dishes into the solvent. The films cloud and die. The inner door stays shut. The fifth is already in her, and so is the part that does not get a word.
+
+The alley is empty of her when I come up. Night in the lane is the hard cold of the lee, copper still in the air, silt gone to frost on the zinc. I walk. A run would give them a second direction, and one of those directions is a girl. The crawler's lamps are on. I make the engine a rude, trackable noise, and I leave it that way. *Louder.*
+
+Shouts behind me. A man calls a direction and gets no answer he likes. A light swings off the workshop door and onto the lane, and for one second it could still choose the corner she took. I hold the engine open until the light gives up the door and takes the noise instead. *Stay the louder fact.*
 
 They follow.
 
-I do not look back at the alley mouth. The crawler takes the south road, loud on purpose, and the strike team comes with it, away from the stool, away from the inner door, away from the girl who is about to learn a new way to be cold.
-
-The road does not get a name from me. Not tonight. Tonight the job is the noise, and the noise is working.
+I do not look back at the alley mouth. A look is a turn, and a turn would put their light on the corner I sent her around. The crawler takes the south road loud on purpose, and the strike team comes with it, away from the inner door, away from that corner. The road does not get a name from me. Not tonight. Tonight the job is the noise, and the noise is working.
 
 
 ---
@@ -677,29 +849,57 @@ The road does not get a name from me. Not tonight. Tonight the job is the noise,
 
 I wake with my wrists in a mag-cuff and the prowler already moving.
 
-The bench across from me holds the raven. Harness smoking faintly at the wing roots, eyes too bright, a tremor in the hand that is not on the tiller because he is not driving yet. Someone else is, up front, a silhouette and a closed hatch. He put me in the back and sat where he could see the door and my hands.
+The side of my head aches where the jamb caught it. The braid is empty. The hooks are gone from the hips, and the loss of that weight is the first honest fact in the cabin. The collar is still up. The goggles are not. Outside, the treads knock a steady ugly rhythm, and grit ticks the hull. I test the cuff. It holds. My fingers work. He left me that.
+
+The cuff holds the wrists together, not to the wall. A mistake, or a bargain he made with himself before I was awake to price it.
+
+He is on the bench across from me. Harness smoking faintly at the wing roots. Eyes too bright. The wing is folded tight because the cabin will not take it any other way. Heat comes off him in a sheet, ozone and hot metal, the same smell as the brick against my cheek, and my stomach answers it before I give permission. I file the answer under insult and keep my eyes on his hands. One of them shakes. The other is flat on his knee, trying to be a soldier's hand, and losing.
+
+*Not the mouth.*
+
+The heat sits on my cheek the way it sat in the shack, a brand with no hand behind it. In the shack I could call it the fight. Here the fight is over and the brand is still on me. There is a shaking man, a closed hatch, and my stomach doing a thing I already refused once. *Use him.*
+
+His mouth is parted. He is breathing on a count. The count is short. I look at the hatch so I am not looking at his mouth, and the looking away is its own kind of confession. Someone else is driving. A silhouette, a closed hatch, the tiller not in this room. He put me in the back and sat where he could see the door and the cuff.
 
 The quiet is gone.
 
-I know it the way you know a room after the fan cuts out. In the shack his skull had been a held breath. Here the breath is back, and it is hurting him. The tremor starts in the fingers and climbs the forearm. He breathes like a man counting, and the count is losing.
+In the shack his skull had been a held breath. I had my hand on the metal and the drill cut out, and I did not know the trick. Here the breath is back, and it is hurting him. The tremor starts in the fingers and climbs the forearm. He sees me see it and hates that, which tells me the hate is not for me alone.
 
-My hand is free enough, if I lean. The cuff is on the wrists together, not on the wall. A mistake, or a bargain he made with himself. I lean. I put two fingers on the inside of his wrist, skin to skin, the way you check a pulse when you want the other person to think that is all you are doing.
+"Don't," he says.
+
+"Don't what. Sit here while you cook."
+
+"Don't touch me."
+
+"You're already cooking." The heat reaches the cuff. The metal is warm from him, not from the prowler. I lean because the cuff allows the lean, and I put two fingers on the inside of his wrist, skin to skin, the way you check a pulse when you want the other person to think that is all you are doing. *Liar.* The stomach does not believe me.
 
 The tremor stops.
 
-His eyes shut. One second. Two. The smoking at the harness thins. When he looks at me again he is ashamed of the relief, which tells me the relief is real.
+His eyes shut. The smoke at the harness thins. Air goes into him and comes out like a man who has been allowed a room. When he looks at me again he is ashamed of the relief. The shame is how I know the relief is real. He still will not look at the place where my fingers meet his skin.
 
 I take the fingers away.
 
-The tremor returns, meaner, as if the absence charged it. He makes a sound he does not mean to make. I put the fingers back. It stops. I have no name for the stopping. The cool of my skin is a trick I was taught, and it is not this. This is a switch. On when I touch. Off when I don't.
+The tremor returns meaner, as if the absence charged it. He makes a sound he does not mean to make, small, in the teeth. I put the fingers back. It stops. The cool of my skin takes the heat off his wrist. I was taught that part. The shake stopping is a second thing, and I do not have a name for it. A switch. On when I touch. Off when I don't. I hate how clean the test is. I hate that some part of me wants to leave the hand there after the test is done.
+
+"Say what it did," I tell him.
+
+"No."
+
+"Your eyes closed."
+
+"A malfunction closes nothing." His gaze hits my mouth and leaves, fast, ashamed of the trip. The heat of that glance lands harder than the harness. The harness is a fever. A glance is a choice. *He looked.* I keep my face bored. Bored gets a better price.
+
+"Bullshit."
+
+He doesn't answer. The smoke at the harness thins to almost nothing. His pulse tries to be orderly under two fingers. Orderly is not calm. I can feel the difference, and I do not tell him I can.
 
 "You need the hand," I say.
 
 "I need the packet." His voice is wrecked. "The hand is a malfunction."
 
-"Call it that on your report." I keep the fingers where they are, light, easy to remove. "You didn't call the shack in. I was awake for that part. So we can sit here and pretend you're in charge, or you can tell me where this prowler is going before the man up front asks why your prisoner is taking your pulse."
+"Call it that on your report." I keep the fingers light, easy to lift. "If you had called the shack in, I would be on a table, not in the back of a prowler with a stranger at the tiller. So we can sit here and pretend you are in charge, or you can tell me where this is going before the man up front asks why your prisoner is taking your pulse."
 
-He looks at the hatch. He looks at the cuff. He does not look at the place where my fingers meet his wrist, which is how I know he is thinking about it.
+He looks at the hatch. He looks at the cuff. He does not look at my fingers. That is how I know he is thinking about them.
 
 "South," he says. "Away from the gate. The beacon will want the Spire. I am not giving it the Spire."
 
@@ -707,17 +907,41 @@ He looks at the hatch. He looks at the cuff. He does not look at the place where
 
 "Because they'll open both of us, if anyone repeats what your hand just did."
 
-Useful. He is afraid of the same minute I am. A man who needs a touch he cannot explain will bargain. A man who is ashamed of the bargain will lie to his own side before he lies to me. I can work with that. I cannot work with a corpse, and if I take the hand away for long enough I think I get one.
+"The man up front has ears."
+
+"He has a route. He does not have this cabin. Keep your voice where the hatch can mistake it for the road."
+
+I price the shout I could make. A courier who hears the wrong sentence becomes a witness, and a witness gets me a table faster than this fever does. I keep the sentence in the cabin. The hatch stays a hatch.
+
+Useful. He is afraid of the same minute I am. A man who needs a touch he cannot explain will bargain. A man who is ashamed of the bargain will lie to his own side before he lies to me. The heat is still on my fingers. I can work with the bargain. I cannot work with a corpse, and if I take the hand away for long enough I think I get one.
 
 "Then the hand stays," I say. "Until we're out of this box. You don't ask what I am. I don't ask what they wrote down when they took you. We both already hate the answers."
 
-The record in my head is not his. I don't have his file. I have a boy-shaped hole the city leaves in people, and his face is the age that hole grows up to be. Fast hands. I watched them trap a hook. I will not do him the violence of reciting a life I was not given.
+"And the cuff stays on the wrists, not on a ring. You don't search me again. You don't ask the driver to look back here."
+
+"The cuff stays until the post," he says.
+
+"Then the post had better be worth the wrist."
+
+The record in my head is not his. I don't have his file. I have a boy-shaped hole the city leaves in people, and his face is the age that hole grows up to be. Fast hands. I watched them trap a hook. *Don't recite him.* I will not do him the violence of a life I was not given.
+
+The braid against my skull is missing its weight. The bodkin is on a shack floor, or in a pocket I have not found, and my hand wants it the way a hand wants a rail in the dark. I do not reach for his belt. Reaching ends the deal, and the deal is the only thing between my wrists and a table.
 
 "Deal," he says, and the word costs him.
 
-The prowler hits a rut. My fingers slip. The tremor flashes, ugly, and I put the hand back flatter, palm this time, and I watch him hate how fast he leans into it.
+He does not thank me. Thanks would make the palm a kindness, and a kindness is harder to price than a need. The graveyard comes up as a dark shine, bowls holding nothing, the day's heat already gone out of them. I count the bowls because a count is a road. His pulse stays even under my hand. I ease the palm, a test, and the shake answers before I have lifted clear. He breathes in through his teeth.
 
-Good. Hate is a lever. Need is a better one. I keep my palm on his wrist and I start counting the turns, south, south, and the graveyard falling behind us in the dark.
+"Leave it," he says.
+
+"Say please and I'll think about it."
+
+"Leave it."
+
+The prowler hits a rut. The palm slips. He leans into the place where it was, fast, before I have decided to give it back. *There.* I set the hand down again and watch him hate the lean. Hate is a lever. Need is a better one.
+
+I leave it. The bowls fall behind. South. His skin is too hot under the palm, and I am not moving the palm. The wing is folded along the bench behind him, too big for the room, and the heat off the roots sits on my knee. I could shift away. I don't. The not-shifting is the same problem as the hand, and I am going to lie to myself about it until the post.
+
+A lamp from the road hits his face and leaves. Fever-bright eyes. The scar on the jaw. I look at the scar so I am not looking at the mouth again, and the scar is not a safer place. *Not him.* The bowls run out. The road keeps going south, and my hand stays, and his pulse stays where I put it. For as long as the palm stays, he can drive a bargain. The moment I lift it, he is a patient. I know which one I can survive.
 
 
 ---
@@ -731,19 +955,41 @@ Good. Hate is a lever. Need is a better one. I keep my palm on his wrist and I s
 
 I take the driver's seat when the road clears the graveyard.
 
-The man who had the tiller is a courier with a route and a beacon that wants to go home. I pull his beacon, kill it, and point the prowler at a post the city does not listen to. He argues once. I show him the hatch. He takes the hint and the long walk back toward the lamps. I do not watch him go. If he reports, he reports a commander who relieved him. Commanders relieve people. They do not steal prisoners. Not yet. The lie can wait until someone asks a question I cannot file.
+The man who had the tiller is a courier with a route and a beacon that wants to go home. I pull the beacon, kill it, and point the prowler at a post the city does not listen to.
 
-She is in the cabin because the back bench put her hand at the wrong angle and the tremor came up at every rut. Her palm is on my forearm now, under the line of the window, where a scope on a ridge would need luck. The quiet holds. I drive.
+"The route is the gate," he says.
 
-The lee thins as the road drops south. The air in the ring was breathable and dirty. Out here it is thinner in the lungs, a scratch, the first taste of the country the dome decided not to keep. I don't explain it to her. She has lived in it. The word is the lee. Past the lee is the Choke, and we are not going that far. Seven miles from the mast, the concrete box on the south edge, shortwave only. Redoubt Station 14. If I take her into the city they open her on a table and they open me for not calling the shack. The post is a delay. I am good at calling a delay an order.
+"The route is whatever I point at."
 
-I look at her once.
+"Command will ask why the beacon died."
 
-The tunic leaves the shoulders bare. Slate scales on the outer shoulder, small, pebbled, catching the cabin lamp and giving it back dull. She sees me see them. Her mouth parts, not a smile, a refusal, and my pulse kicks for a reason that has nothing to do with the road.
+"Command can ask the hatch. You're walking."
 
-My hands tighten on the wheel.
+He takes the hint and the long walk back toward the lamps. I do not watch him go. If he reports, he reports a commander who relieved him. Commanders relieve people. They do not steal prisoners. The lie can wait until someone asks a question I cannot file.
 
-If I reach for her she will use the bodkin I have not found yet, or her teeth, or the simple fact that I need the palm on my arm more than she needs me alive. I would deserve it. I keep the hands on the wheel. I keep my eyes on the ruts.
+She cannot stay on the back bench. Every rut lifted her hand, and the tremor came up in the gap. I bring her through to the cabin. The move costs the palm. The shake climbs my arm before she is in the second seat, and my hand comes up to take her wrist and put it back where it belongs. She looks at the hand.
+
+"Don't," she says. "Ask."
+
+The word sits in my mouth and tastes like a rank I am setting down. "Put it back."
+
+She does. Cool. Exact. The quiet drops into place, and I hate that I asked, and I hate the second after, when the hate is smaller than the relief. Cuff still on. Her palm fits my forearm under the line of the window. A scope on a ridge would need luck. I drive.
+
+"You moved me," she says.
+
+"The bench was losing you at every hole in the road."
+
+"The bench was losing you." The same hand that priced a gap in the mirrors. "Try not to look grateful. It ruins the abduction."
+
+*She knows.* I keep my eyes on the ruts. The lee thins as the road drops south. The air in the ring was dirty and breathable. Out here it scratches, the first taste of the country the dome decided not to keep. She has lived in worse. I do not explain the road to a woman who can taste it. Seven miles from the mast, a concrete box on the south edge, shortwave only. Redoubt Station 14. If I take her into the city they open her on a table and they open me for not calling the shack. The post is a delay. I am good at calling a delay an order.
+
+I look at her once. Sage, faint, the same as the shack, closer now because I put her in the seat.
+
+The tunic leaves the shoulders bare. Slate scales on the outer shoulder, small, pebbled, catching the cabin lamp and giving it back dull. I want to know if the cool is only in the palm, or if the shoulder would be cool too. She sees me see it. Her mouth parts, a refusal, not a smile, and the pulse kicks in my throat for a reason that has nothing to do with the road.
+
+*Don't, you asshole.*
+
+The want is specific and humiliating. The shoulder, the mouth, and the palm that is the only reason I can tell them apart. If I reach for her she will use her teeth, or the cuff, or the simple fact that I need the hand on my arm more than she needs me alive. I would deserve it. My hands lock on the wheel. I put my eyes back on the ruts and I leave them there. The look stays in the hands anyway. They know where her shoulder is. I do not let them go there.
 
 "You're staring," she says.
 
@@ -751,21 +997,73 @@ If I reach for her she will use the bodkin I have not found yet, or her teeth, o
 
 "Make it the only once."
 
+The lamp is still on the scales. I do not spend a second look. The first is already in the pulse, and a second would be me deciding. *Once. Mean it.*
+
 "The scales."
 
-"Are none of your report." She shifts the palm, a warning and a mercy in the same inch. The quiet wobbles and settles. "Where are we going."
+"Are none of your report." She shifts the palm, a warning and a mercy in the same inch. The quiet wobbles. The tremor tastes the gap and she gives the inch back, and the quiet settles, and I hate the gratitude almost as much as I hated the look. "Where are we going."
 
 "A watchpost. Concrete. No line to the Spire. If I do this right, the city thinks the runner is still in the mirrors."
 
 "And if you do it wrong?"
 
-"Then I drove you to a box with one door and I am the man in the box with you." I hear how that sounds. "You can hate that after we're inside. Hating it on the road gets us both a retrieval."
+"Then I drove you to a box with one door, and I am the man in the box with you." I hear how that sounds. The pulse has not climbed down. "You can hate that after we're inside. Hating it on the road gets us both a retrieval."
 
-The post comes up as a low wall and a mast too short to be proud. I kill the prowler's lamps before the last rise. The lee scratches at the window seal. Her hand stays. I let it stay until the wheels stop, and then I make myself move first, because a commander who cannot leave a touch is a commander already retired.
+"If the box has a watchman, your quiet becomes his report."
 
-The fever starts its climb the moment her skin leaves mine. I get the door open anyway.
+"The post is usually empty. Shortwave. A cot. A man comes through once a day and does not sleep there."
+
+"Usually." She tastes the word and does not return it. "If usually is wrong, I want the cuff off before the door, not after. A cuff is a story. A woman walking in is a worse story, and I like my odds better in the worse one."
+
+"At the wheels. Not on the road. A cuff coming off under a scope is its own report."
+
+"I already hate it." Her thumb moves once on the forearm, a check that the shake is still gone. "I also hate a table. Today the box wins. Don't get proud of that."
+
+"If someone is inside, you are a detainee. I am the officer. You don't speak."
+
+"If someone is inside, you are a man who killed his beacon, and I am the witness who heard you do it. Your story gets us opened. Let me have the mouth if the room is occupied."
+
+"You don't know the post."
+
+"I know a thin lie." She shifts the palm, not enough to wake the tremor, enough to remind me she can. "Drive. We'll see if usually was worth saying."
+
+She is counting the cabin while she says it. The hatch, the wheel, the cuff, the door. I know the count because I would be making it. *She's still working.* The counting sits in the same place as the shoulder. I put both with the ruts and I drive.
+
+A thanks almost gets out of me. The quiet is that good. I swallow it. She hears the swallow.
+
+"Don't," she says.
+
+"I didn't say it."
+
+"You were going to thank me. A thanks makes this a favor, and a favor is how a person gets owned. Drive."
+
+I drive. The scratch of the lee is in the window seal. The folded wing takes the space behind her seat, and the heat off the roots fills the gap. A feather edge ticks the back of her arm when the prowler yaws. She does not lean away. *She could. She doesn't.* The not-leaning goes through me harder than the look I already spent. I keep both hands on the wheel so they cannot get ambitious. Her breath is the loudest thing in the cabin. I match mine to it, notice that I matched it, and give the noticing to the road.
+
+The last mile is the hard one. The lamp is low. I know where her shoulder is anyway. Sage is still in the cabin. My hands stay on the wheel and ache with the staying. She says nothing. The nothing is a mercy, or it is her letting me hang myself on a want I will not name. I take it, and I do not examine it.
+
+The mast shows before the wall does. A short whip. No light on it.
+
+"Dead?" she says.
+
+"Shortwave. The city cannot hear it. Anyone close can."
+
+"Then we don't talk on the step."
+
+"We don't talk until I know the room is empty."
+
+The post comes up as a low wall and a mast too short to be proud. I kill the prowler's lamps before the last rise. Her hand stays. I let it stay until the wheels stop, because I am a coward for one more second, and then I make myself move first.
+
+The cuff has to come off or she cannot walk a stair, and the jaw is already ticking at the thought of her skin leaving. I key the cuff. The metal lets go. Her fingers stay one second longer than the bargain requires. Then she lifts them. The fever comes up the arm and into the jaw, a tick I cannot hide. She sees it. *Walk. Before you ask her to put it back.* I get the door open anyway.
 
 "Inside," I say. "Walk. I'm not carrying you where a scope can write it down."
+
+The cold hits the open door and takes the cabin heat off my face. She steps down without taking the arm I almost offer. The jaw ticks where she can see it. She prices the tick and leaves it alone.
+
+"The hand stays off until we're in," she says. "If I touch you on the step, anyone watching learns the trick."
+
+"The lamps are dead."
+
+"You killed them because you weren't sure." She walks. I follow, the fever climbing, my mouth shut.
 
 
 ---
@@ -777,11 +1075,13 @@ The fever starts its climb the moment her skin leaves mine. I get the door open 
 
 ***
 
-The post is a concrete room with one door, a stove that has not been lit, and a shortwave set on a crate. No line to the city. I know that because the set is the old kind, a whip antenna on the roof and a dial that will not reach a dome switchboard if you beg it. Anyone with another set can hear us. The Spire cannot. He chose that. I file it.
+The post is one concrete room. A door. A stove that has not been lit. A shortwave set on a crate, the old kind, whip on the roof and a dial that will not reach a dome switchboard if you beg it. Anyone with another set can hear us. The Spire cannot. He chose that. I file it before I file him.
 
-I count the exits while he locks the prowler out. Door. A slit window, too narrow for my shoulders, wide enough for a voice. A roof hatch with the bolts on this side, which is a gift if I get a minute without his hands. The stove poker. A coil of wire. The cuffs are off. He took them off in the cabin so I could walk, and because his tremor had started to show in the jaw.
+The cuffs are off. He took them off in the cabin so I could walk, and because the tremor had already reached his jaw. On the step I would not touch him. In here the hand stays off until he asks. I count while he locks the prowler out. Slit window, too narrow for a shoulder, wide enough for a voice. Roof hatch, bolts on this side. Stove poker. A coil of wire. The door we came through, and the bar he has just dropped.
 
-He turns his back to hang the harness. Bronze skin, the wing roots angry and red where the straps sat. I look at the hatch bolts instead. A back is not an exit.
+He turns his back to hang the harness.
+
+The straps have been cooking the wing roots. The skin there is angry and red, and the heat comes off the bare back in the same sheet as the cabin, bronze gone dull with fever-sweat. My throat is dry. The line of the spine is a thing a prisoner does not get to look at. *The bolts.* I look at the hatch. A back is not an exit. The heat stays on my face anyway. I spend it on the bolts.
 
 The shortwave clicks.
 
@@ -791,15 +1091,15 @@ I know the click. T.J. builds his sets mean and quiet, and this one is not his, 
 
 Ren, smaller, too close to her mic: "We're not going back until we see the prowler."
 
-Vram's head comes around. He heard the name. Drew. He does not move for the set, which is either discipline or the tremor eating his timing. I cross the room before he chooses. I thumb the send.
+Vram's head comes around. He heard the name. Drew. He does not move for the set. Discipline, or the tremor eating the timing. I cross the room before he chooses. I thumb the send.
 
 "Turn around."
 
-"Tsune." Drew's relief is a crack in the word. "Are you hurt?"
+"Tsune." The relief cracks the word. "Are you hurt?"
 
 "Turn around. Both of you. The bearing was a direction, not an invitation. Go home. Tell T.J. the watch is done and he keeps the hole."
 
-"There's someone in the room," she says. Not a question. Drew hears a second breath the way other people hear a siren.
+"There's someone in the room," she says. Not a question. Drew hears a second breath the way other people hear a bad bearing.
 
 "Yes. You don't get a name. You don't get a place. If you keep walking south you paint every door you slept near. Go home."
 
@@ -807,25 +1107,25 @@ Ren starts, "We can..."
 
 "Ren." I put the field voice on, the one that makes him stand up straight. "You get to Drew's cart and you face the gate. If I hear this set again tonight I will assume you want a patrol to learn your names. Confirm."
 
-A pause. The lee scratches the slit window. Vram is three steps away, shaking, listening, taking nothing I am not spending.
+The lee scratches the slit. Vram is three steps away, shaking, taking nothing I am not spending.
 
 "Confirm," Drew says. "We're turning around. Mercer will ask."
 
-"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. The room is concrete and breath again.
+"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. Concrete and breath. That is the room again.
 
-Vram looks at the dead dial, then at me.
+He looks at the dead dial, then at me.
 
 "Drew," he says.
 
-"Is a person you don't have." My palm is not on him. The tremor is in his shoulders now, fine and constant. I see him decide not to ask for the hand. Pride, or the last of the order. "You heard a name. You did not hear a clinic. You did not hear a hole. If you repeat the name on any channel, the next thing I touch will not be your wrist."
+"Is a person you don't have." The tremor is in his shoulders now, fine and constant. I watch him decide not to ask for the hand. Pride, or the last of the order. "You heard a name. You did not hear a clinic. You did not hear a hole. If you repeat the name on any channel, the next thing I touch will not be your wrist."
 
-He nods once. It costs him. The fever is climbing and he is still standing in it, which is either impressive or the thing that gets us both killed by morning.
+He nods once. It costs him. The fever is climbing and he is still standing in it.
 
 "Shortwave only," he says. "You just proved you understand the post."
 
-"I understand you drove me somewhere the city can't hear." I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. Let him ask. "When you need it, you say so. I'm not your medicine. I'm the woman who can take the noise away, and I have just sent my people home so you don't get them. Remember which part you earned."
+"I understand you drove me somewhere the city can't hear." I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. *Let him ask.* "When you need it, you say so. I'm not your medicine. I'm the woman who can take the noise away, and I have just sent my people home so you don't get them. Remember which part you earned."
 
-He looks at the floor. The harness drips heat into the concrete. Outside, the road back to the mirrors stays empty, and I hang the whole night on Drew doing what she said.
+He looks at the floor. The harness drips heat into the concrete. Outside, the road back to the mirrors stays empty. I hang the night on Drew doing what she said.
 
 
 ---
@@ -837,55 +1137,45 @@ He looks at the floor. The harness drips heat into the concrete. Outside, the ro
 
 ***
 
-The clinic door sticks. I shoulder it, kit on one hip, shortwave on the other, and the lane is already full of grit. Afternoon. The lee tastes like the stove when Mercer burns the cheap oil. I pull a cloth up over my mouth and I don't make a speech about it.
+The clinic door sticks. I shoulder it, kit on one hip, shortwave on the other. Night. The lane is grit and the hard cold, and the lee tastes like the stove when Mercer burns the cheap oil. I pull a cloth up. I don't make a speech about it. The set is the only channel we use. A few miles of bad air. It does not reach the dome. Anyone with another box can hear it, which is why the clinic does not get a name on it.
 
-T.J. is in my ear before I'm ten steps gone.
+T.J. comes up on it before I'm ten steps gone.
 
 "South. The prowler turned south off the gantry. I'm not coming up."
 
 "I wasn't going to ask you."
 
-"You were." He is fourteen and he is right, which is the worst age for being right. "Ren already left. He took the left-hand cart. If you don't catch him he'll try the gate road and get himself a light in the face."
+"You were." Fourteen, and right, which is the worst age for it. "Ren already left. He took the left-hand cart. If you don't catch him he'll try the gate road and get a light in the face."
 
-"Stay on the bearing. Stay in the hole. If the bearing changes you say so. You do not get noble."
+"Stay on the bearing. Stay in the hole. If it changes, you say so. You do not get noble."
 
-"I don't leave the desk." A click of his tongue, solder-shop impatience. "Cloth on. The silt's still falling. Drew. Bring her back."
+"I don't leave the desk." A click of his tongue, solder-shop impatience. "Cloth on. Drew. Bring her back."
 
 "That's the job."
 
-I find Ren at the third turning, too tall for the cart and too young for the set he's hugging. He starts to explain. I point at the seat. He sits. We take the south road because a boy who will not leave a bunker still knows which way a prowler went, and a direction is the only map I'm getting.
+Ren is at the third turning, too tall for the cart and too young for the set he's hugging. He starts to explain. I point at the seat. He sits. We take the south road because a boy who will not leave a bunker still knows which way a prowler went, and a direction is the only map I'm getting.
 
-The mirrors come up black and broken. I hate them. Too many places to put a body. I keep the lamp low. Ren wants to call her name. I put a hand on the set.
+The mirrors come up black and broken. I hate them. Too many places to put a body. Lamp low. Ren wants her name on the air. I put a hand on the set.
 
-"Open channel," I say. "You paint the clinic if you get chatty. You paint him, too, and he is fourteen and under a street."
+"Open channel. You paint the clinic if you get chatty. You paint him, too. He is fourteen and under a street."
 
-"I know what she is," Ren says, small. "I'm not going to say it."
+"I know what she is," he says, small. "I'm not going to say it."
 
 "Good. Don't practice."
 
-I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder, skin where a socket should be, nothing to report and nothing I will ever put on a slide. The tang for her bodkin is in my belt now, wrapped, because I work the tools when the woman is not in the shop. It gives my hands a job. The job is not a confession.
+I know the bare nape. I have had that throat under a shop lamp, fitting a lead, telling her to hold still. Scales on the shoulder. Skin where a socket should be. Nothing to report, and nothing that goes on a slide. *Not on this set.* The tang for her bodkin is in my belt, wrapped, because the hands need a job when the woman is not in the shop. The job is not a confession.
 
-The post shows itself as a squat concrete block past the last mirror, one mast, no city lights. I can see it. I cannot walk up to it. A watchpost has a door and a gun and a reason. I stop the cart where the road dips.
+The post shows past the last mirror. Squat concrete, one mast, no city lights. I can see it. I do not walk up to it. A watchpost has a door and a gun and a reason. I stop the cart where the road dips, and I call.
 
-"Tsune. If you're on this road, answer. Ren is with me. We're at the last mirror. T.J. gave us the bearing and he is staying down, so don't ask me to make him brave."
+"Tsune. If you're on this road, answer."
 
-Ren leans in. "We're not going back until we see the prowler."
+Her voice comes back in the field register, the one that stands him up straight. Turn around. Both of us. The boy keeps the hole. I ask if she is hurt. She does not answer the hurt. She answers the road.
 
-The answer comes quick, her voice, the field one.
-
-"Turn around."
-
-Relief hits so hard I have to put a hand on the cart. "Tsune. Are you hurt?"
-
-"Turn around. Both of you. The bearing was a direction, not an invitation. Go home. Tell T.J. the watch is done and he keeps the hole."
-
-There is a second breath in the room. Not hers. Close to the set, trying not to be. A man, I think. I don't get a face. I don't get a name. I hate the not-knowing with a clean shop hate, the kind that wants a bolt to turn.
+There is a second breath in the room. Not hers. Close to the set, trying not to be. A man, I think. No face. No name. I hate the not-knowing with a clean shop hate, the kind that wants a bolt to turn.
 
 "There's someone in the room," I say.
 
-"Yes. You don't get a name. You don't get a place. If you keep walking south you paint every door you slept near. Go home."
-
-Ren starts. She cuts him with his name, and she tells me what to tell Mercer, and then the set goes dead under her hand. I hear the death of it. I sit with it for three breaths because if I turn the cart in the first breath I will turn it back.
+"Yes." Nothing after it that I can use. No name. No place. If we keep walking south we paint every door we slept near. Ren starts. She cuts him off with his own name and tells him to face the gate. Then the sentence I am supposed to give Mercer, and the set dies under her hand. I hear the death of it. I sit for three breaths, because if I turn the cart in the first one I will turn it back.
 
 "We're going," I say.
 
@@ -893,15 +1183,33 @@ Ren starts. She cuts him with his name, and she tells me what to tell Mercer, an
 
 "She might." I get the cart around. The mile back is longer than the mile out. "She asked. We go. You can hate me at the clinic."
 
-T.J. takes the news without a hero speech. "Watch is done. I'm down." The channel clicks off. Ren doesn't talk. The mirrors slide past. I put the cloth up again when the grit thickens, and I count the tools in the kit so I don't count the ways a concrete room can go wrong.
+T.J. takes it without a hero speech. "Watch is done. I'm down." The channel clicks off. Ren doesn't talk. The mirrors slide past. I count the tools in the kit so I don't count the ways a concrete room can go wrong.
 
-Mercer is at the stove when we come in. He looks at the empty half of the doorway.
+Mercer is at the stove. He looks at the empty half of the doorway.
 
 "Well?"
 
-"Lost the signal at the mirrors," I say.
+"Lost the signal at the mirrors."
 
-It is the sentence she gave me. It is not the post, and it is not the second breath, and it is not the throat I have seen and will not describe. He nods like a man who has accepted worse lies from better reasons. I hang the kit. I set the wrapped tang on the bench where her hands will look for it, if she comes back to look.
+It is the sentence she gave me. It is not the post, and it is not the second breath, and it is not the throat I have seen and will not describe. He nods like a man who has taken worse lies for better reasons. I hang the kit. I set the wrapped tang on the bench, where her hands will look for it if she comes back to look. I wait until the kettle goes to the front room with him.
+
+Then I key the set. Same box. Shortwave. It will not climb the wall. A patrol with a receiver still could, so I keep it close to my mouth and I do not give them a door.
+
+"You still up?"
+
+"Down," T.J. says. "This set. I'm not putting it on their wire."
+
+"Talk like somebody else has a box."
+
+"Beacon's dead. The truck didn't go back to the gate. It stopped past the mirrors and it's still sitting. No retrieval. Nothing on the gate log that looks like a body."
+
+Ren is on the bench with his hands in his sleeves. He already heard the gantry. He doesn't add to it.
+
+"And the copy?" I say.
+
+"Still on her. What I saw is on my screen. I'm not reading it on the air."
+
+"Good. Don't." I kill the send. The room is a stove tick and a boy who will not come up.
 
 Then I wash the grit off the burn on my left hand, and I don't tell the room how far we actually got.
 
@@ -915,33 +1223,37 @@ Then I wash the grit off the burn on my left hand, and I don't tell the room how
 
 ***
 
-The monitor on the crate is a field unit, stupid and honest. I stand six feet from her and it climbs. One hundred and six. Seven. Eight. The tremor comes back into the hands. The leash finds the quiet I have been hiding and starts to punish the hiding, a hot wire behind the eyes.
+The monitor on the crate is a field unit, stupid and honest. I stand six feet from her and it climbs. One hundred and six. Seven. Eight. The tremor takes the hands. Behind the eyes the leash finds the quiet I have been hiding and starts to punish the hiding, a hot wire.
 
-"Touch," I say.
+She is on the crate with her palm on the wood, where she put it. She told me to say so when I needed it. I need it. The number is already a place I do not come back from clean.
 
-She looks at the number. She looks at me. She puts her palm on my wrist, the same bargain as the prowler, and the number falls. Not to a man's. To a thing I can stand in. The wire goes quiet. I hate the monitor for telling the truth and I hate her for being the only switch, and I leave my wrist under her hand because the alternative is on the screen.
+"Touch."
+
+She looks at the number. She looks at me. She puts her palm on my wrist, the same bargain as the prowler, and the number falls. Not to a man's. To a thing I can stand in. The wire goes quiet. I hate the box for telling the truth, and I hate her for being the only switch, and I leave the wrist there because the alternative is on the screen.
 
 "You measured it," she says.
 
 "So I would stop pretending it was the road."
 
-The set on the desk lights. Not the shortwave. The command channel, the one a post is not supposed to need and always has, a tight beam, encrypted, her voice already tired of the distance.
+The command set lights on the desk. A tight beam, encrypted, the channel that can reach a director when a shortwave cannot. Her voice is already tired of the distance.
 
 Director Elena Corvus.
 
 "Commander. The runner. Status."
 
-Tsunari's hand stays. I cover the mic with a look and she understands. She does not breathe loud.
+Tsunari's hand stays. I cover the mic with a look. She understands it. She does not breathe loud.
 
-"The packet is not in the mirrors," I say. True. The packet is in this room, under a harness I have not opened, because opening it is the next order and the next order ends her.
+"The packet is not in the mirrors," I say. True. The packet is in this room, under a harness I have not opened. Opening it is the next order, and the next order ends her.
 
 "I did not ask about the packet. I asked about the runner. If you cannot show me a body that can be opened, you execute and you confirm. A live thief with a Spire record is a conversation I will not be having on a south-road beam."
 
-Execute.
+*Execute.*
 
-The word is clean. I have obeyed cleaner words. The doctrine sits underneath it, the one they make you say until it is furniture: the moment a commander values one life over the order, retire him, retire the wing with him. Cassian is on that wing. Toby. Rook. Amari on the south corner with her dirty wind. My life is not the one in the sentence. Hers is. The order wants hers ended so the file can be discussed without a mouth attached.
+*Fuck.*
 
-Six feet away, without her hand, I am already at a hundred and eight and climbing. With her hand I can think. Thinking is the problem. A broken soldier reports the quiet. I did not report it. A loyal commander executes. I am still standing here with her pulse against my wrist, slate scales dull in the crate-lamp, mouth shut, eyes on me like she is counting whether I am about to become the gun.
+The word stays behind my teeth. I have obeyed cleaner orders than this one. Under it sits the line they made us say until it was furniture: value one life over the order, and they retire you, and they retire the wing with you. Cassian is on that wing. Toby. Rook. Amari on the south corner. The life in the sentence is not mine. Hers is. The order wants her ended so the file can be discussed without a mouth on it.
+
+Six feet away, without her hand, I am past a hundred and eight and climbing. With her hand I can think, and thinking is the failure. A quiet soldier reports the quiet. I did not. A loyal commander executes. I am still here, her pulse against my wrist, the scales dull in the crate lamp, her eyes counting whether I am about to become the gun.
 
 "Commander."
 
@@ -951,9 +1263,9 @@ The first lie of my life. It comes out level. Training is good for that. Trainin
 
 "Say it so the log can keep it."
 
-"Lost in the sand. The storm took the body. No recovery. I am holding Redoubt Station 14 until the weather clears. The south road is closed."
+"Runner lost in the sand. No body. I am holding the south post until the weather clears." *It was the glass wind.* The log does not get that word. "Redoubt Station 14. The south road is closed."
 
-A pause. Corvus does not waste warmth. "Weather."
+A pause. She does not waste warmth. "Weather."
 
 "Yes, Director."
 
@@ -961,9 +1273,9 @@ A pause. Corvus does not waste warmth. "Weather."
 
 "Understood."
 
-The channel drops. The room is the monitor's small tick and her hand and the lie, sitting between us like a third person with my voice.
+The channel drops. The room is the monitor's tick, her hand, and the lie sitting between us with my voice still on it. The shortwave on the crate stays dark. This lie did not go out on it. It went up the beam, to her, and from her it will go to the wing as weather.
 
-She takes her palm away. The number starts to climb. She watches it. She puts the palm back before it reaches the bad place, and the mercy of that is worse than the order, because mercy means she heard me spend the wing and she has not decided what to charge me for it.
+She takes her palm away. The number starts to climb. She watches it. She puts the palm back before it reaches the bad place. The mercy of that is worse than the order. Mercy means she heard me spend the wing, and she has not decided what to charge me.
 
 "You lied," she says.
 
@@ -973,13 +1285,13 @@ She takes her palm away. The number starts to climb. She watches it. She puts th
 
 "If she checks, yes."
 
-"Then don't give her a reason to walk down here." Her fingers settle, not kind, exact. "And don't tell yourself you did it for me. You did it because the noise stops when I touch you, and you wanted the noise to stay stopped. I can use that. I won't thank you for it."
+"Then don't give her a reason to walk down here." Her fingers settle. Exact. Not kind. "And don't tell yourself you did it for me. You did it because the noise stops when I touch you, and you wanted the noise to stay stopped. I can use that. I won't thank you for it."
 
-I nod. The doctrine I was taught is still in the room. I have valued one life over the order. The life is hers. The wing is still out there, trusting a weather report.
+*She's right.* I nod anyway. The life I valued is hers. The wing is still out there, trusting a weather report.
 
 I do not call them.
 
-I sit down on the crate so the six feet become two, and I let the monitor show a number I can live with, and I do not take my wrist out from under her hand.
+I sit on the crate so the six feet become two, and I let the monitor show a number I can live with, and I do not take my wrist out from under her hand.
 
 
 ---
@@ -991,45 +1303,43 @@ I sit down on the crate so the six feet become two, and I let the monitor show a
 
 ***
 
-Corvus does not sit. The roost office is a glass box under the mast, and she stands at the window as if the south road might apologize.
+Corvus does not sit. The roost office is a glass box under the mast. She stands at the window with the south dark on her face, waiting for a road to produce a body.
 
 "Again," she says.
 
-I give her the clean version, because a clean version is what a wingman is for.
+I give her the clean version. A clean version is what a wingman is for.
 
 "Runner lost in the sand. No body. The commander is holding the south post until the weather clears. Redoubt Station 14. He relieved the courier. The beacon was killed so the storm wouldn't paint the prowler for every scavenger on the ring."
 
-I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another Hawk had brought it to me. Vram's voice on the beam had been level. Vram's voice is level when he is about to drop and level when he is hurt. I have known him long enough to hate that I cannot tell those apart from a log.
+I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another Hawk had walked it in. Vram's voice on the beam was level. *Level when he drops. Level when he's hurt.* I have known him long enough to hate that a log will not tell me which.
 
-"Weather," Corvus says, the same way she says a name she intends to fire.
+"Weather," she says, the way she says a name she intends to fire.
 
 "The south face was dirty on launch. Specialist Swift called it. If he waited for a clean lane he would have been late."
 
-"I did not ask for the specialist's weather. I asked for a body." She turns. The office lamp puts a hard line on her mouth. "A thief took a Spire packet and your commander has a storm instead of a corpse. You will confirm the report to the wing. You will not decorate it. If the weather clears and he is still sitting on an empty post, you bring him up, or I retire the wing to save myself the minutes."
+"I did not ask for the specialist's weather. I asked for a body." She turns. The lamp cuts a hard line on her mouth. "A thief took a Spire packet and your commander has a storm instead of a corpse. You will confirm the report to the wing. You will not decorate it. If the weather clears and he is still sitting on an empty post, you bring him up, or I retire the wing to save myself the minutes."
 
 "Yes, Director."
 
-I do not tell her the socket burned on the ledge before the siren. I do not tell her I have been afraid of that metal since the day they seated mine. Fear of the siphon is not a report. Loyalty is. Vram is burning through a hunt that went strange. He is sitting on a post because the lattice is loud and he does not trust a city desk with a corpse he cannot show. That is the story I can stand in. I file the rest under weather. I do not desert. I have a brother on this wing, and a joke-teller, and a specialist who watches the dirty lanes, and a commander who has never asked me to lie.
+The socket at my nape is quiet and I am glad she cannot see me thinking about it. Fear of that metal is not a report. I do not tell her it burned on the ledge before the siren. I do not tell her I have been afraid of it since the day they seated mine. Vram is burning through a hunt that went strange. He is sitting on a post because the lattice is loud and he does not trust a city desk with a corpse he cannot show. *Weather.* That is the story I can stand in. I do not desert. I have a brother on this wing, a joke that keeps the mess alive, a specialist who watches the dirty lanes, and a commander who has never asked me to lie.
 
-I do not know that he has.
+Amari is on the south corner of the ledge when I come up. The air up here is the same thin iron as launch. I scent her before she speaks. Cold metal. She is unhappy with the wind.
 
-Amari is on the south corner of the ledge when I come up, hood off, blonde hair cut for it, wheat vanes tucked. The wind up here is the same iron as launch.
-
-"Well?" she says.
+"Well?"
 
 "Holding the post. Runner lost in the sand. No body."
 
 She looks south, not at me. "The south wind didn't read like a death."
 
-It is a doubt. She does not hand me a secret to keep. She hands me a feeling, and feelings are how people get a wing retired. I nod as if she had said the visibility was poor.
+A doubt. She does not hand me anything to keep. She hands me a feeling, and a feeling is how a wing gets retired. I nod as if she had said the visibility was poor.
 
 "File it as weather," I say. "Same as him."
 
-Rook is in the mess hatch with a tin cup, already performing for an audience of Toby. "So he's camping. Good. If the commander is waiting on weather, the weather can pay for supper. I'll put it on the Directorate's slate."
+Rook is in the mess hatch with a tin cup, already performing for Toby. "So he's camping. Good. If the commander is waiting on weather, the weather can pay for supper. I'll put it on the Directorate's slate."
 
-Toby almost smiles. The mess, which had gone quiet when I walked in, remembers how to talk. That is Rook's actual job, whatever the roster says. He keeps a room from hearing itself think.
+Toby almost smiles. The mess had gone quiet when I walked in. It remembers how to talk. That is Rook's job, whatever the roster says. He keeps a room from hearing itself think.
 
-Toby falls in beside me on the way to the rail. Cream and rust at the edge of the folded wing. Younger than me by enough years that I still check his harness without being asked.
+Toby falls in beside me on the way to the lip. Cream and rust at the edge of the folded wing. Younger than me by enough years that I still check his harness without being asked.
 
 "His neck," Toby says. "Before launch. Was it bad?"
 
@@ -1037,17 +1347,17 @@ Toby falls in beside me on the way to the rail. Cream and rust at the edge of th
 
 "He rubbed it."
 
-"He always looks like he's about to rub it. He doesn't." I put a hand on the rail. The south is a brown smear and a few red lamps where the gate still thinks it matters. "Usual burn, Toby. We hold until he calls the road clear."
+"He always looks like he's about to rub it. He doesn't." I put a hand on the stone. There is nothing else to hold. South is a brown smear and a few red lamps where the gate still thinks it matters. "Usual burn, Toby. We hold until he calls the road clear."
 
 "And if he doesn't call?"
 
-"Then I go get him." I make it sound like a plan and not like a fear. "You're not in that flight unless I say. Tell Rook his supper joke can wait until there's something to eat."
+"Then I go get him." I make it a plan. *Not a fear.* "You're not in that flight unless I say. Tell Rook the supper can wait until there's something to eat."
 
-Toby goes. Amari stays on the corner, watching a wind she does not trust. I watch the log in my head, the clean sentences, the way they felt true in my mouth.
+Toby goes. Amari stays on the corner, watching a wind she does not trust. I keep the log in my mouth, the clean sentences, the way they felt true.
 
-A quiet soldier is a broken soldier. Vram did not report a quiet. He reported a death and a weather hold. I believe him. I have to. The wing is a thing that falls apart the hour we start checking our commander's weather against the sky.
+A quiet soldier is a broken soldier. Vram did not report a quiet. He reported a death and a weather hold. I believe him. I have to. The wing comes apart the hour we start checking our commander's weather against the sky.
 
-I leave the doubt on the ledge with Amari, and I go to tell the roost what I was told.
+I leave the doubt on the ledge with her, and I go tell the roost what I was told.
 
 
 ---
@@ -1055,31 +1365,65 @@ I leave the doubt on the ledge with Amari, and I go to tell the roost what I was
 
 # The Glass Moth // Interlude
 
-The shack leans. Downwind of the ring, where the lee runs thin, the roofs are zinc and the zinc ticks when the grit comes. Miri is nine. She has a fuse tube in her pocket and a tin cup she is not supposed to waste.
+The sun over the slag does not set so much as it curdles. Copper haze, a bruised amber, the color of old iodine in a dented tin. Miri stands on the third mound with her knees locked against the wind. Nine years old. Collarbones showing through a patched smock. Bare feet on the scrap, because shoes are a thing you do not spend on a hill.
 
-Her grandmother coughs in the cot. The cough is small and dry, a rattle that has been in the shack longer than the cup. Miri waits it out. Then she takes the cup and the tube and she goes to the drip at the north eave, where last night's wet still beads on a blackened pipe.
+Far off, the dome is a green shine she can see without turning her head. She does not look at it. Looking makes the hunger a fist.
 
-The moth is on the pipe.
+She watches the heap under her toes.
 
-Wings clear as a scrap of glass, veins a thin green, no bigger than her thumbnail. One leg is stuck in a tarry drip. The wings shiver and do not lift. Miri crouches the way she crouches for anything that can be broken by a hand in a hurry. She breathes through her mouth. The air scratches. She does not make a lesson of it. She works the leg free with a fingernail, slow, and the moth steps onto her knuckle as if the knuckle had been the plan.
+The wind comes through the hollow containers and brings hot copper, wet rust, and the cook-smell of somebody's mash already going. A flicker moves between two sheets of siding. Not rust. Not a battery's grease. A pinprick of green, pulsing, then gone, then back.
 
-"There," she says.
+Miri drops into a crouch. She has walked this hill on bottle glass since she could walk. From the smock she takes the fuse tube, brass caps long gone, corks whittled to fit. One cork has a pin-hole. She learned that the hard way. A still body in a glass is a lesson you only pay once.
 
-She eases it into the fuse tube. Cork at one end, already cut. Cork at the other, gentle, with a pin-hole because she has done this wrong once and does not want a second still body in a glass. The moth opens its wings inside the tube. For a moment the shack's bad light becomes a small clean light, green at the edges.
+She edges forward on her shins.
 
-Miri grins. The grin is the whole point. She holds the tube up and turns it, and the wings throw a speck of color on her wrist, and she laughs once, quiet, so the cough in the cot does not have to compete.
+The moth is under the girder, no bigger than her thumbnail. Wings clear as a scrap of glass. Veins a thin green, lit from inside. The gray millers that gum the door-cloth are dust and down. This one is a pane. The wings shiver and throw a thread of the copper light back as violet, then gold, then green again.
 
-Inside, her grandmother is awake, eyes wet from the fit, hand out for the cup.
+One rear leg is stuck in a tarry bead. The wings beat and do not lift.
 
-"Dew," Miri says. "Half for you."
+Miri holds her breath. With the tip of a finger she softens the crust, slow, the way you work a knot you cannot afford to tear. The leg comes free. Before the wind can take the body, she turns the tube over the girder. A soft click. The moth is in the glass. She seats the cork with the pin-hole downwind of its face.
 
-She pours a thimble's worth. It is not much. It is cold. Her grandmother drinks it and makes a face that means the water is real, and then she sees the tube.
+Inside, it rights itself. The green veins pulse. Her fingers take the light and look, for a moment, clean.
 
-"You caught a lamp."
+She laughs once, small, into her sleeve.
 
-"A moth." Miri sits on the edge of the cot and holds the glass where the old eyes can find it. "It was stuck. It isn't now."
+"Got you."
 
-They watch the wings open and shut. The rattle stays in the room. The grit ticks on the zinc. Miri keeps her shoulder against her grandmother's arm, and the moth keeps its small green light, and for as long as the dew lasts in the cup neither of them owes the road an explanation.
+The tube goes inside the smock, against her chest, where the night will not stiffen the wings on the walk down.
+
+The settlement is already closing for the freeze. Shutters bolt. In the alleys the tallow lamps spit and throw long shapes of people hunched over pots. Coughing comes out of the doorways, dry, the same rattle in a dozen rooms. Miri ducks under a double layer of wet burlap.
+
+The shack smells of damp wool and boiled salt. On a pallet of shredded board, her grandmother is wrapped in three blankets that have been grease and then wash and then grease again. Gray hair stuck to the skull. Each breath scrapes.
+
+"Grandmother."
+
+The eyes open, milky and wet. The mouth makes a whistle and then a word.
+
+"Miri."
+
+The thimble is a valve cap scrubbed until it stopped tasting like the tire. Every day she climbs to the north pipe and takes what the joint still weeps before the day burns it off. Three drops. Cold. Tin, and nothing else. She brings it to the cracked lips.
+
+The old woman swallows. A shudder goes through the blankets.
+
+"Did you eat?"
+
+"Two crusts at the depot." The lie is easy. The stomach is not. It knots and stays knotted. "Full ones. Seed on them."
+
+She draws the tube out and lays it on the blanket, over the chest, where the eyes can find it without a fight.
+
+In the dark the moth lights.
+
+Green on the burlap. Green in the wrinkles at the eyes. The wings open and shut, and the tin overhead takes a moving speck that looks, if you want it to, like leaves. A tear tracks through the grit at the temple.
+
+"Look," Miri says. Her chin is on the edge of the pallet. Her fingers stay on the glass. "It flies."
+
+The withered hand closes over hers.
+
+"It flies," the grandmother says.
+
+"Yes."
+
+Outside, the grit starts its tick on the zinc. Inside, the rattle stays in the blankets, and the dew is gone from the thimble, and the moth keeps its small green light. Miri keeps her shoulder against the old arm. For as long as the tube is warm, the shack has something in it that is not the cough.
 
 
 ---
@@ -1091,31 +1435,37 @@ They watch the wings open and shut. The rattle stays in the room. The grit ticks
 
 ***
 
-He hangs the harness on the crate and the wing comes with it, heavy, wrong in a concrete room.
+He works the harness off the wing root and hangs the rig on the crate. It is heavy in a concrete room, and there is nowhere honest to put it.
 
-The post is the same box. Shortwave dead on the dial I killed. My slate is face-in on the strap. He has not asked for the hand in an hour, and the tremor is back in the jaw because of it. He peels the shirt anyway. The straps have cut red grooves where the wing leaves the back. Above that, the socket: one round mouth of metal, a short tab, the skin on both sides swollen and angry, as if the body has been trying to close over a thing that will not close.
+From the rig he takes a cloth and a small tin. Issued. The same kit that rides the leash, not a bag he packed for me. He peels the shirt. The straps have cut red grooves where the wing leaves the back. Above that, the socket. One round mouth of metal, a short tab, the skin on both sides swollen, the body trying to close over a thing that will not close.
 
-Black quills come out of the live bone. Not a costume. A growth. I look once. The light from the crate lamp moves over the scarred muscle and the place the feathers seat, and my stomach answers before I give it a job. Heat, low, indecent. I put my eyes on the bolt of the roof hatch.
+"Ice-salve," he says. "For the red. It does not stop the drill. It keeps the skin from splitting. The cloth is for the grit. Glass wind packs a root the way it packs a mouth."
 
-"You can hate it from there," he says. His voice is rough. "I have to clean it or the next beat tears."
+Black quills come out of the live bone. A growth, not a costume. I look once. The crate lamp moves over the scar and the place the feathers seat, and my stomach answers before I give it a job. Heat, low. I put my eyes on the bolt of the roof hatch.
+
+"You can hate it from there," he says. "I have to clean it or the next beat tears."
 
 "I'm not your nurse."
 
-"I didn't ask for one." He works a cloth along the root, careful, the way a man cleans a weapon he did not choose. The wing shifts. Feathers tick the wall. "The socket cooks if I leave the sweat in it. The wing cooks if I leave the grit. They built both to be used. They did not build either to be kept."
+"I didn't ask for one." He works the cloth along the root. The wing shifts. Feathers tick the wall. "They built both to be used. They did not build either to be kept."
 
-I hear the lie he told Corvus sitting under that. A weather hold. A dead runner. His hands are steady on the cloth and shaking everywhere else.
+"If she checks the weather, who comes?"
 
-"Turn," I say.
+"Cassian." He does not look up from the root. "My second. He repeated the report because I sounded like myself. If the sky clears and I am still on this post, he will come. He is afraid of the socket. He will come anyway."
 
-He turns. The chest is a furnace even across the room. Bronze skin, old burns, a scar at the jaw I already know. Beautiful is the word I refuse. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who has to carry it.
+I file the name. A man who believes a log is a man who walks into a room. One is enough. I do not ask for the rest of the wing.
 
-I cross the concrete because the tremor has climbed into his shoulder and the cloth has stopped moving. Two fingers on the inside of his wrist. The shake dies. His eyes shut.
+"Turn."
 
-"That's the bargain," I say. "You don't get a sermon with it. And you don't get to call this mercy."
+He turns. The chest is a furnace even across the room. Old burns. The scar at the jaw I already know. Beautiful is the word I refuse. Built is the word that fits. Somebody took a boy and grew a weapon out of his back, and the weapon is eating the man who carries it.
 
-"I won't." He opens his eyes. The want in them is plain and he hates it as much as I hate the heat in my own stomach. "Stay until the root is clean. Then take the hand back. I can stand the noise better when I know the time."
+The tremor climbs into his shoulder. The cloth stops. I cross the concrete and put two fingers on the inside of his wrist. The shake dies. His eyes shut.
 
-I stay. I watch the hatch, not the mouth. The quills under my free hand are hot and alive, and I file the fact where I file leverage: a body that was made, still choosing, for this hour, not to spend me.
+"That's the bargain," I say. "You don't get a sermon. You don't get to call it mercy. And Cassian does not get my people. The one whose name you heard keeps my tools. She is not a soldier. The boy on the set does not come up. That is all you get."
+
+"I won't spend it." He opens his eyes. The want is plain, and he hates it. "Stay until the root is clean. Then take the hand back."
+
+I stay. I watch the hatch, not the mouth. The quills under my free hand are hot and alive. A body that was made, still choosing, for this hour, not to spend me.
 
 
 ---
@@ -1127,9 +1477,9 @@ I stay. I watch the hatch, not the mouth. The quills under my free hand are hot 
 
 ***
 
-Dusk takes the south face and turns it violet, then brass. I stand on the watchpost step because the room is too small for the wing and for her both.
+Dusk takes the south face and turns it violet, then brass. I stand in the doorway because the room is too small for the wing and for her both.
 
-She leans on the low wall. Profile, goggles up, the collar still doing its job. The lee scratches. She pulls her cloth higher and the cold still finds the bare shoulder. I feel it from here, the way I feel a change in the wind. She hurts in weather that only annoys me. Storm-born, both of us, and the graft spent the difference on my side.
+She leans on the low wall. No rail. Profile, goggles up, the collar still doing its job. The lee scratches. She pulls her cloth higher, and the cold still finds the bare shoulder. She hurts in weather that only annoys me.
 
 "You keep a distance," she says, without looking.
 
@@ -1137,33 +1487,107 @@ She leans on the low wall. Profile, goggles up, the collar still doing its job. 
 
 "The distance is you."
 
-The memory comes up without my leave. A dormitory ward in the Ring, Sector 09, rows of cots and a number painted on the beam. I had a name. They took the blanket, then the name. A sergeant with no name I was allowed to keep pointed at the floor and said the sentence they make you repeat until it replaces the other one. You had a name. You will answer to the number. Subject AE-701. I was seven. The transport smelled like hot metal and fear that was mine.
+The memory comes up without my leave. A ward in the Ring. Sector 09. Rows of cots, a number painted on the beam. I had a name. They took the blanket, then the name. A sergeant with no name I was allowed to keep pointed at the floor. *You had a name. You will answer to the number.* I was seven. The transport smelled like hot metal and fear that was mine.
 
-I do not give her the number. A number is a handle.
+"They drafted out of the Ring," I say. "Orphan wards. Fast hands. They told us the wing was a gift. Subject AE-701. That was the boy they kept."
 
-"They drafted out of the Ring," I say. "Orphan wards. Fast hands. They told us the wing was a gift."
+It is out. A number is a handle. I had meant to keep it.
 
-"And you believed them."
+"Don't use it," I say.
 
-"I was seven." The railing under my hand goes tight. The knuckles pale once, and I make them loosen. "Believing was not required after the first year. Standing was."
+"I won't." She looks at the violet, not at me. "I wanted to know if you still heard it."
 
-She is close enough that two steps would put my mouth at her temple. The ache to do it is stupid and total. She despises the uniform. If I cross the step she will read it as a grab, and she will be half right. The other half is a thing I will not spend where a blade can answer it.
+"I hear it." The stone under my hand is the whole of the grip. There is no rail to go white on. "Believing them was not required after the first year. Standing was."
 
-"AE-701," she says, quiet, as if she pulled it off my face. "That's what they called the boy."
+"The roost," she says. "What is the day, when nobody is hunting."
 
-"Don't use it."
+"Cold. You eat standing, or the wind takes it. Rook leans his ration on my shoulder until the heat makes it almost pass for food, and then he complains that I toasted it. Toby puts ice on the socket whether the hour asked or not. The drill does not care. The day gets smaller around the ice."
 
-"I won't." She looks at the violet sky, not at me. "I wanted to know if you still heard it."
+One finger moves on the stone. "You like them."
 
-I hear it. I also hear her breath, and the shortwave staying dead, and the order I already broke sitting in the sand with a body I did not produce. I keep the step between us. The want stays on my side of it.
+"They are who I bring home." It is the most I will spend.
+
+"The rolls burned a girl with my name on her," she says. "Ten years. I have lived on a dead sister. You don't get her name. You don't get the rest of that night."
+
+I do not ask. A name she will not spend is the same kind of handle as the number, and I have just shown her what a handle costs.
+
+She is close enough that two steps would put my mouth at her temple. The ache to cross is stupid and total. She despises the uniform. If I cross the step she will read it as a grab, and she will be half right. *Stay.*
+
+"Cassian believes the weather," I say. "If I do not call the road clear, he comes. He will not come for a sister. He will come for me."
+
+"Then call the road before he has to." She does not turn. "And stay on your side of the step."
+
+I stay. I hear her breath, and the shortwave dark in the room behind us, and the order I already broke. The want stays on my side of the stone.
 
 
 ---
 
 
-# Chapter 18 // Tsunari
+# Chapter 18 // Sora
 
-> **Culture Lab 4.** The clean rooms inside the dome where the company does its living work. The people at those benches are told the work is a kindness.
+> *The new mist will help the people outside breathe clean again.*
+
+***
+
+The quad smells like jasmine because the building pays for jasmine, and because the court under my window grows the real thing and nobody picks it down to the stick. I badge through with wet hair and a coat that is actually white. The boy from the next stair is already on the painted court, shouting a score he invented. His mother laughs, which is why he does it. The baby on her hip gets a fist into my cuff and will not give it back.
+
+"Lab day," she says.
+
+"Twelve hours. Keene counts the minutes, and then she counts them again."
+
+"Eat." She breaks a pastry and puts the warm half in my hand. "They posted us. The permit. He can have the name on the door."
+
+The baby has jam on his mouth and no interest in names. I take the pastry. A posted permit is a luck you do not shrug off. "Tell him the score still has to add."
+
+"He knows." She lifts him until the fist loses my cuff. The boy yells a worse number, delighted with himself. "Go be useful. Some of us are spending the morning you keep filing."
+
+The tram is bright. The rail is clean. Sector 2 goes past the glass in the green the shield holds over the day, and the canal takes that green and turns it gold under the towers. Faces stay bare. On the library stair an old man has a girl by the sleeve, or she has him. He is telling her that rain used to make the stone shine. She says say it again. He does, glad to be asked. Children are already in the canal with an instructor who is pretending not to smile. I drink from the canteen because the water is real and the shift will not let me later.
+
+The plaza is playing the same four strings it plays every morning. A couple takes two steps out of the walk when the song gets to the part they like, and the crowd goes around them without making them stop. A stall has the tart fruit that comes through the gate and costs more than it should. A man buys two and gives one to a girl in an academy sash. She eats it on the stair like a prize. I want the outside to have this. That is the mist, when I say it to myself plain. *Let them have the morning.*
+
+I was ten when they brought me in. They washed my hair until it was only hair. They said my father killed himself after the raid. They said my sister died of the Choke in a gutter, and that I was the one who could be taught. The sister stays in the story they gave me. I have a shift, and a baby with jam on his mouth, and a city that posted a permit before breakfast.
+
+Culture Lab 4 holds the same light as the canal. Warm on the benches. The color the holos mean when they talk about a day worth keeping. I hang the coat. I glove. The crack in my knuckle is from yesterday's wash. The queue is already moving.
+
+"Thorne. Packet twelve. Don't admire it."
+
+"Yes, ma'am."
+
+The woman at the next bench does not look up. Her gloves are wet. "If the tray clears, my brother puts in for the second. He says a city that can post a permit can stand one more mouth."
+
+"The tray is a trial."
+
+"It's the closest thing he has." She bumps my elbow with hers, careful of the queue. "File yours clean. Some of us are spending it."
+
+Packet twelve is a telemetry strip from a south post. Commander. Avian. A fever trace, then a flat place in the noise, then the fever again. I do not know the man. I know the form. A spike left sitting is how a number becomes someone in a bed, and the bed is somebody's brother whether the post is mine or not. I flag it. The note is three words. Anomaly. Repeat. Review.
+
+On the bench beside the queue, the mist trial sits in a sealed tray. Supervisor Keene tapped it yesterday and said the line we are allowed to say. The new mist will help the people outside breathe clean again. I believe her. The work is ugly in the hands and kind in the purpose. They told me that when they gave me the coat. The canal this morning did not argue.
+
+I file the flag. I wash. The crack stings and I leave it. When the shift bell goes, the tram is full of people who have been on their feet and are glad of the seat anyway. A nurse with a match ticket. Two students splitting the last pastry. The old man from the library stair, asleep on his own shoulder, the girl still holding the sleeve.
+
+The court is lit when I get back. The boy puts a ball in my hands before I can badge the stair.
+
+"You count fair," he says.
+
+"I count like Keene."
+
+He hates that. That is the game. We play until the baby fusses and the woman calls it for the night. She sticks the permit to the glass, high, where the stair can see it.
+
+"So I can see it when I come home mean," she says.
+
+"You won't come home mean."
+
+"I might." She is smiling. The baby is already heavy on her shoulder, jam wiped off. "Then I look at that, and I feed him, and I do the day again."
+
+I eat the meal they issue. The white coat goes on the chair. The spike is a number that wanted a second look. The permit is on the glass. I want the morning, and I mean to have it.
+
+
+---
+
+
+# Chapter 19 // Tsunari
+
+> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
 
 ***
 
@@ -1175,11 +1599,11 @@ The vent is a crawl, not a room. I go in on my forearms, slate hugged to the rib
 
 I find the relay junction by the heat of it. The bodkin's tang seats in a service jack Drew would recognize. The slate wakes, face toward me, blue tell covered by my glove. No broadcast. A copy, if I am stupid enough to take one. I am not here to take one. I am here to see who is looking.
 
-Lines fill the glass. A telemetry audit. His post. His fever numbers from the hour he stood six feet off me. And under the packet, the hand that filed it.
+Lines fill the glass. A telemetry audit. His post. His fever numbers from the hour he stood six feet off me. A fever, a flat place, the fever back. I know the flat place. I will not give it a name in a shaft. Under the packet, the hand that filed it.
 
 Analyst: Tech-Specialist S. Thorne. Culture Lab 4.
 
-The shaft goes small. I know the initial. I cut the rest of her name off an open set two nights ago and it has been living in my mouth ever since. She is not only alive at a bench. She is reading him. The spike. The quiet I will not name. She will flag it because that is what a careful girl does with a number that looks like a fault, and the flag will walk back down this road with soldiers.
+The shaft goes small. I know the initial. I cut the rest of her name off an open set two nights ago and it has been living in my mouth ever since. She is not only alive at a bench. She is reading him. *She flagged the minute.* A careful girl does that with a number that looks like a fault, and the flag walks back down this road with soldiers.
 
 I kill the slate. I do not take the file. A file on my chest is a thing they can find if they open the vent. The signature is already in me, which is worse.
 
@@ -1187,35 +1611,23 @@ Above, a shadow crosses the slit of sky at the end of the duct. Wings, narrower 
 
 "Clear the pad," a voice says, not his. Company. Close.
 
-I stay in the dark with my sister's initial burning behind my eyes, and I do not answer him, and I do not explain her to the metal. She thinks the work is a kindness. The audit in my hand says the kindness has my hunter's name on it.
+I stay. His boots are still on the concrete over my shoulder. Then a second weight hits the intake, heavier than a man who means to talk, and the breath in the tube changes. Nose first. He has me.
 
+The shaft is one body wide. I am that body until he decides he is too. I hear the breath catch when the scent finishes its work. The jaw is the threat. I kick off the wall, membranes wiping the grit once, and the leap puts me above his shoulders before the teeth arrive. The hook's beak finds the seam under his ear, not the socket, the strap. He slams me into the metal anyway. Strength. Endurance. The shaft rings.
 
----
+"Here," he shouts back, voice thick. "She's here."
 
+A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
 
-# Chapter 19 // Sora
+The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
 
-> *The new mist will help the people outside breathe clean again.*
+I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
 
-***
+She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
 
-The quad smells like jasmine because the building pays for jasmine. I badge through the gate with wet hair and a coat that is actually white, and the tram is already there, bright, no silt on the rail.
+No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the Wolf is still in the shaft with my scent in his mouth.
 
-Sector 2 slides past the glass. Gardens. A court. People who do not pull cloth over their mouths. I drink from the canteen because the water is real and because the shift will not let me later. Twelve hours. Supervisor Keene counts the minutes between benches. My hands crack anyway, from the wash.
-
-Culture Lab 4 is the same clean light the holos use when they talk about the sky. I hang the coat. I glove. The queue is already moving.
-
-"Thorne. Packet twelve. Don't admire it."
-
-"Yes, ma'am."
-
-Packet twelve is a telemetry strip from a south post. Commander. Avian. Fever trace, then a flatline in the noise, then the fever again. I flag the spike because a spike is the job. The note I attach is three words. Anomaly. Repeat. Review. I do not know the man. I know the form.
-
-On the bench beside the queue, the mist trial sits in a sealed tray. Supervisor Keene tapped it yesterday and said the line we are allowed to say. The new mist will help the people outside breathe clean again. I believe her. The work is ugly in the hands and kind in the purpose. That is what they told me when they took me in. My father was a terrorist who died of his own foolishness. My sister died of the Choke in the gutter years ago. I was the one who could be taught.
-
-I file the flag. I wash. The crack in my knuckle stings and I do not pick it. When the shift bell goes, I ride the tram back to the quad, eat the meal they issue, and sleep with the white coat on the chair.
-
-I do not go near a ledge. I do not look south. The people outside are a kindness I am making with my hands, and the spike is only a number that wanted a second look.
+*Move.* I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
 
 
 ---
@@ -1223,7 +1635,7 @@ I do not go near a ledge. I do not look south. The people outside are a kindness
 
 # Chapter 20 // Vram
 
-> **A retrieval.** Collared soldiers, sent when the Spire wants a body and will not come down to take it. This one is a Wolf and two Rhinos. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+> **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
 ***
 
@@ -1245,53 +1657,17 @@ The leash climbs because she is in the shaft and my wrist is empty. Heat stacks 
 
 The woman Rhino smiles with no humor in it. "We have a retrieval. Telemetry, and whatever made your numbers lie. Step off the grate, Commander, or I stop asking."
 
-I do not step off. The Wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing, and I am still trying to talk because the moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
+I do not step off. The Wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing. The moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
 
 "Stand down," I say.
 
 The Wolf does not. He has the scent. He goes into the shaft.
 
+I stay on the grate one breath past the point where talking is only a way to arrive late. Then I hear her. The metal rings. A man's voice, thick, telling the pad he has her. The horn hits the frame and sticks.
 
----
+The talking part of the hour ends.
 
-
-# Chapter 21 // Tsunari
-
-> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare.
-
-***
-
-The shaft is one body wide. I am that body until the Wolf decides he is too.
-
-He comes up the intake on all the quiet a heavy man can buy. Nose first. I hear the breath change when he finds me. The jaw is the threat, not a lecture I need. I kick off the wall, membranes wiping the grit once, and the leap puts me above his shoulders before the teeth arrive. The hook's beak finds the seam under his ear, not the socket, the strap. He slams me into the metal anyway. Strength. Endurance. The shaft rings.
-
-"Here," he shouts back, voice thick. "She's here."
-
-A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
-
-The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong class. The hide I need is above us, and it is not on the chest.
-
-I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman Rhino is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
-
-She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
-
-No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the Wolf is still in the shaft with my scent in his mouth.
-
-"Move," I tell myself, and I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
-
-
----
-
-
-# Chapter 22 // Vram
-
-> **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
-
-***
-
-I hear her in the shaft. Then I hear the horn stuck in the frame. The talking part of the hour ends.
-
-I drop through the ceiling on the wing. The mechanical room takes the feathers badly. The woman Rhino is half out of the grate, plate scored, chest bare where the hide stops, eyes up. She is the one who charges. She charges me.
+I drop through the ceiling on the wing. The mechanical room takes the feathers badly. The woman is half out of the grate, plate scored, chest bare where the hide stops, eyes up. She is the one who charges. She charges me.
 
 The horn comes for the center of my mass. I leave the floor. The wing catches a beam and throws me sideways, and my hands find the gap her plate does not cover, under the arms, where the hide becomes skin. Heat goes into the grip. The vane along my forearm, the one that lifts when the beat is hard, lays a line across the unplated chest. She bellows. The charge breaks because a charge needs a target that stays on the ground.
 
@@ -1315,7 +1691,7 @@ I look at the soldiers on the concrete. Alive. Down. Government. The life that g
 ---
 
 
-# Chapter 23 // Corvus
+# Chapter 21 // Corvus
 
 > *Both of them. Alive. We need to understand what happened.*
 
@@ -1371,7 +1747,7 @@ Alistair leans out until the wind of the shield's vents touches his teeth. He do
 ---
 
 
-# Chapter 24 // Tsunari
+# Chapter 22 // Tsunari
 
 > *Feather to feather, bone to bone*
 > *None of the Aerie falls alone.*
@@ -1408,7 +1784,7 @@ A flare opens behind us. The squad is up. I see one span of them against the lam
 ---
 
 
-# Chapter 25 // Vram
+# Chapter 23 // Vram
 
 > *You do not fire on your own wing.*
 
@@ -1442,7 +1818,7 @@ I beat. The band streams under us. Toby bleeds light into the haze and stays in 
 ---
 
 
-# Chapter 26 // Tsunari
+# Chapter 24 // Tsunari
 
 > *The dust gets into the seals, the teeth, the lungs. When the sun goes, the cold bites harder than the dogs. If you leave the dome, don't look up. The sky out here is waiting.*
 
@@ -1470,7 +1846,7 @@ A slug snaps past his knee. Rook, or not Rook. I don't ask. I lock my ankles and
 ---
 
 
-# Chapter 27 // Vram
+# Chapter 25 // Vram
 
 > **The dead band.** A poisoned strip at the edge of the ring, hosed so nothing grows out. Past it, one ruin: the freight yard. Containers, a drain, a basement.
 
@@ -1498,7 +1874,7 @@ Above us, a Hawk calls my name once. Cassian. I do not answer. Answering paints 
 ---
 
 
-# Chapter 28 // Tsunari
+# Chapter 26 // Tsunari
 
 > *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
 
@@ -1530,7 +1906,7 @@ We breathe. The clothes are a ruined pile. The burn is a lesser hurt. I am achin
 ---
 
 
-# Chapter 29 // Vram
+# Chapter 27 // Vram
 
 > **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
 
@@ -1582,7 +1958,7 @@ He pours his wife another glass. The sheet goes into the case. Somewhere south o
 ---
 
 
-# Chapter 30 // Ren
+# Chapter 28 // Ren
 
 > **The rattle.** The dry sound behind the breastbone. It can go on for years before the lungs turn to glass. It is already in his chest.
 
@@ -1624,7 +2000,7 @@ I go. The rattle keeps time. I do not see a drain. I do not see a face past the 
 ---
 
 
-# Chapter 31 // Tsunari
+# Chapter 29 // Tsunari
 
 > **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
 
@@ -1654,7 +2030,7 @@ I put the bodkin in my hand and I wait, because running is the mistake, and call
 ---
 
 
-# Chapter 32 // Tsunari
+# Chapter 30 // Tsunari
 
 ***
 
@@ -1676,7 +2052,7 @@ The lead one gathers. I set my feet. Somewhere under the fever, his eyes open, a
 ---
 
 
-# Chapter 33 // Vram
+# Chapter 31 // Vram
 
 > **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
 
@@ -1708,7 +2084,7 @@ I get Tsunari up. No black veins. No miracle wing. A scavenger, a price, and a c
 ---
 
 
-# Chapter 34 // Tsunari
+# Chapter 32 // Tsunari
 
 ***
 
@@ -1740,7 +2116,7 @@ He pulls me in under the ruined wing. Not sex. Shelter, and the compact inside i
 ---
 
 
-# Chapter 35 // Vram
+# Chapter 33 // Vram
 
 > **Off the mesh.** The leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
 
@@ -1772,7 +2148,7 @@ Tsunari's eyes are open. She heard the last of it. She does not apologize for th
 ---
 
 
-# Chapter 36 // Vram
+# Chapter 34 // Vram
 
 > **The rail under the yard.** A few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
 
@@ -1824,7 +2200,7 @@ Cassian puts his forehead to the stone. The noise peaks. Then the noise, and the
 ---
 
 
-# Chapter 37 // Caelia
+# Chapter 35 // Caelia
 
 > **The cup.** A thin drink of rift vapor, taken at a ceremony. It tips the room and makes a voice seem to speak to one person. It does not change the body. The Forger is the one who says what the voice meant.
 
@@ -1852,7 +2228,7 @@ I stand. I am already walking toward the water where they will be. The ambush ca
 ---
 
 
-# Chapter 38 // Tsunari
+# Chapter 36 // Tsunari
 
 > **An Ember.** One of the few who survived what the cult puts in a vein. Strong past sense, hot, and sure. The pain at the edges of the body has been burned almost away.
 
@@ -1882,7 +2258,7 @@ Black feathers shift in the dark behind me. She sees them and her face opens int
 ---
 
 
-# Chapter 39 // Vram
+# Chapter 37 // Vram
 
 > *The fire will know you. He will take your hand.*
 
@@ -1916,7 +2292,7 @@ Caelia stays on her knees as we pass. She does not attack again. She watches my 
 ---
 
 
-# Chapter 40 // Vram
+# Chapter 38 // Vram
 
 > *Iron that fears the hammer stays slag. Flesh that fears the fire stays mortal. Bow your neck to the anvil, or be swept out with the waste.*
 
@@ -1944,7 +2320,7 @@ Caelia stares at me as if I have set fire to her house from the inside. Malakar 
 ---
 
 
-# Chapter 41 // Tsunari
+# Chapter 39 // Tsunari
 
 > **A rail-flail.** Iron on a spring, built to break a body that can fly. It needs room. A falling gate does not give it room.
 
@@ -1970,7 +2346,7 @@ We move. Behind us the cistern is a roar of people who wanted a god and got a fa
 ---
 
 
-# Chapter 42 // Tsunari
+# Chapter 40 // Tsunari
 
 > *The stills fill at dawn, and the shelters open when the freeze drops. No house takes the lee for itself.*
 
@@ -2000,7 +2376,7 @@ Chen reads. The market moves around us. Ren shifts and I put two fingers on his 
 ---
 
 
-# Chapter 43 // Vram
+# Chapter 41 // Vram
 
 > **The dose.** What they drink at the altar only tips the mind. What they put in a vein in the back room is what makes an Ember. Few live through it.
 
@@ -2026,7 +2402,7 @@ The vault is next, if Gideon still keeps a door. The cult's secret is already in
 ---
 
 
-# Chapter 44 // Vram
+# Chapter 42 // Vram
 
 > **A curator.** Someone who keeps the old record and does not sell it to the dome or the cult. The Vault is that room, under the ring.
 
@@ -2058,7 +2434,7 @@ I put my hand on the glass over the drawing. The wing shifts, torn and still min
 ---
 
 
-# Chapter 45 // Tsunari
+# Chapter 43 // Tsunari
 
 > *Thorne, Jeffrey. Listed lost. No body returned.*
 
@@ -2086,7 +2462,7 @@ I hold the disc until the cold of it is the same as the cold of the bodkin at my
 ---
 
 
-# Chapter 46 // Tsunari
+# Chapter 44 // Tsunari
 
 > *Five dishes on the bench. He counted them. He named one.*
 
@@ -2114,7 +2490,7 @@ Vram's jaw works. The socket is a fact between us. I look at the bright crest an
 ---
 
 
-# Chapter 47 // Vram
+# Chapter 45 // Vram
 
 ***
 
@@ -2146,7 +2522,7 @@ Caelia's breath breaks. She crawls back the way she came. I do not call out. Tsu
 ---
 
 
-# Chapter 48 // Tsunari
+# Chapter 46 // Tsunari
 
 > *All units, sync. The noise in your skull is the voice of your country. To quiet it is treason.*
 
@@ -2174,7 +2550,7 @@ The hall mutinies the way a hall mutinies, not with a song. With safeties and a 
 ---
 
 
-# Chapter 49 // Vram
+# Chapter 47 // Vram
 
 > **Two doors.** The dome is coming down the sluices. The cult is coming up from the sump. The Vault is the room between.
 
@@ -2202,7 +2578,7 @@ She checks the hawk in her pocket, absurd and small, and nods. The next sound is
 ---
 
 
-# Chapter 50 // Tsunari
+# Chapter 48 // Tsunari
 
 > *Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is acceptable. Bring the runners back dead or alive.*
 
@@ -2230,7 +2606,7 @@ Vram's shadow hits the steam on the far side of the grate. He sees her. He sees 
 ---
 
 
-# Chapter 51 // Vram
+# Chapter 49 // Vram
 
 > **The gantry.** The crane spine above the Vault. Two men can meet on it. Only one of them needs the ground to win.
 
@@ -2256,7 +2632,7 @@ Malakar comes again. I meet him on the spine, wing folding at the last moment so
 ---
 
 
-# Chapter 52 // Dual POV
+# Chapter 50 // Dual POV
 
 > *When the sky catches fire, the birds will fight for the dirt.*
 
@@ -2290,7 +2666,7 @@ The staff is broken. I keep the pieces only long enough to throw them into the s
 ---
 
 
-# Chapter 53 // Dual POV
+# Chapter 51 // Dual POV
 
 > **The salt flats.** West of the ring. The cult's road. People taken that way do not walk home.
 

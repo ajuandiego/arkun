@@ -1,23 +1,23 @@
 # Chapter 46 // Tsunari
 
-> *Five dishes on the bench. He counted them. He named one.*
+> *All units, sync. The noise in your skull is the voice of your country. To quiet it is treason.*
 
 ***
 
-Gideon pricks my finger and does not apologize. A drop. The old spectrometer drinks it. The Vault's cryo-racks tick. Vram stands at my shoulder and does not touch the machine.
+They corner him in the quartz hall with rifles that know his name.
 
-The light breaks.
+Rook talks so the room cannot go holy. "If we're shooting the commander, I want it noted that my optics were dusty last time and somehow he lived. Suspicious."
 
-Five crests on the far wall. One burns at the top, the body I have lived in since I was seventeen. Raptor. Under it, four quieter bands. He names them without a chart and without a job title. Avian. Lycan. Ceraton. Galvan. Dormant. Present. I feel the floor tilt the way it tilted for the shorthand, only this time the hand that did it is still the same man, and the hand was in my vein when I was a girl.
+Toby lowers his gun first. Cream and rust, the vane still split from the drone. He does not ask where his brother is. I do not tell him. Cassian is a silence I do not put in a boy's hands in a room full of triggers.
 
-"He counted five dishes," I say. "He named one."
+"Veda," I say. A woman with a socket and a tremor in the aim. "Ferrin. Look at me. I'm a hand. If you want the noise to stop for one minute, you say so. If you don't, you shoot and we find out what partners means."
 
-"He hid four in a daughter because a slide can be stolen and a girl who does not know her own inventory is harder to file." Gideon watches the crests, not my face. "You live in the Raptor. That one has no street name. The sleepers do. Hawk. Wolf. Rhino. Spark. You wear no collar. The shape can ground a leash. The socket stays in his neck. The fever stays his. If you came here for a cure that walks, you are in the wrong room."
+Veda swears and nods. I put my palm on the side of her neck, beside the socket, and I aim. The tremor dies. Her eyes flood. She does not understand it. She believes it. Ferrin Calder, Rook when he is not performing, offers his throat like a joke that has run out. The same minute. The same quiet. I take my hands back. The quiet stays long enough for them to hear themselves.
 
-Vram's jaw works. The socket is a fact between us. I look at the bright crest and the four sleeping ones and I stay the woman who held a jack in a door. I am also the place he put the rest.
+Nothing leaves in a pocket. Gideon is still in the lab with a thing he will not call finished. The Ring does not get a mist tonight. Two soldiers get a minute. That is the whole charity.
 
-"He wrote Keystone on the shape," Gideon says, almost gently. "Null-Resonance on the ground. A hand, aimed, on one soldier. You have been doing it without the name."
+Toby presses a small carved hawk into my palm. Quartz. Crude. "In case you forget you can fly," he says, gentle, wrecked. "It's a bird. Not a claw. Don't make it weird."
 
-"I didn't know."
+"Too late," Rook says, and he turns his rifle toward the door the company will use.
 
-"That was his mercy and his crime." He kills the lamp in the spectrometer. The crests die. The knowledge does not. "Sit down before you decide to be brave. Brave, in this room, is how a girl gets herself kept."
+The hall mutinies the way a hall mutinies, not with a song. With safeties and a choice. Vram looks at me over their heads. The order in their skulls is still treason. They make it anyway.

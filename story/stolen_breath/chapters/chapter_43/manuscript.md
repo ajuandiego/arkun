@@ -1,21 +1,23 @@
-# Chapter 43 // Vram
+# Chapter 43 // Tsunari
 
-> **The dose.** What they drink at the altar only tips the mind. What they put in a vein in the back room is what makes an Ember. Few live through it.
+> *Thorne, Jeffrey. Listed lost. No body returned.*
 
 ***
 
-We go back for the proof because Chen's hours will not matter if the sump is building an army in a closet.
+The disc is heavy glass in my hands. Uncatalogued. The lip of the case reads Ghost Beacon 09-Omega. Gideon gives me a loupe and stands back, which is how a curator shows he will not narrate a grief.
 
-The distillation room is behind the cistern we fled. Quiet now. The altar cup is a stain on a bench. I do not replay Caelia's ceremony. I know what a thin drink does. It tips a mind. It does not make the thing that hit Tsunari in the water.
+The etch is small. Mathematical shorthand along the margin. My father's hand. I know it the way I know the twist of the bodkin. He listed things by counts. He did not waste a word. The company listed him lost. No body returned. The disc argues without raising its voice. A transmission from the far water. A hand that was still counting.
 
-The back room is the needle. A cot with restraints. A tray. A recorder left in a hurry, optical, still warm. Tsunari seats a lead and the slate drinks the file without broadcasting it.
+I do not say he is in the room. He is not in the room. The Cradle is not a place I let my mouth shape. The seed is the shorthand, and the seed is enough to make the floor feel dishonest.
 
-Malakar, younger by a year on the image, screaming while something goes into the vein. The scream changes. What stands up is stronger, hotter, sure, the pain burned off the edges. An Ember. The tray beside the cot has three more restraints and two empty ones. A handful. Not a nation. Suicidal shock troops, made in a room we were dragged past.
+"Ten years," I say.
 
-"Few live through it," she says.
+"Received and unread by anyone who loved him," Gideon says. "I do not love him. I kept the glass. There is a difference."
 
-"He lived. She lived. The rest are the kneelers, or the dead." I pocket nothing. The copy sits in her slate. "We don't drink it. We don't carry the needle. We carry the picture."
+Vram is in the doorway, wing low, giving me the privacy of not touching me yet. I want the touch and I want the minute. I put the loupe down. My eyes burn and I do not give the Vault the performance of a daughter collapsing.
 
-A step in the hall. We kill the slate's tell. The step goes on, a patrol that is bored. We leave by the pipe we came in, the recording against her ribs, the altar behind us doing what altars do when nobody is performing.
+"He sent this," I say. "That is the whole fact I am willing to hold. If I hold more, I will run at an ocean."
 
-The vault is next, if Gideon still keeps a door. The cult's secret is already in our hands, small and filthy and enough.
+"Then hold the fact," Vram says.
+
+I hold the disc until the cold of it is the same as the cold of the bodkin at my skull. Listed lost. A hand that kept writing. I wrap the glass and I put it where the schedule skin already sits, two truths that refuse to stay rumors, and I walk back to the lamp before I ask Gideon what the next truth costs.

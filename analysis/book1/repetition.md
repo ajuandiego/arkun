@@ -28,9 +28,9 @@ The hundred most-used words in the manuscript end at `then` (98). Four specializ
 | tendon | 4 |
 | carbonized | 1 |
 
-`obsidian` is the habit. It appears in 33 chapters, usually once or twice, and peaks at 5 in chapters 21 and 44. Chapters 1 and 10 have 4.
+`obsidian` is the habit. It appears in 33 chapters, usually once or twice, and peaks at 5 in chapters 19 and 42. Chapters 1 and 10 have 4.
 
-`pneumatic` bunches in chapter 3 (6) and chapters 31 and 32 (3 each).
+`pneumatic` bunches in chapter 3 (6) and chapters 29 and 30 (3 each).
 
 ## Vance
 
@@ -38,7 +38,7 @@ The word `Vance` appears 22 times, on four people.
 
 | Who | Where |
 | --- | --- |
-| Tobin "Toby" Vance | The squad brother. Chapters 2, 6, 17, 18, 39, 42, 43, 44. |
+| Tobin "Toby" Vance | The squad brother. Chapters 2, 6, 17, 18, 37, 40, 41, 42. |
 | A scarred Gryphon sergeant named Vance | The instructor who kicked child Vram. Chapters 2 and 12. The page does not call him the boys' father. |
 | A scout in the mirror field | Chapter 3. The second scout shouts "Vance, report!" |
 | Dr. Alistair Vance | Dome surgeon in the sterile-room interlude. No tie to the squad. |
@@ -79,11 +79,11 @@ No coined word in Book 1 uses `ea`. The leash, the Great Cleave, Ghost Beacon, h
 | white knuckles | 5 |
 | slug | 5 |
 
-White knuckles: chapter 7 (twice, the same scene), then chapters 21, 30, and 39.
+White knuckles: chapter 7 (twice, the same scene), then chapters 19, 28, and 37.
 
-`thoracic` and `pectoral` sit in the wing and muscle passages (chapters 2, 4, 5, 11, 16, 18, 21, 26, and the sterile-room surgery among them).
+`thoracic` and `pectoral` sit in the wing and muscle passages (chapters 2, 4, 5, 11, 16, 18, 19, 24, and the sterile-room surgery among them).
 
-`slug` is ammunition every time: kinetic slug or flare-slug, in chapters 18, 23, 25, 28, and 42.
+`slug` is ammunition every time: kinetic slug or flare-slug, in chapters 18, 21, 23, 26, and 40.
 
 The air or the wind is given a taste twice: chapter 1 ("the air tastes like") and chapter 2 ("the wind tastes of"). The other taste hits are blood, rations, or words on the tongue. Smell is the wide habit: 88 hits across most of the book.
 
@@ -93,19 +93,19 @@ The same three measurements keep returning. Several of these sentences stack two
 
 | Measurement | Times | Where |
 | --- | ---: | --- |
-| Six feet four | 11 | 2, 4, 5, 7, 9 (twice), 11 (three times), 14, 30 |
-| Two hundred and thirty-five pounds | 9 | 4, 5, 6, 10, 16, 23, 26, 30, 44 |
-| Fourteen-foot wings | 21 | 1, 4, 5 (twice), 6, 7, 9, 11, 17, 19, 21, 26, 28, 30, 31, 35, 38, 42 (twice), 44 (twice) |
+| Six feet four | 11 | 2, 4, 5, 7, 9 (twice), 11 (three times), 14, 28 |
+| Two hundred and thirty-five pounds | 9 | 4, 5, 6, 10, 16, 21, 24, 28, 42 |
+| Fourteen-foot wings | 21 | 1, 4, 5 (twice), 6, 7, 9, 11, 17, 19, 24, 26, 28, 29, 33, 36, 40 (twice), 42 (twice) |
 
 Two more `fourteen-foot` spans belong to other people: the squad overhead in chapter 17, and Cassian in the fatal-siphon interlude.
 
-The word `wing` / `wings` appears 207 times. `chest` / `chests` appears 186 times. About 76 of the chest hits are Vram's body (`my chest` in his chapters, `his chest` in hers). About 37 are Tsunari's. Boran's chest in chapter 28 and the Forger's bare chest in chapter 31 are in the remainder.
+The word `wing` / `wings` appears 207 times. `chest` / `chests` appears 186 times. About 76 of the chest hits are Vram's body (`my chest` in his chapters, `his chest` in hers). About 37 are Tsunari's. Boran's chest in chapter 26 and the Forger's bare chest in chapter 29 are in the remainder.
 
 `sleeveless` appears 11 times, always for the tunic, after the outfit has already been shown.
 
 | Who | Times | Chapters |
 | --- | ---: | --- |
-| Vram's flight tunic or combat tunic | 5 | 2, 3, 5, 7, 21 |
+| Vram's flight tunic or combat tunic | 5 | 2, 3, 5, 7, 19 |
 | Tsunari's combat tunic | 6 | 1, 4, 8 (twice), 9, 12 |
 
 Eleven passages stop to explain a body:
@@ -118,8 +118,8 @@ Eleven passages stop to explain a body:
 | 12 | Baseline human against Simurgh physiology in the same wind. |
 | 13 | Baseline human against Dromaeon physiology in the same crawlspace. |
 | 15 | A human ear against an Inquisitor's hearing. |
-| 21 | "In Simurgh anatomy," the wing root as a nerve junction. |
-| 24 | The ghost-step, told as a codon and a latency drop. |
-| 26 | "To an endothermic human," her skin as river stone. |
-| 28b | "In Simurgh chimeric biology," the blood. |
-| 37 | The five-wave chart: D, L, G, F, S, each with a one-line trait. |
+| 19 | "In Simurgh anatomy," the wing root as a nerve junction. |
+| 22 | The ghost-step, told as a codon and a latency drop. |
+| 24 | "To an endothermic human," her skin as river stone. |
+| 26b | "In Simurgh chimeric biology," the blood. |
+| 35 | The five-wave chart: D, L, G, F, S, each with a one-line trait. |

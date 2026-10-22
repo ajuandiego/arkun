@@ -49,7 +49,7 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 * `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
-* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 53 chapters and five interludes. Each of those folders has `rules.md` and `manuscript.md`. The prose is `manuscript.md`. The job of each chapter lives in `breakdown.md`.
+* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 51 chapters, plus five interludes. Each of those folders has `rules.md` and `manuscript.md`. The prose is `manuscript.md`. The job of each chapter lives in `breakdown.md`.
 * `canon/style/`: voice, sensory palette, format, and the glossary.
 * `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
 * `assets/media/`: reference images (characters, strains, places). Not prose canon.
@@ -64,9 +64,9 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 Book 1 shape in `story/stolen_breath/breakdown.md`:
 
 * Part I, chapters 1 to 15: the prep, the theft, the hunt, the first touch. Scarcity.
-* Part II, chapters 16 to 29: secret captivity, then defection. The vassal empire.
-* Part III, chapters 30 to 43: wasteland, cult, sump. Wasteland faith.
-* Part IV, chapters 44 to 53: the Glass Vault, the siege, the compact that opens Book 2.
+* Part II, chapters 16 to 27: secret captivity, then defection. The vassal empire.
+* Part III, chapters 28 to 41: wasteland, cult, sump. Wasteland faith.
+* Part IV, chapters 42 to 51: the Glass Vault, the siege, the compact that opens Book 2.
 
 A later ring dumped into an early part is a spoiler.
 
