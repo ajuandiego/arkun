@@ -67,9 +67,9 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 - A silent harvester hangs in the high air. There is no fuel left for a machine that has to come home, so they grew the wing.
 - The south gate is a red cluster where a crawler has been sitting too long.
 - Rook tells him to hold still because he is toasting the flatbread, and leans the bread toward the heat of Vram's shoulder. Vram tells him he can retrieve it from the street. Rook eats a ration strip instead and blames the air over Sector 09. Vram tells him to check his pins.
-- Cassian, twenty-eight, Hawk wings tight, says the north wind will strip a vane if they launch for nothing. Vram says they can preen after. Rook says a Raven grows the feather back before the cursing is done.
+- Cassian, twenty-eight, hawk wings tight, says the north wind will strip a vane if they launch for nothing. Vram says they can preen after. Rook says a raven grows the feather back before the cursing is done.
 - Toby Vance, cream and rust vanes, Cassian's brother, offers an ice patch he traded two tubes for. Vram takes it. The drill drops from a scream to a wire.
-- Amari, blonde Hawk, says the south face is dirty off the crawler well and will dump him if he takes it lazy. If he waits for a clean lane, whatever they are ringing the siren for will already be in the mirrors.
+- Amari, blonde hawk, says the south face is dirty off the crawler well and will dump him if he takes it lazy. If he waits for a clean lane, whatever they are ringing the siren for will already be in the mirrors.
 - The siren hits. The socket snaps him to a knee. The order: breach, south wall, a jack in a service door, intercept, retrieve, open the intruder.
 - He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the gantry lights and do not drop into the street for a ghost. He reads the playback as a light frame, long stride, a clean tap, already making for the mirrors. Unregistered. That is why they want her opened.
 - Amari tells him to beat the south face, not glide it. He opens the wings. Fourteen feet, black vanes, the one time the book measures the span, because it is his body and he knows it. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
@@ -80,7 +80,7 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 
 Item one: air that stays air. Item two: a roof. Item three: the shooting stops. The price is not on the copy they were given.
 
-- A Karyon ambassador sits inside a glass sleeve of his own air, at a wooden table, while human ministers breathe the room. The street outside still has carts and a tree. The sky at the edges is a sour brass they have been calling weather.
+- A karyon ambassador sits inside a glass sleeve of his own air, at a wooden table, while human ministers breathe the room. The street outside still has carts and a tree. The sky at the edges is a sour brass they have been calling weather.
 - He offers air that remains air under a roof, and an end to the shooting over water and wire.
 - The coast minister says their surveyors call the brass a high haze that will break on its own. The ambassador says it will not.
 - The general asks the cost and points at the blank line. The ambassador says they are already paying in funerals, failed crops, and the brass. He is offering a pause.
@@ -302,22 +302,22 @@ The new mist will help the people outside breathe clean again.
 
 ## Chapter 19 // Tsunari
 
-Plate is the hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+Plate is the hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
 
 - The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room. She crawls into the vent. He seats the grate.
 - She jacks a relay. The audit is his fever from the hour he stood six feet off her: a fever, a flat place, the fever back. She knows the flat place and will not name it. The hand that filed it is Analyst, Tech-Specialist S. Thorne, Culture Lab 4.
-- She knows the initial. Sora flagged the minute. Tsunari kills the slate and does not take the file. A Hawk span crosses the slit once. A company voice says to clear the pad.
-- The Wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear. He slams her into the metal and shouts that she is here. The woman Rhino charges. The horn sticks. The other Rhino wedges the hinge. Plate holds.
-- The Wolf's collar hide takes the bodkin. Tsunari rakes the gap at the woman's collarbone. The wedge slips. Tsunari is past her and into the mechanical room. No stutter. The blood she drew has already ended the command upstairs. She does not see him drop.
+- She knows the initial. Sora flagged the minute. Tsunari kills the slate and does not take the file. A hawk span crosses the slit once. A company voice says to clear the pad.
+- The wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear. He slams her into the metal and shouts that she is here. The woman rhino charges. The horn sticks. The other rhino wedges the hinge. Plate holds.
+- The wolf's collar hide takes the bodkin. Tsunari rakes the gap at the woman's collarbone. The wedge slips. Tsunari is past her and into the mechanical room. No stutter. The blood she drew has already ended the command upstairs. She does not see him drop.
 
 ## Chapter 20 // Vram
 
 Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
-- The harvester stays on the horizon. A government prowler lands. A Wolf and two Rhinos step out. Sockets, ordinary. No black veins. One Rhino is a woman. She will charge the grate. The other will wedge it.
-- The Wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The Wolf smells a second body in the ducts: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
-- The woman says they have a retrieval. Step off the grate, or she stops asking. He does not. He says stand down. The Wolf goes into the shaft.
-- Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other Rhino into the frame. The Wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
+- The harvester stays on the horizon. A government prowler lands. A wolf and two rhinos step out. Sockets, ordinary. No black veins. One rhino is a woman. She will charge the grate. The other will wedge it.
+- The wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The wolf smells a second body in the ducts: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
+- The woman says they have a retrieval. Step off the grate, or she stops asking. He does not. He says stand down. The wolf goes into the shaft.
+- Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other rhino into the frame. The wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
 - Tsunari is against the far wall. Their blood is desertion. The leash can be turned up on Cassian, Toby, Rook, and Amari. It tries to climb. Her hand finds his wrist, and the climb stops. She says he drew on them. He says so did she. She says then they are both already gone. He takes her hand off only when he can stand the noise long enough to walk.
 
 ## Chapter 21 // Corvus
@@ -325,7 +325,7 @@ Draw blood on your own government's retrieval, and you are deserted the same hou
 Both of them. Alive. We need to understand what happened.
 
 - The lab keeps Corvus's face at thirty. She is eighty. She does not spend the hour on a mirror.
-- A Karyon voice comes through the ceiling array. Vram's strain return dropped and came back. A woman was on the contact. She is the anomaly. Priority zero. Both of them, alive. No name. No mechanism. Do not open her on the road. A corpse cannot be read, and a commander cooked in a ditch is a story Corvus already tried to tell. The voice disliked it.
+- A karyon voice comes through the ceiling array. Vram's strain return dropped and came back. A woman was on the contact. She is the anomaly. Priority zero. Both of them, alive. No name. No mechanism. Do not open her on the road. A corpse cannot be read, and a commander cooked in a ditch is a story Corvus already tried to tell. The voice disliked it.
 - Corvus is being used as staff in her own lab. The anger is useful. Under it, vanity: he is her weapon, and a dirty girl put a hand on him and he chose the girl. Under that, tired. The cohort she will spend is young. She will sign the hurt anyway.
 - She will send the wing he left, and a retrieval behind it. If he bleeds them, the gain stays up until he comes home or the wing fails. She has an order, not a diagnosis.
 - She calls the roost herself. South post. Both alive. Bring them in readable. Tell his brother nothing he can use. Weather is over.
@@ -342,11 +342,11 @@ Both of them. Alive. We need to understand what happened.
 
 Feather to feather, bone to bone. None of the Aerie falls alone.
 
-- The pad fills with Hawk lights and ground lamps. He buckles her into a spare harness against his chest. Hold. Eyes shut when the lamps hit. If she lets go, the band gets her.
+- The pad fills with hawk lights and ground lamps. He buckles her into a spare harness against his chest. Hold. Eyes shut when the lamps hit. If she lets go, the band gets her.
 - She does not shut her eyes for men who give orders. He tells her to shut them for the glare. Her arms go around his neck because the alternative is the concrete. Every shift of the strap moves them against each other.
 - Searchlights pin the post. A cadence starts on his old channel. He cuts it with his jaw. She says they will fire. He says some of them will miss on purpose, and not to count on it. He steps off the lip.
 - Terror and safety arrive in the same breath. She is locked to the soldier she fought in a shack, and she is not falling. He tells her to breathe. She says she is.
-- A flare opens. She sees one span of Hawks against the lamps and then stops measuring. The yard is a rumor of containers. She hates how much of her weight she has given him, and she does not let go.
+- A flare opens. She sees one span of hawks against the lamps and then stops measuring. The yard is a rumor of containers. She hates how much of her weight she has given him, and she does not let go.
 
 ## Chapter 23 // Vram
 
@@ -376,7 +376,7 @@ The dead band is a poisoned strip at the edge of the ring. Past it, one ruin: th
 - She locks harder and does not scream. He aims for the drain because the yard pad is a place guns can finish. They hit chemical water. He rips the harness before they drown in the pipe and hauls her onto a dry ledge.
 - One ruin, about ten miles south of the mast. Containers over their heads. No second desert.
 - She says he is hit. He says the wing. They stay in the drain until the lights pass, then find a hole that is not a turret's idea of a hole.
-- A Hawk calls his name once. Cassian. Vram does not answer. Answering paints the pipe. He puts his back to the concrete and does not try to fly.
+- A hawk calls his name once. Cassian. Vram does not answer. Answering paints the pipe. He puts his back to the concrete and does not try to fly.
 
 ## Chapter 26 // Tsunari
 
@@ -467,7 +467,7 @@ Off the mesh, the leash is also his map, his orders, and the voices of his wing.
 - Dawn under the yard door. She is asleep on his chest. The fever has backed down to a coal. The mesh is quiet, and he hates the quiet. For ten years the noise was the map. Off it, he cannot see whether the wing he abandoned is in pain or in a grave.
 - He does not wake her to say that. She would hear it as regret for the compact. It is the bill.
 - Kira tells them the mask is a paste and a route. The rail under the yard runs a few miles back under the ring, into the south sumps. A trolley, if Boran opens the door. The cult holds the water. The vault is past that water. She does not do vaults.
-- He asks if the wing can hear him. Not from here. That is the point and the problem. She tells him to eat, then to say whether his girl can walk. She is not carrying a Raven up a bulkhead for the pleasure of his guilt.
+- He asks if the wing can hear him. Not from here. That is the point and the problem. She tells him to eat, then to say whether his girl can walk. She is not carrying a raven up a bulkhead for the pleasure of his guilt.
 - Tsunari's eyes are open. She does not apologize for the quiet. He does not ask her to. She can walk. They walk. He carries the blindness next to the compact.
 
 ## Chapter 34 // Vram
@@ -483,7 +483,7 @@ The rail under the yard is a few miles of freight line, back under the ring, int
 
 The gain is how hard they drive the leash. When a commander leaves, they can turn it up on the wing he left, and they do not have to turn it down.
 
-- Cassian kneels on a roost he no longer reports to. Fourteen days. The noise never came down. The socket is a coal. His wings open once, a Hawk's span and no one's rescue, and then they fold.
+- Cassian kneels on a roost he no longer reports to. Fourteen days. The noise never came down. The socket is a coal. His wings open once, a hawk's span and no one's rescue, and then they fold.
 - He deserted at dawn, away from the channel that was cooking him for another man's choice, not toward the girl. The desertion did not turn the gain down.
 - No second strain. No venom. Only the leash, and the leash is enough.
 - He thinks of Toby and does not call. A call would put the boy in the log. He thinks of Rook's wide shots, Amari's dirty wind, and the weather report he repeated in a clean voice. He thinks he might have known. The thought is too late.
@@ -550,7 +550,7 @@ The stills fill at dawn, and the shelters open when the freeze drops. No house t
 - Madame Vrena Chen is baseline, gray at the temples, old enough to remember the sky in another color. Stills at dawn. Shelters when the freeze drops. They want hours, parts, and a centrifuge that is not a toy. He wants forgiveness for sweeps she still has on a wall.
 - Vram stands where she can see his hands. He flew those sweeps and will not retell them. If she needs a man to hate, use him and still sell the hours. The lee over this market fails in fourteen months. The page is in the sling.
 - Chen reads. Ren shifts. Tsunari puts two fingers on his wrist, the old signal for go home. He goes, because Chen's people are watching.
-- Chen says no house takes the lee for itself. They get the stills on the common clock, a shelter bench, and the parts if the Raven hauls them without breaking her pipes. He looks at Chen when she speaks. He does not look at the girls. That is the beginning of a respect, not the end of a debt.
+- Chen says no house takes the lee for itself. They get the stills on the common clock, a shelter bench, and the parts if the raven hauls them without breaking her pipes. He looks at Chen when she speaks. He does not look at the girls. That is the beginning of a respect, not the end of a debt.
 - Tsunari says they will haul. Chen says at dawn, and tells her to tell the boy with the bad lungs that the roof is not a hallway.
 
 ## Chapter 41 // Vram
@@ -596,7 +596,7 @@ Five dishes on the bench. He counted them. He named one.
 
 - Gideon pricks her finger. The old spectrometer drinks the drop. Vram stands at her shoulder and does not touch the machine.
 - The light breaks into five crests. Raptor burns at the top, the body she has lived in since seventeen. Under it, Avian, Lycan, Ceraton, and Galvan, dormant and present. The floor tilts the way it tilted for the shorthand. The same hand was in her vein when she was a girl.
-- She says he counted five dishes and named one. Gideon says he hid four in a daughter because a slide can be stolen. She lives in the Raptor, which has no street name. The sleepers do: Hawk, Wolf, Rhino, Spark. She wears no collar. The shape can ground a leash. The socket stays in his neck. The fever stays his. If they came for a cure that walks, they are in the wrong room.
+- She says he counted five dishes and named one. Gideon says he hid four in a daughter because a slide can be stolen. She lives in the Raptor, which has no street name. The sleepers do: hawk, wolf, rhino, spark. She wears no collar. The shape can ground a leash. The socket stays in his neck. The fever stays his. If they came for a cure that walks, they are in the wrong room.
 - Vram's jaw works. She stays the woman who held a jack in a door. She is also the place Jeffrey put the rest.
 - Gideon names it. Keystone on the shape. Null-Resonance on the ground. A hand, aimed, on one soldier. She has been doing it without the name.
 - She says she did not know. He says that was the mercy and the crime. He kills the lamp. The crests die. The knowledge does not. Sit down before she decides to be brave. Brave, in this room, is how a girl gets herself kept.
@@ -648,7 +648,7 @@ Purge cleared. Hose the lower sluices. Civilian loss inside the numbers is accep
 
 The gantry is the crane spine above the Vault. Two men can meet on it. Only one of them needs the ground to win.
 
-- The roof is on fire in pieces. Drones, cultists, Hawks against machines. Toby is the only Vance he can see, and Toby is still not asking the question Vram will not answer.
+- The roof is on fire in pieces. Drones, cultists, hawks against machines. Toby is the only Vance he can see, and Toby is still not asking the question Vram will not answer.
 - Boran and Rook fight back to back, insulting each other. Hollow bird. Walking wall. The flail is not with them. It is with Malakar, on the crane spine.
 - Vram goes up. The wing carries him and complains. He does not ask it for a miracle. One friendly slug snaps a drone off his line. Then the gantry is boots, iron, and Malakar's smile.
 - Malakar calls him Deliverer and makes it dirt. Vram says not yours. The flail comes around. A short beat puts it under the vane. The veins in his neck are veins. The heat is the old heat. If there is a door in him past this, it stays shut while he still has an ordinary fight.

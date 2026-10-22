@@ -18,7 +18,7 @@ Kira's boot hits the stair. She looks at the two of us and snorts.
 
 "The wing," I say. "Can they hear me?"
 
-"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a Raven up a bulkhead for the pleasure of his guilt."
+"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a raven up a bulkhead for the pleasure of his guilt."
 
 Tsunari's eyes are open. She heard the last of it. She does not apologize for the quiet. I do not ask her to.
 

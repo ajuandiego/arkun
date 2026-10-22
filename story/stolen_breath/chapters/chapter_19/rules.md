@@ -12,7 +12,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 From this beat:
 
 - Vram hides her in the duct. She reads the audit. The signature is Analyst: Tech-Specialist S. Thorne. She does not take the file. She does not explain Sora's faith back to the shaft.
-- The Wolf follows her scent into the shaft. She answers with the leap, the membranes, the hooks, the bodkin. A Rhino charge wedges in the grate. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop. That is his chapter.
+- The wolf follows her scent into the shaft. She answers with the leap, the membranes, the hooks, the bodkin. A rhino charge wedges in the grate. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop. That is his chapter.
 
 ## This pass
 
@@ -21,6 +21,6 @@ Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a 
 - The signature is the blow. One thought. She does not lecture the shaft on her sister's belief.
 - The crawl is her body in a narrow space. No lesson that sets a Raptor against a baseline human.
 - A span for the squad overhead, once. His own span is already known.
-- Plate holds. The Wolf is nose, hearing, and jaw. Raptor and Rhino. The old class names stay off the page.
+- Plate holds. The wolf is nose, hearing, and jaw. Raptor and rhino. The old class names stay off the page.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

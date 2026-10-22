@@ -4,7 +4,7 @@
 
 ***
 
-The roof is on fire in pieces. Drones. Cultists. The squad in the air, Hawks against machines, Toby the only Vance I can see and still not asking the question I will not answer.
+The roof is on fire in pieces. Drones. Cultists. The squad in the air, hawks against machines, Toby the only Vance I can see and still not asking the question I will not answer.
 
 Boran and Rook are back to back on a catwalk, insulting each other's bones while they break a squad that expected a sermon. "Hollow bird," Boran says. "Walking wall," Rook says. The flail is not with them. The flail is with Malakar, and Malakar is on the crane spine, and the spine is a place two men can meet.
 

@@ -14,7 +14,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
 - Rook fires wide, Toby puts his body in the way, and Cassian hesitates. The tuck does not get a physics lesson.
-- The class words are Raven and Hawk.
+- The class words are raven and hawk.
 - A round can be a slug once. Kinetic is not decoration. Chest muscle does not get a sentence.
 - Toby is the Vance. No second one.
 

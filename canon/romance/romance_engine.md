@@ -5,7 +5,7 @@
 In traditional Romantasy, the bond is often mystical (fated mates, soul tether, blood bond). In this biopunk world, the bond is **rooted in hard neuro-chemistry, thermodynamic polarity, and genetic resonance**, while feeling just as primal, dangerous, and intoxicating:
 
 *   **The Polar Dynamics (Fire & Shadow):**
-    *   **Vram (Avian, common name Raven):** Resting line 104°F to 106°F, the bird set-point a Raven's wing requires. Lattice waste, which every collared soldier carries, has no margin in that body and is what drives the seizure. The cause is in `canon/world/life/strains.md`. Tsunari's Keystone shunts the carrier. Her cooler Raptor body takes the set-point that remains.
+    *   **Vram (Avian, common name raven):** Resting line 104°F to 106°F, the bird set-point a raven's wing requires. Lattice waste, which every collared soldier carries, has no margin in that body and is what drives the seizure. The cause is in `canon/world/life/strains.md`. Tsunari's Keystone shunts the carrier. Her cooler Raptor body takes the set-point that remains.
     *   **Tsunari (Raptor):** Cool resting skin, stronger legs, the hooks, and the knife. Her father taught her that body. The Null-Resonance is a separate act. She does not know it until the first touch. What he withheld is in `canon/characters/tsunari.md`.
 *   **The Thermodynamic & Neural Equilibrium:**
     *   Skin contact and the ground are two events. Her cooler Raptor body takes the furnace heat whenever they touch. The scream in the mesh stops only when she closes the circuit on him. The first time, in the grapple, she does not know she closed it. A cold chimera without the Keystone leaves the port screaming. The full rule is in `canon/world/life/leash.md`.
@@ -21,7 +21,7 @@ To avoid the predictable, boring "enemies-to-lovers" fast track (where character
 [ Phase 1: Biological Resentment & Hostage Leverage ]
                         |
                         v
-[ Phase 2: Predator Competence Parity (The Spark) ]
+[ Phase 2: Predator Competence Parity (The spark) ]
                         |
                         v
 [ Phase 3: The Terror of Mental Silence & Sensory Intrusion ]
@@ -51,7 +51,7 @@ What she wants after that is the fighter. He works at her speed, and he spends t
     *   She does not see a misunderstood prince; she sees a massive, genetically weaponized hound of the Consortium who just killed her allies.
     *   She recognizes that his fever and lattice tremors are a loaded gun she can aim at his head. She touches him only when strictly necessary to keep him from detonating or to extract vital operational concessions. Every touch is a transaction.
 
-### Phase 2: Predator Competence Parity (The Real Spark)
+### Phase 2: Predator Competence Parity (The Real spark)
 *   **The Catalyst:** In an unforgiving biopunk wasteland, sweet words and manufactured banter feel hollow. The true emotional turning point occurs in active combat.
 *   **The Mutual Recognition:**
     *   Vram watches Tsunari calculate the angles at speed and put the bodkin into the lead dog without a shred of panic. She is a hunter. She does not need rescuing.
@@ -96,6 +96,6 @@ What she wants after that is the fighter. He works at her speed, and he spends t
 
 *   **No Manufactured Drama:** In this world, petty miscommunications, teenage jealousy, and ideological squabbling are lethal wastes of calories and oxygen. Both leads possess hard-won common sense.
 *   **The Complementary Survival Unit:**
-    *   **The Male Biotype (Avian, Raven):** The wing dump, one cardiac shock, and 106°F of body heat in a freezing waste storm.
+    *   **The Male Biotype (Avian, raven):** The wing dump, one cardiac shock, and 106°F of body heat in a freezing waste storm.
     *   **The Female Biotype (Raptor, and the ground):** The phase-stutter, the hooks, the knife, and a cool body. The Null-Resonance is the aimed shunt. It does not cool him. The cool does not quiet the mesh. The rule is in `canon/world/life/leash.md`.
 *   **The Romantic Arc:** Built on **earned competence and mutual utility**. They don't fall in love because of poetic speeches; they fall in love because under fire, in toxic storms, and against impossible odds, their combined skills function like a perfectly calibrated biological machine. Respect turns into unbreakable trust, which culminates in the hard-won Glass Vault consummation and deepens into fierce, protective devotion across the trials of Book 2.

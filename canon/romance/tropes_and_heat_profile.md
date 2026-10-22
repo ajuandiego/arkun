@@ -14,7 +14,7 @@
 ### 3. Forced Proximity Traps (High-Sensory Survival Pressure)
 *   **The Tandem Roc Cockpit:** Strapped inches apart in a pressurized bio-cockpit while dodging anti-air railgun flak, their breathing syncs under multi-G turns.
 *   **The Emergency Bio-Decontamination Pod:** A cramped, one-meter airlock during an acidic spore fallout; clothing drenched in caustic propellant must be stripped to prevent fatal dermal necrosis.
-*   **Thermal Shelter in the Subterranean Sump:** Freezing nights in the subterranean ruins of the Rust Barrens where his Raven body heat (104°F–106°F) is the barrier keeping her from hypothermic death.
+*   **Thermal Shelter in the Subterranean Sump:** Freezing nights in the subterranean ruins of the Rust Barrens where his raven body heat (104°F–106°F) is the barrier keeping her from hypothermic death.
 
 ### 4. "Who Did This To You?" (The Primal Protector Shift)
 *   When a rival scavenger militia, Tempered cultist, or Consortium security unit corners Tsunari and leaves a bloody gash across her cheek or bruises her wrists:

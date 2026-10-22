@@ -3,7 +3,7 @@
 **Author:** J.D. Alfaro  
 > **Series:** The Arkun Cycle (Book 1 of 3)  
 > **Target Length:** ~80,000 – 85,000 Words (~320 Printed Pages) | **Target Chapter Length:** 1,600 – 2,200 Words  
-> **Structure:** 51 chapters, plus 5 interludes. | 4 Parts | **Format:** Alternating **Tsunari** and **Vram**, with other speakers where the part files place them (Ren, a Karyon ambassador, Jeffrey, Drew, Cassian, Sora, Corvus, Caelia)  
+> **Structure:** 51 chapters, plus 5 interludes. | 4 Parts | **Format:** Alternating **Tsunari** and **Vram**, with other speakers where the part files place them (Ren, a karyon ambassador, Jeffrey, Drew, Cassian, Sora, Corvus, Caelia)  
 > **Chapter Header Architecture:** A chapter opens with a plain lexicon, or with a voice that is not in the room, only when the scene that follows needs it. Some chapters open on the scene. A chapter that leaves the present year opens, under the header and before the lexicon, with a plain line of how many years before or after the present. The present is Year 40 AS.
 > **Core Romance Arc:** Biological Resentment $\rightarrow$ Sensory Addiction $\rightarrow$ Primal Survival Consummation $\rightarrow$ Sovereign Devotion (*Fourth Wing* Level Heat: 🌶️🌶️🌶️🌶️ Open Door, Multi-Sensory, Explicit)  
 > **Settings:** The south gate and the photovoltaic graveyard, Redoubt Station 14 on the south edge of the ring, one freight yard past the Dead Perimeter, the south sumps, and The Glass Vault. Distances are in `canon/world/geography.md`.
@@ -14,8 +14,8 @@
 
 Worldbuilding and historical backstory are revealed through **four concentric rings of progressive discovery**—grounded strictly in what the characters touch, breathe, pay for, and bleed from:
 
-1. **Ring 1: The Scarcity & The Cage (Chapters 1 to 15):** Daily life in the lee outside the wall: copper on the tongue, the silt hour, water taken at dawn, the Night Freeze; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; the silent terror of floating alien Karyon Harvester Barges.
-2. **Ring 2: The Vassal Empire & The Bio-Machine (Chapters 16 to 27):** The corporate-alien hierarchy (Apex GeneSys, Consortium oligarchs, a Directorate retrieval of one Wolf and two Rhinos); why soldiers have biological wings instead of aircraft (zero fuel, self-healing flesh); the trauma of the Gray Sector child drafts; the lethal consequences of treason.
+1. **Ring 1: The Scarcity & The Cage (Chapters 1 to 15):** Daily life in the lee outside the wall: copper on the tongue, the silt hour, water taken at dawn, the Night Freeze; the 100m titanium bulkhead; the absence of human aircraft or combustion fuel; chimeric biology as living weapons; the silent terror of floating alien karyon harvester barges.
+2. **Ring 2: The Vassal Empire & The Bio-Machine (Chapters 16 to 27):** The corporate-alien hierarchy (Apex GeneSys, Consortium oligarchs, a Directorate retrieval of one wolf and two rhinos); why soldiers have biological wings instead of aircraft (zero fuel, self-healing flesh); the trauma of the Gray Sector child drafts; the lethal consequences of treason.
 3. **Ring 3: The Wasteland & Apocalyptic Faith (Chapters 28 to 41):** The shattered pre-collapse ruins of the Rust Barrens; the feral dogs that den there; fractured historic religions and the meteoric rise of **The Enlightened** cult under **The Forger**; the secret of the Crucible Mutagen.
 4. **Ring 4: The Vault of Truth & The Planetary Countdown (Chapters 42 to 51):** Uncorrupted pre-collapse archives in The Glass Vault; the five strains as facets of the old sequence; the discovery of the Mosaic Keystone; the Vault opens the sealed root of the Lazarus Key. The 14-month schedule was already on the message that sat down on the open jack. The root adds the order under it, including Sora.
 
@@ -59,21 +59,21 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
         > **The leash.** The socket at the back of the neck, and the signal the Spire sends through it. Hesitate, and it hurts. Leave it on for years, and it starts to cook the man.
     *   *Setting:* The launch ledge of The High Aerie, on the center mast, 3,000 feet above Sector 09.
     *   *Core Action:* Vram suffers a blinding Synapse Lattice migraine from the siphon at his nape. Receiving the red-priority data-breach alert, he steps to the precipice and launches on his own 14-foot feathered wings, riding freezing high-altitude thermals into a vertical dive to hunt the infiltrator.
-    *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty; and **Specialist Amari (Swift)**, a blonde Hawk on the same ledge, who gives him the wind on the south face and does not soften it. Her file is `canon/characters/amari.md`.
+    *   *Squad Dynamic (Aeros-Legion 7):* Introduces his tight-knit squad: cynical second-in-command Cassian; razor-tongued **Corporal Ferrin "Rook" Calder** cracking irreverent jokes about synthetic algae paste and teasing Vram's 106°F thermal furnace heat (*"Hold still, Commander, you're toasting my flatbread"*); gentle **Specialist Tobin "Toby" Vance**, who quietly hands Vram an ice-salve patch for his neck siphon before the dive with anxious, devoted loyalty; and **Specialist Amari (Swift)**, a blonde hawk on the same ledge, who gives him the wind on the south face and does not soften it. Her file is `canon/characters/amari.md`.
     *   *Worldbuilding & Past Lore Delivery:*
         *   *Why There Are No Human Planes:* Establishes that humanity has no jet fuel, refineries, or avionic microchips left after the Resource Wars. The Consortium created winged soldiers because flesh heals, eats cheap nutrient paste, and requires zero fuel.
-        *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent **Karyon Harvester Barges** floating like black obsidian obelisks in the upper stratosphere.
+        *   *The Karyon Sky Shadows:* The only flying machines are alien—massive, silent karyon harvester barges floating like black obsidian obelisks in the upper stratosphere.
 
 *   **Chapter 4 // The Offer**
     *   *Time:* Forty years before the present. Year 0. Before the domes. The end of the old sky. The manuscript opens with that line.
     *   *Voice:*
         > *Item one: air that stays air. Item two: a roof. Item three: the shooting stops. The price is not on the copy they were given.*
-    *   *POV:* A Karyon ambassador, first person, present. The mind is the tool, as in `canon/world/factions/karyon.md`.
+    *   *POV:* A karyon ambassador, first person, present. The mind is the tool, as in `canon/world/factions/karyon.md`.
     *   *Setting:* A board table in a city that still has streets. He sits inside a sealed sleeve of his own blend, and the glass of it fogs when he speaks. No strain. No plate. No weapon on the table.
     *   *What he sells, aloud:* Oxygen that stays oxygen. Shelter from a sky that is already turning. An end to the shooting. Longer life for the ministers who sign, and he does not say the years stop when the payments stop.
     *   *What he asks, aloud:* A mutation program. Soldiers made from their people, for the work a fueled gun is about to fail at. He does not name the five facets.
     *   *The pushback:* The general says the mutants can take the table, the port, and the capital.
-    *   *The leash, aloud:* He offers it as the answer. One socket where the head meets the spine. A signal. Hesitation hurts. Refusal hurts until the order is finished. The soldier can still move. He cannot keep a rebellion. The leash is only for the ones they change. The wire stays Karyon. The hardware is in `canon/world/life/leash.md`. He does not say the socket cooks a man who wears it for decades, and he does not say who holds the kill.
+    *   *The leash, aloud:* He offers it as the answer. One socket where the head meets the spine. A signal. Hesitation hurts. Refusal hurts until the order is finished. The soldier can still move. He cannot keep a rebellion. The leash is only for the ones they change. The wire stays karyon. The hardware is in `canon/world/life/leash.md`. He does not say the socket cooks a man who wears it for decades, and he does not say who holds the kill.
     *   *What he still does not say:* The open country is the thing being spent. His machines will thicken the brass. He does not name the clock or the Cradle. The foul play is the sentence he leaves out.
     *   *What he thinks of them:* Tired, proud, and already bargaining for which of their cities gets the first glass. He does not hate them. He does not need to.
 
@@ -205,23 +205,23 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 
 *   **Chapter 19 // Tsunari**
     *   *Lexicon:*
-        > **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+        > **Plate.** The hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
     *   *Setting:* The duct under Redoubt Station 14, then the intake and the mechanical room.
-    *   *Core Action:* Vram hides her when an unannounced approach shows on the post's set. She reads the audit and sees *Analyst: Tech-Specialist S. Thorne*. She kills the slate and does not take the file. Hawks cross the slit of sky. A company voice clears the pad. The Wolf comes up the intake. She answers with the leap, the membranes, the hooks, the bodkin. The woman Rhino charges and wedges. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop.
+    *   *Core Action:* Vram hides her when an unannounced approach shows on the post's set. She reads the audit and sees *Analyst: Tech-Specialist S. Thorne*. She kills the slate and does not take the file. Hawks cross the slit of sky. A company voice clears the pad. The wolf comes up the intake. She answers with the leap, the membranes, the hooks, the bodkin. The woman rhino charges and wedges. Plate holds. The chest and the eyes are the opening. No phase-stutter. She does not aim the ground. She gets into the mechanical room. She does not see him drop.
     *   *Personal Stake:* Sora is not only alive at a bench. She flagged the minute. The blood Tsunari draws on a government soldier has already ended the command upstairs.
 
 *   **Chapter 20 // Vram**
     *   *Lexicon:*
         > **Desertion.** Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
     *   *Setting:* The landing pad of Redoubt Station 14, then the lower mechanical room. A harvester hangs on the horizon and does not land. What lands is a government prowler.
-    *   *Core Action:* One Wolf and two Rhinos step out in Directorate kit, sockets fitted, no black veins. One of the Rhinos is a woman. She will charge. The other wedges the grate. They want the audit and a search. The Wolf smells a second body and says so. Vram tries to talk the inspection through. The Wolf goes into the shaft anyway. Vram hears her, then the horn stuck in the frame, and drops through the ceiling. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. The detail goes down.
+    *   *Core Action:* One wolf and two rhinos step out in Directorate kit, sockets fitted, no black veins. One of the rhinos is a woman. She will charge. The other wedges the grate. They want the audit and a search. The wolf smells a second body and says so. Vram tries to talk the inspection through. The wolf goes into the shaft anyway. Vram hears her, then the horn stuck in the frame, and drops through the ceiling. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. The detail goes down.
     *   *The Turning Point:* Their blood is desertion the same hour. The leash can be turned up on Cassian, Toby, Rook, and Amari. Her hand on his wrist stops the climb, and that is a second crime. She does not thank him. The life that gave him the wing is on the floor.
 
 *   **Chapter 21 // Corvus**
     *   *Voice:*
         > *Both of them. Alive. We need to understand what happened.*
     *   *POV:* Director Elena Corvus, first person, present. Her file is `canon/characters/corvus.md`.
-    *   *The call:* A Karyon voice, not a body in the room, tells her the return on one of her soldiers dropped and came back, and the woman beside him is the anomaly. Priority zero. Capture her alive. They need to understand what happened. They do not give Corvus a finished diagnosis, and she does not get the five facets or the name of the key.
+    *   *The call:* A karyon voice, not a body in the room, tells her the return on one of her soldiers dropped and came back, and the woman beside him is the anomaly. Priority zero. Capture her alive. They need to understand what happened. They do not give Corvus a finished diagnosis, and she does not get the five facets or the name of the key.
     *   *What she does with it:* She wants the weapon she built, and she wants the woman who made him disobey. Alive, because a corpse cannot be read, and because losing him to the sand was a story she already disliked. She will spend the cohort to get both.
     *   *The person in the room:* The Chrysalis keeps her face at thirty. She is eighty, and she knows the hour the last treatment bought. Under the order she is tired, vain, and angry that the Spire speaks to her as staff in her own lab. None of that makes her kind. It makes the order hers.
 
@@ -315,7 +315,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Lexicon:*
         > **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
     *   *Setting:* The loading dock of the freight depot.
-    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the Raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
+    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
 
 *   **Chapter 32 // Tsunari**
     *   *Setting:* The sub-zero basement of the bunker.
@@ -331,7 +331,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Lexicon:*
         > **The rail under the yard.** A few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
     *   *Setting:* The rail door in that same basement.
-    *   *Core Action:* Kira spends the debt and brings them to **Boran "The Bastion" Vael-Korr**, a 6'8" Rhino on his own door. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, and he unlocks the hand-cranked trolley. The rail runs a few miles back under the ring and lets out in the south sumps. The vault is the room past that water. The cult holds the water.
+    *   *Core Action:* Kira spends the debt and brings them to **Boran "The Bastion" Vael-Korr**, a 6'8" rhino on his own door. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, and he unlocks the hand-cranked trolley. The rail runs a few miles back under the ring and lets out in the south sumps. The vault is the room past that water. The cult holds the water.
 
 ***
 
@@ -447,7 +447,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Voice:*
         > *When the sky catches fire, the birds will fight for the dirt.*
     *   *Setting:* The crane gantry and drainage spillways.
-    *   *Core Action:* The wing dump wakes here. Black veins stand at his neck, his chest, and around his eyes, and he vents the Raven engine in one burst. Malakar's pneumatic rail-flail goes to slag. Tsunari flanks The Forger and shatters her ritual iron staff. Defeated, Malakar is swept into the raging drainage flumes by a ruptured flood of runoff, his fate left unknown in the uncharted deep sumps. He did not have the dump at the Redoubt. That fight is in `part_2.md`.
+    *   *Core Action:* The wing dump wakes here. Black veins stand at his neck, his chest, and around his eyes, and he vents the raven engine in one burst. Malakar's pneumatic rail-flail goes to slag. Tsunari flanks The Forger and shatters her ritual iron staff. Defeated, Malakar is swept into the raging drainage flumes by a ruptured flood of runoff, his fate left unknown in the uncharted deep sumps. He did not have the dump at the Redoubt. That fight is in `part_2.md`.
     *   *Review (sector bands):* The smile beat still says "the ruins of Sector 04." Sector 4 is industry inside the dome. Review the line against the shared past it points at, and name the band that past belongs to.
 
 *   **Chapter 51 // Dual POV**
@@ -457,7 +457,7 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *The Resolution:* Consortium forces retreat; the cult scatters. Tsunari stabilizes Caelia's injuries, saving her life. Madame Chen keeps the Vault's stills and storm shelters fed. Kira Brandt loads encrypted data drives of the stabilizer into her sand-crawler to spark the continent-wide rebellion.
     *   *The Romance Climax (The Sovereign Compact):* Sitting on the sheared girder at dawn, Vram and Tsunari clasp scarred palms in a sovereign blood covenant of equals, sealed with a passionate dawn kiss and their shared devotion.
     *   *The True Lazarus Decryption & The Sister's Clock:* Using Gideon's optical decoders and combining Tsunari's Null-frequency with Vram's military cipher, they finally decrypt the deep alien root layer of the *Lazarus Key*:
-        1.  *The Alien Plan:* The root confirms the schedule that landed on the open jack, and names it as a Karyon order rather than a corporate draft. Within **14 months** the lee over Sector 09 collapses, barrens-air is pushed across the Ring, and the domes are sealed. A city of this size cannot live on barrens rules. The open country beyond the cities remains the harsh band, livable only if the hours are kept.
+        1.  *The Alien Plan:* The root confirms the schedule that landed on the open jack, and names it as a karyon order rather than a corporate draft. Within **14 months** the lee over Sector 09 collapses, barrens-air is pushed across the Ring, and the domes are sealed. A city of this size cannot live on barrens rules. The open country beyond the cities remains the harsh band, livable only if the hours are kept.
         2.  *The Personal Stake:* The decryption reveals the scheduled liquidation order for Eden Dome Alpha's lower biological staff once the terraforming finishes—meaning **Sora Thorne** is marked for execution inside the very dome she believes is paradise.
     *   *The Agonizing Cliffhanger:* That night in the bunker, they rest together under the protection of their sovereign compact. But before dawn, surviving cultists of *The Enlightened* pump sweet rift vapors into the air vents. They drug the room, abduct Vram in chains to drag him across the burning salt flats as their destined "Apex Deliverer", and brand Tsunari's left shoulder with their burning chevron. Tsunari awakens alone to cold sheets, a smoking wound on her flesh, and her Spire hook in hand—vowing to tear the continent apart to find him.
 
@@ -467,6 +467,6 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 *   **POV:** Omniscient / Sister Maeva (First Acolyte of The Enlightened, Sub-Level 7 Basalt Caverns beneath Sector 09).
 *   **Core Theme:** Religious fanaticism, alien catalytic baptism, and the awakening of the Terra-Pylons.
 *   **Review (sector bands):** The outline places the liturgy beneath Sector 09. The interlude prose still says "beneath the shattered foundations of Sector 04." Review `chapter_51b_interlude_the_gospel_of_the_slag` and match it to Sector 09.
-*   **Narrative:** In the boiling basalt cavern three hundred feet beneath Sector 09, Sister Maeva conducts the sacred Liturgy of the Slag. Dipping her bronze brand into a boiling fissure of raw Karyon atmospheric catalytic slurry, she sears the bifurcated shepherd’s crook—the alien rune for *The Harvested Cattle*—into the skin of her inner thigh in ecstatic devotion. As the brand smokes, the tectonic bedrock hums with the fourteen-hertz harmonic pulse of the Terra-Pylons awakening across the continent. With Commander Vram Tyage already abducted in chains and transported across the salt flats toward the Cathedral of Salt in the Torrid Kiln, the ritual seals the dark covenant of the salt zealots, directly setting up **Book 2: Crown of Salt**.
+*   **Narrative:** In the boiling basalt cavern three hundred feet beneath Sector 09, Sister Maeva conducts the sacred Liturgy of the Slag. Dipping her bronze brand into a boiling fissure of raw karyon atmospheric catalytic slurry, she sears the bifurcated shepherd’s crook—the alien rune for *The Harvested Cattle*—into the skin of her inner thigh in ecstatic devotion. As the brand smokes, the tectonic bedrock hums with the fourteen-hertz harmonic pulse of the Terra-Pylons awakening across the continent. With Commander Vram Tyage already abducted in chains and transported across the salt flats toward the Cathedral of Salt in the Torrid Kiln, the ritual seals the dark covenant of the salt zealots, directly setting up **Book 2: Crown of Salt**.
 
 ***

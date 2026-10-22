@@ -247,7 +247,7 @@ Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate
 
 "Hold still, Commander," Rook says. "You're toasting my flatbread."
 
-Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to the stone, gray with dark bars across the vanes. The scar at the left of his mouth pulls when he grins. A cold round of flatbread sits on his glove. He leans it toward my shoulder as if the heat there is a stove he was issued and means to use before somebody writes the use down.
+Ferrin Calder is on an ammo crate under the windbreak, hawk wings half open to the stone, gray with dark bars across the vanes. The scar at the left of his mouth pulls when he grins. A cold round of flatbread sits on his glove. He leans it toward my shoulder as if the heat there is a stove he was issued and means to use before somebody writes the use down.
 
 "Put that on my skin and you can retrieve it from the street," I say.
 
@@ -255,11 +255,11 @@ Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to t
 
 "Check your pins before you blame the air." The prowler's lamps have not changed since I took the lip. "The hour started when that truck stopped. We hold until it leaves, or until the leash spends us. I am not throwing a wing at a parked truck."
 
-Cassian does not laugh. His arms stay folded, his wings tight, a Hawk's wing, made to keep a lane and come home in it. "Then say the hold out loud before the north side strips a vane to decorate the point. The rigging over there is screaming. Launch into that for nothing and we own the repair, and the empty sky, and your mood."
+Cassian does not laugh. His arms stay folded, his wings tight, a hawk's wing, made to keep a lane and come home in it. "Then say the hold out loud before the north side strips a vane to decorate the point. The rigging over there is screaming. Launch into that for nothing and we own the repair, and the empty sky, and your mood."
 
 "We preen after."
 
-"Speak for the Raven." Rook flicks a primary and the grin widens on the scar. "You grow the feather back before the cursing is finished. Mine whistle for weeks. Toby has to listen to it, which is a cruelty even for you."
+"Speak for the raven." Rook flicks a primary and the grin widens on the scar. "You grow the feather back before the cursing is finished. Mine whistle for weeks. Toby has to listen to it, which is a cruelty even for you."
 
 "I can hear the feather speech from the rack."
 
@@ -1311,7 +1311,7 @@ I give her the clean version. A clean version is what a wingman is for.
 
 "Runner lost in the sand. No body. The commander is holding the south post until the weather clears. Redoubt Station 14. He relieved the courier. The beacon was killed so the storm wouldn't paint the prowler for every scavenger on the ring."
 
-I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another Hawk had walked it in. Vram's voice on the beam was level. *Level when he drops. Level when he's hurt.* I have known him long enough to hate that a log will not tell me which.
+I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another hawk had walked it in. Vram's voice on the beam was level. *Level when he drops. Level when he's hurt.* I have known him long enough to hate that a log will not tell me which.
 
 "Weather," she says, the way she says a name she intends to fire.
 
@@ -1587,7 +1587,7 @@ I eat the meal they issue. The white coat goes on the chair. The spike is a numb
 
 # Chapter 19 // Tsunari
 
-> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+> **Plate.** The hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
 
 ***
 
@@ -1619,13 +1619,13 @@ The shaft is one body wide. I am that body until he decides he is too. I hear th
 
 A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
 
-The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
+The wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
 
 I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
 
 She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
 
-No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the Wolf is still in the shaft with my scent in his mouth.
+No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the wolf is still in the shaft with my scent in his mouth.
 
 *Move.* I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
 
@@ -1643,9 +1643,9 @@ The harvester stays on the horizon. It does not land. What lands is a prowler, g
 
 Three of them step out. Directorate kit. Sockets in the necks, fitted and ordinary. No black in the veins. No fire along a wing, because two of them have no wings.
 
-The Wolf is first. Narrow, nose already working, ears tucked to the wind off the post. Behind him, two Rhinos. Hide on the neck and the shoulders, a horn each, short legs built to arrive once and hard. One of them is a woman. She looks at the vault grate the way a fighter looks at a door she means to own. The other puts himself where the grate's hinge is, and I understand the shape before anyone speaks. She will charge. He will wedge.
+The wolf is first. Narrow, nose already working, ears tucked to the wind off the post. Behind him, two rhinos. Hide on the neck and the shoulders, a horn each, short legs built to arrive once and hard. One of them is a woman. She looks at the vault grate the way a fighter looks at a door she means to own. The other puts himself where the grate's hinge is, and I understand the shape before anyone speaks. She will charge. He will wedge.
 
-"Commander Tyage," the Wolf says. "Audit and a search. Open the post."
+"Commander Tyage," the wolf says. "Audit and a search. Open the post."
 
 "The runner is dead. I reported the weather."
 
@@ -1655,13 +1655,13 @@ The leash climbs because she is in the shaft and my wrist is empty. Heat stacks 
 
 "You have an audit," I say. "You do not have a warrant to gut my post because a nose is bored."
 
-The woman Rhino smiles with no humor in it. "We have a retrieval. Telemetry, and whatever made your numbers lie. Step off the grate, Commander, or I stop asking."
+The woman rhino smiles with no humor in it. "We have a retrieval. Telemetry, and whatever made your numbers lie. Step off the grate, Commander, or I stop asking."
 
-I do not step off. The Wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing. The moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
+I do not step off. The wolf is already walking toward the intake, and the woman rolls the shoulder under the plate, and the leash keeps climbing. The moment I draw their blood I am no longer a commander having a bad week. I am deserted, and the wing I left in the sky can be turned up until it cooks.
 
 "Stand down," I say.
 
-The Wolf does not. He has the scent. He goes into the shaft.
+The wolf does not. He has the scent. He goes into the shaft.
 
 I stay on the grate one breath past the point where talking is only a way to arrive late. Then I hear her. The metal rings. A man's voice, thick, telling the pad he has her. The horn hits the frame and sticks.
 
@@ -1671,7 +1671,7 @@ I drop through the ceiling on the wing. The mechanical room takes the feathers b
 
 The horn comes for the center of my mass. I leave the floor. The wing catches a beam and throws me sideways, and my hands find the gap her plate does not cover, under the arms, where the hide becomes skin. Heat goes into the grip. The vane along my forearm, the one that lifts when the beat is hard, lays a line across the unplated chest. She bellows. The charge breaks because a charge needs a target that stays on the ground.
 
-The other Rhino is still in the hinge, trying to wedge and fight at once. He gets one arm free. I put a boot on the plate of his shoulder and the wing does the rest, a short ugly fold that cracks him into the frame. The Wolf comes out of the shaft last, bleeding at the strap, nose full of her. I meet him with the heat still in my hands. He goes down on the knee and stays, because a Wolf who cannot trust his nose will not spend the jaw.
+The other rhino is still in the hinge, trying to wedge and fight at once. He gets one arm free. I put a boot on the plate of his shoulder and the wing does the rest, a short ugly fold that cracks him into the frame. The wolf comes out of the shaft last, bleeding at the strap, nose full of her. I meet him with the heat still in my hands. He goes down on the knee and stays, because a wolf who cannot trust his nose will not spend the jaw.
 
 She is against the far wall, hooks low, breathing hard, eyes on me like she is waiting to see what I am now.
 
@@ -1778,7 +1778,7 @@ The stomach goes first. Then the wing bites, and the ground becomes a dark band 
 
 "I am."
 
-A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of Hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.
+A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.
 
 
 ---
@@ -1792,15 +1792,15 @@ A flare opens behind us. The squad is up. I see one span of them against the lam
 
 The dead band is a few miles of bad ground and a rim of pale lakebed. I have her locked to my chest and the wing is doing two jobs. Fly. Don't crush her.
 
-Cassian is on my left, Hawk, patrol span, the man I told to hold a roost. He does not fire. I see the hesitation in the way his hands stay open. He was told a weather report. He was told a corpse. He is looking at a living woman in my harness and the order in his skull, and the order is losing by a second at a time.
+Cassian is on my left, hawk, patrol span, the man I told to hold a roost. He does not fire. I see the hesitation in the way his hands stay open. He was told a weather report. He was told a corpse. He is looking at a living woman in my harness and the order in his skull, and the order is losing by a second at a time.
 
 "Commander," he says on the channel. "Land and I can still call this a return."
 
 "You can't."
 
-Rook comes in hot on the right, irreverent even now, and the slug he sends goes wide into the haze. "Targeting optics full of dust!" he shouts, for the log, for whoever is counting loyalty. The next shot is wide too. He is a Hawk. He does not miss twice unless he means to.
+Rook comes in hot on the right, irreverent even now, and the slug he sends goes wide into the haze. "Targeting optics full of dust!" he shouts, for the log, for whoever is counting loyalty. The next shot is wide too. He is a hawk. He does not miss twice unless he means to.
 
-Toby dives. Cream and rust. Younger. He puts his body between a flak drone and the root of my wing, slipstream ugly, a Hawk's tuck with no lecture in it. The drone's burst chews his vane instead of my bone. He swears, soft, the way he apologizes.
+Toby dives. Cream and rust. Younger. He puts his body between a flak drone and the root of my wing, slipstream ugly, a hawk's tuck with no lecture in it. The drone's burst chews his vane instead of my bone. He swears, soft, the way he apologizes.
 
 "You do not fire on your own wing," I tell the channel, and I am the one who made the sentence a lie by leaving.
 
@@ -1868,7 +1868,7 @@ One ruin. The freight yard is over our heads. I can hear grit ticking on contain
 
 "The wing." I look at the shredded vane and the blood threading into the chemical film. "We stay in the drain until the lights pass. Then we find a hole that is not a turret's idea of a hole."
 
-Above us, a Hawk calls my name once. Cassian. I do not answer. Answering paints the pipe. I put my back to the concrete and I let the torn wing shake, and I do not try to fly.
+Above us, a hawk calls my name once. Cassian. I do not answer. Answering paints the pipe. I put my back to the concrete and I let the torn wing shake, and I do not try to fly.
 
 
 ---
@@ -2070,7 +2070,7 @@ Wolf. I know the set of the shoulders before I know the face. Dark fur along the
 
 "Kira Brandt," I say.
 
-"And you are a Raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
+"And you are a raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
 
 Tsunari holds out the copy. Her hand shakes. She does not beg. "Fourteen months. The lee over the Ring fails. Evacuation zero. You run freight through that air. Read it before you decide we are a bill you can't afford."
 
@@ -2136,7 +2136,7 @@ Kira's boot hits the stair. She looks at the two of us and snorts.
 
 "The wing," I say. "Can they hear me?"
 
-"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a Raven up a bulkhead for the pleasure of his guilt."
+"Not from here. That's the point, and it's the problem." She tosses a tin. "Eat. Then you tell me whether your girl can walk, because I am not carrying a raven up a bulkhead for the pleasure of his guilt."
 
 Tsunari's eyes are open. She heard the last of it. She does not apologize for the quiet. I do not ask her to.
 
@@ -2184,7 +2184,7 @@ The trolley moves. A few miles. Then sump water, and a cult, and a room that mig
 
 Cassian kneels on a roost he no longer reports to.
 
-Fourteen days. The noise never came down. Vram left, and the gain stayed at the top of what a mesh can carry, and the Directorate did not love him enough to lower it. The socket is a coal. The tab bites. His wings open once against the wind, cream-dark in the searchlight, a Hawk's span and no one's rescue, and then they fold because the fold is all he has left that still obeys.
+Fourteen days. The noise never came down. Vram left, and the gain stayed at the top of what a mesh can carry, and the Directorate did not love him enough to lower it. The socket is a coal. The tab bites. His wings open once against the wind, cream-dark in the searchlight, a hawk's span and no one's rescue, and then they fold because the fold is all he has left that still obeys.
 
 He deserted at dawn. Not toward the girl. Not toward a cause. Away from the channel that was cooking him for another man's choice. The desertion did not turn the gain down. That was the lesson. The lesson is finishing.
 
@@ -2366,7 +2366,7 @@ Vram stands where she can see his hands. "I flew those sweeps. I won't retell th
 
 Chen reads. The market moves around us. Ren shifts and I put two fingers on his wrist, the old signal for go home. He goes, this time, because Chen's people are watching and he is not stupid in a crowd.
 
-"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your Raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
+"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
 
 "We'll haul," I say.
 
@@ -2612,7 +2612,7 @@ Vram's shadow hits the steam on the far side of the grate. He sees her. He sees 
 
 ***
 
-The roof is on fire in pieces. Drones. Cultists. The squad in the air, Hawks against machines, Toby the only Vance I can see and still not asking the question I will not answer.
+The roof is on fire in pieces. Drones. Cultists. The squad in the air, hawks against machines, Toby the only Vance I can see and still not asking the question I will not answer.
 
 Boran and Rook are back to back on a catwalk, insulting each other's bones while they break a squad that expected a sermon. "Hollow bird," Boran says. "Walking wall," Rook says. The flail is not with them. The flail is with Malakar, and Malakar is on the crane spine, and the spine is a place two men can meet.
 

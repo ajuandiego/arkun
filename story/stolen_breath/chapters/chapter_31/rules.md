@@ -11,14 +11,14 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 From this beat:
 
-- Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the Raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
+- Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
 
 ## This pass
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
 - No black veins. No wing dump.
-- Kira is a Wolf. The gun stays up until the price is in her hand. She is not free help.
+- Kira is a wolf. The gun stays up until the price is in her hand. She is not free help.
 - A flare-slug once, for the gun that scatters the dogs.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

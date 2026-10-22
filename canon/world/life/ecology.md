@@ -1,7 +1,7 @@
 # Ecology
 
 ### The Alien Flora: The Spore Invasion
-*   Where Karyon terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
+*   Where karyon terraforming pylons pulse deep in the earth, terrestrial plant life has been replaced by:
     *   **Phosphor Tendrils:** Bioluminescent vine networks that siphon moisture from dead soil and emit sweet, narcotic neurotoxins.
     *   **Spore Orchids:** Massive carnivorous floral growths that thrive on sulfur and decay, releasing local clouds of purple sporocarps. A cloud burns the throat on contact. It is a patch of ground to walk around, not the air of the barrens.
     *   **Glass Reeds:** Silicon-based vegetation that chokes rivers and crystallizes standing water into toxic gelatin.
@@ -14,7 +14,7 @@ Before the Storm, the open country still held the ordinary animals of a dry cont
 
 The Ring keeps sulfur-fowl and crickets as livestock. That diet is in the food section below. The barrens have no wild Raptor. The Raptor is a human graft. The animal that took the concrete canyons and the container depots is the feral dog.
 
-**Feral dogs.** A pack. Depot guards and strays, breeding in the cans since the Storm. Short coats, a bark, then silence when they have the scent. They den in culverts and half-buried containers. They know a human smell, and they wait. A big lead male is the one that comes in first. They do not click. A Raptor's throat cannot speak them. They are dogs, camp scavengers. The Wolf graft is a person. A bleeding body on the ground is food. The freight-depot attack in Book 1 is this pack.
+**Feral dogs.** A pack. Depot guards and strays, breeding in the cans since the Storm. Short coats, a bark, then silence when they have the scent. They den in culverts and half-buried containers. They know a human smell, and they wait. A big lead male is the one that comes in first. They do not click. A Raptor's throat cannot speak them. They are dogs, camp scavengers. The wolf graft is a person. A bleeding body on the ground is food. The freight-depot attack in Book 1 is this pack.
 
 ## 10. The Living Ecosystem: Food Systems, Flora & Fauna (Year 40 AS / 2072 CE)
 

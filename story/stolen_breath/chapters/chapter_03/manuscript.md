@@ -18,7 +18,7 @@ Under the mast the ring is lamps and zinc. Sector 09 burns small. The south gate
 
 "Hold still, Commander," Rook says. "You're toasting my flatbread."
 
-Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to the stone, gray with dark bars across the vanes. The scar at the left of his mouth pulls when he grins. A cold round of flatbread sits on his glove. He leans it toward my shoulder as if the heat there is a stove he was issued and means to use before somebody writes the use down.
+Ferrin Calder is on an ammo crate under the windbreak, hawk wings half open to the stone, gray with dark bars across the vanes. The scar at the left of his mouth pulls when he grins. A cold round of flatbread sits on his glove. He leans it toward my shoulder as if the heat there is a stove he was issued and means to use before somebody writes the use down.
 
 "Put that on my skin and you can retrieve it from the street," I say.
 
@@ -26,11 +26,11 @@ Ferrin Calder is on an ammo crate under the windbreak, Hawk wings half open to t
 
 "Check your pins before you blame the air." The prowler's lamps have not changed since I took the lip. "The hour started when that truck stopped. We hold until it leaves, or until the leash spends us. I am not throwing a wing at a parked truck."
 
-Cassian does not laugh. His arms stay folded, his wings tight, a Hawk's wing, made to keep a lane and come home in it. "Then say the hold out loud before the north side strips a vane to decorate the point. The rigging over there is screaming. Launch into that for nothing and we own the repair, and the empty sky, and your mood."
+Cassian does not laugh. His arms stay folded, his wings tight, a hawk's wing, made to keep a lane and come home in it. "Then say the hold out loud before the north side strips a vane to decorate the point. The rigging over there is screaming. Launch into that for nothing and we own the repair, and the empty sky, and your mood."
 
 "We preen after."
 
-"Speak for the Raven." Rook flicks a primary and the grin widens on the scar. "You grow the feather back before the cursing is finished. Mine whistle for weeks. Toby has to listen to it, which is a cruelty even for you."
+"Speak for the raven." Rook flicks a primary and the grin widens on the scar. "You grow the feather back before the cursing is finished. Mine whistle for weeks. Toby has to listen to it, which is a cruelty even for you."
 
 "I can hear the feather speech from the rack."
 

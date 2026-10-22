@@ -15,7 +15,7 @@ Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a 
 
 - The number can surface in the memory. Storm-Born and Sky-Born get one exchange, not a lesson.
 - The sergeant in the memory is not named Vance.
-- The cold can hurt her. A comparison of baseline lungs to a retired class name comes out. He is a Raven.
+- The cold can hurt her. A comparison of baseline lungs to a retired class name comes out. He is a raven.
 - No weight.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

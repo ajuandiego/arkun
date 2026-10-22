@@ -12,7 +12,7 @@ I give her the clean version. A clean version is what a wingman is for.
 
 "Runner lost in the sand. No body. The commander is holding the south post until the weather clears. Redoubt Station 14. He relieved the courier. The beacon was killed so the storm wouldn't paint the prowler for every scavenger on the ring."
 
-I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another Hawk had walked it in. Vram's voice on the beam was level. *Level when he drops. Level when he's hurt.* I have known him long enough to hate that a log will not tell me which.
+I hear myself doing it. The sentences are smooth. They have the shape of a report I would trust if another hawk had walked it in. Vram's voice on the beam was level. *Level when he drops. Level when he's hurt.* I have known him long enough to hate that a log will not tell me which.
 
 "Weather," she says, the way she says a name she intends to fire.
 

@@ -18,7 +18,7 @@ Vram stands where she can see his hands. "I flew those sweeps. I won't retell th
 
 Chen reads. The market moves around us. Ren shifts and I put two fingers on his wrist, the old signal for go home. He goes, this time, because Chen's people are watching and he is not stupid in a crowd.
 
-"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your Raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
+"No house takes the lee for itself," Chen says. "You don't get a private sky. You get the stills on the common clock, a shelter bench, and the parts if your raven hauls them without breaking my pipes. He looks at me when I speak. He does not look at the girls. That is the beginning of a respect, not the end of a debt."
 
 "We'll haul," I say.
 

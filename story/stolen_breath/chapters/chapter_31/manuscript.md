@@ -16,7 +16,7 @@ Wolf. I know the set of the shoulders before I know the face. Dark fur along the
 
 "Kira Brandt," I say.
 
-"And you are a Raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
+"And you are a raven hot enough to pull a satellite onto my road." The gun stays. She looks at Tsunari's throat, at the absence of a socket, and something in her face changes by a degree and no more. "The heat I can mask. I sell that. I do not haul a collar for free, and I do not haul a page I haven't read."
 
 Tsunari holds out the copy. Her hand shakes. She does not beg. "Fourteen months. The lee over the Ring fails. Evacuation zero. You run freight through that air. Read it before you decide we are a bill you can't afford."
 

@@ -2,8 +2,8 @@
 
 ## Who commands whom
 
-1.  The Karyon hold the lattice kill-switch.
-2.  The Consortium owns the soldiers. Apex owns the Avian legions (Ravens and Hawks) and sells the Chrysalis, which is a Karyon treatment, not a strain. Aethelgard owns the Ceraton bastions and the Lycan cohorts. Vanguard owns the Raptors and the Galvan cells.
+1.  The karyon hold the lattice kill-switch.
+2.  The Consortium owns the soldiers. Apex owns the Avian legions (ravens and hawks) and sells the Chrysalis, which is a karyon treatment, not a strain. Aethelgard owns the Ceraton bastions and the Lycan cohorts. Vanguard owns the Raptors and the Galvan cells.
 3.  **Commander Vram Tyage** commands **Aeros-Legion 7** only. He does not command the ground army or the gate.
 4.  **The Iron Division** is the baseline force. Constables inside the dome, cordons and canal patrols outside it. Plasma lances, not wings. They hold the wall, the gates, and a sweep. They do not walk every alley. Their families live in the dome as ordinary citizens, and they go home to those apartments at the end of a shift.
 5.  A constable cannot arrest a legionnaire. The Directorate can. A chimera in the bazaar is an event, not a beat.
@@ -24,7 +24,7 @@
         [ THE CONSORTIUM OF EDEN ] <===> [ THE SURVIVAL ALLIANCE ]
         (Apex / Aethelgard / Vanguard)      (Tsunari & Vram)
         • Proprietary Strain Patents             |
-        • Terrified of Obsolescence              | Sparks Chimeric Mutiny
+        • Terrified of Obsolescence              | sparks Chimeric Mutiny
                   |                              v
                   v                [ CHIMERIC REBELS & DUSTBORN ]
         [ CHIMERIC REGIMENTS ]     • Aeros-Legion defectors

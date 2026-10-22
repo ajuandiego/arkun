@@ -18,12 +18,12 @@ What the reader understands about the occupiers by the end of *Stolen Breath*. T
 
 ## Open
 
-These are the question marks the Karyon file in the bible is already answering, and this book is not.
+These are the question marks the karyon file in the bible is already answering, and this book is not.
 
 * Why they want the planet, if not as a conquest the reader already understands. The page gives a schedule and a cruelty. It does not give the bench, the trait that stays, or the self they are trying to graft.
 * What they breathe, and why the storm and the pylons are a kindness to them and a bill for everyone else. The reader has sulfur, cough, and a collapsing lee. The lung that needs that blend is still backstage.
 * Who Xaevis is, and who can dissent. Lyraen is not a voice yet. A schism has not been offered.
-* Whether a Karyon can wear a human life. No violet blood, no clean filter, no mentor whose cartridges never stain. Mercer is not a reveal in this book.
+* Whether a karyon can wear a human life. No violet blood, no clean filter, no mentor whose cartridges never stain. Mercer is not a reveal in this book.
 * Whether the kill in the socket can still be fired after a Vault dose.
 * What "colonial migration" means in bodies. Ships, a spawning, a replacement of the baseline. The words are on the decryption. The picture is not.
 * The rune and the cattle. Maeva believes it. The reader has not been shown the harvest.

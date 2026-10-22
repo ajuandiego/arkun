@@ -12,7 +12,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 From this beat:
 
 - The landing pad of Redoubt Station 14. A harvester hangs on the horizon and does not land. What lands is a government prowler.
-- One Wolf and two Rhinos. Directorate kit, sockets fitted, no black veins. One of the Rhinos is a woman. She charges. The other wedges the grate. They want the telemetry audit and a search. The Wolf smells a second body and says so. Vram tries to talk the inspection through.
+- One wolf and two rhinos. Directorate kit, sockets fitted, no black veins. One of the rhinos is a woman. She charges. The other wedges the grate. They want the telemetry audit and a search. The wolf smells a second body and says so. Vram tries to talk the inspection through.
 - He hears her in the shaft and drops through the ceiling. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. Between her in the duct and his wing in the room, the detail goes down.
 - Their blood is desertion the same hour. Her hand on his wrist stops the climb. That is a second crime. She does not thank him.
 
@@ -20,8 +20,8 @@ From this beat:
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- What lands is a prowler. A Wolf and two Rhinos. One of the Rhinos is a woman. No inquisitor.
-- Class bodies only. No black veins. No wing dump. Say Wolf and Rhino. The old class names stay off the page.
+- What lands is a prowler. A wolf and two rhinos. One of the rhinos is a woman. No inquisitor.
+- Class bodies only. No black veins. No wing dump. Say wolf and rhino. The old class names stay off the page.
 - No height. No weight. The drop does not stop for a chest-muscle lecture.
 - Drawing their blood is desertion. The old statute about a first hand comes out.
 

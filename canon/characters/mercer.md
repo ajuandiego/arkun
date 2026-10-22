@@ -4,7 +4,7 @@
 
 ### "Doc" Aaron Mercer (The Mentor & Secret Infiltrator — CANON PLOT TWIST)
 *   **Public Persona:** A weary, coughing combat medic in his late 50s. Worked alongside Tsunari’s father before the Green Domes closed. Acted as Tsunari’s surrogate father, mentor, and the tactical anchor of the Null-Circuit rebel cell.
-*   **The Secret Reality:** **A Deep-Cover Karyon Simulacrum (Codename: *Weaver-Unit 09*).** 
+*   **The Secret Reality:** **A Deep-Cover karyon Simulacrum (Codename: *Weaver-Unit 09*).** 
     *   Mercer was planted decades ago as the simulacrum trial. The species meaning is in `../world/factions/karyon.md`.
     *   He guided Tsunari into bio-engineering and genetic reverse-engineering because the Silence had already marked her as the anomaly. He steered the work and kept the cell as a dish. Jeffrey Thorne wrote the genome. Mercer did not, and Mercer does not know the formula.
 *   **The Foreshadowing & Clues:**
@@ -16,7 +16,7 @@
 
 ## 6. The Infiltrator Plot Twist: Canon Reveal & Narrative Payoff
 
-*   **Canon Choice:** **"Doc" Aaron Mercer is the Karyon Simulacrum.**
+*   **Canon Choice:** **"Doc" Aaron Mercer is the karyon Simulacrum.**
 *   **The Narrative Payoff:**
     *   *Act II-B (The Safe Haven Illusion):* When Tsunari brings Vram to the bunker, Mercer pretends to be enraged that she brought an augmented soldier, testing Vram's loyalty and assessing his genetic state.
     *   *Act III-A (The Reveal):* During the air raid on the bunker, Tsunari discovers Mercer standing calmly amid the fire, unaffected by the smoke. His artificial lung ceases its mechanical hiss, his pupils fracture into alien concentric rings, and he tells her with cold affection: *"You did everything I engineered you to do, Tsunari."* He means the path: the apprenticeship, the jobs, and the dish. He does not mean the genome.

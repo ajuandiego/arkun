@@ -24,5 +24,5 @@ Air, the leash, the touch, and the machines the reader has actually used. The ho
 * A dose that works without her in the room. Kira's drives are a hope, not a result.
 * What the carrier can still do after a dose. The kill has not been tested against the stabilizer. Voice and tracking have not been shown going dark.
 * How hard the barrens are once you leave the hours. The crash and the pack are one night, not a life.
-* What the pylons are doing when the Gospel hears them hum. The reader gets a sound in the rock and a rite. The gas blend, the parts per million, and the reason a Karyon lung needs that sky are not yet a lesson the page has finished. The human side is sulfur, cough, and a schedule.
+* What the pylons are doing when the Gospel hears them hum. The reader gets a sound in the rock and a rite. The gas blend, the parts per million, and the reason a karyon lung needs that sky are not yet a lesson the page has finished. The human side is sulfur, cough, and a schedule.
 * Whether the brand on Tsunari's shoulder is cult ink only, or a door into the same chemistry as the Crucible.

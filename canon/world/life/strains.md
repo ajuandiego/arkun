@@ -1,6 +1,6 @@
 # Strains
 
-The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs. They are **gene-spliced chimeras**, built by Gene-Craft from **Karyon templates** recovered in the pre-collapse cradles. Why the Karyon kept these lines is in `../factions/karyon.md`.
+The supersoldiers of Aeros-Legion and the mutated survivors of the wasteland are not cybernetic cyborgs. They are **gene-spliced chimeras**, built by Gene-Craft from **karyon templates** recovered in the pre-collapse cradles. Why the karyon kept these lines is in `../factions/karyon.md`.
 
 A chimera is a person made by that graft. The word is the procedure. It is not a sixth class, and it is not the bond between Tsunari and Vram.
 
@@ -8,10 +8,10 @@ A chimera is a person made by that graft. The word is the procedure. It is not a
 
 Each class has a lab mutagen, a common name where soldiers and the street use one, and an origin mix. The origin is the template. A person's chart can still mix two classes. The dominant class sets the body. The second class lends a sense, a hide, or a chemical trick. Abilities do not migrate. The Arkun trees are in `arkun.md`.
 
-1. **Avian.** Mutagen: **Avian-H Vector.** Common names: **Ravens**, **Hawks.** Origin: 60% raven, the rest other birds. The wing.
-2. **Lycan.** Mutagen: **Lupine-A String.** Common name: **Wolves.** Origin: 80% wolf, the rest other mammals. The nose and the pack.
-3. **Ceraton.** Mutagen: **Pachyd-D Link.** Common names: **Rhinos**, **Tanks.** Origin: 70% rhino, the rest other mammals. The door.
-4. **Galvan.** Mutagen: **Voltax-34 Effect.** Common names: **Sparks**, **Blinders.** Origin: 75% electric eel, the rest amphibian. The wet shock.
+1. **Avian.** Mutagen: **Avian-H Vector.** Common names: **ravens**, **hawks.** Origin: 60% raven, the rest other birds. The wing.
+2. **Lycan.** Mutagen: **Lupine-A String.** Common name: **wolves.** Origin: 80% wolf, the rest other mammals. The nose and the pack.
+3. **Ceraton.** Mutagen: **Pachyd-D Link.** Common names: **rhinos**, **tanks.** Origin: 70% rhino, the rest other mammals. The door.
+4. **Galvan.** Mutagen: **Voltax-34 Effect.** Common names: **sparks**, **blinders.** Origin: 75% electric eel, the rest amphibian. The wet shock.
 5. **Raptor.** Mutagen: **Dromaeo-X Chrome.** No common name. Origin: 79% dromaeosaurus, the rest other reptiles. The stalker. Tsunari's line.
 
 ---
@@ -20,30 +20,30 @@ Each class has a lab mutagen, a common name where soldiers and the street use on
 
 The graft of each class is the male and female pair in `assets/media`: `mutation_avian_male.jpg`, `mutation_avian_female.jpg`, and the same pairing for lycan, ceraton, galvan, and raptor. The Raptor eye is `mutation_raptor_membranes.jpg`. Those sheets show the mutation. Hair, the face, skin color, and clothes belong to the person, and they live in that person's file under `../../characters/`. The graft can change height and build. Feather color, fur color, and the color of unplated skin are the host's.
 
-### 1. Avian — Ravens and Hawks
+### 1. Avian — ravens and hawks
 
 One graft. Hollow bone, a built wing, a predator's eye, and a metabolism that outruns a human. The common name is the cut. The hands are hands. There is no crest, and there are no talons.
 
-*   **Ravens** are the command cut. Broad wing, the hottest burn. Vram Tyage is a Raven.
-*   **Hawks** are the patrol and scout cut. Lighter bone, a faster stoop or a hover. They do not live at a Raven's temperature. Toby Vance is a Hawk. His callsign, Kestrel, is his name in the squad, not a third class.
+*   **Ravens** are the command cut. Broad wing, the hottest burn. Vram Tyage is a raven.
+*   **Hawks** are the patrol and scout cut. Lighter bone, a faster stoop or a hover. They do not live at a raven's temperature. Toby Vance is a hawk. His callsign, Kestrel, is his name in the squad, not a third class.
 
-**Build.** A strong chest and shoulder for the wing. Broader on a Raven, leaner on a Hawk. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
+**Build.** A strong chest and shoulder for the wing. Broader on a raven, leaner on a hawk. Honeycombed bone, sized for a fourteen-foot span and a 12G turn. The span is engineered. No donor bird carried a wing that wide.
 
-**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, the wings hang long down the back. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost Raven primary regrows in about two days, because his set-point turns the tissue over faster. A Hawk primary takes weeks.
+**The wing.** Feathered, anchored between the shoulder blades, driven by dense pectoral muscle. Folded, the wings hang long down the back. Scar rings the follicles. A broken shaft bleeds. The first set takes years. A lost raven primary regrows in about two days, because his set-point turns the tissue over faster. A hawk primary takes weeks.
 
 **The feather.** Shaft, vane, and barb. The shaft is carbon bone wrapped in keratin. The vane is that keratin, stiff enough to cut a line. The color of the vane is the host's. The nape is hair, skin, and the siphon.
 
 **Heat.** A fourteen-foot wing will not fly on a human set-point. The mount trial already proved the failure: the pectoral cannot pay for the wing, and the shoulder breaks. Avian-H Vector keeps the donor bird's set-point so that muscle can do the work. Folded or open, it does not drop to a human idle. Every Avian therefore lives near 104°F. The trial is in `../factions/karyon.md`.
 
-A Raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A Hawk still has margin under that waste. The burn shows up late, as tremor. A Raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
+A raven carries the largest engine, so his resting line is 104°F to 106°F before the leash is loud. Lattice Burn is waste heat in every collared soldier, from a mesh insulated so the carrier returns to the Spire. A hawk still has margin under that waste. The burn shows up late, as tremor. A raven has no margin. The same waste pushes him past 108°F, and the mesh misfires. The Keystone shunts the carrier, which removes the waste. The cooler body against his takes the set-point the folded wing is still producing.
 
-A closed hand is hot because the tissue is at that set-point. A cut on a Raven closes faster than a cut on a Hawk, because the higher set-point turns the tissue over faster. Apex fits each command Raven with one cardiac shock. Heat and the kill both stop the heart, and a dead Raven is a lost wing. The shock fires once. Then he is spent.
+A closed hand is hot because the tissue is at that set-point. A cut on a raven closes faster than a cut on a hawk, because the higher set-point turns the tissue over faster. Apex fits each command raven with one cardiac shock. Heat and the kill both stop the heart, and a dead raven is a lost wing. The shock fires once. Then he is spent.
 
 **Senses.** Tetrachromatic vision: ultraviolet, thermal, and the glint of a wire. The inner ear filters a breath out of a gale.
 
-**Fuel.** The burn eats calories. A Raven on a long patrol eats like a fire.
+**Fuel.** The burn eats calories. A raven on a long patrol eats like a fire.
 
-### 2. Lycan — Wolves
+### 2. Lycan — wolves
 
 **Build.** Endurance first, then the jaw. Strong through the shoulder, built to take a hit and keep going. A woman stays a woman. A man stays a man.
 
@@ -55,35 +55,35 @@ A closed hand is hot because the tissue is at that set-point. A cut on a Raven c
 
 **Heat.** A high-endurance mammalian burn. They pant. They are not furnaces.
 
-Kira Brandt is a Wolf with no corporate pedigree. The first time the Karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
+Kira Brandt is a wolf with no corporate pedigree. The first time the karyon locked an animal gene to a human gene and had it stay, the animal was a wolf. That history is in `../factions/karyon.md`.
 
-### 3. Ceraton — Rhinos and Tanks
+### 3. Ceraton — rhinos and tanks
 
 **Build.** Mass. Dense bone. Heavy through the shoulders and the arms. A short charge, then spent. A woman stays a woman. A man stays a man. Boran Vael-Korr is 6'8". That is his height, not a new species.
 
-**Hide.** Grey, cracked hide, like stone, over the neck, the shoulders, the upper arms, the forearms, and the upper back. It can cross the brow, the cheeks, and the jaw. How much of the face it covers varies. The chest and the belly stay closer to the host's skin. Under impact the hide locks: collagen and keratin cross-link, and a round has to chew through it. A keratin horn rises from the center of the brow. The horn's size varies. Human hands, human feet, human teeth. Soldiers who live in the hide are called Tanks. The animal name is Rhino.
+**Hide.** Grey, cracked hide, like stone, over the neck, the shoulders, the upper arms, the forearms, and the upper back. It can cross the brow, the cheeks, and the jaw. How much of the face it covers varies. The chest and the belly stay closer to the host's skin. Under impact the hide locks: collagen and keratin cross-link, and a round has to chew through it. A keratin horn rises from the center of the brow. The horn's size varies. Human hands, human feet, human teeth. Soldiers who live in the hide are called tanks. The animal name is rhino.
 
 **Senses.** Poor eyes, excellent smell and hearing. Impact and footfall reach him through the bone.
 
-**Heat.** Mammalian. He eats almost as hard as a Raven, and he does not bask like a reptile.
+**Heat.** Mammalian. He eats almost as hard as a raven, and he does not bask like a reptile.
 
-**What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a Karyon treatment, not rhino blood. See `../factions/karyon.md`.
+**What this class does not carry.** No venom. No pit organs. No cold resting temperature. A toxic skin belongs to Galvan. The long-life drug the directors buy is a karyon treatment, not rhino blood. See `../factions/karyon.md`.
 
-Boran Vael-Korr is a Rhino. His height, his bald head, and his clothes are in `../../characters/boran.md`. The class is the horn and the grey hide.
+Boran Vael-Korr is a rhino. His height, his bald head, and his clothes are in `../../characters/boran.md`. The class is the horn and the grey hide.
 
-### 4. Galvan — Sparks and Blinders
+### 4. Galvan — sparks and blinders
 
 **Build.** A human frame. A woman stays a woman. A man stays a man.
 
 **Hide.** Dark, irregular spots across the shoulders, the upper arms, the upper back, and a scatter on the face, the neck, and the chest. The spots sit on the host's skin. The iris glows. The pupils are round. The mouth is a person's mouth. Human hands, human feet.
 
-**The shock.** Modified muscle stacked in the forearms. It leaves through the palms, and on the sheets it arcs off the hands. A Spark uses that discharge as a weapon. A Blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
+**The shock.** Modified muscle stacked in the forearms. It leaves through the palms, and on the sheets it arcs off the hands. A spark uses that discharge as a weapon. A blinder spends it wider: a whiteout of eyes, ears, and sensors, short, then the soldier is empty.
 
 **Air.** They gulp, and they tolerate standing water and a sulfur seep better than the other four. The skin has to stay wet. In the dry barrens the breath and the shock both fail if the hide dries. The wet read picks current and a heartbeat in water or along metal. It is not a stripe painted on the ribs.
 
 **The secretion.** The amphibian share can load the palmar glands with a toxin. A scratch is a medical event. It is not a Ceraton weapon, and it does not ground a siphon.
 
-**Heat.** Cooler than an Avian, warmer than a Raptor at rest. They are not a heat sink for a Raven.
+**Heat.** Cooler than an Avian, warmer than a Raptor at rest. They are not a heat sink for a raven.
 
 ### 5. Raptor — no common name
 
@@ -97,7 +97,7 @@ The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname
 
 **Weapons.** The donor animal in the archive had a sickle claw on the inner digit. No living population of that animal is on the barrens. The wildlife is in `ecology.md`. A human subject shows the legs, the leap, and a fast start, often with handheld hooks that copy that arc. Tsunari's hooks are in `../../style/glossary.md`.
 
-**Sound and heat.** A sub-vocal chamber for hunting clicks. She can drop toward a cool resting temperature and fall off a thermal scope. She is the cool body against a Raven's burn. The cool is not the ground. The ground is the Keystone, in `leash.md`.
+**Sound and heat.** A sub-vocal chamber for hunting clicks. She can drop toward a cool resting temperature and fall off a thermal scope. She is the cool body against a raven's burn. The cool is not the ground. The ground is the Keystone, in `leash.md`.
 
 ---
 
@@ -105,6 +105,6 @@ The page says Raptor. The lab says Dromaeo-X Chrome. There is no street nickname
 
 Human aviation is gone. No fuel, no refineries, no avionics chain. The Consortium put the wing into the Avian class only. Raptors do not fly. Lycans, Ceratons, and Galvans do not fly.
 
-The only mechanical flying craft on Earth belong to the Karyon: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyon.md`.
+The only mechanical flying craft on Earth belong to the karyon: soundless harvester barges and atmospheric obelisks on anti-gravity. That monopoly is in `../factions/karyon.md`.
 
 **The socket on a flyer.** One nape socket carries both streams. Wind, thermal, and the marked target arrive as data. The leash is the strain carrier in the same metal. They are not one wave. A short tab sits under the socket. It is not a second antenna. The hardware rule is `leash.md`.

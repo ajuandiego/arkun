@@ -29,4 +29,4 @@ The stomach goes first. Then the wing bites, and the ground becomes a dark band 
 
 "I am."
 
-A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of Hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.
+A flare opens behind us. The squad is up. I see one span of them against the lamps, a line of hawks, and then I stop looking at the measure of anything. The yard is a rumor of containers on the far side of the band. His arms stay locked. I hate how much of my weight I have given him, and I do not let go.

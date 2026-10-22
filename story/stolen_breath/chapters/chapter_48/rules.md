@@ -13,7 +13,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a line here fights them.
 
-- Steam, the Rhino in the door, and Caelia taking the blow. The order allows the dead. The door is the answer.
+- Steam, the rhino in the door, and Caelia taking the blow. The order allows the dead. The door is the answer.
 - She falls. This chapter does not bury her.
 - No cure that travels.
 

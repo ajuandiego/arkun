@@ -11,7 +11,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 From this beat:
 
-- A Karyon voice, not a body in the room, tells her the return on one of her soldiers dropped and came back, and the woman beside him is the anomaly. Priority zero. Capture her alive. They need to understand what happened. They do not give Corvus a finished diagnosis, and she does not get the five facets or the name of the key.
+- A karyon voice, not a body in the room, tells her the return on one of her soldiers dropped and came back, and the woman beside him is the anomaly. Priority zero. Capture her alive. They need to understand what happened. They do not give Corvus a finished diagnosis, and she does not get the five facets or the name of the key.
 
 ## This pass
 

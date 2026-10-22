@@ -1,6 +1,6 @@
 # Chapter 19 // Tsunari
 
-> **Plate.** The hide on a Rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A Wolf follows a scent. A Rhino is hide, a horn, and a short charge.
+> **Plate.** The hide on a rhino's neck, shoulders, and back. A knife skips off it. The chest and the eyes are bare. A wolf follows a scent. A rhino is hide, a horn, and a short charge.
 
 ***
 
@@ -32,12 +32,12 @@ The shaft is one body wide. I am that body until he decides he is too. I hear th
 
 A charge answers him from the grate. The woman. I don't see her. I hear the horn hit the frame and stick. Somebody else is in the hinge, holding it open and shut at once, a wedge with a body. The charge dies in the geometry. Plate scrapes. She cannot get the shoulders through.
 
-The Wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
+The wolf surges. I put the bodkin at the soft of his throat and he twists so the hide of his collar takes it. Wrong opening. The hide I need is above us, and it is not on the chest.
 
 I drop under his reach, boots on the duct wall, and I go for the grate at the angle the wedge did not close. The woman is jammed at the shoulders. Neck plate. Back plate. The chest below the plate is skin, heaving, and the eyes above the horn are bare. The hook skips off the hide with a sound like a bad coin. I do not try the hide again. I rake the beak across the gap at the collarbone, shallow, enough to make her choose her hands.
 
 She chooses wrong. The wedge slips. I am past her hip and into the mechanical room before the horn comes free.
 
-No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the Wolf is still in the shaft with my scent in his mouth.
+No stutter. No quiet sent on purpose. I am only fast in a tube and small where they are wide. They are heavier in the doorway, and the doorway is behind me now, and the wolf is still in the shaft with my scent in his mouth.
 
 *Move.* I move, because the wing I came here with is still upstairs trying to be a commander, and the blood I just drew on a government soldier has already ended that.
