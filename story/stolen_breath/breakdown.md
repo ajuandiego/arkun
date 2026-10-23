@@ -263,19 +263,20 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Lexicon:*
         > **The dead band.** A poisoned strip at the edge of the ring, hosed so nothing grows out. Past it, one ruin: the freight yard. Containers, a drain, a basement.
     *   *Setting:* The Dead Perimeter, the band just outside Sector 09.
-    *   *Core Action:* The band's turrets hose them with phosphor defoliant. Shrapnel tears the wing. The chemical fog takes them both down into the storm drain under the freight yard on the lakebed. That yard is about 10 miles south of the dome's center. The map is in `canon/world/geography.md`.
+    *   *Core Action:* The band's turrets hose them with phosphor defoliant, and the hose is the smaller hit. He rolls her under the wing and takes the burst. Shrapnel tears the vane. The chemical soaks both of them. He still flies the black mouth of the drain, because the pad of the yard is where a gun finishes a fallen wing. They hit the pipe. He gets her onto the dry ledge. He is breathing. He stops answering. The heart keeps going. The one cardiac shock fitted to a command raven does not fire. That shock is spent once, in a later book. This crash does not spend it.
+    *   *The yard:* About 10 miles south of the dome's center. The map is in `canon/world/geography.md`.
 
 *   **Chapter 26 // Tsunari**
     *   *Voice:*
         > *Water will not stop the burn. The clothes have to come off, and the skin has to be scraped. Shame is slower than the burn.*
     *   *Setting:* The storm drain under the freight yard, and the dry ledge above the wash. Same ruin they fell into.
-    *   *Sensory & Spicy Climax (🌶️🌶️🌶️🌶️ Open Door / The Wing-Root Awakening):* After stripping their burning, acid-soaked garments in the freezing culvert, Tsunari tends Vram's burns and begins preening the toxic alkali dust and scorched feathers from his dorsal flight roots. In Avian biology, the wing roots anchor directly into the sympathetic thoracic nerve cluster—an intensely sensitive, involuntary erogenous center. The sensory overload breaks Vram’s military discipline. Driven by raw dopamine, the adrenaline crash, and the intoxicating contrast of her cool scent, he pins her against the stone wall. Dropping to his knees, his hands and mouth worship her: explicit oral sex (cunnilingus) and manual stimulation that brings Tsunari to a shuddering, vocal orgasm against the rock. He pulls back before intercourse, terrified his 106°F heat will burn her, leaving them both breathless, aching, and physically addicted to each other's touch.
+    *   *Core Action:* The chemical keeps eating. She gets the soaked clothes off him and off the split in her shoulder, and she scrapes the root, because water will not stop it. He does not wake. He does not pin her, and he does not ask. The open door does not happen on this ledge. It waits until he is awake again, in the basement, after the ampule. What she has here is a man who put the wing between her and the turret and then left his own body behind. She stays on the ledge until the scraping is done, and she talks to him anyway.
 
 *   **Chapter 27 // Vram**
     *   *Lexicon:*
         > **The furnace.** The heat that flies the wing. Tear the wing and leave him on the ground, and the heat has nowhere to go but into him.
     *   *Setting:* The containers of the same freight yard.
-    *   *Core Action:* He tries to lift them off the yard. The shredded wing will not hold, the shoulder goes, and the fever climbs past 108°F. He drops them back among the containers, his body between her and the sand. There is no second country. Kira's basement and Boran's rail door are under this yard.
+    *   *Core Action:* He comes back for one attempt. The shredded wing will not hold, the shoulder goes, and the fever climbs past 108°F. He gets her as far as the containers, his body between her and the grit, and then the yard leaves him. Alive. Not answering. There is no second country. Kira's basement and Boran's rail door are under this yard, and he will not walk to either of them. The rail waits out the next two weeks.
 
 ***
 
@@ -292,53 +293,59 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
 
 ### PART III: THE FERAL CRUCIBLE & THE SUMP PROPHET (Chapters 28 to 41)
 
+The crash night ends with him unconscious under the yard. The next two weeks are the basement. The sump does not start the next morning.
+
 *   **Chapter 28 // Ren**
     *   *Lexicon:*
         > **The rattle.** The dry sound behind the breastbone. It can go on for years before the lungs turn to glass. It is already in his chest.
     *   *POV:* Ren, first person, present. His file is `canon/characters/ren.md`.
     *   *Why he goes again:* The first time, Drew turned the cart around because Tsune said so. Ren spent the night hearing the cut link. T.J. still has the bearing and still will not leave the bunker. Ren tells Drew he is going with or without the cart. She takes the cart.
-    *   *The road the second time:* He counts the crawler the way he counted it on the night of the tap, because counting is what he can do while his chest rattles. The lee thins. The mirrors are behind them. The dead band is a mile of air he should not be breathing, and he breathes it anyway. Drew makes him take the cartridge. He hates that she is right.
-    *   *The lip:* They reach the freight yard as the dogs go quiet. He wants to climb down. Tsune puts a page in Drew's hand and sends them back. He goes, because she is looking at him the way she looks at a window that is about to close, and he will not be the reason it closes. He does not see the drain under the yard. He does not see the man past the containers.
+    *   *The road the second time:* He counts the crawler the way he counted it on the night of the tap, because counting is what he can do while his chest rattles. The lee thins. The mirrors are behind them. The dead band is a mile of air he should not be breathing, and he breathes it anyway. Drew makes him take the cartridge.
+    *   *The lip:* They reach the freight yard as the dogs go quiet. He wants to climb down. Tsune puts the schedule-skin copy in Drew's hand, and this time she does not send them home as the whole order. She tells them the man under the containers is alive and not answering, and that she will need them. He still does not see the man. T.J. stays in the bunker. Drew is in `canon/characters/drew.md`. T.J. is in `canon/characters/tj.md`.
 
 *   **Chapter 29 // Tsunari**
     *   *Lexicon:*
         > **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
     *   *Setting:* The freight yard on the lakebed, the ruin they fell into. Containers, Kira's basement, and the rail door are one site.
-    *   *Core Action:* Tsunari drags the semi-conscious, bleeding Commander into a rusted shipping container as a pack of feral dogs goes quiet across the yard.
-    *   *Drew and Ren:* They did not stay turned around. T.J. called the bearing from the bunker and stayed there. The south road is a few miles. They reach the yard lip as the dogs go quiet. Tsunari puts a copy of the schedule skin in Drew's hand and sends them back toward the Ring before the pack commits. They will tell Mercer they lost her at the mirrors. Drew is in `canon/characters/drew.md`. T.J. is in `canon/characters/tj.md`.
+    *   *Core Action:* She drags him into a container. He does not help. The schedule, the sister, and the vault wait. A pack goes quiet across the yard.
+    *   *Drew and Ren:* They reach the lip as the dogs go quiet. She puts the copy in Drew's hand and tells them to hold on the road, not to climb into the aisle. Mercer still hears that they lost the signal at the mirrors. The clinic stays dark. The crew is not dismissed. They are the hands she is about to spend.
 
 *   **Chapter 30 // Tsunari**
     *   *Setting:* The interior of the shipping container.
-    *   *Core Action:* The lead dog comes into the container. Tsunari cannot speak it. She triggers her **Quantic Phase-Stutter**, ghosts past the rush, and drives her bodkin knife into the shoulder.
+    *   *Core Action:* The lead dog comes in. The move she was never taught arrives in the body. She does not name it. The bodkin goes in behind the shoulder. He does not stand. She finishes the minute alone, at the speed she had on the road.
 
 *   **Chapter 31 // Vram**
     *   *Lexicon:*
         > **A cache.** A scavenger's store, marked and kept. Come into it bleeding and you are not a guest. You are a bill.
+        > **A quench ampule.** A one-use legion field dose for a downed raven whose wing cannot carry the furnace. It pulls the heat back under the number that stops the heart. It does not grow a vane, it does not turn the gain down, and it is not the later cure. A recalibration dose is a different vial. The cardiac shock is a different machine, already fitted, and it stays unfired.
     *   *Setting:* The loading dock of the freight depot.
-    *   *Core Action:* Awakened by the scent of Tsunari's blood, Vram kills the lead dog with his hands and the weight of the wing. No black veins. No wing dump. That door is still shut. As the rest of the pack closes, **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the pack with phosphor flare-slugs and keeps the gun on the raven. His heat can pull a satellite onto her road. She hauls them only after a copy of the schedule skin is in her hand. Masking that heat is a trick she sells. Boran's door is a debt she owes him, and this cargo pays it. The bargain is in `canon/characters/kira.md`.
+    *   *Core Action:* Her blood brings him up for one kill. He puts the lead dog down with a hand and the weight of the wing. No black veins. No wing dump. Then he is gone again, still breathing. **Kira Brandt** comes in on a sand-crawler because the depot is her cache and the dogs have been eating it. She scatters the rest with phosphor flare-slugs and keeps the gun on him until the schedule copy is in her hand. She knows the ampule. She does not have one on the crawler. His heat can pull a satellite onto her road. The mask paste is the trick she sells, and it is not enough for a furnace with nowhere to fly. The bargain is the page, the paste, and the name of the locker. Boran's door stays shut until he can walk. Her file is `canon/characters/kira.md`.
 
 *   **Chapter 32 // Tsunari**
-    *   *Setting:* The sub-zero basement of the bunker.
-    *   *Sensory & Emotional Climax (Triage & The Partners Compact):* Delirious from lattice burn and shredded flight muscles, Vram’s fever flares past 106°F in the sub-zero chill. Tsunari climbs onto the narrow cot to wrap herself around him, using her cool reptilian flesh to absorb his fever and shelter his broken wings against the lethal Night Freeze. As his delirium clears, their raw vulnerability turns into an unyielding mutual recognition. Stripping away the last barriers of mistrust, Tsunari establishes their compact: *"Partners, or nothing."* Vram agrees, holding her in fierce protection beneath his flared wings until dawn—sealing their emotional alliance as absolute equals without crossing into premature intercourse.
+    *   *Setting:* The south ring, the same few miles Drew already drove, and a legion med locker T.J. finds from the bunker. A prowler on a resupply, or the lee clinic the company still stocks. Not a new city.
+    *   *Core Action:* She leaves Vram with Kira. All the other work stays paused: the sister, the vault, the fourteen months as a plan. Drew drives. Ren counts and carries the cartridge. T.J. never comes up. He holds the window on the set and tells them when the locker is between passes. They take one quench ampule. The theft has a cost, a near-miss or a mark on the road, and they get out with the vial. Mercer still has the mirror lie. The page stays with Drew so the clinic has the date.
+    *   *What she is doing:* He nearly died putting the wing over her. She spends her crew, and herself, to keep him alive. The quest is that choice.
 
 *   **Chapter 33 // Vram**
     *   *Lexicon:*
         > **Off the mesh.** The leash is also his map, his orders, and the voices of his wing. When that goes quiet, he is not free. He is blind.
-    *   *Setting:* The basement of the same freight yard, at dawn.
-    *   *Core Action:* Waking up in dead-channel stillness with Tsunari asleep against his chest. Instead of relief, Vram experiences the visceral dread of an off-grid rogue operative: to a soldier conditioned by ten years of deafening static and telemetry uplinks, being completely blind to his army deep in occupied territory is terrifying.
+    *   *Setting:* Kira's basement under the same freight yard. The days after the ampule.
+    *   *Core Action:* The ampule keeps the heart from stopping. He stays under, then the fever backs down to a coal, then he wakes into a quiet mesh. Days have already passed. She tells him what she did, and who carried the vial. The schedule waited. He was the thing that did not wait.
+    *   *The open door, moved here from the culvert:* He is awake, the chemical burn is off, and the want is still in the room. The scene stays hers to agree to and his to stop. Explicit, and still short of intercourse, because his heat would burn her and because the rescue is not a debt he collects in her body. The partners line follows, in this basement, once that stop is real: *"Partners, or nothing."*
+    *   *The two weeks:* A lost raven primary regrows in about two days. The wait is the shoulder, the chemical in the vane, and a furnace that climbed past 108°F. Kira's paste keeps the satellites off the roof. By the end he can walk and drag the wing. He cannot fight a sky. Cassian's fourteen days run during this. The pair do not hear the roost.
 
 *   **Chapter 34 // Vram**
     *   *Lexicon:*
         > **The rail under the yard.** A few miles of freight line, back under the ring, into the south sumps. The vault is past that water. The cult holds the water.
-    *   *Setting:* The rail door in that same basement.
-    *   *Core Action:* Kira spends the debt and brings them to **Boran "The Bastion" Vael-Korr**, a 6'8" rhino on his own door. Boran mocks the "fancy fallen flyer with the clipped wings," but grunts in begrudging respect when he sees Vram shielding Tsunari, and he unlocks the hand-cranked trolley. The rail runs a few miles back under the ring and lets out in the south sumps. The vault is the room past that water. The cult holds the water.
+    *   *Setting:* The rail door in that same basement, at the end of the two weeks.
+    *   *Core Action:* Kira spends the debt and brings them to **Boran "The Bastion" Vael-Korr**, a 6'8" rhino on his own door. Boran mocks the fallen flyer, and the respect is for the shoulder Vram puts between Tsunari and the bulkhead. He unlocks the hand-cranked trolley. The rail runs a few miles back under the ring and lets out in the south sumps. The vault is the room past that water. The cult holds the water. They have not been in that water yet. The morning after the crash does not open this door.
 
 ***
 
 ### THE FATAL SIPHON (Interlude IV — Between Chapter 34 & Chapter 35)
 *   **POV:** Omniscient Narrator (Observing Lieutenant Cassian, 28, Wing 3 Aeros-Legion Pilot, Sector 09 Upper Garrison).
 *   **Core Theme:** The gain at the top of what a mesh can carry, and what that does to a legionnaire who has no Mosaic Keystone.
-*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts. The Directorate does not lower the gain. The carrier sits at the top of what the mesh can carry. The burn takes him. No second strain touches him. Toby and Aeros-Legion 7 do not know. Without the Mosaic Keystone, that ceiling is fatal.
+*   **Narrative:** Driven mad by fourteen days of screaming siphon feedback after Vram goes rogue, Lieutenant Cassian deserts. Those fourteen days are the two weeks under Kira's floor. The Directorate does not lower the gain. The carrier sits at the top of what the mesh can carry. The burn takes him. No second strain touches him. Toby and Aeros-Legion 7 do not know. Vram and Tsunari do not know. Without the Mosaic Keystone, that ceiling is fatal.
 
 ***
 
