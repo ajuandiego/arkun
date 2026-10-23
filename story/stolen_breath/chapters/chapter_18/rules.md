@@ -11,7 +11,7 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 
 From this beat:
 
-- She believes the mist on her bench is mercy for the people outside the glass. She files Commander Vram's telemetry because it is the next packet, and she flags the spike because that is the job. She was told her father killed himself after the raid, and that her sister died of the Choke. This chapter does not correct her.
+- She believes the mist on her bench is mercy for the people outside the glass. She files Commander Vram's telemetry because it is the next packet, and she flags the spike because that is the job. The chapter is the workday of that flat place, the same day as the tap and the post. The beam is still open on the strip. He has already reported. The retrieval does not wait out a second night. She was told her father killed himself after the raid, and that her sister died of the Choke. This chapter does not correct her.
 - The day inside is a life people mean to keep: a court, a permit on the glass, children in the canal, a song, the tart fruit. She is tired and she is glad. She does not end on a ledge. That image belongs to the sterile room.
 
 ## This pass

@@ -12,8 +12,8 @@ Use this file on a draft and on a review. Canon wins when a fact disagrees. The 
 From this beat:
 
 - The landing pad of Redoubt Station 14. An observer keeps its height on the horizon and does not come down. What lands is a government prowler.
-- One wolf and two rhinos. Directorate kit, sockets fitted, no black veins. One of the rhinos is a woman. She charges. The other wedges the grate. They want the telemetry audit and a search. The wolf smells a second body and says so. Vram tries to talk the inspection through.
-- He hears her from the lip of the intake and drops through the ceiling. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. Between her under the floor and his wing in the room, the detail goes down.
+- One wolf and two rhinos. Directorate kit, sockets fitted, no black veins. One of the rhinos is a woman. Her eyes are on the intake. The man sets his shoulder toward the door. They want the telemetry audit and a search. The wolf smells a second body and says so. Vram tries to talk the inspection through.
+- The wolf goes down the intake. The man starts for the door. Vram leaves the lip and puts him down short of the latch. The man does not reach the cellar. The woman takes the mouth Vram left. He opens the door and drops through the hatch. The wolf is already in the room and is first. The woman is in the room. He puts the heat of the grip and the vane into the opening the plate leaves bare. No black veins. No wing dump. He does not know that door yet. Between her under the floor and his wing in the room, the detail goes down.
 - Their blood is desertion the same hour. Her hand on his wrist stops the climb. That is a second crime. She does not thank him.
 
 ## This pass

@@ -1,5 +1,7 @@
 # Chapter 18 // Sora
 
+The same day.
+
 > *The new mist will help the people outside breathe clean again.*
 
 ***
@@ -56,7 +58,7 @@ Keene does not stay for the thank-you. She is already at the next pair of hands,
 
 "It's the closest thing he has." She bumps my elbow with hers, careful of the queue. "File yours clean. Some of us are spending it."
 
-Packet twelve is a telemetry strip from a south post. Commander. Avian. A fever trace, then a flat place in the noise, then the fever again. I do not know the man. I know the form. A spike left sitting is how a number becomes someone in a bed, and the bed is somebody's brother whether the post is mine or not. I flag it. The note is three words. Anomaly. Repeat. Review.
+Packet twelve is a telemetry strip from a south post, the beam still open on it. Commander. Avian. A fever trace, then a flat place in the noise, then the fever again. I do not know the man. I know the form. A spike left sitting is how a number becomes someone in a bed, and the bed is somebody's brother whether the post is mine or not. I flag it. The note is three words. Anomaly. Repeat. Review.
 
 On the bench beside the queue, the mist trial sits in a sealed tray. Supervisor Keene tapped it yesterday and said the line we are allowed to say. The new mist will help the people outside breathe clean again. I believe her. The work is ugly in the hands and kind in the purpose. They told me that when they gave me the coat. The canal this morning did not argue.
 

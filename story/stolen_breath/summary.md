@@ -291,13 +291,15 @@ You had a name. You will answer to the number.
 
 ## Chapter 18 // Sora
 
+The same day. Her shift is the workday of the flat place, not the morning after the post.
+
 The new mist will help the people outside breathe clean again.
 
 - The quad smells like jasmine because the court grows it. Sora badges through with wet hair and a white coat. The boy from the next stair invents the score so his mother will laugh. The baby gets a fist into her cuff. They posted a birth permit before breakfast.
 - The tram through Sector 2. The shield holds the day green, and the canal turns it gold under the towers. Faces stay bare. Children are in the water. An old man tells a girl that rain used to make the stone shine, and she asks him to say it again. Four strings in the plaza. A couple steps out of the walk for the part they like. Tart fruit from the gate, eaten like a prize. Sora wants the outside to have this morning.
 - She was ten when they brought her in. They said her father killed himself after the raid, and that her sister died of the Choke. The sister stays in the story they gave her. She has a shift.
 - Culture Lab 4. Keene gives her packet twelve and tells her not to admire it. The woman at the next bench wants the tray to clear so her brother can put in for a second child. Sora tells her the tray is a trial. The woman says it is the closest thing he has, and to file clean.
-- The strip is a south-post commander, Avian, a fever, a flat place in the noise, then the fever again. She flags it: Anomaly. Repeat. Review. She does not know the man. A spike left sitting becomes someone in a bed.
+- The strip is a south-post commander, Avian, the beam still open on it: a fever, a flat place in the noise, then the fever again. She flags it: Anomaly. Repeat. Review. She does not know the man. A spike left sitting becomes someone in a bed. The retrieval is that night.
 - She believes the mist line. She files, washes, and rides home. The boy makes her count a game. The woman sticks the permit to the glass so she can see it when she comes home mean, then feed the baby and do the day again. Sora eats, hangs the coat, and wants the morning.
 
 ## Chapter 19 // Tsunari
@@ -306,18 +308,18 @@ Plate is the hide on a rhino's neck, shoulders, and back. A knife skips off it. 
 
 - The post's radar tick is wrong. Unannounced traffic on the south road. He tells her she does not exist in the room. She takes the hooks in her hands and drops through the floor hatch. He lowers the lid.
 - She jacks a relay. The audit is his fever from the hour he stood six feet off her: a fever, a flat place, the fever back. She knows the flat place and will not name it. The hand that filed it is Analyst, Tech-Specialist S. Thorne, Culture Lab 4.
-- She knows the initial. Sora flagged the minute. Tsunari kills the slate and does not take the file. A hawk span crosses the slit once. A company voice says to clear the pad.
-- The wolf comes up the intake. She leaps above his shoulders. The hook finds the strap under his ear. He slams her into the metal and shouts that she is here. The woman rhino charges. The horn sticks. The other rhino wedges the hinge. Plate holds.
-- The wolf's collar hide takes the bodkin. Tsunari rakes the gap at the woman's collarbone. The wedge slips. Tsunari is past her and into the mechanical room. No stutter. The blood she drew has already ended the command upstairs. She does not see him drop.
+- She knows the initial. Sora flagged the minute. She wipes the session off the slate before she pulls the tang. Wings beat over the intake, and a searchlight rakes the mouth. A company voice says to clear the pad.
+- The wolf comes down the intake. The ceiling gives her one leap. She lands on his shoulders and opens the strap under his ear. He slams her into the pump and peels at the braid with his hands. The bodkin meets his collar and loses. He starts to fold her knee.
+- The woman comes down the intake after the shout. She has the room. Her hand hauls Tsunari in, and her brow splits the skin on Tsunari's shoulder. The hook skips off the plate. Tsunari rakes the collarbone. The woman's hands come up to the cut. Tsunari reaches the far wall, bleeding. The wolf and the woman are in the room. No stutter. The blood she drew has already ended the command upstairs. She does not see the drop.
 
 ## Chapter 20 // Vram
 
 Draw blood on your own government's retrieval, and you are deserted the same hour. They can turn the leash up on the wing you left.
 
-- The observer keeps its height on the horizon. Nothing holds it, and it does not come down. A government prowler lands. A wolf and two rhinos step out in Directorate kit, sockets fitted and ordinary. The heat on the pad is his. One rhino is a woman. She will charge the intake. The other will wedge it.
+- The observer keeps its height on the horizon. Nothing holds it, and it does not come down. A government prowler lands. A wolf and two rhinos step out in Directorate kit, sockets fitted and ordinary. The heat on the pad is his. One rhino is a woman. Her eyes are on the intake. The man sets his shoulder toward the door.
 - The wolf calls an audit and a search. Vram says the runner is dead and he reported the weather. The wolf smells a second body under the floor: fear, copper, and a woman. The leash climbs. Vram keeps his hands open and says a nose does not gut his post.
 - The woman says they have a retrieval. Step off the intake, or she stops asking. He stays at the lip. He says stand down. The wolf goes down anyway.
-- Vram hears her, then the horn stuck in the frame. He drops through the ceiling. The woman charges him. He leaves the floor, puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. He boots the other rhino into the frame. The wolf comes out bleeding at the strap and goes down, because he cannot trust his nose.
+- The wolf goes down the intake. The man starts for the door. Vram leaves the lip and puts a shoulder into his chest short of the latch, before the brow can land. The man stays down. The door does not open. The woman takes the mouth Vram left. Vram hears the cellar, opens the door, and drops through the hatch. The wolf is already in the room and comes for her. Vram puts him on a knee. The woman is in the room. She comes in on the short charge. He is off the floor before her brow gets there. He puts his hands in the gap under her plate, and a vane lays a line across the unplated chest. She goes down. The man is still on the pad.
 - Tsunari is against the far wall. Their blood is desertion. The leash can be turned up on Cassian, Toby, Rook, and Amari. It tries to climb. Her hand finds his wrist, and the climb stops. She says he drew on them. He says so did she. She says then they are both already gone. He takes her hand off only when he can stand the noise long enough to walk.
 
 ## Chapter 21 // Corvus
