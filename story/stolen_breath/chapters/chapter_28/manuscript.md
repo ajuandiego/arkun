@@ -6,32 +6,34 @@
 
 The cut link is still in my ear when I tell Drew I am going.
 
-She is at the bench. The tang she wrapped for Tsune is still on the cloth, useless, because the woman who uses it did not come home. T.J. is in the set, fourteen and furious in the only way he allows, which is precision.
+She is at the bench with the lamp low. The next tang sits on the cloth where Tsune's hands would look for it, wrapped, useless, because the woman who uses it did not come home. The set hisses. T.J. is in it, precise the way he gets when he is angry and will not say the anger.
 
-"Bearing is south," he says. "Past the mirrors. I am not coming up. Ask me again and I will stop answering."
+"Bearing is south," he says. "Past the mirrors. The prowler stayed. No body on the gate log. I am not coming up. Ask me again and I stop answering."
 
 "I'm not asking you," I say. "I'm telling her."
 
-Drew looks at the burn on her hand. "She told us to turn around."
+Drew looks at the burn across the back of her hand. Grease in the lines of it. "She told us to turn around."
 
-"She told us that so we would live. I spent the night living. I'm done."
+"She told us that so we would live. I spent the night living. I'm done with it."
 
-The rattle clicks when I stand. One dry catch behind the breastbone. Drew hears it and puts a cartridge on the bench without a speech. I hate that she is right. I take it.
+The rattle clicks when I stand. One dry catch behind the breastbone, the sound the downwind blocks make in doorways. Drew hears it. She puts a cartridge on the bench and does not make a speech. I take it and seat it where my teeth can find it if the air goes thick.
 
-We take the cart because she will not let me walk it. The lee thins. The mirrors go by, black and already a lie we will tell if we have to. I count the roofs, then the miles, because counting is what I can do while my chest does the other thing. The dead band is a mile of air I should not breathe. I breathe it with the cartridge in my teeth and I do not thank her.
+We take the cart because she will not let me walk the miles. The lee thins. Copper gets into the cloth. The mirrors go by, black plates, already the lie we will tell if we get to tell one. I count roofs until the roofs stop, then I count the joints in the road, because counting is the thing I can still do while my chest does the other thing. Drew drives. She does not fill the quiet with a plan. The plan is south, and south is getting worse.
 
-The freight yard is containers and a quiet that has dogs in it. I want to climb down. I get one boot on the rim.
+The dead band is a mile of air I should not breathe. I breathe it with the cartridge in my teeth. The taste is metal and a sweetness that does not belong in a mouth. Drew's eyes cut to me once. I nod, which is a lie about being fine, and she lets the lie stand because stopping to argue would be another mile.
 
-Tsune is there, small, between the boxes, blood on her sleeve and a page in her hand. She looks at me the way she looks at a window that is about to close.
+The freight yard comes up as containers and a quiet that has dogs in it. Not barking. The quiet before a bark decides. I want to climb down. I get one boot on the rim. The metal is cold through the sole. Below, aisles. A dark wing of something that is not a door.
+
+Tsune is there, between the boxes, smaller than the story I tell about her, blood on the sleeve, a page in her hand. She looks at me the way she looks at a window that is about to close. I have seen that look on a roof when a prowler turns the corner. It means move, and it means she has already counted the cost of me staying.
 
 "No," she says.
 
-"We came to..."
+"We came to get you."
 
-"You came to go back." She puts the page in Drew's hand. "Mercer hears you lost the signal at the mirrors. T.J. stays down. You do not climb. You do not look for the hole under this yard. You do not look for the man."
+"You came to go back." She puts the page in Drew's hand and closes Drew's fingers on it. "Mercer hears you lost the signal at the mirrors. T.J. stays down. You do not climb. If you climb, I spend the minute I need on you, and the minute is already short."
 
-"What man?"
+"What is under the yard?"
 
-"The one you are not going to see." Her eyes stay on mine until my boot comes back up. "Go, Ren. If you stay, I spend the minute I need on you."
+"The thing you are not here to find." Her eyes stay on mine until my boot comes back up onto the cart. "Go, Ren."
 
-I go. The rattle keeps time. I do not see a drain. I do not see a face past the containers. I see her until the rim takes her, and then I see the road, and I hate every yard of it that is the right direction.
+Drew turns us. The page is in her belt, face in. I watch Tsune until the rim takes her, the blood, the set of her mouth, the aisle she goes back into. Then the road is the only thing in front of the cart. I count every joint of it, because she asked, and the rattle keeps the count.

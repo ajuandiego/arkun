@@ -1,15 +1,15 @@
 # The Sterile Room // Interlude
 
-Dr. Alistair Vance washes his hands a fifth time. The water is warm. The soap is unscented. The skin at the knuckles splits anyway, a thin red line, and he watches it the way he watches a suture that has not decided to hold.
+Dr. Alistair Vance washes his hands a fifth time. The water is warm. The soap has no smell. He works the nails, the webs, the line where the glove ended, and the skin at the knuckles splits anyway, a thin red thread. He watches it the way he watches a suture that has not decided to hold.
 
-He is fifty-two. Senior cardiovascular surgeon. Eden Dome Alpha, the gilded tier. Today he took a heart out of a man the Directorate had finished with and put it into a director who had not. The gallery called it a success. The gallery always does.
+He is fifty-two. The gallery today called him by his title and then by a success. He opened a chest, took a heart out of a man the Directorate had finished with, and set it beating in a director who had not. The chest was a chest. The gallery applauded on the other side of the glass. He bowed the small bow they like, and he did not look at the pan where the first man had been.
 
-The penthouse is white stone and a bowl of fruit that was grown on purpose. Filtered air. No silt on the rail. He sets the silver scalpels in their case, each edge already clean, and he polishes them until his face appears in the steel and looks like a man who has earned the room.
+The penthouse is white stone and a bowl of fruit grown for the bowl. Filtered air. The rail has no silt on it. His shoes are already by the door, toes together, because the hall will be mopped in the morning by someone who will not meet his eyes. He sets the silver scalpels in their case. Each edge is already clean. He polishes them until the steel gives him his own face, calm, earned, the face of a man who has been allowed to keep the room.
 
-The wine is synthetic. He pours it. He puts it in his mouth. He cannot taste it. He swallows because the ritual is the point, not the pleasure. Pleasure left with the first year of this life, or with the tenth heart, he does not keep the count in a place he visits.
+The wine is synthetic. He pours a glass because the evening has a shape and the shape includes the glass. He puts it in his mouth. He waits. Nothing arrives, not fruit, not oak, not the year printed on a bottle he does not own. He swallows. He rinses the glass and sets it rim-down. The sound is small in a room built to have no echo he did not pay for.
 
-On the balcony the gardens shine under the shield. Five hundred feet down, the lower terraces are still beautiful. He stands on the ledge in his socks. One hand on the rail. The other hanging open, the split knuckle drying.
+On the balcony the gardens shine under the shield. Hexes, even, green on the lawns, gold where the fountains throw it. Five hundred feet down, the lower terraces are still beautiful. People walk them in pairs. A child in white runs and is caught by a sleeve before the run becomes a fall. He knows the height because he asked, once, when the lease was new, and the number has lived in him since.
 
-He thinks of his brother in nothing. He has a practice, not a barracks. The boy with the cream wings is somebody else's sentence.
+He steps onto the ledge in his socks. One hand on the rail. The other hangs open. The split knuckle dries in the vent-wind that comes up the face of the building and touches his teeth. The gardens go on. The child is picked up. Someone laughs, and the laugh does not reach him as a sound so much as a proof that the shield is doing its work.
 
-Alistair leans out until the wind of the shield's vents touches his teeth. He does not step. He goes back inside. He washes the hands a sixth time. The blood beads, small and precise, and the penthouse keeps its silence, which is the only thing in the room he still recognizes.
+He leans until his weight is a question the socks are asking the stone. One breath. The rail is in his hand and then it is only against his palm, not gripped. Below, the paths are pale and exact. A man could step and the paths would still be exact in the morning. He stays in the breath. The penthouse behind him keeps its silence. The blood on the knuckle beads, small and precise, and does not fall.

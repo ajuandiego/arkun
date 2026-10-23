@@ -6,14 +6,14 @@
 
 Cassian kneels on a roost he no longer reports to.
 
-Fourteen days. The noise never came down. Vram left, and the gain stayed at the top of what a mesh can carry, and the Directorate did not love him enough to lower it. The socket is a coal. The tab bites. His wings open once against the wind, cream-dark in the searchlight, a hawk's span and no one's rescue, and then they fold because the fold is all he has left that still obeys.
+Fourteen days. The noise never came down. Vram left, and the gain stayed at the top of what a mesh can carry, and the Directorate did not love the second enough to lower it. The socket is a coal. The tab bites. His hands are flat on the stone because flat is the last shape that does not shake.
 
-He deserted at dawn. Not toward the girl. Not toward a cause. Away from the channel that was cooking him for another man's choice. The desertion did not turn the gain down. That was the lesson. The lesson is finishing.
+His wings open once against the wind. Dark slate, a pale grey along the trailing edge, not black, no sheen. A searchlight takes them and lets them go. Then they fold. The Lycan share in him is the nose and the hearing. He can smell his own burned skin and hear the mess three levels down, Rook's voice telling a joke that has no one left to land on. The leash is enough.
 
-No second body wakes in him. No venom. No other strain climbing the bone. There is only the leash, and the leash is enough.
+He deserted at dawn, away from the channel that was cooking him for another man's choice. The desertion did not turn the gain down. The burn is still in his teeth.
 
-He thinks of Toby, and he does not call. A call would put the boy in the log beside him. He thinks of Rook's wide shots and Amari's dirty wind and a weather report he repeated in a clean voice. He thinks he might have known. The thought arrives too late to be useful.
+He thinks of Toby, cream and rust, younger, and he does not call. A call would put the boy in the log beside a dead second. He thinks of the wide shots Rook spent for a log, and of Amari on the corner with a wind she would not clean up for him. He thinks of the weather report he repeated in a voice smooth enough to trust. He might have known on the ledge, when the south smear did not look like a death. The thought arrives too late to spend.
 
-The burn goes white behind the eyes. The wings shiver once more and go still. The roost does not send a squad to the ledge. Toby does not learn. The wing will be told a desertion, or a storm, or nothing.
+The burn goes white behind the eyes. The wings shiver once more and go still. The roost does not send a squad to the ledge. Toby does not learn. The wing will be told a desertion, or a storm, or nothing at all.
 
-Cassian puts his forehead to the stone. The noise peaks. Then the noise, and the man, stop.
+Cassian puts his forehead to the stone. Hazel eyes shut. The noise peaks, a wire with nowhere left to go. Then the noise, and the man, stop.

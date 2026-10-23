@@ -4,20 +4,28 @@
 
 ***
 
-The turrets wake when we cross the lip of the band.
+The turrets wake when we cross the lip.
 
-Phosphor. A hose of it, not rain, a chemical line that eats color out of the air. I roll. The roll puts her under the wing for one second and the next second the shrapnel finds the left vane. Pain is a white nail through the root. Feathers tear. The beat staggers.
+"Hose," she says into my collar. "Left of the lane."
 
-"Down," I say, which is not a choice anymore.
+I hear the motor under her voice, and then I see it. Phosphor, not rain. A chemical line that eats the color out of the air and comes at us white. I roll. The roll puts her under the wing for one second, her face in my collar, and the next second the burst finds the left vane.
 
-She doesn't scream. She locks harder. The yard comes up too fast: containers, a black mouth of drain between them, the lakebed rim. I aim for the mouth because the pad of the yard is a place guns can finish. The drain is a guess.
+The pain is a nail through the root. Feathers tear. The beat staggers, and the stagger goes into her shoulders because she is locked to the stagger. She does not scream. She locks harder, ankles biting, the split on her shoulder grinding my plate. I feel the heat of her blood through the cloth and I do not have a hand for it.
 
-We hit water that is not water. Cold, chemical, a slam. The harness buckle tears skin at my ribs. She comes off my chest only because I rip the strap before we drown in a pipe. The wing drags. I haul her onto a dry ledge above the wash by the harness webbing and then by the wrist.
+"Down," I say.
 
-One ruin. The freight yard is over our heads. I can hear grit ticking on containers. About ten miles south of the mast, if the map in my skull survived the hose. No second desert. No far country. The basement of this place, if it has one, is under the same floor.
+The word is not a choice. The yard comes up too fast. Containers. A black mouth of drain between them. The pad of the yard is where a gun finishes a fallen wing. The drain is a guess with a dark throat, and a guess is better than the pad.
+
+"Left," she says into my neck. "The mouth. I see the lip of it."
+
+I aim. The torn vane spills air and I correct with the right, ugly, a beat that is half a fall. Her palm finds the socket in the scramble and the leash loses the climb. I spend the quiet on the angle.
+
+We hit water that is not water. Cold, chemical, a slam that rings the pipe. The harness buckle tears skin at my ribs. The wing fills the drain and drags. She is still on my chest, and the chest is going under. I rip the strap. She comes off me because I make her, not because she lets go. Her hand keeps my wrist. I haul her by that wrist and then by the webbing onto a dry ledge above the wash. The wing follows like a ruined cloak and slaps the concrete. I do not look at how much of it is still a wing.
+
+One ruin over our heads. Grit ticks on containers. If the map in my skull survived the hose, the mast is about ten miles north, and nothing past this yard is a second country. A basement smell comes up a seam. Someone else's cache. Not a road I can fly.
 
 "You're hit," she says.
 
-"The wing." I look at the shredded vane and the blood threading into the chemical film. "We stay in the drain until the lights pass. Then we find a hole that is not a turret's idea of a hole."
+"The wing." Blood threads into the chemical film on the ledge and beads instead of mixing. "We stay in the pipe until the lights pass. Then a hole that is not a turret's idea of a hole."
 
-Above us, a hawk calls my name once. Cassian. I do not answer. Answering paints the pipe. I put my back to the concrete and I let the torn wing shake, and I do not try to fly.
+Above us a hawk calls my name once. Cassian. The sound drops down the drain and finds the water. I do not answer. Answering paints the pipe, and the pipe is the only roof we have. I put my back to the concrete. The torn vane shakes on its own, a reflex looking for sky. I put my hand on the root until the reflex quits. Her shoulder is bleeding again where the strap worked the split. I see it. I do not have a clean cloth. I have the order I am not giving, which is to stay low, and the fact that she is already doing it.

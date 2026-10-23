@@ -1,25 +1,27 @@
 # Chapter 29 // Tsunari
 
-> **A pack.** Feral dogs. They are not soldiers, and they do not answer a voice. Run, and you are food.
+> **A pack.** Feral dogs. They do not answer a voice. Run, and you are food.
 
 ***
 
 The yard goes quiet the way a hunt goes quiet.
 
-I drag him by the harness webbing into a container that still has a door. He is half here, wing leaving a dark trail, heat pouring off him in a sheet. The fever is past talking. I get the door half shut and I listen. No boots. Paws. A pack, not a patrol. Dogs. If I run they will commit. If I speak to them like they are a tool, I am food with opinions.
+I drag him by the harness webbing. The wing leaves a dark trail on the concrete, torn vane snagging every lip it passes. Heat comes off him in a sheet, and the sheet is the problem: he is past a sentence, and if I leave him in the aisle the cold and the dogs get the same body. A container still has a door. I get him inside. I get the door half shut. I listen.
 
-The rim of the yard shows two shapes I know. Drew's cart. Ren beside it, too tall and too young and already leaning down.
+No boots. Paws, more than one set, arranging themselves at the far end of the aisle. If I run, they commit. If I talk, I am food with a plan.
 
-I meet them at the lip before he can climb. The page is the schedule skin, the fourteen months, copied small. I put it in Drew's hand.
+The rim of the yard shows two shapes I know before I want to. Drew's cart. Ren beside it, one boot already on the metal, the lean with the rattle in it. I can hear it from here, or I am remembering it so hard it counts as hearing.
+
+I meet them at the lip before the boot becomes a climb. The page in my hand is the schedule skin, copied small, the part that already opened. Fourteen months. The lee over the Ring. Evacuation zero. I put it in Drew's hand and I close her fingers so the wind off the band does not take it.
 
 "Back," I say. "Tell Mercer you lost the signal at the mirrors. Tell T.J. the bearing is done and the hole stays his."
 
-"You're bleeding," Drew says.
+"You're bleeding," Drew says. Shop voice. She is looking at the sleeve, not at the yard, because I taught her that a look can become a decision.
 
-"I'm standing. He isn't, and that is not your problem to see." I look at Ren until his boot retreats. "You do not come into the yard. You do not look under it. Go."
+"I'm standing. He stays in the container. That is not a thing you climb down to see." I look at Ren until the boot retreats onto the board of the cart. "You do not come into the yard. Go."
 
-Ren's mouth opens. The look I give him closes it. They turn the cart. I watch until the band takes them. They will lie, and the lie will keep the clinic, and I will hate the lie later if there is a later.
+Ren's mouth opens. The look closes it. He is young enough to hate me for the look and old enough to take it. They turn the cart. I watch until the band takes the lamps of it. They will lie. The lie keeps the clinic. I will hate the lie if there is a later long enough for hating.
 
-A dog trots the aisle, ribs, yellow eye, interested. I do not speak. I step back into the container and pull the door to a slit. Vram's breath is a rasp. The pack is arranging itself. The lead one is larger, and it has decided the slit is a door.
+A dog trots the aisle. Ribs. A yellow eye. Interested, not commanded. I do not speak. Speech is how you find out an animal does not answer. I step back into the container and pull the door to a slit. Vram's breath is a rasp against the metal. The pack is arranging itself by the sound of claws on grit, a patience that is only hunger waiting for a reason. The lead one is larger. It puts its nose to the slit and the slit becomes a door it has already accepted.
 
-I put the bodkin in my hand and I wait, because running is the mistake, and calling is the other mistake, and the animal in the gap is not a soldier I can bargain with.
+I put the bodkin in my hand. Running is the mistake. Calling is the other mistake. The animal in the gap is not a soldier, and it does not want a bargain. It wants the smell of blood, and I am standing in the smell with a man who cannot stand.
