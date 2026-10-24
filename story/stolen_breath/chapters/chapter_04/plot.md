@@ -1,8 +1,8 @@
 # Chapter 4 // The Offer
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -24,6 +24,8 @@ A board table in a city that still has streets. He sits inside a sealed sleeve o
 
 ## Story
 
+- Inside the sleeve, their air would take his lung.
+- When the minister says the brass breaks on its own, he thinks: humans, such a simple race. The room does not hear it.
 - He sells three things aloud.
 - Air that stays air.
 - A roof.
@@ -33,6 +35,8 @@ A board table in a city that still has streets. He sits inside a sealed sleeve o
 - What he asks for is a mutation program: soldiers made from their people, for the work a fueled gun is about to fail at.
 - He does not name the five facets.
 - The general says the mutants can take the table, the port, and the capital.
+- The general tells him to say the leash, not the kindness around it.
+- He thinks: they want the collar. The room does not hear it.
 - The ambassador offers the leash as the answer.
 - One socket where the head meets the spine.
 - A signal.
@@ -46,6 +50,7 @@ A board table in a city that still has streets. He sits inside a sealed sleeve o
 - He also does not say that the open country is the thing being spent, or that his machines will thicken the brass.
 - He does not name the clock or the Cradle.
 - They are tired, proud, and already bargaining for which of their cities gets the first glass.
+- When they name the capital and the port, he thinks: let them.
 
 ## Handoff
 
@@ -57,4 +62,4 @@ Aimed: 1,200 to 1,600
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

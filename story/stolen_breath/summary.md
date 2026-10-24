@@ -80,17 +80,18 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 
 Item one: air that stays air. Item two: a roof. Item three: the shooting stops. The price is not on the copy they were given.
 
-- A karyon ambassador sits inside a glass sleeve of his own air, at a wooden table, while human ministers breathe the room. The street outside still has carts and a tree. The sky at the edges is a sour brass they have been calling weather.
+- A karyon ambassador sits inside a glass sleeve of his own air, at a wooden table, while human ministers breathe the room. Their air would take his lung if it crossed. The street outside still has carts and a tree. The sky at the edges is a sour brass they have been calling weather.
 - He offers air that remains air under a roof, and an end to the shooting over water and wire.
-- The coast minister says their surveyors call the brass a high haze that will break on its own. The ambassador says it will not.
+- The coast minister says their surveyors call the brass a high haze that will break on its own. The ambassador says it will not. He thinks: humans, such a simple race.
 - The general asks the cost and points at the blank line. The ambassador says they are already paying in funerals, failed crops, and the brass. He is offering a pause.
 - The general wants fuel, land, or a base said aloud so the minutes can record it. The woman who keeps the minutes writes what was said and never what was skipped. The ambassador smiles through the fog.
+- The general tells him to say the leash, not the kindness around it. He thinks: they want the collar. He does not say that.
 - He tells her to write that the first glass goes to the city that signs before the others lose their nerve. They argue: port, grain, capital. He lets them feel clever. Every city they name is an invitation, and an invitation is cleaner than a landing.
 - What he does not say: the open country is the thing being spent. His own machines will thicken the brass. Children under the glass will breathe. Children outside will learn a harder hour. Under the signature is permission to raise winged, collared soldiers out of orphans and the poor, because a gun that must be fueled is about to become a story. A missing sentence gets signed as relief.
 - The coast minister wants a guarantee that the glass is a shelter, not a flag. The ambassador says they will govern the street. His people want the work finished. He tells them to look at the dull tree, and at the aide who has been coughing.
 - He tells them to sign, or spend a year proving the brass is weather. The tree cannot wait.
-- The general chooses the capital. The coast chooses the port. The ambassador tells them to put both on the list and share the credit.
-- The minute-keeper hesitates over the blank, then writes *agreed in principle* and does not ask what was left out.
+- The general chooses the capital. The coast chooses the port. He thinks: let them. The ambassador tells them to put both on the list and share the credit.
+- The minute-keeper hesitates over the blank, then writes "agreed in principle" and does not ask what was left out.
 - He does not hate them. They are tired, proud, and already dividing a sky they think is still theirs. He leaves the missing sentence in the copy they will sign. When the aide coughs again, he does not look. The cough is the future, and it is not an item on their page.
 
 ## Chapter 5 // Tsunari

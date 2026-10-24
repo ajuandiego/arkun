@@ -16,6 +16,7 @@ From this beat:
 - He asks for the mutation program. Their objection is that the mutants can take over. The leash is the answer he gives in the room. The offer is in `canon/world/factions/karyon.md`. The hardware is in `canon/world/life/leash.md`.
 - He still leaves out the spent sky, the years that end when the payments stop, and the cook of a long wear. He does not name the clock, the five facets, or the Cradle.
 - Tired, proud, and already bargaining for which of their cities gets the first glass. He does not hate them. He does not need to.
+- Three thoughts, short, and only when they speak. Humans, such a simple race. They want the collar. Let them. The room does not hear any of it.
 
 ## This pass
 

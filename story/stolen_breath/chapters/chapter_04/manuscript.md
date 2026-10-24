@@ -8,13 +8,13 @@ Forty years before the present.
 
 The table is wood, scarred by other meetings, and the windows behind the ministers still show a street. Carts. A tree that has kept its shape and lost the color in the leaves. The sky over the tree is the wrong brass for their season. They have been calling it weather for a month.
 
-I sit inside the sleeve. The glass is a handspan thick. It fogs when I speak and clears when I wait, and my air stays on my side of it. Theirs stays on theirs. A second note rides under my words and sits in the wood. The coast minister feels it in his teeth and pretends he felt the draft.
+I sit inside the sleeve. The glass is a handspan thick. It fogs when I speak and clears when I wait, and my air stays on my side of it. Theirs would take the lung if it crossed. A second note rides under my words and sits in the wood. The coast minister feels it in his teeth and pretends he felt the draft.
 
 "Item one," I say. The fog blooms and fades. "Air that remains air. Breathable by your children. Stable inside a roof we will raise over the cities you choose."
 
 He leans in. Tired, proud, a stain of lunch on the cuff he thinks the glass hides. "Our surveyors say the brass is a high haze. It breaks on its own."
 
-"It will not." I let that sit. A lie would comfort him. The correction makes him feel included. "Item two. The roof. You have been shooting each other over water and wire. A roof ends the argument about whose street floods. Item three. The shooting stops. We stand between the armies until they are embarrassed to keep the guns out."
+"It will not." I let that sit. *Humans. Such a simple race.* A lie would comfort him. The correction makes him feel included. "Item two. The roof. You have been shooting each other over water and wire. A roof ends the argument about whose street floods. Item three. The shooting stops. We stand between the armies until they are embarrassed to keep the guns out."
 
 The general has not taken his coat off. He taps the blank line at the bottom of the page they were given. "And the cost."
 
@@ -36,7 +36,7 @@ The general's hand stays on the blank line. "Make them stronger than the men who
 
 "Say the leash," the general says. "Not the kindness around it."
 
-The second note sits harder in the table. I put two fingers to the glass, low, where a neck would be if one of them were standing on my side.
+*They want the collar.* The second note sits harder in the table. I put two fingers to the glass, low, where a neck would be if one of them were standing on my side.
 
 "A socket, set where the head meets the spine. Small. One. A signal through it, from us. If he hesitates, the signal hurts. If he refuses, it hurts until refusal is no longer a thing he can finish. He can still move his own hands. He cannot keep a rebellion and a clear head in the same hour. You will call it a leash because that is what it is. Your mutant does not take this table. The table answers to you. The wire answers to us."
 
@@ -80,11 +80,11 @@ The general reads the page again. Three items, and under them the leash, written
 
 "The port," says the coast.
 
-I turn my head inside the sleeve, a small motion, and let them see that I am not impatient. "Put both on the list. The first glass is a race you can win twice if you share the credit. The minutes can say you were statesmen."
+*Let them.* I turn my head inside the sleeve, a small motion, and let them see that I am not impatient. "Put both on the list. The first glass is a race you can win twice if you share the credit. The minutes can say you were statesmen."
 
 The woman writes. She hesitates over the line she has already copied, the socket and the signal and the pain. Her pen hovers. For a moment I think she will ask what the socket does after the pain, after years, and the afternoon will become honest.
 
-She writes *agreed in principle* and does not ask.
+She writes "agreed in principle" and does not ask.
 
 "Good," I say.
 
