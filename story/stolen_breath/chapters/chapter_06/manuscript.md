@@ -1,12 +1,12 @@
 # Chapter 6 // Vram
 
-> *Recover the runner. The file is worth more than the body.*
+> *Catch the runner alive. Subject wanted for examination.*
 
 ***
 
 The glass wind shoves grit through the rows, and I bank above it instead of going down.
 
-The order is already in the socket. Recover the runner. The file is worth more than the body. Under that, hotter, the other word from the wall: open the intruder. I can do the second thing in one stoop. A straight line, a break, the slate in my hand before the suits finish shouting. I do not take it. The suits can have the first minute. I want to see what it does with the minute.
+The order is already in the socket. Catch the runner alive. Subject wanted for examination. The file comes with her. I could break that order in one stoop, the slate in my hand before the suits finish shouting. I do not take it. The suits can have the first minute. I want to see what it does with the minute.
 
 From up here a runner is usually a bright streak against sand that has already given up its heat. This one stays cool. The smear takes a shape between the bowls. Narrow through the shoulder, a hook, no socket at the nape. She keeps to the bowls that held the afternoon, the same temperature as the glass, and the socket offers me a tag and then eats it. Nothing in the nape for the leash to bite. I file that and I keep the oval.
 

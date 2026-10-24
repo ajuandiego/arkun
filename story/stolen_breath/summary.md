@@ -70,9 +70,9 @@ The leash is the socket at the back of the neck and the signal the Spire sends t
 - Cassian, twenty-eight, hawk wings tight, says the north wind will strip a vane if they launch for nothing. Vram says they can preen after. Rook says a raven grows the feather back before the cursing is done.
 - Toby Vance, cream and rust vanes, Cassian's brother, offers an ice patch he traded two tubes for. Vram takes it. The drill drops from a scream to a wire.
 - Amari, blonde hawk, says the south face is dirty off the crawler well and will dump him if he takes it lazy. If he waits for a clean lane, whatever they are ringing the siren for will already be in the mirrors.
-- The siren hits. The socket snaps him to a knee. The order: breach, south wall, a jack in a service door, intercept, retrieve, open the intruder.
-- He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the bridge lights and do not drop into the street for a ghost. The playback is a heat smear under the south bridge, already moving. Cassian throws the word back: a ghost, and Vram already gave it the roofs. Vram answers with the leash and the reason he will not wait. A delay puts the dive in the mirrors. Rook says they still want the body opened.
-- Amari tells him to beat the south face, not glide it. He opens the wings. Fourteen feet, black vanes, the one time the book measures the span, because it is his body and he knows it. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
+- The siren hits. The socket snaps him to a knee. The order: breach, south wall, a jack in a service door, catch alive, subject wanted for examination.
+- He assigns the roost. Cassian holds until the lane is called. Rook and Toby take the bridge lights and do not drop into the street for a ghost. The playback is a heat smear under the south bridge, already moving. Cassian throws the word back: a ghost, and Vram already gave it the roofs. Vram answers with the leash and the reason he will not wait. A delay puts the dive in the mirrors. Rook repeats it: alive, for examination. The same signal hit every socket on the cap.
+- Amari confirms the south face is still dirty and the prowler has not moved. He opens the wings. Fourteen feet, black vanes, the one time the book measures the span, because it is his body and he knows it. A hard beat puts a blue-violet sheen on the shafts, there and gone. He dives.
 - The memory of the first throw, a sergeant with no name he was allowed to keep, sits under the drop. The air kept him then. It is the same air.
 - The prowler is a pale block in its own lamps. Copper on the span, and still no shoulders. He does not give the runner the time. He beats, and the sand comes up.
 
@@ -110,11 +110,11 @@ If you answer on an open set, you paint the house you are protecting.
 
 ## Chapter 6 // Vram
 
-Recover the runner. The file is worth more than the body.
+Catch the runner alive. Subject wanted for examination.
 
 - He does not have a name. The wall order says runner. Between the bowls the smear takes a shape: narrow through the shoulder, a hook, no socket. That is when she becomes a woman to him. She does not have his name. To her he is the wing on the dive.
 - From above, the heat is wrong: a cool smear against glass that is still holding the day. No collar ping. No beacon. His socket offers a tag and eats it, because there is nothing at the nape to bite.
-- The order is the packet, then open the intruder. The body is how the file walks.
+- The order is catch the runner alive. Subject wanted for examination. The file comes with her.
 - The two suits are already down. She did not stay to finish them. She went where a dive has to choose a gap or eat glass.
 - He chooses the gap she left on purpose. She has already put a tilted bowl in his line. She watched the wing.
 - He says "clever girl." The leash stitches him for the admiration. He tucks and goes through the angle she did not quite close.

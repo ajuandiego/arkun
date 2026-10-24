@@ -30,7 +30,7 @@ The driver's cabin of the prowler, south ring road, a few miles past the graveya
 - The vault is still under the ring, and he is not walking her into it.
 - He overrides the navigation beacon.
 - The lie has not been spoken yet.
-- What he has is a fever that climbs when she is across the cabin and drops when she is close, and an order that said open the intruder.
+- What he has is a fever that climbs when she is across the cabin and drops when she is close, and an order that said catch her alive. Subject wanted for examination.
 - The want is specific and he hates it.
 - Bare shoulder, the scales, the mouth set against him.
 - If he reaches, she will use it.

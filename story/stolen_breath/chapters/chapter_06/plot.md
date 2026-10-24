@@ -24,10 +24,9 @@ The perimeter of the solar mirror banks.
 
 ## Story
 
-- The order is recover the runner.
-- The file is worth more than the body.
-- Under it, hotter, is the other word: open the intruder.
-- He does not take the stoop yet.
+- The order is catch the runner alive. Subject wanted for examination.
+- The file comes with her.
+- He could break that order in one stoop. He does not take it yet.
 - From above she stays cool, the same temperature as the glass, no socket at the nape.
 - The leash offers a tag and eats it.
 - The first suit walks a trench he has decided is empty.

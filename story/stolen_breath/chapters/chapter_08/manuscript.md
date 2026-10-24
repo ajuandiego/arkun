@@ -60,7 +60,7 @@ I keep her wrist. I keep her hand where it is.
 
 She believes me for one breath. Then she does the intelligent thing. She rips the hand off the socket.
 
-The drill comes back the way a door slams on a finger. Not the bored hourly needle. This one is offended. White across the eyes. The stomach turns over. The order claws up the throat, retrieve, open, as if the minute of quiet had been theft and the theft has to be paid in the same second. I fold toward the brick. The sound that comes out of me is not a word. She is already rolling for the door, boots in the grit, the howl of the glass wind in the gap.
+The drill comes back the way a door slams on a finger. Not the bored hourly needle. This one is offended. White across the eyes. The stomach turns over. The order claws up the throat, catch her alive, as if the minute of quiet had been theft and the theft has to be paid in the same second. I fold toward the brick. The sound that comes out of me is not a word. She is already rolling for the door, boots in the grit, the howl of the glass wind in the gap.
 
 I know, with the noise chewing the thoughts back down to stumps, that I will not live in it. Not the hour. Not the rest of the years. She had the quiet in her hand and she took it with her, and the part of me that was a man for a minute will not give that minute back to the drill.
 
