@@ -1,14 +1,14 @@
 # Chapter 1 // Ren
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
 ## Purpose
 
-Show a day outside the wall, and why a warning from T.J. is worth obeying, before the jack goes into a live door.
+Show the clinic-lane market and the information the crew already sells, show why a warning from T.J. is worth a clean exit, then the plan for a jack in a live door.
 
 ## POV
 
@@ -20,21 +20,29 @@ Year 40. Afternoon, the silt hour, the same day as the theft.
 
 ## Setting
 
-Sector 09, the clinic lane and the roofs under the wall. Bare faces. The wall is the end of the street.
+Sector 09. The daytime market on the clinic lane, then Mercer's a couple hundred feet on. Bare faces. The streets stop at the sand. A bridge crosses that gap only where one is built. The service door is on the wall, across the sand, off the gate. He does not start on that approach. The Rust Bazaar is Chen's night market, about a mile farther, and stays that place.
 
 ## Story
 
-- Ren takes the clinic stair because T.J. told him a prowler was sitting on the other one at noon.
-- The street is still buying, because the night will freeze.
-- A mash cart haggles in two prices.
-- Drew is at the bench with a dead keypad and the tang of Tsune's bodkin.
+- Ren is already outside, quick pace, heading for Mercer's.
+- He cuts through the daytime market on the clinic lane.
+- People are still buying, because the night will freeze.
+- The posts come up as he passes. He does not stop to shop.
+- One post is silt-mash: dense green cakes, salty, faintly of copper. No price.
+- A second post sells ash-bread.
+- A third sells sulfur-fowl skewers.
+- What he sells is information. Drew, Tsune, T.J., and Ren make money off what leaks: a sweep time, a dirty stair, a lazy broadcast, a prowler tap.
+- They have never jacked a door that is still on the wall. That try is tonight.
+- T.J. comes up on the link. A foot patrol is heading for the market.
+- Ren takes an exit.
+- On the way out he lifts one piece of soot candy. Cheap hard sugar, dark from molasses, vanilla and cinnamon. He does not linger.
+- A couple hundred feet on, he reaches Mercer's and sees Drew at the bench.
+- The bench holds a dead keypad and the tang of Tsune's bodkin.
 - Tsune comes in, sees the piece before she sees him, and makes them talk.
 - T.J. is already on the set from under the street.
 - Twelve long passes.
 - Seven point eight minutes from the corner to the mouth.
 - The camera looks at the bridge joint, not the keypad.
-- They have tapped prowlers and caught lazy broadcasts.
-- They have never jacked a door that is still on the wall.
 - The security net is the map that tells the clinic which hour to shut.
 - Ren wants the keypad.
 - She puts him on the roof that sees the corner.
@@ -54,8 +62,8 @@ She is on the service door. The next chapter is the tap.
 
 ## Word count
 
-Aimed: 1,400 to 1,700
+Aimed: 1,400 to 1,700. The market replaces the stair and the mash cart. It does not sit on top of them.
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

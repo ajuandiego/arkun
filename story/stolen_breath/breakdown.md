@@ -33,9 +33,9 @@ The beats follow, in reading order. Each chapter and interlude also has a folder
     *   *Lexicon:*
         > **The long pass.** The guard's slow walk from the corner back to the gate. They timed it at seven minutes and most of another.
     *   *POV:* Ren, first person, present. His file is `canon/characters/ren.md`.
-    *   *Setting:* Sector 09, the clinic lane and the roofs under the wall. Afternoon silt. Bare faces.
-    *   *What the reader sees:* The day outside the wall, and Tsunari as Ren knows her. Drew at the bench. T.J. on the set, and he does not come up.
-    *   *Why the data:* Prowler taps, planted sets, and a lazy broadcast have kept them off the wrong stair and told the clinic which hour to shut the door. The security net is the map they do not have.
+    *   *Setting:* Sector 09, the daytime market on the clinic lane, then Mercer's a couple hundred feet on, then the roofs under the wall. Afternoon silt. Bare faces. The Rust Bazaar is Chen's night market, about a mile farther, and stays that place.
+    *   *What the reader sees:* The market and the information they already sell. T.J. pulls Ren out ahead of a foot patrol. One piece of soot candy on the exit. Then Tsunari as Ren knows her, Drew at the bench, and T.J. on the set. He does not come up.
+    *   *Why the data:* A sweep time, a dirty stair, a lazy broadcast, and a prowler tap are how they already eat. The security net is the map they do not have. Tonight is the first jack in a door that is still on the wall.
     *   *The new plan:* A jack in a live service door, off the south gate. They have not done it before. Drew fitted the tang. T.J. already owns the door's wire. Tsunari will hold the jack so the copy sits in her slate. Ren counts from a roof. Drew stays at the bench.
     *   *The handoff:* He is on the roof when she comes under the bridge and pulls up to the door. The next chapter is the tap.
 

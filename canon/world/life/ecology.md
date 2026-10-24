@@ -32,6 +32,7 @@ People in the Ring cook. Silt-mash is the cheap staple, the way bread is, not th
 *   **Silt-Mash (Manna-Algae):** Dense, rubbery green cakes pressed from sulfur-tolerant *Spirulina-X* grown in condensation tanks. Salty, faintly of copper. It fills a workday. A supper is mash plus whatever else the household has.
 *   **Lee Gardens:** Sulfur-tolerant greens, chicory, and a short millet that still sets seed on the streets under the wall, where the air is best. Small tart fruit from those gardens reaches the night stalls. Fungi are a crop, grown in sheds, not a famine scrape.
 *   **Eggs, Fowl, and Cricket Sheds:** Sulfur-fowl and raised crickets are ordinary livestock. Skewers, eggs, and ash-bread made with grub flour are market food. Beetles ground into flour are the cheap end of that trade, not a desperate last meal.
+*   **Soot Candy:** A cheap hard sugar boiled from a corn-syrup substitute or reclaimed table-sugar sweepings, with artificial vanilla, cinnamon, and a pinch of blackstrap molasses. Dark, and it sticks to the teeth. A market sweet, not a meal.
 *   **Iron-Chicory (Copper-Tea):** A bitter infusion from sulfur-resistant scrub. It helps the body shed airborne metal. A pot on the stove is how a household ends the day.
 *   **Water:** Dawn stills fill household jugs. Water is measured. A dry week is serious. It is not a life spent on one thimble.
 *   **Through the gate:** Cultured dome protein and glass-grown fruit show up as luxuries. They cost more than a local meal. They are not what keeps the Ring alive.

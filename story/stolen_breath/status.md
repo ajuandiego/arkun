@@ -8,11 +8,11 @@ Each row has two approvals. Plot approved means the chapter plot is the job. Cha
 
 Both start as no. Locked becomes yes only when both are yes. When a row is locked, the same word is set at the top of that chapter's `plot.md`. A locked chapter is not rewritten, and its plot is not revised, until the lock is opened in both places.
 
-Nothing in this ledger is approved yet. Chapters 25 through 34 have a new job in the plot file. Their manuscripts still tell the older scene.
+Chapter 1 is locked. Chapters 25 through 34 have a new job in the plot file. Their manuscripts still tell the older scene.
 
 | Chapter | Aimed words | Plot approved | Chapter approved | Locked |
 |---|---|---|---|---|
-| Chapter 1 // Ren | 1,400 to 1,700 | no | no | no |
+| Chapter 1 // Ren | 1,400 to 1,700 | yes | yes | yes |
 | Chapter 2 // Tsunari | 1,300 to 1,600 | no | no | no |
 | Chapter 3 // Vram | 1,400 to 1,800 | no | no | no |
 | Chapter 4 // The Offer | 1,200 to 1,600 | no | no | no |
@@ -69,4 +69,4 @@ Nothing in this ledger is approved yet. Chapters 25 through 34 have a new job in
 | Chapter 51 // Dual POV | 1,400 to 1,800 | no | no | no |
 | The Gospel of the Slag // Interlude | 600 to 900 | no | no | no |
 
-56 chapters. 0 plots approved. 0 manuscripts approved. 0 locked.
+56 chapters. 1 plot approved. 1 manuscript approved. 1 locked.
