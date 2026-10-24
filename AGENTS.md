@@ -49,7 +49,7 @@ Reference these paths when generating or editing. Do not invent `/outline/` or `
 * `canon/characters/`: one file per person. The index is `canon/characters/README.md`.
 * `canon/romance/`: bond mechanics and heat. The tether is heat, nerve, and leverage, not a mystical mate mark.
 * `canon/places/locations_and_sensory.md`: what a location smells, sounds, and feels like.
-* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 51 chapters, plus five interludes. Each of those folders has `rules.md` and `manuscript.md`. The prose is `manuscript.md`. The job of each chapter lives in `breakdown.md`.
+* `story/`: the plot. `story/the_arkun_cycle.md` is the series. Each book folder has `plot.md` (the story) and `breakdown.md` (the division and the chapters). Book 1 is `story/stolen_breath/`. Its chapter folders are `story/stolen_breath/chapters/`: 51 chapters, plus five interludes. Each of those folders has `plot.md`, `rules.md`, and `manuscript.md`. The chapter picture is `plot.md`. The prose is `manuscript.md`. The beats are `breakdown.md`. The approval ledger is `story/stolen_breath/status.md`. A chapter is locked only when that ledger marks both the plot and the manuscript approved, and the same lock is set at the top of that chapter's `plot.md`. Do not rewrite a locked chapter or revise its plot until the lock is opened in both places.
 * `canon/style/`: voice, sensory palette, format, and the glossary.
 * `assets/prompts/`: image-generation prompts and the codex art direction. Not prose canon.
 * `assets/media/`: reference images (characters, strains, places). Not prose canon.
@@ -74,7 +74,7 @@ A later ring dumped into an early part is a spoiler.
 
 When drafting or rewriting prose, follow `.cursor/rules/draft-prose.mdc`. These checks still hold:
 
-1. **Context check.** Before prose, read the POV character sheet, `canon/romance/romance_engine.md` if the scene touches the bond, the chapter's job in `story/stolen_breath/breakdown.md`, the chapter folder in `story/stolen_breath/chapters/`, and the location entry in `canon/places/locations_and_sensory.md`.
+1. **Context check.** Before prose, read the POV character sheet, `canon/romance/romance_engine.md` if the scene touches the bond, the chapter's job in `story/stolen_breath/breakdown.md`, that chapter's `plot.md`, the lock row in `story/stolen_breath/status.md`, and the location entry in `canon/places/locations_and_sensory.md`. If the row is locked, stop.
 2. **Continuity first.** Match established lore, travel time, injuries, objects, names, and who already knows what. Fever follows the last skin contact unless the page gives a new cause. Fixed ages unless a canon file says otherwise: Year 40 AS is 2072 CE; Tsunari is 26; Vram is 28; both are Storm-Born.
 3. **Incremental drafting.** Draft scene by scene or beat by beat. Do not write an entire chapter in one unrefined block.
 4. **Smallest edit.** When fixing a review or a note, change the smallest span that makes the problem false on a reread. Do not polish the prose around it.
