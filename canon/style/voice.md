@@ -35,9 +35,9 @@ Interior life is spoken, not filed. A direct thought goes in italics, with no qu
 The narrator keeps the paragraph. A thought cuts into that paragraph as a few words or one line. *What is this.* *Does she know.* *Don't let it end.* A whole paragraph of italics is a speech he is giving himself, and he almost never does that. A run of self-coaching orders (*File it. Use him. Count.*) starts to sound like a manual. Let one of them be messier. *Liar.* *Not him.*
 
 ### Hard words
-A hard word is a strike. Fuck, shit, bullshit, damn, hell, asshole. Most chapters do not spend one. A chapter that spends one does not spend a second.
+A hard word is a strike. Fuck, shit, bullshit, damn, hell, asshole. Most chapters do not spend one. A chapter that spends one does not spend a second. That limit does not apply to Tsunari. Cursing is in her nature, and people repeat a curse. She may spend one more than once in a chapter, and the same word may come back later in the book.
 
-Tsunari says it out loud, short, and mean. Bullshit when a man is wasting her time. Asshole at someone who earned it, into the dust or in her head, not as a name she calls him. Vram swears at himself, and the word stays in the thought. Out loud he is still a commander. He does not spend the curse on the first silence. That minute stays plain.
+Tsunari says it short and mean, out loud or in her head. Bullshit when a man is wasting her time. Asshole at someone who earned it, into the dust or in her head, not as a name she calls him. Vram swears at himself, and the word stays in the thought. Out loud he is still a commander. He does not spend the curse on the first silence. That minute stays plain.
 
 Jeffrey does not have this mouth. The ambassador does not. A child does not. Ren does not spend it on an open set. No sexual obscenity. No slurs. They do not call each other asshole as a love word.
 

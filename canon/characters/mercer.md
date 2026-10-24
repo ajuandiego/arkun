@@ -11,7 +11,7 @@
     *   *The Mechanical Lung Cover:* His rattling, wheezing artificial lungs were an elaborate surgical cover to explain the clicking sounds of his alien respiratory filters and why he never coughed up true human blood from the Choke.
     *   *Respirator Filter Deception:* He carries battered filter cartridges, but Tsunari notices in retrospect that his filters never showed the typical sulfur discoloration of someone breathing surface air.
     *   *Blood Tell:* When injured during a raid, a droplet of his blood on a glass slide oxidized with a subtle violet shimmer under UV analysis.
-*   **The Betrayal:** When Tsunari brings Vram and the decrypted *Lazarus Key* to the bunker, Mercer realizes the cure is complete. He activates a covert beacon summoning Consortium and alien gunships, betraying the resistance to deliver Tsunari and the data directly to Archon Xaevis.
+*   **The Betrayal:** When Tsunari brings Vram and the decrypted encryption to the bunker, Mercer realizes the cure is complete. He activates a covert beacon summoning Consortium and alien gunships, betraying the resistance to deliver Tsunari and the data directly to Archon Xaevis.
 
 
 ## 6. The Infiltrator Plot Twist: Canon Reveal & Narrative Payoff

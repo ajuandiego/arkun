@@ -1,8 +1,8 @@
 # Chapter 2 // Tsunari
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -32,7 +32,8 @@ A service door on the outer face of the wall, off the south gate. The main entra
 - T.J. already owns that wire.
 - He sees doors, cameras, and the pass list.
 - This door is not on their board.
-- A living staff line is in the pull.
+- A staff list in the pull was sent to an observer. The dome keeps the ship current on who works the benches.
+- He can read the first part of a file he does not understand. He does not know the format.
 - Culture Lab 4.
 - A Thorne.
 - Junior synthetics.
@@ -41,14 +42,12 @@ A service door on the outer face of the wall, off the south gate. The main entra
 - The rest finishes in her head: Sora, listed burned, who would be twenty.
 - She knows the thumb from a workshop lamp.
 - She does not know the face.
-- Then a second message sits on the session.
-- Header: Lazarus Key.
-- Fourteen months.
-- The lee fails.
-- Barrens-air over the Ring.
+- Then more of the file sits on the session. He calls it an outpost update. The book calls the file the encryption.
+- Atmosphere reconditioning completes in fourteen months.
+- Sector 09, effect immediate.
+- Sectors 01 through 08, sealed.
 - Evacuation zero.
-- The dome seals.
-- The line under it will not open.
+- Command, confirm elim. It ciphers from there. He does not know who the order is for.
 - The pass is at the corner.
 - She wipes nothing yet because the copy is the point, unplugs, and the keypad screams.
 - Twenty-five seconds.
@@ -69,4 +68,4 @@ Aimed: 1,300 to 1,600
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

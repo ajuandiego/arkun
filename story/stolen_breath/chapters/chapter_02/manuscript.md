@@ -4,7 +4,7 @@
 
 ***
 
-Copper silt sits under the bridge, thick enough to take a body that stays low. I come along beneath it, jump at the wall end, and the hooks bite as I pull onto the landing. The door is a plain slab with the keypad at my chest. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the clinic lane is still buying the last of the day. Mash at one post, bread at the next, people moving because the night will freeze. This door is the dark between those lights.
+Copper grit hangs thick under the bridge. I come along low in it, jump at the wall end, and the hooks bite as I pull onto the landing. The door is a plain slab with the keypad at my chest. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the clinic lane is still buying the last of the day. Mash at one post, bread at the next, people moving because the night will freeze. This door is the dark between those lights.
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 
@@ -22,39 +22,53 @@ The jack is a recess under the keypad, the size of a thumb, silt gritted into th
 
 "Talk."
 
-"South stair changes in six minutes. Two on the gate mouth, both facing the truck. This door isn't on their board. The sand is bare, and this bridge is the only crossing on the face. The camera over you is pointed at the joint, not the keypad. Hold."
+"South stair changes in six minutes. Two on the gate mouth, both facing the truck. This door isn't on their board. The sand is bare, and this bridge is the only crossing on the face. The camera over you is pointed at the joint, not the keypad. Hold. Let me see what I can find."
 
-I hold. My free hand stays on the hook at my hip. The slate warms, a small heat over the bone. The picture stays on his console. The weight of the copy sits against my ribs.
+I hold. My free hand stays on the hook at my hip. The slate warms, a small heat over the bone.
 
-"Lab list is in the pull," he says. "Culture lab 4. Active staff. There's a Thorne. Junior synthetics. S..."
+"Memos," T.J. says. "Shift notes. A filter request on level two. Useless. An asset list, dome inventory, crates and serials. Another list, same shape. Nothing in them we can sell."
+
+"Leave them."
+
+"This one's different." His mouth is closer to the mic. "A staff list, sent to an observer. The dome keeping them current on who works the benches. Let me see what opens."
+
+Ren's breath fills the ear and stays there. "Corner's coming back."
+
+"Count," I say. The hook creaks in my glove. The stair has six minutes. The pass is the longer number. Both are getting shorter while he opens it.
+
+"The first part reads," T.J. says. "Culture Lab 4. Active staff. There's a Thorne. Junior synthetics. S..."
 
 "Stop."
 
 The rest of the name finishes in my head and stays there. *Sora.* The death rolls listed her as dead and burned. I have lived ten years on a dead girl, and now there is a Thorne at a desk inside the wall, junior, doing living work. She would be twenty. It can't be.
 
-The workshop lamp is too close to her face. Her tongue sits between her teeth while she threads stripped copper through the end of my braid, because she wants it to look like a wire and not a ribbon. The copper takes the skin off her thumb. She holds the thumb up, proud of the bead of blood, and tells me it has to be tight or it will not hold. I can still feel the tug. The braid against my skull is that braid. I don't know the face that comes after twenty. I know the thumb.
+The name pulls the memory of our old workshop in between the keypad and my glove. Sora under the lamp, too close to her face, tongue between her teeth, finishing the braid at the back of my skull. A copper scrap on the bench cuts the skin off her thumb. She holds the thumb up, proud of the bead. The tug of that braid is on me now. *Damn it.* I remember the thumb. I can't picture the face that would be twenty now.
 
 "You don't put the rest on this set."
 
 Silt ticks on the keypad. Ren's breath is there, and then it isn't, because he's holding it.
 
+"We have the doors," T.J. says. "The rest of it won't sell."
+
+"Then we're done," Ren says.
+
 "It's in the slate," T.J. says. "You can pull."
 
 "Pulling."
 
-"Wait." His voice changes. Not the pass. Something he did not ask the door for. "A second message just sat down on the session. The door doesn't use this header."
+"Wait." His voice changes. Not the pass. Something he did not ask the door for. "More of it just sat on the session. I don't know this format. The door doesn't use this header."
 
-"Read it."
+"Read what opened."
 
-"Lazarus Key." He says it like a word he is spelling. "Then a memo. Sector 09, lee fail, fourteen months, barrens-air push over the Ring, evacuation allocation zero, dome sealed. The line under that will not open. The stamp says redacted. Clearance insufficient."
+"Outpost update," T.J. says. "Atmosphere reconditioning, complete in fourteen months. Sector 09, effect immediate. Sectors 01 through 08, sealed. Evacuation allocation, zero. Command, confirm elim." He stops. "It ciphers from there. I don't know why the first part opened."
 
-I have never heard the name. The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air, towers with their feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
+The rest I can already see. Fourteen months and the air on the stair I climbed this morning turns into the hard hours, cloth all day, nights you do not sleep on the ground floor. Mercer keeps boiling water for people who will not have a lane. Ren's catch stops being a thing we pretend is the climb. The pylons south of the ring make that air, towers with their feet in the barrens, worse in their shadow. Push that over the wall and the street under my boots stops being a place people live.
 
 "Say the first line again."
 
-"Fourteen months. Then the Ring is barrens-air, and nobody on this side of the wall is on a list."
+"Fourteen months. Sector 09 takes it. The inner sectors seal. Then confirm elim... And it ciphers."
 
-"We came for doors," Ren says.
+"We came for intel," Ren says.
 
 "I know," T.J. says. "I don't know what this is. It's in the slate with the rest. Tsune, the pass is at the corner. Pull."
 

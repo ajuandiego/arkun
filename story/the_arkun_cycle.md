@@ -18,7 +18,7 @@
 ```mermaid
 graph TD
     subgraph B1 ["BOOK 1: STOLEN BREATH"]
-        B1_Plot["Local Crucible (Sector 09 / Glass Vault)<br/>Theft of Lazarus Key • Accidental Touch<br/>Gideon's Ghost Beacon • 3-Way Siege of Sector 09"]
+        B1_Plot["Local Crucible (Sector 09 / Glass Vault)<br/>Theft of the encryption • Accidental Touch<br/>Gideon's Ghost Beacon • 3-Way Siege of Sector 09"]
         B1_Romance["Biological Resentment & Leverage<br/>Predator Competence Parity • Blood Compact (🌶️ to 🌶️🌶️)"]
     end
 

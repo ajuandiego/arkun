@@ -15,7 +15,7 @@ From this beat:
 - Prowler taps and a lazy broadcast are how they already stay alive. The clinic shuts on a better hour when the information is real. Mercer is in the building and not in the plan.
 - The new step is a jack in a live service door. Drew fitted the tang. T.J. already owns the wire and will see the console. Tsunari holds the jack so the copy sits in her slate. Ren counts from a roof. Drew stays. T.J. does not come up.
 - The long pass is seven point eight minutes. The chapter ends with Ren on the roof and Tsunari on the gantry, before he calls the corner boot.
-- No Lazarus Key. No Sora. No wingspan. The rattle is one catch, not a lecture.
+- The encryption is not in this chapter. No Sora. No wingspan. The rattle is one catch, not a lecture.
 
 ## This pass
 

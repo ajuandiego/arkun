@@ -13,8 +13,8 @@ From this beat:
 
 - They came for the security net on a service door off the south gate. Ren timed the gap between passes: seven point eight minutes. Drew stays off the wall. Jeffrey has no part in the tap.
 - Tsunari seats the bodkin and holds still. The session rides the door's own wire into a tap T.J. already owns. The bodkin does not broadcast. T.J. sees the console. She carries the copy in the slate.
-- The security pull includes a living staff line for Sora. T.J. starts the name. She cuts him off before it finishes. She does not say it.
-- As she goes to pull, a second message sits on the session. The header is the Lazarus Key. He reads the fourteen months. The line under it will not open. That line is the root, and it stays shut. Nobody on the page says the message came through her.
+- The security pull includes a living staff line for Sora, a list sent to an observer so the ship stays current on the benches. T.J. starts the name. She cuts him off before it finishes. She does not say it.
+- As she goes to pull, more of a file sits on the session. He reads an outpost update: fourteen months, Sector 09 immediate, Sectors 01 through 08 sealed, evacuation zero, then "confirm elim," and it ciphers. He does not know the format or why the first part opened. The cipher is the root, and it stays shut. The book calls the file the encryption. Nobody on the page says the message came through her, and nobody names the simulacrum. The writer chain is on the encryption entry in `canon/style/glossary.md`.
 - The alarm starts when the jack leaves the keypad. She has twenty-five seconds.
 
 ## This pass
