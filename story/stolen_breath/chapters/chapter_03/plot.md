@@ -1,8 +1,8 @@
 # Chapter 3 // Vram
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -33,13 +33,12 @@ The launch ledge of the High Aerie, on the center mast, three thousand feet abov
 - Amari says the south face is dirty and will dump him if he takes it lazy.
 - The siren hits.
 - Breach, south wall, a jack in a service door.
-- Intercept.
-- Retrieve.
-- Open the intruder.
+- Catch alive.
+- Subject wanted for examination.
 - Cassian holds the roost until the lane is called.
 - Rook and Toby take the bridge lights and do not drop for a ghost.
 - The playback is a heat smear under the south bridge, already moving.
-- Amari tells him to beat the south face, not glide it.
+- Amari confirms the south face is still dirty and the prowler has not moved.
 - He opens the wings.
 - Fourteen feet.
 - Black vanes.
@@ -59,4 +58,4 @@ Aimed: 1,400 to 1,800
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.
