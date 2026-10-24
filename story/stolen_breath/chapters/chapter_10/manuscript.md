@@ -10,7 +10,7 @@ The side of my head aches where the jamb caught it. The braid is empty. The hook
 
 The cuff holds the wrists together, not to the wall. A mistake, or a bargain he made with himself before I was awake to price it.
 
-He is on the bench across from me. Harness smoking faintly at the wing roots. Eyes too bright. The wing is folded tight because the cabin will not take it any other way. Heat comes off him in a sheet, ozone and hot metal, the same smell as the brick against my cheek, and my stomach answers it before I give permission. I file the answer under insult and keep my eyes on his hands. One of them shakes. The other is flat on his knee, trying to be a soldier's hand, and losing.
+He is on the bench across from me. Harness smoking faintly at the wing roots. Eyes too bright. The wing is folded tight because the cabin will not take it any other way, and six feet four is folded with it, knee already on my side of the floor. Heat comes off him in a sheet, ozone and hot metal, the same smell as the brick against my cheek, and my stomach answers it before I give permission. I file the answer under insult and keep my eyes on his hands. One of them shakes. The other is flat on his knee, trying to be a soldier's hand, and losing.
 
 *Not the mouth.*
 

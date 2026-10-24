@@ -26,6 +26,7 @@ Inside an armored prowler on the wasteland perimeter.
 
 - She wakes in magnetic cuffs, not opened on a table.
 - He sits across from her.
+- The cabin folds six feet four onto the bench, and his knee is already on her side of the floor.
 - The harness is hot.
 - The eyes are feverish.
 - While her hand was on him the quiet held.

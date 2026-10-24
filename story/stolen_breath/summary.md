@@ -62,7 +62,7 @@ The service door is a keypad off the south gate, on the wall's own wire. The wir
 
 The leash is the socket at the back of the neck and the signal the Spire sends through it. Hesitate, and it hurts. Leave it on for years, and it starts to cook the man.
 
-- Vram stands on the roost lip, three thousand feet up, no rail. He is six feet four in the boots, and the lip still feels narrow.
+- Vram stands on the roost lip, three thousand feet up, no rail. The lip still feels narrow.
 - The socket flares: one round mouth, one short tab, a drill in the bone. He does not rub it.
 - An observer holds above the mast. A black hull, nothing under it, no exhaust. We do not build those. There is no fuel left for a machine that has to come home, so they grew the wing.
 - The south gate is a red cluster, and a prowler has been sitting in it. Past the gate, Pylon Seven stands in the barrens, foot in the ground, violet up the shaft. The copper is thicker over it. After the ice, the foot of the wall is gone behind the curve.
@@ -176,7 +176,7 @@ Write down the cough. Write down nothing else.
 
 Record closed. Boy, seven years old. Fast hands, good eyes. Family unknown. Taken for the draft. No belongings returned.
 
-- She wakes cuffed in a moving prowler. Vram sits where he can see the door and her hands. Someone else is driving. The quiet from the shack is gone, and the tremor is climbing him.
+- She wakes cuffed in a moving prowler. Vram sits where he can see the door and her hands, six feet four folded onto the bench, knee already on her side of the floor. Someone else is driving. The quiet from the shack is gone, and the tremor is climbing him.
 - The cuff is on her wrists together, not on the wall. She puts two fingers on the inside of his wrist. The tremor stops. His eyes shut. The harness stops smoking. He is ashamed of the relief.
 - She takes the fingers away. The tremor comes back meaner. She puts them back. She has no name for the switch. The cool of her skin is a trick she was taught, and it is not this.
 - She says he needs the hand. He says he needs the packet, and the hand is a malfunction. She tells him to call it that on his report. He did not call the shack in. She wants to know where the prowler is going before the driver asks why his prisoner is taking his pulse.

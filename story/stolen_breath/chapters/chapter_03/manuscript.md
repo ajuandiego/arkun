@@ -8,7 +8,7 @@ The roost has no rail.
 
 I stand on the lip, boots on frost. The mast starts in the center, in Sector 1, and does not stop until it has come up through the glass and set this cap of stone on the outside of the crown. Three thousand feet of it under the toes. The shield is a shallow vault of hexagonal ribs, running out and down to the wall. Inside, the light is emerald, and the towers stand in it, small, a city keeping its own day. Outside, the air is copper and violet, and the frost is already on the stone. 
 
-Wind comes off the glass hard enough to push a man who is only a man. I am six feet four in the boots. The cap is three hundred feet of stone and windbreak, open the whole way around, and the lip still feels narrow. Above the mast, one of the observers holds its place. A black hull the size of a block, ever watching, hovering over the dome since I can remember. The wind is busy and the hull does not take any of it. 
+Wind comes off the glass hard enough to push a man who is only a man. The cap is three hundred feet of stone and windbreak, open the whole way around, and the lip still feels narrow. Above the mast, one of the observers holds its place. A black hull the size of a block, ever watching, hovering over the dome since I can remember. The wind is busy and the hull does not take any of it. 
 
 The socket at the back of my neck flares. *Here we go again.* 
 
