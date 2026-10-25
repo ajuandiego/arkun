@@ -8,7 +8,7 @@ Each row has two approvals. Plot approved means the chapter plot is the job. Cha
 
 Both start as no. Locked becomes yes only when both are yes. When a row is locked, the same word is set at the top of that chapter's `plot.md`. A locked chapter is not rewritten, and its plot is not revised, until the lock is opened in both places.
 
-Chapters 1 through 11 are locked. Chapters 25 through 34 have a new job in the plot file. Their manuscripts still tell the older scene.
+Chapters 1 through 12 are locked. Chapters 25 through 34 have a new job in the plot file. Their manuscripts still tell the older scene.
 
 | Chapter | Aimed words | Plot approved | Chapter approved | Locked |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ Chapters 1 through 11 are locked. Chapters 25 through 34 have a new job in the p
 | Chapter 9 // Jeffrey | 1,600 to 2,000 | yes | yes | yes |
 | Chapter 10 // Tsunari | 1,200 to 1,600 | yes | yes | yes |
 | Chapter 11 // Vram | 1,200 to 1,600 | yes | yes | yes |
-| Chapter 12 // Tsunari | 1,100 to 1,500 | no | no | no |
+| Chapter 12 // Tsunari | 1,100 to 1,500 | yes | yes | yes |
 | Chapter 13 // Drew | 1,100 to 1,500 | no | no | no |
 | Chapter 14 // Vram | 1,100 to 1,500 | no | no | no |
 | Chapter 15 // Cassian | 1,000 to 1,400 | no | no | no |
@@ -69,4 +69,4 @@ Chapters 1 through 11 are locked. Chapters 25 through 34 have a new job in the p
 | Chapter 51 // Dual POV | 1,400 to 1,800 | no | no | no |
 | The Gospel of the Slag // Interlude | 600 to 900 | no | no | no |
 
-56 chapters. 11 plots approved. 11 manuscripts approved. 11 locked.
+56 chapters. 12 plots approved. 12 manuscripts approved. 12 locked.

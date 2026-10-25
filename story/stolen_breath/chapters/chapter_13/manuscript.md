@@ -42,7 +42,7 @@ There is a second breath in the room, not hers, close to the set and trying not 
 
 "There's someone in the room," I say.
 
-"Yes." Nothing after it that I can use, no name and no place. If we keep walking south we paint every door we slept near. Ren starts. She cuts him off with his own name and tells him to face the gate. Then the sentence I am supposed to give Mercer, and the set dies under her hand. I hear the death of it. I sit for three breaths, because if I turn the cart in the first one I will turn it back.
+"Yes," she says. "You don't need to know who. If you keep walking south, you lead them to every door you've slept near. Go home." Ren starts. She cuts him off with his own name and tells him to face the gate. Then the sentence I am supposed to give Mercer, and the set dies under her hand. I hear the death of it. I sit for three breaths, because if I turn the cart in the first one I will turn it back.
 
 "We're going," I say.
 

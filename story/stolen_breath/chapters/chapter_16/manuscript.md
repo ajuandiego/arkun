@@ -4,7 +4,7 @@
 
 ***
 
-He works the harness off the wing root and hangs the rig on the crate. It is heavy in a concrete room, and there is nowhere honest to put it.
+He works the harness off the wing root and hangs the rig on the rack.
 
 From the rig he takes a cloth and a small tin, the issued kit that rides the leash. He peels the shirt. The straps have cut red grooves where the wing leaves the back. Above that, the socket. One round mouth of metal, a short tab, the skin on both sides swollen, the body trying to close over a thing that will not close.
 

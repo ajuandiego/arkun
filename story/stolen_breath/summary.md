@@ -200,14 +200,13 @@ Redoubt Station 14 is a concrete watchpost on the south edge of the ring. Shortw
 
 Shortwave can cross a few miles of bad air and cannot reach the dome. Anyone with a set can hear it.
 
-- The post is one concrete room, an unlit stove, and an old shortwave. The Spire cannot hear it. Anyone with another set can. He chose that.
-- She counts exits while he locks the prowler out: door, a slit window, a roof hatch bolted on this side, a poker, a coil of wire. The cuffs are off. He turns his back to hang the harness. She looks at the hatch bolts instead. A back is not an exit.
+- The ceiling is low, so the wing stays folded. He bars the door and locks the prowler outside. An iron stove sits cold in the corner, pipe through the roof, poker beside it. She asks if they should light it. He says no. The pipe would smoke, and anyone still on the road would see it. The shortwave is on a crate. A cot is against the far wall. The harness rack is beside the door. A ring in the floor opens on the pumps, and a duct runs from there to the pad. She asks. He tells her. The bar is down. The slit will not take a shoulder. The roof hatch is bolted from inside. He hangs the harness. The heat fills the room. She looks at the hatch bolts. She asks what the plan is. He was supposed to take her to the gate and did not. If he calls it in, they open both of them, so he does not call. They have until the daily man if the room was empty. He does not know what they do in the morning. He needs time to think. He is not taking her to a table. She stays. A fight she loses ends at the gate. If they put her on a table in the morning, she tries the roof bolts, then the ring. If the morning is a table, she tries the roof bolts, then the ring in the floor.
 - The set clicks. Drew's first word is "Tsune." He is in the room and he hears it. That is the field name, and it is the first name he has for her. Ren is with Drew at the last mirror. T.J. gave the bearing and is staying down. Ren says they are not going back until they see the prowler.
-- He also hears Drew's name. He does not move for the set, and he does not repeat Tsune. She crosses the room and tells them to turn around. The bearing was a direction, not an invitation. Tell T.J. the watch is done and he keeps the hole. She knows he heard Tsune. She does not give him Tsunari.
-- Drew asks if she is hurt, then says there is someone in the room. Tsunari gives no name and no place. If they keep walking south they paint every door they slept near.
+- He does not hear Drew. Drew never says her name. He hears Tsune, and that they are coming for the prowler. He does not move for the set. She crosses the room and tells them to turn around. The bearing was a direction, not an invitation. Tell T.J. the watch is done and he keeps the hole. She knows he heard Tsune. She does not give him Tsunari.
+- Drew asks if she is hurt, then says there is someone in the room. Tsunari says Drew does not need to know who. If they keep walking south, they lead a patrol to every door they have slept near.
 - She cuts Ren off with the field voice. Face the gate. If she hears the set again tonight, she will assume they want a patrol to learn their names. Drew confirms. They are turning around. Mercer will ask. Tsunari tells her to say they lost the signal at the mirrors, and pulls the relay.
-- Vram repeats the name Drew. She says it is a person he does not have. He heard a name. He did not hear a clinic or a hole. If he repeats the name on any channel, the next thing she touches will not be his wrist.
-- He nods. The fever is climbing. He says shortwave only, and that she understands the post. She sits between him and the set and keeps her hand on the wood, not on him. When he needs it, he says so. She is not his medicine. She sent her people home so he does not get them. He should remember which part he earned.
+- Vram stands three steps away, shaking. She could quiet some of it by picturing the leash. She leaves it alone, and the shake stays.
+- Vram says Tsune. She says he heard Tsune, Ren, and T.J. on a call. If he says Ren or T.J. where a patrol can hear them, she will not touch him to help. She will touch him to stop him. She sits between him and the set with her hand on the wood, not on him. She sent her people home so he does not get them. He should remember which part he earned.
 - He looks at the floor. She hangs the night on Drew doing what she said.
 
 ## Chapter 13 // Drew
@@ -222,7 +221,7 @@ A bearing is a direction from a boy who will not leave his bunker. It can tell y
 - Ren says he knows what Tsune is and will not say it. Drew knows the bare nape. She has fitted a lead at that throat under a shop lamp. She will not put it on a slide. The next tang is wrapped in her belt. The finished one went into the braid.
 - She stops the cart where she can see the concrete post and will not walk up to it. She calls: if Tsune is on this road, answer. Ren leans in and says they are not going back until they see the prowler.
 - Tsune tells them to turn around. Relief hits hard enough that Drew has to hold the cart. She asks if Tsune is hurt. Tsune sends them home and tells them what to tell T.J.
-- Drew hears a second breath, a man, no face and no name. Tsune confirms someone is in the room and gives them nothing else. If they keep walking south they paint every door. Drew hears the set die under Tsune's hand.
+- Drew hears a second breath, a man, no face and no name. Tsune confirms someone is in the room and says Drew does not need to know who. If they keep walking south, they lead a patrol to every door they have slept near. Drew hears the set die under Tsune's hand.
 - Ren thinks the man may be making her say it. Drew turns the cart anyway. She asked. They go. He can hate her at the clinic.
 - T.J. takes the news without a speech. The watch is done. He is down. Ren does not talk. Drew counts the tools so she does not count the ways a concrete room can go wrong.
 - Mercer is at the stove and looks at the empty half of the doorway. Drew gives him the sentence Tsune gave her: lost the signal at the mirrors. She hangs the kit, sets the next tang where Tsune's hands will look for it, washes the burn, and does not tell the room how far they actually got.
@@ -272,7 +271,7 @@ Runner lost in the sand. No body. The commander is holding the south post until 
 
 A wing root is where the wing grows out of the back. The socket sits above it. What she is about to see is bone, metal, and a body that was built.
 
-- He hangs the harness and the wing comes with it. He has not asked for her hand in an hour. The tremor is back in the jaw. He peels the shirt. One socket, swollen skin, black quills out of live bone.
+- He hangs the harness on the rack and the wing comes with it. He has not asked for her hand in an hour. The tremor is back in the jaw. He peels the shirt. One socket, swollen skin, black quills out of live bone.
 - She looks once. Heat answers low in her stomach. She puts her eyes on the roof-hatch bolt.
 - He says she can hate it from there. He has to clean the root or the next beat tears. She says she is not his nurse. He says he did not ask for one. The socket cooks if he leaves the sweat. The wing cooks if he leaves the grit. They built both to be used. They did not build either to be kept.
 - She hears the weather lie under that. She tells him to turn. Built is the word that fits. Somebody grew a weapon out of a boy's back, and the weapon is eating the man.

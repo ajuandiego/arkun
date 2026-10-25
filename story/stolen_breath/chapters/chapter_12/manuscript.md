@@ -4,54 +4,72 @@
 
 ***
 
-The post is one concrete room, with a door, a stove that has not been lit, and a shortwave set on a crate, the old kind, whip on the roof and a dial that will not reach a dome switchboard if you beg it. Anyone with another set can hear us. The Spire cannot. He chose that. I file it before I file him.
+The ceiling is low. He keeps the wing folded to get through the door, drops the bar, and goes back out to lock the prowler.
 
-The cuffs are off. He took them off in the cabin so I could walk, and because the tremor had already reached his jaw. On the step I would not touch him. In here the hand stays off until he asks. I count while he locks the prowler out: a slit window too narrow for a shoulder and wide enough for a voice, a roof hatch with the bolts on this side, a stove poker, a coil of wire, the door we came through, and the bar he has just dropped.
+An iron stove sits in the corner, cold, with a pipe running up through the roof and a poker in the stand beside it. The shortwave is on a crate in the middle of the floor. A cot is against the far wall. A rack is bolted beside the door. A lead leaves the set, runs to the wall, and goes down. The cuffs are off, so my hands work. I check the ways out while he is at the lock. The bar is across the door we came through. I would have to lift it with him in the room. The slit will pass a shout and stop a shoulder. The roof hatch is bolted on this side. I could work those bolts, and they will take time.
 
-He turns his back to hang the harness.
+"Night's falling," I say when he comes back in. "Do we light the stove?"
 
-The straps have been cooking the wing roots. The skin there is angry and red, and the heat comes off the bare back in the same sheet as the cabin, bronze gone dull with fever-sweat. My throat is dry. The line of the spine is a thing a prisoner does not get to look at. *The bolts.* I look at the hatch. A back is not an exit. The heat stays on my face anyway. I spend it on the bolts.
+"No. That pipe smokes. Anyone still on the road would see it."
+
+A ring is set into the floor between the crate and the stove. I put my boot on it. "What is this?"
+
+"Pumps, under the floor. A duct runs from there out to the pad."
+
+He turns his back and hangs the harness on the rack. The skin at the wing roots is red where the straps sat, and his heat fills the room the way it filled the cabin. I look at the hatch bolts. The heat stays on my face.
+
+"We're here," I say. "Now what?"
+
+"I was supposed to take you to the gate. I didn't." He faces the crate, not me. "If I call it in, they open both of us. So I don't call. Tonight that is as far as the plan goes."
+
+"You said a man comes through once a day."
+
+"If the room was empty, we have until he does. If he walks in, you're my prisoner and I do the talking."
+
+"And in the morning?"
+
+"I don't know what we do in the morning." He says it like a fact he hates. "I'm not taking you to a table. I don't know the rest. I need time to think."
+
+I let him think. I want a way out that does not need him turned to the wall. The bar is down, and he is in the room. The bolts will outlast a grab. The ring goes to a duct and then a pad, and a pad is open sky. If I fight him now I might win. If I lose, the gate gets me anyway. I stay. Staying works until morning. If we don't have a plan by the morning, I try the bolts, and then the ring.
 
 The shortwave clicks.
 
-I know the click. T.J. builds his sets mean and quiet, and this one is not his, but the squelch is the same weather. Then Drew.
+I know that sound. T.J. builds sets that stay quiet until they talk, and the squelch on this one matches them. Drew speaks.
 
-"Tsune. If you're on this road, answer. Ren is with me. We're at the last mirror. T.J. gave us the bearing and he is staying down, so don't ask me to make him brave."
+"Tsune. If you're on this road, answer. Ren is with me. We're a few miles south from the last mirror. T.J. gave us the bearing and he says it should be ok to use this shortwave signal."
 
 Ren, smaller, too close to her mic: "We're not going back until we see the prowler."
 
-Vram's head comes around. He heard the name. Drew. He does not move for the set. Discipline, or the tremor eating the timing. I cross the room before he chooses. I thumb the send.
+Vram's head comes around. He heard Tsune, and he heard that they are coming for the prowler. He does not move for the set. Discipline, or the tremor eating the timing. I cross the room before he chooses. I thumb the send.
 
 "Turn around."
 
 "Tsune." The relief cracks the word. "Are you hurt?"
 
-"Turn around. Both of you. The bearing was a direction, not an invitation. Go home. Tell T.J. the watch is done and he keeps the hole."
+"Turn around. Both of you. The bearing was a direction, not an invitation. Go home. Tell T.J. the watch is done."
 
 "There's someone in the room," she says. Not a question. Drew hears a second breath the way other people hear a bad bearing.
 
-"Yes. You don't get a name. You don't get a place. If you keep walking south you paint every door you slept near. Go home."
+"Yes. You don't need to know who. If you keep walking south, you lead them to every door you've slept near. Go home."
 
 Ren starts, "We can..."
 
-"Ren." I put the field voice on, the one that makes him stand up straight. "You get to Drew's cart and you face the gate. If I hear this set again tonight I will assume you want a patrol to learn your names. Confirm."
+"Ren." I put the field voice on, the one that makes him stand up straight. "You get in the cart and you face the gate. If I hear this set again tonight I will assume you want a patrol to learn your names. Confirm."
 
-The lee scratches the slit. Vram is three steps away, shaking, taking nothing I am not spending.
+The lee scratches the slit. Vram stands three steps away, shaking. I could quiet some of it from here by picturing the leash. I leave it alone, and the shake stays.
 
 "Confirm," Drew says. "We're turning around. Mercer will ask."
 
-"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. The room is concrete and breath again.
+"Tell him you lost the signal at the mirrors." I pull the relay. The set dies under my hand. The room is breath again.
 
 He looks at the dead dial, then at me.
 
-"Drew," he says.
+"Tsune," he says.
 
-"Is a person you don't have." The tremor is in his shoulders now, fine and constant. I watch him decide not to ask for the hand, from pride or from the last of the order. "You heard a name. You did not hear a clinic. You did not hear a hole. If you repeat the name on any channel, the next thing I touch will not be your wrist."
+The tremor sits in his shoulders, small and steady. "You heard something on a call. If you say any of those names where a patrol can hear them, I won't touch you to help. I'll touch you to kill."
 
-He nods once. It costs him. The fever is climbing and he is still standing in it.
+He nods once. It costs him.
 
-"Shortwave only," he says. "You just proved you understand the post."
-
-"I understand you drove me somewhere the city can't hear." I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. *Let him ask.* "When you need it, you say so. I'm the woman who can take the noise away, and I have just sent my people home so you don't get them. Remember which part you earned."
+I sit on the crate, between him and the set, and I put my hand on the wood. Not on him. "I sent my people home to protect them. Remember which part you earned."
 
 He looks at the floor. Outside, the road back to the mirrors stays empty. I hang the night on Drew doing what she said.
