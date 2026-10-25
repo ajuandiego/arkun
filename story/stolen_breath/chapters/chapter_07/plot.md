@@ -1,8 +1,8 @@
 # Chapter 7 // Tsunari
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -29,9 +29,10 @@ The dust-choked ruins of a solar power substation.
 - He checks the strike and traps the wrists.
 - Pinned, she is still measuring: the hip, the place the wing leaves the back, the shin that stops a blade.
 - His chest is a furnace through the plate.
-- Ozone, heated metal, the scar at the jaw close enough that her mouth knows where it is.
+- Ozone, hot metal, cedar under both, the scar at the jaw close enough that her mouth knows where it is.
 - She despises the uniform and the order he dropped on.
 - The body under it is a fact she does not get to file as only a weapon.
+- He says stop. She tells him a man finishing it does not ask. The neck flinches, not the hands. She spends it and the bodkin shifts.
 - Pull the knife.
 - Do not look at his mouth.
 - The sand is in her teeth.
@@ -49,4 +50,4 @@ Aimed: 1,200 to 1,600
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

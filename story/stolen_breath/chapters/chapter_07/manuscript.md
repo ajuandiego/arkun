@@ -6,7 +6,7 @@
 
 The second hook comes up off the sand and he takes it on the shin guard.
 
-The beak skids. The block is ugly and close, and the force of it turns me. We hit brick. Dust in the mouth. A wing slams the wall and the shack complains, a long wooden sound, and then his weight is the whole room. Heat comes off him in a sheet. Ozone. Hot metal. The smell sits in the feathers crushed against my cheek, and my body answers it before I give it permission, a jolt low in the stomach that I file under insult and keep moving.
+The beak skids. The block is ugly and close, and the force of it turns me. We hit brick. Dust in the mouth. A wing slams the wall and the shack complains, a long wooden sound, and then his weight is the whole room. Heat comes off him in a sheet. Ozone. Hot metal. Cedar sits under both, in the feathers crushed against my cheek, and my body answers it before I give it permission, a jolt low in the stomach that I file under insult and keep moving.
 
 The ceiling is why I ran here. Low. A wing that wants to open has to fold or eat the beams, and he folded, which means the plan worked and the plan currently has me on the floor. I drive a knee at the soft place under the plate. He turns the hip. The shin guard takes the knee the way it took the hook, and he grunts, a real sound, not an order. A grunt is a joint. I file it. Then his free hand finds the wrist I still have, and the revision I was building dies in his grip.
 
@@ -18,13 +18,13 @@ I twist. The braid scrapes brick. If I can get the bun against his forearm, the 
 
 "You first."
 
-"You don't even sound like the wire when you say it," I tell him. "You sound like somebody who remembers a ward. They like that in a soldier. It keeps the street polite while he collects it."
+"You had both wrists," I tell him. "A man finishing it doesn't ask."
 
-"You don't know the ward."
+"You don't know the order."
 
-"I know the socket. It's against my collar every time you lean. The polite ones still open you if the wire says open."
+"I know you asked. The ones who open a throat don't say stop."
 
-He flinches. The flinch is small and it is in the neck, not the hands, which tells me the socket is live and the hands are his. I spend the flinch. I yank the right wrist toward the braid, two inches, the same two inches, and this time I get the scrape of the bun against his arm before he kills it. The bodkin shifts in the hair. A click, tiny, the blade not free and not seated as deep as it was. His eyes go to the sound. That is the gift.
+He flinches. The flinch is small and it is in the neck, not the hands. The pause I named just cost him. The hands are still his. I spend the flinch. I yank the right wrist toward the braid, two inches, the same two inches, and this time I get the scrape of the bun against his arm before he kills it. The bodkin shifts in the hair. A click, tiny, the blade not free and not seated as deep as it was. His eyes go to the sound. That is the gift.
 
 His jaw is scarred on the left, a pale hook of old burn, and the mouth under it is close enough that I can see the grit on his lip. I look at the door. The door is an exit if his knee slips. The hip under the knee is the lever. The knife is the finish if the wrists come free. I count those three things and I make myself count them again, because the mouth is right there and the mouth is not a plan.
 
@@ -32,13 +32,11 @@ He is burning. Through the plate the chest is a furnace, and the bare arms are w
 
 "The slate," he says. "Then you walk out of this shack."
 
-"You were told to open me."
-
-His eyes change. He did not expect me to have the order. Good. An order he is ashamed of is a crack, and a crack is a place to put a wrist.
+"Open me first, then," I say. "If that's what they sent you for."
 
 "I was told to recover a runner," he says. "The file is the point."
 
-"Then you can have the file when my hands are my hands."
+"Let go of the wrists. Then you get the file."
 
 He leans in to stop a buck of the hips and the heat spikes. Feathers at his shoulder brush my throat above the collar. I hate him with a clean, useful hate. They took a child, put a socket in him, grew him a wing, and sent him back to collect a woman for breathing on the wrong side of a door. He is also, right now, a man who has not broken my wrists when the grip says he could. That fact is more dangerous than the knee. A man who wants you dead does not bargain for a slate. A man who bargains can be angled.
 
@@ -48,7 +46,7 @@ He feels it. The wing braces harder. Brick dust ticks down onto both of us, fine
 
 "Don't," he says.
 
-It is not the leash. The leash would have told him to finish the order and be done with my throat. This is him, close, furious, trying to keep a fight from becoming a killing. I hear the difference and I hate that I hear it. A difference is a thing you can use. It is also a thing that makes the furnace against your ribs harder to file under enemy and leave there.
+He has the weight to finish it. He spends the word instead. Close, furious, keeping a fight from becoming a killing. I hear that and I hate it. I can use it. The heat against my ribs will not stay a simple enemy.
 
 I look at the scar so I do not look at the mouth.
 
@@ -56,7 +54,7 @@ I look at the scar so I do not look at the mouth.
 
 "You won't reach it."
 
-"Watch me fail, then. You'll still have to spend a hand to stop the try, and a hand you spend is a hand off my wrist."
+"Watch me fail, then. You still have to take a hand off my wrist to stop it."
 
 He almost smiles. It dies before it becomes the look he gave the gap outside, the one I was not supposed to see and did. *Asshole.* A man who looks at you like that will hesitate. A hesitation is a door.
 

@@ -22,7 +22,7 @@
     *   **Heat flush:** Under high arousal, rage, or exertion, the capillaries under the skin flush with the burn. Copper and bronze. The same heat, not a second class.
     *   **The hands:** Human hands. No talons, retracted or otherwise.
     *   **The Siphon:** One round iris in a dark metal seat, centered where the head meets the back, with a short metal tab under it. Idle, the skin lies flat. When the carrier is hot, the skin around the socket reddens and the metal stays metal. The rule is `../world/life/leash.md`. The plate is `assets/media/the_leash_2.jpg`.
-*   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, bitter clove, and overwhelming, radiant body heat.
+*   **Sensory Scent / Presence:** Scorched ozone after a lightning strike, sandalwood, heated metal, cedar, and overwhelming, radiant body heat.
 
 ---
 

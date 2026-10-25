@@ -130,14 +130,13 @@ Catch the runner alive. Subject wanted for examination.
 
 They took our children with promises of wings. They gave them iron in their necks and sent them back to shoot us for breathing.
 
-- The second takedown breaks the floor. Heat, ozone, and hot metal come off him. Her stomach answers before she gives it permission. She files the jolt as an insult and keeps moving.
+- The second takedown breaks the floor. Heat, ozone, and hot metal come off him, and cedar under both, in the feathers at her cheek. Her stomach answers before she gives it permission. She files the jolt as an insult and keeps moving.
 - He checks one hook on the shin guard and pins both wrists over her head. She tries to unseat the bodkin from the braid against his forearm. He shifts the grip off the hair.
-- He says stop. She says he first. She counts the door, the hip under his knee, and the knife. She does not count his mouth again.
+- He says stop. She says he first. She tells him a man finishing it does not ask. He says she does not know the order. She says the ones who open a throat do not say stop. The neck flinches. She spends it, and the bodkin shifts.
 - He is burning through the plate. Her skin pulls heat and does not fix him. Whatever is wrong with him is not a fever she was taught to cure.
-- He offers the walk if she gives up the slate. She says he was told to open her. His eyes change. An order he is ashamed of is a crack.
-- He says he was told to recover a runner, and the file is the point. She says he can have the file when her hands are her hands.
+- He offers the walk if she gives up the slate. She says open her first, if that's what they sent him for. He says he was told to recover a runner, and the file is the point. She says let go of the wrists, then he gets the file.
 - He leans in to stop a buck. The feathers brush her throat. She hates him as the weapon sent back to shoot the street, and she also notes that he has not broken her wrists when he could have.
-- She starts a drop that would make his knee choose. He feels it and braces harder. He says don't, and it is him, not the leash, trying to keep the fight from becoming a killing.
+- She starts a drop that would make his knee choose. He feels it and braces harder. He says don't. He has the weight to finish it and spends the word instead.
 - She tells him to get off or she finds out what his neck does when a knife goes looking for it. He tightens the grip and does not reach for the bun. The fight has run out of easy blood.
 
 ## Chapter 8 // Vram
