@@ -1,8 +1,8 @@
 # Chapter 11 // Vram
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -28,10 +28,21 @@ The driver's cabin of the prowler, south ring road, a few miles past the graveya
 - The city cannot hear what happens inside.
 - The graveyard is behind them.
 - The vault is still under the ring, and he is not walking her into it.
-- The tiller is empty. The route was the gate.
-- He takes the seat, kills the beacon, and points the prowler at the post. Manual from there.
+- The tiller is empty. The route is still the south gate. He has not changed it yet.
+- He takes his wrist back and moves to the tiller. The burn comes back whole.
+- She stops pricing him. The look is pity, and he hates it.
+- A brush of quiet hits him with no skin on hers. He locks up and tells her not to look at him like that.
+- She is afraid a loud leash means the Spire can hear him, and that a loud one ends with her in a lab.
+- He asks what she did. She tells him to shut up and tries. The noise steps down further, and the burn stays under it.
+- She says she can feel the leash when he is close, and that picturing it is close to the touch. He calls it another unanswered question.
+- She takes the thin away. The burn comes back. He wants it. She tells him to ask nicely. He says bring it back. She does, because a loud leash is a lab, not because he asked well.
+- She has the first small control of a reach with no hand. The cart is too small to count how far it goes. That count is chapter 14.
+- The thin holds the tiller. She stays on the bench. The palm is for a crisis, and this road is not one.
+- She does not learn that the reach can be pushed. The page does not say it.
+- She watches him kill the beacon. It reports to the Dome. He points the prowler at the post. Manual from there.
+- He looks at the scales. He does not ask what she is. That was the deal in the back.
 - The lie has not been spoken yet.
-- What he has is a fever that climbs when she is across the cabin and drops when she is close, and an order that said catch her alive. Subject wanted for examination.
+- While she aims, the thin holds and he can drive. The palm is for a crisis. The order still said catch her alive. Subject wanted for examination.
 - The want is specific and he hates it.
 - Bare shoulder, the scales, the mouth set against him.
 - If he reaches, she will use it.
@@ -51,4 +62,4 @@ Aimed: 1,200 to 1,600
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

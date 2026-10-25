@@ -87,7 +87,8 @@ What she wants after that is the fighter. He works at her speed, and he spends t
 | Operational Proximity | Effect on Abilities & Biometrics | Tactical & Psychological Dynamic |
 | :--- | :--- | :--- |
 | **Direct Contact (Skin-to-Skin)** | His furnace heat moves into her cool Raptor skin on any touch. The mesh goes quiet only when she aims the ground at him and the skin closes it. | She can feel the heat she was taught. The silence is the part she is still learning. He can lie on the tactical link with her hand on him. |
-| **Close, and she is not aiming** | Nothing in the mesh. Nearness has no radius. His ache stays. Voice and the position fix stay. | They can still fight as a pair. A soldier she is not aiming at feels nothing. He can lie on the tactical link while she is in the room. |
+| **Close, and she is not aiming** | Nothing in the mesh. His ache stays. Voice and the position fix stay. | They can still fight as a pair. A soldier she is not aiming at feels nothing. He can lie on the tactical link while she is in the room. |
+| **Close, she is aiming, no skin** | Partial. It fades with distance and is gone at six feet. Skin is the full quiet. A later push of intensity, scope, and distance is in `canon/world/life/leash.md`. She cannot do that yet. | The hand is still the bargain. The cart is too small to count the edge. Chapter 14 counts the six feet. The push is not on the page. |
 | **Separated / Solo Operations** | Baseline functioning. Vram endures his standard chronic lattice ache; abilities can still be used, but suffer normal severe entropy/exhaustion limits. | Independent survival capability; heightened wariness; calculating the fastest path to rendezvous. |
 
 ---

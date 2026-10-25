@@ -61,7 +61,7 @@ The grapple makes the sentence mean a person. She still cannot finish the count.
 ## 4. The Female Biotype (Raptor-Augmented) & Natural Skillset
 *   **Predictive Calculating Problem-Solving:** Instinctive spatial geometry. In high-stress combat, she maps enemy vectors, structural failure points, reload intervals, and escape trajectories in fractions of a second.
 *   **Jumping and footing:** She jumps higher than the people around her, lands quiet, stalks quiet, and can sprint up a concrete pillar or rebound off a bulkhead. Write the move. Do not name a tendon or a transgenic spring.
-*   **The Null-Resonance Grounding:** The Mosaic Keystone. She directs it at one soldier, and skin closes that circuit. A leash she is not aiming at stays loud. It does not hide her from a position fix, a radio, or a pair of eyes. She knows the Raptor body. She does not know this path until the first touch. What Jeffrey left her is above. The rule is in `canon/world/life/leash.md`.
+*   **The Null-Resonance Grounding:** The Mosaic Keystone. She directs it at one soldier, and skin closes that circuit. That touch is the full quiet. If she aims and does not touch, the quiet is partial and gone at six feet. A leash she is not aiming at stays loud. It does not hide her from a position fix, a radio, or a pair of eyes. She knows the Raptor body. She does not know this path until the first touch. What she may later push, and when the page may say so, is in `canon/world/life/leash.md`. What Jeffrey left her is above.
 *   **Common-Sense Realism:** Zero tolerance for ideological posturing or theatrical heroics. She attacks from the shadows, exploits every environmental advantage, and fights with cold, lethal economy.
 
 ---
