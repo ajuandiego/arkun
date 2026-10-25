@@ -4,7 +4,7 @@
 
 ***
 
-Copper grit hangs thick under the bridge. I come along low in it, jump at the wall end, and the hooks bite as I pull onto the landing. The door is a plain slab with the keypad at my chest. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the clinic lane is still buying the last of the day. Mash at one post, bread at the next, people moving because the night will freeze. This door is the dark between those lights.
+Copper grit hangs thick under the bridge. I come along low in it. At the wall end I jump. The height is the legs, more than a body gets, and the hooks bite as I pull onto the landing. The door is a plain slab with the keypad at my chest. The wall is cold where my shoulder touches it, and the collar of my tunic is stuck to my throat. Across the sand the clinic lane is still buying the last of the day. Mash at one post, bread at the next, people moving because the night will freeze. This door is the dark between those lights.
 
 "Last boot was the long pass," Ren says in my ear. His breath catches on the last word, the dry sound he pretends is only the climb. "Seven point eight from then. I'm on the roof that sees the corner. Drew stayed at the bench."
 

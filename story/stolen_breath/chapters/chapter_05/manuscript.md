@@ -28,7 +28,7 @@ The pop is bright and local. His light dies. The suit's knees lock, one pneumati
 
 "Two, I'm blind. Suit's dead. Two, report."
 
-I am already on the face of the bowl. Boot, push. The leg takes the glass and throws me onto the housing at his shoulder. The pommel of the bodkin, still seated in the braid, finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet that the dust turns to a pale rope. He claws at the seal.
+I am already on the face of the bowl. Boot, push. The leg throws me higher than the suit, and I come down on the housing at his shoulder before he has turned the helmet. The pommel of the bodkin, still seated in the braid, finds the valve behind the helmet and snaps it. Air screams out, cold, a white jet that the dust turns to a pale rope. He claws at the seal.
 
 "Stay down," I say.
 
@@ -42,7 +42,7 @@ I go along the dark side of the row, under the lip, where the grit hides a body 
 
 "Drop it," he says, when he finally sees a shape that is not his partner. He crests to make the shot clean.
 
-I slide under the line. The shot takes the bowl behind me. The bowl comes apart, a deep crack and then a curtain of black splinters. He covers the visor. That is the whole gift. I plant, the sand goes, and the bound puts me at his collar ring before the visor clears. The hook is in a reverse grip. The beak finds the seam under the net gun and tears the feed. The whine dies in the weapon. I drive a knee into the joint that was hissing, and the leg folds the way a locked hinge folds. He hits the berm. The net spills, useless, a metal spider with no throw left in it.
+I slide under the line. The shot takes the bowl behind me. The bowl comes apart, a deep crack and then a curtain of black splinters. He covers the visor. That is the whole gift. I plant, the sand goes, and the bound eats the berm in one push. I am at his collar ring before the visor clears. The hook is in a reverse grip. The beak finds the seam under the net gun and tears the feed. The whine dies in the weapon. I drive a knee into the joint that was hissing, and the leg folds the way a locked hinge folds. He hits the berm. The net spills, useless, a metal spider with no throw left in it.
 
 "One is down," he says, thick, into a speaker I did not bother to kill. "Berm. She is armed. She is small and she hits like the ground moved."
 

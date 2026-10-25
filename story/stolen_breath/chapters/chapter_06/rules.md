@@ -15,6 +15,6 @@ Cuts for the rewrite, drawn from `analysis/book1/`. Canon and the beat win if a 
 
 - The dive and the recognition are the chapter. Do not stack height, weight, and wingspan.
 - Leave Jeffrey's warning about a chest that can bend a girder for a chapter where she remembers it. This page is the tackle.
-- She is a Raptor. The leash is one socket. No essay on a silver spine.
+- From above he gets the cold and the leg. Not human. Not Avian. Lycan would keep the heat, Ceraton the size, Galvan the field. She kept none of them. *Unless.* He asks if it is possible. *She might be a Raptor.* The collar hides the nape until the shack. A Raptor is not a body the legion fields. The leash is one socket. No essay on a silver spine.
 
 Open before the pass: the POV file in `canon/characters/`, the beat in `../../breakdown.md`, `canon/places/locations_and_sensory.md` when a listed place is on the page, `canon/romance/romance_engine.md` when they touch, and `canon/style/voice.md`.

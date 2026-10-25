@@ -113,17 +113,17 @@ If you answer on an open set, you paint the house you are protecting.
 
 Catch the runner alive. Subject wanted for examination.
 
-- He does not have a name. The wall order says runner. Between the bowls the smear takes a shape: narrow through the shoulder, a hook, no socket. That is when she becomes a woman to him. She does not have his name. To her he is the wing on the dive.
-- From above, the heat is wrong: a cool smear against glass that is still holding the day. No collar ping. No beacon. His socket offers a tag and eats it, because there is nothing at the nape to bite.
-- The order is catch the runner alive. Subject wanted for examination. The file comes with her.
-- The two suits are already down. She did not stay to finish them. She went where a dive has to choose a gap or eat glass.
+- He does not have a name. The wall order says runner. Between the bowls the smear takes a shape: narrow through the shoulder, a hook. He does not have a woman yet. She does not have his name. To her he is the wing on the dive.
+- From above, the heat is wrong: a cool smear against glass that is still holding the day. He does not see a nape. The berm says she, and small. He had been waiting on a second body in the row. The push off the bowl is a leg, higher than the suit. Not human. Not Avian. Lycan would keep the heat, Ceraton the size, Galvan the field. She kept none of them. Unless. He asks if it is possible. She might be a Raptor.
+- The order is catch the runner alive. Subject wanted for examination. The file comes with the runner.
+- He watches both suits go down and does not get the hands. The runner leaves them breathing and spends the minute on the wing. He wants the slate, and he wants the next move before he takes it.
 - He chooses the gap she left on purpose. She has already put a tilted bowl in his line. She watched the wing.
 - He says "clever girl." The leash stitches him for the admiration. He tucks and goes through the angle she did not quite close.
 - She turns with a hook. He hits her anyway. They smash through the door of a mirror shack.
 - He gets a forearm across the hook before it finds the socket and demands the packet, hands where he can see them.
 - She laughs and tries to end it with a knee. He turns the hip. They are chest to chest. Her skin is cool in a furnace desert. She tells him the file was in a pipe, and to take it if he can find a free hand.
 - He cannot. The leash says obey. He drives them over and reaches for the slate strap. She bites his wrist and twists out from under him.
-- He catches the collar. The throat under it has no metal. He tells her the next pass will break the glass with her in it.
+- In the shack the collar comes off the nape. Skin, no metal. The leg already said Raptor. He has no second to spend on the throat.
 - She looks at the door, his hand, and the wing jammed on the wall. She stays for a heartbeat. Then the hook comes up again.
 
 ## Chapter 7 // Tsunari
