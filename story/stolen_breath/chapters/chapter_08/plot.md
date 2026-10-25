@@ -1,8 +1,8 @@
 # Chapter 8 // Vram
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -36,14 +36,14 @@ The floor of the shattered substation.
 - The silence is not the Raptor body.
 - She has no name for it.
 - The quiet holds while the hand stays.
-- His body knows the waist between his thighs and the sage on her throat, and the want arrives in the same second as the humiliation.
+- He is close enough to catch the sage. The quiet under her palm is the gift. He holds the hand. The look at her mouth comes later, after he says they are the same.
 - A dirty, uncollared runner in the dust just shut off a commander.
-- If the noise stops, you report it.
+- If the noise stops, you report it. That rule is his. She does not know it.
 - A quiet soldier is a broken soldier.
-- He does not report it.
-- She feels the tremor die under her palm and start again the moment she thinks of letting go.
-- The need is a lever.
-- She has already started to hold it.
+- She says his neck went still. She felt it stop. She is surprised, and she is still the runner.
+- She spends the look and rips the palm off the socket.
+- The drill comes back with the order: catch her alive.
+- He does not call the quiet in. He takes her anyway.
 
 ## Handoff
 
@@ -55,4 +55,4 @@ Aimed: 1,300 to 1,700
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

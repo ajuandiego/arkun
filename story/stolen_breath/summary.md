@@ -148,13 +148,14 @@ If the noise in your skull stops, you report it. A quiet soldier is a broken sol
 - Her hand gets free because he reaches for the bodkin. She turns into the reach. Her palm lands on the socket and covers the iris and the tab.
 - The mesh stops. Ten years of drill, stitch, and order go out. He hits his knees. He locks her other wrist, knuckles white, because if the hand leaves, the noise comes back. He does not know why.
 - She stares at her own hand. The cool of her skin is not this. The noise is simply gone, and she has no name for it. She starts "if it cannot" and does not finish.
-- He is close enough to catch wild sage at her throat. His body answers. He is hard, and the shame is immediate. She is an insurgent with a stolen file. The body does not take the correction.
+- He is close enough to catch wild sage at her throat. He lets the smell pass. The quiet under her palm is the gift he found, and he holds the hand there.
 - He tells her not to move and to keep the hand there. She says she only grabbed him, and if he lets go she will take the hand back. He says no.
 - Nothing punishes the no. The socket is quiet metal. The angry skin around it is only skin.
 - He is terrified of the minute she understands what she is holding. If she tells anyone, he is a broken asset. If she does not, he is a man who felt the silence and will not give it up.
 - She is still measuring the wrist. She says he is burning, and that part she knows. The rest she does not. He says then they are the same, and hates that he said it.
-- She sees the arousal and files it. She quotes the rule: a quiet soldier is a broken soldier. She asks if he is going to report it.
-- The channel is in his jaw. A word would bring the roost. He keeps her wrist, keeps her hand, and says no. For the first time in ten years, the only sound in his skull is the two of them.
+- She sees the look and files it. She says his neck went still, and that she felt it stop. She does not know the report rule, and she does not ask him to follow it.
+- The link opens if he sets his teeth. A word would bring the roost. He keeps her wrist and leaves the link shut. She spends the look and rips the palm off the socket.
+- The drill comes back offended, with the order to catch her alive. She rolls for the door. He leaves the link shut. The wing takes her feet at the sill. He gathers her in and does not call the quiet.
 
 ## Chapter 9 // Jeffrey
 

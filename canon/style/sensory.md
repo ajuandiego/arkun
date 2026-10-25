@@ -18,7 +18,7 @@
 *   *The Sump Catacombs & Tempered Altars:* Stagnant runoff water, damp limestone, caustic lime wash, singed flesh and red-hot wrought iron from branding braziers, and tallow candles rendered from scavenged fat.
 *   *Domestic Faith Shrines:* Worn paper and dried ink from century-old pocket bibles and qurans, crushed desert sage burned in rusted tin lids, and olive-wood prayer beads polished smooth by thirty years of desperate fingers.
 *   *Eden Dome Alpha:* Synthetic gardenias, hyper-filtered recycled air that leaves the back of the mouth dry, and the faint chemical undertone of cellular preservatives.
-*   *Vram’s Scent:* Heavy rain on hot asphalt, ozone, aviation bio-fuel, leather, and dark cedar.
+*   *Vram's Scent:* The nose is in `../characters/vram.md`. Ozone, hot metal, and cedar under both.
 *   *Tsunari’s Scent:* Bitter citrus solvent, solder flux, desert wind, and warm, untainted human skin.
 
 ### 3. Sound & Frequency
