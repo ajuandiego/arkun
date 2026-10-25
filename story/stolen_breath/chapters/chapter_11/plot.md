@@ -28,7 +28,8 @@ The driver's cabin of the prowler, south ring road, a few miles past the graveya
 - The city cannot hear what happens inside.
 - The graveyard is behind them.
 - The vault is still under the ring, and he is not walking her into it.
-- He overrides the navigation beacon.
+- The tiller is empty. The route was the gate.
+- He takes the seat, kills the beacon, and points the prowler at the post. Manual from there.
 - The lie has not been spoken yet.
 - What he has is a fever that climbs when she is across the cabin and drops when she is close, and an order that said catch her alive. Subject wanted for examination.
 - The want is specific and he hates it.

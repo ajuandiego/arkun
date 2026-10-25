@@ -176,19 +176,19 @@ Write down the cough. Write down nothing else.
 
 Record closed. Boy, seven years old. Fast hands, good eyes. Family unknown. Taken for the draft. No belongings returned.
 
-- She wakes cuffed in a moving prowler. Vram sits where he can see the door and her hands, six feet four folded onto the bench, knee already on her side of the floor. Someone else is driving. The quiet from the shack is gone, and the tremor is climbing him.
-- The cuff is on her wrists together, not on the wall. She puts two fingers on the inside of his wrist. The tremor stops. His eyes shut. The harness stops smoking. He is ashamed of the relief.
-- She takes the fingers away. The tremor comes back meaner. She puts them back. She has no name for the switch. The cool of her skin is a trick she was taught, and it is not this.
-- She says he needs the hand. He says he needs the packet, and the hand is a malfunction. She tells him to call it that on his report. He did not call the shack in. She wants to know where the prowler is going before the driver asks why his prisoner is taking his pulse.
-- He says south, away from the gate. He will not give the beacon the Spire, because they would open both of them if anyone repeats what her hand just did.
-- She says the hand stays until they are out of the box. He does not ask what she is. She does not ask what they wrote down when they took him. She will not recite a boyhood file she was not given.
-- He says deal. A rut slips her fingers. The tremor flashes. She puts the palm back flat and watches him hate how fast he leans into it. She counts the turns south as the graveyard falls behind them.
+- She wakes on her back on the bench, cuffed, wrists together in front of her. She sits up. The benches face each other with almost no floor between them. Vram sits where he can see the door and her hands, six feet four folded onto the bench, knee already on her side of the floor. The tiller is empty. The prowler is running the gate route it was given. The quiet from the shack is gone, and the tremor is climbing him.
+- The cuff lets both hands come up as one. She stays seated and leans. Two fingers go on the inside of his wrist. The tremor stops. His eyes shut. The harness stops smoking. He is ashamed of the relief.
+- She takes the fingers away. The tremor comes back meaner, and he makes a small sound he does not mean. She puts them back. The test wanted the answer. The sound is why she does not take the hand away again. She has no name for the switch. The cool of her skin is a trick she was taught, and it is not this.
+- She says he needs the hand. He says he needs the packet, and the hand is a malfunction. She tells him to call it that on his report. He did not call the shack in. She wants to know where the route is taking them before the gate does.
+- He says the route is still the gate, and he has not changed it. She tells him to change it. He says south, when he takes the tiller. The tiller is empty. They would open both of them if anyone repeats what her hand just did.
+- She says the hand stays until they are out of the box. He does not ask what she is. The boy on the closed record is a shape the city leaves in people. She will not put that shape on him out loud.
+- He says deal. A rut slips her fingers. The tremor flashes. She puts the palm back flat and watches him hate how fast he leans into it. She counts the bowls as the graveyard comes up. The road is still the gate. He has not taken the tiller.
 
 ## Chapter 11 // Vram
 
 Redoubt Station 14 is a concrete watchpost on the south edge of the ring. Shortwave only. The city cannot hear what happens inside.
 
-- When the road clears the graveyard, he takes the driver's seat. He kills the courier's beacon, points the prowler at a post the city does not listen to, and puts the courier out to walk back toward the lamps. A commander can relieve a man. The lie that he stole a prisoner can wait.
+- When the road clears the graveyard, he takes the empty tiller. The route on the glass still says the gate. He kills the beacon, points the prowler at a post the city does not listen to, and takes it manual. A storm can explain a dead beacon. The lie that he stole a prisoner can wait.
 - She is in the cabin because the back bench put her hand at the wrong angle. Her palm is on his forearm, under the window line. The quiet holds.
 - The lee thins as they go south. Past the lee is the Choke, and they are not going that far. Seven miles from the mast, the concrete box is a delay he can call an order. If he takes her into the city, they open her on a table and open him for not calling the shack.
 - He looks at the slate scales on her bare shoulder once. She sees him see them. His pulse kicks. His hands tighten on the wheel. If he reaches for her, she will use the bodkin he has not found, or her teeth, or the fact that he needs the palm more than she needs him alive.
@@ -247,7 +247,7 @@ The moment a commander values one life over the order, retire him. Retire the wi
 
 Runner lost in the sand. No body. The commander is holding the south post until the weather clears.
 
-- Corvus stands at the roost-office window and makes him say it again. He gives the clean version: lost in the sand, no body, holding Redoubt Station 14, courier relieved, beacon killed so the storm would not paint the prowler.
+- Corvus stands at the roost-office window and makes him say it again. He gives the clean version: lost in the sand, no body, holding Redoubt Station 14, beacon killed so the storm would not paint the prowler.
 - He hates that Vram's level voice sounds the same before a drop and when he is hurt.
 - Corvus wants a body, not Swift's weather. Cassian will confirm the report to the wing and will not decorate it. If the weather clears and Vram is still sitting on an empty post, Cassian brings him up, or she retires the wing.
 - Cassian does not tell her the socket burned before the siren. He files the strange hunt under weather. He does not know that Vram has asked him to lie. He believes the story he can stand in. He has a brother on this wing.

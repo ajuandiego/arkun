@@ -1,8 +1,8 @@
 # Chapter 10 // Tsunari
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
@@ -35,7 +35,9 @@ Inside an armored prowler on the wasteland perimeter.
 - She has no name for what her palm did.
 - She starts using the need anyway.
 - A soldier who can report her face, the theft, and the quiet is safer kept in reach.
-- The file they stole is still on her, or it was.
+- He says he needs the packet. She prices the hand.
+- The tiller is empty. The prowler is running the gate route it was given.
+- He has not changed the route yet.
 - The prowler is going somewhere the gate will call a victory.
 - She is measuring the cabin: his hands, the door, how long the quiet lasts if she gives him the wrist and how fast the drill returns if she takes it back.
 
@@ -49,4 +51,4 @@ Aimed: 1,200 to 1,600
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.

@@ -6,17 +6,9 @@
 
 I take the driver's seat when the road clears the graveyard.
 
-The man who had the tiller is a courier with a route and a beacon that wants to go home. I pull the beacon, kill it, and point the prowler at a post the city does not listen to.
+The tiller is empty. The route on the glass still says the gate. The beacon under it wants the Spire. I kill the beacon and point the prowler south, at a post the city does not listen to. The route cancels. Manual from here.
 
-"The route is the gate," he says.
-
-"The route is whatever I point at."
-
-"Command will ask why the beacon died."
-
-"Command can ask the hatch. You're walking."
-
-He takes the hint and the long walk back toward the lamps. I do not watch him go. If he reports, he reports a commander who relieved him. Commanders relieve people. They do not steal prisoners. The lie can wait until someone asks a question I cannot file.
+Command will ask why the beacon died. A storm is an answer. A commander who changed a route is a question I am not ready to file. The lie can wait.
 
 She cannot stay on the back bench. Every rut lifted her hand, and the tremor came up in the gap. I bring her through to the cabin. The move costs the palm. The shake climbs my arm before she is in the second seat, and my hand comes up to take her wrist and put it back where it belongs. She looks at the hand.
 
