@@ -1,14 +1,14 @@
 # Chapter 9 // Jeffrey
 
-Locked: no
-Plot approved: no
-Chapter approved: no
+Locked: yes
+Plot approved: yes
+Chapter approved: yes
 
 Part I.
 
 ## Purpose
 
-He gives her the Raptor and the culture, hides the rest, and leaves so the strike team follows him. The reader does not learn what the rest is.
+He gives her the culture and a plain warning: skin, eyes, legs, and a body that will run colder. She finds out what that means as she grows, out of the reader's sight. He hides the rest, and leaves so the strike team follows him. The reader does not learn what the rest is.
 
 ## POV
 
@@ -34,16 +34,11 @@ The lab under the workshop. Five dishes on the bench. Sora asleep behind the inn
 - He also knows he is using his child as the only place the rest of the finding can live.
 - He does the work and does not stop.
 - What he hides has no name on this page.
-- He tells her the body that is waking, because she will have to live in it and hide it.
-- Cool rest.
-- The scales.
-- The membranes.
-- The clicks.
-- The stronger legs.
-- Cool skin will pull heat off a warmer body.
-- It will not fix anyone.
-- Hide the nape.
-- Keep the blood off a company slide.
+- Her legs feel wrong.
+- He tells her the skin, the eyes, and the legs will change, and that she will run colder.
+- She will find out as she grows. That finding is not on the page.
+- No one else learns it.
+- He does not name the body.
 - The bench sentence, until she can say it cold.
 - Mercer will finish the education.
 - Mercer will not get the notes.
@@ -64,4 +59,4 @@ Aimed: 1,600 to 2,000
 
 ## Manuscript
 
-A manuscript exists. It has not been approved. This plot is the picture to approve against.
+The manuscript follows this plot. Both are approved. This chapter is locked.
